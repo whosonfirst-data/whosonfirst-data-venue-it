@@ -1,0 +1,66 @@
+{
+  "id": 219265573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.623539,45.083969,7.623539,45.083969",
+    "geom:latitude":45.083969,
+    "geom:longitude":7.623539,
+    "iso:country":"IT",
+    "sg:address":"Via Servais 128 10146 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 727547",
+    "sg:postcode":"10146",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "sliding",
+        "mean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859509,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cuPVmwwFFuN5X3eYPd6O4_45.083969_7.623539@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"692cb01fb32751caa03b0b19545bd924",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85859509,
+            "region_id":85685169,
+            "venue_id":219265573
+        }
+    ],
+    "wof:id":219265573,
+    "wof:lastmodified":1449071604,
+    "wof:name":"Rivi Sas",
+    "wof:parent_id":85859509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sliding",
+        "mean"
+    ]
+},
+  "bbox": [7.623539,45.083969,7.623539,45.083969],
+  "geometry": {"coordinates":[7.623539,45.083969],"type":"Point"}
+}

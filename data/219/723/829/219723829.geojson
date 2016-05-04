@@ -1,0 +1,66 @@
+{
+  "id": 219723829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.752004,45.15189,7.752004,45.15189",
+    "geom:latitude":45.15189,
+    "geom:longitude":7.752004,
+    "iso:country":"IT",
+    "sg:address":"23, Via Nenni Pietro 10036 Settimo Torinese",
+    "sg:city":"Settimo Torinese",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 897 7675",
+    "sg:postcode":"10036",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862785,
+        85633253,
+        101757689,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aBUxFvNoZU1SU6oMXp3K6_45.151890_7.752004@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"52ebbe5bb66c31acabee0e907e8a7b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757689,
+            "neighbourhood_id":85862785,
+            "region_id":85685169,
+            "venue_id":219723829
+        }
+    ],
+    "wof:id":219723829,
+    "wof:lastmodified":1449072451,
+    "wof:name":"Co.tra.de.",
+    "wof:parent_id":85862785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.752004,45.15189,7.752004,45.15189],
+  "geometry": {"coordinates":[7.752004,45.15189],"type":"Point"}
+}

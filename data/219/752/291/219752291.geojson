@@ -1,0 +1,66 @@
+{
+  "id": 219752291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.211479,45.521519,10.211479,45.521519",
+    "geom:latitude":45.521519,
+    "geom:longitude":10.211479,
+    "iso:country":"IT",
+    "sg:address":"142, V. Lamarmora 25124 Brescia",
+    "sg:city":"Brescia",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39030349261",
+    "sg:postcode":"25124",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CxYxIAG9YakKS76p1sVFc_45.521519_10.211479@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"12c4cabfa08b46640159f9ab40c037df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":219752291
+        }
+    ],
+    "wof:id":219752291,
+    "wof:lastmodified":1449070978,
+    "wof:name":"Gatti Filastro",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.211479,45.521519,10.211479,45.521519],
+  "geometry": {"coordinates":[10.211479,45.521519],"type":"Point"}
+}

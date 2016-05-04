@@ -1,0 +1,67 @@
+{
+  "id": 253347029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.164661,45.586349,9.164661,45.586349",
+    "geom:latitude":45.586349,
+    "geom:longitude":9.164661,
+    "iso:country":"IT",
+    "sg:address":"Via Carbonari 14 20030 Palazzolo Milanese",
+    "sg:city":"Palazzolo Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tunnel",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 918 6065",
+    "sg:postcode":"20030",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "wiring",
+        "system"
+    ],
+    "sg:website":"www.fioresrl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862607,
+        85633253,
+        101757769,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TY5UeyOYA4UaWTNugigX5_45.586349_9.164661@1306269828"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"184fd9294702bf6ca23cbe916b0e93ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757769,
+            "neighbourhood_id":85862607,
+            "region_id":85685243,
+            "venue_id":253347029
+        }
+    ],
+    "wof:id":253347029,
+    "wof:lastmodified":1449064251,
+    "wof:name":"Fiore Srl",
+    "wof:parent_id":85862607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wiring",
+        "system"
+    ]
+},
+  "bbox": [9.164661,45.586349,9.164661,45.586349],
+  "geometry": {"coordinates":[9.164661,45.586349],"type":"Point"}
+}

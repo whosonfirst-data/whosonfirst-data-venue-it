@@ -1,0 +1,67 @@
+{
+  "id": 219744011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.180569,43.764473,11.180569,43.764473",
+    "geom:latitude":43.764473,
+    "geom:longitude":11.180569,
+    "iso:country":"IT",
+    "sg:address":"371/a/b, V. Pisana 50018 Scandicci",
+    "sg:city":"Scandicci",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 735 7835",
+    "sg:postcode":"50018",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.coopfiorentinaservizi.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900321,
+        85633253,
+        101837131,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gC45WJi4AsUbVC2dgdxM8_43.764473_11.180569@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8aecb297db0af51dec311f000dc5a29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101837131,
+            "neighbourhood_id":85900321,
+            "region_id":85685407,
+            "venue_id":219744011
+        }
+    ],
+    "wof:id":219744011,
+    "wof:lastmodified":1449071665,
+    "wof:name":"Cooperativa Fiorentina Servizi Srl",
+    "wof:parent_id":85900321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.180569,43.764473,11.180569,43.764473],
+  "geometry": {"coordinates":[11.180569,43.764473],"type":"Point"}
+}

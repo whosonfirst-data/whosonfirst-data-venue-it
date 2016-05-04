@@ -1,0 +1,66 @@
+{
+  "id": 303231909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.716372,45.571873,9.716372,45.571873",
+    "geom:latitude":45.571873,
+    "geom:longitude":9.716372,
+    "iso:country":"IT",
+    "sg:address":"Via Silvio Pellico, 50/52 24055 Cologno Al Serio",
+    "sg:city":"Cologno al Serio",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 035 896323",
+    "sg:postcode":"24055",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "pot",
+        "cooking",
+        "enamelled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mAAJv8rvZkT6O5GPLyQ6b_45.571873_9.716372@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"eaf15949092552e8625c2d325b17bd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685249,
+            "venue_id":303231909
+        }
+    ],
+    "wof:id":303231909,
+    "wof:lastmodified":1448999369,
+    "wof:name":"Fastoval Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pot",
+        "cooking",
+        "enamelled"
+    ]
+},
+  "bbox": [9.716372,45.571873,9.716372,45.571873],
+  "geometry": {"coordinates":[9.716372,45.571873],"type":"Point"}
+}

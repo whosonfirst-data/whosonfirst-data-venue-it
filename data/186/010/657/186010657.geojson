@@ -1,0 +1,65 @@
+{
+  "id": 186010657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.540607,41.880863,12.540607,41.880863",
+    "geom:latitude":41.880863,
+    "geom:longitude":12.540607,
+    "iso:country":"IT",
+    "sg:address":"Via Casilina, 419/427; Roma",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 271 1941",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904931,
+        85633253,
+        101752607,
+        85685461,
+        85904935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rBUjrQL56Wogxo34zD5ns_41.880863_12.540607@1306269792"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"68b208a0f7fbebbcd17a7e1032db60a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904931,
+            "region_id":85685461,
+            "venue_id":186010657
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904935,
+            "region_id":85685461,
+            "venue_id":186010657
+        }
+    ],
+    "wof:id":186010657,
+    "wof:lastmodified":1449052036,
+    "wof:name":"Cassa Di Risparmio Di Roma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.540607,41.880863,12.540607,41.880863],
+  "geometry": {"coordinates":[12.540607,41.880863],"type":"Point"}
+}

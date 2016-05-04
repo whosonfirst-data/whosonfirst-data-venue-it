@@ -1,0 +1,74 @@
+{
+  "id": 336897381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.267803,45.41843,9.267803,45.41843",
+    "geom:latitude":45.41843,
+    "geom:longitude":9.267803,
+    "iso:country":"IT",
+    "sg:address":"20097 San Donato Milanese",
+    "sg:city":"San Donato Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 527 6373",
+    "sg:postcode":"20097",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862695,
+        85633253,
+        101757085,
+        85685243,
+        85862749,
+        101757801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5me73X4gTrl9hovSRgbjmy_45.418430_9.267803@1306269877"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"70d66f1bfe1f3d2aea6a5c979f26822a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757085,
+            "neighbourhood_id":85862695,
+            "region_id":85685243,
+            "venue_id":336897381
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757801,
+            "neighbourhood_id":85862749,
+            "region_id":85685243,
+            "venue_id":336897381
+        }
+    ],
+    "wof:id":336897381,
+    "wof:lastmodified":1448997859,
+    "wof:name":"Bellasio Giuseppe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [9.267803,45.41843,9.267803,45.41843],
+  "geometry": {"coordinates":[9.267803,45.41843],"type":"Point"}
+}

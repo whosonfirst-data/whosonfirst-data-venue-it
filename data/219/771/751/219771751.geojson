@@ -1,0 +1,66 @@
+{
+  "id": 219771751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.950967,44.404175,8.950967,44.404175",
+    "geom:latitude":44.404175,
+    "geom:longitude":8.950967,
+    "iso:country":"IT",
+    "sg:address":"3, Via Smirne 16129 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39010586058",
+    "sg:postcode":"16129",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752663,
+        85862649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xkhQQmv0p9wRpdX9f9CZN_44.404175_8.950967@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a529016204e100cebbe2761f82026dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752663,
+            "neighbourhood_id":85862649,
+            "region_id":-1,
+            "venue_id":219771751
+        }
+    ],
+    "wof:id":219771751,
+    "wof:lastmodified":1449072291,
+    "wof:name":"Silvestri Traslochi Srl",
+    "wof:parent_id":85862649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.950967,44.404175,8.950967,44.404175],
+  "geometry": {"coordinates":[8.950967,44.404175],"type":"Point"}
+}

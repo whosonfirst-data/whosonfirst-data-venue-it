@@ -1,0 +1,66 @@
+{
+  "id": 219745013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.312929,43.565918,10.312929,43.565918",
+    "geom:latitude":43.565918,
+    "geom:longitude":10.312929,
+    "iso:country":"IT",
+    "sg:address":"23, Via Delle Cateratte 57122 Livorno",
+    "sg:city":"Livorno",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0586 880269",
+    "sg:postcode":"57122",
+    "sg:province":"Livorno",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900469,
+        85633253,
+        101752619,
+        85685413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eSpWYJNXQL2AjDYKNW8z7_43.565918_10.312929@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5a398d90aed6ef0120857e8ad9fab8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752619,
+            "neighbourhood_id":85900469,
+            "region_id":85685413,
+            "venue_id":219745013
+        }
+    ],
+    "wof:id":219745013,
+    "wof:lastmodified":1449073754,
+    "wof:name":"Cora Trasporti Scrl",
+    "wof:parent_id":85900469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.312929,43.565918,10.312929,43.565918],
+  "geometry": {"coordinates":[10.312929,43.565918],"type":"Point"}
+}

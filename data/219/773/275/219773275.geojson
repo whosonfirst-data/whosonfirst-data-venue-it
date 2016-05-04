@@ -1,0 +1,67 @@
+{
+  "id": 219773275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.208381,45.486786,9.208381,45.486786",
+    "geom:latitude":45.486786,
+    "geom:longitude":9.208381,
+    "iso:country":"IT",
+    "sg:address":"6, V. Soperga20124 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39026693322",
+    "sg:postcode":"20124",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/stservice-02",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796873,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kMFU7NjoQubS7wko8dQLc_45.486786_9.208381@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d134b87f2c8e4fd1603f63936ca51fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796873,
+            "region_id":85685243,
+            "venue_id":219773275
+        }
+    ],
+    "wof:id":219773275,
+    "wof:lastmodified":1449070842,
+    "wof:name":"St Service Srl",
+    "wof:parent_id":85796873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.208381,45.486786,9.208381,45.486786],
+  "geometry": {"coordinates":[9.208381,45.486786],"type":"Point"}
+}

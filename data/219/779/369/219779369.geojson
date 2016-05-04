@@ -1,0 +1,66 @@
+{
+  "id": 219779369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.632071,45.066597,7.632071,45.066597",
+    "geom:latitude":45.066597,
+    "geom:longitude":7.632071,
+    "iso:country":"IT",
+    "sg:address":"87, Corso Monte Cucco 10141 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 385 0286",
+    "sg:postcode":"10141",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796995,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bIcONRSebKFEnQAe5NpN8_45.066597_7.632071@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e853a487447bce8dc235216610585c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85796995,
+            "region_id":85685169,
+            "venue_id":219779369
+        }
+    ],
+    "wof:id":219779369,
+    "wof:lastmodified":1449070933,
+    "wof:name":"Trucco",
+    "wof:parent_id":85796995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.632071,45.066597,7.632071,45.066597],
+  "geometry": {"coordinates":[7.632071,45.066597],"type":"Point"}
+}

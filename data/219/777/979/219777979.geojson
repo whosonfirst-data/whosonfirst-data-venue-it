@@ -1,0 +1,64 @@
+{
+  "id": 219777979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.550129,45.680279,12.550129,45.680279",
+    "geom:latitude":45.680279,
+    "geom:longitude":12.550129,
+    "iso:country":"IT",
+    "sg:address":"16, V. Noventa 30027 San Don\u00e0 Di Piave",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0421 331290",
+    "sg:postcode":"30027",
+    "sg:province":"Venezia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/transdanubio",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "102191581",
+        "85633253"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xxqukVmrPr2RzsoAxD1GH_45.680279_12.550129@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"68ff26c48f9c7e4c67c0d8239c0ed1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633253",
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1,
+            "venue_id":219777979
+        }
+    ],
+    "wof:id":219777979,
+    "wof:lastmodified":1449072239,
+    "wof:name":"Transdanubio Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.550129,45.680279,12.550129,45.680279],
+  "geometry": {"coordinates":[12.550129,45.680279],"type":"Point"}
+}

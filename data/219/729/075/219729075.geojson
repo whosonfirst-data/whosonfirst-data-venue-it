@@ -1,0 +1,66 @@
+{
+  "id": 219729075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.013331,45.403858,11.013331,45.403858",
+    "geom:latitude":45.403858,
+    "geom:longitude":11.013331,
+    "iso:country":"IT",
+    "sg:address":"43, Via Palazzina 37134 Verona",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39045509127",
+    "sg:postcode":"37134",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900309,
+        85633253,
+        101752711,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D3CfvhdIzLf6sKi0BARSQ_45.403858_11.013331@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f38ece6d9ee539ef74166ceb1fd4578a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752711,
+            "neighbourhood_id":85900309,
+            "region_id":85685281,
+            "venue_id":219729075
+        }
+    ],
+    "wof:id":219729075,
+    "wof:lastmodified":1449072161,
+    "wof:name":"Autotrasporti Ambrosi (s.n.c.)",
+    "wof:parent_id":85900309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.013331,45.403858,11.013331,45.403858],
+  "geometry": {"coordinates":[11.013331,45.403858],"type":"Point"}
+}

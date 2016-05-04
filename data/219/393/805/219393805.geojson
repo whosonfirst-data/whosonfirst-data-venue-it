@@ -1,0 +1,67 @@
+{
+  "id": 219393805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.197083,45.526993,10.197083,45.526993",
+    "geom:latitude":45.526993,
+    "geom:longitude":10.197083,
+    "iso:country":"IT",
+    "sg:address":"Via Orzinuovi 2 25125 Brescia",
+    "sg:city":"Brescia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 354 0545",
+    "sg:postcode":"25125",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "steel",
+        "pipe"
+    ],
+    "sg:website":"www.pietra-spa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53yNJOMHiFxOHa9cvuotLS_45.526993_10.197083@1306269807"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"92956bb5e314d77eb65486515a492d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":219393805
+        }
+    ],
+    "wof:id":219393805,
+    "wof:lastmodified":1449071502,
+    "wof:name":"Pietra Spa",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "pipe"
+    ]
+},
+  "bbox": [10.197083,45.526993,10.197083,45.526993],
+  "geometry": {"coordinates":[10.197083,45.526993],"type":"Point"}
+}

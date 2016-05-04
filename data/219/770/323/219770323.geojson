@@ -1,0 +1,66 @@
+{
+  "id": 219770323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.247641,45.398373,9.247641,45.398373",
+    "geom:latitude":45.398373,
+    "geom:longitude":9.247641,
+    "iso:country":"IT",
+    "sg:address":"9, Via Segrino 20098 San Giuliano Milanese",
+    "sg:city":"San Giuliano Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39029880860",
+    "sg:postcode":"20098",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862749,
+        85633253,
+        101757801,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bmVrWahEdIOBfYvVYHr4O_45.398373_9.247641@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"0763d08492c78d852b5d7fad4f318aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757801,
+            "neighbourhood_id":85862749,
+            "region_id":85685243,
+            "venue_id":219770323
+        }
+    ],
+    "wof:id":219770323,
+    "wof:lastmodified":1449073992,
+    "wof:name":"Safe Watcher (s.r.l.)",
+    "wof:parent_id":85862749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.247641,45.398373,9.247641,45.398373],
+  "geometry": {"coordinates":[9.247641,45.398373],"type":"Point"}
+}

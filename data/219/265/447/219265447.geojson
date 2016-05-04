@@ -1,0 +1,67 @@
+{
+  "id": 219265447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.034021,45.484627,9.034021,45.484627",
+    "geom:latitude":45.484627,
+    "geom:longitude":9.034021,
+    "iso:country":"IT",
+    "sg:address":"Via Edison 4 20010 Cornaredo",
+    "sg:city":"Cornaredo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 936 1171",
+    "sg:postcode":"20010",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "sliding",
+        "mean"
+    ],
+    "sg:website":"www.lubra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862769,
+        85633253,
+        101757101,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IOJWQTu1hBM6tyC35Cc6f_45.484627_9.034021@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4ea63adf6b0896c8a83312aa5b830d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757101,
+            "neighbourhood_id":85862769,
+            "region_id":85685243,
+            "venue_id":219265447
+        }
+    ],
+    "wof:id":219265447,
+    "wof:lastmodified":1449071604,
+    "wof:name":"Lubra Spa",
+    "wof:parent_id":85862769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sliding",
+        "mean"
+    ]
+},
+  "bbox": [9.034021,45.484627,9.034021,45.484627],
+  "geometry": {"coordinates":[9.034021,45.484627],"type":"Point"}
+}

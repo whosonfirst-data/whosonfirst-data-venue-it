@@ -1,0 +1,65 @@
+{
+  "id": 219765855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.44624,44.886284,10.44624,44.886284",
+    "geom:latitude":44.886284,
+    "geom:longitude":10.44624,
+    "iso:country":"IT",
+    "sg:address":"33, Str. Chiozzola - Sorbolo 43100 Parma",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0521 250942",
+    "sg:postcode":"43100",
+    "sg:province":"Parma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.peterlininerella.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78uzJP3dKbnzawev0m9wQl_44.886284_10.446240@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c6b300a51f22faaf80d22b32259c5c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685339,
+            "venue_id":219765855
+        }
+    ],
+    "wof:id":219765855,
+    "wof:lastmodified":1449072422,
+    "wof:name":"Peterlini Nerella & C Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.44624,44.886284,10.44624,44.886284],
+  "geometry": {"coordinates":[10.44624,44.886284],"type":"Point"}
+}

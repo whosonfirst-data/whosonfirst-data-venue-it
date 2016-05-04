@@ -1,0 +1,74 @@
+{
+  "id": 336902743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.937585,44.401665,8.937585,44.401665",
+    "geom:latitude":44.401665,
+    "geom:longitude":8.937585,
+    "iso:country":"IT",
+    "sg:address":"16128 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 570 2314",
+    "sg:postcode":"16128",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752663,
+        85862663,
+        85862649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x7SIRiq1bfQ7bgJKm4q9q_44.401665_8.937585@1306269877"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b61748dbecf9f1e12a7ff646e4d4b134",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752663,
+            "neighbourhood_id":85862663,
+            "region_id":-1,
+            "venue_id":336902743
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752663,
+            "neighbourhood_id":85862649,
+            "region_id":-1,
+            "venue_id":336902743
+        }
+    ],
+    "wof:id":336902743,
+    "wof:lastmodified":1448997734,
+    "wof:name":"Bozzo Luigi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [8.937585,44.401665,8.937585,44.401665],
+  "geometry": {"coordinates":[8.937585,44.401665],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186225119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.215706,45.452221,9.215706,45.452221",
+    "geom:latitude":45.452221,
+    "geom:longitude":9.215706,
+    "iso:country":"IT",
+    "sg:address":"Via Tito Livio 3 20137 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 551 1144",
+    "sg:postcode":"20137",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "barber's",
+        "equipment"
+    ],
+    "sg:website":"www.elchim.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862751,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CO2bSEzLs80CFzWRkAtz7_45.452221_9.215706@1306269794"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"daf3de65e54c357f131bca3c6e03d027",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862751,
+            "region_id":85685243,
+            "venue_id":186225119
+        }
+    ],
+    "wof:id":186225119,
+    "wof:lastmodified":1449051215,
+    "wof:name":"Elchim Spa",
+    "wof:parent_id":85862751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barber's",
+        "equipment"
+    ]
+},
+  "bbox": [9.215706,45.452221,9.215706,45.452221],
+  "geometry": {"coordinates":[9.215706,45.452221],"type":"Point"}
+}

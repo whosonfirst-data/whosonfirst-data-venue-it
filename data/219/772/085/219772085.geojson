@@ -1,0 +1,65 @@
+{
+  "id": 219772085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.890716,45.851109,11.890716,45.851109",
+    "geom:latitude":45.851109,
+    "geom:longitude":11.890716,
+    "iso:country":"IT",
+    "sg:address":"3, Via Strade Nuove 31054 Possagno",
+    "sg:city":"Possagno",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0423 544821",
+    "sg:postcode":"31054",
+    "sg:province":"Treviso",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101794299,
+        85685297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gksAdOjqfBZLIc54qN2gD_45.851109_11.890716@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ad6758e06d0e8d46e0f21ca5bea0ef9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101794299,
+            "neighbourhood_id":-1,
+            "region_id":85685297,
+            "venue_id":219772085
+        }
+    ],
+    "wof:id":219772085,
+    "wof:lastmodified":1449071980,
+    "wof:name":"Settentrionale Trasporti (s.p.a.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.890716,45.851109,11.890716,45.851109],
+  "geometry": {"coordinates":[11.890716,45.851109],"type":"Point"}
+}

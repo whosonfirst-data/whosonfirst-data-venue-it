@@ -1,0 +1,66 @@
+{
+  "id": 219765541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.903655,44.408272,8.903655,44.408272",
+    "geom:latitude":44.408272,
+    "geom:longitude":8.903655,
+    "iso:country":"IT",
+    "sg:address":"60, Via Balleydier 16149 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 646 9720",
+    "sg:postcode":"16149",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796987,
+        85633253,
+        101752663,
+        85685219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uyc9ZyLrttSon0gHDLz0e_44.408272_8.903655@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"11bec2eb65dda293a94c619125f95b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752663,
+            "neighbourhood_id":85796987,
+            "region_id":85685219,
+            "venue_id":219765541
+        }
+    ],
+    "wof:id":219765541,
+    "wof:lastmodified":1449072420,
+    "wof:name":"Pittaluga Servizio Containers Srl",
+    "wof:parent_id":85796987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.903655,44.408272,8.903655,44.408272],
+  "geometry": {"coordinates":[8.903655,44.408272],"type":"Point"}
+}

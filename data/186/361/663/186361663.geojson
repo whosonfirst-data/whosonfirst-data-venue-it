@@ -1,0 +1,64 @@
+{
+  "id": 186361663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.235304,44.501167,11.235304,44.501167",
+    "geom:latitude":44.501167,
+    "geom:longitude":11.235304,
+    "iso:country":"IT",
+    "sg:address":"Via Grazzia 2 40069 Zola Predosa",
+    "sg:city":"Zola",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 616 8711",
+    "sg:postcode":"40069",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "fork"
+    ],
+    "sg:website":"www.marzocchi.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900307,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p89KAXew8wJqWkmmYjw6U_44.501167_11.235304@1306269795"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1ba158204e45ffb9dc88eb1a103a1116",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900307,
+            "region_id":85685351,
+            "venue_id":186361663
+        }
+    ],
+    "wof:id":186361663,
+    "wof:lastmodified":1449052313,
+    "wof:name":"Marzocchi Spa",
+    "wof:parent_id":85900307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fork"
+    ]
+},
+  "bbox": [11.235304,44.501167,11.235304,44.501167],
+  "geometry": {"coordinates":[11.235304,44.501167],"type":"Point"}
+}

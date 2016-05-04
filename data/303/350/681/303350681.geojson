@@ -1,0 +1,65 @@
+{
+  "id": 303350681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.826146,44.629047,11.826146,44.629047",
+    "geom:latitude":44.629047,
+    "geom:longitude":11.826146,
+    "iso:country":"IT",
+    "sg:address":"Via Nicolo' Copernico 14a 44011 Argenta",
+    "sg:city":"Argenta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0532 800081",
+    "sg:postcode":"44011",
+    "sg:province":"Ferrara",
+    "sg:tags":[
+        "supplies",
+        "husbandry"
+    ],
+    "sg:website":"www.cofrimar.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FDqxz83TsIcxCVRVCDusz_44.629047_11.826146@1306269858"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f3a6093d74caaba96cb460038ba07db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685359,
+            "venue_id":303350681
+        }
+    ],
+    "wof:id":303350681,
+    "wof:lastmodified":1448999367,
+    "wof:name":"Cofrimar Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplies",
+        "husbandry"
+    ]
+},
+  "bbox": [11.826146,44.629047,11.826146,44.629047],
+  "geometry": {"coordinates":[11.826146,44.629047],"type":"Point"}
+}

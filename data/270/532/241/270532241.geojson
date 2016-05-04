@@ -1,0 +1,66 @@
+{
+  "id": 270532241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.258629,45.399555,9.258629,45.399555",
+    "geom:latitude":45.399555,
+    "geom:longitude":9.258629,
+    "iso:country":"IT",
+    "sg:address":"7, Via Monferrato 20098 San Giuliano Milanese",
+    "sg:city":"San Giuliano Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9828 1074",
+    "sg:postcode":"20098",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862749,
+        85633253,
+        101757801,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TTftuThCeAONQxsbqBs6Q_45.399555_9.258629@1306269843"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"687890b373327e2ea73e21bdf766834a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757801,
+            "neighbourhood_id":85862749,
+            "region_id":85685243,
+            "venue_id":270532241
+        }
+    ],
+    "wof:id":270532241,
+    "wof:lastmodified":1449009452,
+    "wof:name":"Pharmatex (s.r.l.)",
+    "wof:parent_id":85862749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [9.258629,45.399555,9.258629,45.399555],
+  "geometry": {"coordinates":[9.258629,45.399555],"type":"Point"}
+}

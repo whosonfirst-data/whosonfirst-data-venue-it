@@ -1,0 +1,65 @@
+{
+  "id": 236168221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.209664,45.533615,10.209664,45.533615",
+    "geom:latitude":45.533615,
+    "geom:longitude":10.209664,
+    "iso:country":"IT",
+    "sg:address":"Registered Office: 12, V. Corsica 25125 Brescia",
+    "sg:city":"Brescia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39030297211",
+    "sg:postcode":"25125",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "drink"
+    ],
+    "sg:website":"http://www.ruffino.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zl6dC2qomedBb0NX2FCpF_45.533615_10.209664@1306269816"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6d8bd9f604c5a54bd70e0acc45cb058d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":236168221
+        }
+    ],
+    "wof:id":236168221,
+    "wof:lastmodified":1449003360,
+    "wof:name":"Ruffino Spa",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink"
+    ]
+},
+  "bbox": [10.209664,45.533615,10.209664,45.533615],
+  "geometry": {"coordinates":[10.209664,45.533615],"type":"Point"}
+}

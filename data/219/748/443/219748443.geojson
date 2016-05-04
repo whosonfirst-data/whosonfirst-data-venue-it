@@ -1,0 +1,66 @@
+{
+  "id": 219748443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.998394,45.771301,12.998394,45.771301",
+    "geom:latitude":45.771301,
+    "geom:longitude":12.998394,
+    "iso:country":"IT",
+    "sg:address":"11, V. Sabbionera 33053 Latisana",
+    "sg:city":"Latisana",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0431 520749",
+    "sg:postcode":"33053",
+    "sg:province":"Udine",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.onoranzeduomo.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101836049,
+        85685305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28e2DmnDKdz9TMslZ4R8IR_45.771301_12.998394@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ea0b1d1e7a0c87145a0feab1e1231951",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101836049,
+            "neighbourhood_id":-1,
+            "region_id":85685305,
+            "venue_id":219748443
+        }
+    ],
+    "wof:id":219748443,
+    "wof:lastmodified":1449073048,
+    "wof:name":"Duomo Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.998394,45.771301,12.998394,45.771301],
+  "geometry": {"coordinates":[12.998394,45.771301],"type":"Point"}
+}

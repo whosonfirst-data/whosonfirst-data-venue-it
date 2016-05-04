@@ -1,0 +1,73 @@
+{
+  "id": 287255041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.346481,44.494221,11.346481,44.494221",
+    "geom:latitude":44.494221,
+    "geom:longitude":11.346481,
+    "iso:country":"IT",
+    "sg:address":"Via Provinciale Per Bologna, 28/30 40066 Pieve Di Cento",
+    "sg:city":"Pieve di Cento",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 975364",
+    "sg:postcode":"40066",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "pressure",
+        "sensors",
+        "force",
+        "electric",
+        "gauge"
+    ],
+    "sg:website":"www.borghisaveri.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900451,
+        85633253,
+        101752665,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EPfPIcJzzQIG1BJpNMdao_44.494221_11.346481@1306269854"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5e55927d9edee236be03b473cc2a4816",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752665,
+            "neighbourhood_id":85900451,
+            "region_id":85685351,
+            "venue_id":287255041
+        }
+    ],
+    "wof:id":287255041,
+    "wof:lastmodified":1449001058,
+    "wof:name":"Borghi & Saveri Srl",
+    "wof:parent_id":85900451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pressure",
+        "sensors",
+        "force",
+        "electric",
+        "gauge"
+    ]
+},
+  "bbox": [11.346481,44.494221,11.346481,44.494221],
+  "geometry": {"coordinates":[11.346481,44.494221],"type":"Point"}
+}

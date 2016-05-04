@@ -1,0 +1,65 @@
+{
+  "id": 303322819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.251636,40.840096,14.251636,40.840096",
+    "geom:latitude":40.840096,
+    "geom:longitude":14.251636,
+    "iso:country":"IT",
+    "sg:address":"Via Aldo Moro, 18 Traversa Prima 80045 Pompei",
+    "sg:city":"Pompei",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 850 5011",
+    "sg:postcode":"80045",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "monitoring",
+        "ambient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904835,
+        85633253,
+        85685519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_600f13eR9kF50ChIHjRsxb_40.840096_14.251636@1306269858"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"18ca6523a13b95e6e12f5d95255b9f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904835,
+            "region_id":85685519,
+            "venue_id":303322819
+        }
+    ],
+    "wof:id":303322819,
+    "wof:lastmodified":1448998090,
+    "wof:name":"Primeco Srl",
+    "wof:parent_id":85904835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monitoring",
+        "ambient"
+    ]
+},
+  "bbox": [14.251636,40.840096,14.251636,40.840096],
+  "geometry": {"coordinates":[14.251636,40.840096],"type":"Point"}
+}

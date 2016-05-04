@@ -1,0 +1,71 @@
+{
+  "id": 236737225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.374051,44.514774,11.374051,44.514774",
+    "geom:latitude":44.514774,
+    "geom:longitude":11.374051,
+    "iso:country":"IT",
+    "sg:address":"Via Michelino 77 40127 Bologna",
+    "sg:city":"Bologna",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 511216",
+    "sg:postcode":"40127",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "burner",
+        "central",
+        "system",
+        "heating"
+    ],
+    "sg:website":"www.bernini-impianti.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904571,
+        85633253,
+        101752665,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nVcvPeoS5XEnctg8iZyEd_44.514774_11.374051@1306269821"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"57e098e3c5ee71e95a7509c1b046a479",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752665,
+            "neighbourhood_id":85904571,
+            "region_id":85685351,
+            "venue_id":236737225
+        }
+    ],
+    "wof:id":236737225,
+    "wof:lastmodified":1449002230,
+    "wof:name":"Bernini Impianti Srl",
+    "wof:parent_id":85904571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burner",
+        "central",
+        "system",
+        "heating"
+    ]
+},
+  "bbox": [11.374051,44.514774,11.374051,44.514774],
+  "geometry": {"coordinates":[11.374051,44.514774],"type":"Point"}
+}

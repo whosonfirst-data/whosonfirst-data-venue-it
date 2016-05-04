@@ -1,0 +1,76 @@
+{
+  "id": 202493881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.937826,44.401917,8.937826,44.401917",
+    "geom:latitude":44.401917,
+    "geom:longitude":8.937826,
+    "iso:country":"IT",
+    "sg:address":"3, Via Corsica 16128 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 553 5166",
+    "sg:postcode":"16128",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752663,
+        85862663,
+        85862649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Iy0SuBFPBI39EAC1Gmdvg_44.401917_8.937826@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5e800853d0806240789eeb65211792b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752663,
+            "neighbourhood_id":85862663,
+            "region_id":-1,
+            "venue_id":202493881
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752663,
+            "neighbourhood_id":85862649,
+            "region_id":-1,
+            "venue_id":202493881
+        }
+    ],
+    "wof:id":202493881,
+    "wof:lastmodified":1449060913,
+    "wof:name":"Consulmar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [8.937826,44.401917,8.937826,44.401917],
+  "geometry": {"coordinates":[8.937826,44.401917],"type":"Point"}
+}

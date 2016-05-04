@@ -1,0 +1,67 @@
+{
+  "id": 320616817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.975141,45.40976,10.975141,45.40976",
+    "geom:latitude":45.40976,
+    "geom:longitude":10.975141,
+    "iso:country":"IT",
+    "sg:address":"Via Francia 4 37135 Verona",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 829 0600",
+    "sg:postcode":"37135",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "machining",
+        "marble"
+    ],
+    "sg:website":"www.quarellaspa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900309,
+        85633253,
+        101752711,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BIPKJ1Us6jt0IGvJTgClu_45.409760_10.975141@1306269871"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"32b14db6a0377ace34b4176bd11c4b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752711,
+            "neighbourhood_id":85900309,
+            "region_id":85685281,
+            "venue_id":320616817
+        }
+    ],
+    "wof:id":320616817,
+    "wof:lastmodified":1449014001,
+    "wof:name":"Quarella Spa",
+    "wof:parent_id":85900309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machining",
+        "marble"
+    ]
+},
+  "bbox": [10.975141,45.40976,10.975141,45.40976],
+  "geometry": {"coordinates":[10.975141,45.40976],"type":"Point"}
+}

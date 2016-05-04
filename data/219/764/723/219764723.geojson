@@ -1,0 +1,65 @@
+{
+  "id": 219764723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.904123,44.456394,8.904123,44.456394",
+    "geom:latitude":44.456394,
+    "geom:longitude":8.904123,
+    "iso:country":"IT",
+    "sg:address":"40, Via Bolzaneto 16162 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 745 3527",
+    "sg:postcode":"16162",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862603,
+        85633253,
+        85685219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10VrXAOa7hFBciae9jmVQD_44.456394_8.904123@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"593c93107047907bd715f5db96481215",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862603,
+            "region_id":85685219,
+            "venue_id":219764723
+        }
+    ],
+    "wof:id":219764723,
+    "wof:lastmodified":1449073747,
+    "wof:name":"Pastorino Angelo Autotrasporti (s.r.l.)",
+    "wof:parent_id":85862603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.904123,44.456394,8.904123,44.456394],
+  "geometry": {"coordinates":[8.904123,44.456394],"type":"Point"}
+}

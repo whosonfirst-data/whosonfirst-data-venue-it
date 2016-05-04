@@ -1,0 +1,67 @@
+{
+  "id": 202506245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.229879,45.486393,9.229879,45.486393",
+    "geom:latitude":45.486393,
+    "geom:longitude":9.229879,
+    "iso:country":"IT",
+    "sg:address":"Via Teodosio 57 20131 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 282 7830",
+    "sg:postcode":"20131",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "semi-finished",
+        "product"
+    ],
+    "sg:website":"www.lapolitecnica.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862713,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13GpkdeAXZkbYgnpoMqDbA_45.486393_9.229879@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f56a96b7241c13326ae397ee9c1f58e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862713,
+            "region_id":85685243,
+            "venue_id":202506245
+        }
+    ],
+    "wof:id":202506245,
+    "wof:lastmodified":1449060162,
+    "wof:name":"La Politecnica Srl",
+    "wof:parent_id":85862713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semi-finished",
+        "product"
+    ]
+},
+  "bbox": [9.229879,45.486393,9.229879,45.486393],
+  "geometry": {"coordinates":[9.229879,45.486393],"type":"Point"}
+}

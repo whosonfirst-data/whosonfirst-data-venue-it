@@ -1,0 +1,67 @@
+{
+  "id": 303320827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.151337,45.475861,9.151337,45.475861",
+    "geom:latitude":45.475861,
+    "geom:longitude":9.151337,
+    "iso:country":"IT",
+    "sg:address":"Viale Berengario 15 20149 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 4398 3136",
+    "sg:postcode":"20149",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "eye",
+        "cosmetic"
+    ],
+    "sg:website":"www.saledo.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YkopsIQuY8XwGU0Pxw6zp_45.475861_9.151337@1306269858"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8b180e02e7fdb38f69c80f956d6a277d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":303320827
+        }
+    ],
+    "wof:id":303320827,
+    "wof:lastmodified":1448998731,
+    "wof:name":"Saledo Srl",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eye",
+        "cosmetic"
+    ]
+},
+  "bbox": [9.151337,45.475861,9.151337,45.475861],
+  "geometry": {"coordinates":[9.151337,45.475861],"type":"Point"}
+}

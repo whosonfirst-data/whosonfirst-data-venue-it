@@ -1,0 +1,67 @@
+{
+  "id": 303350651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.206782,45.484249,9.206782,45.484249",
+    "geom:latitude":45.484249,
+    "geom:longitude":9.206782,
+    "iso:country":"IT",
+    "sg:address":"Via Scarlatti Domenico 30 20124 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 667081",
+    "sg:postcode":"20124",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "nutrition",
+        "husbandry"
+    ],
+    "sg:website":"www.sivam-agrozoo.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796873,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oupt9teA7jz4Rb5RMdS4E_45.484249_9.206782@1306269858"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"33ef15489213bddd41e7e24c8bedb230",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796873,
+            "region_id":85685243,
+            "venue_id":303350651
+        }
+    ],
+    "wof:id":303350651,
+    "wof:lastmodified":1448999366,
+    "wof:name":"Sivam Spa",
+    "wof:parent_id":85796873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutrition",
+        "husbandry"
+    ]
+},
+  "bbox": [9.206782,45.484249,9.206782,45.484249],
+  "geometry": {"coordinates":[9.206782,45.484249],"type":"Point"}
+}

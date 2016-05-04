@@ -1,0 +1,66 @@
+{
+  "id": 219764099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.440487,41.831459,12.440487,41.831459",
+    "geom:latitude":41.831459,
+    "geom:longitude":12.440487,
+    "iso:country":"IT",
+    "sg:address":"67, Via Delle Idrovore Della Magliana 00148 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39066539237",
+    "sg:postcode":"00148",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904917,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DLWGaIaEJUQAgNvgt9RSV_41.831459_12.440487@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7ae9658519f498039d163cb0cfeae0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904917,
+            "region_id":85685461,
+            "venue_id":219764099
+        }
+    ],
+    "wof:id":219764099,
+    "wof:lastmodified":1449073748,
+    "wof:name":"Panda Trasporti (s.r.l.)",
+    "wof:parent_id":85904917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.440487,41.831459,12.440487,41.831459],
+  "geometry": {"coordinates":[12.440487,41.831459],"type":"Point"}
+}

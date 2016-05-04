@@ -1,0 +1,66 @@
+{
+  "id": 219747497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.255304,40.85033,14.255304,40.85033",
+    "geom:latitude":40.85033,
+    "geom:longitude":14.255304,
+    "iso:country":"IT",
+    "sg:address":"32, Piazza Tribunali 80139 Napoli",
+    "sg:city":"Napoli",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39081450656",
+    "sg:postcode":"80139",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904789,
+        85633253,
+        101752555,
+        85685487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SIWXJt1IbVk51RJoxoiqM_40.850330_14.255304@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"eac921000fd699f37ac0e4dfe5a34aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752555,
+            "neighbourhood_id":85904789,
+            "region_id":85685487,
+            "venue_id":219747497
+        }
+    ],
+    "wof:id":219747497,
+    "wof:lastmodified":1449071038,
+    "wof:name":"Dominech",
+    "wof:parent_id":85904789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [14.255304,40.85033,14.255304,40.85033],
+  "geometry": {"coordinates":[14.255304,40.85033],"type":"Point"}
+}

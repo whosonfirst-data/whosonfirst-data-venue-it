@@ -1,0 +1,66 @@
+{
+  "id": 269921487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.361376,38.11562,13.361376,38.11562",
+    "geom:latitude":38.11562,
+    "geom:longitude":13.361376,
+    "iso:country":"IT",
+    "sg:address":"2, Via Ingrao Giovanni Tenente 90138 Palermo",
+    "sg:city":"Palermo",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 091 609 3914",
+    "sg:postcode":"90138",
+    "sg:province":"Palermo",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904859,
+        85633253,
+        101752517,
+        85685591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58w0ydrsUaY4PqIVLUQI9g_38.115620_13.361376@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"82b6a06d286d3d81be188ff0e4d14419",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752517,
+            "neighbourhood_id":85904859,
+            "region_id":85685591,
+            "venue_id":269921487
+        }
+    ],
+    "wof:id":269921487,
+    "wof:lastmodified":1449037664,
+    "wof:name":"Panair Compagnia Aerea Mediterranea Srl",
+    "wof:parent_id":85904859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [13.361376,38.11562,13.361376,38.11562],
+  "geometry": {"coordinates":[13.361376,38.11562],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 219777675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.176371,45.445652,9.176371,45.445652",
+    "geom:latitude":45.445652,
+    "geom:longitude":9.176371,
+    "iso:country":"IT",
+    "sg:address":"52, Alzaia Naviglio Pavese 20143 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 5810 7427",
+    "sg:postcode":"20143",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862721,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HLSp2BnnVaSlMFTl0FVGU_45.445652_9.176371@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"73284f6933bea949827a55f1723b8719",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862721,
+            "region_id":85685243,
+            "venue_id":219777675
+        }
+    ],
+    "wof:id":219777675,
+    "wof:lastmodified":1449072238,
+    "wof:name":"Traslochi La Rondinella Snc Di Annunziato Giovanni",
+    "wof:parent_id":85862721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.176371,45.445652,9.176371,45.445652],
+  "geometry": {"coordinates":[9.176371,45.445652],"type":"Point"}
+}

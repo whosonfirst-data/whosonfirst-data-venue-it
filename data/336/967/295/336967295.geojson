@@ -1,0 +1,73 @@
+{
+  "id": 336967295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.189922,45.463184,9.189922,45.463184",
+    "geom:latitude":45.463184,
+    "geom:longitude":9.189922,
+    "iso:country":"IT",
+    "sg:address":"20129 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 744702",
+    "sg:postcode":"20129",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243,
+        85796803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RYFUbpP0eoBHBBKivt0on_45.463184_9.189922@1306269878"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"89c8ed1a3308f964ece8009cff68675b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":336967295
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":336967295
+        }
+    ],
+    "wof:id":336967295,
+    "wof:lastmodified":1448997938,
+    "wof:name":"Moncalvi Silvio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [9.189922,45.463184,9.189922,45.463184],
+  "geometry": {"coordinates":[9.189922,45.463184],"type":"Point"}
+}

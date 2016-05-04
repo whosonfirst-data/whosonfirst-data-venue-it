@@ -1,0 +1,67 @@
+{
+  "id": 169807951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"15.220314,37.231789,15.220314,37.231789",
+    "geom:latitude":37.231789,
+    "geom:longitude":15.220314,
+    "iso:country":"IT",
+    "sg:address":"18, Via Principe Umberto 96011 Augusta",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0931 522087",
+    "sg:postcode":"96011",
+    "sg:province":"Siracusa",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633253,
+        101805331,
+        85900493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sskw6pDDmmKK5xo71lfo4_37.231789_15.220314@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"0485767d3085b0fef96249174b3427fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101805331,
+            "neighbourhood_id":85900493,
+            "region_id":-1,
+            "venue_id":169807951
+        }
+    ],
+    "wof:id":169807951,
+    "wof:lastmodified":1449033536,
+    "wof:name":"Banca Popolare Di Augusta",
+    "wof:parent_id":85900493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [15.220314,37.231789,15.220314,37.231789],
+  "geometry": {"coordinates":[15.220314,37.231789],"type":"Point"}
+}

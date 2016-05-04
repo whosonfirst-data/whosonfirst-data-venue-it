@@ -1,0 +1,66 @@
+{
+  "id": 186422163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.663711,45.103405,7.663711,45.103405",
+    "geom:latitude":45.103405,
+    "geom:longitude":7.663711,
+    "iso:country":"IT",
+    "sg:address":"Via Lucento 134/d 10147 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 216 0539",
+    "sg:postcode":"10147",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "equipment",
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862797,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VKc0kXRm1JhMqpFTq00E0_45.103405_7.663711@1306269796"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7d0381ccefbe6592e314bc76f56c68f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85862797,
+            "region_id":85685169,
+            "venue_id":186422163
+        }
+    ],
+    "wof:id":186422163,
+    "wof:lastmodified":1449050447,
+    "wof:name":"Expotherm S.a.s. Di Rolle Riccardo",
+    "wof:parent_id":85862797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "boiler"
+    ]
+},
+  "bbox": [7.663711,45.103405,7.663711,45.103405],
+  "geometry": {"coordinates":[7.663711,45.103405],"type":"Point"}
+}

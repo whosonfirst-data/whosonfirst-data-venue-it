@@ -1,0 +1,66 @@
+{
+  "id": 186591523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.64216,44.975452,7.64216,44.975452",
+    "geom:latitude":44.975452,
+    "geom:longitude":7.64216,
+    "iso:country":"IT",
+    "sg:address":"Via Goito 50 10042 Nichelino",
+    "sg:city":"Nichelino",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Coast Guard Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 627 5106",
+    "sg:postcode":"10042",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "lock",
+        "safety"
+    ],
+    "sg:website":"www.auno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797007,
+        85633253,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H3Bqx2OV186GNrCPeMOPi_44.975452_7.642160@1306269797"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d7a271aeca25a5daac395d080545ea44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85797007,
+            "region_id":85685169,
+            "venue_id":186591523
+        }
+    ],
+    "wof:id":186591523,
+    "wof:lastmodified":1449051809,
+    "wof:name":"Auno Security Srl",
+    "wof:parent_id":85797007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "safety"
+    ]
+},
+  "bbox": [7.64216,44.975452,7.64216,44.975452],
+  "geometry": {"coordinates":[7.64216,44.975452],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 219769729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.590832,41.800388,12.590832,41.800388",
+    "geom:latitude":41.800388,
+    "geom:longitude":12.590832,
+    "iso:country":"IT",
+    "sg:address":"Km. 17.830, Via Appia Nuova 00043 Ciampino",
+    "sg:city":"Ciampino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 7934 0404",
+    "sg:postcode":"00043",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WZS9LbVsq2eb59sfVirPd_41.800388_12.590832@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"763410a6763e03814f0e0b3e531ddb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":-1,
+            "region_id":85685461,
+            "venue_id":219769729
+        }
+    ],
+    "wof:id":219769729,
+    "wof:lastmodified":1449071567,
+    "wof:name":"S.a.c.a.p. (s.r.l.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.590832,41.800388,12.590832,41.800388],
+  "geometry": {"coordinates":[12.590832,41.800388],"type":"Point"}
+}

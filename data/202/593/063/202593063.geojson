@@ -1,0 +1,64 @@
+{
+  "id": 202593063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.57191,41.907539,12.57191,41.907539",
+    "geom:latitude":41.907539,
+    "geom:longitude":12.57191,
+    "iso:country":"IT",
+    "sg:address":"Via Di Tor Sapienza 138 00155 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 227421",
+    "sg:postcode":"00155",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "pharmacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900495,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66nGBALIHfIwZPfVali6Tq_41.907539_12.571910@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8621fcb72c251706bca672ebbfcfd6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900495,
+            "region_id":85685461,
+            "venue_id":202593063
+        }
+    ],
+    "wof:id":202593063,
+    "wof:lastmodified":1449061767,
+    "wof:name":"Polifarma Spa",
+    "wof:parent_id":85900495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmacy"
+    ]
+},
+  "bbox": [12.57191,41.907539,12.57191,41.907539],
+  "geometry": {"coordinates":[12.57191,41.907539],"type":"Point"}
+}

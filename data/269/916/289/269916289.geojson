@@ -1,0 +1,66 @@
+{
+  "id": 269916289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.197203,45.465675,9.197203,45.465675",
+    "geom:latitude":45.465675,
+    "geom:longitude":9.197203,
+    "iso:country":"IT",
+    "sg:address":"2, Galleria Passarella 20122 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 7600 0080",
+    "sg:postcode":"20122",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3leRDqcC20VqkalqAMyXQO_45.465675_9.197203@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"416d9065e095375626d4f3b89a7a7ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":269916289
+        }
+    ],
+    "wof:id":269916289,
+    "wof:lastmodified":1449037453,
+    "wof:name":"Aer Lingus Teoranta Linee Aeree Irlandesi (s.p.a.)",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [9.197203,45.465675,9.197203,45.465675],
+  "geometry": {"coordinates":[9.197203,45.465675],"type":"Point"}
+}

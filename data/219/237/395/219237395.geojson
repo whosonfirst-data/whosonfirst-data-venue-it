@@ -1,0 +1,71 @@
+{
+  "id": 219237395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.059875,45.419373,9.059875,45.419373",
+    "geom:latitude":45.419373,
+    "geom:longitude":9.059875,
+    "iso:country":"IT",
+    "sg:address":"Via Edison 45 20090 Trezzano Sul Naviglio",
+    "sg:city":"Trezzano sul Naviglio",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 4840 1625",
+    "sg:postcode":"20090",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "box",
+        "corrugated",
+        "cardboard",
+        "shipping"
+    ],
+    "sg:website":"www.botta.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796849,
+        85633253,
+        101757823,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B58fmy2lbtDy6Is7W2yLC_45.419373_9.059875@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"aa529194a6a60fa3790a9234914213fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757823,
+            "neighbourhood_id":85796849,
+            "region_id":85685243,
+            "venue_id":219237395
+        }
+    ],
+    "wof:id":219237395,
+    "wof:lastmodified":1449070456,
+    "wof:name":"Botta Spa",
+    "wof:parent_id":85796849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box",
+        "corrugated",
+        "cardboard",
+        "shipping"
+    ]
+},
+  "bbox": [9.059875,45.419373,9.059875,45.419373],
+  "geometry": {"coordinates":[9.059875,45.419373],"type":"Point"}
+}

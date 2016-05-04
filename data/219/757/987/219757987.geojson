@@ -1,0 +1,66 @@
+{
+  "id": 219757987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.350626,38.116776,13.350626,38.116776",
+    "geom:latitude":38.116776,
+    "geom:longitude":13.350626,
+    "iso:country":"IT",
+    "sg:address":"154, Corso Alberto Amedeo 90138 Palermo",
+    "sg:city":"Palermo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39091324412",
+    "sg:postcode":"90138",
+    "sg:province":"Palermo",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904875,
+        85633253,
+        101752517,
+        85685591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u6vIBD5DDYEdpcv8gyCmT_38.116776_13.350626@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"3f47f77fa0a287aebae0e7b9db6c64da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752517,
+            "neighbourhood_id":85904875,
+            "region_id":85685591,
+            "venue_id":219757987
+        }
+    ],
+    "wof:id":219757987,
+    "wof:lastmodified":1449072366,
+    "wof:name":"Lo Pital",
+    "wof:parent_id":85904875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.350626,38.116776,13.350626,38.116776],
+  "geometry": {"coordinates":[13.350626,38.116776],"type":"Point"}
+}

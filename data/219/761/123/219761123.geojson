@@ -1,0 +1,65 @@
+{
+  "id": 219761123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.108653,45.420353,11.108653,45.420353",
+    "geom:latitude":45.420353,
+    "geom:longitude":11.108653,
+    "iso:country":"IT",
+    "sg:address":"20, Via Meucci Antonio 37036 San Martino Buon Albergo",
+    "sg:city":"San Martino Buon Albergo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 878 0310",
+    "sg:postcode":"37036",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101837347,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_378AcBGKclYwXenA6rJUBg_45.420353_11.108653@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e3c85e48c72e808af1edc008cf4c9c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101837347,
+            "neighbourhood_id":-1,
+            "region_id":85685281,
+            "venue_id":219761123
+        }
+    ],
+    "wof:id":219761123,
+    "wof:lastmodified":1449073091,
+    "wof:name":"Mt (s.r.l.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.108653,45.420353,11.108653,45.420353],
+  "geometry": {"coordinates":[11.108653,45.420353],"type":"Point"}
+}

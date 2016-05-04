@@ -1,0 +1,67 @@
+{
+  "id": 253102343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.229563,45.384449,10.229563,45.384449",
+    "geom:latitude":45.384449,
+    "geom:longitude":10.229563,
+    "iso:country":"IT",
+    "sg:address":"Via Tito Speri 10 25024 Leno",
+    "sg:city":"Leno",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 90451",
+    "sg:postcode":"25024",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "vehicle",
+        "truck",
+        "accessory"
+    ],
+    "sg:website":"www.cobospa.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70u4k4BGF0iMoeDMh2z5vr_45.384449_10.229563@1306269826"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"cc631f7188ad64a13f5be73b36467142",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685253,
+            "venue_id":253102343
+        }
+    ],
+    "wof:id":253102343,
+    "wof:lastmodified":1449065571,
+    "wof:name":"Cobo Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vehicle",
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [10.229563,45.384449,10.229563,45.384449],
+  "geometry": {"coordinates":[10.229563,45.384449],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 185627481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.222362,40.85146,14.222362,40.85146",
+    "geom:latitude":40.85146,
+    "geom:longitude":14.222362,
+    "iso:country":"IT",
+    "sg:address":"Via Simone Martini, 58/a; Napoli; 80100",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 242389",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904745,
+        85633253,
+        101752555,
+        85685487,
+        85904747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51QlnicMSEz3WrT9MgwiN2_40.851460_14.222362@1306269790"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"973cdb1e34afeba2922cd5657806a707",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752555,
+            "neighbourhood_id":85904745,
+            "region_id":85685487,
+            "venue_id":185627481
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752555,
+            "neighbourhood_id":85904747,
+            "region_id":85685487,
+            "venue_id":185627481
+        }
+    ],
+    "wof:id":185627481,
+    "wof:lastmodified":1449008254,
+    "wof:name":"Banca Della Provincia Di Napoli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [14.222362,40.85146,14.222362,40.85146],
+  "geometry": {"coordinates":[14.222362,40.85146],"type":"Point"}
+}

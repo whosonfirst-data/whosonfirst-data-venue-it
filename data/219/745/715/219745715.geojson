@@ -1,0 +1,66 @@
+{
+  "id": 219745715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.540345,41.939045,12.540345,41.939045",
+    "geom:latitude":41.939045,
+    "geom:longitude":12.540345,
+    "iso:country":"IT",
+    "sg:address":"14, Via Pizzo Bernina 00141 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39068292636",
+    "sg:postcode":"00141",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904923,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YymhDjz4mAqpIuRgHfoaW_41.939045_12.540345@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a092504c07d7d2967b117f87920c2098",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904923,
+            "region_id":85685461,
+            "venue_id":219745715
+        }
+    ],
+    "wof:id":219745715,
+    "wof:lastmodified":1449073757,
+    "wof:name":"Croce Bianca Italiana Srl",
+    "wof:parent_id":85904923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.540345,41.939045,12.540345,41.939045],
+  "geometry": {"coordinates":[12.540345,41.939045],"type":"Point"}
+}

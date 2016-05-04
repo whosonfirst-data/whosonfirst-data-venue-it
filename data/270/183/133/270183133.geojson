@@ -1,0 +1,66 @@
+{
+  "id": 270183133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.296181,45.589275,10.296181,45.589275",
+    "geom:latitude":45.589275,
+    "geom:longitude":10.296181,
+    "iso:country":"IT",
+    "sg:address":"Via Trento 86 25075 Nave",
+    "sg:city":"Nave",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 683 0561",
+    "sg:postcode":"25075",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "spool",
+        "cardboard"
+    ],
+    "sg:website":"www.cartieradinave.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101758337,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hbyZLgYBoivGDOtE5swfc_45.589275_10.296181@1306269839"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"75dff4b4d3f9b91f2a362a5a25ae7c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101758337,
+            "neighbourhood_id":-1,
+            "region_id":85685253,
+            "venue_id":270183133
+        }
+    ],
+    "wof:id":270183133,
+    "wof:lastmodified":1449009959,
+    "wof:name":"Cartiera Di Nave S.p.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spool",
+        "cardboard"
+    ]
+},
+  "bbox": [10.296181,45.589275,10.296181,45.589275],
+  "geometry": {"coordinates":[10.296181,45.589275],"type":"Point"}
+}

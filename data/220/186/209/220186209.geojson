@@ -1,0 +1,65 @@
+{
+  "id": 220186209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.148807,45.525776,9.148807,45.525776",
+    "geom:latitude":45.525776,
+    "geom:longitude":9.148807,
+    "iso:country":"IT",
+    "sg:address":"Via Bovisasca 24/26 20026 Novate Milanese",
+    "sg:city":"Novate Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Depot",
+            "subcategory":"Bus",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 3910 0533",
+    "sg:postcode":"20026",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "insulator"
+    ],
+    "sg:website":"www.erim.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862707,
+        85633253,
+        101757109,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZrI6GIshFQdw0dPJNm5o3_45.525776_9.148807@1306269813"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f94aba28b406abee42ebdc5df616d54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757109,
+            "neighbourhood_id":85862707,
+            "region_id":85685243,
+            "venue_id":220186209
+        }
+    ],
+    "wof:id":220186209,
+    "wof:lastmodified":1449074667,
+    "wof:name":"Erim Srl",
+    "wof:parent_id":85862707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulator"
+    ]
+},
+  "bbox": [9.148807,45.525776,9.148807,45.525776],
+  "geometry": {"coordinates":[9.148807,45.525776],"type":"Point"}
+}

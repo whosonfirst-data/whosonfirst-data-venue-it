@@ -1,0 +1,68 @@
+{
+  "id": 219236825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.949381,44.403423,8.949381,44.403423",
+    "geom:latitude":44.403423,
+    "geom:longitude":8.949381,
+    "iso:country":"IT",
+    "sg:address":"Corso Buenos Aires 12/4 16129 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 583841",
+    "sg:postcode":"16129",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "ship",
+        "part",
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752663,
+        85862649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WqVmJI7rIwACZZE7jR0YQ_44.403423_8.949381@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c243e6368ad78f5d6fb018b96828df5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752663,
+            "neighbourhood_id":85862649,
+            "region_id":-1,
+            "venue_id":219236825
+        }
+    ],
+    "wof:id":219236825,
+    "wof:lastmodified":1449070765,
+    "wof:name":"Cami Italia Srl",
+    "wof:parent_id":85862649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ship",
+        "part",
+        "spare"
+    ]
+},
+  "bbox": [8.949381,44.403423,8.949381,44.403423],
+  "geometry": {"coordinates":[8.949381,44.403423],"type":"Point"}
+}

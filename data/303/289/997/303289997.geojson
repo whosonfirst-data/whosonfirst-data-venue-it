@@ -1,0 +1,88 @@
+{
+  "id": 303289997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.126147,39.219658,9.126147,39.219658",
+    "geom:latitude":39.219658,
+    "geom:longitude":9.126147,
+    "iso:country":"IT",
+    "sg:address":"09128 Cagliari",
+    "sg:city":"Cagliari",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 347 315 0900",
+    "sg:postcode":"09128",
+    "sg:province":"Cagliari",
+    "sg:tags":[
+        "auxiliary",
+        "disposal",
+        "surveillance",
+        "environmental",
+        "protection",
+        "cleaning",
+        "maintenance",
+        "works"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862623,
+        85633253,
+        101752975,
+        85685645,
+        85862631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mWtvXjZXwmSqAruVnNnw1_39.219658_9.126147@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"da78a5a4c55767ec1c836db1eeb2aa08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752975,
+            "neighbourhood_id":85862623,
+            "region_id":85685645,
+            "venue_id":303289997
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752975,
+            "neighbourhood_id":85862631,
+            "region_id":-1,
+            "venue_id":303289997
+        }
+    ],
+    "wof:id":303289997,
+    "wof:lastmodified":1449000157,
+    "wof:name":"Systems Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auxiliary",
+        "disposal",
+        "surveillance",
+        "environmental",
+        "protection",
+        "cleaning",
+        "maintenance",
+        "works"
+    ]
+},
+  "bbox": [9.126147,39.219658,9.126147,39.219658],
+  "geometry": {"coordinates":[9.126147,39.219658],"type":"Point"}
+}

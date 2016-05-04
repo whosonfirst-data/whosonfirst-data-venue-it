@@ -1,0 +1,67 @@
+{
+  "id": 186623479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.664819,45.678257,9.664819,45.678257",
+    "geom:latitude":45.678257,
+    "geom:longitude":9.664819,
+    "iso:country":"IT",
+    "sg:address":"Via Cavalieri Di Vittorio Veneto 6 24126 Bergamo",
+    "sg:city":"Bergamo",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 035 321900",
+    "sg:postcode":"24126",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "satellite",
+        "receiver"
+    ],
+    "sg:website":"www.telewire.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900501,
+        85633253,
+        101752723,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zFNNwLUojbeZ7krV3ERgL_45.678257_9.664819@1306269797"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1966bed3ae52e35df1d59e9a5e1c1f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752723,
+            "neighbourhood_id":85900501,
+            "region_id":85685249,
+            "venue_id":186623479
+        }
+    ],
+    "wof:id":186623479,
+    "wof:lastmodified":1449052242,
+    "wof:name":"Telewire S.r.l.",
+    "wof:parent_id":85900501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "receiver"
+    ]
+},
+  "bbox": [9.664819,45.678257,9.664819,45.678257],
+  "geometry": {"coordinates":[9.664819,45.678257],"type":"Point"}
+}

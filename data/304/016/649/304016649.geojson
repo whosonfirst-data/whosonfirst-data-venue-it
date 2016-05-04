@@ -1,0 +1,67 @@
+{
+  "id": 304016649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.007613,45.47908,9.007613,45.47908",
+    "geom:latitude":45.47908,
+    "geom:longitude":9.007613,
+    "iso:country":"IT",
+    "sg:address":"Via S. Domenico 13 20010 Bareggio",
+    "sg:city":"Bareggio",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9036 1227",
+    "sg:postcode":"20010",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "assembling",
+        "system"
+    ],
+    "sg:website":"www.fastassembler.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862769,
+        85633253,
+        101757101,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zaT7I3S87xdXp1GiW43fp_45.479080_9.007613@1306269864"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c132b0a84b24b2b7b12b35c90cca274e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757101,
+            "neighbourhood_id":85862769,
+            "region_id":85685243,
+            "venue_id":304016649
+        }
+    ],
+    "wof:id":304016649,
+    "wof:lastmodified":1449043657,
+    "wof:name":"Fast Assembler Srl",
+    "wof:parent_id":85862769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembling",
+        "system"
+    ]
+},
+  "bbox": [9.007613,45.47908,9.007613,45.47908],
+  "geometry": {"coordinates":[9.007613,45.47908],"type":"Point"}
+}

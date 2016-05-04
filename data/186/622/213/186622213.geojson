@@ -1,0 +1,65 @@
+{
+  "id": 186622213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.657272,44.702362,10.657272,44.702362",
+    "geom:latitude":44.702362,
+    "geom:longitude":10.657272,
+    "iso:country":"IT",
+    "sg:address":"Via Adua 100 42100 Reggio Emilia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0522 515380",
+    "sg:postcode":"42100",
+    "sg:province":"Reggio Nell'Emilia",
+    "sg:tags":[
+        "sanitary",
+        "supply"
+    ],
+    "sg:website":"www.bsexport.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904887,
+        85633253,
+        85685343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z3b2OtIOEJWEuorlY5jhr_44.702362_10.657272@1306269797"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a90bd2ffedffca4e2b132084cdce5aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904887,
+            "region_id":85685343,
+            "venue_id":186622213
+        }
+    ],
+    "wof:id":186622213,
+    "wof:lastmodified":1449052525,
+    "wof:name":"Bs Export Srl",
+    "wof:parent_id":85904887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "supply"
+    ]
+},
+  "bbox": [10.657272,44.702362,10.657272,44.702362],
+  "geometry": {"coordinates":[10.657272,44.702362],"type":"Point"}
+}

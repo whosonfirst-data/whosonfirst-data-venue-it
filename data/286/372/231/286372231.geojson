@@ -1,0 +1,66 @@
+{
+  "id": 286372231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.123769,43.826031,11.123769,43.826031",
+    "geom:latitude":43.826031,
+    "geom:longitude":11.123769,
+    "iso:country":"IT",
+    "sg:address":"Via Cavalcanti 52 50058 Signa",
+    "sg:city":"Signa",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 875614",
+    "sg:postcode":"50058",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "seating",
+        "theatre"
+    ],
+    "sg:website":"www.parrettivasco.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101837141,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vbOsOMc2mKukmw1pc9VwO_43.826031_11.123769@1306269844"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f37f334d61e9d20331c6f9f3b1cf6ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101837141,
+            "neighbourhood_id":-1,
+            "region_id":85685407,
+            "venue_id":286372231
+        }
+    ],
+    "wof:id":286372231,
+    "wof:lastmodified":1449016987,
+    "wof:name":"Parretti Vasco Sas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seating",
+        "theatre"
+    ]
+},
+  "bbox": [11.123769,43.826031,11.123769,43.826031],
+  "geometry": {"coordinates":[11.123769,43.826031],"type":"Point"}
+}

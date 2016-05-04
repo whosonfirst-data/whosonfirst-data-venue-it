@@ -1,0 +1,73 @@
+{
+  "id": 336931233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.261339,43.777027,11.261339,43.777027",
+    "geom:latitude":43.777027,
+    "geom:longitude":11.261339,
+    "iso:country":"IT",
+    "sg:address":"50121 Firenze",
+    "sg:city":"Firenze",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 244950",
+    "sg:postcode":"50121",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904713,
+        85633253,
+        101752643,
+        85685407,
+        85904683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dcmS9SmtIRlgUuq0utKxS_43.777027_11.261339@1306269877"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"443bcb30276170c271b9d7cff7292a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904713,
+            "region_id":85685407,
+            "venue_id":336931233
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904683,
+            "region_id":85685407,
+            "venue_id":336931233
+        }
+    ],
+    "wof:id":336931233,
+    "wof:lastmodified":1448997924,
+    "wof:name":"Dini Dott. Mario",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [11.261339,43.777027,11.261339,43.777027],
+  "geometry": {"coordinates":[11.261339,43.777027],"type":"Point"}
+}

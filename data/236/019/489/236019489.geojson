@@ -1,0 +1,65 @@
+{
+  "id": 236019489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.565506,44.807617,10.565506,44.807617",
+    "geom:latitude":44.807617,
+    "geom:longitude":10.565506,
+    "iso:country":"IT",
+    "sg:address":"Via S. Biagio 59/a 42024 Castelnovo Di Sotto",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0522 682046",
+    "sg:postcode":"42024",
+    "sg:province":"Reggio Nell'Emilia",
+    "sg:tags":[
+        "diaphragm",
+        "pump"
+    ],
+    "sg:website":"www.speroni.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101796499,
+        85685343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SQzvHnDxZTDLb0GXBfuBs_44.807617_10.565506@1306269814"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ef6241f86da96c4ad3b0bc6385cdd7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101796499,
+            "neighbourhood_id":-1,
+            "region_id":85685343,
+            "venue_id":236019489
+        }
+    ],
+    "wof:id":236019489,
+    "wof:lastmodified":1449003557,
+    "wof:name":"Speroni Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diaphragm",
+        "pump"
+    ]
+},
+  "bbox": [10.565506,44.807617,10.565506,44.807617],
+  "geometry": {"coordinates":[10.565506,44.807617],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 219755305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.146313,45.563595,9.146313,45.563595",
+    "geom:latitude":45.563595,
+    "geom:longitude":9.146313,
+    "iso:country":"IT",
+    "sg:address":"64, Via Sanzio Raffaello 20021 Bollate",
+    "sg:city":"Bollate",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 3326 1010",
+    "sg:postcode":"20021",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862607,
+        85633253,
+        101757769,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48nhE5hQsTlkGaVE7yZz38_45.563595_9.146313@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6918bbf308397246cd8e0c4c8aa53fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757769,
+            "neighbourhood_id":85862607,
+            "region_id":85685243,
+            "venue_id":219755305
+        }
+    ],
+    "wof:id":219755305,
+    "wof:lastmodified":1449071403,
+    "wof:name":"Interlaziale Trasporti E Spedizioni (s.p.a.)",
+    "wof:parent_id":85862607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.146313,45.563595,9.146313,45.563595],
+  "geometry": {"coordinates":[9.146313,45.563595],"type":"Point"}
+}

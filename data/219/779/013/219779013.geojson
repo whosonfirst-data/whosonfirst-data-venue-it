@@ -1,0 +1,66 @@
+{
+  "id": 219779013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.362135,45.987301,13.362135,45.987301",
+    "geom:latitude":45.987301,
+    "geom:longitude":13.362135,
+    "iso:country":"IT",
+    "sg:address":"V. Malignani33044 Manzano",
+    "sg:city":"Manzano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0432 720453",
+    "sg:postcode":"33044",
+    "sg:province":"Udine",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/trasportimanzanesi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101836373,
+        85685321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ium5lDrklqIUdhT740Gfd_45.987301_13.362135@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e7df50caa3e94a45081ea784beee5a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101836373,
+            "neighbourhood_id":-1,
+            "region_id":85685321,
+            "venue_id":219779013
+        }
+    ],
+    "wof:id":219779013,
+    "wof:lastmodified":1449070933,
+    "wof:name":"Trasporti Manzanesi Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.362135,45.987301,13.362135,45.987301],
+  "geometry": {"coordinates":[13.362135,45.987301],"type":"Point"}
+}

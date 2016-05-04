@@ -1,0 +1,66 @@
+{
+  "id": 219758277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.900476,44.408707,8.900476,44.408707",
+    "geom:latitude":44.408707,
+    "geom:longitude":8.900476,
+    "iso:country":"IT",
+    "sg:address":"1, Via De Marini 16149 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39010642141",
+    "sg:postcode":"16149",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752663,
+        85796989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DAGRjLpiz1kYr9laDXpW4_44.408707_8.900476@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8511773de2f43b8f401fb093e5ea26ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752663,
+            "neighbourhood_id":85796989,
+            "region_id":-1,
+            "venue_id":219758277
+        }
+    ],
+    "wof:id":219758277,
+    "wof:lastmodified":1449071466,
+    "wof:name":"Logstar Srl",
+    "wof:parent_id":85796989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.900476,44.408707,8.900476,44.408707],
+  "geometry": {"coordinates":[8.900476,44.408707],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 202495399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.309431,43.55854,10.309431,43.55854",
+    "geom:latitude":43.55854,
+    "geom:longitude":10.309431,
+    "iso:country":"IT",
+    "sg:address":"9, Scali Cerere 57122 Livorno",
+    "sg:city":"Livorno",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0586 886653",
+    "sg:postcode":"57122",
+    "sg:province":"Livorno",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900469,
+        85633253,
+        101752619,
+        85685413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KoRog1pNAihQ0Hv3cdHn4_43.558540_10.309431@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"9abaada97d5eee6b6d99a3065e6e7b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752619,
+            "neighbourhood_id":85900469,
+            "region_id":85685413,
+            "venue_id":202495399
+        }
+    ],
+    "wof:id":202495399,
+    "wof:lastmodified":1449061239,
+    "wof:name":"Greensisam (s.p.a.)",
+    "wof:parent_id":85900469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [10.309431,43.55854,10.309431,43.55854],
+  "geometry": {"coordinates":[10.309431,43.55854],"type":"Point"}
+}

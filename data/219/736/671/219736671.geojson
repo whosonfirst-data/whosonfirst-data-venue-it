@@ -1,0 +1,65 @@
+{
+  "id": 219736671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.639127,45.082661,7.639127,45.082661",
+    "geom:latitude":45.082661,
+    "geom:longitude":7.639127,
+    "iso:country":"IT",
+    "sg:address":"102, Corso Monte Grappa 10145 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 776 4797",
+    "sg:postcode":"10145",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13wHfWpIj8JYkiKWqOnVFK_45.082661_7.639127@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c50a49447b8f9f980b6a4efe6264e934",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":-1,
+            "region_id":85685169,
+            "venue_id":219736671
+        }
+    ],
+    "wof:id":219736671,
+    "wof:lastmodified":1449073869,
+    "wof:name":"Bottero",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.639127,45.082661,7.639127,45.082661],
+  "geometry": {"coordinates":[7.639127,45.082661],"type":"Point"}
+}

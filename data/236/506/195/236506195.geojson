@@ -1,0 +1,65 @@
+{
+  "id": 236506195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.499756,41.883408,12.499756,41.883408",
+    "geom:latitude":41.883408,
+    "geom:longitude":12.499756,
+    "iso:country":"IT",
+    "sg:address":"00184 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0677051",
+    "sg:postcode":"00184",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "hospital"
+    ],
+    "sg:website":"http://www.hsangiovanni.roma.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900471,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZdumnsHGIbkIBdj9ANpdZ_41.883408_12.499756@1306269818"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"68ea46c791fa18f8168a8071654f0723",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900471,
+            "region_id":85685461,
+            "venue_id":236506195
+        }
+    ],
+    "wof:id":236506195,
+    "wof:lastmodified":1449001734,
+    "wof:name":"Complesso Ospedaliero S. Giovanni Addolorata",
+    "wof:parent_id":85900471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [12.499756,41.883408,12.499756,41.883408],
+  "geometry": {"coordinates":[12.499756,41.883408],"type":"Point"}
+}

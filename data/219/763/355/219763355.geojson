@@ -1,0 +1,66 @@
+{
+  "id": 219763355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.664809,41.769753,12.664809,41.769753",
+    "geom:latitude":41.769753,
+    "geom:longitude":12.664809,
+    "iso:country":"IT",
+    "sg:address":"43, C. V. Colonna 00047 Marino",
+    "sg:city":"Marino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 069388291835",
+    "sg:postcode":"00047",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.giaccionoranze.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101836859,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z7IPLDbjdi9JILUw45yjM_41.769753_12.664809@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"84614d8ee9820cc6ec8b3b85a243589b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101836859,
+            "neighbourhood_id":-1,
+            "region_id":85685461,
+            "venue_id":219763355
+        }
+    ],
+    "wof:id":219763355,
+    "wof:lastmodified":1449073900,
+    "wof:name":"Onoranze Funebri Giacci",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.664809,41.769753,12.664809,41.769753],
+  "geometry": {"coordinates":[12.664809,41.769753],"type":"Point"}
+}

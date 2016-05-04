@@ -1,0 +1,67 @@
+{
+  "id": 219740811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.18934,40.898319,14.18934,40.898319",
+    "geom:latitude":40.898319,
+    "geom:longitude":14.18934,
+    "iso:country":"IT",
+    "sg:address":"63, C. Umberto I80016 Marano Di Napoli",
+    "sg:city":"Marano di Napoli",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 712 1642",
+    "sg:postcode":"80016",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/cesaranociro",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900399,
+        85633253,
+        101756929,
+        85685487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aDsFEP9ZeMDKpUAb3NK6H_40.898319_14.189340@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d58336fd327d82c8b30679af621a545e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101756929,
+            "neighbourhood_id":85900399,
+            "region_id":85685487,
+            "venue_id":219740811
+        }
+    ],
+    "wof:id":219740811,
+    "wof:lastmodified":1449072000,
+    "wof:name":"Cesarano Ciro",
+    "wof:parent_id":85900399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [14.18934,40.898319,14.18934,40.898319],
+  "geometry": {"coordinates":[14.18934,40.898319],"type":"Point"}
+}

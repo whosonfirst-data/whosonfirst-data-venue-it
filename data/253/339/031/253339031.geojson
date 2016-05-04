@@ -1,0 +1,68 @@
+{
+  "id": 253339031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.962208,44.401196,8.962208,44.401196",
+    "geom:latitude":44.401196,
+    "geom:longitude":8.962208,
+    "iso:country":"IT",
+    "sg:address":"Via Montallegro 6/1 16145 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 318620",
+    "sg:postcode":"16145",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "instrument",
+        "system",
+        "analysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862645,
+        85633253,
+        101752663,
+        85685219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lrVKi1ZyQGEC411vq3JAF_44.401196_8.962208@1306269828"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"3b968a1f8dcb839f8a1c66a9d5c12946",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752663,
+            "neighbourhood_id":85862645,
+            "region_id":85685219,
+            "venue_id":253339031
+        }
+    ],
+    "wof:id":253339031,
+    "wof:lastmodified":1449064145,
+    "wof:name":"Ast Analytica Srl",
+    "wof:parent_id":85862645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "system",
+        "analysis"
+    ]
+},
+  "bbox": [8.962208,44.401196,8.962208,44.401196],
+  "geometry": {"coordinates":[8.962208,44.401196],"type":"Point"}
+}

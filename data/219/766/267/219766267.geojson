@@ -1,0 +1,66 @@
+{
+  "id": 219766267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.518401,41.910206,12.518401,41.910206",
+    "geom:latitude":41.910206,
+    "geom:longitude":12.518401,
+    "iso:country":"IT",
+    "sg:address":"23, Via Catania 00161 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 4429 1044",
+    "sg:postcode":"00161",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900397,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zVzmhyTG082aKemzVRTIp_41.910206_12.518401@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e253573d5bf463fc5d0d52413a0289c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900397,
+            "region_id":85685461,
+            "venue_id":219766267
+        }
+    ],
+    "wof:id":219766267,
+    "wof:lastmodified":1449070335,
+    "wof:name":"Pompa Srl",
+    "wof:parent_id":85900397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.518401,41.910206,12.518401,41.910206],
+  "geometry": {"coordinates":[12.518401,41.910206],"type":"Point"}
+}

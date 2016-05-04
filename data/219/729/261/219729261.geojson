@@ -1,0 +1,65 @@
+{
+  "id": 219729261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.109405,46.077522,11.109405,46.077522",
+    "geom:latitude":46.077522,
+    "geom:longitude":11.109405,
+    "iso:country":"IT",
+    "sg:address":"10, Via Berlino 38100 Trento",
+    "sg:city":"Trento",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0461 980085",
+    "sg:postcode":"38100",
+    "sg:province":"Trento",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752737,
+        85685277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rSHFjDze7R7ObKMDGjdbJ_46.077522_11.109405@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"cff3a44ace5772594cc3be6e101ce99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752737,
+            "neighbourhood_id":-1,
+            "region_id":85685277,
+            "venue_id":219729261
+        }
+    ],
+    "wof:id":219729261,
+    "wof:lastmodified":1449072160,
+    "wof:name":"Autostrada Del Brennero (s.p.a.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.109405,46.077522,11.109405,46.077522],
+  "geometry": {"coordinates":[11.109405,46.077522],"type":"Point"}
+}

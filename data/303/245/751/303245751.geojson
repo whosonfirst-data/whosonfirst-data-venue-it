@@ -1,0 +1,63 @@
+{
+  "id": 303245751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.65391,44.693031,10.65391,44.693031",
+    "geom:latitude":44.693031,
+    "geom:longitude":10.65391,
+    "iso:country":"IT",
+    "sg:address":"8, Via Sardegna 42100 Reggio Emilia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0522 550202",
+    "sg:postcode":"42100",
+    "sg:province":"Reggio Nell'Emilia",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904889,
+        85633253,
+        101752671,
+        85685343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rg1EZnx1sDewAtZPOOcCR_44.693031_10.653910@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"3bd5657479438d0f61fa1c5e9107e247",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752671,
+            "neighbourhood_id":85904889,
+            "region_id":85685343,
+            "venue_id":303245751
+        }
+    ],
+    "wof:id":303245751,
+    "wof:lastmodified":1449000486,
+    "wof:name":"Industria Italiana Pistoni S.a.s. Di Paolo Grisendi E C.",
+    "wof:parent_id":85904889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [10.65391,44.693031,10.65391,44.693031],
+  "geometry": {"coordinates":[10.65391,44.693031],"type":"Point"}
+}

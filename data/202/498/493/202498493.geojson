@@ -1,0 +1,66 @@
+{
+  "id": 202498493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"17.25964,40.463062,17.25964,40.463062",
+    "geom:latitude":40.463062,
+    "geom:longitude":17.25964,
+    "iso:country":"IT",
+    "sg:address":"22, Via Ovidio 74100 Taranto",
+    "sg:city":"Taranto",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 099 735 0084",
+    "sg:postcode":"74100",
+    "sg:province":"Taranto",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900341,
+        85633253,
+        101752543,
+        85685539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4klY98nExUlWpl7Axj5Yuh_40.463062_17.259640@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"87e81d66a440b6a739539151807167b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752543,
+            "neighbourhood_id":85900341,
+            "region_id":85685539,
+            "venue_id":202498493
+        }
+    ],
+    "wof:id":202498493,
+    "wof:lastmodified":1449062042,
+    "wof:name":"S.i.l.nav. Srl - Societa' Italiana Lavori Navali Srl",
+    "wof:parent_id":85900341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [17.25964,40.463062,17.25964,40.463062],
+  "geometry": {"coordinates":[17.25964,40.463062],"type":"Point"}
+}

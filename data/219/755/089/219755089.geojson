@@ -1,0 +1,66 @@
+{
+  "id": 219755089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"18.308531,39.85133,18.308531,39.85133",
+    "geom:latitude":39.85133,
+    "geom:longitude":18.308531,
+    "iso:country":"IT",
+    "sg:address":"72, C. Italia 73040 Morciano Di Leuca",
+    "sg:city":"Leuca",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0833 743326",
+    "sg:postcode":"73040",
+    "sg:province":"Lecce",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/giardinofiorito",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101801725,
+        85685547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YVXgkYHM8hwqHRlPZfKcw_39.851330_18.308531@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7616b6e03076e2993c7533df596fa31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101801725,
+            "neighbourhood_id":-1,
+            "region_id":85685547,
+            "venue_id":219755089
+        }
+    ],
+    "wof:id":219755089,
+    "wof:lastmodified":1449071402,
+    "wof:name":"Il Giardino Fiorito",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [18.308531,39.85133,18.308531,39.85133],
+  "geometry": {"coordinates":[18.308531,39.85133],"type":"Point"}
+}

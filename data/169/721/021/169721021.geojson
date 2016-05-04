@@ -1,0 +1,65 @@
+{
+  "id": 169721021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.98271,45.156303,9.98271,45.156303",
+    "geom:latitude":45.156303,
+    "geom:longitude":9.98271,
+    "iso:country":"IT",
+    "sg:address":"Via De Berenzani 4 26100 Cremona",
+    "sg:city":"Cremona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0372 443011",
+    "sg:postcode":"26100",
+    "sg:province":"Cremona",
+    "sg:tags":[
+        "machine",
+        "bakery"
+    ],
+    "sg:website":"www.meccanicafantini.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ovO9pq0oihNvYal4DtLyO_45.156303_9.982710@1306269788"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6d9fd7a4058fa591856d2111c9257140",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685263,
+            "venue_id":169721021
+        }
+    ],
+    "wof:id":169721021,
+    "wof:lastmodified":1449035960,
+    "wof:name":"Meccanica Fantini Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "bakery"
+    ]
+},
+  "bbox": [9.98271,45.156303,9.98271,45.156303],
+  "geometry": {"coordinates":[9.98271,45.156303],"type":"Point"}
+}

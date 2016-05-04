@@ -1,0 +1,65 @@
+{
+  "id": 219729877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.348544,45.436989,9.348544,45.436989",
+    "geom:latitude":45.436989,
+    "geom:longitude":9.348544,
+    "iso:country":"IT",
+    "sg:address":"7, Via Volontari Del Sangue 20090 Pantigliate",
+    "sg:city":"Pantigliate",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9060 0306",
+    "sg:postcode":"20090",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101771499,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XdJUgl0ZXSkP1NNPzmjrB_45.436989_9.348544@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d2e00d5c623a0fe50f0a4330142c5209",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101771499,
+            "neighbourhood_id":-1,
+            "region_id":85685243,
+            "venue_id":219729877
+        }
+    ],
+    "wof:id":219729877,
+    "wof:lastmodified":1449072162,
+    "wof:name":"Autotrasporti Barbieri (s.r.l.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.348544,45.436989,9.348544,45.436989],
+  "geometry": {"coordinates":[9.348544,45.436989],"type":"Point"}
+}

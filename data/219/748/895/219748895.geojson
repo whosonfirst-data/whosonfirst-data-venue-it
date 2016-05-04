@@ -1,0 +1,65 @@
+{
+  "id": 219748895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.077652,45.526115,9.077652,45.526115",
+    "geom:latitude":45.526115,
+    "geom:longitude":9.077652,
+    "iso:country":"IT",
+    "sg:address":"40, Via Risorgimento 20017 Rho",
+    "sg:city":"Rho",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39029346161",
+    "sg:postcode":"20017",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862699,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mehp43LgdXGjEYwILXT6D_45.526115_9.077652@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"caf7ade0dd1ab2347eb13d0b7dd7b01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862699,
+            "region_id":85685243,
+            "venue_id":219748895
+        }
+    ],
+    "wof:id":219748895,
+    "wof:lastmodified":1449073047,
+    "wof:name":"Eurolinea Srl",
+    "wof:parent_id":85862699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.077652,45.526115,9.077652,45.526115],
+  "geometry": {"coordinates":[9.077652,45.526115],"type":"Point"}
+}

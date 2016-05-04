@@ -1,0 +1,66 @@
+{
+  "id": 219746039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.4612,41.849136,12.4612,41.849136",
+    "geom:latitude":41.849136,
+    "geom:longitude":12.4612,
+    "iso:country":"IT",
+    "sg:address":"27, Via Lari 00146 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 5528 3412",
+    "sg:postcode":"00146",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904917,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JgjpDXp56iQB1Q6Fcr4yP_41.849136_12.461200@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4a4c147b478507f7c32cfcb7ea7ffbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904917,
+            "region_id":85685461,
+            "venue_id":219746039
+        }
+    ],
+    "wof:id":219746039,
+    "wof:lastmodified":1449070352,
+    "wof:name":"D'andrea",
+    "wof:parent_id":85904917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.4612,41.849136,12.4612,41.849136],
+  "geometry": {"coordinates":[12.4612,41.849136],"type":"Point"}
+}

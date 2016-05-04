@@ -1,0 +1,67 @@
+{
+  "id": 236522161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.206611,45.458675,9.206611,45.458675",
+    "geom:latitude":45.458675,
+    "geom:longitude":9.206611,
+    "iso:country":"IT",
+    "sg:address":"20052 Monza",
+    "sg:city":"Monza",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 039 206901",
+    "sg:postcode":"20052",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "hotels",
+        "facility"
+    ],
+    "sg:website":"http://www.hotelcolleoni.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796921,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zIFpSzl3vZJH3DM4CqMaO_45.458675_9.206611@1306269819"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8009b3d7b8577ede32f78823722c5d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796921,
+            "region_id":85685243,
+            "venue_id":236522161
+        }
+    ],
+    "wof:id":236522161,
+    "wof:lastmodified":1449003179,
+    "wof:name":"Residence Fogazzaro",
+    "wof:parent_id":85796921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "facility"
+    ]
+},
+  "bbox": [9.206611,45.458675,9.206611,45.458675],
+  "geometry": {"coordinates":[9.206611,45.458675],"type":"Point"}
+}

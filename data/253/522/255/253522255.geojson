@@ -1,0 +1,64 @@
+{
+  "id": 253522255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.140397,45.44809,9.140397,45.44809",
+    "geom:latitude":45.44809,
+    "geom:longitude":9.140397,
+    "iso:country":"IT",
+    "sg:address":"Via Giambellino 106 20146 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 4895 4191",
+    "sg:postcode":"20146",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "umbrella"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796803,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iNBuVxu54E3RSczrVzX4A_45.448090_9.140397@1306269830"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b6cc1becb6f5b3c08870330faab1f242",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":253522255
+        }
+    ],
+    "wof:id":253522255,
+    "wof:lastmodified":1449064231,
+    "wof:name":"Drops Srl",
+    "wof:parent_id":85796803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "umbrella"
+    ]
+},
+  "bbox": [9.140397,45.44809,9.140397,45.44809],
+  "geometry": {"coordinates":[9.140397,45.44809],"type":"Point"}
+}

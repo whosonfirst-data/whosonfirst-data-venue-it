@@ -1,0 +1,66 @@
+{
+  "id": 219750131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.746383,44.966316,11.746383,44.966316",
+    "geom:latitude":44.966316,
+    "geom:longitude":11.746383,
+    "iso:country":"IT",
+    "sg:address":"2098/g, V. Statale 16 45038 Polesella",
+    "sg:city":"Polesella",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0425 444950",
+    "sg:postcode":"45038",
+    "sg:province":"Rovigo",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/f1trasporti",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101796707,
+        85685313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LiDrcymTXboNIT3IWxK1l_44.966316_11.746383@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"415ec615dbfaf3c97552e390643e17b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101796707,
+            "neighbourhood_id":-1,
+            "region_id":85685313,
+            "venue_id":219750131
+        }
+    ],
+    "wof:id":219750131,
+    "wof:lastmodified":1449072522,
+    "wof:name":"F1 Trasporti Di Maneo Federico",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.746383,44.966316,11.746383,44.966316],
+  "geometry": {"coordinates":[11.746383,44.966316],"type":"Point"}
+}

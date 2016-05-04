@@ -1,0 +1,66 @@
+{
+  "id": 219753755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.211215,45.477001,12.211215,45.477001",
+    "geom:latitude":45.477001,
+    "geom:longitude":12.211215,
+    "iso:country":"IT",
+    "sg:address":"72, V. Trieste30175 Marghera",
+    "sg:city":"Marghera",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39041923810",
+    "sg:postcode":"30175",
+    "sg:province":"Venezia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/gmvsrl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752719,
+        85685305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5upxBQYCq3w26MVGXZZ5RX_45.477001_12.211215@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"90e45b6cfe6d2ae8b3632afecf299026",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752719,
+            "neighbourhood_id":-1,
+            "region_id":85685305,
+            "venue_id":219753755
+        }
+    ],
+    "wof:id":219753755,
+    "wof:lastmodified":1449070805,
+    "wof:name":"Gmv Srll",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.211215,45.477001,12.211215,45.477001],
+  "geometry": {"coordinates":[12.211215,45.477001],"type":"Point"}
+}

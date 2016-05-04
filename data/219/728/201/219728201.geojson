@@ -1,0 +1,66 @@
+{
+  "id": 219728201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.287987,41.615578,13.287987,41.615578",
+    "geom:latitude":41.615578,
+    "geom:longitude":13.287987,
+    "iso:country":"IT",
+    "sg:address":"1, V. Asi 03100 Frosinone",
+    "sg:city":"Frosinone",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0775 200179",
+    "sg:postcode":"03100",
+    "sg:province":"Frosinone",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/biondi-fr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101801065,
+        85685473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UZCDM3niCpDUkv8a6IIhG_41.615578_13.287987@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f21586fe68d73a11d5ec21b31508959b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101801065,
+            "neighbourhood_id":-1,
+            "region_id":85685473,
+            "venue_id":219728201
+        }
+    ],
+    "wof:id":219728201,
+    "wof:lastmodified":1449071217,
+    "wof:name":"Antonio Biondi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.287987,41.615578,13.287987,41.615578],
+  "geometry": {"coordinates":[13.287987,41.615578],"type":"Point"}
+}

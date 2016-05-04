@@ -1,0 +1,66 @@
+{
+  "id": 219752401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.616983,41.868919,12.616983,41.868919",
+    "geom:latitude":41.868919,
+    "geom:longitude":12.616983,
+    "iso:country":"IT",
+    "sg:address":"16 A/b, V. Vittorio Rossi 00133 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 2061 8556",
+    "sg:postcode":"00133",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906291,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lYbSdTJiXuknmKEqqr6bR_41.868919_12.616983@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"180a6f6f8c21e79c982c3c7604607f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85906291,
+            "region_id":85685461,
+            "venue_id":219752401
+        }
+    ],
+    "wof:id":219752401,
+    "wof:lastmodified":1449070982,
+    "wof:name":"Gemelli Onoranze Funebri",
+    "wof:parent_id":85906291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.616983,41.868919,12.616983,41.868919],
+  "geometry": {"coordinates":[12.616983,41.868919],"type":"Point"}
+}

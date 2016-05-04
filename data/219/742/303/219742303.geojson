@@ -1,0 +1,66 @@
+{
+  "id": 219742303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.205553,45.473537,9.205553,45.473537",
+    "geom:latitude":45.473537,
+    "geom:longitude":9.205553,
+    "iso:country":"IT",
+    "sg:address":"38, Viale Majno Luigi 20129 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 2940 4310",
+    "sg:postcode":"20129",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IrL8IRaxukaJKY2AVyAOb_45.473537_9.205553@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"25786ec8496985e75c71fadaadd09b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":219742303
+        }
+    ],
+    "wof:id":219742303,
+    "wof:lastmodified":1449070614,
+    "wof:name":"Cometra S.r.l.",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.205553,45.473537,9.205553,45.473537],
+  "geometry": {"coordinates":[9.205553,45.473537],"type":"Point"}
+}

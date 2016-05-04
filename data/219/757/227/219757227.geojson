@@ -1,0 +1,66 @@
+{
+  "id": 219757227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.50861,41.682434,12.50861,41.682434",
+    "geom:latitude":41.682434,
+    "geom:longitude":12.50861,
+    "iso:country":"IT",
+    "sg:address":"41, V. Dei Castelli Romani 00040 Pomezia",
+    "sg:city":"Pomezia",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 9160 1470",
+    "sg:postcode":"00040",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/lacivitabruno",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101802395,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GhpVcT3B2FNCgkuXdq99k_41.682434_12.508610@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"9a5c36751bdbf93ca386b3505f276c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101802395,
+            "neighbourhood_id":-1,
+            "region_id":85685461,
+            "venue_id":219757227
+        }
+    ],
+    "wof:id":219757227,
+    "wof:lastmodified":1449072364,
+    "wof:name":"La Civita Bruno",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.50861,41.682434,12.50861,41.682434],
+  "geometry": {"coordinates":[12.50861,41.682434],"type":"Point"}
+}

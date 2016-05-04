@@ -1,0 +1,65 @@
+{
+  "id": 253630533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.119215,45.56884,9.119215,45.56884",
+    "geom:latitude":45.56884,
+    "geom:longitude":9.119215,
+    "iso:country":"IT",
+    "sg:address":"Via Francia, 7/9 20030 Senago",
+    "sg:city":"Senago",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 998 9957",
+    "sg:postcode":"20030",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.biar.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862607,
+        85633253,
+        101757769,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HqfmxaEVOyGXDUmkIDQ2B_45.568840_9.119215@1306269831"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b43baa354f0fb0f3d4823b6940da0725",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757769,
+            "neighbourhood_id":85862607,
+            "region_id":85685243,
+            "venue_id":253630533
+        }
+    ],
+    "wof:id":253630533,
+    "wof:lastmodified":1449063883,
+    "wof:name":"Biar Srl",
+    "wof:parent_id":85862607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [9.119215,45.56884,9.119215,45.56884],
+  "geometry": {"coordinates":[9.119215,45.56884],"type":"Point"}
+}

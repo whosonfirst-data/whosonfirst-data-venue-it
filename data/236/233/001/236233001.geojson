@@ -1,0 +1,73 @@
+{
+  "id": 236233001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.180168,45.437386,9.180168,45.437386",
+    "geom:latitude":45.437386,
+    "geom:longitude":9.180168,
+    "iso:country":"IT",
+    "sg:address":"Viale Giovanni Da Cermenate 36 20141 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 846 6746",
+    "sg:postcode":"20141",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "necktie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862725,
+        85633253,
+        101752703,
+        85685243,
+        85862721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wjam9cGKkLF0m0jHo3dBj_45.437386_9.180168@1306269816"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"93e6e860f2fa77d2d500a8fb169c9357",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862725,
+            "region_id":85685243,
+            "venue_id":236233001
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862721,
+            "region_id":85685243,
+            "venue_id":236233001
+        }
+    ],
+    "wof:id":236233001,
+    "wof:lastmodified":1449005315,
+    "wof:name":"Hubert International Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "necktie"
+    ]
+},
+  "bbox": [9.180168,45.437386,9.180168,45.437386],
+  "geometry": {"coordinates":[9.180168,45.437386],"type":"Point"}
+}

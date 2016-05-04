@@ -1,0 +1,66 @@
+{
+  "id": 219737951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.007676,45.502674,9.007676,45.502674",
+    "geom:latitude":45.502674,
+    "geom:longitude":9.007676,
+    "iso:country":"IT",
+    "sg:address":"3, Via Cascina Duomo 20010 Pregnana Milanese",
+    "sg:city":"Pregnana Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39029364141",
+    "sg:postcode":"20010",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862769,
+        85633253,
+        101757101,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ff2xbSnieVrjQutT4Xxmr_45.502674_9.007676@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"33d1addbe0dced099ac494b18725b656",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757101,
+            "neighbourhood_id":85862769,
+            "region_id":85685243,
+            "venue_id":219737951
+        }
+    ],
+    "wof:id":219737951,
+    "wof:lastmodified":1449071187,
+    "wof:name":"C.o.i.m.e. (s.p.a.)",
+    "wof:parent_id":85862769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.007676,45.502674,9.007676,45.502674],
+  "geometry": {"coordinates":[9.007676,45.502674],"type":"Point"}
+}

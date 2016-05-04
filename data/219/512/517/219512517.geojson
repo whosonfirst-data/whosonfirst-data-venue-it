@@ -1,0 +1,66 @@
+{
+  "id": 219512517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.213091,45.483814,9.213091,45.483814",
+    "geom:latitude":45.483814,
+    "geom:longitude":9.213091,
+    "iso:country":"IT",
+    "sg:address":"Via Mercadante Saverio 15 20124 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 669 3481",
+    "sg:postcode":"20124",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "instrument",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862713,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vb9tmzEblhQ6coQzpdwUo_45.483814_9.213091@1306269808"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"54e7e104b2fdd8323aeb7e860d2b8646",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862713,
+            "region_id":85685243,
+            "venue_id":219512517
+        }
+    ],
+    "wof:id":219512517,
+    "wof:lastmodified":1449072969,
+    "wof:name":"Medicalplastic Srl",
+    "wof:parent_id":85862713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surgical"
+    ]
+},
+  "bbox": [9.213091,45.483814,9.213091,45.483814],
+  "geometry": {"coordinates":[9.213091,45.483814],"type":"Point"}
+}

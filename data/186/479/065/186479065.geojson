@@ -1,0 +1,65 @@
+{
+  "id": 186479065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.560459,44.865601,11.560459,44.865601",
+    "geom:latitude":44.865601,
+    "geom:longitude":11.560459,
+    "iso:country":"IT",
+    "sg:address":"Via Castelbolognesi 6 44100 Ferrara",
+    "sg:city":"Ferrara",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0532 732333",
+    "sg:postcode":"44100",
+    "sg:province":"Ferrara",
+    "sg:tags":[
+        "oven",
+        "bread"
+    ],
+    "sg:website":"www.bakeoff.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_035njnmExw7JWhFk2BlKfH_44.865601_11.560459@1306269796"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a5c7e8d5baa46374b0e2762c1e6277a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685359,
+            "venue_id":186479065
+        }
+    ],
+    "wof:id":186479065,
+    "wof:lastmodified":1449052210,
+    "wof:name":"Bake Off Italiana Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oven",
+        "bread"
+    ]
+},
+  "bbox": [11.560459,44.865601,11.560459,44.865601],
+  "geometry": {"coordinates":[11.560459,44.865601],"type":"Point"}
+}

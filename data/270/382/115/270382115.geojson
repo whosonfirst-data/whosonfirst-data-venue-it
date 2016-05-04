@@ -1,0 +1,70 @@
+{
+  "id": 270382115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.261116,45.527397,9.261116,45.527397",
+    "geom:latitude":45.527397,
+    "geom:longitude":9.261116,
+    "iso:country":"IT",
+    "sg:address":"Via G. Di Vittorio 307/30 20099 Sesto San Giovanni",
+    "sg:city":"Sesto San Giovanni",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Factory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 2622 1655",
+    "sg:postcode":"20099",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "plant",
+        "manufacturing",
+        "component",
+        "cd"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796863,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_438BN5bcGqRRowUL3e0Tf1_45.527397_9.261116@1306269841"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c65b9a5075317c43c7f44fa2d941f68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796863,
+            "region_id":85685243,
+            "venue_id":270382115
+        }
+    ],
+    "wof:id":270382115,
+    "wof:lastmodified":1449009263,
+    "wof:name":"Bernardini Srl",
+    "wof:parent_id":85796863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "manufacturing",
+        "component",
+        "cd"
+    ]
+},
+  "bbox": [9.261116,45.527397,9.261116,45.527397],
+  "geometry": {"coordinates":[9.261116,45.527397],"type":"Point"}
+}

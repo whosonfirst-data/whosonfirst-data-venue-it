@@ -1,0 +1,66 @@
+{
+  "id": 219744725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.386972,38.093071,13.386972,38.093071",
+    "geom:latitude":38.093071,
+    "geom:longitude":13.386972,
+    "iso:country":"IT",
+    "sg:address":"Via Emiro Giafar 90124 Palermo",
+    "sg:city":"Palermo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 091 630 6777",
+    "sg:postcode":"90124",
+    "sg:province":"Palermo",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752517,
+        85904861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PpsM8vO9OuRM9Dn6UjqbH_38.093071_13.386972@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"9f7e4ea35cc5263e131587a5e7e6c071",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752517,
+            "neighbourhood_id":85904861,
+            "region_id":-1,
+            "venue_id":219744725
+        }
+    ],
+    "wof:id":219744725,
+    "wof:lastmodified":1449071663,
+    "wof:name":"Cooperativa Trasporti Riuniti A.r.l.",
+    "wof:parent_id":85904861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.386972,38.093071,13.386972,38.093071],
+  "geometry": {"coordinates":[13.386972,38.093071],"type":"Point"}
+}

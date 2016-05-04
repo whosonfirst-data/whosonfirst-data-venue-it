@@ -1,0 +1,65 @@
+{
+  "id": 219741073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.789797,45.070736,11.789797,45.070736",
+    "geom:latitude":45.070736,
+    "geom:longitude":11.789797,
+    "iso:country":"IT",
+    "sg:address":"2/a, Vicolo Goldoni Carlo 45100 Rovigo",
+    "sg:city":"Rovigo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0425 361039",
+    "sg:postcode":"45100",
+    "sg:province":"Rovigo",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101837271,
+        85685313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63nEvY8Qx6QYAzEtsynWdF_45.070736_11.789797@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a4aa2e7da5d408497f1fdcc280eda202",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101837271,
+            "neighbourhood_id":-1,
+            "region_id":85685313,
+            "venue_id":219741073
+        }
+    ],
+    "wof:id":219741073,
+    "wof:lastmodified":1449070567,
+    "wof:name":"Centro Servizi Trasporti (s.r.l.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.789797,45.070736,11.789797,45.070736],
+  "geometry": {"coordinates":[11.789797,45.070736],"type":"Point"}
+}

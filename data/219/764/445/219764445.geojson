@@ -1,0 +1,65 @@
+{
+  "id": 219764445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"15.383333,41.688095,15.383333,41.688095",
+    "geom:latitude":41.688095,
+    "geom:longitude":15.383333,
+    "iso:country":"IT",
+    "sg:address":"7, Via Cascitelli P. 71016 San Severo",
+    "sg:city":"San Severo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0882 335731",
+    "sg:postcode":"71016",
+    "sg:province":"Foggia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752597,
+        85685527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r1t70QKV7mszTcLUxZhBM_41.688095_15.383333@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2cdd8f285a7281412e46c162d1c8d742",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752597,
+            "neighbourhood_id":-1,
+            "region_id":85685527,
+            "venue_id":219764445
+        }
+    ],
+    "wof:id":219764445,
+    "wof:lastmodified":1449073746,
+    "wof:name":"Palermo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [15.383333,41.688095,15.383333,41.688095],
+  "geometry": {"coordinates":[15.383333,41.688095],"type":"Point"}
+}

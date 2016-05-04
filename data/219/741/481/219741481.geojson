@@ -1,0 +1,67 @@
+{
+  "id": 219741481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.512041,41.923862,12.512041,41.923862",
+    "geom:latitude":41.923862,
+    "geom:longitude":12.512041,
+    "iso:country":"IT",
+    "sg:address":"1, V. Annone 00199 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39068604351",
+    "sg:postcode":"00199",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.cicatiello.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900397,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wuRkQ7p7gPe2ZcCEOROjA_41.923862_12.512041@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2a9871328b30098fd0af9efa4e77a5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900397,
+            "region_id":85685461,
+            "venue_id":219741481
+        }
+    ],
+    "wof:id":219741481,
+    "wof:lastmodified":1449070573,
+    "wof:name":"Cicatiello International Movers",
+    "wof:parent_id":85900397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.512041,41.923862,12.512041,41.923862],
+  "geometry": {"coordinates":[12.512041,41.923862],"type":"Point"}
+}

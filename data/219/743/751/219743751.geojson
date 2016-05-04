@@ -1,0 +1,65 @@
+{
+  "id": 219743751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.377063,44.560757,11.377063,44.560757",
+    "geom:latitude":44.560757,
+    "geom:longitude":11.377063,
+    "iso:country":"IT",
+    "sg:address":"32/34, Via Serenari M. 40013 Castel Maggiore",
+    "sg:city":"Castel Maggiore",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39051711011",
+    "sg:postcode":"40013",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904581,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a2LMyKzMEM1WuPFQyYH44_44.560757_11.377063@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"36c33db550569b8867561b47e8c6933a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904581,
+            "region_id":85685351,
+            "venue_id":219743751
+        }
+    ],
+    "wof:id":219743751,
+    "wof:lastmodified":1449073892,
+    "wof:name":"Cooperativa Coop.a.c. Autotrasporti (soc. Coop.r.l.)",
+    "wof:parent_id":85904581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.377063,44.560757,11.377063,44.560757],
+  "geometry": {"coordinates":[11.377063,44.560757],"type":"Point"}
+}

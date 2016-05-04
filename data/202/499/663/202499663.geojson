@@ -1,0 +1,66 @@
+{
+  "id": 202499663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.483603,40.927494,9.483603,40.927494",
+    "geom:latitude":40.927494,
+    "geom:longitude":9.483603,
+    "iso:country":"IT",
+    "sg:address":"1, Via Umberto I 07026 Olbia",
+    "sg:city":"Olbia",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39078923524",
+    "sg:postcode":"07026",
+    "sg:province":"Olbia-Tempio",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101777479,
+        85900489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yE0RgJJzXA0RLq3XTMjCS_40.927494_9.483603@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"3b5798c2ff25a4e7599973478aabed0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101777479,
+            "neighbourhood_id":85900489,
+            "region_id":-1,
+            "venue_id":202499663
+        }
+    ],
+    "wof:id":202499663,
+    "wof:lastmodified":1449060594,
+    "wof:name":"Unimare Unione Agenti Marittimi S.r.l.",
+    "wof:parent_id":85900489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [9.483603,40.927494,9.483603,40.927494],
+  "geometry": {"coordinates":[9.483603,40.927494],"type":"Point"}
+}

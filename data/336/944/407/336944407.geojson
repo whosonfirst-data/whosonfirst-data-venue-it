@@ -1,0 +1,73 @@
+{
+  "id": 336944407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.190202,45.454479,9.190202,45.454479",
+    "geom:latitude":45.454479,
+    "geom:longitude":9.190202,
+    "iso:country":"IT",
+    "sg:address":"20122 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 5831 7424",
+    "sg:postcode":"20122",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862721,
+        85633253,
+        101752703,
+        85685243,
+        85796803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MBZSk2em7njUZ498qiZWv_45.454479_9.190202@1306269878"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d9ee9a295d148ed07378de4e963ac1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862721,
+            "region_id":85685243,
+            "venue_id":336944407
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":336944407
+        }
+    ],
+    "wof:id":336944407,
+    "wof:lastmodified":1448997495,
+    "wof:name":"Giombini Sergio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [9.190202,45.454479,9.190202,45.454479],
+  "geometry": {"coordinates":[9.190202,45.454479],"type":"Point"}
+}

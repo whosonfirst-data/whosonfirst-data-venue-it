@@ -1,0 +1,66 @@
+{
+  "id": 219743653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.195414,43.8022,11.195414,43.8022",
+    "geom:latitude":43.8022,
+    "geom:longitude":11.195414,
+    "iso:country":"IT",
+    "sg:address":"122, Via Della Cupola 50145 Firenze",
+    "sg:city":"Firenze",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39055311744",
+    "sg:postcode":"50145",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904661,
+        85633253,
+        101752643,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WS4cyLLTtdy8bKrQ8WHgW_43.802200_11.195414@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"0dc7e28d3b35060655058507f731161b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904661,
+            "region_id":85685407,
+            "venue_id":219743653
+        }
+    ],
+    "wof:id":219743653,
+    "wof:lastmodified":1449073890,
+    "wof:name":"Cooperativa C.t.f. Trasporti Fiorentini (soc.coop.r.l.)",
+    "wof:parent_id":85904661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.195414,43.8022,11.195414,43.8022],
+  "geometry": {"coordinates":[11.195414,43.8022],"type":"Point"}
+}

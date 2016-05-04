@@ -1,0 +1,65 @@
+{
+  "id": 186451303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.109537,45.516563,10.109537,45.516563",
+    "geom:latitude":45.516563,
+    "geom:longitude":10.109537,
+    "iso:country":"IT",
+    "sg:address":"Via Travagliato 18 25030 Torbole Casaglia",
+    "sg:city":"Torbole Casaglia",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 215 9901",
+    "sg:postcode":"25030",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "disc",
+        "brake"
+    ],
+    "sg:website":"www.fonderiaditorbole.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xdjEL7NFGyvZsdmm2LuZ4_45.516563_10.109537@1306269796"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"092747338410e9c6a00f0e5445434769",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685253,
+            "venue_id":186451303
+        }
+    ],
+    "wof:id":186451303,
+    "wof:lastmodified":1449051539,
+    "wof:name":"Fonderia Di Torbole Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disc",
+        "brake"
+    ]
+},
+  "bbox": [10.109537,45.516563,10.109537,45.516563],
+  "geometry": {"coordinates":[10.109537,45.516563],"type":"Point"}
+}

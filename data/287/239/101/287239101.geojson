@@ -1,0 +1,65 @@
+{
+  "id": 287239101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.185226,43.810493,11.185226,43.810493",
+    "geom:latitude":43.810493,
+    "geom:longitude":11.185226,
+    "iso:country":"IT",
+    "sg:address":"40, Via Schiapparelli 50019 Sesto Fiorentino",
+    "sg:city":"Sesto Fiorentino",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 302 4275",
+    "sg:postcode":"50019",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "component",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904647,
+        85633253,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HP2CrsTKDH1KCgFHkohH5_43.810493_11.185226@1306269854"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"52f94762bc0da2f676deab95441c40e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904647,
+            "region_id":85685407,
+            "venue_id":287239101
+        }
+    ],
+    "wof:id":287239101,
+    "wof:lastmodified":1449000736,
+    "wof:name":"Simetrafo Italia Spa",
+    "wof:parent_id":85904647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "electronic"
+    ]
+},
+  "bbox": [11.185226,43.810493,11.185226,43.810493],
+  "geometry": {"coordinates":[11.185226,43.810493],"type":"Point"}
+}

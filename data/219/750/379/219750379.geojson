@@ -1,0 +1,65 @@
+{
+  "id": 219750379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.093642,45.542805,9.093642,45.542805",
+    "geom:latitude":45.542805,
+    "geom:longitude":9.093642,
+    "iso:country":"IT",
+    "sg:address":"13, Via Ghisalba 20021 Bollate",
+    "sg:city":"Bollate",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39023834111",
+    "sg:postcode":"20021",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862699,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vat5NM3UrgQ01TNPskmii_45.542805_9.093642@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"17411d33e646d69801ad9f95744a9b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862699,
+            "region_id":85685243,
+            "venue_id":219750379
+        }
+    ],
+    "wof:id":219750379,
+    "wof:lastmodified":1449072522,
+    "wof:name":"Ferry International Srl",
+    "wof:parent_id":85862699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.093642,45.542805,9.093642,45.542805],
+  "geometry": {"coordinates":[9.093642,45.542805],"type":"Point"}
+}

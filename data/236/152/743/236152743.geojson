@@ -1,0 +1,64 @@
+{
+  "id": 236152743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.235083,45.540154,9.235083,45.540154",
+    "geom:latitude":45.540154,
+    "geom:longitude":9.235083,
+    "iso:country":"IT",
+    "sg:address":"7, Via Campari Davide 20099 Sesto San Giovanni",
+    "sg:city":"Sesto San Giovanni",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 2247 0847",
+    "sg:postcode":"20099",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "drink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862739,
+        85633253,
+        101752699,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FXCAd6atV35OfcGtqtMKE_45.540154_9.235083@1306269815"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"94b8e9ea161fd9fdae65d51daf12acfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752699,
+            "neighbourhood_id":85862739,
+            "region_id":85685243,
+            "venue_id":236152743
+        }
+    ],
+    "wof:id":236152743,
+    "wof:lastmodified":1449004334,
+    "wof:name":"Davide Campari Milano Spa",
+    "wof:parent_id":85862739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink"
+    ]
+},
+  "bbox": [9.235083,45.540154,9.235083,45.540154],
+  "geometry": {"coordinates":[9.235083,45.540154],"type":"Point"}
+}

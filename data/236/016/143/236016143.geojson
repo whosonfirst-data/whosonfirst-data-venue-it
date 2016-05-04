@@ -1,0 +1,67 @@
+{
+  "id": 236016143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.010057,44.455193,9.010057,44.455193",
+    "geom:latitude":44.455193,
+    "geom:longitude":9.010057,
+    "iso:country":"IT",
+    "sg:address":"Via Rio Torbido 40 16165 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 83401",
+    "sg:postcode":"16165",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "product",
+        "diagnostic"
+    ],
+    "sg:website":"www.medicalsystems.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862669,
+        85633253,
+        101752663,
+        85685219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Dxe7tzGi8wlHjRtg6yrL_44.455193_9.010057@1306269814"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c5e3ea0839937430aab89e9acc5ba671",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752663,
+            "neighbourhood_id":85862669,
+            "region_id":85685219,
+            "venue_id":236016143
+        }
+    ],
+    "wof:id":236016143,
+    "wof:lastmodified":1449002105,
+    "wof:name":"Medical Systems Spa",
+    "wof:parent_id":85862669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "diagnostic"
+    ]
+},
+  "bbox": [9.010057,44.455193,9.010057,44.455193],
+  "geometry": {"coordinates":[9.010057,44.455193],"type":"Point"}
+}

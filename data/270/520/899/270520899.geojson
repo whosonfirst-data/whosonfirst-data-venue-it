@@ -1,0 +1,66 @@
+{
+  "id": 270520899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.253256,45.397758,9.253256,45.397758",
+    "geom:latitude":45.397758,
+    "geom:longitude":9.253256,
+    "iso:country":"IT",
+    "sg:address":"23, Via Lombardia 20098 San Giuliano Milanese",
+    "sg:city":"San Giuliano Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39029883151",
+    "sg:postcode":"20098",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862749,
+        85633253,
+        101757801,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2woE4t5FEtl5dQBTczUwck_45.397758_9.253256@1306269843"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b2b29517bfbb1794b34e11df45b6083c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757801,
+            "neighbourhood_id":85862749,
+            "region_id":85685243,
+            "venue_id":270520899
+        }
+    ],
+    "wof:id":270520899,
+    "wof:lastmodified":1449009443,
+    "wof:name":"Fuchs Srl",
+    "wof:parent_id":85862749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [9.253256,45.397758,9.253256,45.397758],
+  "geometry": {"coordinates":[9.253256,45.397758],"type":"Point"}
+}

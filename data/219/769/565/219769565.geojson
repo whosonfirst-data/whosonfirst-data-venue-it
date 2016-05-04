@@ -1,0 +1,66 @@
+{
+  "id": 219769565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.115986,45.41523,9.115986,45.41523",
+    "geom:latitude":45.41523,
+    "geom:longitude":9.115986,
+    "iso:country":"IT",
+    "sg:address":"48, Via Della Resistenza 20090 Buccinasco",
+    "sg:city":"Buccinasco",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 4570 0232",
+    "sg:postcode":"20090",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796849,
+        85633253,
+        101757823,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zRLiiMl3tTxroTy18JEqi_45.415230_9.115986@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5746dcc5c39f91dc80befc2ae417c050",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757823,
+            "neighbourhood_id":85796849,
+            "region_id":85685243,
+            "venue_id":219769565
+        }
+    ],
+    "wof:id":219769565,
+    "wof:lastmodified":1449071571,
+    "wof:name":"S.i.a.t. Cestaro (s.r.l.)",
+    "wof:parent_id":85796849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.115986,45.41523,9.115986,45.41523],
+  "geometry": {"coordinates":[9.115986,45.41523],"type":"Point"}
+}

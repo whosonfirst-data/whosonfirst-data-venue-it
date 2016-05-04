@@ -1,0 +1,66 @@
+{
+  "id": 169819611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.2551,45.528782,10.2551,45.528782",
+    "geom:latitude":45.528782,
+    "geom:longitude":10.2551,
+    "iso:country":"IT",
+    "sg:address":"42, Viale Della Bornata 25123 Brescia",
+    "sg:city":"Brescia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 336 6807",
+    "sg:postcode":"25123",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nDtmgAwFiqBeqGEJdEUFD_45.528782_10.255100@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"93929c4ef4cac93e3181d2d4e129f5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":169819611
+        }
+    ],
+    "wof:id":169819611,
+    "wof:lastmodified":1449033480,
+    "wof:name":"Nazionale Fiduciaria (s.p.a.)",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [10.2551,45.528782,10.2551,45.528782],
+  "geometry": {"coordinates":[10.2551,45.528782],"type":"Point"}
+}

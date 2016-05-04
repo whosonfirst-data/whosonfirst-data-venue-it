@@ -1,0 +1,66 @@
+{
+  "id": 269914319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.789797,45.070736,11.789797,45.070736",
+    "geom:latitude":45.070736,
+    "geom:longitude":11.789797,
+    "iso:country":"IT",
+    "sg:address":"Viale Porta Po 92/a 45100 Rovigo",
+    "sg:city":"Rovigo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0425 474401",
+    "sg:postcode":"45100",
+    "sg:province":"Rovigo",
+    "sg:tags":[
+        "heater",
+        "air"
+    ],
+    "sg:website":"www.aerpol.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101837271,
+        85685313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46OqoqkBXET7yEfDujMmXZ_45.070736_11.789797@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a4aa2e7da5d408497f1fdcc280eda202",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101837271,
+            "neighbourhood_id":-1,
+            "region_id":85685313,
+            "venue_id":269914319
+        }
+    ],
+    "wof:id":269914319,
+    "wof:lastmodified":1449037061,
+    "wof:name":"Aerpol Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heater",
+        "air"
+    ]
+},
+  "bbox": [11.789797,45.070736,11.789797,45.070736],
+  "geometry": {"coordinates":[11.789797,45.070736],"type":"Point"}
+}

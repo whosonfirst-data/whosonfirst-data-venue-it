@@ -1,0 +1,82 @@
+{
+  "id": 186631349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.189665,45.462635,9.189665,45.462635",
+    "geom:latitude":45.462635,
+    "geom:longitude":9.189665,
+    "iso:country":"IT",
+    "sg:address":"20123 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 885 8921",
+    "sg:postcode":"20123",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "services",
+        "personnel",
+        "school",
+        "educational",
+        "recruitment"
+    ],
+    "sg:website":"http://www.isc.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243,
+        85796803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ksQpDv6zEesNWuXYltSib_45.462635_9.189665@1306269797"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d8b93545a28c9b261d912345afaf46d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":186631349
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":186631349
+        }
+    ],
+    "wof:id":186631349,
+    "wof:lastmodified":1449051206,
+    "wof:name":"Istituto Superiore Di Comunicazione Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "services",
+        "personnel",
+        "school",
+        "educational",
+        "recruitment"
+    ]
+},
+  "bbox": [9.189665,45.462635,9.189665,45.462635],
+  "geometry": {"coordinates":[9.189665,45.462635],"type":"Point"}
+}

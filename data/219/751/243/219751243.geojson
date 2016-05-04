@@ -1,0 +1,67 @@
+{
+  "id": 219751243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.187343,45.501511,9.187343,45.501511",
+    "geom:latitude":45.501511,
+    "geom:longitude":9.187343,
+    "iso:country":"IT",
+    "sg:address":"3, V. L. Pavoni20159 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9673 4146",
+    "sg:postcode":"20159",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/larosa-mi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796821,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yNRT002aSj5nEAO4TMGeR_45.501511_9.187343@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"9dbeaa91a547b7835d81360dee4947e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796821,
+            "region_id":85685243,
+            "venue_id":219751243
+        }
+    ],
+    "wof:id":219751243,
+    "wof:lastmodified":1449070579,
+    "wof:name":"Fratelli La Rosa",
+    "wof:parent_id":85796821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.187343,45.501511,9.187343,45.501511],
+  "geometry": {"coordinates":[9.187343,45.501511],"type":"Point"}
+}

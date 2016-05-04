@@ -1,0 +1,67 @@
+{
+  "id": 186487631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.234164,45.512272,9.234164,45.512272",
+    "geom:latitude":45.512272,
+    "geom:longitude":9.234164,
+    "iso:country":"IT",
+    "sg:address":"Via Ponte Nuovo 109 20128 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 2600 5309",
+    "sg:postcode":"20128",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "broadcast",
+        "antenna"
+    ],
+    "sg:website":"www.antennecaletti.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796863,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lnVZGlzwE5hZTE1HCZtPL_45.512272_9.234164@1306269796"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8906477c8b95387e23d4b54e98b3c376",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796863,
+            "region_id":85685243,
+            "venue_id":186487631
+        }
+    ],
+    "wof:id":186487631,
+    "wof:lastmodified":1449051271,
+    "wof:name":"Caletti Srl",
+    "wof:parent_id":85796863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "antenna"
+    ]
+},
+  "bbox": [9.234164,45.512272,9.234164,45.512272],
+  "geometry": {"coordinates":[9.234164,45.512272],"type":"Point"}
+}

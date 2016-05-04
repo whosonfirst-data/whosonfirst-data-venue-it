@@ -1,0 +1,65 @@
+{
+  "id": 219735935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.423701,41.854385,12.423701,41.854385",
+    "geom:latitude":41.854385,
+    "geom:longitude":12.423701,
+    "iso:country":"IT",
+    "sg:address":"61, Via Dei Buonvisi 00148 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 390 665 6881",
+    "sg:postcode":"00148",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900349,
+        85633253,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cZPjAAeDUtkp2ESaF6X4W_41.854385_12.423701@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"126e018eb9837701eb524763d904df4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900349,
+            "region_id":85685461,
+            "venue_id":219735935
+        }
+    ],
+    "wof:id":219735935,
+    "wof:lastmodified":1449073832,
+    "wof:name":"Bolliger Roma Spa",
+    "wof:parent_id":85900349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.423701,41.854385,12.423701,41.854385],
+  "geometry": {"coordinates":[12.423701,41.854385],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 236747689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.730492,45.030628,9.730492,45.030628",
+    "geom:latitude":45.030628,
+    "geom:longitude":9.730492,
+    "iso:country":"IT",
+    "sg:address":"Via Mafalda Savoia 1 29100 Piacenza",
+    "sg:city":"Piacenza",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0523 615440",
+    "sg:postcode":"29100",
+    "sg:province":"Piacenza",
+    "sg:tags":[
+        "transmission",
+        "gear"
+    ],
+    "sg:website":"www.carinispa.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752679,
+        85685331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IDQ6RKccjxxo6Ip8Hbfst_45.030628_9.730492@1306269821"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ab21c4bbb79cedd58c7c203b4459561f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752679,
+            "neighbourhood_id":-1,
+            "region_id":85685331,
+            "venue_id":236747689
+        }
+    ],
+    "wof:id":236747689,
+    "wof:lastmodified":1449002126,
+    "wof:name":"Carini Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "gear"
+    ]
+},
+  "bbox": [9.730492,45.030628,9.730492,45.030628],
+  "geometry": {"coordinates":[9.730492,45.030628],"type":"Point"}
+}

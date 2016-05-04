@@ -1,0 +1,73 @@
+{
+  "id": 220060211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.206372,45.556911,9.206372,45.556911",
+    "geom:latitude":45.556911,
+    "geom:longitude":9.206372,
+    "iso:country":"IT",
+    "sg:address":"20052 Monza",
+    "sg:city":"Monza",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 039 748983",
+    "sg:postcode":"20052",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "activities",
+        "industrial",
+        "instrument",
+        "machines",
+        "equipment"
+    ],
+    "sg:website":"http://www.omecosrl.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862739,
+        85633253,
+        101752699,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pof9kFijG98cl0YXBbgDn_45.556911_9.206372@1306269812"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e6b88f1d4792bf981ba70f587302ae8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752699,
+            "neighbourhood_id":85862739,
+            "region_id":85685243,
+            "venue_id":220060211
+        }
+    ],
+    "wof:id":220060211,
+    "wof:lastmodified":1449074801,
+    "wof:name":"Omeco Srl",
+    "wof:parent_id":85862739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "activities",
+        "industrial",
+        "instrument",
+        "machines",
+        "equipment"
+    ]
+},
+  "bbox": [9.206372,45.556911,9.206372,45.556911],
+  "geometry": {"coordinates":[9.206372,45.556911],"type":"Point"}
+}

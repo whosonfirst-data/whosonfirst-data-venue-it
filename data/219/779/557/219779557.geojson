@@ -1,0 +1,66 @@
+{
+  "id": 219779557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.203226,45.482468,9.203226,45.482468",
+    "geom:latitude":45.482468,
+    "geom:longitude":9.203226,
+    "iso:country":"IT",
+    "sg:address":"17/21, Via Pedroni Lisiade 20161 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39026621631",
+    "sg:postcode":"20161",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sM0AKqR26BqGauIrXnFV1_45.482468_9.203226@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5249afca0773819e4a86d8ad8708be9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":219779557
+        }
+    ],
+    "wof:id":219779557,
+    "wof:lastmodified":1449070933,
+    "wof:name":"U- Freight Euromar Di Giorgio Malaterra E C. Sas",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.203226,45.482468,9.203226,45.482468],
+  "geometry": {"coordinates":[9.203226,45.482468],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 219765889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.997327,43.728069,10.997327,43.728069",
+    "geom:latitude":43.728069,
+    "geom:longitude":10.997327,
+    "iso:country":"IT",
+    "sg:address":"Via Tosco Romagnola Sud 50056 Montelupo Fiorentino",
+    "sg:city":"Montelupo Fiorentino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0571 541298",
+    "sg:postcode":"50056",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101837125,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WYcVvZCMB7Vz6gByZlaJl_43.728069_10.997327@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"9e9800e739cf58d6b2111bc72d8d3615",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101837125,
+            "neighbourhood_id":-1,
+            "region_id":85685407,
+            "venue_id":219765889
+        }
+    ],
+    "wof:id":219765889,
+    "wof:lastmodified":1449072416,
+    "wof:name":"Piccini David Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.997327,43.728069,10.997327,43.728069],
+  "geometry": {"coordinates":[10.997327,43.728069],"type":"Point"}
+}

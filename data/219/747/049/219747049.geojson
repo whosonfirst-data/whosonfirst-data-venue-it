@@ -1,0 +1,67 @@
+{
+  "id": 219747049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.351614,38.115154,13.351614,38.115154",
+    "geom:latitude":38.115154,
+    "geom:longitude":13.351614,
+    "iso:country":"IT",
+    "sg:address":"70, C. Alberto Amedeo 90138 Palermo",
+    "sg:city":"Palermo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39091329537",
+    "sg:postcode":"90138",
+    "sg:province":"Palermo",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.digraziatrasporti.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904859,
+        85633253,
+        101752517,
+        85685591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5krgObfgixbci97JGHnrHw_38.115154_13.351614@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"28e3fb045196f1bddfc1559df59b4ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752517,
+            "neighbourhood_id":85904859,
+            "region_id":85685591,
+            "venue_id":219747049
+        }
+    ],
+    "wof:id":219747049,
+    "wof:lastmodified":1449071037,
+    "wof:name":"Di Grazia Gaetano",
+    "wof:parent_id":85904859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.351614,38.115154,13.351614,38.115154],
+  "geometry": {"coordinates":[13.351614,38.115154],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 253578901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.215001,45.549995,10.215001,45.549995",
+    "geom:latitude":45.549995,
+    "geom:longitude":10.215001,
+    "iso:country":"IT",
+    "sg:address":"Via Vittorio Veneto 46 25128 Brescia",
+    "sg:city":"Brescia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 391748",
+    "sg:postcode":"25128",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20UvZqXBzoPVHJQhVBSVux_45.549995_10.215001@1306269831"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8c10edc370ee66cc2d4ffa108d049a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":253578901
+        }
+    ],
+    "wof:id":253578901,
+    "wof:lastmodified":1449063561,
+    "wof:name":"Pan Ecol Italiana Srl",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [10.215001,45.549995,10.215001,45.549995],
+  "geometry": {"coordinates":[10.215001,45.549995],"type":"Point"}
+}

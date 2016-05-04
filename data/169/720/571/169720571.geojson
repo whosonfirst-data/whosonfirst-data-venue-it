@@ -1,0 +1,66 @@
+{
+  "id": 169720571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.43544,45.691608,11.43544,45.691608",
+    "geom:latitude":45.691608,
+    "geom:longitude":11.43544,
+    "iso:country":"IT",
+    "sg:address":"Via Vittorio Veneto 26 36035 Marano Vicentino",
+    "sg:city":"Marano Vicentino",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0445 621077",
+    "sg:postcode":"36035",
+    "sg:province":"Vicenza",
+    "sg:tags":[
+        "machine",
+        "bakery"
+    ],
+    "sg:website":"www.fornifiorini.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101795557,
+        85685287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kXQroE24vCW9xI8r6SNxF_45.691608_11.435440@1306269788"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"14cf34c575cee06064ba9b6c86010634",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101795557,
+            "neighbourhood_id":-1,
+            "region_id":85685287,
+            "venue_id":169720571
+        }
+    ],
+    "wof:id":169720571,
+    "wof:lastmodified":1449033481,
+    "wof:name":"Forni Fiorini Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "bakery"
+    ]
+},
+  "bbox": [11.43544,45.691608,11.43544,45.691608],
+  "geometry": {"coordinates":[11.43544,45.691608],"type":"Point"}
+}

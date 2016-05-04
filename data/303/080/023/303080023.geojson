@@ -1,0 +1,70 @@
+{
+  "id": 303080023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.686717,45.088993,7.686717,45.088993",
+    "geom:latitude":45.088993,
+    "geom:longitude":7.686717,
+    "iso:country":"IT",
+    "sg:address":"Corso Vigevano 13 10152 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Army Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 007 8211",
+    "sg:postcode":"10152",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "astronautics",
+        "component",
+        "electronic",
+        "aviation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862793,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WU9Zk3ZwBVaLrce85rCjX_45.088993_7.686717@1306269855"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2a4153eed8908ecbdaf46711fe7ececc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85862793,
+            "region_id":85685169,
+            "venue_id":303080023
+        }
+    ],
+    "wof:id":303080023,
+    "wof:lastmodified":1449000499,
+    "wof:name":"Sepa Spa",
+    "wof:parent_id":85862793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "astronautics",
+        "component",
+        "electronic",
+        "aviation"
+    ]
+},
+  "bbox": [7.686717,45.088993,7.686717,45.088993],
+  "geometry": {"coordinates":[7.686717,45.088993],"type":"Point"}
+}

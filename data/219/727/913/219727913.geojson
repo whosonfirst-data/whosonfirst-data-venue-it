@@ -1,0 +1,65 @@
+{
+  "id": 219727913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.039582,45.434692,11.039582,45.434692",
+    "geom:latitude":45.434692,
+    "geom:longitude":11.039582,
+    "iso:country":"IT",
+    "sg:address":"42, Via Unita' D'italia 37132 Verona",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 892 1100",
+    "sg:postcode":"37132",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905051,
+        85633253,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36WmFvfq2uijucqKjnqJ8j_45.434692_11.039582@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"060e49a2083bec1d847480b291274ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85905051,
+            "region_id":85685281,
+            "venue_id":219727913
+        }
+    ],
+    "wof:id":219727913,
+    "wof:lastmodified":1449070924,
+    "wof:name":"Arcopall",
+    "wof:parent_id":85905051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.039582,45.434692,11.039582,45.434692],
+  "geometry": {"coordinates":[11.039582,45.434692],"type":"Point"}
+}

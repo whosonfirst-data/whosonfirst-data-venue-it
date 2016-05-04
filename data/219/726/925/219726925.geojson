@@ -1,0 +1,67 @@
+{
+  "id": 219726925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.534517,41.909279,12.534517,41.909279",
+    "geom:latitude":41.909279,
+    "geom:longitude":12.534517,
+    "iso:country":"IT",
+    "sg:address":"V. Dello Scalo Tiburtino S.n.c. 00157 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39064500444",
+    "sg:postcode":"00157",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.alom.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904931,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Th0d7tboij7EtDTAzA2zR_41.909279_12.534517@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f42cb461f1afb5829d854a301e1f8ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904931,
+            "region_id":85685461,
+            "venue_id":219726925
+        }
+    ],
+    "wof:id":219726925,
+    "wof:lastmodified":1449072802,
+    "wof:name":"Alom Srl",
+    "wof:parent_id":85904931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.534517,41.909279,12.534517,41.909279],
+  "geometry": {"coordinates":[12.534517,41.909279],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 270469649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.223542,43.738899,11.223542,43.738899",
+    "geom:latitude":43.738899,
+    "geom:longitude":11.223542,
+    "iso:country":"IT",
+    "sg:address":"Via San Michele 36 50018 Scandicci",
+    "sg:city":"Scandicci",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 769111",
+    "sg:postcode":"50018",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "product",
+        "cereal"
+    ],
+    "sg:website":"www.fattoriasanmichele.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900357,
+        85633253,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fbvj8VYqWKFpa7sfpnyop_43.738899_11.223542@1306269842"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"517574a33eb536968381ffc6149417e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900357,
+            "region_id":85685407,
+            "venue_id":270469649
+        }
+    ],
+    "wof:id":270469649,
+    "wof:lastmodified":1449011157,
+    "wof:name":"Fattoria San Michele A Torri Srl",
+    "wof:parent_id":85900357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "cereal"
+    ]
+},
+  "bbox": [11.223542,43.738899,11.223542,43.738899],
+  "geometry": {"coordinates":[11.223542,43.738899],"type":"Point"}
+}

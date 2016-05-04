@@ -1,0 +1,66 @@
+{
+  "id": 303425013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.903113,44.565407,10.903113,44.565407",
+    "geom:latitude":44.565407,
+    "geom:longitude":10.903113,
+    "iso:country":"IT",
+    "sg:address":"Viale Amendola 125 41100 Modena",
+    "sg:city":"Modena",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 059 353010",
+    "sg:postcode":"41100",
+    "sg:province":"Modena",
+    "sg:tags":[
+        "construction",
+        "apartment"
+    ],
+    "sg:website":"www.piacentinicostruzioni.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101797903,
+        85685347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ncYQo5W2IkGbPYbUnv0HD_44.565407_10.903113@1306269859"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7c02969bdbe824d3051b8bac1fb93c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101797903,
+            "neighbourhood_id":-1,
+            "region_id":85685347,
+            "venue_id":303425013
+        }
+    ],
+    "wof:id":303425013,
+    "wof:lastmodified":1448998981,
+    "wof:name":"Piacentini Costruzioni Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "apartment"
+    ]
+},
+  "bbox": [10.903113,44.565407,10.903113,44.565407],
+  "geometry": {"coordinates":[10.903113,44.565407],"type":"Point"}
+}

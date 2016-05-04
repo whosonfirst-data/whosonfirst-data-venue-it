@@ -1,0 +1,65 @@
+{
+  "id": 303236885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.676863,45.693859,9.676863,45.693859",
+    "geom:latitude":45.693859,
+    "geom:longitude":9.676863,
+    "iso:country":"IT",
+    "sg:address":"2, V. Manzoni 24020 Ranica",
+    "sg:city":"Ranica",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39035341485",
+    "sg:postcode":"24020",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "energy"
+    ],
+    "sg:website":"http://www.autogasorobica.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900501,
+        85633253,
+        101752723,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gDSXWcdBrF4wmP880nsdc_45.693859_9.676863@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"644de924664c8765980b5376e0551e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752723,
+            "neighbourhood_id":85900501,
+            "region_id":85685249,
+            "venue_id":303236885
+        }
+    ],
+    "wof:id":303236885,
+    "wof:lastmodified":1448998381,
+    "wof:name":"L'autogas Orobica",
+    "wof:parent_id":85900501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy"
+    ]
+},
+  "bbox": [9.676863,45.693859,9.676863,45.693859],
+  "geometry": {"coordinates":[9.676863,45.693859],"type":"Point"}
+}

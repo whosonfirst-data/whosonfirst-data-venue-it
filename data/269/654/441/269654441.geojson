@@ -1,0 +1,65 @@
+{
+  "id": 269654441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.669952,45.694904,9.669952,45.694904",
+    "geom:latitude":45.694904,
+    "geom:longitude":9.669952,
+    "iso:country":"IT",
+    "sg:address":"Via G. Marconi 21 24040 Suisio",
+    "sg:city":"Suisio",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 035 901121",
+    "sg:postcode":"24040",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "additive"
+    ],
+    "sg:website":"www.iterchimica.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900501,
+        85633253,
+        101752723,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yd86zVkEbIDSGv1uslDrY_45.694904_9.669952@1306269834"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e02950f640804ae37f90f1b085a4ec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752723,
+            "neighbourhood_id":85900501,
+            "region_id":85685249,
+            "venue_id":269654441
+        }
+    ],
+    "wof:id":269654441,
+    "wof:lastmodified":1449036956,
+    "wof:name":"Iterchimica Srl",
+    "wof:parent_id":85900501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive"
+    ]
+},
+  "bbox": [9.669952,45.694904,9.669952,45.694904],
+  "geometry": {"coordinates":[9.669952,45.694904],"type":"Point"}
+}

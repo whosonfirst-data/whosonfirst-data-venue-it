@@ -1,0 +1,66 @@
+{
+  "id": 219749259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.646844,45.070194,7.646844,45.070194",
+    "geom:latitude":45.070194,
+    "geom:longitude":7.646844,
+    "iso:country":"IT",
+    "sg:address":"101, Corso Racconigi 10141 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 385 2061",
+    "sg:postcode":"10141",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796995,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_608jnPso9cmgLrUobyJvYb_45.070194_7.646844@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e3490b34e7c13ef656d803db16d00cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85796995,
+            "region_id":85685169,
+            "venue_id":219749259
+        }
+    ],
+    "wof:id":219749259,
+    "wof:lastmodified":1449071412,
+    "wof:name":"F.a.t.a. S.c.r.l.",
+    "wof:parent_id":85796995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.646844,45.070194,7.646844,45.070194],
+  "geometry": {"coordinates":[7.646844,45.070194],"type":"Point"}
+}

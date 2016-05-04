@@ -1,0 +1,66 @@
+{
+  "id": 253222049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.054805,45.462814,9.054805,45.462814",
+    "geom:latitude":45.462814,
+    "geom:longitude":9.054805,
+    "iso:country":"IT",
+    "sg:address":"Via Darwin 63 20019 Settimo Milanese",
+    "sg:city":"Settimo Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 335 5591",
+    "sg:postcode":"20019",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "fertilizer",
+        "organic"
+    ],
+    "sg:website":"www.orvital.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862759,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02VaBecySSsQ3N1W10L4o7_45.462814_9.054805@1306269827"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"44f3c96981b2c01fdacb0f8746097c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862759,
+            "region_id":85685243,
+            "venue_id":253222049
+        }
+    ],
+    "wof:id":253222049,
+    "wof:lastmodified":1449064816,
+    "wof:name":"Orvital Spa",
+    "wof:parent_id":85862759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer",
+        "organic"
+    ]
+},
+  "bbox": [9.054805,45.462814,9.054805,45.462814],
+  "geometry": {"coordinates":[9.054805,45.462814],"type":"Point"}
+}

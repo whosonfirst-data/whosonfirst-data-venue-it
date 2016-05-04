@@ -1,0 +1,66 @@
+{
+  "id": 219772779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.183011,45.495068,9.183011,45.495068",
+    "geom:latitude":45.495068,
+    "geom:longitude":9.183011,
+    "iso:country":"IT",
+    "sg:address":"59, Viale Stelvio 20159 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39026887251",
+    "sg:postcode":"20159",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796821,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R5QdSPVQod8oU7RS4CC0R_45.495068_9.183011@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7e6b157ec4bdc3074ff2a80ba6e382d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796821,
+            "region_id":85685243,
+            "venue_id":219772779
+        }
+    ],
+    "wof:id":219772779,
+    "wof:lastmodified":1449071980,
+    "wof:name":"Societa' Trasporti Castelletti (s.p.a.)",
+    "wof:parent_id":85796821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.183011,45.495068,9.183011,45.495068],
+  "geometry": {"coordinates":[9.183011,45.495068],"type":"Point"}
+}

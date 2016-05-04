@@ -1,0 +1,66 @@
+{
+  "id": 169809591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.215471,45.5373,10.215471,45.5373",
+    "geom:latitude":45.5373,
+    "geom:longitude":10.215471,
+    "iso:country":"IT",
+    "sg:address":"13, Corso Martiri Della Liberta' 25122 Brescia",
+    "sg:city":"Brescia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 390 302 9921",
+    "sg:postcode":"25122",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jWNxAbhljIiMTWbOB3zSE_45.537300_10.215471@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4e2901bc437868fee06170d9d111d407",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":169809591
+        }
+    ],
+    "wof:id":169809591,
+    "wof:lastmodified":1449035371,
+    "wof:name":"Banco Di Brescia",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [10.215471,45.5373,10.215471,45.5373],
+  "geometry": {"coordinates":[10.215471,45.5373],"type":"Point"}
+}

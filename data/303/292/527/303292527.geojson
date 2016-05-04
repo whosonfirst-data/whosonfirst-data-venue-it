@@ -1,0 +1,74 @@
+{
+  "id": 303292527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.296617,45.76973,9.296617,45.76973",
+    "geom:latitude":45.76973,
+    "geom:longitude":9.296617,
+    "iso:country":"IT",
+    "sg:address":"Via Europa, 31/1 23846 Garbagnate Monastero",
+    "sg:city":"Garbagnate Monastero",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 031 870203",
+    "sg:postcode":"23846",
+    "sg:province":"Lecco",
+    "sg:tags":[
+        "plant",
+        "digestion",
+        "tank",
+        "equipment",
+        "treatment",
+        "sludge"
+    ],
+    "sg:website":"www.simeco.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101760607,
+        85685669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_273DU9KXPJ7ym2hG8LEAtD_45.769730_9.296617@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5418fded6cb781c34602eabacdfb0456",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101760607,
+            "neighbourhood_id":-1,
+            "region_id":85685669,
+            "venue_id":303292527
+        }
+    ],
+    "wof:id":303292527,
+    "wof:lastmodified":1448998324,
+    "wof:name":"Simeco Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "digestion",
+        "tank",
+        "equipment",
+        "treatment",
+        "sludge"
+    ]
+},
+  "bbox": [9.296617,45.76973,9.296617,45.76973],
+  "geometry": {"coordinates":[9.296617,45.76973],"type":"Point"}
+}

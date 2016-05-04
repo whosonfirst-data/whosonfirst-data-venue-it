@@ -1,0 +1,67 @@
+{
+  "id": 219723755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.131441,45.505871,9.131441,45.505871",
+    "geom:latitude":45.505871,
+    "geom:longitude":9.131441,
+    "iso:country":"IT",
+    "sg:address":"10, V. Alassio 20156 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 3349 6212",
+    "sg:postcode":"20156",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.selfstorage.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796899,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LYPhYHgWXaPJyTA22fvA9_45.505871_9.131441@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"889f74743ed07f7d28bfc29ec5fb5fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796899,
+            "region_id":85685243,
+            "venue_id":219723755
+        }
+    ],
+    "wof:id":219723755,
+    "wof:lastmodified":1449072444,
+    "wof:name":"Casaforte Selfstorage",
+    "wof:parent_id":85796899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.131441,45.505871,9.131441,45.505871],
+  "geometry": {"coordinates":[9.131441,45.505871],"type":"Point"}
+}

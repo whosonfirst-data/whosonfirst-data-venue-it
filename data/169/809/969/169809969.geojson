@@ -1,0 +1,66 @@
+{
+  "id": 169809969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.670302,45.694077,9.670302,45.694077",
+    "geom:latitude":45.694077,
+    "geom:longitude":9.670302,
+    "iso:country":"IT",
+    "sg:address":"2, Largo Porta Nuova 24122 Bergamo",
+    "sg:city":"Bergamo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39035350111",
+    "sg:postcode":"24122",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900501,
+        85633253,
+        101752723,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CFqRbOZPw7QEjzvb3u8OW_45.694077_9.670302@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"84c40ce38ff548adf8c197ca7f23670c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752723,
+            "neighbourhood_id":85900501,
+            "region_id":85685249,
+            "venue_id":169809969
+        }
+    ],
+    "wof:id":169809969,
+    "wof:lastmodified":1449035370,
+    "wof:name":"Banco Popolare Di Verona E Novara Scrl",
+    "wof:parent_id":85900501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.670302,45.694077,9.670302,45.694077],
+  "geometry": {"coordinates":[9.670302,45.694077],"type":"Point"}
+}

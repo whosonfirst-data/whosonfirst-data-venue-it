@@ -1,0 +1,64 @@
+{
+  "id": 219737561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.804327,46.162865,9.804327,46.162865",
+    "geom:latitude":46.162865,
+    "geom:longitude":9.804327,
+    "iso:country":"IT",
+    "sg:address":"74, Via Ezio Vanoni 23012 Castione Andevenno",
+    "sg:city":"Castione Andevenno",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0342 567174",
+    "sg:postcode":"23012",
+    "sg:province":"Sondrio",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0msK99WvoTZp6K0uMQgi5w_46.162865_9.804327@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"713f2ff41d6563209367a9ad61545640",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685239,
+            "venue_id":219737561
+        }
+    ],
+    "wof:id":219737561,
+    "wof:lastmodified":1449071188,
+    "wof:name":"C.a.a.v. Consorzio Artigiano Autotrasportatori Valtellinesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.804327,46.162865,9.804327,46.162865],
+  "geometry": {"coordinates":[9.804327,46.162865],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 219237177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.256505,45.560806,9.256505,45.560806",
+    "geom:latitude":45.560806,
+    "geom:longitude":9.256505,
+    "iso:country":"IT",
+    "sg:address":"Via Borgazzi 157 20052 Monza",
+    "sg:city":"Monza",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 039 200 0570",
+    "sg:postcode":"20052",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "technical",
+        "equipment",
+        "ship"
+    ],
+    "sg:website":"www.orvea.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752709,
+        85685723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vqbj1KtwWdV33BEOphIlW_45.560806_9.256505@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"02ae408d4f3b763732de88955d8afe9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752709,
+            "neighbourhood_id":-1,
+            "region_id":85685723,
+            "venue_id":219237177
+        }
+    ],
+    "wof:id":219237177,
+    "wof:lastmodified":1449070457,
+    "wof:name":"Orvea Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "equipment",
+        "ship"
+    ]
+},
+  "bbox": [9.256505,45.560806,9.256505,45.560806],
+  "geometry": {"coordinates":[9.256505,45.560806],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 270512005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.347284,43.53466,10.347284,43.53466",
+    "geom:latitude":43.53466,
+    "geom:longitude":10.347284,
+    "iso:country":"IT",
+    "sg:address":"75, Via Del Giaggiolo 57124 Livorno",
+    "sg:city":"Livorno",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0586 854393",
+    "sg:postcode":"57124",
+    "sg:province":"Livorno",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900469,
+        85633253,
+        101752619,
+        85685413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jrgz1qODgFJcAgTZbJ1r9_43.534660_10.347284@1306269842"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5879f50363e49fc9fbe895fed1b8443d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752619,
+            "neighbourhood_id":85900469,
+            "region_id":85685413,
+            "venue_id":270512005
+        }
+    ],
+    "wof:id":270512005,
+    "wof:lastmodified":1449010436,
+    "wof:name":"Cheddite Italia (s.p.a.)",
+    "wof:parent_id":85900469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [10.347284,43.53466,10.347284,43.53466],
+  "geometry": {"coordinates":[10.347284,43.53466],"type":"Point"}
+}

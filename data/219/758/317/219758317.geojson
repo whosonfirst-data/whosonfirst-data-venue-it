@@ -1,0 +1,67 @@
+{
+  "id": 219758317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.996625,45.436684,10.996625,45.436684",
+    "geom:latitude":45.436684,
+    "geom:longitude":10.996625,
+    "iso:country":"IT",
+    "sg:address":"6, V. Terre 37121 Verona",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 803 9168",
+    "sg:postcode":"37121",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.lucan.it:ws_end: :mark:ws:http://www.paginegialle.it/lucan",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905047,
+        85633253,
+        101752711,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lEh0Tzcb9r9AJeJugn9hA_45.436684_10.996625@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6aad07bbaf168bfa99801fc0f6e1fa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752711,
+            "neighbourhood_id":85905047,
+            "region_id":85685281,
+            "venue_id":219758317
+        }
+    ],
+    "wof:id":219758317,
+    "wof:lastmodified":1449071466,
+    "wof:name":"Lucan Autotrasporti Srl",
+    "wof:parent_id":85905047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.996625,45.436684,10.996625,45.436684],
+  "geometry": {"coordinates":[10.996625,45.436684],"type":"Point"}
+}

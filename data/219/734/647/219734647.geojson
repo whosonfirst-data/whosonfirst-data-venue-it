@@ -1,0 +1,65 @@
+{
+  "id": 219734647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.234159,44.717426,10.234159,44.717426",
+    "geom:latitude":44.717426,
+    "geom:longitude":10.234159,
+    "iso:country":"IT",
+    "sg:address":"9, Via Rosa Augusto Detto Al Gnan 43038 Sala Baganza",
+    "sg:city":"Sala Baganza",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0521 834666",
+    "sg:postcode":"43038",
+    "sg:province":"Parma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101829711,
+        85685339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tWnNfv1zzgUNXC8oNoFaD_44.717426_10.234159@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"990173877a2d39b1ead234204a207bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101829711,
+            "neighbourhood_id":-1,
+            "region_id":85685339,
+            "venue_id":219734647
+        }
+    ],
+    "wof:id":219734647,
+    "wof:lastmodified":1449073469,
+    "wof:name":"B.p.g. (s.r.l.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.234159,44.717426,10.234159,44.717426],
+  "geometry": {"coordinates":[10.234159,44.717426],"type":"Point"}
+}

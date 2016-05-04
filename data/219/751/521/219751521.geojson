@@ -1,0 +1,67 @@
+{
+  "id": 219751521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.547618,41.864182,12.547618,41.864182",
+    "geom:latitude":41.864182,
+    "geom:longitude":12.547618,
+    "iso:country":"IT",
+    "sg:address":"12, V. Dei Lentuli 00175 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 390 676 4213",
+    "sg:postcode":"00175",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/futuroma",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904929,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EvBzazoDWKLtxi6FZwLLB_41.864182_12.547618@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"3542370592c3b545e66d7f456f3e5db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904929,
+            "region_id":85685461,
+            "venue_id":219751521
+        }
+    ],
+    "wof:id":219751521,
+    "wof:lastmodified":1449070582,
+    "wof:name":"Futuroma",
+    "wof:parent_id":85904929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.547618,41.864182,12.547618,41.864182],
+  "geometry": {"coordinates":[12.547618,41.864182],"type":"Point"}
+}

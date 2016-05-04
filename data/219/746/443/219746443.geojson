@@ -1,0 +1,64 @@
+{
+  "id": 219746443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.645337,43.971123,12.645337,43.971123",
+    "geom:latitude":43.971123,
+    "geom:longitude":12.645337,
+    "iso:country":"IT",
+    "sg:address":"13, Via Cella Raibano 47843 Misano Adriatico",
+    "sg:city":"Cella",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0541 600108",
+    "sg:postcode":"47843",
+    "sg:province":"Rimini",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633763,
+        85685675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qHnOLUC5mNIo9luytIy2t_43.971123_12.645337@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6b155fb85edf3a9dd89fabb53a65b1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633763,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685675,
+            "venue_id":219746443
+        }
+    ],
+    "wof:id":219746443,
+    "wof:lastmodified":1449070352,
+    "wof:name":"Ctr Consorzio Trasporti Riviera (soc.coop.r.l.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.645337,43.971123,12.645337,43.971123],
+  "geometry": {"coordinates":[12.645337,43.971123],"type":"Point"}
+}

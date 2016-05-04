@@ -1,0 +1,66 @@
+{
+  "id": 219277123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.071503,45.528088,9.071503,45.528088",
+    "geom:latitude":45.528088,
+    "geom:longitude":9.071503,
+    "iso:country":"IT",
+    "sg:address":"Via Risorgimento 10 20017 Rho",
+    "sg:city":"Rho",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9390 0686",
+    "sg:postcode":"20017",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "valve",
+        "solenoid"
+    ],
+    "sg:website":"www.nadi.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862699,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qt7vEVAnVtch71YOdjbrq_45.528088_9.071503@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5f3a74f1ac938d630647a7454c864f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862699,
+            "region_id":85685243,
+            "venue_id":219277123
+        }
+    ],
+    "wof:id":219277123,
+    "wof:lastmodified":1449070785,
+    "wof:name":"Nadi S.r.l.",
+    "wof:parent_id":85862699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve",
+        "solenoid"
+    ]
+},
+  "bbox": [9.071503,45.528088,9.071503,45.528088],
+  "geometry": {"coordinates":[9.071503,45.528088],"type":"Point"}
+}

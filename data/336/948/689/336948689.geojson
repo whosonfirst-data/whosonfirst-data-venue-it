@@ -1,0 +1,73 @@
+{
+  "id": 336948689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.279852,43.771038,11.279852,43.771038",
+    "geom:latitude":43.771038,
+    "geom:longitude":11.279852,
+    "iso:country":"IT",
+    "sg:address":"50136 Firenze",
+    "sg:city":"Firenze",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 667004",
+    "sg:postcode":"50136",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904717,
+        85633253,
+        101752643,
+        85685407,
+        85904737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DtRCH35yRz5UpYCvXmLvK_43.771038_11.279852@1306269878"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"358b38b7612a66fbd965aa567e4a4469",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904717,
+            "region_id":85685407,
+            "venue_id":336948689
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904737,
+            "region_id":85685407,
+            "venue_id":336948689
+        }
+    ],
+    "wof:id":336948689,
+    "wof:lastmodified":1448997811,
+    "wof:name":"Il Melograno Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [11.279852,43.771038,11.279852,43.771038],
+  "geometry": {"coordinates":[11.279852,43.771038],"type":"Point"}
+}

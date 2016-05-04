@@ -1,0 +1,65 @@
+{
+  "id": 219749137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.857637,45.913486,10.857637,45.913486",
+    "geom:latitude":45.913486,
+    "geom:longitude":10.857637,
+    "iso:country":"IT",
+    "sg:address":"2, Via Delle Grazie 38062 Arco",
+    "sg:city":"Arco",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0464 532220",
+    "sg:postcode":"38062",
+    "sg:province":"Trento",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900359,
+        85633253,
+        85685277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ooQnd23sOkZSrkjthcTlv_45.913486_10.857637@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2d8d9f3aea39eb32f6694d157eac7e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900359,
+            "region_id":85685277,
+            "venue_id":219749137
+        }
+    ],
+    "wof:id":219749137,
+    "wof:lastmodified":1449071415,
+    "wof:name":"Eurotrama Trasporti Di Marini Tiziano & C. (s.n.c.)",
+    "wof:parent_id":85900359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.857637,45.913486,10.857637,45.913486],
+  "geometry": {"coordinates":[10.857637,45.913486],"type":"Point"}
+}

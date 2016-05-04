@@ -1,0 +1,66 @@
+{
+  "id": 236023505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.505686,43.835773,10.505686,43.835773",
+    "geom:latitude":43.835773,
+    "geom:longitude":10.505686,
+    "iso:country":"IT",
+    "sg:address":"Via Urbiciani, 57/59 55100 Lucca",
+    "sg:city":"Lucca",
+    "sg:classifiers":[
+        {
+            "category":"Depot",
+            "subcategory":"Bus",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0583 418130",
+    "sg:postcode":"55100",
+    "sg:province":"Lucca",
+    "sg:tags":[
+        "varnish",
+        "dilutents"
+    ],
+    "sg:website":"www.lombardisas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752645,
+        85685399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ef4hVNcwagZ0yTQ1Hif3_43.835773_10.505686@1306269814"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"3b19f9a9df5e49489d5712548e8a207b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752645,
+            "neighbourhood_id":-1,
+            "region_id":85685399,
+            "venue_id":236023505
+        }
+    ],
+    "wof:id":236023505,
+    "wof:lastmodified":1449004862,
+    "wof:name":"Lombardi Sas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "varnish",
+        "dilutents"
+    ]
+},
+  "bbox": [10.505686,43.835773,10.505686,43.835773],
+  "geometry": {"coordinates":[10.505686,43.835773],"type":"Point"}
+}

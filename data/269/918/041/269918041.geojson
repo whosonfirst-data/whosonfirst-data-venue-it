@@ -1,0 +1,66 @@
+{
+  "id": 269918041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.293998,40.874786,14.293998,40.874786",
+    "geom:latitude":40.874786,
+    "geom:longitude":14.293998,
+    "iso:country":"IT",
+    "sg:address":"95, Via Del Riposo 80144 Napoli",
+    "sg:city":"Napoli",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 789 6111",
+    "sg:postcode":"80144",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904837,
+        85633253,
+        101752555,
+        85685487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5encSAXjY7hsHpcAWisoS1_40.874786_14.293998@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"522cb9890e71931fc075a37167ca149f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752555,
+            "neighbourhood_id":85904837,
+            "region_id":85685487,
+            "venue_id":269918041
+        }
+    ],
+    "wof:id":269918041,
+    "wof:lastmodified":1449037738,
+    "wof:name":"Ge.s.a.c. S.p.a. Aeroporto Internazionale Di Napoli",
+    "wof:parent_id":85904837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [14.293998,40.874786,14.293998,40.874786],
+  "geometry": {"coordinates":[14.293998,40.874786],"type":"Point"}
+}

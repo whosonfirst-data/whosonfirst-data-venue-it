@@ -1,0 +1,66 @@
+{
+  "id": 219749129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.31166,40.850983,14.31166,40.850983",
+    "geom:latitude":40.850983,
+    "geom:longitude":14.31166,
+    "iso:country":"IT",
+    "sg:address":"Traversa Fossitelli 80147 Napoli",
+    "sg:city":"Napoli",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 752 0075",
+    "sg:postcode":"80147",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904815,
+        85633253,
+        101752555,
+        85685487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eKJ6s40THpT9Lrx7uzZOo_40.850983_14.311660@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"45fafd8e57bbdaeb80982be44f4ac041",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752555,
+            "neighbourhood_id":85904815,
+            "region_id":85685487,
+            "venue_id":219749129
+        }
+    ],
+    "wof:id":219749129,
+    "wof:lastmodified":1449071413,
+    "wof:name":"Euroterminal Srl",
+    "wof:parent_id":85904815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [14.31166,40.850983,14.31166,40.850983],
+  "geometry": {"coordinates":[14.31166,40.850983],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 235939283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.16398,45.528965,10.16398,45.528965",
+    "geom:latitude":45.528965,
+    "geom:longitude":10.16398,
+    "iso:country":"IT",
+    "sg:address":"Via Vittorio Emanuele Ii 25 25030 Roncadelle",
+    "sg:city":"Roncadelle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 278 0125",
+    "sg:postcode":"25030",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "wine",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101758361,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q3fQVLUsijuJ2q1DqRHuB_45.528965_10.163980@1306269814"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4edc58b2611c7cde374278b2925be223",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101758361,
+            "neighbourhood_id":-1,
+            "region_id":85685253,
+            "venue_id":235939283
+        }
+    ],
+    "wof:id":235939283,
+    "wof:lastmodified":1449008352,
+    "wof:name":"Barbi Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine",
+        "italian"
+    ]
+},
+  "bbox": [10.16398,45.528965,10.16398,45.528965],
+  "geometry": {"coordinates":[10.16398,45.528965],"type":"Point"}
+}

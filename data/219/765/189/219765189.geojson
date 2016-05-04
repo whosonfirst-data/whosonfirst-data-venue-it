@@ -1,0 +1,64 @@
+{
+  "id": 219765189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.426684,45.443531,12.426684,45.443531",
+    "geom:latitude":45.443531,
+    "geom:longitude":12.426684,
+    "iso:country":"IT",
+    "sg:address":"20, Via Fradeletto Antonio 30173 Venezia",
+    "sg:city":"Venezia",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 041 534 5389",
+    "sg:postcode":"30173",
+    "sg:province":"Venezia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "102191581",
+        "85633253"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jzhmIVKclqNkwkfl7ipze_45.443531_12.426684@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"759588c468b8ea84f7db82c76f294b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633253",
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1,
+            "venue_id":219765189
+        }
+    ],
+    "wof:id":219765189,
+    "wof:lastmodified":1449072421,
+    "wof:name":"Pamio Traslochi Di Pamio Mireno",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.426684,45.443531,12.426684,45.443531],
+  "geometry": {"coordinates":[12.426684,45.443531],"type":"Point"}
+}

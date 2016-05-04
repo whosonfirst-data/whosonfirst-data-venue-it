@@ -1,0 +1,69 @@
+{
+  "id": 286439501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.160259,45.547928,9.160259,45.547928",
+    "geom:latitude":45.547928,
+    "geom:longitude":9.160259,
+    "iso:country":"IT",
+    "sg:address":"Via Dante 35 20032 Cormano",
+    "sg:city":"Cormano",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 615 2021",
+    "sg:postcode":"20032",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "development",
+        "pharmaceutical",
+        "clinical"
+    ],
+    "sg:website":"www.newscientific.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796835,
+        85633253,
+        101757765,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LBdyAX6v5MgE0mCkopqZh_45.547928_9.160259@1306269845"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"50225d2399ca04d8810f0a7382f215ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757765,
+            "neighbourhood_id":85796835,
+            "region_id":85685243,
+            "venue_id":286439501
+        }
+    ],
+    "wof:id":286439501,
+    "wof:lastmodified":1449015998,
+    "wof:name":"New Scientific Company Srl",
+    "wof:parent_id":85796835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "pharmaceutical",
+        "clinical"
+    ]
+},
+  "bbox": [9.160259,45.547928,9.160259,45.547928],
+  "geometry": {"coordinates":[9.160259,45.547928],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 303230125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.992512,45.780975,11.992512,45.780975",
+    "geom:latitude":45.780975,
+    "geom:longitude":11.992512,
+    "iso:country":"IT",
+    "sg:address":"Via Paolo Vigano' 21 31031 Caerano San Marco",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0423 650707",
+    "sg:postcode":"31031",
+    "sg:province":"Treviso",
+    "sg:tags":[
+        "current",
+        "supplies",
+        "power",
+        "emergency",
+        "direct"
+    ],
+    "sg:website":"www.kert.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101836209,
+        85685297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U8rfHZvRZu6Enhki6LpBG_45.780975_11.992512@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ecb8e4ff1460deddc2b9890abcce9142",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101836209,
+            "neighbourhood_id":-1,
+            "region_id":85685297,
+            "venue_id":303230125
+        }
+    ],
+    "wof:id":303230125,
+    "wof:lastmodified":1448999934,
+    "wof:name":"Kert Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "current",
+        "supplies",
+        "power",
+        "emergency",
+        "direct"
+    ]
+},
+  "bbox": [11.992512,45.780975,11.992512,45.780975],
+  "geometry": {"coordinates":[11.992512,45.780975],"type":"Point"}
+}

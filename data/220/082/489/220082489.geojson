@@ -1,0 +1,68 @@
+{
+  "id": 220082489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.166175,45.497944,9.166175,45.497944",
+    "geom:latitude":45.497944,
+    "geom:longitude":9.166175,
+    "iso:country":"IT",
+    "sg:address":"Piazzale Lugano 9 20158 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 3932 2386",
+    "sg:postcode":"20158",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "gas-fired",
+        "industrial",
+        "furnaces"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796821,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gxeg10Mq95Qv3CCEuw7Ll_45.497944_9.166175@1306269812"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"eccfaf4746a5db56e3ecab740c75d965",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796821,
+            "region_id":85685243,
+            "venue_id":220082489
+        }
+    ],
+    "wof:id":220082489,
+    "wof:lastmodified":1449074083,
+    "wof:name":"Fiep Srl",
+    "wof:parent_id":85796821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas-fired",
+        "industrial",
+        "furnaces"
+    ]
+},
+  "bbox": [9.166175,45.497944,9.166175,45.497944],
+  "geometry": {"coordinates":[9.166175,45.497944],"type":"Point"}
+}

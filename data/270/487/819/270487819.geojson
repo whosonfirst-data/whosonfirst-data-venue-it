@@ -1,0 +1,66 @@
+{
+  "id": 270487819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.352383,44.491131,11.352383,44.491131",
+    "geom:latitude":44.491131,
+    "geom:longitude":11.352383,
+    "iso:country":"IT",
+    "sg:address":"Piazza Mercanzia 4 - Pal. Mercanzia; Bologna; 40125",
+    "sg:city":"Bologna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"40125",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "chamber",
+        "commerce"
+    ],
+    "sg:website":"www.bo.camcom.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904601,
+        85633253,
+        101752665,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vp0rJuyN7EgiOFNPLNeSu_44.491131_11.352383@1306269842"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4f19cfc2bce9bd99d60e123450c8e787",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752665,
+            "neighbourhood_id":85904601,
+            "region_id":85685351,
+            "venue_id":270487819
+        }
+    ],
+    "wof:id":270487819,
+    "wof:lastmodified":1449009431,
+    "wof:name":"Bologna Chamber Of Commerce And Industry",
+    "wof:parent_id":85904601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "commerce"
+    ]
+},
+  "bbox": [11.352383,44.491131,11.352383,44.491131],
+  "geometry": {"coordinates":[11.352383,44.491131],"type":"Point"}
+}

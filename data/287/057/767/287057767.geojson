@@ -1,0 +1,64 @@
+{
+  "id": 287057767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.794535,45.420105,11.794535,45.420105",
+    "geom:latitude":45.420105,
+    "geom:longitude":11.794535,
+    "iso:country":"IT",
+    "sg:address":"Viale Dell' Industria 39/b 35010 Villafranca Padovana",
+    "sg:city":"Villafranca Padovana",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 049 907 0474",
+    "sg:postcode":"35010",
+    "sg:province":"Padova",
+    "sg:tags":[
+        "transformer"
+    ],
+    "sg:website":"www.marini.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101757125,
+        85685309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TEtdfxmGJPTit4GlIvoUu_45.420105_11.794535@1306269852"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"90c19d1f4c605dd0b6ea4cc824531ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757125,
+            "neighbourhood_id":-1,
+            "region_id":85685309,
+            "venue_id":287057767
+        }
+    ],
+    "wof:id":287057767,
+    "wof:lastmodified":1449001099,
+    "wof:name":"Marini Trasformatori Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transformer"
+    ]
+},
+  "bbox": [11.794535,45.420105,11.794535,45.420105],
+  "geometry": {"coordinates":[11.794535,45.420105],"type":"Point"}
+}

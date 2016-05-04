@@ -1,0 +1,67 @@
+{
+  "id": 236523119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.50178,41.902748,12.50178,41.902748",
+    "geom:latitude":41.902748,
+    "geom:longitude":12.50178,
+    "iso:country":"IT",
+    "sg:address":"00185 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 448 7542",
+    "sg:postcode":"00185",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "hotels",
+        "facility"
+    ],
+    "sg:website":"http://www.rosciolihotels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900471,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r4HkuB9FIOhYccJslSR1M_41.902748_12.501780@1306269819"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"65f091160c5f1b558777bd8b8af40fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900471,
+            "region_id":85685461,
+            "venue_id":236523119
+        }
+    ],
+    "wof:id":236523119,
+    "wof:lastmodified":1449003572,
+    "wof:name":"Roscioli Hotels",
+    "wof:parent_id":85900471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "facility"
+    ]
+},
+  "bbox": [12.50178,41.902748,12.50178,41.902748],
+  "geometry": {"coordinates":[12.50178,41.902748],"type":"Point"}
+}

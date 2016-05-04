@@ -1,0 +1,66 @@
+{
+  "id": 269919933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.489452,41.903854,12.489452,41.903854",
+    "geom:latitude":41.903854,
+    "geom:longitude":12.489452,
+    "iso:country":"IT",
+    "sg:address":"11, Via Barberini 00187 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39064871403",
+    "sg:postcode":"00187",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900313,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VwUqUu9T74EAJFErSTP9X_41.903854_12.489452@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2ef7f74c0f62ccfc67e29404a23d29cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900313,
+            "region_id":85685461,
+            "venue_id":269919933
+        }
+    ],
+    "wof:id":269919933,
+    "wof:lastmodified":1449038210,
+    "wof:name":"Air Gabon",
+    "wof:parent_id":85900313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [12.489452,41.903854,12.489452,41.903854],
+  "geometry": {"coordinates":[12.489452,41.903854],"type":"Point"}
+}

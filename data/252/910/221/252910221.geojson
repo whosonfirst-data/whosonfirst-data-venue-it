@@ -1,0 +1,65 @@
+{
+  "id": 252910221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.198246,45.548328,9.198246,45.548328",
+    "geom:latitude":45.548328,
+    "geom:longitude":9.198246,
+    "iso:country":"IT",
+    "sg:address":"Via Beato Angelico 29/31 20052 Monza",
+    "sg:city":"Monza",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 039 206931",
+    "sg:postcode":"20052",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "abrasive"
+    ],
+    "sg:website":"www.tafabrasivi.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862739,
+        85633253,
+        101752699,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6osm9IQGwwPIEhVwWph4co_45.548328_9.198246@1306269825"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"64a1cc2e685af2c126b1761eff6ed641",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752699,
+            "neighbourhood_id":85862739,
+            "region_id":85685243,
+            "venue_id":252910221
+        }
+    ],
+    "wof:id":252910221,
+    "wof:lastmodified":1449005859,
+    "wof:name":"T.a.f. S.r.l.",
+    "wof:parent_id":85862739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abrasive"
+    ]
+},
+  "bbox": [9.198246,45.548328,9.198246,45.548328],
+  "geometry": {"coordinates":[9.198246,45.548328],"type":"Point"}
+}

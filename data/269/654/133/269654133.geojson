@@ -1,0 +1,67 @@
+{
+  "id": 269654133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.969576,45.402302,10.969576,45.402302",
+    "geom:latitude":45.402302,
+    "geom:longitude":10.969576,
+    "iso:country":"IT",
+    "sg:address":"Via Fermi Enrico 6 37135 Verona",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 809 7111",
+    "sg:postcode":"37135",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "industry",
+        "additive"
+    ],
+    "sg:website":"www.hero.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900309,
+        85633253,
+        101752711,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12LdzVSlDIaLeCHcHahUrF_45.402302_10.969576@1306269834"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"29a516cfcc93529c6d379634ac41c890",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752711,
+            "neighbourhood_id":85900309,
+            "region_id":85685281,
+            "venue_id":269654133
+        }
+    ],
+    "wof:id":269654133,
+    "wof:lastmodified":1449036959,
+    "wof:name":"Hero Italia Spa",
+    "wof:parent_id":85900309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "additive"
+    ]
+},
+  "bbox": [10.969576,45.402302,10.969576,45.402302],
+  "geometry": {"coordinates":[10.969576,45.402302],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 219765007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.2453,45.425892,11.2453,45.425892",
+    "geom:latitude":45.425892,
+    "geom:longitude":11.2453,
+    "iso:country":"IT",
+    "sg:address":"20, Via Ca' Del Bosco 37038 Soave",
+    "sg:city":"Soave",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 768 0184",
+    "sg:postcode":"37038",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101795361,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BUzcPPFJlN00CJqFP385M_45.425892_11.245300@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"23f1300d37c8fca38bfc33ccf55c3ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101795361,
+            "neighbourhood_id":-1,
+            "region_id":85685281,
+            "venue_id":219765007
+        }
+    ],
+    "wof:id":219765007,
+    "wof:lastmodified":1449072423,
+    "wof:name":"Pasetto Fratelli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.2453,45.425892,11.2453,45.425892],
+  "geometry": {"coordinates":[11.2453,45.425892],"type":"Point"}
+}

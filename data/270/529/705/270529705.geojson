@@ -1,0 +1,66 @@
+{
+  "id": 270529705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"15.092531,37.503944,15.092531,37.503944",
+    "geom:latitude":37.503944,
+    "geom:longitude":15.092531,
+    "iso:country":"IT",
+    "sg:address":"15, Via Teatro Massimo 95131 Catania",
+    "sg:city":"Catania",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 095 715 9322",
+    "sg:postcode":"95131",
+    "sg:province":"Catania",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900339,
+        85633253,
+        101752509,
+        85685617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NOsyhhCmvb6XkVQ6yqxW6_37.503944_15.092531@1306269843"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"737a412dc863dea14d68be48823cb921",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752509,
+            "neighbourhood_id":85900339,
+            "region_id":85685617,
+            "venue_id":270529705
+        }
+    ],
+    "wof:id":270529705,
+    "wof:lastmodified":1449009708,
+    "wof:name":"Mofeta Dei Palici (s.p.a.)",
+    "wof:parent_id":85900339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [15.092531,37.503944,15.092531,37.503944],
+  "geometry": {"coordinates":[15.092531,37.503944],"type":"Point"}
+}

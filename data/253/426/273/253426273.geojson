@@ -1,0 +1,68 @@
+{
+  "id": 253426273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.489218,45.700611,11.489218,45.700611",
+    "geom:latitude":45.700611,
+    "geom:longitude":11.489218,
+    "iso:country":"IT",
+    "sg:address":"36016 Thiene",
+    "sg:city":"Thiene",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0445 382488",
+    "sg:postcode":"36016",
+    "sg:province":"Vicenza",
+    "sg:tags":[
+        "equipment",
+        "valve",
+        "measurement"
+    ],
+    "sg:website":"http://www.covis.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101836175,
+        85685287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dguTlBQb1yRJzmLUvtl04_45.700611_11.489218@1306269829"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2274bd5238c46e6b611091afdf653ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101836175,
+            "neighbourhood_id":-1,
+            "region_id":85685287,
+            "venue_id":253426273
+        }
+    ],
+    "wof:id":253426273,
+    "wof:lastmodified":1449063437,
+    "wof:name":"Covis Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "valve",
+        "measurement"
+    ]
+},
+  "bbox": [11.489218,45.700611,11.489218,45.700611],
+  "geometry": {"coordinates":[11.489218,45.700611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 253100123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.23074,45.505173,9.23074,45.505173",
+    "geom:latitude":45.505173,
+    "geom:longitude":9.23074,
+    "iso:country":"IT",
+    "sg:address":"Via Iglesias 27 20128 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 257 5241",
+    "sg:postcode":"20128",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "telecommunication",
+        "accessory"
+    ],
+    "sg:website":"www.fimotec.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796863,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mzqcs668Xf3YMZGklBcDu_45.505173_9.230740@1306269826"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b3b591f1a1b91ca3a4947705ec45772f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796863,
+            "region_id":85685243,
+            "venue_id":253100123
+        }
+    ],
+    "wof:id":253100123,
+    "wof:lastmodified":1449065013,
+    "wof:name":"Fi.mo.tec. Spa",
+    "wof:parent_id":85796863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication",
+        "accessory"
+    ]
+},
+  "bbox": [9.23074,45.505173,9.23074,45.505173],
+  "geometry": {"coordinates":[9.23074,45.505173],"type":"Point"}
+}

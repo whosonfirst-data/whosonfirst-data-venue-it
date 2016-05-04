@@ -1,0 +1,66 @@
+{
+  "id": 270499315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.416115,41.822029,12.416115,41.822029",
+    "geom:latitude":41.822029,
+    "geom:longitude":12.416115,
+    "iso:country":"IT",
+    "sg:address":"Viale Castello Della Magliana 75 00148 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 602161",
+    "sg:postcode":"00148",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "chemical",
+        "laboratory"
+    ],
+    "sg:website":"www.ktispa.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900349,
+        85633253,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mb0mQVobBIem0z97RV7rV_41.822029_12.416115@1306269842"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6e11a5a6eef2641a0c255e0d6bcac867",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900349,
+            "region_id":85685461,
+            "venue_id":270499315
+        }
+    ],
+    "wof:id":270499315,
+    "wof:lastmodified":1449009094,
+    "wof:name":"Technip Kti S.p.a.",
+    "wof:parent_id":85900349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "laboratory"
+    ]
+},
+  "bbox": [12.416115,41.822029,12.416115,41.822029],
+  "geometry": {"coordinates":[12.416115,41.822029],"type":"Point"}
+}

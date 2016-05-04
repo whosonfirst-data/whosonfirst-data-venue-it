@@ -1,0 +1,65 @@
+{
+  "id": 219765895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.748491,45.304665,8.748491,45.304665",
+    "geom:latitude":45.304665,
+    "geom:longitude":8.748491,
+    "iso:country":"IT",
+    "sg:address":"26, Viale Artigianato 27024 Cilavegna",
+    "sg:city":"Cilavegna",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0381 969707",
+    "sg:postcode":"27024",
+    "sg:province":"Pavia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101769739,
+        85685257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FHZYAadNmIzFbC0PgAD1n_45.304665_8.748491@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"568431df352fa784cb0e09404d8ed868",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101769739,
+            "neighbourhood_id":-1,
+            "region_id":85685257,
+            "venue_id":219765895
+        }
+    ],
+    "wof:id":219765895,
+    "wof:lastmodified":1449072421,
+    "wof:name":"Pezzuto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.748491,45.304665,8.748491,45.304665],
+  "geometry": {"coordinates":[8.748491,45.304665],"type":"Point"}
+}

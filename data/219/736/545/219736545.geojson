@@ -1,0 +1,66 @@
+{
+  "id": 219736545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.068709,44.040329,10.068709,44.040329",
+    "geom:latitude":44.040329,
+    "geom:longitude":10.068709,
+    "iso:country":"IT",
+    "sg:address":"Via Provinciale - Avenza 157 54033 Carrara",
+    "sg:city":"Avenza",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0585 857590",
+    "sg:postcode":"54033",
+    "sg:province":"Massa-Carrara",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900387,
+        85633253,
+        101752653,
+        85685395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dG33ny5A6bNCpue6qYH71_44.040329_10.068709@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1f0ce1047041c7b56438efc1d7607f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752653,
+            "neighbourhood_id":85900387,
+            "region_id":85685395,
+            "venue_id":219736545
+        }
+    ],
+    "wof:id":219736545,
+    "wof:lastmodified":1449073870,
+    "wof:name":"Brugioni (s.r.l.)",
+    "wof:parent_id":85900387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.068709,44.040329,10.068709,44.040329],
+  "geometry": {"coordinates":[10.068709,44.040329],"type":"Point"}
+}

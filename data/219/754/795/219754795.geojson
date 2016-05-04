@@ -1,0 +1,66 @@
+{
+  "id": 219754795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.925309,41.460434,12.925309,41.460434",
+    "geom:latitude":41.460434,
+    "geom:longitude":12.925309,
+    "iso:country":"IT",
+    "sg:address":"10, V. Dei Cappuccini 04100 Latina",
+    "sg:city":"Latina",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0773 610099",
+    "sg:postcode":"04100",
+    "sg:province":"Latina",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/ifal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752595,
+        85685467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uAHIqhofDsEns2vyAKVMj_41.460434_12.925309@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"83de30749c93f4369063dde6e53bd0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752595,
+            "neighbourhood_id":-1,
+            "region_id":85685467,
+            "venue_id":219754795
+        }
+    ],
+    "wof:id":219754795,
+    "wof:lastmodified":1449072694,
+    "wof:name":"I.f.a.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.925309,41.460434,12.925309,41.460434],
+  "geometry": {"coordinates":[12.925309,41.460434],"type":"Point"}
+}

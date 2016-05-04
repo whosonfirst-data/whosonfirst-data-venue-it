@@ -1,0 +1,67 @@
+{
+  "id": 236230339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.442411,41.94701,12.442411,41.94701",
+    "geom:latitude":41.94701,
+    "geom:longitude":12.442411,
+    "iso:country":"IT",
+    "sg:address":"Viale Cortina D'ampezzo 180 00135 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 331 4513",
+    "sg:postcode":"00135",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "chart",
+        "nautical"
+    ],
+    "sg:website":"www.nauticard.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904921,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gZxWxGXhaTgiIdZ0ENrWw_41.947010_12.442411@1306269816"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"567b832d9259c99bb7886ae91dab69e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904921,
+            "region_id":85685461,
+            "venue_id":236230339
+        }
+    ],
+    "wof:id":236230339,
+    "wof:lastmodified":1449004221,
+    "wof:name":"Nauticard Srl",
+    "wof:parent_id":85904921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chart",
+        "nautical"
+    ]
+},
+  "bbox": [12.442411,41.94701,12.442411,41.94701],
+  "geometry": {"coordinates":[12.442411,41.94701],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 219772351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.527242,41.892521,12.527242,41.892521",
+    "geom:latitude":41.892521,
+    "geom:longitude":12.527242,
+    "iso:country":"IT",
+    "sg:address":"22, V. Montecuccoli 00176 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 7030 6593",
+    "sg:postcode":"00176",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.coopindipendente.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904931,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uKJMzsKDMhVbNeXWykWDB_41.892521_12.527242@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"460517696f65b6ce717021df3a578266",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904931,
+            "region_id":85685461,
+            "venue_id":219772351
+        }
+    ],
+    "wof:id":219772351,
+    "wof:lastmodified":1449071981,
+    "wof:name":"Soc. Coop. Facchini Indipendente A Rl",
+    "wof:parent_id":85904931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.527242,41.892521,12.527242,41.892521],
+  "geometry": {"coordinates":[12.527242,41.892521],"type":"Point"}
+}

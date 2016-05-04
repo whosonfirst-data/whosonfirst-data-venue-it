@@ -1,0 +1,66 @@
+{
+  "id": 236016627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.028486,45.624245,9.028486,45.624245",
+    "geom:latitude":45.624245,
+    "geom:longitude":9.028486,
+    "iso:country":"IT",
+    "sg:address":"Via Gaudenzio Ferrari 21 21047 Saronno",
+    "sg:city":"Saronno",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 960 5422",
+    "sg:postcode":"21047",
+    "sg:province":"Varese",
+    "sg:tags":[
+        "product",
+        "diagnostic"
+    ],
+    "sg:website":"www.equipar.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101757205,
+        85685231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L7PdhZ5zZ8lqNoV1Rec99_45.624245_9.028486@1306269814"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"0b72288fa5b66368251bb64e7b9e0dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757205,
+            "neighbourhood_id":-1,
+            "region_id":85685231,
+            "venue_id":236016627
+        }
+    ],
+    "wof:id":236016627,
+    "wof:lastmodified":1449002105,
+    "wof:name":"Equipar Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "diagnostic"
+    ]
+},
+  "bbox": [9.028486,45.624245,9.028486,45.624245],
+  "geometry": {"coordinates":[9.028486,45.624245],"type":"Point"}
+}

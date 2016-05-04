@@ -1,0 +1,66 @@
+{
+  "id": 235991127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.388752,44.47831,11.388752,44.47831",
+    "geom:latitude":44.47831,
+    "geom:longitude":11.388752,
+    "iso:country":"IT",
+    "sg:address":"Via Emilia Levante 482/1 40068 San Lazzaro Di Savena",
+    "sg:city":"San Lazzaro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 625 5109",
+    "sg:postcode":"40068",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "dental",
+        "chair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900423,
+        85633253,
+        101752665,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_098QBX5b8H2wa7ccWqHi17_44.478310_11.388752@1306269814"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b97e5c1db1a784618f96567f1e9d5b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752665,
+            "neighbourhood_id":85900423,
+            "region_id":85685351,
+            "venue_id":235991127
+        }
+    ],
+    "wof:id":235991127,
+    "wof:lastmodified":1449008362,
+    "wof:name":"Eurodent Spa",
+    "wof:parent_id":85900423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "chair"
+    ]
+},
+  "bbox": [11.388752,44.47831,11.388752,44.47831],
+  "geometry": {"coordinates":[11.388752,44.47831],"type":"Point"}
+}

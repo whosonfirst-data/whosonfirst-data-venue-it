@@ -1,0 +1,66 @@
+{
+  "id": 219730029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.248256,45.398087,9.248256,45.398087",
+    "geom:latitude":45.398087,
+    "geom:longitude":9.248256,
+    "iso:country":"IT",
+    "sg:address":"5, Via Segrino 20098 San Giuliano Milanese",
+    "sg:city":"San Giuliano Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39029881137",
+    "sg:postcode":"20098",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862749,
+        85633253,
+        101757801,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sHPZPDWoFJQNVhjjEYpK7_45.398087_9.248256@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f3cefda93c137e32409894d54d51fd55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757801,
+            "neighbourhood_id":85862749,
+            "region_id":85685243,
+            "venue_id":219730029
+        }
+    ],
+    "wof:id":219730029,
+    "wof:lastmodified":1449073346,
+    "wof:name":"Autotrasporti Corsini Di G.corsini & C. (s.a.s.)",
+    "wof:parent_id":85862749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.248256,45.398087,9.248256,45.398087],
+  "geometry": {"coordinates":[9.248256,45.398087],"type":"Point"}
+}

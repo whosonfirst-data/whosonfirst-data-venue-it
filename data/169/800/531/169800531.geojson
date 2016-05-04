@@ -1,0 +1,67 @@
+{
+  "id": 169800531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.176926,45.557369,9.176926,45.557369",
+    "geom:latitude":45.557369,
+    "geom:longitude":9.176926,
+    "iso:country":"IT",
+    "sg:address":"Via Alessandrina 75 20095 Cusano Milanino",
+    "sg:city":"Cusano Milanino",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 6640 3009",
+    "sg:postcode":"20095",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "card",
+        "reader"
+    ],
+    "sg:website":"www.bytechsrl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796835,
+        85633253,
+        101757765,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HXDnmfPZTbId8jGSpTFQ9_45.557369_9.176926@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ef7257dd8b039cecf660889bfb6a3408",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757765,
+            "neighbourhood_id":85796835,
+            "region_id":85685243,
+            "venue_id":169800531
+        }
+    ],
+    "wof:id":169800531,
+    "wof:lastmodified":1449032938,
+    "wof:name":"Bytech Srl",
+    "wof:parent_id":85796835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "card",
+        "reader"
+    ]
+},
+  "bbox": [9.176926,45.557369,9.176926,45.557369],
+  "geometry": {"coordinates":[9.176926,45.557369],"type":"Point"}
+}

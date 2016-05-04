@@ -1,0 +1,66 @@
+{
+  "id": 270511197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.06337,45.426193,9.06337,45.426193",
+    "geom:latitude":45.426193,
+    "geom:longitude":9.06337,
+    "iso:country":"IT",
+    "sg:address":"3, Via Giuseppe Verdi 20080 Zibido San Giacomo",
+    "sg:city":"Zibido San Giacomo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9000 3141",
+    "sg:postcode":"20080",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796849,
+        85633253,
+        101757823,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02UnLVqCk28VF1Kl2v62yJ_45.426193_9.063370@1306269842"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b92dd2cdc9962adbcdaf0dbdbc7e1c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757823,
+            "neighbourhood_id":85796849,
+            "region_id":85685243,
+            "venue_id":270511197
+        }
+    ],
+    "wof:id":270511197,
+    "wof:lastmodified":1449009766,
+    "wof:name":"Carbocrom Srl",
+    "wof:parent_id":85796849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [9.06337,45.426193,9.06337,45.426193],
+  "geometry": {"coordinates":[9.06337,45.426193],"type":"Point"}
+}

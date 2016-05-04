@@ -1,0 +1,68 @@
+{
+  "id": 303225983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.509796,41.892555,12.509796,41.892555",
+    "geom:latitude":41.892555,
+    "geom:longitude":12.509796,
+    "iso:country":"IT",
+    "sg:address":"Via Quarto Negroni 10 00040 Cecchina Stazione",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 930251",
+    "sg:postcode":"00040",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "component",
+        "elevator",
+        "accessory"
+    ],
+    "sg:website":"www.dmg.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900471,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MquOqEW3NVj6frgWknF2W_41.892555_12.509796@1306269856"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1906d7a9b6f250abe0821359a2228b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900471,
+            "region_id":85685461,
+            "venue_id":303225983
+        }
+    ],
+    "wof:id":303225983,
+    "wof:lastmodified":1448998878,
+    "wof:name":"D.m.g. Spa",
+    "wof:parent_id":85900471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "elevator",
+        "accessory"
+    ]
+},
+  "bbox": [12.509796,41.892555,12.509796,41.892555],
+  "geometry": {"coordinates":[12.509796,41.892555],"type":"Point"}
+}

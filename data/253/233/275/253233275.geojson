@@ -1,0 +1,68 @@
+{
+  "id": 253233275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.347805,44.424519,11.347805,44.424519",
+    "geom:latitude":44.424519,
+    "geom:longitude":11.347805,
+    "iso:country":"IT",
+    "sg:address":"Via Bellini 33 40067 Rastignano",
+    "sg:city":"Rastignano",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 744290",
+    "sg:postcode":"40067",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "aid",
+        "positioning",
+        "orthopaedic"
+    ],
+    "sg:website":"www.opo.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900475,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kUpjHgnYYEcGFfiNB9C3R_44.424519_11.347805@1306269827"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"65b81e4b63ddb260f2d9128e5efa8f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900475,
+            "region_id":85685351,
+            "venue_id":253233275
+        }
+    ],
+    "wof:id":253233275,
+    "wof:lastmodified":1449065849,
+    "wof:name":"O.p.o Srl - Officina Prodotti Ortop Edici",
+    "wof:parent_id":85900475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "positioning",
+        "orthopaedic"
+    ]
+},
+  "bbox": [11.347805,44.424519,11.347805,44.424519],
+  "geometry": {"coordinates":[11.347805,44.424519],"type":"Point"}
+}

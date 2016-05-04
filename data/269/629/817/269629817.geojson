@@ -1,0 +1,71 @@
+{
+  "id": 269629817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.438555,44.50605,11.438555,44.50605",
+    "geom:latitude":44.50605,
+    "geom:longitude":11.438555,
+    "iso:country":"IT",
+    "sg:address":"Via Ca' Dell'orbo 35 40055 Villanova",
+    "sg:city":"Villanova",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 780327",
+    "sg:postcode":"40055",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "heavy",
+        "load",
+        "moving",
+        "lifting"
+    ],
+    "sg:website":"www.cavicchioligru.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904583,
+        85633253,
+        101837213,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13ZHr0bWphC7eJe5B6qIDI_44.506050_11.438555@1306269834"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"48d845413a80fad7848e84c4f71dac20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101837213,
+            "neighbourhood_id":85904583,
+            "region_id":85685351,
+            "venue_id":269629817
+        }
+    ],
+    "wof:id":269629817,
+    "wof:lastmodified":1449038255,
+    "wof:name":"Autotrasporti Cavicchioli Srl",
+    "wof:parent_id":85904583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "load",
+        "moving",
+        "lifting"
+    ]
+},
+  "bbox": [11.438555,44.50605,11.438555,44.50605],
+  "geometry": {"coordinates":[11.438555,44.50605],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169700455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.64054,45.067329,7.64054,45.067329",
+    "geom:latitude":45.067329,
+    "geom:longitude":7.64054,
+    "iso:country":"IT",
+    "sg:address":"Via Fabbriche 11/c 10141 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 337119",
+    "sg:postcode":"10141",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "machine",
+        "bag-filling"
+    ],
+    "sg:website":"www.facem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796995,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_336ud6sJ4v44A4ALDkh2d5_45.067329_7.640540@1306269788"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"74a88f82e62f2c27123878db18a397f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85796995,
+            "region_id":85685169,
+            "venue_id":169700455
+        }
+    ],
+    "wof:id":169700455,
+    "wof:lastmodified":1449035672,
+    "wof:name":"F.a.c.e.m. Spa",
+    "wof:parent_id":85796995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "bag-filling"
+    ]
+},
+  "bbox": [7.64054,45.067329,7.64054,45.067329],
+  "geometry": {"coordinates":[7.64054,45.067329],"type":"Point"}
+}

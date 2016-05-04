@@ -1,0 +1,66 @@
+{
+  "id": 304005007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.360512,38.148773,13.360512,38.148773",
+    "geom:latitude":38.148773,
+    "geom:longitude":13.360512,
+    "iso:country":"IT",
+    "sg:address":"Via Thaon Di Revel 8 90142 Palermo",
+    "sg:city":"Palermo",
+    "sg:classifiers":[
+        {
+            "category":"Depot",
+            "subcategory":"Train",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 091 631 9311",
+    "sg:postcode":"90142",
+    "sg:province":"Palermo",
+    "sg:tags":[
+        "screed",
+        "asphalt"
+    ],
+    "sg:website":"www.ancione.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904871,
+        85633253,
+        85685591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gfltNqfGsZ8Q7BxLHN09x_38.148773_13.360512@1306269863"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7df3fa7b93d80f537dd8965aedca1b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904871,
+            "region_id":85685591,
+            "venue_id":304005007
+        }
+    ],
+    "wof:id":304005007,
+    "wof:lastmodified":1449044121,
+    "wof:name":"Antonino Ancione Spa",
+    "wof:parent_id":85904871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screed",
+        "asphalt"
+    ]
+},
+  "bbox": [13.360512,38.148773,13.360512,38.148773],
+  "geometry": {"coordinates":[13.360512,38.148773],"type":"Point"}
+}

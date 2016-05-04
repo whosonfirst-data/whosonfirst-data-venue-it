@@ -1,0 +1,69 @@
+{
+  "id": 236941523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.213831,45.458412,9.213831,45.458412",
+    "geom:latitude":45.458412,
+    "geom:longitude":9.213831,
+    "iso:country":"IT",
+    "sg:address":"20135 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0255055",
+    "sg:postcode":"20135",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "good",
+        "shipment",
+        "transport"
+    ],
+    "sg:website":"http://www.takeservice.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796921,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B0T3OOuEnkwj2OEh0HGXQ_45.458412_9.213831@1306269823"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6cf98f7bfe0eb4792d326597b571da4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796921,
+            "region_id":85685243,
+            "venue_id":236941523
+        }
+    ],
+    "wof:id":236941523,
+    "wof:lastmodified":1449003653,
+    "wof:name":"Take Service",
+    "wof:parent_id":85796921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good",
+        "shipment",
+        "transport"
+    ]
+},
+  "bbox": [9.213831,45.458412,9.213831,45.458412],
+  "geometry": {"coordinates":[9.213831,45.458412],"type":"Point"}
+}

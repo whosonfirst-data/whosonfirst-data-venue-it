@@ -1,0 +1,66 @@
+{
+  "id": 219728651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.972031,45.400833,10.972031,45.400833",
+    "geom:latitude":45.400833,
+    "geom:longitude":10.972031,
+    "iso:country":"IT",
+    "sg:address":"12, Piazzale Europa 37135 Verona",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 820 0051",
+    "sg:postcode":"37135",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900309,
+        85633253,
+        101752711,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39bD3ta1pJc6cJvHMW7CIG_45.400833_10.972031@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5fe2f81997cbec58f574e045b32a720a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752711,
+            "neighbourhood_id":85900309,
+            "region_id":85685281,
+            "venue_id":219728651
+        }
+    ],
+    "wof:id":219728651,
+    "wof:lastmodified":1449071215,
+    "wof:name":"Autostrada (s.p.a.)",
+    "wof:parent_id":85900309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.972031,45.400833,10.972031,45.400833],
+  "geometry": {"coordinates":[10.972031,45.400833],"type":"Point"}
+}

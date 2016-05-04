@@ -1,0 +1,66 @@
+{
+  "id": 219748361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.651407,45.0214,7.651407,45.0214",
+    "geom:latitude":45.0214,
+    "geom:longitude":7.651407,
+    "iso:country":"IT",
+    "sg:address":"128, Corso Traiano 10127 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 619 8242",
+    "sg:postcode":"10127",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796889,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wjSN46qhftEenQhkFIke9_45.021400_7.651407@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"fcac987366480784a1a9f1cda86d7bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85796889,
+            "region_id":85685169,
+            "venue_id":219748361
+        }
+    ],
+    "wof:id":219748361,
+    "wof:lastmodified":1449073048,
+    "wof:name":"Elia Fratelli (s.r.l.)",
+    "wof:parent_id":85796889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.651407,45.0214,7.651407,45.0214],
+  "geometry": {"coordinates":[7.651407,45.0214],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 219747313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.409328,42.344467,13.409328,42.344467",
+    "geom:latitude":42.344467,
+    "geom:longitude":13.409328,
+    "iso:country":"IT",
+    "sg:address":"Km. 127,400, V. Tiburtina Valeria 67043 Celano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0863 711856",
+    "sg:postcode":"67043",
+    "sg:province":"L'Aquila",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/devitransport",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101836891,
+        85685505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UOZu9a2r1rt0bbRmSoDPS_42.344467_13.409328@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7413c22b88ed966cb28942ab4e6b811f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101836891,
+            "neighbourhood_id":-1,
+            "region_id":85685505,
+            "venue_id":219747313
+        }
+    ],
+    "wof:id":219747313,
+    "wof:lastmodified":1449071034,
+    "wof:name":"De Vi. Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.409328,42.344467,13.409328,42.344467],
+  "geometry": {"coordinates":[13.409328,42.344467],"type":"Point"}
+}

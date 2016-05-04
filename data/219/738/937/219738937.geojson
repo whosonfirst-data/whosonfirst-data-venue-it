@@ -1,0 +1,65 @@
+{
+  "id": 219738937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.580737,45.884777,12.580737,45.884777",
+    "geom:latitude":45.884777,
+    "geom:longitude":12.580737,
+    "iso:country":"IT",
+    "sg:address":"12, Via Luigi Einaudi 33080 Prata Di Pordenone",
+    "sg:city":"Prata di Pordenone",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0434 621838",
+    "sg:postcode":"33080",
+    "sg:province":"Pordenone",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101836291,
+        85685649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q87hkgVAaIzjLZzuQW6Mt_45.884777_12.580737@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b84d19e5ca8f7237b5cd4ea3eb0c0f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101836291,
+            "neighbourhood_id":-1,
+            "region_id":85685649,
+            "venue_id":219738937
+        }
+    ],
+    "wof:id":219738937,
+    "wof:lastmodified":1449072983,
+    "wof:name":"Caamp (soc.coop.r.l.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.580737,45.884777,12.580737,45.884777],
+  "geometry": {"coordinates":[12.580737,45.884777],"type":"Point"}
+}

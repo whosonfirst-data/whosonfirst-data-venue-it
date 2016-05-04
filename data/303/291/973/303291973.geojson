@@ -1,0 +1,75 @@
+{
+  "id": 303291973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.225224,45.519344,9.225224,45.519344",
+    "geom:latitude":45.519344,
+    "geom:longitude":9.225224,
+    "iso:country":"IT",
+    "sg:address":"Via Soffredini Alfredo 65 20126 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 255 2975",
+    "sg:postcode":"20126",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "plant",
+        "digestion",
+        "tank",
+        "equipment",
+        "treatment",
+        "sludge"
+    ],
+    "sg:website":"www.euroma-it.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862735,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cRRXbVVmB55wCXvt2vgai_45.519344_9.225224@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e4a41259d2a321bc7d28809e3ed89f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862735,
+            "region_id":85685243,
+            "venue_id":303291973
+        }
+    ],
+    "wof:id":303291973,
+    "wof:lastmodified":1448998870,
+    "wof:name":"Euromac Srl",
+    "wof:parent_id":85862735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "digestion",
+        "tank",
+        "equipment",
+        "treatment",
+        "sludge"
+    ]
+},
+  "bbox": [9.225224,45.519344,9.225224,45.519344],
+  "geometry": {"coordinates":[9.225224,45.519344],"type":"Point"}
+}

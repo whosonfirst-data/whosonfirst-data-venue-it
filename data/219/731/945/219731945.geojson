@@ -1,0 +1,65 @@
+{
+  "id": 219731945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.200424,45.637661,9.200424,45.637661",
+    "geom:latitude":45.637661,
+    "geom:longitude":9.200424,
+    "iso:country":"IT",
+    "sg:address":"28, Via Archimede 20038 Seregno",
+    "sg:city":"Seregno",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 036 223 0401",
+    "sg:postcode":"20038",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862613,
+        85633253,
+        85685723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50bN2iKMUIEKDTeSkAzIFz_45.637661_9.200424@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"de29960d7637ccb4dff46bd61bd9ccba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862613,
+            "region_id":85685723,
+            "venue_id":219731945
+        }
+    ],
+    "wof:id":219731945,
+    "wof:lastmodified":1449073526,
+    "wof:name":"Autotrasporti Marta (s.n.c.)",
+    "wof:parent_id":85862613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.200424,45.637661,9.200424,45.637661],
+  "geometry": {"coordinates":[9.200424,45.637661],"type":"Point"}
+}

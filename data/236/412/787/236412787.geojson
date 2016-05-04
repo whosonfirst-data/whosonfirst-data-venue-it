@@ -1,0 +1,69 @@
+{
+  "id": 236412787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.147141,45.47842,9.147141,45.47842",
+    "geom:latitude":45.47842,
+    "geom:longitude":9.147141,
+    "iso:country":"IT",
+    "sg:address":"Via Silva Guglielmo 39 20149 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Restrooms",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 4800 6371",
+    "sg:postcode":"20149",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "handicapped",
+        "accessible",
+        "toilet"
+    ],
+    "sg:website":"www.ptmatic.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MbBpypG4P8F5BEMWBZUA5_45.478420_9.147141@1306269817"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"63542f130db76619ca25c6dedbe65852",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":236412787
+        }
+    ],
+    "wof:id":236412787,
+    "wof:lastmodified":1449002181,
+    "wof:name":"P.t. Matic Spa",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped",
+        "accessible",
+        "toilet"
+    ]
+},
+  "bbox": [9.147141,45.47842,9.147141,45.47842],
+  "geometry": {"coordinates":[9.147141,45.47842],"type":"Point"}
+}

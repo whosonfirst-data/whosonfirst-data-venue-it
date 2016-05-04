@@ -1,0 +1,64 @@
+{
+  "id": 219755811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.9159,45.467968,11.9159,45.467968",
+    "geom:latitude":45.467968,
+    "geom:longitude":11.9159,
+    "iso:country":"IT",
+    "sg:address":"67, Via Roma 35010 Villanova Di Camposampiero",
+    "sg:city":"Villanova",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 049 922 0351",
+    "sg:postcode":"35010",
+    "sg:province":"Padova",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yx8T8qssNZqlOjVjuC5WX_45.467968_11.915900@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"056c74e457c1bfb04cae76db088bcbe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685309,
+            "venue_id":219755811
+        }
+    ],
+    "wof:id":219755811,
+    "wof:lastmodified":1449071402,
+    "wof:name":"Industria Cofani Funebri Di Carraro Giordano & C. (s.n.c.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.9159,45.467968,11.9159,45.467968],
+  "geometry": {"coordinates":[11.9159,45.467968],"type":"Point"}
+}

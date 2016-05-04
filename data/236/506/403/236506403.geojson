@@ -1,0 +1,65 @@
+{
+  "id": 236506403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.428377,41.901531,12.428377,41.901531",
+    "geom:latitude":41.901531,
+    "geom:longitude":12.428377,
+    "iso:country":"IT",
+    "sg:address":"00167 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0666461",
+    "sg:postcode":"00167",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "hospital"
+    ],
+    "sg:website":"http://www.idi.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904915,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jm3h4qpriPYnrVWwOvkAV_41.901531_12.428377@1306269818"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"855a17477a41cf0841205932ba4261fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904915,
+            "region_id":85685461,
+            "venue_id":236506403
+        }
+    ],
+    "wof:id":236506403,
+    "wof:lastmodified":1449001733,
+    "wof:name":"Istituto Dermopatico Dell'immacolata",
+    "wof:parent_id":85904915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [12.428377,41.901531,12.428377,41.901531],
+  "geometry": {"coordinates":[12.428377,41.901531],"type":"Point"}
+}

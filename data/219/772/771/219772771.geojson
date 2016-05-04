@@ -1,0 +1,66 @@
+{
+  "id": 219772771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.068496,45.540676,9.068496,45.540676",
+    "geom:latitude":45.540676,
+    "geom:longitude":9.068496,
+    "iso:country":"IT",
+    "sg:address":"16, Via Trieste 20020 Lainate",
+    "sg:city":"Lainate",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9357 0524",
+    "sg:postcode":"20020",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862769,
+        85633253,
+        101757101,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dQzBxFxlQgnj7KLS5Cpzu_45.540676_9.068496@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"750da4204e95e7af9900a7f43c3dc348",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757101,
+            "neighbourhood_id":85862769,
+            "region_id":85685243,
+            "venue_id":219772771
+        }
+    ],
+    "wof:id":219772771,
+    "wof:lastmodified":1449071980,
+    "wof:name":"Societa' Trasporti Castelletti (s.p.a.)",
+    "wof:parent_id":85862769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.068496,45.540676,9.068496,45.540676],
+  "geometry": {"coordinates":[9.068496,45.540676],"type":"Point"}
+}

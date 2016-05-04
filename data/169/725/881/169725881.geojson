@@ -1,0 +1,67 @@
+{
+  "id": 169725881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.96351,45.616245,8.96351,45.616245",
+    "geom:latitude":45.616245,
+    "geom:longitude":8.96351,
+    "iso:country":"IT",
+    "sg:address":"Via Grigna 37 20027 Rescaldina",
+    "sg:city":"Rescaldina",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0331 465208",
+    "sg:postcode":"20027",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "ball-type",
+        "valve",
+        "non-return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101757091,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VgGuqf1zXU7saSqYR0NcQ_45.616245_8.963510@1306269788"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4b66d34eec3ba75e14b1b4711bc8b26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757091,
+            "neighbourhood_id":-1,
+            "region_id":85685243,
+            "venue_id":169725881
+        }
+    ],
+    "wof:id":169725881,
+    "wof:lastmodified":1449033493,
+    "wof:name":"Perar Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ball-type",
+        "valve",
+        "non-return"
+    ]
+},
+  "bbox": [8.96351,45.616245,8.96351,45.616245],
+  "geometry": {"coordinates":[8.96351,45.616245],"type":"Point"}
+}

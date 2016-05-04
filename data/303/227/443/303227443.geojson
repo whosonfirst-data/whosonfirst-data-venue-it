@@ -1,0 +1,66 @@
+{
+  "id": 303227443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.350897,44.425766,11.350897,44.425766",
+    "geom:latitude":44.425766,
+    "geom:longitude":11.350897,
+    "iso:country":"IT",
+    "sg:address":"Via G. Rossini 16 40067 Rastignano",
+    "sg:city":"Rastignano",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 743705",
+    "sg:postcode":"40067",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "machine",
+        "embossing"
+    ],
+    "sg:website":"www.omm-marchetti.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900475,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H31py6wYKKIP1SVvfdkGD_44.425766_11.350897@1306269856"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d239bdecdab4e2fa411d1cc03ca8fcae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900475,
+            "region_id":85685351,
+            "venue_id":303227443
+        }
+    ],
+    "wof:id":303227443,
+    "wof:lastmodified":1448998654,
+    "wof:name":"Marchetti Officine Meccaniche Srl",
+    "wof:parent_id":85900475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "embossing"
+    ]
+},
+  "bbox": [11.350897,44.425766,11.350897,44.425766],
+  "geometry": {"coordinates":[11.350897,44.425766],"type":"Point"}
+}

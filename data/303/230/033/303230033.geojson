@@ -1,0 +1,65 @@
+{
+  "id": 303230033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.104651,44.480247,11.104651,44.480247",
+    "geom:latitude":44.480247,
+    "geom:longitude":11.104651,
+    "iso:country":"IT",
+    "sg:address":"Via Mozzeghine, 13/15 40050 Monteveglio",
+    "sg:city":"Monteveglio",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 838411",
+    "sg:postcode":"40050",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "lamp",
+        "emergency"
+    ],
+    "sg:website":"www.beghelli.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vn6I6wBGuK8Ztgn77d7Jo_44.480247_11.104651@1306269857"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"0cf8da92a97f19356278bf7f7dc44a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685351,
+            "venue_id":303230033
+        }
+    ],
+    "wof:id":303230033,
+    "wof:lastmodified":1448999933,
+    "wof:name":"Beghelli Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lamp",
+        "emergency"
+    ]
+},
+  "bbox": [11.104651,44.480247,11.104651,44.480247],
+  "geometry": {"coordinates":[11.104651,44.480247],"type":"Point"}
+}

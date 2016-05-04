@@ -1,0 +1,67 @@
+{
+  "id": 269914163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.224881,45.518158,9.224881,45.518158",
+    "geom:latitude":45.518158,
+    "geom:longitude":9.224881,
+    "iso:country":"IT",
+    "sg:address":"Via Brunico 9 20126 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 270 7181",
+    "sg:postcode":"20126",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "heater",
+        "air"
+    ],
+    "sg:website":"www.imecosrl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862735,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aEfLXxgtNDSg814hUm0WA_45.518158_9.224881@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e663983f3012e75a663f335e62142f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862735,
+            "region_id":85685243,
+            "venue_id":269914163
+        }
+    ],
+    "wof:id":269914163,
+    "wof:lastmodified":1449037063,
+    "wof:name":"Imeco Srl",
+    "wof:parent_id":85862735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heater",
+        "air"
+    ]
+},
+  "bbox": [9.224881,45.518158,9.224881,45.518158],
+  "geometry": {"coordinates":[9.224881,45.518158],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186220219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.483397,41.906219,12.483397,41.906219",
+    "geom:latitude":41.906219,
+    "geom:longitude":12.483397,
+    "iso:country":"IT",
+    "sg:address":"00187 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Champagne Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 678 5678",
+    "sg:postcode":"00187",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "caffe'",
+        "e"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900313,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qaygfZjWL3GVOQNQv8tzf_41.906219_12.483397@1306269794"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8c9351d21d068ee031e646ecf739edbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900313,
+            "region_id":85685461,
+            "venue_id":186220219
+        }
+    ],
+    "wof:id":186220219,
+    "wof:lastmodified":1449052942,
+    "wof:name":"Caffe' Ciampini",
+    "wof:parent_id":85900313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caffe'",
+        "e"
+    ]
+},
+  "bbox": [12.483397,41.906219,12.483397,41.906219],
+  "geometry": {"coordinates":[12.483397,41.906219],"type":"Point"}
+}

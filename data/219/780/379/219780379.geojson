@@ -1,0 +1,65 @@
+{
+  "id": 219780379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.887025,42.921726,13.887025,42.921726",
+    "geom:latitude":42.921726,
+    "geom:longitude":13.887025,
+    "iso:country":"IT",
+    "sg:address":"37, Via Fioravanti 63039 San Benedetto Del Tronto",
+    "sg:city":"San Benedetto del Tronto",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0735 656644",
+    "sg:postcode":"63039",
+    "sg:province":"Ascoli Piceno",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101847673,
+        85685387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_199o3trZijiOgKYllTBujd_42.921726_13.887025@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"108b3d1f21ac63f357258303a16d8810",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101847673,
+            "neighbourhood_id":-1,
+            "region_id":85685387,
+            "venue_id":219780379
+        }
+    ],
+    "wof:id":219780379,
+    "wof:lastmodified":1449073042,
+    "wof:name":"V.e.r.a. Auto S.r.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.887025,42.921726,13.887025,42.921726],
+  "geometry": {"coordinates":[13.887025,42.921726],"type":"Point"}
+}

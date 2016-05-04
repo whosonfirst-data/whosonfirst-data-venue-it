@@ -1,0 +1,66 @@
+{
+  "id": 219733293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.20023,45.531628,10.20023,45.531628",
+    "geom:latitude":45.531628,
+    "geom:longitude":10.20023,
+    "iso:country":"IT",
+    "sg:address":"50, Via Dalmazia 25125 Brescia",
+    "sg:city":"Brescia",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 242 1075",
+    "sg:postcode":"25125",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FqfUBUPv32g4tcwVMZpLe_45.531628_10.200230@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d91c1f16501a46905bd94850236bd38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":219733293
+        }
+    ],
+    "wof:id":219733293,
+    "wof:lastmodified":1449070883,
+    "wof:name":"Autotrasporti Ussoli (s.r.l.)",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.20023,45.531628,10.20023,45.531628],
+  "geometry": {"coordinates":[10.20023,45.531628],"type":"Point"}
+}

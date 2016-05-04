@@ -1,0 +1,67 @@
+{
+  "id": 286760243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.641753,45.672115,9.641753,45.672115",
+    "geom:latitude":45.672115,
+    "geom:longitude":9.641753,
+    "iso:country":"IT",
+    "sg:address":"Via Grumello 34 24127 Bergamo",
+    "sg:city":"Bergamo",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Auto Racetrack",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 035 254042",
+    "sg:postcode":"24127",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "machine",
+        "cutting-out"
+    ],
+    "sg:website":"www.leadermec.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900501,
+        85633253,
+        101752723,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u4pCPorePRFBpwQZH48lB_45.672115_9.641753@1306269849"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"85e17496a921741096cebe09a801f09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752723,
+            "neighbourhood_id":85900501,
+            "region_id":85685249,
+            "venue_id":286760243
+        }
+    ],
+    "wof:id":286760243,
+    "wof:lastmodified":1449017984,
+    "wof:name":"Leadermec Srl",
+    "wof:parent_id":85900501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "cutting-out"
+    ]
+},
+  "bbox": [9.641753,45.672115,9.641753,45.672115],
+  "geometry": {"coordinates":[9.641753,45.672115],"type":"Point"}
+}

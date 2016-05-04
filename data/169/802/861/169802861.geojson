@@ -1,0 +1,67 @@
+{
+  "id": 169802861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.770745,45.651714,13.770745,45.651714",
+    "geom:latitude":45.651714,
+    "geom:longitude":13.770745,
+    "iso:country":"IT",
+    "sg:address":"10, Via Della Cassa Di Risparmio 34121 Trieste",
+    "sg:city":"Trieste",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 040 677 1111",
+    "sg:postcode":"34121",
+    "sg:province":"Trieste",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633253,
+        101752715,
+        85904965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kzFI9yyPdmy4Vc2pIuuMn_45.651714_13.770745@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a51b3d3db43d7aea23ce26286dd2380c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752715,
+            "neighbourhood_id":85904965,
+            "region_id":-1,
+            "venue_id":169802861
+        }
+    ],
+    "wof:id":169802861,
+    "wof:lastmodified":1449035344,
+    "wof:name":"Banca Cassa Di Risparmio Di Trieste - Banca (s.p.a.)",
+    "wof:parent_id":85904965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [13.770745,45.651714,13.770745,45.651714],
+  "geometry": {"coordinates":[13.770745,45.651714],"type":"Point"}
+}

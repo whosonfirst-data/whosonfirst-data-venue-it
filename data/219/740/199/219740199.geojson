@@ -1,0 +1,67 @@
+{
+  "id": 219740199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.163172,45.507084,9.163172,45.507084",
+    "geom:latitude":45.507084,
+    "geom:longitude":9.163172,
+    "iso:country":"IT",
+    "sg:address":"44, V. Cosenz 20157 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39023322111",
+    "sg:postcode":"20157",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.cavanna.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796821,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qazr2eifxxc0kCJuy1KWF_45.507084_9.163172@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2c59601d9f8ef9307b09d1e233432426",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796821,
+            "region_id":85685243,
+            "venue_id":219740199
+        }
+    ],
+    "wof:id":219740199,
+    "wof:lastmodified":1449071996,
+    "wof:name":"Cavanna Traslochi Sas",
+    "wof:parent_id":85796821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.163172,45.507084,9.163172,45.507084],
+  "geometry": {"coordinates":[9.163172,45.507084],"type":"Point"}
+}

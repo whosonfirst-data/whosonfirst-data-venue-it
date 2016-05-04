@@ -1,0 +1,67 @@
+{
+  "id": 253529275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.227539,45.505493,9.227539,45.505493",
+    "geom:latitude":45.505493,
+    "geom:longitude":9.227539,
+    "iso:country":"IT",
+    "sg:address":"Via Asiago 20 20128 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 2700 1166",
+    "sg:postcode":"20128",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "support",
+        "user"
+    ],
+    "sg:website":"www.assistitalia.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796873,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oeCEUTCxOc5Dv4YHxJMW7_45.505493_9.227539@1306269830"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"3be31b62fd6930a88ee78fbc33eb7036",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796873,
+            "region_id":85685243,
+            "venue_id":253529275
+        }
+    ],
+    "wof:id":253529275,
+    "wof:lastmodified":1449064117,
+    "wof:name":"Assist Italia Srl",
+    "wof:parent_id":85796873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support",
+        "user"
+    ]
+},
+  "bbox": [9.227539,45.505493,9.227539,45.505493],
+  "geometry": {"coordinates":[9.227539,45.505493],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 219731287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.886522,45.350079,10.886522,45.350079",
+    "geom:latitude":45.350079,
+    "geom:longitude":10.886522,
+    "iso:country":"IT",
+    "sg:address":"8, Via Aldo Moro 37068 Vigasio",
+    "sg:city":"Vigasio",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 668 5177",
+    "sg:postcode":"37068",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101795465,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wS4fzkDzZgzJ3qmKa9BWN_45.350079_10.886522@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"97ecb4a03c238d261e49f68ca13d85d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101795465,
+            "neighbourhood_id":-1,
+            "region_id":85685281,
+            "venue_id":219731287
+        }
+    ],
+    "wof:id":219731287,
+    "wof:lastmodified":1449073525,
+    "wof:name":"Autotrasporti F.lli Adami (s.n.c.)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.886522,45.350079,10.886522,45.350079],
+  "geometry": {"coordinates":[10.886522,45.350079],"type":"Point"}
+}

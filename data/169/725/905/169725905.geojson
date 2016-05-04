@@ -1,0 +1,68 @@
+{
+  "id": 169725905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.149354,45.48476,10.149354,45.48476",
+    "geom:latitude":45.48476,
+    "geom:longitude":10.149354,
+    "iso:country":"IT",
+    "sg:address":"Via S. Desiderio 15 25020 Flero",
+    "sg:city":"Flero",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 358 2702",
+    "sg:postcode":"25020",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "ball-type",
+        "valve",
+        "non-return"
+    ],
+    "sg:website":"www.ntmflero.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ALHWzVkdfnJenWQSJ9WJG_45.484760_10.149354@1306269788"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5bccc56ad08b2876cd5c4ec0f021f979",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":-1,
+            "region_id":85685253,
+            "venue_id":169725905
+        }
+    ],
+    "wof:id":169725905,
+    "wof:lastmodified":1449033492,
+    "wof:name":"N.t.m. Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ball-type",
+        "valve",
+        "non-return"
+    ]
+},
+  "bbox": [10.149354,45.48476,10.149354,45.48476],
+  "geometry": {"coordinates":[10.149354,45.48476],"type":"Point"}
+}

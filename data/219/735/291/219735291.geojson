@@ -1,0 +1,66 @@
+{
+  "id": 219735291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.370827,38.110809,13.370827,38.110809",
+    "geom:latitude":38.110809,
+    "geom:longitude":13.370827,
+    "iso:country":"IT",
+    "sg:address":"3, Via Randazzo Pietro 90123 Palermo",
+    "sg:city":"Palermo",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 091 616 2751",
+    "sg:postcode":"90123",
+    "sg:province":"Palermo",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752517,
+        85904861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WWkHXaXsRTakQrRaPWDJT_38.110809_13.370827@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"0b1d5b11e508e0a4adf5e183520a4805",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752517,
+            "neighbourhood_id":85904861,
+            "region_id":-1,
+            "venue_id":219735291
+        }
+    ],
+    "wof:id":219735291,
+    "wof:lastmodified":1449073829,
+    "wof:name":"Bianca",
+    "wof:parent_id":85904861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [13.370827,38.110809,13.370827,38.110809],
+  "geometry": {"coordinates":[13.370827,38.110809],"type":"Point"}
+}

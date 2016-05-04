@@ -1,0 +1,65 @@
+{
+  "id": 236506567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.270802,43.779083,11.270802,43.779083",
+    "geom:latitude":43.779083,
+    "geom:longitude":11.270802,
+    "iso:country":"IT",
+    "sg:address":"50132 Firenze",
+    "sg:city":"Firenze",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 566 2332",
+    "sg:postcode":"50132",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "hospital"
+    ],
+    "sg:website":"http://www.meyer.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904679,
+        85633253,
+        101752643,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04qXFC3aTHOVRKIsR50rNS_43.779083_11.270802@1306269818"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"381c18ded54246f1c284e9c61b24c823",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904679,
+            "region_id":85685407,
+            "venue_id":236506567
+        }
+    ],
+    "wof:id":236506567,
+    "wof:lastmodified":1449001736,
+    "wof:name":"Ospedale Pediatrico Anna Meyer",
+    "wof:parent_id":85904679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [11.270802,43.779083,11.270802,43.779083],
+  "geometry": {"coordinates":[11.270802,43.779083],"type":"Point"}
+}

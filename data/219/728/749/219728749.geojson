@@ -1,0 +1,67 @@
+{
+  "id": 219728749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.554331,41.905735,12.554331,41.905735",
+    "geom:latitude":41.905735,
+    "geom:longitude":12.554331,
+    "iso:country":"IT",
+    "sg:address":"50, V. Bergamini 00159 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 390 643 631",
+    "sg:postcode":"00159",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.autostrade.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904931,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xSkNxnhEZ9PScBruRIyJk_41.905735_12.554331@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"db1824b4356c691888124d7047c781fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904931,
+            "region_id":85685461,
+            "venue_id":219728749
+        }
+    ],
+    "wof:id":219728749,
+    "wof:lastmodified":1449071214,
+    "wof:name":"Autostrade Spa",
+    "wof:parent_id":85904931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.554331,41.905735,12.554331,41.905735],
+  "geometry": {"coordinates":[12.554331,41.905735],"type":"Point"}
+}

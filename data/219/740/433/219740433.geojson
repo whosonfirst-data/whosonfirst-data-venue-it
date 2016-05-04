@@ -1,0 +1,66 @@
+{
+  "id": 219740433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.489503,41.978466,12.489503,41.978466",
+    "geom:latitude":41.978466,
+    "geom:longitude":12.489503,
+    "iso:country":"IT",
+    "sg:address":"79, Via Di Quarto Peperino 00188 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39063320119",
+    "sg:postcode":"00188",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904939,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WJelplZ6vYnYJoZRz5WFW_41.978466_12.489503@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6cc7ac7efcc80c908b8b388d5a2ad8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904939,
+            "region_id":85685461,
+            "venue_id":219740433
+        }
+    ],
+    "wof:id":219740433,
+    "wof:lastmodified":1449071996,
+    "wof:name":"Centro Artigiano Recupero Auto S.n.c.",
+    "wof:parent_id":85904939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.489503,41.978466,12.489503,41.978466],
+  "geometry": {"coordinates":[12.489503,41.978466],"type":"Point"}
+}

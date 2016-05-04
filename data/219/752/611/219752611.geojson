@@ -1,0 +1,66 @@
+{
+  "id": 219752611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.230579,45.497143,10.230579,45.497143",
+    "geom:latitude":45.497143,
+    "geom:longitude":10.230579,
+    "iso:country":"IT",
+    "sg:address":"8, Via Volta 25010 San Zeno Naviglio",
+    "sg:city":"San Zeno Naviglio",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 216 0625",
+    "sg:postcode":"25010",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900503,
+        85633253,
+        101752735,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UYPxh2CebRSFLjOivYrD6_45.497143_10.230579@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"20efca0d6d9a047cd1ccf764bfc3ce1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752735,
+            "neighbourhood_id":85900503,
+            "region_id":85685253,
+            "venue_id":219752611
+        }
+    ],
+    "wof:id":219752611,
+    "wof:lastmodified":1449070981,
+    "wof:name":"Germani (s.p.a.)",
+    "wof:parent_id":85900503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.230579,45.497143,10.230579,45.497143],
+  "geometry": {"coordinates":[10.230579,45.497143],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 270264801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.786201,45.642395,13.786201,45.642395",
+    "geom:latitude":45.642395,
+    "geom:longitude":13.786201,
+    "iso:country":"IT",
+    "sg:address":"34138 Trieste",
+    "sg:city":"Trieste",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 040 660393",
+    "sg:postcode":"34138",
+    "sg:province":"Trieste",
+    "sg:tags":[
+        "car",
+        "vehicles",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904989,
+        85633253,
+        101752715,
+        85685329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D7hquYVYAy2V51iwMdCLV_45.642395_13.786201@1306269840"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a2c4e4f0432198ab243012fea9ad7d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752715,
+            "neighbourhood_id":85904989,
+            "region_id":85685329,
+            "venue_id":270264801
+        }
+    ],
+    "wof:id":270264801,
+    "wof:lastmodified":1449010254,
+    "wof:name":"Motocenter Di Martellani Paolo",
+    "wof:parent_id":85904989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "vehicles",
+        "motor"
+    ]
+},
+  "bbox": [13.786201,45.642395,13.786201,45.642395],
+  "geometry": {"coordinates":[13.786201,45.642395],"type":"Point"}
+}

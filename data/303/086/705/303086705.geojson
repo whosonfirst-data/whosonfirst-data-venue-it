@@ -1,0 +1,68 @@
+{
+  "id": 303086705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.077045,44.439724,11.077045,44.439724",
+    "geom:latitude":44.439724,
+    "geom:longitude":11.077045,
+    "iso:country":"IT",
+    "sg:address":"Via Del Lavoro 39 40050 Castello Di Serravalle",
+    "sg:city":"Castello di Serravalle",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 670 4884",
+    "sg:postcode":"40050",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "valve",
+        "controlled",
+        "electronically"
+    ],
+    "sg:website":"www.tekmatic.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101797847,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_402xKqhGshxy5c62XU5cKj_44.439724_11.077045@1306269855"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f5155a4231e77f64def39d13947c0ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101797847,
+            "neighbourhood_id":-1,
+            "region_id":85685351,
+            "venue_id":303086705
+        }
+    ],
+    "wof:id":303086705,
+    "wof:lastmodified":1448999759,
+    "wof:name":"Tekmatic Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve",
+        "controlled",
+        "electronically"
+    ]
+},
+  "bbox": [11.077045,44.439724,11.077045,44.439724],
+  "geometry": {"coordinates":[11.077045,44.439724],"type":"Point"}
+}

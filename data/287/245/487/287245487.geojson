@@ -1,0 +1,67 @@
+{
+  "id": 287245487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.616098,41.926296,12.616098,41.926296",
+    "geom:latitude":41.926296,
+    "geom:longitude":12.616098,
+    "iso:country":"IT",
+    "sg:address":"144, V. Torre S. Eusebio 00131 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39064193704",
+    "sg:postcode":"00131",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "component",
+        "electronic"
+    ],
+    "sg:website":"http://www.genex.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900495,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fltv6wOHYV7mXwoGbhK88_41.926296_12.616098@1306269854"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d3e889813e9f7f1439c90c53c4db13c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900495,
+            "region_id":85685461,
+            "venue_id":287245487
+        }
+    ],
+    "wof:id":287245487,
+    "wof:lastmodified":1449001557,
+    "wof:name":"Genex Srl",
+    "wof:parent_id":85900495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "electronic"
+    ]
+},
+  "bbox": [12.616098,41.926296,12.616098,41.926296],
+  "geometry": {"coordinates":[12.616098,41.926296],"type":"Point"}
+}

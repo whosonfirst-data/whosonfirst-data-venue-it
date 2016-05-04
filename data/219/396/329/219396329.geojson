@@ -1,0 +1,67 @@
+{
+  "id": 219396329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.29151,45.545372,9.29151,45.545372",
+    "geom:latitude":45.545372,
+    "geom:longitude":9.29151,
+    "iso:country":"IT",
+    "sg:address":"20047 Brugherio",
+    "sg:city":"Brugherio",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Factory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 039 287 3077",
+    "sg:postcode":"20047",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "steelworks",
+        "foundry"
+    ],
+    "sg:website":"http://www.alcon.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796833,
+        85633253,
+        101757863,
+        85685723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mN7YIOMaxSNkW5n7xat30_45.545372_9.291510@1306269807"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ced22a7cab7b32ee82ca1c429fb4c996",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757863,
+            "neighbourhood_id":85796833,
+            "region_id":85685723,
+            "venue_id":219396329
+        }
+    ],
+    "wof:id":219396329,
+    "wof:lastmodified":1449072701,
+    "wof:name":"Al.con Srl",
+    "wof:parent_id":85796833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steelworks",
+        "foundry"
+    ]
+},
+  "bbox": [9.29151,45.545372,9.29151,45.545372],
+  "geometry": {"coordinates":[9.29151,45.545372],"type":"Point"}
+}

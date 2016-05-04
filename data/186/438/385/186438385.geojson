@@ -1,0 +1,65 @@
+{
+  "id": 186438385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.435963,44.460243,11.435963,44.460243",
+    "geom:latitude":44.460243,
+    "geom:longitude":11.435963,
+    "iso:country":"IT",
+    "sg:address":"Via Emilia 314 40064 Ozzano Dell'emilia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 651 2611",
+    "sg:postcode":"40064",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "cap",
+        "bottle"
+    ],
+    "sg:website":"www.pelliconi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900379,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hsYVOyKm9XxEdVQYwWzx8_44.460243_11.435963@1306269796"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"21e5eb59d2b46dc17b417db97d174fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900379,
+            "region_id":85685351,
+            "venue_id":186438385
+        }
+    ],
+    "wof:id":186438385,
+    "wof:lastmodified":1449051295,
+    "wof:name":"Pelliconi & C. Spa",
+    "wof:parent_id":85900379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cap",
+        "bottle"
+    ]
+},
+  "bbox": [11.435963,44.460243,11.435963,44.460243],
+  "geometry": {"coordinates":[11.435963,44.460243],"type":"Point"}
+}

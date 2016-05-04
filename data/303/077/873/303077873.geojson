@@ -1,0 +1,80 @@
+{
+  "id": 303077873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.244086,45.475407,9.244086,45.475407",
+    "geom:latitude":45.475407,
+    "geom:longitude":9.244086,
+    "iso:country":"IT",
+    "sg:address":"Via Bistolfi Leonardo 35 20134 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0221291",
+    "sg:postcode":"20134",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "machine",
+        "finishing",
+        "electrochemical",
+        "plant"
+    ],
+    "sg:website":"www.uhdenora.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796921,
+        85633253,
+        101752703,
+        85685243,
+        85796877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s1KbO6jEyHEfaARpZYHGt_45.475407_9.244086@1306269855"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"95885656ef46897f4d445751e6568bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796921,
+            "region_id":85685243,
+            "venue_id":303077873
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796877,
+            "region_id":85685243,
+            "venue_id":303077873
+        }
+    ],
+    "wof:id":303077873,
+    "wof:lastmodified":1448998507,
+    "wof:name":"Uhdenora Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "finishing",
+        "electrochemical",
+        "plant"
+    ]
+},
+  "bbox": [9.244086,45.475407,9.244086,45.475407],
+  "geometry": {"coordinates":[9.244086,45.475407],"type":"Point"}
+}

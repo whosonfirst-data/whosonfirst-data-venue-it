@@ -1,0 +1,67 @@
+{
+  "id": 219756985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.209919,43.772312,11.209919,43.772312",
+    "geom:latitude":43.772312,
+    "geom:longitude":11.209919,
+    "iso:country":"IT",
+    "sg:address":"58, V. Lucca 50142 Firenze",
+    "sg:city":"Firenze",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 732 3593",
+    "sg:postcode":"50142",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.frecciafiorentina.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904699,
+        85633253,
+        101752643,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jVeIdvJd8NND3lpI4WBYz_43.772312_11.209919@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8ee1263ccbd7003a0db485237cafe76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904699,
+            "region_id":85685407,
+            "venue_id":219756985
+        }
+    ],
+    "wof:id":219756985,
+    "wof:lastmodified":1449072501,
+    "wof:name":"La Freccia Fiorentina",
+    "wof:parent_id":85904699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.209919,43.772312,11.209919,43.772312],
+  "geometry": {"coordinates":[11.209919,43.772312],"type":"Point"}
+}

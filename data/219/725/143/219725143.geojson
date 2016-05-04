@@ -1,0 +1,67 @@
+{
+  "id": 219725143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.693811,45.076458,7.693811,45.076458",
+    "geom:latitude":45.076458,
+    "geom:longitude":7.693811,
+    "iso:country":"IT",
+    "sg:address":"24/n, C. Regio Parco 10153 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 248 0732",
+    "sg:postcode":"10153",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/abramo",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862793,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cSfowe5snHAFshWZtYKNv_45.076458_7.693811@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a1b949eb2518f22b8a70b9a4de57de39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85862793,
+            "region_id":85685169,
+            "venue_id":219725143
+        }
+    ],
+    "wof:id":219725143,
+    "wof:lastmodified":1449071256,
+    "wof:name":"Abramo Traslochi",
+    "wof:parent_id":85862793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.693811,45.076458,7.693811,45.076458],
+  "geometry": {"coordinates":[7.693811,45.076458],"type":"Point"}
+}

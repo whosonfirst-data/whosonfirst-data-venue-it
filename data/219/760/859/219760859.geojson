@@ -1,0 +1,66 @@
+{
+  "id": 219760859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"16.844259,41.098423,16.844259,41.098423",
+    "geom:latitude":41.098423,
+    "geom:longitude":16.844259,
+    "iso:country":"IT",
+    "sg:address":"112, Via Bitritto 70124 Bari",
+    "sg:city":"Bari",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 080 505 2055",
+    "sg:postcode":"70124",
+    "sg:province":"Bari",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906267,
+        85633253,
+        101752571,
+        85685531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_232vY2BOwoN7WfL1J8PPvn_41.098423_16.844259@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b392645c21bbd2d5cfe910cf39837831",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752571,
+            "neighbourhood_id":85906267,
+            "region_id":85685531,
+            "venue_id":219760859
+        }
+    ],
+    "wof:id":219760859,
+    "wof:lastmodified":1449073782,
+    "wof:name":"N.t.i. Nuovo Trasporto Italiano S.r.l.",
+    "wof:parent_id":85906267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [16.844259,41.098423,16.844259,41.098423],
+  "geometry": {"coordinates":[16.844259,41.098423],"type":"Point"}
+}

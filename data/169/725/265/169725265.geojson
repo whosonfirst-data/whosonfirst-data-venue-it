@@ -1,0 +1,69 @@
+{
+  "id": 169725265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.009708,45.541,9.009708,45.541",
+    "geom:latitude":45.541,
+    "geom:longitude":9.009708,
+    "iso:country":"IT",
+    "sg:address":"Via Brodolini 2 20010 Pogliano Milanese",
+    "sg:city":"Pogliano Milanese",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 939 6801",
+    "sg:postcode":"20010",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "ball-type",
+        "valve",
+        "non-return"
+    ],
+    "sg:website":"www.rbr.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862769,
+        85633253,
+        101757101,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33sddbUv322sGl42d9zFRb_45.541000_9.009708@1306269788"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"52f3398a1a68ada6fa8f551c5e837ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757101,
+            "neighbourhood_id":85862769,
+            "region_id":85685243,
+            "venue_id":169725265
+        }
+    ],
+    "wof:id":169725265,
+    "wof:lastmodified":1449033492,
+    "wof:name":"R.b.r. - Valvole Spa",
+    "wof:parent_id":85862769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ball-type",
+        "valve",
+        "non-return"
+    ]
+},
+  "bbox": [9.009708,45.541,9.009708,45.541],
+  "geometry": {"coordinates":[9.009708,45.541],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 336914799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.214701,45.557907,9.214701,45.557907",
+    "geom:latitude":45.557907,
+    "geom:longitude":9.214701,
+    "iso:country":"IT",
+    "sg:address":"20092 Cinisello Balsamo",
+    "sg:city":"Cinisello Balsamo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 6601 4049",
+    "sg:postcode":"20092",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862739,
+        85633253,
+        101752699,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fgr9LYR51V0QJMP4ot6b4_45.557907_9.214701@1306269877"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"eafe4c8e9c2a1ce05c4b9e89ef20195d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752699,
+            "neighbourhood_id":85862739,
+            "region_id":85685243,
+            "venue_id":336914799
+        }
+    ],
+    "wof:id":336914799,
+    "wof:lastmodified":1448997359,
+    "wof:name":"Centro Medico Polispecialistico Sas",
+    "wof:parent_id":85862739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [9.214701,45.557907,9.214701,45.557907],
+  "geometry": {"coordinates":[9.214701,45.557907],"type":"Point"}
+}

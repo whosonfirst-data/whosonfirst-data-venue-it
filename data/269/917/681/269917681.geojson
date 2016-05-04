@@ -1,0 +1,65 @@
+{
+  "id": 269917681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.909619,45.405739,10.909619,45.405739",
+    "geom:latitude":45.405739,
+    "geom:longitude":10.909619,
+    "iso:country":"IT",
+    "sg:address":"Via Aeroporto 37066 Sommacampagna",
+    "sg:city":"Sommacampagna",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 861 9056",
+    "sg:postcode":"37066",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905037,
+        85633253,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lyx4kiGrNP9mCFXv5Y7TT_45.405739_10.909619@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"78fdddd175cd16ccd933097dcb5f10c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85905037,
+            "region_id":85685281,
+            "venue_id":269917681
+        }
+    ],
+    "wof:id":269917681,
+    "wof:lastmodified":1449038535,
+    "wof:name":"Direzione Circoscrizione Aeroportuale Verona",
+    "wof:parent_id":85905037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [10.909619,45.405739,10.909619,45.405739],
+  "geometry": {"coordinates":[10.909619,45.405739],"type":"Point"}
+}

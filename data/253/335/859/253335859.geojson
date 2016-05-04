@@ -1,0 +1,67 @@
+{
+  "id": 253335859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.20947,45.4338,9.20947,45.4338",
+    "geom:latitude":45.4338,
+    "geom:longitude":9.20947,
+    "iso:country":"IT",
+    "sg:address":"Via Dell' Assunta 56 20141 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 535471",
+    "sg:postcode":"20141",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "wall",
+        "facing"
+    ],
+    "sg:website":"www.braendli.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797023,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NAcJnRi9wBMhEOx44S2TT_45.433800_9.209470@1306269828"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"36b2619b936279f362cc997d50691ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85797023,
+            "region_id":85685243,
+            "venue_id":253335859
+        }
+    ],
+    "wof:id":253335859,
+    "wof:lastmodified":1449064790,
+    "wof:name":"Braendli & C Srl",
+    "wof:parent_id":85797023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wall",
+        "facing"
+    ]
+},
+  "bbox": [9.20947,45.4338,9.20947,45.4338],
+  "geometry": {"coordinates":[9.20947,45.4338],"type":"Point"}
+}

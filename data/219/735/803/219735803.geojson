@@ -1,0 +1,66 @@
+{
+  "id": 219735803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.037433,45.521584,9.037433,45.521584",
+    "geom:latitude":45.521584,
+    "geom:longitude":9.037433,
+    "iso:country":"IT",
+    "sg:address":"79, Via Magenta 20017 Rho",
+    "sg:city":"Rho",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9350 2684",
+    "sg:postcode":"20017",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862769,
+        85633253,
+        101757101,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hqrGRg4yPDgRwSp5aYVf3_45.521584_9.037433@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f849c43eab6a2ea14ce51b2684cafc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757101,
+            "neighbourhood_id":85862769,
+            "region_id":85685243,
+            "venue_id":219735803
+        }
+    ],
+    "wof:id":219735803,
+    "wof:lastmodified":1449073831,
+    "wof:name":"Bodda Trasporti S.p.a.",
+    "wof:parent_id":85862769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.037433,45.521584,9.037433,45.521584],
+  "geometry": {"coordinates":[9.037433,45.521584],"type":"Point"}
+}

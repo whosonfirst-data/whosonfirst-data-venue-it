@@ -1,0 +1,66 @@
+{
+  "id": 219732343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.432999,41.811203,12.432999,41.811203",
+    "geom:latitude":41.811203,
+    "geom:longitude":12.432999,
+    "iso:country":"IT",
+    "sg:address":"15, V. Mar Della Cina 00144 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39065201219",
+    "sg:postcode":"00144",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/autotrasportirizzoluigi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900349,
+        85633253,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I0uucVoGgQkIuSprfM9Ei_41.811203_12.432999@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"067c1b59293a9f09388a358572440928",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900349,
+            "region_id":85685461,
+            "venue_id":219732343
+        }
+    ],
+    "wof:id":219732343,
+    "wof:lastmodified":1449074044,
+    "wof:name":"Autotrasporti Rizzo Luigi",
+    "wof:parent_id":85900349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.432999,41.811203,12.432999,41.811203],
+  "geometry": {"coordinates":[12.432999,41.811203],"type":"Point"}
+}

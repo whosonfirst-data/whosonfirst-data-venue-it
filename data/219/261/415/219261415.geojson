@@ -1,0 +1,65 @@
+{
+  "id": 219261415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.856565,44.420395,8.856565,44.420395",
+    "geom:latitude":44.420395,
+    "geom:longitude":8.856565,
+    "iso:country":"IT",
+    "sg:address":"Via Buccari 29 16153 Genova",
+    "sg:city":"Genova",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 010 609911",
+    "sg:postcode":"16153",
+    "sg:province":"Genova",
+    "sg:tags":[
+        "simulator"
+    ],
+    "sg:website":"www.sindel.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797001,
+        85633253,
+        101752663,
+        85685219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uvhWBldDvDP5VX4H8Pf9C_44.420395_8.856565@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"d1fe8095e741fb4fdd589dd92bf32bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752663,
+            "neighbourhood_id":85797001,
+            "region_id":85685219,
+            "venue_id":219261415
+        }
+    ],
+    "wof:id":219261415,
+    "wof:lastmodified":1449070429,
+    "wof:name":"Sindel Srl",
+    "wof:parent_id":85797001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "simulator"
+    ]
+},
+  "bbox": [8.856565,44.420395,8.856565,44.420395],
+  "geometry": {"coordinates":[8.856565,44.420395],"type":"Point"}
+}

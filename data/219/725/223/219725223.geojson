@@ -1,0 +1,65 @@
+{
+  "id": 219725223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.941113,45.489784,10.941113,45.489784",
+    "geom:latitude":45.489784,
+    "geom:longitude":10.941113,
+    "iso:country":"IT",
+    "sg:address":"74, Via Valpolicella 37024 Negrar",
+    "sg:city":"Negrar",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 751 3806",
+    "sg:postcode":"37024",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905029,
+        85633253,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2diQa5sLGJlAuZjlqpn52v_45.489784_10.941113@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1b23caf094d74e8a41491bd7df500c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85905029,
+            "region_id":85685281,
+            "venue_id":219725223
+        }
+    ],
+    "wof:id":219725223,
+    "wof:lastmodified":1449071254,
+    "wof:name":"Adami Autotrasporti (s.r.l.)",
+    "wof:parent_id":85905029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.941113,45.489784,10.941113,45.489784],
+  "geometry": {"coordinates":[10.941113,45.489784],"type":"Point"}
+}

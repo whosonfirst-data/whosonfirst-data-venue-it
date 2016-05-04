@@ -1,0 +1,66 @@
+{
+  "id": 219730615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.172157,45.684605,9.172157,45.684605",
+    "geom:latitude":45.684605,
+    "geom:longitude":9.172157,
+    "iso:country":"IT",
+    "sg:address":"81/83, Via Per Cabiate 22066 Mariano Comense",
+    "sg:city":"Mariano Comense",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39031746249",
+    "sg:postcode":"22066",
+    "sg:province":"Como",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862609,
+        85633253,
+        101757911,
+        85685723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NZCmF7TpiG4Lh9m3BzvDP_45.684605_9.172157@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"766bd53fa9abf446754e0d0e4cd1ede3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757911,
+            "neighbourhood_id":85862609,
+            "region_id":85685723,
+            "venue_id":219730615
+        }
+    ],
+    "wof:id":219730615,
+    "wof:lastmodified":1449073345,
+    "wof:name":"Autotrasporti Donato Di Donato Maurizio E C. Sas",
+    "wof:parent_id":85862609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.172157,45.684605,9.172157,45.684605],
+  "geometry": {"coordinates":[9.172157,45.684605],"type":"Point"}
+}

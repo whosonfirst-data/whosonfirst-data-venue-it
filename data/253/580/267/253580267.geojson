@@ -1,0 +1,66 @@
+{
+  "id": 253580267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.929119,45.401276,11.929119,45.401276",
+    "geom:latitude":45.401276,
+    "geom:longitude":11.929119,
+    "iso:country":"IT",
+    "sg:address":"Via Uruguay 10 35127 Padova",
+    "sg:city":"Padova",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 049 870 2511",
+    "sg:postcode":"35127",
+    "sg:province":"Padova",
+    "sg:tags":[
+        "laboratory",
+        "glassware"
+    ],
+    "sg:website":"www.vetrotecnica.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752707,
+        85685309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1muhtjL0ylrPKfhSgZDFQU_45.401276_11.929119@1306269831"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"bac145e9a3d24e95f11b5e730f9043c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752707,
+            "neighbourhood_id":-1,
+            "region_id":85685309,
+            "venue_id":253580267
+        }
+    ],
+    "wof:id":253580267,
+    "wof:lastmodified":1449064835,
+    "wof:name":"Vetrotecnica Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "glassware"
+    ]
+},
+  "bbox": [11.929119,45.401276,11.929119,45.401276],
+  "geometry": {"coordinates":[11.929119,45.401276],"type":"Point"}
+}

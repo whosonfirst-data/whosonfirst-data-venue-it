@@ -1,0 +1,65 @@
+{
+  "id": 270254327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.3909,44.552231,11.3909,44.552231",
+    "geom:latitude":44.552231,
+    "geom:longitude":11.3909,
+    "iso:country":"IT",
+    "sg:address":"Via B. Buozzi, 2 - Cadriano 40057 Granarolo Dell'emilia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 60181",
+    "sg:postcode":"40057",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "clamp",
+        "carrier"
+    ],
+    "sg:website":"www.fasco-spa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904581,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NRIR46zCAZ4105BmwoDer_44.552231_11.390900@1306269840"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b4aebf6af0e24ae30f4ca86ce72bcec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904581,
+            "region_id":85685351,
+            "venue_id":270254327
+        }
+    ],
+    "wof:id":270254327,
+    "wof:lastmodified":1449010344,
+    "wof:name":"Fasco Spa",
+    "wof:parent_id":85904581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clamp",
+        "carrier"
+    ]
+},
+  "bbox": [11.3909,44.552231,11.3909,44.552231],
+  "geometry": {"coordinates":[11.3909,44.552231],"type":"Point"}
+}

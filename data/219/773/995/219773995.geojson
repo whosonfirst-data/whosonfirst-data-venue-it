@@ -1,0 +1,66 @@
+{
+  "id": 219773995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.481562,41.90601,12.481562,41.90601",
+    "geom:latitude":41.90601,
+    "geom:longitude":12.481562,
+    "iso:country":"IT",
+    "sg:address":"55, Via Delle Carrozze 00187 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39066796830",
+    "sg:postcode":"00187",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900313,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vJYZCYQjQdCzKkrBRyACv_41.906010_12.481562@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b02c25f3b1c4c0fb38d88b430b4e9867",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900313,
+            "region_id":85685461,
+            "venue_id":219773995
+        }
+    ],
+    "wof:id":219773995,
+    "wof:lastmodified":1449070843,
+    "wof:name":"T.v.e. (s.r.l.)",
+    "wof:parent_id":85900313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.481562,41.90601,12.481562,41.90601],
+  "geometry": {"coordinates":[12.481562,41.90601],"type":"Point"}
+}

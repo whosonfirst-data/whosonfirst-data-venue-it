@@ -1,0 +1,66 @@
+{
+  "id": 219765425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.046011,44.067638,10.046011,44.067638",
+    "geom:latitude":44.067638,
+    "geom:longitude":10.046011,
+    "iso:country":"IT",
+    "sg:address":"10, Via Fossone Basso 54033 Carrara",
+    "sg:city":"Carrara",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0585 858636",
+    "sg:postcode":"54033",
+    "sg:province":"Massa-Carrara",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900387,
+        85633253,
+        101752653,
+        85685395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13ejAPqMEWPj8A0Ugt0j9D_44.067638_10.046011@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7b82cff31b61690a1b3f3762987bc853",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752653,
+            "neighbourhood_id":85900387,
+            "region_id":85685395,
+            "venue_id":219765425
+        }
+    ],
+    "wof:id":219765425,
+    "wof:lastmodified":1449072422,
+    "wof:name":"Piccini",
+    "wof:parent_id":85900387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.046011,44.067638,10.046011,44.067638],
+  "geometry": {"coordinates":[10.046011,44.067638],"type":"Point"}
+}

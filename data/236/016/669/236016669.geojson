@@ -1,0 +1,66 @@
+{
+  "id": 236016669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.211923,45.393761,9.211923,45.393761",
+    "geom:latitude":45.393761,
+    "geom:longitude":9.211923,
+    "iso:country":"IT",
+    "sg:address":"Via Sporting Mirasole 4 20090 Opera",
+    "sg:city":"Opera",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 5760 4555",
+    "sg:postcode":"20090",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "product",
+        "diagnostic"
+    ],
+    "sg:website":"www.immucor.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101770077,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lkAkH0hz0PwAGV953ziqU_45.393761_9.211923@1306269814"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a997cb0ba4179fbe6f2920002eff0a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101770077,
+            "neighbourhood_id":-1,
+            "region_id":85685243,
+            "venue_id":236016669
+        }
+    ],
+    "wof:id":236016669,
+    "wof:lastmodified":1449002103,
+    "wof:name":"Immucor Italia S.r.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "diagnostic"
+    ]
+},
+  "bbox": [9.211923,45.393761,9.211923,45.393761],
+  "geometry": {"coordinates":[9.211923,45.393761],"type":"Point"}
+}

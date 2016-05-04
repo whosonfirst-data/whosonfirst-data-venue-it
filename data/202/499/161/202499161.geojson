@@ -1,0 +1,67 @@
+{
+  "id": 202499161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.307583,43.553185,10.307583,43.553185",
+    "geom:latitude":43.553185,
+    "geom:longitude":10.307583,
+    "iso:country":"IT",
+    "sg:address":"4, V. Borra 57123 Livorno",
+    "sg:city":"Livorno",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0586 271811",
+    "sg:postcode":"57123",
+    "sg:province":"Livorno",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "sg:website":"http://www.paginegialle.it/sgmli",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900469,
+        85633253,
+        101752619,
+        85685413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yrutpbE1NEc2QPwmaiict_43.553185_10.307583@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6ba1a8f06b8dc89f211e449a1d97fd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752619,
+            "neighbourhood_id":85900469,
+            "region_id":85685413,
+            "venue_id":202499161
+        }
+    ],
+    "wof:id":202499161,
+    "wof:lastmodified":1449060592,
+    "wof:name":"Sgm Societ\u00c0 Generale Marittima Srl",
+    "wof:parent_id":85900469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [10.307583,43.553185,10.307583,43.553185],
+  "geometry": {"coordinates":[10.307583,43.553185],"type":"Point"}
+}

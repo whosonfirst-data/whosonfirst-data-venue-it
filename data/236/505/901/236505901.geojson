@@ -1,0 +1,65 @@
+{
+  "id": 236505901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.362638,38.105438,13.362638,38.105438",
+    "geom:latitude":38.105438,
+    "geom:longitude":13.362638,
+    "iso:country":"IT",
+    "sg:address":"90127 Palermo",
+    "sg:city":"Palermo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 091 655 1111",
+    "sg:postcode":"90127",
+    "sg:province":"Palermo",
+    "sg:tags":[
+        "hospital"
+    ],
+    "sg:website":"http://www.unipa.it/paologiaccone.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904859,
+        85633253,
+        101752517,
+        85685591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Dzc4qF5615CVTJd7UZhv_38.105438_13.362638@1306269818"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"cbd39a8954cf70d19647a371601ab487",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752517,
+            "neighbourhood_id":85904859,
+            "region_id":85685591,
+            "venue_id":236505901
+        }
+    ],
+    "wof:id":236505901,
+    "wof:lastmodified":1449004596,
+    "wof:name":"Azienda Universitaria Policlinico 'paolo Giaccone'",
+    "wof:parent_id":85904859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [13.362638,38.105438,13.362638,38.105438],
+  "geometry": {"coordinates":[13.362638,38.105438],"type":"Point"}
+}

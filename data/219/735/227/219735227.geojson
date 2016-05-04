@@ -1,0 +1,65 @@
+{
+  "id": 219735227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.194819,43.838707,11.194819,43.838707",
+    "geom:latitude":43.838707,
+    "geom:longitude":11.194819,
+    "iso:country":"IT",
+    "sg:address":"48, Via Tasso Torquato 50019 Sesto Fiorentino",
+    "sg:city":"Sesto Fiorentino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 421 5990",
+    "sg:postcode":"50019",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900345,
+        85633253,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55V5AZomxJbo6YYEXHLniN_43.838707_11.194819@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"119d8f8d1bce5b7a45cbdbac63ab4554",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900345,
+            "region_id":85685407,
+            "venue_id":219735227
+        }
+    ],
+    "wof:id":219735227,
+    "wof:lastmodified":1449073830,
+    "wof:name":"Biagiotti",
+    "wof:parent_id":85900345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.194819,43.838707,11.194819,43.838707],
+  "geometry": {"coordinates":[11.194819,43.838707],"type":"Point"}
+}

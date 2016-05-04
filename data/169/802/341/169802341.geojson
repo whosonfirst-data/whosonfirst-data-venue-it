@@ -1,0 +1,66 @@
+{
+  "id": 169802341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.194717,45.474976,9.194717,45.474976",
+    "geom:latitude":45.474976,
+    "geom:longitude":9.194717,
+    "iso:country":"IT",
+    "sg:address":"9, Via Turati Filippo 20121 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 6269 0293",
+    "sg:postcode":"20121",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KfBYRsQ3rq6o1dkXxwTc9_45.474976_9.194717@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1c42e86bae3b35252d6fa02b21122914",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":169802341
+        }
+    ],
+    "wof:id":169802341,
+    "wof:lastmodified":1449035344,
+    "wof:name":"Banca Banca Euromobilare Spa",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.194717,45.474976,9.194717,45.474976],
+  "geometry": {"coordinates":[9.194717,45.474976],"type":"Point"}
+}

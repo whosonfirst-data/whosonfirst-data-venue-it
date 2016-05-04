@@ -1,0 +1,66 @@
+{
+  "id": 219758653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.12726,45.411777,9.12726,45.411777",
+    "geom:latitude":45.411777,
+    "geom:longitude":9.12726,
+    "iso:country":"IT",
+    "sg:address":"1, Via Carducci 20090 Assago",
+    "sg:city":"Assago",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39024882404",
+    "sg:postcode":"20090",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862755,
+        85633253,
+        101757809,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EaKZXrqYlsuWIdTrScjOp_45.411777_9.127260@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b1b175fc8056f3cd114b5065d0e09c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757809,
+            "neighbourhood_id":85862755,
+            "region_id":85685243,
+            "venue_id":219758653
+        }
+    ],
+    "wof:id":219758653,
+    "wof:lastmodified":1449071466,
+    "wof:name":"Maione",
+    "wof:parent_id":85862755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.12726,45.411777,9.12726,45.411777],
+  "geometry": {"coordinates":[9.12726,45.411777],"type":"Point"}
+}

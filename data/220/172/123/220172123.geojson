@@ -1,0 +1,67 @@
+{
+  "id": 220172123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.326664,45.431374,12.326664,45.431374",
+    "geom:latitude":45.431374,
+    "geom:longitude":12.326664,
+    "iso:country":"IT",
+    "sg:address":"Sestiere Dorsoduro 1411 30123 Venezia",
+    "sg:city":"Dorsoduro",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Sailing Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 041 781611",
+    "sg:postcode":"30123",
+    "sg:province":"Venezia",
+    "sg:tags":[
+        "inland",
+        "navigation"
+    ],
+    "sg:website":"www.adriatica.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905019,
+        85633253,
+        101752689,
+        85685305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5twciCpztciGymybNKEdK0_45.431374_12.326664@1306269813"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c48b3860c1128ed77a6030f38e0819b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752689,
+            "neighbourhood_id":85905019,
+            "region_id":85685305,
+            "venue_id":220172123
+        }
+    ],
+    "wof:id":220172123,
+    "wof:lastmodified":1449074362,
+    "wof:name":"Adriatica Di Navigazione Spa",
+    "wof:parent_id":85905019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inland",
+        "navigation"
+    ]
+},
+  "bbox": [12.326664,45.431374,12.326664,45.431374],
+  "geometry": {"coordinates":[12.326664,45.431374],"type":"Point"}
+}

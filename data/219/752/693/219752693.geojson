@@ -1,0 +1,66 @@
+{
+  "id": 219752693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.184503,45.493195,9.184503,45.493195",
+    "geom:latitude":45.493195,
+    "geom:longitude":9.184503,
+    "iso:country":"IT",
+    "sg:address":"10, Via Lepontina 20159 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39026888794",
+    "sg:postcode":"20159",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Cfz367oKLhHxMpmB5lii_45.493195_9.184503@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c094efe6d8ffb74428c295a2d66ad45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":219752693
+        }
+    ],
+    "wof:id":219752693,
+    "wof:lastmodified":1449070977,
+    "wof:name":"Geronimo Trasporti (s.n.c.)",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.184503,45.493195,9.184503,45.493195],
+  "geometry": {"coordinates":[9.184503,45.493195],"type":"Point"}
+}

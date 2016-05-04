@@ -1,0 +1,65 @@
+{
+  "id": 219733563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.80866,45.599621,9.80866,45.599621",
+    "geom:latitude":45.599621,
+    "geom:longitude":9.80866,
+    "iso:country":"IT",
+    "sg:address":"93, Via Bergamo 24050 Mornico Al Serio",
+    "sg:city":"Mornico al Serio",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39035844120",
+    "sg:postcode":"24050",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101768857,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SVbwVQ6k3t6tvBZiTnVXb_45.599621_9.808660@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f8a21f73c4bd03680c4ac02616a1ab5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101768857,
+            "neighbourhood_id":-1,
+            "region_id":85685249,
+            "venue_id":219733563
+        }
+    ],
+    "wof:id":219733563,
+    "wof:lastmodified":1449070885,
+    "wof:name":"Autotrasporti Stucchi S.r.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.80866,45.599621,9.80866,45.599621],
+  "geometry": {"coordinates":[9.80866,45.599621],"type":"Point"}
+}

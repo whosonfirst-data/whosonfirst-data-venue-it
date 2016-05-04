@@ -1,0 +1,67 @@
+{
+  "id": 303226687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.082885,45.50676,9.082885,45.50676",
+    "geom:latitude":45.50676,
+    "geom:longitude":9.082885,
+    "iso:country":"IT",
+    "sg:address":"Via Fratelli Bandiera 12/b 20016 Pero",
+    "sg:city":"Pero",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tower",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 3810 0128",
+    "sg:postcode":"20016",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "door",
+        "elevator"
+    ],
+    "sg:website":"www.ceita.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862765,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZR9ZpqlxnMNONDm2YJKn4_45.506760_9.082885@1306269856"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1f6e467804e7f993cbce98db7f594b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862765,
+            "region_id":85685243,
+            "venue_id":303226687
+        }
+    ],
+    "wof:id":303226687,
+    "wof:lastmodified":1448999893,
+    "wof:name":"Ceita Srl",
+    "wof:parent_id":85862765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "elevator"
+    ]
+},
+  "bbox": [9.082885,45.50676,9.082885,45.50676],
+  "geometry": {"coordinates":[9.082885,45.50676],"type":"Point"}
+}

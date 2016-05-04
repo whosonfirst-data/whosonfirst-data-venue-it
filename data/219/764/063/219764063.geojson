@@ -1,0 +1,65 @@
+{
+  "id": 219764063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.43877,44.574169,11.43877,44.574169",
+    "geom:latitude":44.574169,
+    "geom:longitude":11.43877,
+    "iso:country":"IT",
+    "sg:address":"30/2, V. Marconi 40010 Bentivoglio",
+    "sg:city":"Bentivoglio",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 664 0034",
+    "sg:postcode":"40010",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/ottanisnc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iz7ofx7mqBHKbczrT7O6k_44.574169_11.438770@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"37d40e8766a21111943b2fdc58915cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685351,
+            "venue_id":219764063
+        }
+    ],
+    "wof:id":219764063,
+    "wof:lastmodified":1449073746,
+    "wof:name":"Ottani Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.43877,44.574169,11.43877,44.574169],
+  "geometry": {"coordinates":[11.43877,44.574169],"type":"Point"}
+}

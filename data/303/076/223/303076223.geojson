@@ -1,0 +1,65 @@
+{
+  "id": 303076223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.234657,43.799637,11.234657,43.799637",
+    "geom:latitude":43.799637,
+    "geom:longitude":11.234657,
+    "iso:country":"IT",
+    "sg:address":"68, V. Panciatichi 50127 Firenze",
+    "sg:city":"Firenze",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39055436210",
+    "sg:postcode":"50127",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "electricity"
+    ],
+    "sg:website":"http://www.mefsrl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904657,
+        85633253,
+        101752643,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zQXVC5neQSJqfvteSBXXD_43.799637_11.234657@1306269855"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"07a060bb7e6120e7cd657acbf6f41511",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752643,
+            "neighbourhood_id":85904657,
+            "region_id":85685407,
+            "venue_id":303076223
+        }
+    ],
+    "wof:id":303076223,
+    "wof:lastmodified":1449000038,
+    "wof:name":"Mef Srl",
+    "wof:parent_id":85904657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity"
+    ]
+},
+  "bbox": [11.234657,43.799637,11.234657,43.799637],
+  "geometry": {"coordinates":[11.234657,43.799637],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 219773377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.569232,41.927273,12.569232,41.927273",
+    "geom:latitude":41.927273,
+    "geom:longitude":12.569232,
+    "iso:country":"IT",
+    "sg:address":"119, V. Rebibbia 00156 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39064073522",
+    "sg:postcode":"00156",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.cstein.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904925,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G57W8KfKv7SjETp68jCyh_41.927273_12.569232@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"eb6aaf5b638f1f0c1e8356789dfda89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904925,
+            "region_id":85685461,
+            "venue_id":219773377
+        }
+    ],
+    "wof:id":219773377,
+    "wof:lastmodified":1449070842,
+    "wof:name":"Stein C Di A. Righetti",
+    "wof:parent_id":85904925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.569232,41.927273,12.569232,41.927273],
+  "geometry": {"coordinates":[12.569232,41.927273],"type":"Point"}
+}

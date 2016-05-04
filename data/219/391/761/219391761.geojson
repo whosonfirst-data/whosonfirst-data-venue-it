@@ -1,0 +1,78 @@
+{
+  "id": 219391761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.193143,45.461998,9.193143,45.461998",
+    "geom:latitude":45.461998,
+    "geom:longitude":9.193143,
+    "iso:country":"IT",
+    "sg:address":"Via Larga 9/11 20122 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 583711",
+    "sg:postcode":"20122",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "steel",
+        "cylinder",
+        "cylinders"
+    ],
+    "sg:website":"www.butangas.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243,
+        85796803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JJRYjM5qBOCl8IXicV00d_45.461998_9.193143@1306269807"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"81b08b2a46754b1316452d829e9a153e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":219391761
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":219391761
+        }
+    ],
+    "wof:id":219391761,
+    "wof:lastmodified":1449072642,
+    "wof:name":"Butangas Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "cylinder",
+        "cylinders"
+    ]
+},
+  "bbox": [9.193143,45.461998,9.193143,45.461998],
+  "geometry": {"coordinates":[9.193143,45.461998],"type":"Point"}
+}

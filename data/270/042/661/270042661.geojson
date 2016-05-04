@@ -1,0 +1,67 @@
+{
+  "id": 270042661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.172346,45.456711,9.172346,45.456711",
+    "geom:latitude":45.456711,
+    "geom:longitude":9.172346,
+    "iso:country":"IT",
+    "sg:address":"20123 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 8940 9118",
+    "sg:postcode":"20123",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "gas",
+        "caldaie"
+    ],
+    "sg:website":"http://www.albiero.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862721,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40sYXXkMpJk5nCe8KEvlW8_45.456711_9.172346@1306269838"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e619f9e9a08c49515b48478736b8a75c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862721,
+            "region_id":85685243,
+            "venue_id":270042661
+        }
+    ],
+    "wof:id":270042661,
+    "wof:lastmodified":1449010484,
+    "wof:name":"Albiero Srl",
+    "wof:parent_id":85862721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "caldaie"
+    ]
+},
+  "bbox": [9.172346,45.456711,9.172346,45.456711],
+  "geometry": {"coordinates":[9.172346,45.456711],"type":"Point"}
+}

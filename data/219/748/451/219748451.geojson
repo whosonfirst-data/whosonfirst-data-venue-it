@@ -1,0 +1,66 @@
+{
+  "id": 219748451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.581563,41.822304,12.581563,41.822304",
+    "geom:latitude":41.822304,
+    "geom:longitude":12.581563,
+    "iso:country":"IT",
+    "sg:address":"66, V. Lucio Mariani 00178 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 7267 3335",
+    "sg:postcode":"00178",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.dtmitaly.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v32AO8Ds75EUQwqUwD38U_41.822304_12.581563@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a85fa9efcaacc491b726c390519bf102",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":-1,
+            "region_id":85685461,
+            "venue_id":219748451
+        }
+    ],
+    "wof:id":219748451,
+    "wof:lastmodified":1449073047,
+    "wof:name":"Dtm Italy Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.581563,41.822304,12.581563,41.822304],
+  "geometry": {"coordinates":[12.581563,41.822304],"type":"Point"}
+}

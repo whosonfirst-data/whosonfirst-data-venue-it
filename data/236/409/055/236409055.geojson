@@ -1,0 +1,66 @@
+{
+  "id": 236409055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.235076,44.507668,11.235076,44.507668",
+    "geom:latitude":44.507668,
+    "geom:longitude":11.235076,
+    "iso:country":"IT",
+    "sg:address":"Via Rigosa 73 40069 Zola Predosa",
+    "sg:city":"Zola",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 617 5555",
+    "sg:postcode":"40069",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "bacon",
+        "ham"
+    ],
+    "sg:website":"www.alcisa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900307,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mtW3A6nFKkGaJT90L88Mw_44.507668_11.235076@1306269817"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"6e65fc3f4665a7b23b161e5ee6460e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900307,
+            "region_id":85685351,
+            "venue_id":236409055
+        }
+    ],
+    "wof:id":236409055,
+    "wof:lastmodified":1449002920,
+    "wof:name":"Alcisa Spa",
+    "wof:parent_id":85900307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bacon",
+        "ham"
+    ]
+},
+  "bbox": [11.235076,44.507668,11.235076,44.507668],
+  "geometry": {"coordinates":[11.235076,44.507668],"type":"Point"}
+}

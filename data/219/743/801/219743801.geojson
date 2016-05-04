@@ -1,0 +1,65 @@
+{
+  "id": 219743801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.162679,43.849262,11.162679,43.849262",
+    "geom:latitude":43.849262,
+    "geom:longitude":11.162679,
+    "iso:country":"IT",
+    "sg:address":"21, Via Del Pratignone 50041 Calenzano",
+    "sg:city":"Calenzano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 882 6341",
+    "sg:postcode":"50041",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900345,
+        85633253,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ba4sAKDGdjK06qCL9c1n3_43.849262_11.162679@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"38ba0377cad39aae76b1cbe5342eff8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85900345,
+            "region_id":85685407,
+            "venue_id":219743801
+        }
+    ],
+    "wof:id":219743801,
+    "wof:lastmodified":1449073893,
+    "wof:name":"Cooperativa Dalmazia Traslochi S.r.l.",
+    "wof:parent_id":85900345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.162679,43.849262,11.162679,43.849262],
+  "geometry": {"coordinates":[11.162679,43.849262],"type":"Point"}
+}

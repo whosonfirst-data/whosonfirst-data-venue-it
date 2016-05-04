@@ -1,0 +1,66 @@
+{
+  "id": 169820459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.204255,45.470562,9.204255,45.470562",
+    "geom:latitude":45.470562,
+    "geom:longitude":9.204255,
+    "iso:country":"IT",
+    "sg:address":"14, Via Cappuccini 20122 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 390 279 9790",
+    "sg:postcode":"20122",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796877,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w7hVeAFrKUpoPd38xnNgi_45.470562_9.204255@1306269789"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4c495e13521e80ed1b051bd0fbe3b5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796877,
+            "region_id":85685243,
+            "venue_id":169820459
+        }
+    ],
+    "wof:id":169820459,
+    "wof:lastmodified":1449034386,
+    "wof:name":"S.a.f.f.i. Fiduciaria Finanziaria Italiana (s.p.a.)",
+    "wof:parent_id":85796877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.204255,45.470562,9.204255,45.470562],
+  "geometry": {"coordinates":[9.204255,45.470562],"type":"Point"}
+}

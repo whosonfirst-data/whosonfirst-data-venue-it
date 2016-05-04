@@ -1,0 +1,66 @@
+{
+  "id": 219774491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.753515,45.141407,7.753515,45.141407",
+    "geom:latitude":45.141407,
+    "geom:longitude":7.753515,
+    "iso:country":"IT",
+    "sg:address":"7, Via Pasteur 10036 Settimo Torinese",
+    "sg:city":"Settimo Torinese",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 800 1360",
+    "sg:postcode":"10036",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862785,
+        85633253,
+        101757689,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bK4m9UZ1QI2vQ4I2vzXhz_45.141407_7.753515@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2bb5392de1dfb8ce4a5a7cddb153cb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757689,
+            "neighbourhood_id":85862785,
+            "region_id":85685169,
+            "venue_id":219774491
+        }
+    ],
+    "wof:id":219774491,
+    "wof:lastmodified":1449071756,
+    "wof:name":"Tecno Traslochi",
+    "wof:parent_id":85862785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.753515,45.141407,7.753515,45.141407],
+  "geometry": {"coordinates":[7.753515,45.141407],"type":"Point"}
+}

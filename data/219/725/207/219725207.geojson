@@ -1,0 +1,66 @@
+{
+  "id": 219725207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.147508,45.466228,9.147508,45.466228",
+    "geom:latitude":45.466228,
+    "geom:longitude":9.147508,
+    "iso:country":"IT",
+    "sg:address":"3, Via Trivulzio Antonio Tolomeo 20146 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39024385061",
+    "sg:postcode":"20146",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f3xnS7wYcdd1j1YAZ3Nxe_45.466228_9.147508@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"db70ff13d453dc490ff82356c00727ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":219725207
+        }
+    ],
+    "wof:id":219725207,
+    "wof:lastmodified":1449071255,
+    "wof:name":"Actom Srl",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.147508,45.466228,9.147508,45.466228],
+  "geometry": {"coordinates":[9.147508,45.466228],"type":"Point"}
+}

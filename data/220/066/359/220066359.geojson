@@ -1,0 +1,66 @@
+{
+  "id": 220066359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.086473,45.527843,9.086473,45.527843",
+    "geom:latitude":45.527843,
+    "geom:longitude":9.086473,
+    "iso:country":"IT",
+    "sg:address":"Via Di Vittorio 7/34 20017 Rho",
+    "sg:city":"Rho",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9390 0490",
+    "sg:postcode":"20017",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "blade",
+        "industrial"
+    ],
+    "sg:website":"www.milanolame.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862699,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78z2MuxjWJcUY9ahiDqLhG_45.527843_9.086473@1306269812"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"368d90fa54e0443ac40ac7fafc672dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862699,
+            "region_id":85685243,
+            "venue_id":220066359
+        }
+    ],
+    "wof:id":220066359,
+    "wof:lastmodified":1449074248,
+    "wof:name":"Milano Lame Srl",
+    "wof:parent_id":85862699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blade",
+        "industrial"
+    ]
+},
+  "bbox": [9.086473,45.527843,9.086473,45.527843],
+  "geometry": {"coordinates":[9.086473,45.527843],"type":"Point"}
+}

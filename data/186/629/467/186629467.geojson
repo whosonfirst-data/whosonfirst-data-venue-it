@@ -1,0 +1,73 @@
+{
+  "id": 186629467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.669327,45.07,7.669327,45.07",
+    "geom:latitude":45.07,
+    "geom:longitude":7.669327,
+    "iso:country":"IT",
+    "sg:address":"Via Vittorio Amedeo Ii 18 10121 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 565 4111",
+    "sg:postcode":"10121",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "text",
+        "school",
+        "books",
+        "material",
+        "learning"
+    ],
+    "sg:website":"www.loescher.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862793,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01rubx45090p6KgJepPNbW_45.070000_7.669327@1306269797"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8550c45bb13c03dc93f1d65dcaf40e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85862793,
+            "region_id":85685169,
+            "venue_id":186629467
+        }
+    ],
+    "wof:id":186629467,
+    "wof:lastmodified":1449052380,
+    "wof:name":"Loescher Editori Srl",
+    "wof:parent_id":85862793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "text",
+        "school",
+        "books",
+        "material",
+        "learning"
+    ]
+},
+  "bbox": [7.669327,45.07,7.669327,45.07],
+  "geometry": {"coordinates":[7.669327,45.07],"type":"Point"}
+}

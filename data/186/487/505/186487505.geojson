@@ -1,0 +1,66 @@
+{
+  "id": 186487505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.649995,44.719265,10.649995,44.719265",
+    "geom:latitude":44.719265,
+    "geom:longitude":10.649995,
+    "iso:country":"IT",
+    "sg:address":"Via Umbria 32 42100 Reggio Emilia",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0522 512142",
+    "sg:postcode":"42100",
+    "sg:province":"Reggio Nell'Emilia",
+    "sg:tags":[
+        "broadcast",
+        "antenna"
+    ],
+    "sg:website":"www.atm-antennas.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904899,
+        85633253,
+        101752671,
+        85685343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mh3LBsplQHBldI4iLPFwC_44.719265_10.649995@1306269796"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"8a17be7b0d4c77626af16d170fbbe658",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752671,
+            "neighbourhood_id":85904899,
+            "region_id":85685343,
+            "venue_id":186487505
+        }
+    ],
+    "wof:id":186487505,
+    "wof:lastmodified":1449051273,
+    "wof:name":"A.t.m. Srl",
+    "wof:parent_id":85904899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "antenna"
+    ]
+},
+  "bbox": [10.649995,44.719265,10.649995,44.719265],
+  "geometry": {"coordinates":[10.649995,44.719265],"type":"Point"}
+}

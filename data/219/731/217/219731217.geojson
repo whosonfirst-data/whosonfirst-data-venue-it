@@ -1,0 +1,66 @@
+{
+  "id": 219731217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.204954,45.457928,9.204954,45.457928",
+    "geom:latitude":45.457928,
+    "geom:longitude":9.204954,
+    "iso:country":"IT",
+    "sg:address":"4, Viale Regina Margherita 20122 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39025460878",
+    "sg:postcode":"20122",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797023,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UuSiytSIwYrNWNMyGRl8x_45.457928_9.204954@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b71ba61239d72d01f527cf121be1230c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85797023,
+            "region_id":85685243,
+            "venue_id":219731217
+        }
+    ],
+    "wof:id":219731217,
+    "wof:lastmodified":1449073527,
+    "wof:name":"Autotrasporti F.z. Di Feccia Vittorio E Zanelli Giuseppe S.r.l.",
+    "wof:parent_id":85797023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.204954,45.457928,9.204954,45.457928],
+  "geometry": {"coordinates":[9.204954,45.457928],"type":"Point"}
+}

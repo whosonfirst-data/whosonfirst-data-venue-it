@@ -1,0 +1,64 @@
+{
+  "id": 320861341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.797698,45.160366,10.797698,45.160366",
+    "geom:latitude":45.160366,
+    "geom:longitude":10.797698,
+    "iso:country":"IT",
+    "sg:address":"Via Matteotti 23 46014 Castellucchio",
+    "sg:city":"Castellucchio",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0376 434011",
+    "sg:postcode":"46014",
+    "sg:province":"Mantova",
+    "sg:tags":[
+        "sausage"
+    ],
+    "sg:website":"www.levoni.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101835989,
+        85685269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tE3KXoEbeNUJccjHXkX6G_45.160366_10.797698@1306269873"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"9a60a0a530338b064d8cff0159f90bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101835989,
+            "neighbourhood_id":-1,
+            "region_id":85685269,
+            "venue_id":320861341
+        }
+    ],
+    "wof:id":320861341,
+    "wof:lastmodified":1449014939,
+    "wof:name":"Levoni Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sausage"
+    ]
+},
+  "bbox": [10.797698,45.160366,10.797698,45.160366],
+  "geometry": {"coordinates":[10.797698,45.160366],"type":"Point"}
+}

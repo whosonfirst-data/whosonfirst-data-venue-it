@@ -1,0 +1,66 @@
+{
+  "id": 219745513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.964102,45.427086,10.964102,45.427086",
+    "geom:latitude":45.427086,
+    "geom:longitude":10.964102,
+    "iso:country":"IT",
+    "sg:address":"10/e, Traversa I Spiana' 37138 Verona",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39045572314",
+    "sg:postcode":"37138",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905035,
+        85633253,
+        101752711,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IailFS0EHqRsRUq5nmvgb_45.427086_10.964102@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"babc6ca39f07963c27f3fd1d445b9246",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752711,
+            "neighbourhood_id":85905035,
+            "region_id":85685281,
+            "venue_id":219745513
+        }
+    ],
+    "wof:id":219745513,
+    "wof:lastmodified":1449073755,
+    "wof:name":"Cristofoli",
+    "wof:parent_id":85905035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [10.964102,45.427086,10.964102,45.427086],
+  "geometry": {"coordinates":[10.964102,45.427086],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 303317835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.168199,45.447922,9.168199,45.447922",
+    "geom:latitude":45.447922,
+    "geom:longitude":9.168199,
+    "iso:country":"IT",
+    "sg:address":"Via Argelati Filippo 35 20143 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 5810 4936",
+    "sg:postcode":"20143",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "consumer",
+        "good",
+        "export"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862721,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vIntxBnHK5yiy9JowKugL_45.447922_9.168199@1306269858"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4fee989031b754a2ed0ab1ee6a70bb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85862721,
+            "region_id":85685243,
+            "venue_id":303317835
+        }
+    ],
+    "wof:id":303317835,
+    "wof:lastmodified":1448999236,
+    "wof:name":"Samie Srl",
+    "wof:parent_id":85862721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consumer",
+        "good",
+        "export"
+    ]
+},
+  "bbox": [9.168199,45.447922,9.168199,45.447922],
+  "geometry": {"coordinates":[9.168199,45.447922],"type":"Point"}
+}

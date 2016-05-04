@@ -1,0 +1,65 @@
+{
+  "id": 186478655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.097543,45.420986,11.097543,45.420986",
+    "geom:latitude":45.420986,
+    "geom:longitude":11.097543,
+    "iso:country":"IT",
+    "sg:address":"Via G. Galilei 25 37050 Vago",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 045 982008",
+    "sg:postcode":"37050",
+    "sg:province":"Verona",
+    "sg:tags":[
+        "oven",
+        "bread"
+    ],
+    "sg:website":"www.trezzaforni.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905053,
+        85633253,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AhnkOq9O4m1OwegSmnOGh_45.420986_11.097543@1306269796"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"176c893f0ab03344acbfcabbe4863c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85905053,
+            "region_id":85685281,
+            "venue_id":186478655
+        }
+    ],
+    "wof:id":186478655,
+    "wof:lastmodified":1449050354,
+    "wof:name":"Trezzaforni Srl",
+    "wof:parent_id":85905053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oven",
+        "bread"
+    ]
+},
+  "bbox": [11.097543,45.420986,11.097543,45.420986],
+  "geometry": {"coordinates":[11.097543,45.420986],"type":"Point"}
+}

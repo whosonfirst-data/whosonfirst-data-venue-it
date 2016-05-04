@@ -1,0 +1,66 @@
+{
+  "id": 303349655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.611766,45.091606,7.611766,45.091606",
+    "geom:latitude":45.091606,
+    "geom:longitude":7.611766,
+    "iso:country":"IT",
+    "sg:address":"Via Rosa Luxembourg 12/14 10093 Collegno",
+    "sg:city":"Collegno",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 715577",
+    "sg:postcode":"10093",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "sensor",
+        "angle"
+    ],
+    "sg:website":"www.elcis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796999,
+        85633253,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KRhDM8hWAZfgUqJhDxSKo_45.091606_7.611766@1306269858"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ff50591a8236e8097983f986905c77c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85796999,
+            "region_id":85685169,
+            "venue_id":303349655
+        }
+    ],
+    "wof:id":303349655,
+    "wof:lastmodified":1448999041,
+    "wof:name":"Elcis Srl",
+    "wof:parent_id":85796999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sensor",
+        "angle"
+    ]
+},
+  "bbox": [7.611766,45.091606,7.611766,45.091606],
+  "geometry": {"coordinates":[7.611766,45.091606],"type":"Point"}
+}

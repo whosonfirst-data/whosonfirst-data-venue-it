@@ -1,0 +1,65 @@
+{
+  "id": 219738887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.31512,45.951824,12.31512,45.951824",
+    "geom:latitude":45.951824,
+    "geom:longitude":12.31512,
+    "iso:country":"IT",
+    "sg:address":"34, Via Schiaparelli Giovanni 31029 Vittorio Veneto",
+    "sg:city":"Vittorio Veneto",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0438 912070",
+    "sg:postcode":"31029",
+    "sg:province":"Treviso",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101793085,
+        85685297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w84GQA0JGRKmYmSkMb5Gz_45.951824_12.315120@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e4ede4f1c4568eefdee00f6f50931738",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101793085,
+            "neighbourhood_id":-1,
+            "region_id":85685297,
+            "venue_id":219738887
+        }
+    ],
+    "wof:id":219738887,
+    "wof:lastmodified":1449072989,
+    "wof:name":"C.t.v. Logisped Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.31512,45.951824,12.31512,45.951824],
+  "geometry": {"coordinates":[12.31512,45.951824],"type":"Point"}
+}

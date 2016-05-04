@@ -1,0 +1,66 @@
+{
+  "id": 219753031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.285195,40.843498,14.285195,40.843498",
+    "geom:latitude":40.843498,
+    "geom:longitude":14.285195,
+    "iso:country":"IT",
+    "sg:address":"15, Via Reggia Di Portici 80142 Napoli",
+    "sg:city":"Napoli",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 752 7799",
+    "sg:postcode":"80142",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752555,
+        85904823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WHgEhqCjIRihhlqV2zB8D_40.843498_14.285195@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b9326e16997d734da10d8ece6ecec1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "county_id":-1,
+            "locality_id":101752555,
+            "neighbourhood_id":85904823,
+            "region_id":-1,
+            "venue_id":219753031
+        }
+    ],
+    "wof:id":219753031,
+    "wof:lastmodified":1449070805,
+    "wof:name":"Girace Fratelli S.r.l.",
+    "wof:parent_id":85904823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [14.285195,40.843498,14.285195,40.843498],
+  "geometry": {"coordinates":[14.285195,40.843498],"type":"Point"}
+}

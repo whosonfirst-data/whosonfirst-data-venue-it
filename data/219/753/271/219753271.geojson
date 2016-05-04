@@ -1,0 +1,65 @@
+{
+  "id": 219753271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.244761,44.527943,11.244761,44.527943",
+    "geom:latitude":44.527943,
+    "geom:longitude":11.244761,
+    "iso:country":"IT",
+    "sg:address":"229, Via Marco Emilio Lepido 40132 Bologna",
+    "sg:city":"Bologna",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39051401140",
+    "sg:postcode":"40132",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904561,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GplimGk3lTcfTtQtOlaKE_44.527943_11.244761@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f1de7572666ea675c6aa749ff8308f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904561,
+            "region_id":85685351,
+            "venue_id":219753271
+        }
+    ],
+    "wof:id":219753271,
+    "wof:lastmodified":1449070807,
+    "wof:name":"Gnudi",
+    "wof:parent_id":85904561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.244761,44.527943,11.244761,44.527943],
+  "geometry": {"coordinates":[11.244761,44.527943],"type":"Point"}
+}

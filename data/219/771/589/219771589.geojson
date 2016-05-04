@@ -1,0 +1,66 @@
+{
+  "id": 219771589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.048368,45.527164,9.048368,45.527164",
+    "geom:latitude":45.527164,
+    "geom:longitude":9.048368,
+    "iso:country":"IT",
+    "sg:address":"30, Via Donizetti Gaetano 20020 Lainate",
+    "sg:city":"Lainate",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 390 293 3391",
+    "sg:postcode":"20020",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862769,
+        85633253,
+        101757101,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37S1EBDWxEzzwpiJAxQOVK_45.527164_9.048368@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"dec3cd9c64a5d9b4c1d9b3b905aa3beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757101,
+            "neighbourhood_id":85862769,
+            "region_id":85685243,
+            "venue_id":219771589
+        }
+    ],
+    "wof:id":219771589,
+    "wof:lastmodified":1449072294,
+    "wof:name":"Sifte Berti S.p.a.",
+    "wof:parent_id":85862769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.048368,45.527164,9.048368,45.527164],
+  "geometry": {"coordinates":[9.048368,45.527164],"type":"Point"}
+}

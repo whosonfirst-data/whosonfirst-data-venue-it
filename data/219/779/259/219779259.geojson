@@ -1,0 +1,66 @@
+{
+  "id": 219779259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.268578,40.847309,14.268578,40.847309",
+    "geom:latitude":40.847309,
+    "geom:longitude":14.268578,
+    "iso:country":"IT",
+    "sg:address":"5, P. Guglielmo Pepe 80142 Napoli",
+    "sg:city":"Napoli",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 554 6666",
+    "sg:postcode":"80142",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/trombettanapoli",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904825,
+        101752555,
+        85685487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d0gEt56b7SsR9xnmzAkN4_40.847309_14.268578@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"66b5b21ad4c885ac8e9291e2cc9438b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":101752555,
+            "neighbourhood_id":85904825,
+            "region_id":85685487,
+            "venue_id":219779259
+        }
+    ],
+    "wof:id":219779259,
+    "wof:lastmodified":1449070929,
+    "wof:name":"Trombetta Gaetano",
+    "wof:parent_id":85904825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [14.268578,40.847309,14.268578,40.847309],
+  "geometry": {"coordinates":[14.268578,40.847309],"type":"Point"}
+}

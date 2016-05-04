@@ -1,0 +1,65 @@
+{
+  "id": 219780413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.700321,45.630226,11.700321,45.630226",
+    "geom:latitude":45.630226,
+    "geom:longitude":11.700321,
+    "iso:country":"IT",
+    "sg:address":"10, Via Alessandro Manzoni 35010 Carmignano Di Brenta",
+    "sg:city":"Carmignano di Brenta",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 049 595 7123",
+    "sg:postcode":"35010",
+    "sg:province":"Padova",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101794523,
+        85685309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zFrNrszbVacZoGkvNZV3n_45.630226_11.700321@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"f671e35c2b1a3b42aa6ca7e7ef8366f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101794523,
+            "neighbourhood_id":-1,
+            "region_id":85685309,
+            "venue_id":219780413
+        }
+    ],
+    "wof:id":219780413,
+    "wof:lastmodified":1449073040,
+    "wof:name":"Vaccari Giovanni S.p.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.700321,45.630226,11.700321,45.630226],
+  "geometry": {"coordinates":[11.700321,45.630226],"type":"Point"}
+}

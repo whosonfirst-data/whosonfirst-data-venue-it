@@ -1,0 +1,67 @@
+{
+  "id": 219752823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.518929,41.87632,12.518929,41.87632",
+    "geom:latitude":41.87632,
+    "geom:longitude":12.518929,
+    "iso:country":"IT",
+    "sg:address":"24, Circ. Appia 00179 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39067840745",
+    "sg:postcode":"00179",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/giacominiveniero",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904933,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lIAacjgC4xaVy57AAQf19_41.876320_12.518929@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5406932f6803faf36c3cc0f1da774780",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904933,
+            "region_id":85685461,
+            "venue_id":219752823
+        }
+    ],
+    "wof:id":219752823,
+    "wof:lastmodified":1449070983,
+    "wof:name":"Giacomini Traslochi",
+    "wof:parent_id":85904933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.518929,41.87632,12.518929,41.87632],
+  "geometry": {"coordinates":[12.518929,41.87632],"type":"Point"}
+}

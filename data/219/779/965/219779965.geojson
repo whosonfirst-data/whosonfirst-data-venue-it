@@ -1,0 +1,66 @@
+{
+  "id": 219779965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.491231,41.847542,12.491231,41.847542",
+    "geom:latitude":41.847542,
+    "geom:longitude":12.491231,
+    "iso:country":"IT",
+    "sg:address":"111, Via Tiberina 00188 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39063320999",
+    "sg:postcode":"00188",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900507,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mXVV1Mk8eJ8cYk5RP6OKt_41.847542_12.491231@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"744f39d4428cba8a835e8355213c4d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900507,
+            "region_id":85685461,
+            "venue_id":219779965
+        }
+    ],
+    "wof:id":219779965,
+    "wof:lastmodified":1449070932,
+    "wof:name":"Vannini",
+    "wof:parent_id":85900507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.491231,41.847542,12.491231,41.847542],
+  "geometry": {"coordinates":[12.491231,41.847542],"type":"Point"}
+}

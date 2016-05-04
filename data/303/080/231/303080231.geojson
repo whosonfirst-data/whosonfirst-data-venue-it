@@ -1,0 +1,66 @@
+{
+  "id": 303080231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.206938,45.444584,9.206938,45.444584",
+    "geom:latitude":45.444584,
+    "geom:longitude":9.206938,
+    "iso:country":"IT",
+    "sg:address":"Via Brembo 27 20139 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 535831",
+    "sg:postcode":"20139",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "component",
+        "electronic"
+    ],
+    "sg:website":"www.bfioptilas.avnet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862751,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52yxbMJso0NLeyH6r2WSVK_45.444584_9.206938@1306269855"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"44bc18093c743e4fec88da3b8cf10cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862751,
+            "region_id":85685243,
+            "venue_id":303080231
+        }
+    ],
+    "wof:id":303080231,
+    "wof:lastmodified":1449000499,
+    "wof:name":"Bfi Optilas Spa",
+    "wof:parent_id":85862751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "electronic"
+    ]
+},
+  "bbox": [9.206938,45.444584,9.206938,45.444584],
+  "geometry": {"coordinates":[9.206938,45.444584],"type":"Point"}
+}

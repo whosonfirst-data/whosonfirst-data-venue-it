@@ -1,0 +1,66 @@
+{
+  "id": 219523569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.697084,45.051426,9.697084,45.051426",
+    "geom:latitude":45.051426,
+    "geom:longitude":9.697084,
+    "iso:country":"IT",
+    "sg:address":"Via Romagnosi 60 29100 Piacenza",
+    "sg:city":"Piacenza",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0523 886200",
+    "sg:postcode":"29100",
+    "sg:province":"Piacenza",
+    "sg:tags":[
+        "installation",
+        "rail"
+    ],
+    "sg:website":"www.silfsrl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752679,
+        85685331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jvUN3zm0N19vcFocbYPZo_45.051426_9.697084@1306269808"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"40685afb246ea70677e452b3c9ac8f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752679,
+            "neighbourhood_id":-1,
+            "region_id":85685331,
+            "venue_id":219523569
+        }
+    ],
+    "wof:id":219523569,
+    "wof:lastmodified":1449072413,
+    "wof:name":"Silf Soc. Italiana Lavori Ferroviari Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "rail"
+    ]
+},
+  "bbox": [9.697084,45.051426,9.697084,45.051426],
+  "geometry": {"coordinates":[9.697084,45.051426],"type":"Point"}
+}

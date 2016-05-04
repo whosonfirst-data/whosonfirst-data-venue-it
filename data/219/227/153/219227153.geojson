@@ -1,0 +1,72 @@
+{
+  "id": 219227153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.635121,45.732483,9.635121,45.732483",
+    "geom:latitude":45.732483,
+    "geom:longitude":9.635121,
+    "iso:country":"IT",
+    "sg:address":"Via Guglielmo Marconi 1 24010 Sorisole",
+    "sg:city":"Sorisole",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 035 579111",
+    "sg:postcode":"24010",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "device",
+        "sewer",
+        "inspection",
+        "system",
+        "blocking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900501,
+        85633253,
+        101752723,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H5xf0uu7LHtOGx4B8iO6o_45.732483_9.635121@1306269806"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"de21fd1514853143698047b9e7b6da0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752723,
+            "neighbourhood_id":85900501,
+            "region_id":85685249,
+            "venue_id":219227153
+        }
+    ],
+    "wof:id":219227153,
+    "wof:lastmodified":1449071178,
+    "wof:name":"Societa' Del Gres Ing. Sala Spa",
+    "wof:parent_id":85900501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "device",
+        "sewer",
+        "inspection",
+        "system",
+        "blocking"
+    ]
+},
+  "bbox": [9.635121,45.732483,9.635121,45.732483],
+  "geometry": {"coordinates":[9.635121,45.732483],"type":"Point"}
+}

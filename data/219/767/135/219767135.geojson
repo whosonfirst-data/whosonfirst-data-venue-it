@@ -1,0 +1,66 @@
+{
+  "id": 219767135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.248111,45.525288,9.248111,45.525288",
+    "geom:latitude":45.525288,
+    "geom:longitude":9.248111,
+    "iso:country":"IT",
+    "sg:address":"64, Via Di Dio Fratelli 20099 Sesto San Giovanni",
+    "sg:city":"Sesto San Giovanni",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 2622 4257",
+    "sg:postcode":"20099",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796863,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YJHId3nxv3zxsVwLbbnGo_45.525288_9.248111@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"b001058f4cae8ba8c9d537800852a855",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796863,
+            "region_id":85685243,
+            "venue_id":219767135
+        }
+    ],
+    "wof:id":219767135,
+    "wof:lastmodified":1449071416,
+    "wof:name":"Ragh",
+    "wof:parent_id":85796863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.248111,45.525288,9.248111,45.525288],
+  "geometry": {"coordinates":[9.248111,45.525288],"type":"Point"}
+}

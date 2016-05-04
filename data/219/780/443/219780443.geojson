@@ -1,0 +1,66 @@
+{
+  "id": 219780443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.096515,39.245903,9.096515,39.245903",
+    "geom:latitude":39.245903,
+    "geom:longitude":9.096515,
+    "iso:country":"IT",
+    "sg:address":"132, Viale Monastir 09122 Cagliari",
+    "sg:city":"Cagliari",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39070292161",
+    "sg:postcode":"09122",
+    "sg:province":"Cagliari",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862623,
+        85633253,
+        101752975,
+        85685645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ltN73dEi2eeaa8ZrRaCsH_39.245903_9.096515@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2bbf7382ee31b405b9c89f6bfe921026",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752975,
+            "neighbourhood_id":85862623,
+            "region_id":85685645,
+            "venue_id":219780443
+        }
+    ],
+    "wof:id":219780443,
+    "wof:lastmodified":1449073042,
+    "wof:name":"Vinci & Campagna (s.p.a.)",
+    "wof:parent_id":85862623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [9.096515,39.245903,9.096515,39.245903],
+  "geometry": {"coordinates":[9.096515,39.245903],"type":"Point"}
+}

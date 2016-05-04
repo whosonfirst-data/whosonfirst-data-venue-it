@@ -1,0 +1,67 @@
+{
+  "id": 219770713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.348839,40.806896,14.348839,40.806896",
+    "geom:latitude":40.806896,
+    "geom:longitude":14.348839,
+    "iso:country":"IT",
+    "sg:address":"198, C. Resina 80056 Ercolano",
+    "sg:city":"Ercolano",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 081 739 5161",
+    "sg:postcode":"80056",
+    "sg:province":"Napoli",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.paginegialle.it/sarmino",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900463,
+        85633253,
+        101752549,
+        85685487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47EZLcvGUeujFbpuT8V0SO_40.806896_14.348839@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c11f8a8798a33672c8213260d1191f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752549,
+            "neighbourhood_id":85900463,
+            "region_id":85685487,
+            "venue_id":219770713
+        }
+    ],
+    "wof:id":219770713,
+    "wof:lastmodified":1449073997,
+    "wof:name":"Sarmino Sas",
+    "wof:parent_id":85900463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [14.348839,40.806896,14.348839,40.806896],
+  "geometry": {"coordinates":[14.348839,40.806896],"type":"Point"}
+}

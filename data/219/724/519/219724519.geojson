@@ -1,0 +1,66 @@
+{
+  "id": 219724519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.035478,43.888798,8.035478,43.888798",
+    "geom:latitude":43.888798,
+    "geom:longitude":8.035478,
+    "iso:country":"IT",
+    "sg:address":"24, Via Delbecchi 18100 Imperia",
+    "sg:city":"Imperia",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0183 297514",
+    "sg:postcode":"18100",
+    "sg:province":"Imperia",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796911,
+        85633253,
+        101775075,
+        85685209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SVihr4vbKPl3Qs1AznzZa_43.888798_8.035478@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"89b473dcc0e9c88a575e210c75702cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101775075,
+            "neighbourhood_id":85796911,
+            "region_id":85685209,
+            "venue_id":219724519
+        }
+    ],
+    "wof:id":219724519,
+    "wof:lastmodified":1449073842,
+    "wof:name":"A.c. Transport Srl",
+    "wof:parent_id":85796911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.035478,43.888798,8.035478,43.888798],
+  "geometry": {"coordinates":[8.035478,43.888798],"type":"Point"}
+}

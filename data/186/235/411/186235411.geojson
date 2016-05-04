@@ -1,0 +1,70 @@
+{
+  "id": 186235411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.176604,45.458794,9.176604,45.458794",
+    "geom:latitude":45.458794,
+    "geom:longitude":9.176604,
+    "iso:country":"IT",
+    "sg:address":"Via San Vincenzo 8 20123 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 8940 2585",
+    "sg:postcode":"20123",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "chemical-pharmaceutical",
+        "industry",
+        "material",
+        "basic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796907,
+        85633253,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jtvLoNjfXtTGrvgGDx76k_45.458794_9.176604@1306269794"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"ad866b96b2015e51a51a72fc5ed25011",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752703,
+            "neighbourhood_id":85796907,
+            "region_id":85685243,
+            "venue_id":186235411
+        }
+    ],
+    "wof:id":186235411,
+    "wof:lastmodified":1449050874,
+    "wof:name":"Medilife Srl",
+    "wof:parent_id":85796907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical-pharmaceutical",
+        "industry",
+        "material",
+        "basic"
+    ]
+},
+  "bbox": [9.176604,45.458794,9.176604,45.458794],
+  "geometry": {"coordinates":[9.176604,45.458794],"type":"Point"}
+}

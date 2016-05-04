@@ -1,0 +1,67 @@
+{
+  "id": 219512577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.118007,45.405357,9.118007,45.405357",
+    "geom:latitude":45.405357,
+    "geom:longitude":9.118007,
+    "iso:country":"IT",
+    "sg:address":"Via Donizzetti 12/14 20090 Assago",
+    "sg:city":"Assago",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 457901",
+    "sg:postcode":"20090",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "surgical",
+        "knife"
+    ],
+    "sg:website":"www.amplimedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862755,
+        85633253,
+        101757809,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uiC49IXrG2vXctmkog0CC_45.405357_9.118007@1306269808"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"c90bf3f79d45b44680602cc2c2482095",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757809,
+            "neighbourhood_id":85862755,
+            "region_id":85685243,
+            "venue_id":219512577
+        }
+    ],
+    "wof:id":219512577,
+    "wof:lastmodified":1449072971,
+    "wof:name":"Amplimedical Spa",
+    "wof:parent_id":85862755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "knife"
+    ]
+},
+  "bbox": [9.118007,45.405357,9.118007,45.405357],
+  "geometry": {"coordinates":[9.118007,45.405357],"type":"Point"}
+}

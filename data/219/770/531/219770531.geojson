@@ -1,0 +1,66 @@
+{
+  "id": 219770531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.639102,45.005531,7.639102,45.005531",
+    "geom:latitude":45.005531,
+    "geom:longitude":7.639102,
+    "iso:country":"IT",
+    "sg:address":"83, Via Belfiore 10042 Nichelino",
+    "sg:city":"Nichelino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 627 0463",
+    "sg:postcode":"10042",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796889,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LNXTKZOhgDvEPmxFt2pz2_45.005531_7.639102@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"af9f772dc425b9c1adfc416578b09fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85796889,
+            "region_id":85685169,
+            "venue_id":219770531
+        }
+    ],
+    "wof:id":219770531,
+    "wof:lastmodified":1449073995,
+    "wof:name":"Sala Traslochi Di Sala Ferdinando & C.",
+    "wof:parent_id":85796889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.639102,45.005531,7.639102,45.005531],
+  "geometry": {"coordinates":[7.639102,45.005531],"type":"Point"}
+}

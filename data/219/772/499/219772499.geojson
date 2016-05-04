@@ -1,0 +1,66 @@
+{
+  "id": 219772499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.84483,45.824253,8.84483,45.824253",
+    "geom:latitude":45.824253,
+    "geom:longitude":8.84483,
+    "iso:country":"IT",
+    "sg:address":"56, V. Dalmazia 21100 Varese",
+    "sg:city":"Varese",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0332 331446",
+    "sg:postcode":"21100",
+    "sg:province":"Varese",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.siriospedizioni.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101752729,
+        85685231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c1j1lZSwcqXYvf9l0iusv_45.824253_8.844830@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"4493deffd6b76d5fe0184d19c9cf2d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752729,
+            "neighbourhood_id":-1,
+            "region_id":85685231,
+            "venue_id":219772499
+        }
+    ],
+    "wof:id":219772499,
+    "wof:lastmodified":1449071980,
+    "wof:name":"Sirio Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.84483,45.824253,8.84483,45.824253],
+  "geometry": {"coordinates":[8.84483,45.824253],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 219768037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.170626,43.808144,11.170626,43.808144",
+    "geom:latitude":43.808144,
+    "geom:longitude":11.170626,
+    "iso:country":"IT",
+    "sg:address":"999, Via Torta 50019 Sesto Fiorentino",
+    "sg:city":"Sesto Fiorentino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39055315641",
+    "sg:postcode":"50019",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904647,
+        85633253,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZTW7xc64mFrg0er8eIn16_43.808144_11.170626@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"9fb170d267a0c8d74df9c7367a6386ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904647,
+            "region_id":85685407,
+            "venue_id":219768037
+        }
+    ],
+    "wof:id":219768037,
+    "wof:lastmodified":1449071747,
+    "wof:name":"Ricceri Spedizioni S.r.l.",
+    "wof:parent_id":85904647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.170626,43.808144,11.170626,43.808144],
+  "geometry": {"coordinates":[11.170626,43.808144],"type":"Point"}
+}

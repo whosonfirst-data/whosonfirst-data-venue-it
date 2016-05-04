@@ -1,0 +1,66 @@
+{
+  "id": 236412461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.963898,44.607426,10.963898,44.607426",
+    "geom:latitude":44.607426,
+    "geom:longitude":10.963898,
+    "iso:country":"IT",
+    "sg:address":"Str. Vignolese 1170 41010 San Damaso",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 059 469112",
+    "sg:postcode":"41010",
+    "sg:province":"Modena",
+    "sg:tags":[
+        "pallet",
+        "truck",
+        "hand"
+    ],
+    "sg:website":"www.officinamasetti.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85685347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BXVaoRAfZNQUJv4nYYfrO_44.607426_10.963898@1306269817"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"303653f5dd2e5e03b7e9c7b127f3d831",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685347,
+            "venue_id":236412461
+        }
+    ],
+    "wof:id":236412461,
+    "wof:lastmodified":1449002181,
+    "wof:name":"Masetti Officina Snc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "truck",
+        "hand"
+    ]
+},
+  "bbox": [10.963898,44.607426,10.963898,44.607426],
+  "geometry": {"coordinates":[10.963898,44.607426],"type":"Point"}
+}

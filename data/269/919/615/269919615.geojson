@@ -1,0 +1,65 @@
+{
+  "id": 269919615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.283589,45.440125,9.283589,45.440125",
+    "geom:latitude":45.440125,
+    "geom:longitude":9.283589,
+    "iso:country":"IT",
+    "sg:address":"3/a, Via Vespucci Amerigo 20068 Peschiera Borromeo",
+    "sg:city":"Peschiera Borromeo",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 5530 2855",
+    "sg:postcode":"20068",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862743,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bVtbAPy8w9FEWuwiAPfQS_45.440125_9.283589@1306269837"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"739e398447a56e291fb58ea871bff837",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862743,
+            "region_id":85685243,
+            "venue_id":269919615
+        }
+    ],
+    "wof:id":269919615,
+    "wof:lastmodified":1449038210,
+    "wof:name":"T.a.s.s. Tir Air Sea Service (s.r.l.)",
+    "wof:parent_id":85862743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [9.283589,45.440125,9.283589,45.440125],
+  "geometry": {"coordinates":[9.283589,45.440125],"type":"Point"}
+}

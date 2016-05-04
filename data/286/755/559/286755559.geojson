@@ -1,0 +1,66 @@
+{
+  "id": 286755559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.176412,45.663113,9.176412,45.663113",
+    "geom:latitude":45.663113,
+    "geom:longitude":9.176412,
+    "iso:country":"IT",
+    "sg:address":"Viale Dell' Artigianato, 52/54 20036 Meda",
+    "sg:city":"Meda",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 036 274504",
+    "sg:postcode":"20036",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "current",
+        "meter"
+    ],
+    "sg:website":"www.aecar.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862613,
+        85633253,
+        85685723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10mLmzT4zvSb4ZGUnweeBC_45.663113_9.176412@1306269849"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7fa0beecee0cab95750932241457c14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862613,
+            "region_id":85685723,
+            "venue_id":286755559
+        }
+    ],
+    "wof:id":286755559,
+    "wof:lastmodified":1449016023,
+    "wof:name":"Aecar Srl",
+    "wof:parent_id":85862613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "current",
+        "meter"
+    ]
+},
+  "bbox": [9.176412,45.663113,9.176412,45.663113],
+  "geometry": {"coordinates":[9.176412,45.663113],"type":"Point"}
+}

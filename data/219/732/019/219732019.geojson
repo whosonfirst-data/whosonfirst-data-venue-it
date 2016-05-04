@@ -1,0 +1,65 @@
+{
+  "id": 219732019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.940522,45.485752,8.940522,45.485752",
+    "geom:latitude":45.485752,
+    "geom:longitude":8.940522,
+    "iso:country":"IT",
+    "sg:address":"Via Stelvio 20010 Vittuone",
+    "sg:city":"Vittuone",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9011 1234",
+    "sg:postcode":"20010",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101757781,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nWLiwqAQlDCD1BXruiknc_45.485752_8.940522@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"fe60bd449beb41c47ea78af64af65294",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757781,
+            "neighbourhood_id":-1,
+            "region_id":85685243,
+            "venue_id":219732019
+        }
+    ],
+    "wof:id":219732019,
+    "wof:lastmodified":1449074043,
+    "wof:name":"Autotrasporti Internazionali Gnoli Vittorio Snc Di Gnoli Giorgio & Andrea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [8.940522,45.485752,8.940522,45.485752],
+  "geometry": {"coordinates":[8.940522,45.485752],"type":"Point"}
+}

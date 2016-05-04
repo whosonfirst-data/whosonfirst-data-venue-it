@@ -1,0 +1,67 @@
+{
+  "id": 270026093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.669952,45.694904,9.669952,45.694904",
+    "geom:latitude":45.694904,
+    "geom:longitude":9.669952,
+    "iso:country":"IT",
+    "sg:address":"Via Pertegalli 24060 Endine Gaiano",
+    "sg:city":"Endine",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 035 825024",
+    "sg:postcode":"24060",
+    "sg:province":"Bergamo",
+    "sg:tags":[
+        "device",
+        "pulling"
+    ],
+    "sg:website":"www.tesmec-group.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900501,
+        85633253,
+        101752723,
+        85685249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pYlmazeK862lDlCahPvJa_45.694904_9.669952@1306269838"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"e02950f640804ae37f90f1b085a4ec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752723,
+            "neighbourhood_id":85900501,
+            "region_id":85685249,
+            "venue_id":270026093
+        }
+    ],
+    "wof:id":270026093,
+    "wof:lastmodified":1449010089,
+    "wof:name":"Tesmec Spa",
+    "wof:parent_id":85900501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "device",
+        "pulling"
+    ]
+},
+  "bbox": [9.669952,45.694904,9.669952,45.694904],
+  "geometry": {"coordinates":[9.669952,45.694904],"type":"Point"}
+}

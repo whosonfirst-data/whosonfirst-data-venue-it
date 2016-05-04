@@ -1,0 +1,67 @@
+{
+  "id": 219741735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.609344,41.890228,12.609344,41.890228",
+    "geom:latitude":41.890228,
+    "geom:longitude":12.609344,
+    "iso:country":"IT",
+    "sg:address":"85/87, V. Dell' Omo 00155 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39062282242",
+    "sg:postcode":"00155",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "sg:website":"http://www.cittadini.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906291,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yg1lk9fmnjczBAkczgiFg_41.890228_12.609344@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"7f9a6ebd4b0940f9c63648a19f104f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85906291,
+            "region_id":85685461,
+            "venue_id":219741735
+        }
+    ],
+    "wof:id":219741735,
+    "wof:lastmodified":1449070572,
+    "wof:name":"Cittadini Spa",
+    "wof:parent_id":85906291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [12.609344,41.890228,12.609344,41.890228],
+  "geometry": {"coordinates":[12.609344,41.890228],"type":"Point"}
+}

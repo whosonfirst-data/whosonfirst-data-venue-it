@@ -1,0 +1,66 @@
+{
+  "id": 303424565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.619745,44.706612,10.619745,44.706612",
+    "geom:latitude":44.706612,
+    "geom:longitude":10.619745,
+    "iso:country":"IT",
+    "sg:address":"Via Brigata Reggio, 24/1 42100 Reggio Emilia",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 0522 7951",
+    "sg:postcode":"42100",
+    "sg:province":"Reggio Nell'Emilia",
+    "sg:tags":[
+        "construction",
+        "apartment"
+    ],
+    "sg:website":"www.unieco.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904879,
+        85633253,
+        101752671,
+        85685343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xdbWmIZPCh6A9kjn16GtZ_44.706612_10.619745@1306269859"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"41bffa3a1020b68e6d16bcda09d12830",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752671,
+            "neighbourhood_id":85904879,
+            "region_id":85685343,
+            "venue_id":303424565
+        }
+    ],
+    "wof:id":303424565,
+    "wof:lastmodified":1449000414,
+    "wof:name":"Unieco Scrl",
+    "wof:parent_id":85904879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "apartment"
+    ]
+},
+  "bbox": [10.619745,44.706612,10.619745,44.706612],
+  "geometry": {"coordinates":[10.619745,44.706612],"type":"Point"}
+}

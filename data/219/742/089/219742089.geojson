@@ -1,0 +1,65 @@
+{
+  "id": 219742089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.272151,44.471874,11.272151,44.471874",
+    "geom:latitude":44.471874,
+    "geom:longitude":11.272151,
+    "iso:country":"IT",
+    "sg:address":"373, Via Porrettana 40033 Casalecchio Di Reno",
+    "sg:city":"Casalecchio di Reno",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39051575931",
+    "sg:postcode":"40033",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904639,
+        85633253,
+        85685351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ofzd2xBByNbYbHaYCSsxW_44.471874_11.272151@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5ca5ba1b3dc3017ee9dbc8950400c607",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85904639,
+            "region_id":85685351,
+            "venue_id":219742089
+        }
+    ],
+    "wof:id":219742089,
+    "wof:lastmodified":1449070615,
+    "wof:name":"Codeluppi Fratelli (s.n.c.)",
+    "wof:parent_id":85904639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [11.272151,44.471874,11.272151,44.471874],
+  "geometry": {"coordinates":[11.272151,44.471874],"type":"Point"}
+}

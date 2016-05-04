@@ -1,0 +1,66 @@
+{
+  "id": 303227635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.265425,45.618,9.265425,45.618",
+    "geom:latitude":45.618,
+    "geom:longitude":9.265425,
+    "iso:country":"IT",
+    "sg:address":"Via Della Misericordia 46 20046 Biassono",
+    "sg:city":"Biassono",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 039 248 5510",
+    "sg:postcode":"20046",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "machine",
+        "embossing"
+    ],
+    "sg:website":"www.bielloni.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101757865,
+        85685723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72YOKaerq7OvFj0OPhoorL_45.618000_9.265425@1306269856"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"734796b8f8239a5c23d049b437e55684",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101757865,
+            "neighbourhood_id":-1,
+            "region_id":85685723,
+            "venue_id":303227635
+        }
+    ],
+    "wof:id":303227635,
+    "wof:lastmodified":1448998653,
+    "wof:name":"Bielloni Castello Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "embossing"
+    ]
+},
+  "bbox": [9.265425,45.618,9.265425,45.618],
+  "geometry": {"coordinates":[9.265425,45.618],"type":"Point"}
+}

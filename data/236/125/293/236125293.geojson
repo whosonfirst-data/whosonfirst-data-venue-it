@@ -1,0 +1,70 @@
+{
+  "id": 236125293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"13.780097,45.655926,13.780097,45.655926",
+    "geom:latitude":45.655926,
+    "geom:longitude":13.780097,
+    "iso:country":"IT",
+    "sg:address":"Via Fabio Severo 19 34133 Trieste",
+    "sg:city":"Trieste",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 040 361811",
+    "sg:postcode":"34133",
+    "sg:province":"Trieste",
+    "sg:tags":[
+        "residential",
+        "pump",
+        "property",
+        "drainage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900477,
+        85633253,
+        101752715,
+        85685329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5blgJrKSwXYqcUmhJ7nEQF_45.655926_13.780097@1306269815"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"5f30dfb8c0bf0a3cb223f30daefa3534",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752715,
+            "neighbourhood_id":85900477,
+            "region_id":85685329,
+            "venue_id":236125293
+        }
+    ],
+    "wof:id":236125293,
+    "wof:lastmodified":1449005109,
+    "wof:name":"Stac Srl",
+    "wof:parent_id":85900477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "pump",
+        "property",
+        "drainage"
+    ]
+},
+  "bbox": [13.780097,45.655926,13.780097,45.655926],
+  "geometry": {"coordinates":[13.780097,45.655926],"type":"Point"}
+}

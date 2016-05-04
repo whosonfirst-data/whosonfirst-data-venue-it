@@ -1,0 +1,66 @@
+{
+  "id": 219394011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.081826,45.541485,9.081826,45.541485",
+    "geom:latitude":45.541485,
+    "geom:longitude":9.081826,
+    "iso:country":"IT",
+    "sg:address":"Via Volta 7 20020 Arese",
+    "sg:city":"Arese",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 9358 2727",
+    "sg:postcode":"20020",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "steel",
+        "pipe"
+    ],
+    "sg:website":"www.tubosystem.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862699,
+        85633253,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ccxgbCOf6xESf5gP5qAtk_45.541485_9.081826@1306269807"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"28d9efba2bfe392a13057de6dcba9c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":-1,
+            "neighbourhood_id":85862699,
+            "region_id":85685243,
+            "venue_id":219394011
+        }
+    ],
+    "wof:id":219394011,
+    "wof:lastmodified":1449071079,
+    "wof:name":"Tubosystem Srl",
+    "wof:parent_id":85862699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "pipe"
+    ]
+},
+  "bbox": [9.081826,45.541485,9.081826,45.541485],
+  "geometry": {"coordinates":[9.081826,45.541485],"type":"Point"}
+}

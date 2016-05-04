@@ -1,0 +1,67 @@
+{
+  "id": 270504359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.59013,41.902653,12.59013,41.902653",
+    "geom:latitude":41.902653,
+    "geom:longitude":12.59013,
+    "iso:country":"IT",
+    "sg:address":"9, V. Di Tor Sapienza 00155 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 39062280065",
+    "sg:postcode":"00155",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.farmaciamarchetti.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900495,
+        85633253,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WazpPkLv7KQjonvZVxkwJ_41.902653_12.590130@1306269842"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"1c7397d26e783956546e880cb7e9cbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85900495,
+            "region_id":85685461,
+            "venue_id":270504359
+        }
+    ],
+    "wof:id":270504359,
+    "wof:lastmodified":1449009067,
+    "wof:name":"Farmacia Marchetti Dr. Mario",
+    "wof:parent_id":85900495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [12.59013,41.902653,12.59013,41.902653],
+  "geometry": {"coordinates":[12.59013,41.902653],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 219728695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"7.670099,45.081001,7.670099,45.081001",
+    "geom:latitude":45.081001,
+    "geom:longitude":7.670099,
+    "iso:country":"IT",
+    "sg:address":"165, Corso Regina Margherita 10144 Torino",
+    "sg:city":"Torino",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 011 439 2111",
+    "sg:postcode":"10144",
+    "sg:province":"Torino",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862793,
+        85633253,
+        101752697,
+        85685169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NvKp8m67l2cgCMsgqhrO8_45.081001_7.670099@1306269810"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"a44997802cab854f529fc07385777c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752697,
+            "neighbourhood_id":85862793,
+            "region_id":85685169,
+            "venue_id":219728695
+        }
+    ],
+    "wof:id":219728695,
+    "wof:lastmodified":1449071215,
+    "wof:name":"Autostrada Torino Milano (s.p.a.)",
+    "wof:parent_id":85862793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [7.670099,45.081001,7.670099,45.081001],
+  "geometry": {"coordinates":[7.670099,45.081001],"type":"Point"}
+}

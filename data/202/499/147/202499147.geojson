@@ -1,0 +1,66 @@
+{
+  "id": 202499147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.326658,45.431362,12.326658,45.431362",
+    "geom:latitude":45.431362,
+    "geom:longitude":12.326658,
+    "iso:country":"IT",
+    "sg:address":"1397, Dorsoduro 30123 Venezia",
+    "sg:city":"Dorsoduro",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 041 240 1111",
+    "sg:postcode":"30123",
+    "sg:province":"Venezia",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905019,
+        85633253,
+        101752689,
+        85685305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yZJiN3rqjmazBa3TeLIbn_45.431362_12.326658@1306269799"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"2a3cc81ebe61d7d37d8b56f0a58328b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101752689,
+            "neighbourhood_id":85905019,
+            "region_id":85685305,
+            "venue_id":202499147
+        }
+    ],
+    "wof:id":202499147,
+    "wof:lastmodified":1449060593,
+    "wof:name":"Sernavimar S.r.l.",
+    "wof:parent_id":85905019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [12.326658,45.431362,12.326658,45.431362],
+  "geometry": {"coordinates":[12.326658,45.431362],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 303086415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.152908,45.533333,10.152908,45.533333",
+    "geom:latitude":45.533333,
+    "geom:longitude":10.152908,
+    "iso:country":"IT",
+    "sg:address":"Via Enrico Mattei 34 25030 Roncadelle",
+    "sg:city":"Roncadelle",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 030 278800",
+    "sg:postcode":"25030",
+    "sg:province":"Brescia",
+    "sg:tags":[
+        "switch",
+        "electronic"
+    ],
+    "sg:website":"www.siber.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        101758361,
+        85685253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CGaAdzi4PCOjEnbBl2a30_45.533333_10.152908@1306269855"
+    },
+    "wof:country":"IT",
+    "wof:geomhash":"24c4ac68f1a8a1b61d7bca39371fba6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633253,
+            "locality_id":101758361,
+            "neighbourhood_id":-1,
+            "region_id":85685253,
+            "venue_id":303086415
+        }
+    ],
+    "wof:id":303086415,
+    "wof:lastmodified":1448999757,
+    "wof:name":"Siber Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "switch",
+        "electronic"
+    ]
+},
+  "bbox": [10.152908,45.533333,10.152908,45.533333],
+  "geometry": {"coordinates":[10.152908,45.533333],"type":"Point"}
+}
