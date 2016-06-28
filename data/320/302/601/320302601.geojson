@@ -2,13 +2,14 @@
   "id": 320302601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.648188,41.8349,12.648188,41.8349",
     "geom:latitude":41.8349,
     "geom:longitude":12.648188,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00133 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320302601,
-    "wof:lastmodified":1449012533,
+    "wof:lastmodified":1466296717,
     "wof:name":"Ngo Hoc Nghiep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.648188,41.8349,12.648188,41.8349],
+  "bbox": [
+    12.648188,
+    41.8349,
+    12.648188,
+    41.8349
+],
   "geometry": {"coordinates":[12.648188,41.8349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185789679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.612884,41.259552,13.612884,41.259552",
     "geom:latitude":41.259552,
     "geom:longitude":13.612884,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Emanuele Filiberto; Formia; 04023",
     "sg:city":"Formia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185789679,
-    "wof:lastmodified":1449007343,
+    "wof:lastmodified":1466289211,
     "wof:name":"Banca Popolare Di Fondi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.612884,41.259552,13.612884,41.259552],
+  "bbox": [
+    13.612884,
+    41.259552,
+    13.612884,
+    41.259552
+],
   "geometry": {"coordinates":[13.612884,41.259552],"type":"Point"}
 }

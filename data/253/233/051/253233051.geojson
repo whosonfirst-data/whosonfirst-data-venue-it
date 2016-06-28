@@ -2,13 +2,14 @@
   "id": 253233051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.098307,45.543339,9.098307,45.543339",
     "geom:latitude":45.543339,
     "geom:longitude":9.098307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torino 3 20030 Senago",
     "sg:city":"Senago",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253233051,
-    "wof:lastmodified":1449065849,
+    "wof:lastmodified":1466291366,
     "wof:name":"Luzzani Dental Srl",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontic"
     ]
 },
-  "bbox": [9.098307,45.543339,9.098307,45.543339],
+  "bbox": [
+    9.098307,
+    45.543339,
+    9.098307,
+    45.543339
+],
   "geometry": {"coordinates":[9.098307,45.543339],"type":"Point"}
 }

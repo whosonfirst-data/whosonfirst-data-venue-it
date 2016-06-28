@@ -2,13 +2,14 @@
   "id": 252817093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.727353,41.080711,14.727353,41.080711",
     "geom:latitude":41.080711,
     "geom:longitude":14.727353,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82016 Montesarchio",
     "sg:city":"Montesarchio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252817093,
-    "wof:lastmodified":1449006288,
+    "wof:lastmodified":1466290139,
     "wof:name":"Casa Della Sposa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.727353,41.080711,14.727353,41.080711],
+  "bbox": [
+    14.727353,
+    41.080711,
+    14.727353,
+    41.080711
+],
   "geometry": {"coordinates":[14.727353,41.080711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252977955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.219959,43.765625,11.219959,43.765625",
     "geom:latitude":43.765625,
     "geom:longitude":11.219959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"69, V. Di Soffiano 50143 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252977955,
-    "wof:lastmodified":1449006547,
+    "wof:lastmodified":1466291834,
     "wof:name":"Corti Franco & C. Snc",
     "wof:parent_id":85904705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.219959,43.765625,11.219959,43.765625],
+  "bbox": [
+    11.219959,
+    43.765625,
+    11.219959,
+    43.765625
+],
   "geometry": {"coordinates":[11.219959,43.765625],"type":"Point"}
 }

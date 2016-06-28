@@ -2,13 +2,14 @@
   "id": 269763445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.923396,43.023342,11.923396,43.023342",
     "geom:latitude":43.023342,
     "geom:longitude":11.923396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53043 Chiusi",
     "sg:city":"Chiusi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269763445,
-    "wof:lastmodified":1449038953,
+    "wof:lastmodified":1466292579,
     "wof:name":"Studio Tecnico Giulietti Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.923396,43.023342,11.923396,43.023342],
+  "bbox": [
+    11.923396,
+    43.023342,
+    11.923396,
+    43.023342
+],
   "geometry": {"coordinates":[11.923396,43.023342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220150353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.220674,46.113232,13.220674,46.113232",
     "geom:latitude":46.113232,
     "geom:longitude":13.220674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92, Via Palladio 33010 Tavagnacco",
     "sg:city":"Tavagnacco",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220150353,
-    "wof:lastmodified":1449074074,
+    "wof:lastmodified":1466289053,
     "wof:name":"Asi Group Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "technology"
     ]
 },
-  "bbox": [13.220674,46.113232,13.220674,46.113232],
+  "bbox": [
+    13.220674,
+    46.113232,
+    13.220674,
+    46.113232
+],
   "geometry": {"coordinates":[13.220674,46.113232],"type":"Point"}
 }

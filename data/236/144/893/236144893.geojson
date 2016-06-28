@@ -2,13 +2,14 @@
   "id": 236144893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.278559,40.826839,9.278559,40.826839",
     "geom:latitude":40.826839,
     "geom:longitude":9.278559,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via S. Paolo 07020 Monti",
     "sg:city":"Monti",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236144893,
-    "wof:lastmodified":1449004181,
+    "wof:lastmodified":1466290325,
     "wof:name":"Cantina Sociale Del Vermentino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [9.278559,40.826839,9.278559,40.826839],
+  "bbox": [
+    9.278559,
+    40.826839,
+    9.278559,
+    40.826839
+],
   "geometry": {"coordinates":[9.278559,40.826839],"type":"Point"}
 }

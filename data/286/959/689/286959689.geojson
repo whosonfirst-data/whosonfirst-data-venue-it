@@ -2,13 +2,14 @@
   "id": 286959689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.501448,40.826004,14.501448,40.826004",
     "geom:latitude":40.826004,
     "geom:longitude":14.501448,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80047 San Giuseppe Vesuviano",
     "sg:city":"San Giuseppe Vesuviano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286959689,
-    "wof:lastmodified":1449017800,
+    "wof:lastmodified":1466297510,
     "wof:name":"Collezioni Moda Sas Di Nunzio Cozzolino & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.501448,40.826004,14.501448,40.826004],
+  "bbox": [
+    14.501448,
+    40.826004,
+    14.501448,
+    40.826004
+],
   "geometry": {"coordinates":[14.501448,40.826004],"type":"Point"}
 }

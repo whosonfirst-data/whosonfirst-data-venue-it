@@ -2,13 +2,14 @@
   "id": 202918911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.272895,45.445187,9.272895,45.445187",
     "geom:latitude":45.445187,
     "geom:longitude":9.272895,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202918911,
-    "wof:lastmodified":1449061812,
+    "wof:lastmodified":1466293419,
     "wof:name":"Proserpio Maddalena",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.272895,45.445187,9.272895,45.445187],
+  "bbox": [
+    9.272895,
+    45.445187,
+    9.272895,
+    45.445187
+],
   "geometry": {"coordinates":[9.272895,45.445187],"type":"Point"}
 }

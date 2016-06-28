@@ -2,13 +2,14 @@
   "id": 219377951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.090595,45.607563,9.090595,45.607563",
     "geom:latitude":45.607563,
     "geom:longitude":9.090595,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bernini 7 20020 Solaro",
     "sg:city":"Solaro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219377951,
-    "wof:lastmodified":1449071712,
+    "wof:lastmodified":1466290111,
     "wof:name":"Inox Villa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rust-proof"
     ]
 },
-  "bbox": [9.090595,45.607563,9.090595,45.607563],
+  "bbox": [
+    9.090595,
+    45.607563,
+    9.090595,
+    45.607563
+],
   "geometry": {"coordinates":[9.090595,45.607563],"type":"Point"}
 }

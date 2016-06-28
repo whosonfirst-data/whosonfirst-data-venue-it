@@ -2,13 +2,14 @@
   "id": 203392191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.328744,41.710743,12.328744,41.710743",
     "geom:latitude":41.710743,
     "geom:longitude":12.328744,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00122 Lido Di Ostia",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Per Lo Sport E Il Tempo Libero. Alberghi E Strutture Extra Alberghiere",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203392191,
-    "wof:lastmodified":1449026457,
+    "wof:lastmodified":1466292024,
     "wof:name":"Dopolavoro Montedison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.328744,41.710743,12.328744,41.710743],
+  "bbox": [
+    12.328744,
+    41.710743,
+    12.328744,
+    41.710743
+],
   "geometry": {"coordinates":[12.328744,41.710743],"type":"Point"}
 }

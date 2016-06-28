@@ -2,13 +2,14 @@
   "id": 303811665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.169296,38.614273,16.169296,38.614273",
     "geom:latitude":38.614273,
     "geom:longitude":16.169296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"89831 Gerocarne",
     "sg:city":"Gerocarne",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303811665,
-    "wof:lastmodified":1448999294,
+    "wof:lastmodified":1466297849,
     "wof:name":"Dolmen Graniti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.169296,38.614273,16.169296,38.614273],
+  "bbox": [
+    16.169296,
+    38.614273,
+    16.169296,
+    38.614273
+],
   "geometry": {"coordinates":[16.169296,38.614273],"type":"Point"}
 }

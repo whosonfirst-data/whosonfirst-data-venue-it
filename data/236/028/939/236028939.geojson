@@ -2,13 +2,14 @@
   "id": 236028939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.041634,44.507576,12.041634,44.507576",
     "geom:latitude":44.507576,
     "geom:longitude":12.041634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48011 Alfonsine",
     "sg:city":"Alfonsine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236028939,
-    "wof:lastmodified":1449003435,
+    "wof:lastmodified":1466289186,
     "wof:name":"Idra Di Pezzi Patrizio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.041634,44.507576,12.041634,44.507576],
+  "bbox": [
+    12.041634,
+    44.507576,
+    12.041634,
+    44.507576
+],
   "geometry": {"coordinates":[12.041634,44.507576],"type":"Point"}
 }

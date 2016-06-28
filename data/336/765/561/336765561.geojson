@@ -2,13 +2,14 @@
   "id": 336765561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.555238,45.908405,12.555238,45.908405",
     "geom:latitude":45.908405,
     "geom:longitude":12.555238,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Viale Lino Zanussi 33070 Brugnera",
     "sg:city":"Brugnera",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336765561,
-    "wof:lastmodified":1448997557,
+    "wof:lastmodified":1466295702,
     "wof:name":"S.a.p. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.555238,45.908405,12.555238,45.908405],
+  "bbox": [
+    12.555238,
+    45.908405,
+    12.555238,
+    45.908405
+],
   "geometry": {"coordinates":[12.555238,45.908405],"type":"Point"}
 }

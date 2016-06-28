@@ -2,13 +2,14 @@
   "id": 319860795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.567472,45.58786,11.567472,45.58786",
     "geom:latitude":45.58786,
     "geom:longitude":11.567472,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Saviabona 102b 36010 Cavazzale",
     "sg:city":"Cavazzale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319860795,
-    "wof:lastmodified":1449024445,
+    "wof:lastmodified":1466292991,
     "wof:name":"Cimec S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automation"
     ]
 },
-  "bbox": [11.567472,45.58786,11.567472,45.58786],
+  "bbox": [
+    11.567472,
+    45.58786,
+    11.567472,
+    45.58786
+],
   "geometry": {"coordinates":[11.567472,45.58786],"type":"Point"}
 }

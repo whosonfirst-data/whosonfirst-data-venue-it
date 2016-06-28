@@ -2,13 +2,14 @@
   "id": 203151133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.452361,41.912575,12.452361,41.912575",
     "geom:latitude":41.912575,
     "geom:longitude":12.452361,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00195 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203151133,
-    "wof:lastmodified":1449024958,
+    "wof:lastmodified":1466289408,
     "wof:name":"A.i.p.a. Sas",
     "wof:parent_id":85900395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.452361,41.912575,12.452361,41.912575],
+  "bbox": [
+    12.452361,
+    41.912575,
+    12.452361,
+    41.912575
+],
   "geometry": {"coordinates":[12.452361,41.912575],"type":"Point"}
 }

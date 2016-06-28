@@ -2,13 +2,14 @@
   "id": 185776115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.791723,45.538025,9.791723,45.538025",
     "geom:latitude":45.538025,
     "geom:longitude":9.791723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 43; Cividate Al Piano; 24050",
     "sg:city":"Cividate al Piano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185776115,
-    "wof:lastmodified":1449006967,
+    "wof:lastmodified":1466289125,
     "wof:name":"Banca Popolare Di Bergamo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.791723,45.538025,9.791723,45.538025],
+  "bbox": [
+    9.791723,
+    45.538025,
+    9.791723,
+    45.538025
+],
   "geometry": {"coordinates":[9.791723,45.538025],"type":"Point"}
 }

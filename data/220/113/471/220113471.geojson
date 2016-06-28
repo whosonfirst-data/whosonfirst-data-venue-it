@@ -2,13 +2,14 @@
   "id": 220113471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.5106,45.706654,11.5106,45.706654",
     "geom:latitude":45.706654,
     "geom:longitude":11.5106,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2/6, Viale Dell' Economia 36016 Thiene",
     "sg:city":"Thiene",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220113471,
-    "wof:lastmodified":1449074807,
+    "wof:lastmodified":1466296065,
     "wof:name":"Industrial Cars (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [11.5106,45.706654,11.5106,45.706654],
+  "bbox": [
+    11.5106,
+    45.706654,
+    11.5106,
+    45.706654
+],
   "geometry": {"coordinates":[11.5106,45.706654],"type":"Point"}
 }

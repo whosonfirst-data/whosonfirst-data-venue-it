@@ -2,13 +2,14 @@
   "id": 303408311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.328003,43.071095,12.328003,43.071095",
     "geom:latitude":43.071095,
     "geom:longitude":12.328003,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06080 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Antincendio - Impianti, Attrezzature E Materiali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303408311,
-    "wof:lastmodified":1448998421,
+    "wof:lastmodified":1466295535,
     "wof:name":"Fratelli Fagioli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.328003,43.071095,12.328003,43.071095],
+  "bbox": [
+    12.328003,
+    43.071095,
+    12.328003,
+    43.071095
+],
   "geometry": {"coordinates":[12.328003,43.071095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287022589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.195173,45.468071,9.195173,45.468071",
     "geom:latitude":45.468071,
     "geom:longitude":9.195173,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Verri Pietro 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287022589,
-    "wof:lastmodified":1449000953,
+    "wof:lastmodified":1466289880,
     "wof:name":"Rossi 1924 Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [9.195173,45.468071,9.195173,45.468071],
+  "bbox": [
+    9.195173,
+    45.468071,
+    9.195173,
+    45.468071
+],
   "geometry": {"coordinates":[9.195173,45.468071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253418397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.016421,45.526348,11.016421,45.526348",
     "geom:latitude":45.526348,
     "geom:longitude":11.016421,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37023 Grezzana",
     "sg:city":"Grezzana",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253418397,
-    "wof:lastmodified":1449065116,
+    "wof:lastmodified":1466293610,
     "wof:name":"Mo.ca. Snc Di Montoli Castelli & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "kitchen"
     ]
 },
-  "bbox": [11.016421,45.526348,11.016421,45.526348],
+  "bbox": [
+    11.016421,
+    45.526348,
+    11.016421,
+    45.526348
+],
   "geometry": {"coordinates":[11.016421,45.526348],"type":"Point"}
 }

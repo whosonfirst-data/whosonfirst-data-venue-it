@@ -2,13 +2,14 @@
   "id": 203151277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.874178,41.123264,16.874178,41.123264",
     "geom:latitude":41.123264,
     "geom:longitude":16.874178,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70121 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203151277,
-    "wof:lastmodified":1449024955,
+    "wof:lastmodified":1466289409,
     "wof:name":"Acquedotto Pugliese Spa",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.874178,41.123264,16.874178,41.123264],
+  "bbox": [
+    16.874178,
+    41.123264,
+    16.874178,
+    41.123264
+],
   "geometry": {"coordinates":[16.874178,41.123264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220073851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.800628,44.121101,9.800628,44.121101",
     "geom:latitude":44.121101,
     "geom:longitude":9.800628,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19123 La Spezia",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220073851,
-    "wof:lastmodified":1449074140,
+    "wof:lastmodified":1466295627,
     "wof:name":"Molinari Simone - Rexnavi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [9.800628,44.121101,9.800628,44.121101],
+  "bbox": [
+    9.800628,
+    44.121101,
+    9.800628,
+    44.121101
+],
   "geometry": {"coordinates":[9.800628,44.121101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303405457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.669952,45.694904,9.669952,45.694904",
     "geom:latitude":45.694904,
     "geom:longitude":9.669952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24061 Albano S. Alessandro",
     "sg:classifiers":[],
     "sg:orig_category":"Antincendio - Impianti, Attrezzature E Materiali",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303405457,
-    "wof:lastmodified":1449000363,
+    "wof:lastmodified":1466295500,
     "wof:name":"Italtermogas Di Donadeo Alfredo",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.669952,45.694904,9.669952,45.694904],
+  "bbox": [
+    9.669952,
+    45.694904,
+    9.669952,
+    45.694904
+],
   "geometry": {"coordinates":[9.669952,45.694904],"type":"Point"}
 }

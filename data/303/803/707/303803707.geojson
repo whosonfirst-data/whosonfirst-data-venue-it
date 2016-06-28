@@ -2,13 +2,14 @@
   "id": 303803707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.1005,42.767899,11.1005,42.767899",
     "geom:latitude":42.767899,
     "geom:longitude":11.1005,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58100 Grosseto",
     "sg:city":"Grosseto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303803707,
-    "wof:lastmodified":1449000594,
+    "wof:lastmodified":1466297932,
     "wof:name":"Frigotecnica Maremmana Di Dalla Monta'giuliano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.1005,42.767899,11.1005,42.767899],
+  "bbox": [
+    11.1005,
+    42.767899,
+    11.1005,
+    42.767899
+],
   "geometry": {"coordinates":[11.1005,42.767899],"type":"Point"}
 }

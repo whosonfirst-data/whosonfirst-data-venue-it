@@ -2,13 +2,14 @@
   "id": 320105435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.582241,45.692219,9.582241,45.692219",
     "geom:latitude":45.692219,
     "geom:longitude":9.582241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Presezzo",
     "sg:city":"Presezzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320105435,
-    "wof:lastmodified":1449012705,
+    "wof:lastmodified":1466294684,
     "wof:name":"Fratus Impianti Rappresentanze (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.582241,45.692219,9.582241,45.692219],
+  "bbox": [
+    9.582241,
+    45.692219,
+    9.582241,
+    45.692219
+],
   "geometry": {"coordinates":[9.582241,45.692219],"type":"Point"}
 }

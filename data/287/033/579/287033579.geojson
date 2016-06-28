@@ -2,13 +2,14 @@
   "id": 287033579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.878014,45.588829,9.878014,45.588829",
     "geom:latitude":45.588829,
     "geom:longitude":9.878014,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piantada 8 25036 Palazzolo Sull'oglio",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":287033579,
-    "wof:lastmodified":1449000845,
+    "wof:lastmodified":1466290007,
     "wof:name":"Cfsp Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "thermoforming"
     ]
 },
-  "bbox": [9.878014,45.588829,9.878014,45.588829],
+  "bbox": [
+    9.878014,
+    45.588829,
+    9.878014,
+    45.588829
+],
   "geometry": {"coordinates":[9.878014,45.588829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270461067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.336199,43.785477,10.336199,43.785477",
     "geom:latitude":43.785477,
     "geom:longitude":10.336199,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Via Traversagna 56019 Vecchiano",
     "sg:city":"Vecchiano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270461067,
-    "wof:lastmodified":1449009559,
+    "wof:lastmodified":1466294597,
     "wof:name":"King's Ceramica (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramic"
     ]
 },
-  "bbox": [10.336199,43.785477,10.336199,43.785477],
+  "bbox": [
+    10.336199,
+    43.785477,
+    10.336199,
+    43.785477
+],
   "geometry": {"coordinates":[10.336199,43.785477],"type":"Point"}
 }

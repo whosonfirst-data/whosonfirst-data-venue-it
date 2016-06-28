@@ -2,13 +2,14 @@
   "id": 203267245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.229537,45.574535,11.229537,45.574535",
     "geom:latitude":45.574535,
     "geom:longitude":11.229537,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37030 Vestenanova",
     "sg:city":"Vestenanova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203267245,
-    "wof:lastmodified":1449026697,
+    "wof:lastmodified":1466290529,
     "wof:name":"Bruni Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.229537,45.574535,11.229537,45.574535],
+  "bbox": [
+    11.229537,
+    45.574535,
+    11.229537,
+    45.574535
+],
   "geometry": {"coordinates":[11.229537,45.574535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269586305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.421764,41.935184,12.421764,41.935184",
     "geom:latitude":41.935184,
     "geom:longitude":12.421764,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00168 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269586305,
-    "wof:lastmodified":1449038654,
+    "wof:lastmodified":1466290160,
     "wof:name":"Legnameria Romana Srl",
     "wof:parent_id":85900497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.421764,41.935184,12.421764,41.935184],
+  "bbox": [
+    12.421764,
+    41.935184,
+    12.421764,
+    41.935184
+],
   "geometry": {"coordinates":[12.421764,41.935184],"type":"Point"}
 }

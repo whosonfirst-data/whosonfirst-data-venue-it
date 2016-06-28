@@ -2,13 +2,14 @@
   "id": 236657123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.415031,44.536186,11.415031,44.536186",
     "geom:latitude":44.536186,
     "geom:longitude":11.415031,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via F.turati 40057 Granarolo Dell'emilia",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236657123,
-    "wof:lastmodified":1449001954,
+    "wof:lastmodified":1466295543,
     "wof:name":"Sarti S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.415031,44.536186,11.415031,44.536186],
+  "bbox": [
+    11.415031,
+    44.536186,
+    11.415031,
+    44.536186
+],
   "geometry": {"coordinates":[11.415031,44.536186],"type":"Point"}
 }

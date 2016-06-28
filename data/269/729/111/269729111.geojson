@@ -2,13 +2,14 @@
   "id": 269729111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.154613,45.494152,9.154613,45.494152",
     "geom:latitude":45.494152,
     "geom:longitude":9.154613,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269729111,
-    "wof:lastmodified":1449037356,
+    "wof:lastmodified":1466292103,
     "wof:name":"Cappellozza Dott. Giuliano",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.154613,45.494152,9.154613,45.494152],
+  "bbox": [
+    9.154613,
+    45.494152,
+    9.154613,
+    45.494152
+],
   "geometry": {"coordinates":[9.154613,45.494152],"type":"Point"}
 }

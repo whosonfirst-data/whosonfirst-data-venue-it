@@ -2,13 +2,14 @@
   "id": 253724435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.763603,43.704643,10.763603,43.704643",
     "geom:latitude":43.704643,
     "geom:longitude":10.763603,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Delle Confina 56022 Castelfranco Di Sotto",
     "sg:city":"Castelfranco di Sotto",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253724435,
-    "wof:lastmodified":1449065745,
+    "wof:lastmodified":1466296952,
     "wof:name":"Italconcia (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [10.763603,43.704643,10.763603,43.704643],
+  "bbox": [
+    10.763603,
+    43.704643,
+    10.763603,
+    43.704643
+],
   "geometry": {"coordinates":[10.763603,43.704643],"type":"Point"}
 }

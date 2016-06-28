@@ -2,13 +2,14 @@
   "id": 270497731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.255376,45.528603,9.255376,45.528603",
     "geom:latitude":45.528603,
     "geom:longitude":9.255376,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20139 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270497731,
-    "wof:lastmodified":1449011105,
+    "wof:lastmodified":1466295025,
     "wof:name":"Saga Snc Di Guaita Luigi & Dell'ing. Guaita Daniele",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.255376,45.528603,9.255376,45.528603],
+  "bbox": [
+    9.255376,
+    45.528603,
+    9.255376,
+    45.528603
+],
   "geometry": {"coordinates":[9.255376,45.528603],"type":"Point"}
 }

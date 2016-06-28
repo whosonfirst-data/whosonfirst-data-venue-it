@@ -2,13 +2,14 @@
   "id": 186418789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.120637,39.208641,9.120637,39.208641",
     "geom:latitude":39.208641,
     "geom:longitude":9.120637,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18/a, Vl. Colombo 09125 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186418789,
-    "wof:lastmodified":1449052425,
+    "wof:lastmodified":1466291528,
     "wof:name":"Solemar Service",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.120637,39.208641,9.120637,39.208641],
+  "bbox": [
+    9.120637,
+    39.208641,
+    9.120637,
+    39.208641
+],
   "geometry": {"coordinates":[9.120637,39.208641],"type":"Point"}
 }

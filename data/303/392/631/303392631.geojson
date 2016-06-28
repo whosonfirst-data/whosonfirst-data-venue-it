@@ -2,13 +2,14 @@
   "id": 303392631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.224358,45.52776,10.224358,45.52776",
     "geom:latitude":45.52776,
     "geom:longitude":10.224358,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25124 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303392631,
-    "wof:lastmodified":1449000079,
+    "wof:lastmodified":1466295346,
     "wof:name":"Eurosistem Di Maghella Romano E C. Snc",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.224358,45.52776,10.224358,45.52776],
+  "bbox": [
+    10.224358,
+    45.52776,
+    10.224358,
+    45.52776
+],
   "geometry": {"coordinates":[10.224358,45.52776],"type":"Point"}
 }

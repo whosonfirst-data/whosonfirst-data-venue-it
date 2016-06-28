@@ -2,13 +2,14 @@
   "id": 203409159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.466741,41.831547,12.466741,41.831547",
     "geom:latitude":41.831547,
     "geom:longitude":12.466741,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00144 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203409159,
-    "wof:lastmodified":1449025701,
+    "wof:lastmodified":1466292192,
     "wof:name":"Discoteca Il Carillon Srl",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.466741,41.831547,12.466741,41.831547],
+  "bbox": [
+    12.466741,
+    41.831547,
+    12.466741,
+    41.831547
+],
   "geometry": {"coordinates":[12.466741,41.831547],"type":"Point"}
 }

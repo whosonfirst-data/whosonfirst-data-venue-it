@@ -2,13 +2,14 @@
   "id": 219527745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.202522,45.729881,12.202522,45.729881",
     "geom:latitude":45.729881,
     "geom:longitude":12.202522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Delle Industrie, 14/16 31050 Ponzano",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219527745,
-    "wof:lastmodified":1449073208,
+    "wof:lastmodified":1466291644,
     "wof:name":"Viva Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ready-made"
     ]
 },
-  "bbox": [12.202522,45.729881,12.202522,45.729881],
+  "bbox": [
+    12.202522,
+    45.729881,
+    12.202522,
+    45.729881
+],
   "geometry": {"coordinates":[12.202522,45.729881],"type":"Point"}
 }

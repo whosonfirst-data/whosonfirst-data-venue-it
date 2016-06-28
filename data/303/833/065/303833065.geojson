@@ -2,13 +2,14 @@
   "id": 303833065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.330841,46.067265,13.330841,46.067265",
     "geom:latitude":46.067265,
     "geom:longitude":13.330841,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33047 Remanzacco",
     "sg:city":"Remanzacco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303833065,
-    "wof:lastmodified":1448998433,
+    "wof:lastmodified":1466297893,
     "wof:name":"Elleti Snc Di Lazzaro & Tonutti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.330841,46.067265,13.330841,46.067265],
+  "bbox": [
+    13.330841,
+    46.067265,
+    13.330841,
+    46.067265
+],
   "geometry": {"coordinates":[13.330841,46.067265],"type":"Point"}
 }

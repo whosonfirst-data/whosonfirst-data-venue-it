@@ -2,13 +2,14 @@
   "id": 253131241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.037346,45.625515,9.037346,45.625515",
     "geom:latitude":45.625515,
     "geom:longitude":9.037346,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21053 Castellanza",
     "sg:city":"Castellanza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253131241,
-    "wof:lastmodified":1449063711,
+    "wof:lastmodified":1466290285,
     "wof:name":"Fonderie A. Lamperti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.037346,45.625515,9.037346,45.625515],
+  "bbox": [
+    9.037346,
+    45.625515,
+    9.037346,
+    45.625515
+],
   "geometry": {"coordinates":[9.037346,45.625515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185633131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.483041,45.104362,10.483041,45.104362",
     "geom:latitude":45.104362,
     "geom:longitude":10.483041,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Matteotti 56; Bozzolo; 46012",
     "sg:city":"Bozzolo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185633131,
-    "wof:lastmodified":1449008185,
+    "wof:lastmodified":1466294475,
     "wof:name":"Banca Di Credito Cooperatiovo, Di Casalmoro E Bozzolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.483041,45.104362,10.483041,45.104362],
+  "bbox": [
+    10.483041,
+    45.104362,
+    10.483041,
+    45.104362
+],
   "geometry": {"coordinates":[10.483041,45.104362],"type":"Point"}
 }

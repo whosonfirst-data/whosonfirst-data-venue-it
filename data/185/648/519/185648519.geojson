@@ -2,13 +2,14 @@
   "id": 185648519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.308458,45.649986,9.308458,45.649986",
     "geom:latitude":45.649986,
     "geom:longitude":9.308458,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Dante 21/22, 20050 Lesmo, Mi",
     "sg:city":"Lesmo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185648519,
-    "wof:lastmodified":1449007050,
+    "wof:lastmodified":1466294914,
     "wof:name":"Banca Di Credito Cooperativo Di Lesmo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.308458,45.649986,9.308458,45.649986],
+  "bbox": [
+    9.308458,
+    45.649986,
+    9.308458,
+    45.649986
+],
   "geometry": {"coordinates":[9.308458,45.649986],"type":"Point"}
 }

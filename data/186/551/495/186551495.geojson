@@ -2,13 +2,14 @@
   "id": 186551495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.490907,43.060928,11.490907,43.060928",
     "geom:latitude":43.060928,
     "geom:longitude":11.490907,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Lapini 53024 Montalcino",
     "sg:city":"Montalcino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186551495,
-    "wof:lastmodified":1449050945,
+    "wof:lastmodified":1466292804,
     "wof:name":"Hotel Dei Capitani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.490907,43.060928,11.490907,43.060928],
+  "bbox": [
+    11.490907,
+    43.060928,
+    11.490907,
+    43.060928
+],
   "geometry": {"coordinates":[11.490907,43.060928],"type":"Point"}
 }

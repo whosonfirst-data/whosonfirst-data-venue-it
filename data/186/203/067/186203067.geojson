@@ -2,13 +2,14 @@
   "id": 186203067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.113577,39.218277,9.113577,39.218277",
     "geom:latitude":39.218277,
     "geom:longitude":9.113577,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Santa Margherita 4, 09124 Cagliari, Ca",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186203067,
-    "wof:lastmodified":1449051564,
+    "wof:lastmodified":1466289672,
     "wof:name":"Sfirs-societ\u00e0 Finanziaria Industriale Rinascita Sardegna Spa",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.113577,39.218277,9.113577,39.218277],
+  "bbox": [
+    9.113577,
+    39.218277,
+    9.113577,
+    39.218277
+],
   "geometry": {"coordinates":[9.113577,39.218277],"type":"Point"}
 }

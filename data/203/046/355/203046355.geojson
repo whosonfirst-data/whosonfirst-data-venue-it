@@ -2,13 +2,14 @@
   "id": 203046355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.781747,45.153721,10.781747,45.153721",
     "geom:latitude":45.153721,
     "geom:longitude":10.781747,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46100 Cicognara",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Arredamento E Industria Del Legno",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203046355,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466295114,
     "wof:name":"Feroldi Oreste & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.781747,45.153721,10.781747,45.153721],
+  "bbox": [
+    10.781747,
+    45.153721,
+    10.781747,
+    45.153721
+],
   "geometry": {"coordinates":[10.781747,45.153721],"type":"Point"}
 }

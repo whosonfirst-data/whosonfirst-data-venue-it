@@ -2,13 +2,14 @@
   "id": 236606925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.882056,44.985775,8.882056,44.985775",
     "geom:latitude":44.985775,
     "geom:longitude":8.882056,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Strada Per Pontecurone 15053 Castelnuovo Scrivia",
     "sg:city":"Castelnuovo Scrivia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236606925,
-    "wof:lastmodified":1449002057,
+    "wof:lastmodified":1466295080,
     "wof:name":"Kettler (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [8.882056,44.985775,8.882056,44.985775],
+  "bbox": [
+    8.882056,
+    44.985775,
+    8.882056,
+    44.985775
+],
   "geometry": {"coordinates":[8.882056,44.985775],"type":"Point"}
 }

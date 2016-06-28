@@ -2,13 +2,14 @@
   "id": 286513205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.872513,45.781101,11.872513,45.781101",
     "geom:latitude":45.781101,
     "geom:longitude":11.872513,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Castellana 31039 Riese Pio X",
     "sg:city":"Riese Pio X",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286513205,
-    "wof:lastmodified":1449017135,
+    "wof:lastmodified":1466292867,
     "wof:name":"Fraccaro Sport Srl Unipersonale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.872513,45.781101,11.872513,45.781101],
+  "bbox": [
+    11.872513,
+    45.781101,
+    11.872513,
+    45.781101
+],
   "geometry": {"coordinates":[11.872513,45.781101],"type":"Point"}
 }

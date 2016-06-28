@@ -2,13 +2,14 @@
   "id": 202593165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.212674,45.56295,9.212674,45.56295",
     "geom:latitude":45.56295,
     "geom:longitude":9.212674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via D'annunzio 5 20053 Muggio'",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202593165,
-    "wof:lastmodified":1449061770,
+    "wof:lastmodified":1466289861,
     "wof:name":"Nuova Meroni Sas",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "trade"
     ]
 },
-  "bbox": [9.212674,45.56295,9.212674,45.56295],
+  "bbox": [
+    9.212674,
+    45.56295,
+    9.212674,
+    45.56295
+],
   "geometry": {"coordinates":[9.212674,45.56295],"type":"Point"}
 }

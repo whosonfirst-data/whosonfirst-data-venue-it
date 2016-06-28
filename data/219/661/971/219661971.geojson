@@ -2,13 +2,14 @@
   "id": 219661971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.716425,45.722553,9.716425,45.722553",
     "geom:latitude":45.722553,
     "geom:longitude":9.716425,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24020 Ranica",
     "sg:city":"Ranica",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219661971,
-    "wof:lastmodified":1449073539,
+    "wof:lastmodified":1466292907,
     "wof:name":"Carrozzeria Caslini Mario Di Caslini Stefano & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.716425,45.722553,9.716425,45.722553],
+  "bbox": [
+    9.716425,
+    45.722553,
+    9.716425,
+    45.722553
+],
   "geometry": {"coordinates":[9.716425,45.722553],"type":"Point"}
 }

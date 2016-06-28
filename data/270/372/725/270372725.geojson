@@ -2,13 +2,14 @@
   "id": 270372725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.905467,45.664471,8.905467,45.664471",
     "geom:latitude":45.664471,
     "geom:longitude":8.905467,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Amerigo Vespucci, 7/9 21050 Gorla Maggiore",
     "sg:city":"Gorla Maggiore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270372725,
-    "wof:lastmodified":1449010116,
+    "wof:lastmodified":1466293539,
     "wof:name":"Litocartotecnica Pigni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.905467,45.664471,8.905467,45.664471],
+  "bbox": [
+    8.905467,
+    45.664471,
+    8.905467,
+    45.664471
+],
   "geometry": {"coordinates":[8.905467,45.664471],"type":"Point"}
 }

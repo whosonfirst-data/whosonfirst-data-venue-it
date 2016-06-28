@@ -2,13 +2,14 @@
   "id": 320359219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.980461,43.994766,11.980461,43.994766",
     "geom:latitude":43.994766,
     "geom:longitude":11.980461,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47030 S.mauro Pascoli",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Abbigliamento E Pelletterie",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320359219,
-    "wof:lastmodified":1449011203,
+    "wof:lastmodified":1466297109,
     "wof:name":"Giorgetti Giorgio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.980461,43.994766,11.980461,43.994766],
+  "bbox": [
+    11.980461,
+    43.994766,
+    11.980461,
+    43.994766
+],
   "geometry": {"coordinates":[11.980461,43.994766],"type":"Point"}
 }

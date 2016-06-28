@@ -2,13 +2,14 @@
   "id": 236219005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.505437,44.377697,7.505437,44.377697",
     "geom:latitude":44.377697,
     "geom:longitude":7.505437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 Cervasca",
     "sg:city":"Cervasca",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236219005,
-    "wof:lastmodified":1449005086,
+    "wof:lastmodified":1466291096,
     "wof:name":"Inaudi Diego",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.505437,44.377697,7.505437,44.377697],
+  "bbox": [
+    7.505437,
+    44.377697,
+    7.505437,
+    44.377697
+],
   "geometry": {"coordinates":[7.505437,44.377697],"type":"Point"}
 }

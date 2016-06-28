@@ -2,13 +2,14 @@
   "id": 320378645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083111,45.551003,9.083111,45.551003",
     "geom:latitude":45.551003,
     "geom:longitude":9.083111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Arese",
     "sg:city":"Arese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320378645,
-    "wof:lastmodified":1449013790,
+    "wof:lastmodified":1466297314,
     "wof:name":"Saboureault Frederic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.083111,45.551003,9.083111,45.551003],
+  "bbox": [
+    9.083111,
+    45.551003,
+    9.083111,
+    45.551003
+],
   "geometry": {"coordinates":[9.083111,45.551003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202411651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.302486,40.915863,14.302486,40.915863",
     "geom:latitude":40.915863,
     "geom:longitude":14.302486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80139 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202411651,
-    "wof:lastmodified":1449060215,
+    "wof:lastmodified":1466294965,
     "wof:name":"Le Foyer De Kriss Di Mariano Barone & C.s.a.s.",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.302486,40.915863,14.302486,40.915863],
+  "bbox": [
+    14.302486,
+    40.915863,
+    14.302486,
+    40.915863
+],
   "geometry": {"coordinates":[14.302486,40.915863],"type":"Point"}
 }

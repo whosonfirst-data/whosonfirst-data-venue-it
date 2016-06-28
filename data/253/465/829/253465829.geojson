@@ -2,13 +2,14 @@
   "id": 253465829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.761271,43.867195,10.761271,43.867195",
     "geom:latitude":43.867195,
     "geom:longitude":10.761271,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Galvani 7 51010 Massa E Cozzile",
     "sg:city":"Massa e Cozzile",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253465829,
-    "wof:lastmodified":1449064829,
+    "wof:lastmodified":1466294210,
     "wof:name":"Verinlegno Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "varnish"
     ]
 },
-  "bbox": [10.761271,43.867195,10.761271,43.867195],
+  "bbox": [
+    10.761271,
+    43.867195,
+    10.761271,
+    43.867195
+],
   "geometry": {"coordinates":[10.761271,43.867195],"type":"Point"}
 }

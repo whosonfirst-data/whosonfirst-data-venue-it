@@ -2,13 +2,14 @@
   "id": 253740559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.244755,45.806667,12.244755,45.806667",
     "geom:latitude":45.806667,
     "geom:longitude":12.244755,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Foscarini 31040 Nervesa Della Battaglia",
     "sg:city":"Nervesa della Battaglia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253740559,
-    "wof:lastmodified":1449064158,
+    "wof:lastmodified":1466296922,
     "wof:name":"Almaplast Di Frada Sergio & C. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [12.244755,45.806667,12.244755,45.806667],
+  "bbox": [
+    12.244755,
+    45.806667,
+    12.244755,
+    45.806667
+],
   "geometry": {"coordinates":[12.244755,45.806667],"type":"Point"}
 }

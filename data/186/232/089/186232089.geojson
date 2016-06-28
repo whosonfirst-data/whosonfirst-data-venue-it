@@ -2,13 +2,14 @@
   "id": 186232089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.816994,43.882538,10.816994,43.882538",
     "geom:latitude":43.882538,
     "geom:longitude":10.816994,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tre Fontane 485 51015 Monsummano Terme",
     "sg:city":"Monsummano Terme",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186232089,
-    "wof:lastmodified":1449051253,
+    "wof:lastmodified":1466289925,
     "wof:name":"Colmax Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "base"
     ]
 },
-  "bbox": [10.816994,43.882538,10.816994,43.882538],
+  "bbox": [
+    10.816994,
+    43.882538,
+    10.816994,
+    43.882538
+],
   "geometry": {"coordinates":[10.816994,43.882538],"type":"Point"}
 }

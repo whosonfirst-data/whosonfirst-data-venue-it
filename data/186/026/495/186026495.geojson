@@ -2,13 +2,14 @@
   "id": 186026495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.243559,45.668983,12.243559,45.668983",
     "geom:latitude":45.668983,
     "geom:longitude":12.243559,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Fra Giocondo 25; Treviso; 31100",
     "sg:city":"Treviso",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186026495,
-    "wof:lastmodified":1449051950,
+    "wof:lastmodified":1466294392,
     "wof:name":"Cassa Di Risparmio, Delle Provincie Lombarde Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.243559,45.668983,12.243559,45.668983],
+  "bbox": [
+    12.243559,
+    45.668983,
+    12.243559,
+    45.668983
+],
   "geometry": {"coordinates":[12.243559,45.668983],"type":"Point"}
 }

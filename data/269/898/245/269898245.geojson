@@ -2,13 +2,14 @@
   "id": 269898245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.989753,45.78566,11.989753,45.78566",
     "geom:latitude":45.78566,
     "geom:longitude":11.989753,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Moresca 31031 Caerano Di San Marco",
     "sg:city":"Caerano di San Marco",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269898245,
-    "wof:lastmodified":1449036096,
+    "wof:lastmodified":1466294115,
     "wof:name":"Sangiorgio Fertilizzanti (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [11.989753,45.78566,11.989753,45.78566],
+  "bbox": [
+    11.989753,
+    45.78566,
+    11.989753,
+    45.78566
+],
   "geometry": {"coordinates":[11.989753,45.78566],"type":"Point"}
 }

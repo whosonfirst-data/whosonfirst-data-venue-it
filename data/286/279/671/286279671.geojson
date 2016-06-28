@@ -2,13 +2,14 @@
   "id": 286279671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.036106,45.625679,9.036106,45.625679",
     "geom:latitude":45.625679,
     "geom:longitude":9.036106,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Corso Italia 21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286279671,
-    "wof:lastmodified":1449016542,
+    "wof:lastmodified":1466289663,
     "wof:name":"Ilford Imaging Italia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.036106,45.625679,9.036106,45.625679],
+  "bbox": [
+    9.036106,
+    45.625679,
+    9.036106,
+    45.625679
+],
   "geometry": {"coordinates":[9.036106,45.625679],"type":"Point"}
 }

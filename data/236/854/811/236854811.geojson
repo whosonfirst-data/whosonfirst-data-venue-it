@@ -2,13 +2,14 @@
   "id": 236854811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.801002,44.120438,9.801002,44.120438",
     "geom:latitude":44.120438,
     "geom:longitude":9.801002,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19123 La Spezia",
     "sg:classifiers":[],
     "sg:orig_category":"Gioiellerie E Oreficerie - Vendita Al Dettaglio",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236854811,
-    "wof:lastmodified":1449005102,
+    "wof:lastmodified":1466297108,
     "wof:name":"Gioielleria Piagneri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.801002,44.120438,9.801002,44.120438],
+  "bbox": [
+    9.801002,
+    44.120438,
+    9.801002,
+    44.120438
+],
   "geometry": {"coordinates":[9.801002,44.120438],"type":"Point"}
 }

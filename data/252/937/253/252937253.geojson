@@ -2,13 +2,14 @@
   "id": 252937253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.199844,45.414669,10.199844,45.414669",
     "geom:latitude":45.414669,
     "geom:longitude":10.199844,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25021 Bagnolo Mella",
     "sg:city":"Bagnolo Mella",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252937253,
-    "wof:lastmodified":1449005627,
+    "wof:lastmodified":1466291414,
     "wof:name":"Troticoltura Marella Di Esposito Scaglia Tomasoni S.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.199844,45.414669,10.199844,45.414669],
+  "bbox": [
+    10.199844,
+    45.414669,
+    10.199844,
+    45.414669
+],
   "geometry": {"coordinates":[10.199844,45.414669],"type":"Point"}
 }

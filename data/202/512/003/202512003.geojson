@@ -2,13 +2,14 @@
   "id": 202512003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.571491,45.694046,9.571491,45.694046",
     "geom:latitude":45.694046,
     "geom:longitude":9.571491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Presezzo",
     "sg:city":"Presezzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202512003,
-    "wof:lastmodified":1449061947,
+    "wof:lastmodified":1466289089,
     "wof:name":"Seriflock Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.571491,45.694046,9.571491,45.694046],
+  "bbox": [
+    9.571491,
+    45.694046,
+    9.571491,
+    45.694046
+],
   "geometry": {"coordinates":[9.571491,45.694046],"type":"Point"}
 }

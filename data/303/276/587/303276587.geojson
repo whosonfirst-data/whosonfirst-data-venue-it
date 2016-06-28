@@ -2,13 +2,14 @@
   "id": 303276587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.305193,43.34618,11.305193,43.34618",
     "geom:latitude":43.34618,
     "geom:longitude":11.305193,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Sicilia 53035 Monteriggioni",
     "sg:city":"Monteriggioni",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303276587,
-    "wof:lastmodified":1448998207,
+    "wof:lastmodified":1466293939,
     "wof:name":"S.i.v.a.t. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [11.305193,43.34618,11.305193,43.34618],
+  "bbox": [
+    11.305193,
+    43.34618,
+    11.305193,
+    43.34618
+],
   "geometry": {"coordinates":[11.305193,43.34618],"type":"Point"}
 }

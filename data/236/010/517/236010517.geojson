@@ -2,13 +2,14 @@
   "id": 236010517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.238148,46.055527,13.238148,46.055527",
     "geom:latitude":46.055527,
     "geom:longitude":13.238148,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33100 Udine",
     "sg:city":"Udine",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236010517,
-    "wof:lastmodified":1449003759,
+    "wof:lastmodified":1466288991,
     "wof:name":"Friul Giotto A. V. Distribuzioni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [13.238148,46.055527,13.238148,46.055527],
+  "bbox": [
+    13.238148,
+    46.055527,
+    13.238148,
+    46.055527
+],
   "geometry": {"coordinates":[13.238148,46.055527],"type":"Point"}
 }

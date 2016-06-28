@@ -2,13 +2,14 @@
   "id": 253358701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.510476,45.705276,11.510476,45.705276",
     "geom:latitude":45.705276,
     "geom:longitude":11.510476,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, V. Dell'artigianato 36042 Breganze",
     "sg:city":"Breganze",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253358701,
-    "wof:lastmodified":1449064068,
+    "wof:lastmodified":1466292949,
     "wof:name":"La Brenta Sugheri Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [11.510476,45.705276,11.510476,45.705276],
+  "bbox": [
+    11.510476,
+    45.705276,
+    11.510476,
+    45.705276
+],
   "geometry": {"coordinates":[11.510476,45.705276],"type":"Point"}
 }

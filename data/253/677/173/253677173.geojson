@@ -2,13 +2,14 @@
   "id": 253677173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.035784,45.405384,12.035784,45.405384",
     "geom:latitude":45.405384,
     "geom:longitude":12.035784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30039 Stra",
     "sg:city":"Stra",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253677173,
-    "wof:lastmodified":1449063888,
+    "wof:lastmodified":1466296669,
     "wof:name":"Bottazzo E Cinetto Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.035784,45.405384,12.035784,45.405384],
+  "bbox": [
+    12.035784,
+    45.405384,
+    12.035784,
+    45.405384
+],
   "geometry": {"coordinates":[12.035784,45.405384],"type":"Point"}
 }

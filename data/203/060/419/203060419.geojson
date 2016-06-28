@@ -2,13 +2,14 @@
   "id": 203060419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.523016,45.841671,9.523016,45.841671",
     "geom:latitude":45.841671,
     "geom:longitude":9.523016,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Locatello",
     "sg:city":"Locatello",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203060419,
-    "wof:lastmodified":1449026692,
+    "wof:lastmodified":1466295446,
     "wof:name":"Rota Armando",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.523016,45.841671,9.523016,45.841671],
+  "bbox": [
+    9.523016,
+    45.841671,
+    9.523016,
+    45.841671
+],
   "geometry": {"coordinates":[9.523016,45.841671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253251455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.697373,45.076157,7.697373,45.076157",
     "geom:latitude":45.076157,
     "geom:longitude":7.697373,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10153 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253251455,
-    "wof:lastmodified":1449062877,
+    "wof:lastmodified":1466291583,
     "wof:name":"Caselli Gaudenzia",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.697373,45.076157,7.697373,45.076157],
+  "bbox": [
+    7.697373,
+    45.076157,
+    7.697373,
+    45.076157
+],
   "geometry": {"coordinates":[7.697373,45.076157],"type":"Point"}
 }

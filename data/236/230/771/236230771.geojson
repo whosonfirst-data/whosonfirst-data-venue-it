@@ -2,13 +2,14 @@
   "id": 236230771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.012893,40.120876,9.012893,40.120876",
     "geom:latitude":40.120876,
     "geom:longitude":9.012893,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"07020 Baja Sardinia",
     "sg:classifiers":[],
     "sg:orig_category":"Nautica. Servizi Per Lo Sport E Il Tempo Libero. Servizi Al Turismo. Servizi Ausiliari Dei Mezzi Di Trasporto",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236230771,
-    "wof:lastmodified":1449004221,
+    "wof:lastmodified":1466291215,
     "wof:name":"Veliero D'epoca Valentina Di Manca Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.012893,40.120876,9.012893,40.120876],
+  "bbox": [
+    9.012893,
+    40.120876,
+    9.012893,
+    40.120876
+],
   "geometry": {"coordinates":[9.012893,40.120876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269657501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.929332,44.400768,8.929332,44.400768",
     "geom:latitude":44.400768,
     "geom:longitude":8.929332,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16128 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269657501,
-    "wof:lastmodified":1449036415,
+    "wof:lastmodified":1466291050,
     "wof:name":"International Letterfix Srl",
     "wof:parent_id":85862663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.929332,44.400768,8.929332,44.400768],
+  "bbox": [
+    8.929332,
+    44.400768,
+    8.929332,
+    44.400768
+],
   "geometry": {"coordinates":[8.929332,44.400768],"type":"Point"}
 }

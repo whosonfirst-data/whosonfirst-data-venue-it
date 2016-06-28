@@ -2,13 +2,14 @@
   "id": 320561637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.790322,43.715023,10.790322,43.715023",
     "geom:latitude":43.715023,
     "geom:longitude":10.790322,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56029 Santa Croce Sull'arno",
     "sg:classifiers":[],
     "sg:orig_category":"Manufacturers: Prefabbricati",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320561637,
-    "wof:lastmodified":1449013906,
+    "wof:lastmodified":1466297722,
     "wof:name":"Gbp Di Messerini Gina & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.790322,43.715023,10.790322,43.715023],
+  "bbox": [
+    10.790322,
+    43.715023,
+    10.790322,
+    43.715023
+],
   "geometry": {"coordinates":[10.790322,43.715023],"type":"Point"}
 }

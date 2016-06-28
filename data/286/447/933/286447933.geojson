@@ -2,13 +2,14 @@
   "id": 286447933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.487312,41.017525,14.487312,41.017525",
     "geom:latitude":41.017525,
     "geom:longitude":14.487312,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Circumvallazione 81027 San Felice A Cancello",
     "sg:city":"San Felice a Cancello",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286447933,
-    "wof:lastmodified":1449017256,
+    "wof:lastmodified":1466292101,
     "wof:name":"Albemar Confezioni Di Vincenzo Di Marzo & C. (s.d.f.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [14.487312,41.017525,14.487312,41.017525],
+  "bbox": [
+    14.487312,
+    41.017525,
+    14.487312,
+    41.017525
+],
   "geometry": {"coordinates":[14.487312,41.017525],"type":"Point"}
 }

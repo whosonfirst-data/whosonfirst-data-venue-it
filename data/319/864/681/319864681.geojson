@@ -2,13 +2,14 @@
   "id": 319864681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.519011,45.008907,7.519011,45.008907",
     "geom:latitude":45.008907,
     "geom:longitude":7.519011,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marco Polo 23 10090 Bruino",
     "sg:city":"Bruino",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319864681,
-    "wof:lastmodified":1449024888,
+    "wof:lastmodified":1466293038,
     "wof:name":"Ico S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automation"
     ]
 },
-  "bbox": [7.519011,45.008907,7.519011,45.008907],
+  "bbox": [
+    7.519011,
+    45.008907,
+    7.519011,
+    45.008907
+],
   "geometry": {"coordinates":[7.519011,45.008907],"type":"Point"}
 }

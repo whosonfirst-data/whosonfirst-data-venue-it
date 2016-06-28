@@ -2,13 +2,14 @@
   "id": 236532989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.264684,45.517155,9.264684,45.517155",
     "geom:latitude":45.517155,
     "geom:longitude":9.264684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Via Doria Andrea 20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236532989,
-    "wof:lastmodified":1449002621,
+    "wof:lastmodified":1466294400,
     "wof:name":"Centrufficio Loreto (s.p.a.)",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.264684,45.517155,9.264684,45.517155],
+  "bbox": [
+    9.264684,
+    45.517155,
+    9.264684,
+    45.517155
+],
   "geometry": {"coordinates":[9.264684,45.517155],"type":"Point"}
 }

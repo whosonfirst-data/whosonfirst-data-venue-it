@@ -2,13 +2,14 @@
   "id": 287154383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.980835,45.523521,11.980835,45.523521",
     "geom:latitude":45.523521,
     "geom:longitude":11.980835,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Villanova Di Camposampiero",
     "sg:city":"Villanova",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287154383,
-    "wof:lastmodified":1449001599,
+    "wof:lastmodified":1466291635,
     "wof:name":"Ne.ce (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.980835,45.523521,11.980835,45.523521],
+  "bbox": [
+    11.980835,
+    45.523521,
+    11.980835,
+    45.523521
+],
   "geometry": {"coordinates":[11.980835,45.523521],"type":"Point"}
 }

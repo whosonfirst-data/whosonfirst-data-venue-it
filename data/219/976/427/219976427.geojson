@@ -2,13 +2,14 @@
   "id": 219976427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.220812,45.489414,9.220812,45.489414",
     "geom:latitude":45.489414,
     "geom:longitude":9.220812,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219976427,
-    "wof:lastmodified":1449071845,
+    "wof:lastmodified":1466296103,
     "wof:name":"S.a.t. Telematica Srl",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.220812,45.489414,9.220812,45.489414],
+  "bbox": [
+    9.220812,
+    45.489414,
+    9.220812,
+    45.489414
+],
   "geometry": {"coordinates":[9.220812,45.489414],"type":"Point"}
 }

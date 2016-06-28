@@ -2,13 +2,14 @@
   "id": 253480189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.692804,45.134525,7.692804,45.134525",
     "geom:latitude":45.134525,
     "geom:longitude":7.692804,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10071 Borgaro Torinese",
     "sg:city":"Borgaro Torinese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253480189,
-    "wof:lastmodified":1449063791,
+    "wof:lastmodified":1466294386,
     "wof:name":"C.m.a. Sas",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.692804,45.134525,7.692804,45.134525],
+  "bbox": [
+    7.692804,
+    45.134525,
+    7.692804,
+    45.134525
+],
   "geometry": {"coordinates":[7.692804,45.134525],"type":"Point"}
 }

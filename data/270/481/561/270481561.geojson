@@ -2,13 +2,14 @@
   "id": 270481561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.806989,45.522465,11.806989,45.522465",
     "geom:latitude":45.522465,
     "geom:longitude":11.806989,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Argine 26 35010 Curtarolo",
     "sg:city":"Curtarolo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270481561,
-    "wof:lastmodified":1449010776,
+    "wof:lastmodified":1466294839,
     "wof:name":"Metalform Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "shipbuilding"
     ]
 },
-  "bbox": [11.806989,45.522465,11.806989,45.522465],
+  "bbox": [
+    11.806989,
+    45.522465,
+    11.806989,
+    45.522465
+],
   "geometry": {"coordinates":[11.806989,45.522465],"type":"Point"}
 }

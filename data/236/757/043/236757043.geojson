@@ -2,13 +2,14 @@
   "id": 236757043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.182778,45.223866,9.182778,45.223866",
     "geom:latitude":45.223866,
     "geom:longitude":9.182778,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236757043,
-    "wof:lastmodified":1449003527,
+    "wof:lastmodified":1466296341,
     "wof:name":"Studio Geologico Associato Dr. Geol. G. Nascimbene - Dr. Geol. O. Ragni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.182778,45.223866,9.182778,45.223866],
+  "bbox": [
+    9.182778,
+    45.223866,
+    9.182778,
+    45.223866
+],
   "geometry": {"coordinates":[9.182778,45.223866],"type":"Point"}
 }

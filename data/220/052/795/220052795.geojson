@@ -2,13 +2,14 @@
   "id": 220052795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.399348,44.496525,11.399348,44.496525",
     "geom:latitude":44.496525,
     "geom:longitude":11.399348,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220052795,
-    "wof:lastmodified":1449074383,
+    "wof:lastmodified":1466295265,
     "wof:name":"Gamba Service Spa",
     "wof:parent_id":85904589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.399348,44.496525,11.399348,44.496525],
+  "bbox": [
+    11.399348,
+    44.496525,
+    11.399348,
+    44.496525
+],
   "geometry": {"coordinates":[11.399348,44.496525],"type":"Point"}
 }

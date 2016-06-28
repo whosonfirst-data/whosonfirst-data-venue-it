@@ -2,13 +2,14 @@
   "id": 286935599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.773405,45.653751,8.773405,45.653751",
     "geom:latitude":45.653751,
     "geom:longitude":8.773405,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21010 Cardano Al Campo",
     "sg:city":"Cardano al Campo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286935599,
-    "wof:lastmodified":1449017594,
+    "wof:lastmodified":1466297362,
     "wof:name":"Mafer Snc Di Ferrazzi Mario & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.773405,45.653751,8.773405,45.653751],
+  "bbox": [
+    8.773405,
+    45.653751,
+    8.773405,
+    45.653751
+],
   "geometry": {"coordinates":[8.773405,45.653751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320615321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.394213,46.247593,9.394213,46.247593",
     "geom:latitude":46.247593,
     "geom:longitude":9.394213,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trivulzia 1 23027 Era Samolaco",
     "sg:city":"Era",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320615321,
-    "wof:lastmodified":1449012449,
+    "wof:lastmodified":1466297825,
     "wof:name":"S.v.i. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "marble"
     ]
 },
-  "bbox": [9.394213,46.247593,9.394213,46.247593],
+  "bbox": [
+    9.394213,
+    46.247593,
+    9.394213,
+    46.247593
+],
   "geometry": {"coordinates":[9.394213,46.247593],"type":"Point"}
 }

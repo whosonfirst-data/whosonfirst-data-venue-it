@@ -2,13 +2,14 @@
   "id": 253313837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.893841,43.908989,12.893841,43.908989",
     "geom:latitude":43.908989,
     "geom:longitude":12.893841,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253313837,
-    "wof:lastmodified":1449062909,
+    "wof:lastmodified":1466292382,
     "wof:name":"Gili Roberta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.893841,43.908989,12.893841,43.908989],
+  "bbox": [
+    12.893841,
+    43.908989,
+    12.893841,
+    43.908989
+],
   "geometry": {"coordinates":[12.893841,43.908989],"type":"Point"}
 }

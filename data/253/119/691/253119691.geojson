@@ -2,13 +2,14 @@
   "id": 253119691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.795433,44.480099,7.795433,44.480099",
     "geom:latitude":44.480099,
     "geom:longitude":7.795433,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12061 Carru'",
     "sg:classifiers":[],
     "sg:orig_category":"Acciaierie E Fonderie",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253119691,
-    "wof:lastmodified":1449064946,
+    "wof:lastmodified":1466290155,
     "wof:name":"A.c.s.a. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.795433,44.480099,7.795433,44.480099],
+  "bbox": [
+    7.795433,
+    44.480099,
+    7.795433,
+    44.480099
+],
   "geometry": {"coordinates":[7.795433,44.480099],"type":"Point"}
 }

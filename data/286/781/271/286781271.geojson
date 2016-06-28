@@ -2,13 +2,14 @@
   "id": 286781271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.411222,45.842445,13.411222,45.842445",
     "geom:latitude":45.842445,
     "geom:longitude":13.411222,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Aquileia 34076 Romans D'isonzo",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":286781271,
-    "wof:lastmodified":1449015717,
+    "wof:lastmodified":1466296354,
     "wof:name":"Clampco Sistemi (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [13.411222,45.842445,13.411222,45.842445],
+  "bbox": [
+    13.411222,
+    45.842445,
+    13.411222,
+    45.842445
+],
   "geometry": {"coordinates":[13.411222,45.842445],"type":"Point"}
 }

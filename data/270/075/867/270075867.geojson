@@ -2,13 +2,14 @@
   "id": 270075867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.993341,45.420712,11.993341,45.420712",
     "geom:latitude":45.420712,
     "geom:longitude":11.993341,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Vigonza",
     "sg:city":"Vigonza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270075867,
-    "wof:lastmodified":1449009969,
+    "wof:lastmodified":1466289886,
     "wof:name":"Tranceria Ta.ma.al. Di Tacchetto Graziano & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.993341,45.420712,11.993341,45.420712],
+  "bbox": [
+    11.993341,
+    45.420712,
+    11.993341,
+    45.420712
+],
   "geometry": {"coordinates":[11.993341,45.420712],"type":"Point"}
 }

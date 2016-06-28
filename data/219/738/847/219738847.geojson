@@ -2,13 +2,14 @@
   "id": 219738847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.891518,44.109531,9.891518,44.109531",
     "geom:latitude":44.109531,
     "geom:longitude":9.891518,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Groppino 19021 Arcola",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219738847,
-    "wof:lastmodified":1449072987,
+    "wof:lastmodified":1466293660,
     "wof:name":"C.s.i. Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [9.891518,44.109531,9.891518,44.109531],
+  "bbox": [
+    9.891518,
+    44.109531,
+    9.891518,
+    44.109531
+],
   "geometry": {"coordinates":[9.891518,44.109531],"type":"Point"}
 }

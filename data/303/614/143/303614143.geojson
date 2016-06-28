@@ -2,13 +2,14 @@
   "id": 303614143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.955379,45.421867,10.955379,45.421867",
     "geom:latitude":45.421867,
     "geom:longitude":10.955379,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37137 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303614143,
-    "wof:lastmodified":1449000636,
+    "wof:lastmodified":1466297366,
     "wof:name":"Massignan Srl",
     "wof:parent_id":85905035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.955379,45.421867,10.955379,45.421867],
+  "bbox": [
+    10.955379,
+    45.421867,
+    10.955379,
+    45.421867
+],
   "geometry": {"coordinates":[10.955379,45.421867],"type":"Point"}
 }

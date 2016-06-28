@@ -2,13 +2,14 @@
   "id": 202618619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.380276,44.120651,11.380276,44.120651",
     "geom:latitude":44.120651,
     "geom:longitude":11.380276,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50133 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202618619,
-    "wof:lastmodified":1449061681,
+    "wof:lastmodified":1466290169,
     "wof:name":"Davoli Srl Il Perseo Agenzia Viaggi E Turismo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.380276,44.120651,11.380276,44.120651],
+  "bbox": [
+    11.380276,
+    44.120651,
+    11.380276,
+    44.120651
+],
   "geometry": {"coordinates":[11.380276,44.120651],"type":"Point"}
 }

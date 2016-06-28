@@ -2,13 +2,14 @@
   "id": 253092217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.493095,44.68137,11.493095,44.68137",
     "geom:latitude":44.68137,
     "geom:longitude":11.493095,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Palazzino 11 40051 Altedo",
     "sg:city":"Altedo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253092217,
-    "wof:lastmodified":1449065211,
+    "wof:lastmodified":1466289892,
     "wof:name":"Nuova Mapa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.493095,44.68137,11.493095,44.68137],
+  "bbox": [
+    11.493095,
+    44.68137,
+    11.493095,
+    44.68137
+],
   "geometry": {"coordinates":[11.493095,44.68137],"type":"Point"}
 }

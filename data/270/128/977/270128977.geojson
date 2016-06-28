@@ -2,13 +2,14 @@
   "id": 270128977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.551059,45.590195,10.551059,45.590195",
     "geom:latitude":45.590195,
     "geom:longitude":10.551059,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25010 San Felice Del Benaco",
     "sg:city":"San Felice del Benaco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270128977,
-    "wof:lastmodified":1449009585,
+    "wof:lastmodified":1466290523,
     "wof:name":"Villaggio Turistico Internazionale Eden Di Mazzoldi S. & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.551059,45.590195,10.551059,45.590195],
+  "bbox": [
+    10.551059,
+    45.590195,
+    10.551059,
+    45.590195
+],
   "geometry": {"coordinates":[10.551059,45.590195],"type":"Point"}
 }

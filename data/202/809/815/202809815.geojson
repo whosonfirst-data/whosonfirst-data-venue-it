@@ -2,13 +2,14 @@
   "id": 202809815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.277389,40.847008,14.277389,40.847008",
     "geom:latitude":40.847008,
     "geom:longitude":14.277389,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80142 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202809815,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466292299,
     "wof:name":"Gondrand Spa - Filiale Napoli",
     "wof:parent_id":85904825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.277389,40.847008,14.277389,40.847008],
+  "bbox": [
+    14.277389,
+    40.847008,
+    14.277389,
+    40.847008
+],
   "geometry": {"coordinates":[14.277389,40.847008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219702873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.522207,45.693104,8.522207,45.693104",
     "geom:latitude":45.693104,
     "geom:longitude":8.522207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28010 Fontaneto D'agogna",
     "sg:classifiers":[],
     "sg:orig_category":"Ristorazione E Locali Pubblici Affini. Ristoranti Ed Esercizi Affini. Servizi Ausiliari Di Ristorazione E Di Intrattenimento",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219702873,
-    "wof:lastmodified":1449072140,
+    "wof:lastmodified":1466293325,
     "wof:name":"Hostaria Della Macina Di Miglio Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.522207,45.693104,8.522207,45.693104],
+  "bbox": [
+    8.522207,
+    45.693104,
+    8.522207,
+    45.693104
+],
   "geometry": {"coordinates":[8.522207,45.693104],"type":"Point"}
 }

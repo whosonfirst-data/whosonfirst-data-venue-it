@@ -2,13 +2,14 @@
   "id": 220071571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.140778,39.236912,9.140778,39.236912",
     "geom:latitude":39.236912,
     "geom:longitude":9.140778,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09131 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220071571,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1466295617,
     "wof:name":"Enrico Gattermayer Sas",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [9.140778,39.236912,9.140778,39.236912],
+  "bbox": [
+    9.140778,
+    39.236912,
+    9.140778,
+    39.236912
+],
   "geometry": {"coordinates":[9.140778,39.236912],"type":"Point"}
 }

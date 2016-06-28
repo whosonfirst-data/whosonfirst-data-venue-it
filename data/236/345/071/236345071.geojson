@@ -2,13 +2,14 @@
   "id": 236345071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.180142,45.452549,9.180142,45.452549",
     "geom:latitude":45.452549,
     "geom:longitude":9.180142,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236345071,
-    "wof:lastmodified":1449004936,
+    "wof:lastmodified":1466292401,
     "wof:name":"Missaglia Felice",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.180142,45.452549,9.180142,45.452549],
+  "bbox": [
+    9.180142,
+    45.452549,
+    9.180142,
+    45.452549
+],
   "geometry": {"coordinates":[9.180142,45.452549],"type":"Point"}
 }

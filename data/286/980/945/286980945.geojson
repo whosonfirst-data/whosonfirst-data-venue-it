@@ -2,13 +2,14 @@
   "id": 286980945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.242072,45.666286,12.242072,45.666286",
     "geom:latitude":45.666286,
     "geom:longitude":12.242072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31010 Castello Roganzuolo Di San Fio",
     "sg:classifiers":[],
     "sg:orig_category":"Tessuti E Stoffe. Tessuti Arredamento, Tende E Tappeti",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286980945,
-    "wof:lastmodified":1449015372,
+    "wof:lastmodified":1466297421,
     "wof:name":"Rosada Arredamenti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.242072,45.666286,12.242072,45.666286],
+  "bbox": [
+    12.242072,
+    45.666286,
+    12.242072,
+    45.666286
+],
   "geometry": {"coordinates":[12.242072,45.666286],"type":"Point"}
 }

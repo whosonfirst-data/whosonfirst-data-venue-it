@@ -2,13 +2,14 @@
   "id": 287023391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.763115,41.145016,16.763115,41.145016",
     "geom:latitude":41.145016,
     "geom:longitude":16.763115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Modugno 70032 Bitonto",
     "sg:city":"Bitonto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287023391,
-    "wof:lastmodified":1449001498,
+    "wof:lastmodified":1466289889,
     "wof:name":"Sapa (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [16.763115,41.145016,16.763115,41.145016],
+  "bbox": [
+    16.763115,
+    41.145016,
+    16.763115,
+    41.145016
+],
   "geometry": {"coordinates":[16.763115,41.145016],"type":"Point"}
 }

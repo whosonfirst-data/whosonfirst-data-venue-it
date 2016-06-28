@@ -2,13 +2,14 @@
   "id": 286428179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.624027,44.91605,8.624027,44.91605",
     "geom:latitude":44.91605,
     "geom:longitude":8.624027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15100 Alessandria",
     "sg:city":"Alessandria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286428179,
-    "wof:lastmodified":1449017893,
+    "wof:lastmodified":1466291854,
     "wof:name":"Villavecchia Bruno Dei F. Lli Villavecchia & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.624027,44.91605,8.624027,44.91605],
+  "bbox": [
+    8.624027,
+    44.91605,
+    8.624027,
+    44.91605
+],
   "geometry": {"coordinates":[8.624027,44.91605],"type":"Point"}
 }

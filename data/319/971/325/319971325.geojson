@@ -2,13 +2,14 @@
   "id": 319971325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.516633,45.099113,7.516633,45.099113",
     "geom:latitude":45.099113,
     "geom:longitude":7.516633,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10091 Alpignano",
     "sg:city":"Alpignano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319971325,
-    "wof:lastmodified":1449024482,
+    "wof:lastmodified":1466294435,
     "wof:name":"Autoagenzia Alpignano Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.516633,45.099113,7.516633,45.099113],
+  "bbox": [
+    7.516633,
+    45.099113,
+    7.516633,
+    45.099113
+],
   "geometry": {"coordinates":[7.516633,45.099113],"type":"Point"}
 }

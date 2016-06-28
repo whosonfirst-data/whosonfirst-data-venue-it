@@ -2,13 +2,14 @@
   "id": 303717841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.174015,40.353291,18.174015,40.353291",
     "geom:latitude":40.353291,
     "geom:longitude":18.174015,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73035 Surano",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Bagno Ed Idrosanitari. Complementi Di Arredamento. Vetro: Prodotti E Lavorazioni",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303717841,
-    "wof:lastmodified":1448998182,
+    "wof:lastmodified":1466297643,
     "wof:name":"Indino Mobili Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.174015,40.353291,18.174015,40.353291],
+  "bbox": [
+    18.174015,
+    40.353291,
+    18.174015,
+    40.353291
+],
   "geometry": {"coordinates":[18.174015,40.353291],"type":"Point"}
 }

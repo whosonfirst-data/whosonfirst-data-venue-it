@@ -2,13 +2,14 @@
   "id": 320766931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.348524,44.090237,12.348524,44.090237",
     "geom:latitude":44.090237,
     "geom:longitude":12.348524,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47020 Longiano",
     "sg:city":"Longiano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320766931,
-    "wof:lastmodified":1449011213,
+    "wof:lastmodified":1466298116,
     "wof:name":"S.i.s. Mineraria Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.348524,44.090237,12.348524,44.090237],
+  "bbox": [
+    12.348524,
+    44.090237,
+    12.348524,
+    44.090237
+],
   "geometry": {"coordinates":[12.348524,44.090237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236544553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.330681,46.003376,13.330681,46.003376",
     "geom:latitude":46.003376,
     "geom:longitude":13.330681,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Marconi Guglielmo 33042 Buttrio",
     "sg:city":"Buttrio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236544553,
-    "wof:lastmodified":1449005242,
+    "wof:lastmodified":1466294515,
     "wof:name":"B. E D. Di Bortolossi F. Decorte D. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.330681,46.003376,13.330681,46.003376],
+  "bbox": [
+    13.330681,
+    46.003376,
+    13.330681,
+    46.003376
+],
   "geometry": {"coordinates":[13.330681,46.003376],"type":"Point"}
 }

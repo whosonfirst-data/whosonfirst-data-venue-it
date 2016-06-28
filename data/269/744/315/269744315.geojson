@@ -2,13 +2,14 @@
   "id": 269744315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.352901,41.879391,12.352901,41.879391",
     "geom:latitude":41.879391,
     "geom:longitude":12.352901,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00166 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269744315,
-    "wof:lastmodified":1449037007,
+    "wof:lastmodified":1466292339,
     "wof:name":"Global Service 2001 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.352901,41.879391,12.352901,41.879391],
+  "bbox": [
+    12.352901,
+    41.879391,
+    12.352901,
+    41.879391
+],
   "geometry": {"coordinates":[12.352901,41.879391],"type":"Point"}
 }

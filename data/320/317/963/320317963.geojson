@@ -2,13 +2,14 @@
   "id": 320317963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.103864,39.235165,9.103864,39.235165",
     "geom:latitude":39.235165,
     "geom:longitude":9.103864,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09122 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320317963,
-    "wof:lastmodified":1449012957,
+    "wof:lastmodified":1466296850,
     "wof:name":"Loddo Francesco",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.103864,39.235165,9.103864,39.235165],
+  "bbox": [
+    9.103864,
+    39.235165,
+    9.103864,
+    39.235165
+],
   "geometry": {"coordinates":[9.103864,39.235165],"type":"Point"}
 }

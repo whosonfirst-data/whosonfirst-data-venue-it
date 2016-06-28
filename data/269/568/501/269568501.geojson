@@ -2,13 +2,14 @@
   "id": 269568501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.166289,46.140797,13.166289,46.140797",
     "geom:latitude":46.140797,
     "geom:longitude":13.166289,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33048 San Giovanni Natisone",
     "sg:classifiers":[],
     "sg:orig_category":"Legname Da Lavoro",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269568501,
-    "wof:lastmodified":1449036088,
+    "wof:lastmodified":1466289942,
     "wof:name":"Iws Srl International Wood Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.166289,46.140797,13.166289,46.140797],
+  "bbox": [
+    13.166289,
+    46.140797,
+    13.166289,
+    46.140797
+],
   "geometry": {"coordinates":[13.166289,46.140797],"type":"Point"}
 }

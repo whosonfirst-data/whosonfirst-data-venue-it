@@ -2,13 +2,14 @@
   "id": 252840977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.765878,45.130646,9.765878,45.130646",
     "geom:latitude":45.130646,
     "geom:longitude":9.765878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26846 Corno Giovine",
     "sg:city":"Corno Giovine",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252840977,
-    "wof:lastmodified":1449006267,
+    "wof:lastmodified":1466290402,
     "wof:name":"Re.ga. Sport Di Passerini Renato E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.765878,45.130646,9.765878,45.130646],
+  "bbox": [
+    9.765878,
+    45.130646,
+    9.765878,
+    45.130646
+],
   "geometry": {"coordinates":[9.765878,45.130646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253529051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.242072,45.666286,12.242072,45.666286",
     "geom:latitude":45.666286,
     "geom:longitude":12.242072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Mercato 4 31010 San Michele Di Piave",
     "sg:city":"San Michele di Piave",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253529051,
-    "wof:lastmodified":1449064116,
+    "wof:lastmodified":1466294988,
     "wof:name":"Salcon Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholstered"
     ]
 },
-  "bbox": [12.242072,45.666286,12.242072,45.666286],
+  "bbox": [
+    12.242072,
+    45.666286,
+    12.242072,
+    45.666286
+],
   "geometry": {"coordinates":[12.242072,45.666286],"type":"Point"}
 }

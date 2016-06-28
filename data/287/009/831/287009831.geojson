@@ -2,13 +2,14 @@
   "id": 287009831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.845953,45.824806,8.845953,45.824806",
     "geom:latitude":45.824806,
     "geom:longitude":8.845953,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Dalmazia 21100 Varese",
     "sg:city":"Varese",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287009831,
-    "wof:lastmodified":1449001581,
+    "wof:lastmodified":1466289732,
     "wof:name":"Gmv Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [8.845953,45.824806,8.845953,45.824806],
+  "bbox": [
+    8.845953,
+    45.824806,
+    8.845953,
+    45.824806
+],
   "geometry": {"coordinates":[8.845953,45.824806],"type":"Point"}
 }

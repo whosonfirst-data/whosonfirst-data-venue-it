@@ -2,13 +2,14 @@
   "id": 287161455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.644246,45.600647,8.644246,45.600647",
     "geom:latitude":45.600647,
     "geom:longitude":8.644246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28047 Oleggio",
     "sg:city":"Oleggio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287161455,
-    "wof:lastmodified":1449001020,
+    "wof:lastmodified":1466291730,
     "wof:name":"Saic 2000 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.644246,45.600647,8.644246,45.600647],
+  "bbox": [
+    8.644246,
+    45.600647,
+    8.644246,
+    45.600647
+],
   "geometry": {"coordinates":[8.644246,45.600647],"type":"Point"}
 }

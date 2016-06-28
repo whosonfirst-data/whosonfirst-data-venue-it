@@ -2,13 +2,14 @@
   "id": 303062425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.201734,43.843201,11.201734,43.843201",
     "geom:latitude":43.843201,
     "geom:longitude":11.201734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45/49/int., V. L. Biancalani 50019 Sesto Fiorentino",
     "sg:city":"Sesto Fiorentino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303062425,
-    "wof:lastmodified":1449000388,
+    "wof:lastmodified":1466291142,
     "wof:name":"Illuminal Snc",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.201734,43.843201,11.201734,43.843201],
+  "bbox": [
+    11.201734,
+    43.843201,
+    11.201734,
+    43.843201
+],
   "geometry": {"coordinates":[11.201734,43.843201],"type":"Point"}
 }

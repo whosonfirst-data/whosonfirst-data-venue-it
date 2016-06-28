@@ -2,13 +2,14 @@
   "id": 304046561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.783502,45.826233,12.783502,45.826233",
     "geom:latitude":45.826233,
     "geom:longitude":12.783502,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30172 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304046561,
-    "wof:lastmodified":1449043927,
+    "wof:lastmodified":1466292803,
     "wof:name":"Movimento Consumatori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.783502,45.826233,12.783502,45.826233],
+  "bbox": [
+    12.783502,
+    45.826233,
+    12.783502,
+    45.826233
+],
   "geometry": {"coordinates":[12.783502,45.826233],"type":"Point"}
 }

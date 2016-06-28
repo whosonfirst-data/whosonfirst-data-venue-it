@@ -2,13 +2,14 @@
   "id": 303579373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.347445,40.086239,18.347445,40.086239",
     "geom:latitude":40.086239,
     "geom:longitude":18.347445,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73036 Muro Leccese",
     "sg:city":"Muro Leccese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303579373,
-    "wof:lastmodified":1448998894,
+    "wof:lastmodified":1466297105,
     "wof:name":"Panarese Gioielli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.347445,40.086239,18.347445,40.086239],
+  "bbox": [
+    18.347445,
+    40.086239,
+    18.347445,
+    40.086239
+],
   "geometry": {"coordinates":[18.347445,40.086239],"type":"Point"}
 }

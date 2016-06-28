@@ -2,13 +2,14 @@
   "id": 320393193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.50491,44.455536,11.50491,44.455536",
     "geom:latitude":44.455536,
     "geom:longitude":11.50491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40064 Ozzano Dell'emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Abbigliamento E Pelletterie. Macchine E Impianti Per Attivita' Commerciali Ed Artigianali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320393193,
-    "wof:lastmodified":1449012447,
+    "wof:lastmodified":1466297277,
     "wof:name":"T.e.a. Tecnologie Elettroniche Applicate Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.50491,44.455536,11.50491,44.455536],
+  "bbox": [
+    11.50491,
+    44.455536,
+    11.50491,
+    44.455536
+],
   "geometry": {"coordinates":[11.50491,44.455536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202746965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.362518,38.135246,13.362518,38.135246",
     "geom:latitude":38.135246,
     "geom:longitude":13.362518,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90010 Ustica",
     "sg:city":"Ustica",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202746965,
-    "wof:lastmodified":1449060089,
+    "wof:lastmodified":1466291556,
     "wof:name":"L'ancora Snc. Di Taranto Bartolo",
     "wof:parent_id":85904867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.362518,38.135246,13.362518,38.135246],
+  "bbox": [
+    13.362518,
+    38.135246,
+    13.362518,
+    38.135246
+],
   "geometry": {"coordinates":[13.362518,38.135246],"type":"Point"}
 }

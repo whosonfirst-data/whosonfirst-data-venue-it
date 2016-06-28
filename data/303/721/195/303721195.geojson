@@ -2,13 +2,14 @@
   "id": 303721195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.958521,44.406429,8.958521,44.406429",
     "geom:latitude":44.406429,
     "geom:longitude":8.958521,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16143 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":303721195,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1466297649,
     "wof:name":"Pattono (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.958521,44.406429,8.958521,44.406429],
+  "bbox": [
+    8.958521,
+    44.406429,
+    8.958521,
+    44.406429
+],
   "geometry": {"coordinates":[8.958521,44.406429],"type":"Point"}
 }

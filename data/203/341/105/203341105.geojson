@@ -2,13 +2,14 @@
   "id": 203341105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.572518,45.375648,9.572518,45.375648",
     "geom:latitude":45.375648,
     "geom:longitude":9.572518,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26010 Monte Cremasco",
     "sg:city":"Monte Cremasco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203341105,
-    "wof:lastmodified":1449026787,
+    "wof:lastmodified":1466291482,
     "wof:name":"Ciapetti Sergio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.572518,45.375648,9.572518,45.375648],
+  "bbox": [
+    9.572518,
+    45.375648,
+    9.572518,
+    45.375648
+],
   "geometry": {"coordinates":[9.572518,45.375648],"type":"Point"}
 }

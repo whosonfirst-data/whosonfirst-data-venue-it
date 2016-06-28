@@ -2,13 +2,14 @@
   "id": 303530495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.513431,45.794338,8.513431,45.794338",
     "geom:latitude":45.794338,
     "geom:longitude":8.513431,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28010 Corciago",
     "sg:classifiers":[],
     "sg:orig_category":"Apparecchiature Ed Attrezzature Meccaniche. Elettronica Industriale, Prodotti E Apparecchiature. Impianti, Attrezzature E Forniture Sanitarie Ed Ospedaliere. Apparecchi, Attrezzature E Forniture Per C",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303530495,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466296612,
     "wof:name":"A1t Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.513431,45.794338,8.513431,45.794338],
+  "bbox": [
+    8.513431,
+    45.794338,
+    8.513431,
+    45.794338
+],
   "geometry": {"coordinates":[8.513431,45.794338],"type":"Point"}
 }

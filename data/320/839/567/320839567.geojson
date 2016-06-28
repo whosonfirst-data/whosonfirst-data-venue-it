@@ -2,13 +2,14 @@
   "id": 320839567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.168372,45.475906,9.168372,45.475906",
     "geom:latitude":45.475906,
     "geom:longitude":9.168372,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20145 Magnago",
     "sg:classifiers":[],
     "sg:orig_category":"Materie Plastiche Lavorazione - Macchine",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320839567,
-    "wof:lastmodified":1449013497,
+    "wof:lastmodified":1466298235,
     "wof:name":"Elba Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.168372,45.475906,9.168372,45.475906],
+  "bbox": [
+    9.168372,
+    45.475906,
+    9.168372,
+    45.475906
+],
   "geometry": {"coordinates":[9.168372,45.475906],"type":"Point"}
 }

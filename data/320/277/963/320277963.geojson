@@ -2,13 +2,14 @@
   "id": 320277963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.514026,43.250877,13.514026,43.250877",
     "geom:latitude":43.250877,
     "geom:longitude":13.514026,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62014 Corridonia",
     "sg:city":"Corridonia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320277963,
-    "wof:lastmodified":1449011668,
+    "wof:lastmodified":1466296582,
     "wof:name":"Timbrificio Rossi Di Rossi Roberto & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.514026,43.250877,13.514026,43.250877],
+  "bbox": [
+    13.514026,
+    43.250877,
+    13.514026,
+    43.250877
+],
   "geometry": {"coordinates":[13.514026,43.250877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287237681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.086436,45.528339,9.086436,45.528339",
     "geom:latitude":45.528339,
     "geom:longitude":9.086436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"126, Via De Gasperi 20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287237681,
-    "wof:lastmodified":1449000691,
+    "wof:lastmodified":1466292773,
     "wof:name":"Rockwell Automation Srl",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.086436,45.528339,9.086436,45.528339],
+  "bbox": [
+    9.086436,
+    45.528339,
+    9.086436,
+    45.528339
+],
   "geometry": {"coordinates":[9.086436,45.528339],"type":"Point"}
 }

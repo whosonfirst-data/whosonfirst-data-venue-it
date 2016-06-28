@@ -2,13 +2,14 @@
   "id": 286610919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.793622,45.157051,10.793622,45.157051",
     "geom:latitude":45.157051,
     "geom:longitude":10.793622,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Orefici 46100 Mantova",
     "sg:city":"Mantova",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286610919,
-    "wof:lastmodified":1449018034,
+    "wof:lastmodified":1466294066,
     "wof:name":"Cast Di Marco Mazzoni & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [10.793622,45.157051,10.793622,45.157051],
+  "bbox": [
+    10.793622,
+    45.157051,
+    10.793622,
+    45.157051
+],
   "geometry": {"coordinates":[10.793622,45.157051],"type":"Point"}
 }

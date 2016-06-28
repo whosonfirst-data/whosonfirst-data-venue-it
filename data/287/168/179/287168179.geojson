@@ -2,13 +2,14 @@
   "id": 287168179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.254022,45.396717,9.254022,45.396717",
     "geom:latitude":45.396717,
     "geom:longitude":9.254022,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287168179,
-    "wof:lastmodified":1449001131,
+    "wof:lastmodified":1466291821,
     "wof:name":"Zincheria Musso Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.254022,45.396717,9.254022,45.396717],
+  "bbox": [
+    9.254022,
+    45.396717,
+    9.254022,
+    45.396717
+],
   "geometry": {"coordinates":[9.254022,45.396717],"type":"Point"}
 }

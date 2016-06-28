@@ -2,13 +2,14 @@
   "id": 202485171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.416118,41.980968,12.416118,41.980968",
     "geom:latitude":41.980968,
     "geom:longitude":12.416118,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00189 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202485171,
-    "wof:lastmodified":1449061668,
+    "wof:lastmodified":1466296105,
     "wof:name":"Institut Saint-dominique",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.416118,41.980968,12.416118,41.980968],
+  "bbox": [
+    12.416118,
+    41.980968,
+    12.416118,
+    41.980968
+],
   "geometry": {"coordinates":[12.416118,41.980968],"type":"Point"}
 }

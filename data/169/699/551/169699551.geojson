@@ -2,13 +2,14 @@
   "id": 169699551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.404794,45.882645,8.404794,45.882645",
     "geom:latitude":45.882645,
     "geom:longitude":8.404794,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Mille 7 28887 Omegna",
     "sg:city":"Omegna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169699551,
-    "wof:lastmodified":1449033138,
+    "wof:lastmodified":1466288905,
     "wof:name":"La Nuova Faro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "toys"
     ]
 },
-  "bbox": [8.404794,45.882645,8.404794,45.882645],
+  "bbox": [
+    8.404794,
+    45.882645,
+    8.404794,
+    45.882645
+],
   "geometry": {"coordinates":[8.404794,45.882645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286422781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.413037,44.53133,11.413037,44.53133",
     "geom:latitude":44.53133,
     "geom:longitude":11.413037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40057 Granarolo Emilia",
     "sg:city":"Quarto Inferiore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286422781,
-    "wof:lastmodified":1449015377,
+    "wof:lastmodified":1466291781,
     "wof:name":"Tecnotubo",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.413037,44.53133,11.413037,44.53133],
+  "bbox": [
+    11.413037,
+    44.53133,
+    11.413037,
+    44.53133
+],
   "geometry": {"coordinates":[11.413037,44.53133],"type":"Point"}
 }

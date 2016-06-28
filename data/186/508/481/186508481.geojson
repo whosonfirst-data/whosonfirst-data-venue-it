@@ -2,13 +2,14 @@
   "id": 186508481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.776805,45.656998,13.776805,45.656998",
     "geom:latitude":45.656998,
     "geom:longitude":13.776805,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Piazza Di Scorcola 34134 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186508481,
-    "wof:lastmodified":1449051884,
+    "wof:lastmodified":1466292373,
     "wof:name":"Federazione Regionale Degli Industriali Del Friuli Venezia Giulia",
     "wof:parent_id":85904971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [13.776805,45.656998,13.776805,45.656998],
+  "bbox": [
+    13.776805,
+    45.656998,
+    13.776805,
+    45.656998
+],
   "geometry": {"coordinates":[13.776805,45.656998],"type":"Point"}
 }

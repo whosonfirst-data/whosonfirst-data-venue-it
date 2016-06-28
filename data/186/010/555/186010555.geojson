@@ -2,13 +2,14 @@
   "id": 186010555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.454831,41.916767,12.454831,41.916767",
     "geom:latitude":41.916767,
     "geom:longitude":12.454831,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazzaloe Clodio; Roma",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186010555,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1466292065,
     "wof:name":"Cassa Di Risparmio Di Roma",
     "wof:parent_id":85900395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.454831,41.916767,12.454831,41.916767],
+  "bbox": [
+    12.454831,
+    41.916767,
+    12.454831,
+    41.916767
+],
   "geometry": {"coordinates":[12.454831,41.916767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236202661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.224103,41.769417,12.224103,41.769417",
     "geom:latitude":41.769417,
     "geom:longitude":12.224103,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00054 Fiumicino",
     "sg:city":"Fiumicino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236202661,
-    "wof:lastmodified":1449004735,
+    "wof:lastmodified":1466290927,
     "wof:name":"Cantieri Navali D'este Srl.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.224103,41.769417,12.224103,41.769417],
+  "bbox": [
+    12.224103,
+    41.769417,
+    12.224103,
+    41.769417
+],
   "geometry": {"coordinates":[12.224103,41.769417],"type":"Point"}
 }

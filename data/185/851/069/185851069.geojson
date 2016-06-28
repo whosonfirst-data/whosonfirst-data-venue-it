@@ -2,13 +2,14 @@
   "id": 185851069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.680036,44.999538,7.680036,44.999538",
     "geom:latitude":44.999538,
     "geom:longitude":7.680036,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Caduti; Moncalieri; 10024",
     "sg:city":"Moncalieri",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185851069,
-    "wof:lastmodified":1449007659,
+    "wof:lastmodified":1466289610,
     "wof:name":"Banca Sella Spa",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.680036,44.999538,7.680036,44.999538],
+  "bbox": [
+    7.680036,
+    44.999538,
+    7.680036,
+    44.999538
+],
   "geometry": {"coordinates":[7.680036,44.999538],"type":"Point"}
 }

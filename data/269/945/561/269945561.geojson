@@ -2,13 +2,14 @@
   "id": 269945561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.011889,45.747501,7.011889,45.747501",
     "geom:latitude":45.747501,
     "geom:longitude":7.011889,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11017 Morgex",
     "sg:city":"Morgex",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269945561,
-    "wof:lastmodified":1449036353,
+    "wof:lastmodified":1466294659,
     "wof:name":"Co.ser.co. Cooperativa Servizi Comunitari (soc.coop.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.011889,45.747501,7.011889,45.747501],
+  "bbox": [
+    7.011889,
+    45.747501,
+    7.011889,
+    45.747501
+],
   "geometry": {"coordinates":[7.011889,45.747501],"type":"Point"}
 }

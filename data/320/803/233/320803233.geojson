@@ -2,13 +2,14 @@
   "id": 320803233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.153925,45.468441,12.153925,45.468441",
     "geom:latitude":45.468441,
     "geom:longitude":12.153925,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30034 Mira",
     "sg:city":"Mira",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320803233,
-    "wof:lastmodified":1449015013,
+    "wof:lastmodified":1466298173,
     "wof:name":"La Nuova Gronda Di Livio Coro' & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.153925,45.468441,12.153925,45.468441],
+  "bbox": [
+    12.153925,
+    45.468441,
+    12.153925,
+    45.468441
+],
   "geometry": {"coordinates":[12.153925,45.468441],"type":"Point"}
 }

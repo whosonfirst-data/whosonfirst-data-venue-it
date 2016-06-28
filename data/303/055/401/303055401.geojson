@@ -2,13 +2,14 @@
   "id": 303055401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.136751,43.574207,12.136751,43.574207",
     "geom:latitude":43.574207,
     "geom:longitude":12.136751,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Malatesta 52037 Sansepolcro",
     "sg:city":"Sansepolcro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303055401,
-    "wof:lastmodified":1448998666,
+    "wof:lastmodified":1466291047,
     "wof:name":"Lodovini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.136751,43.574207,12.136751,43.574207],
+  "bbox": [
+    12.136751,
+    43.574207,
+    12.136751,
+    43.574207
+],
   "geometry": {"coordinates":[12.136751,43.574207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185831323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.394743,37.975319,15.394743,37.975319",
     "geom:latitude":37.975319,
     "geom:longitude":15.394743,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Umberto, 507/b/c; Roccalumera; 98027",
     "sg:city":"Roccalumera",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185831323,
-    "wof:lastmodified":1449007556,
+    "wof:lastmodified":1466289485,
     "wof:name":"Banca Popolare Santa Venera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.394743,37.975319,15.394743,37.975319],
+  "bbox": [
+    15.394743,
+    37.975319,
+    15.394743,
+    37.975319
+],
   "geometry": {"coordinates":[15.394743,37.975319],"type":"Point"}
 }

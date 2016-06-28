@@ -2,13 +2,14 @@
   "id": 219194569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.018838,45.511295,9.018838,45.511295",
     "geom:latitude":45.511295,
     "geom:longitude":9.018838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219194569,
-    "wof:lastmodified":1449073406,
+    "wof:lastmodified":1466295000,
     "wof:name":"Associazione Ippica La Vigna",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.018838,45.511295,9.018838,45.511295],
+  "bbox": [
+    9.018838,
+    45.511295,
+    9.018838,
+    45.511295
+],
   "geometry": {"coordinates":[9.018838,45.511295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286299035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.173078,40.855984,14.173078,40.855984",
     "geom:latitude":40.855984,
     "geom:longitude":14.173078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via S. Donato 80126 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286299035,
-    "wof:lastmodified":1449015920,
+    "wof:lastmodified":1466289931,
     "wof:name":"Petrone",
     "wof:parent_id":85900411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [14.173078,40.855984,14.173078,40.855984],
+  "bbox": [
+    14.173078,
+    40.855984,
+    14.173078,
+    40.855984
+],
   "geometry": {"coordinates":[14.173078,40.855984],"type":"Point"}
 }

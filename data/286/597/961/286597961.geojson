@@ -2,13 +2,14 @@
   "id": 286597961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.284883,40.870583,14.284883,40.870583",
     "geom:latitude":40.870583,
     "geom:longitude":14.284883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Via Del Riposo 80144 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286597961,
-    "wof:lastmodified":1449018045,
+    "wof:lastmodified":1466293900,
     "wof:name":"Turco F.lli (s.r.l.)",
     "wof:parent_id":85904837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [14.284883,40.870583,14.284883,40.870583],
+  "bbox": [
+    14.284883,
+    40.870583,
+    14.284883,
+    40.870583
+],
   "geometry": {"coordinates":[14.284883,40.870583],"type":"Point"}
 }

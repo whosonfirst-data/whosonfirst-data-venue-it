@@ -2,13 +2,14 @@
   "id": 236636291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.128747,45.249878,11.128747,45.249878",
     "geom:latitude":45.249878,
     "geom:longitude":11.128747,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Creari 37051 Bovolone",
     "sg:city":"Bovolone",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236636291,
-    "wof:lastmodified":1449002869,
+    "wof:lastmodified":1466295344,
     "wof:name":"Nova Serenissima (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.128747,45.249878,11.128747,45.249878],
+  "bbox": [
+    11.128747,
+    45.249878,
+    11.128747,
+    45.249878
+],
   "geometry": {"coordinates":[11.128747,45.249878],"type":"Point"}
 }

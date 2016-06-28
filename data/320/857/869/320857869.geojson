@@ -2,13 +2,14 @@
   "id": 320857869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.493676,45.73138,8.493676,45.73138",
     "geom:latitude":45.73138,
     "geom:longitude":8.493676,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Per Arona, 9/11 28045 Invorio",
     "sg:city":"Invorio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320857869,
-    "wof:lastmodified":1449013689,
+    "wof:lastmodified":1466298303,
     "wof:name":"Strumentazione Industriale S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.493676,45.73138,8.493676,45.73138],
+  "bbox": [
+    8.493676,
+    45.73138,
+    8.493676,
+    45.73138
+],
   "geometry": {"coordinates":[8.493676,45.73138],"type":"Point"}
 }

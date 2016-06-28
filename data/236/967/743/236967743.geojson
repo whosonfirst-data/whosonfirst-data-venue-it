@@ -2,13 +2,14 @@
   "id": 236967743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.426701,37.3354,13.426701,37.3354",
     "geom:latitude":37.3354,
     "geom:longitude":13.426701,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92010 Siculiana",
     "sg:city":"Siculiana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236967743,
-    "wof:lastmodified":1449004959,
+    "wof:lastmodified":1466297384,
     "wof:name":"Manzella Maurizio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.426701,37.3354,13.426701,37.3354],
+  "bbox": [
+    13.426701,
+    37.3354,
+    13.426701,
+    37.3354
+],
   "geometry": {"coordinates":[13.426701,37.3354],"type":"Point"}
 }

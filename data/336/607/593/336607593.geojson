@@ -2,13 +2,14 @@
   "id": 336607593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.047873,43.904842,11.047873,43.904842",
     "geom:latitude":43.904842,
     "geom:longitude":11.047873,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Dei Tintori 59013 Montemurlo",
     "sg:city":"Montemurlo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336607593,
-    "wof:lastmodified":1448997073,
+    "wof:lastmodified":1466293821,
     "wof:name":"Bacciottini F.lli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.047873,43.904842,11.047873,43.904842],
+  "bbox": [
+    11.047873,
+    43.904842,
+    11.047873,
+    43.904842
+],
   "geometry": {"coordinates":[11.047873,43.904842],"type":"Point"}
 }

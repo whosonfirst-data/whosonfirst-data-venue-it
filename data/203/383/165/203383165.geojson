@@ -2,13 +2,14 @@
   "id": 203383165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.636992,45.143497,9.636992,45.143497",
     "geom:latitude":45.143497,
     "geom:longitude":9.636992,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26867 Somaglia",
     "sg:city":"Somaglia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203383165,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466291948,
     "wof:name":"Emar Plast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.636992,45.143497,9.636992,45.143497],
+  "bbox": [
+    9.636992,
+    45.143497,
+    9.636992,
+    45.143497
+],
   "geometry": {"coordinates":[9.636992,45.143497],"type":"Point"}
 }

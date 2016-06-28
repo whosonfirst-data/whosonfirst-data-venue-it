@@ -2,13 +2,14 @@
   "id": 269491551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.248711,45.505951,12.248711,45.505951",
     "geom:latitude":45.505951,
     "geom:longitude":12.248711,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, V. Trezzo 30174 Mestre",
     "sg:city":"Mestre",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269491551,
-    "wof:lastmodified":1449036104,
+    "wof:lastmodified":1466289032,
     "wof:name":"Moda Diffusion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [12.248711,45.505951,12.248711,45.505951],
+  "bbox": [
+    12.248711,
+    45.505951,
+    12.248711,
+    45.505951
+],
   "geometry": {"coordinates":[12.248711,45.505951],"type":"Point"}
 }

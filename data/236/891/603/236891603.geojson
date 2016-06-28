@@ -2,13 +2,14 @@
   "id": 236891603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.884376,41.889793,12.884376,41.889793",
     "geom:latitude":41.889793,
     "geom:longitude":12.884376,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"912/914, Via Prenestina 00155 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236891603,
-    "wof:lastmodified":1449003679,
+    "wof:lastmodified":1466297159,
     "wof:name":"Vetraria Iberia Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.884376,41.889793,12.884376,41.889793],
+  "bbox": [
+    12.884376,
+    41.889793,
+    12.884376,
+    41.889793
+],
   "geometry": {"coordinates":[12.884376,41.889793],"type":"Point"}
 }

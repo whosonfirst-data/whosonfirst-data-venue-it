@@ -2,13 +2,14 @@
   "id": 219392915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.417623,45.666698,9.417623,45.666698",
     "geom:latitude":45.666698,
     "geom:longitude":9.417623,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mattei, 9/21 20050 Ronco Briantino",
     "sg:city":"Ronco Briantino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219392915,
-    "wof:lastmodified":1449073229,
+    "wof:lastmodified":1466290270,
     "wof:name":"Stema S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [9.417623,45.666698,9.417623,45.666698],
+  "bbox": [
+    9.417623,
+    45.666698,
+    9.417623,
+    45.666698
+],
   "geometry": {"coordinates":[9.417623,45.666698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303278469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.802221,40.637241,15.802221,40.637241",
     "geom:latitude":40.637241,
     "geom:longitude":15.802221,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ofantina 85029 Venosa",
     "sg:city":"Venosa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303278469,
-    "wof:lastmodified":1448999472,
+    "wof:lastmodified":1466293966,
     "wof:name":"Tecneco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [15.802221,40.637241,15.802221,40.637241],
+  "bbox": [
+    15.802221,
+    40.637241,
+    15.802221,
+    40.637241
+],
   "geometry": {"coordinates":[15.802221,40.637241],"type":"Point"}
 }

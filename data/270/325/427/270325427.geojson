@@ -2,13 +2,14 @@
   "id": 270325427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.344279,41.324829,14.344279,41.324829",
     "geom:latitude":41.324829,
     "geom:longitude":14.344279,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81011 Alife",
     "sg:city":"Alife",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270325427,
-    "wof:lastmodified":1449009584,
+    "wof:lastmodified":1466292949,
     "wof:name":"Cartiera Del Torano Omniafiltra (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.344279,41.324829,14.344279,41.324829],
+  "bbox": [
+    14.344279,
+    41.324829,
+    14.344279,
+    41.324829
+],
   "geometry": {"coordinates":[14.344279,41.324829],"type":"Point"}
 }

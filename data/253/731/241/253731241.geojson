@@ -2,13 +2,14 @@
   "id": 253731241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.540307,45.545906,11.540307,45.545906",
     "geom:latitude":45.545906,
     "geom:longitude":11.540307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1/b, V. F. B. Cavalieri 36050 Zermeghedo",
     "sg:city":"Zermeghedo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253731241,
-    "wof:lastmodified":1449065449,
+    "wof:lastmodified":1466296876,
     "wof:name":"B.c.r. - Tannery Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [11.540307,45.545906,11.540307,45.545906],
+  "bbox": [
+    11.540307,
+    45.545906,
+    11.540307,
+    45.545906
+],
   "geometry": {"coordinates":[11.540307,45.545906],"type":"Point"}
 }

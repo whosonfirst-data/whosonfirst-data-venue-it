@@ -2,13 +2,14 @@
   "id": 203020811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560294,40.71946,8.560294,40.71946",
     "geom:latitude":40.71946,
     "geom:longitude":8.560294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"07041 Alghero",
     "sg:city":"Alghero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203020811,
-    "wof:lastmodified":1449025799,
+    "wof:lastmodified":1466294321,
     "wof:name":"Ital Tbs - Tecnologie Biomediche E Scientifiche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560294,40.71946,8.560294,40.71946],
+  "bbox": [
+    8.560294,
+    40.71946,
+    8.560294,
+    40.71946
+],
   "geometry": {"coordinates":[8.560294,40.71946],"type":"Point"}
 }

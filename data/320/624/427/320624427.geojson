@@ -2,13 +2,14 @@
   "id": 320624427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.503621,41.914032,12.503621,41.914032",
     "geom:latitude":41.914032,
     "geom:longitude":12.503621,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nizza 152 00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320624427,
-    "wof:lastmodified":1449013836,
+    "wof:lastmodified":1466297738,
     "wof:name":"Medi - Pragma Srl",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [12.503621,41.914032,12.503621,41.914032],
+  "bbox": [
+    12.503621,
+    41.914032,
+    12.503621,
+    41.914032
+],
   "geometry": {"coordinates":[12.503621,41.914032],"type":"Point"}
 }

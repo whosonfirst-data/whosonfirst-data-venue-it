@@ -2,13 +2,14 @@
   "id": 303172451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655185,45.001747,7.655185,45.001747",
     "geom:latitude":45.001747,
     "geom:longitude":7.655185,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10042 Nichelino",
     "sg:city":"Nichelino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303172451,
-    "wof:lastmodified":1448999103,
+    "wof:lastmodified":1466292597,
     "wof:name":"Finder S.p.a.",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.655185,45.001747,7.655185,45.001747],
+  "bbox": [
+    7.655185,
+    45.001747,
+    7.655185,
+    45.001747
+],
   "geometry": {"coordinates":[7.655185,45.001747],"type":"Point"}
 }

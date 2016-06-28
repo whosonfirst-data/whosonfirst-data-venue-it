@@ -2,13 +2,14 @@
   "id": 202705905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.651931,41.874603,12.651931,41.874603",
     "geom:latitude":41.874603,
     "geom:longitude":12.651931,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00133 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202705905,
-    "wof:lastmodified":1449062662,
+    "wof:lastmodified":1466291137,
     "wof:name":"Laboratorio Tor Belle Monaca Srl",
     "wof:parent_id":85906291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.651931,41.874603,12.651931,41.874603],
+  "bbox": [
+    12.651931,
+    41.874603,
+    12.651931,
+    41.874603
+],
   "geometry": {"coordinates":[12.651931,41.874603],"type":"Point"}
 }

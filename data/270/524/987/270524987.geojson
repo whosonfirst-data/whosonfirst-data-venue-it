@@ -2,13 +2,14 @@
   "id": 270524987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.157495,45.544498,9.157495,45.544498",
     "geom:latitude":45.544498,
     "geom:longitude":9.157495,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"102, Via Dei Giovi 20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270524987,
-    "wof:lastmodified":1449008646,
+    "wof:lastmodified":1466295373,
     "wof:name":"Industrie Vernici Italo - Svizzere S.p.a.",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.157495,45.544498,9.157495,45.544498],
+  "bbox": [
+    9.157495,
+    45.544498,
+    9.157495,
+    45.544498
+],
   "geometry": {"coordinates":[9.157495,45.544498],"type":"Point"}
 }

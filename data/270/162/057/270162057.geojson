@@ -2,13 +2,14 @@
   "id": 270162057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.007357,44.748806,11.007357,44.748806",
     "geom:latitude":44.748806,
     "geom:longitude":11.007357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41030 Bomporto",
     "sg:city":"Bomporto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270162057,
-    "wof:lastmodified":1449010729,
+    "wof:lastmodified":1466290915,
     "wof:name":"Cantina Sociale Di Sorbara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.007357,44.748806,11.007357,44.748806],
+  "bbox": [
+    11.007357,
+    44.748806,
+    11.007357,
+    44.748806
+],
   "geometry": {"coordinates":[11.007357,44.748806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303744199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.497843,41.911983,12.497843,41.911983",
     "geom:latitude":41.911983,
     "geom:longitude":12.497843,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00010 Montelibretti",
     "sg:city":"Montelibretti",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303744199,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1466297692,
     "wof:name":"Linea Zeta Srl",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.497843,41.911983,12.497843,41.911983],
+  "bbox": [
+    12.497843,
+    41.911983,
+    12.497843,
+    41.911983
+],
   "geometry": {"coordinates":[12.497843,41.911983],"type":"Point"}
 }

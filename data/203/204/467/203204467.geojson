@@ -2,13 +2,14 @@
   "id": 203204467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.512083,41.900593,12.512083,41.900593",
     "geom:latitude":41.900593,
     "geom:longitude":12.512083,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00185 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203204467,
-    "wof:lastmodified":1449026900,
+    "wof:lastmodified":1466289911,
     "wof:name":"Enel Distribuzione Spa",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.512083,41.900593,12.512083,41.900593],
+  "bbox": [
+    12.512083,
+    41.900593,
+    12.512083,
+    41.900593
+],
   "geometry": {"coordinates":[12.512083,41.900593],"type":"Point"}
 }

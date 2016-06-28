@@ -2,13 +2,14 @@
   "id": 186332731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.922599,43.922676,10.922599,43.922676",
     "geom:latitude":43.922676,
     "geom:longitude":10.922599,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51100 Pistoia",
     "sg:city":"Pistoia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186332731,
-    "wof:lastmodified":1449051873,
+    "wof:lastmodified":1466290765,
     "wof:name":"Fratelli Bindi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.922599,43.922676,10.922599,43.922676],
+  "bbox": [
+    10.922599,
+    43.922676,
+    10.922599,
+    43.922676
+],
   "geometry": {"coordinates":[10.922599,43.922676],"type":"Point"}
 }

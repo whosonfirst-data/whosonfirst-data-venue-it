@@ -2,13 +2,14 @@
   "id": 236577819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.613544,45.702625,12.613544,45.702625",
     "geom:latitude":45.702625,
     "geom:longitude":12.613544,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Via Degli Olmi 31040 Cessalto",
     "sg:city":"Cessalto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236577819,
-    "wof:lastmodified":1449005368,
+    "wof:lastmodified":1466294818,
     "wof:name":"Erredue S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.613544,45.702625,12.613544,45.702625],
+  "bbox": [
+    12.613544,
+    45.702625,
+    12.613544,
+    45.702625
+],
   "geometry": {"coordinates":[12.613544,45.702625],"type":"Point"}
 }

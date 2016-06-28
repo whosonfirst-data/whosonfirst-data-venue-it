@@ -2,13 +2,14 @@
   "id": 320457347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.189862,44.908024,8.189862,44.908024",
     "geom:latitude":44.908024,
     "geom:longitude":8.189862,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14042 Calamandrana",
     "sg:city":"Calamandrana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320457347,
-    "wof:lastmodified":1449013779,
+    "wof:lastmodified":1466297534,
     "wof:name":"Chiarle Mario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.189862,44.908024,8.189862,44.908024],
+  "bbox": [
+    8.189862,
+    44.908024,
+    8.189862,
+    44.908024
+],
   "geometry": {"coordinates":[8.189862,44.908024],"type":"Point"}
 }

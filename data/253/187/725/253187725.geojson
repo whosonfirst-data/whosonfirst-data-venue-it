@@ -2,13 +2,14 @@
   "id": 253187725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.250132,39.292858,16.250132,39.292858",
     "geom:latitude":39.292858,
     "geom:longitude":16.250132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87100 Cosenza",
     "sg:city":"Cosenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253187725,
-    "wof:lastmodified":1449063256,
+    "wof:lastmodified":1466290862,
     "wof:name":"Berardelli Luigi Antonio Centro Dentale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.250132,39.292858,16.250132,39.292858],
+  "bbox": [
+    16.250132,
+    39.292858,
+    16.250132,
+    39.292858
+],
   "geometry": {"coordinates":[16.250132,39.292858],"type":"Point"}
 }

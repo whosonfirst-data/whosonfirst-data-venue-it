@@ -2,13 +2,14 @@
   "id": 252969393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.136781,43.774826,11.136781,43.774826",
     "geom:latitude":43.774826,
     "geom:longitude":11.136781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18/c, Via Stagnaccio Basso 50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252969393,
-    "wof:lastmodified":1449005685,
+    "wof:lastmodified":1466291751,
     "wof:name":"2 C Di Coveri Giovanni & C.",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.136781,43.774826,11.136781,43.774826],
+  "bbox": [
+    11.136781,
+    43.774826,
+    11.136781,
+    43.774826
+],
   "geometry": {"coordinates":[11.136781,43.774826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303813373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.063821,45.421246,9.063821,45.421246",
     "geom:latitude":45.421246,
     "geom:longitude":9.063821,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Volta, 2/4 20090 Cusago",
     "sg:city":"Cusago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303813373,
-    "wof:lastmodified":1448998742,
+    "wof:lastmodified":1466297852,
     "wof:name":"Valenti Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lamp"
     ]
 },
-  "bbox": [9.063821,45.421246,9.063821,45.421246],
+  "bbox": [
+    9.063821,
+    45.421246,
+    9.063821,
+    45.421246
+],
   "geometry": {"coordinates":[9.063821,45.421246],"type":"Point"}
 }

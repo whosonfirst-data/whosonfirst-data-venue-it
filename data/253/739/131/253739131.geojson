@@ -2,13 +2,14 @@
   "id": 253739131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.243909,40.876228,14.243909,40.876228",
     "geom:latitude":40.876228,
     "geom:longitude":14.243909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61/b, Via Nuova S. Rocco 80131 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253739131,
-    "wof:lastmodified":1449064069,
+    "wof:lastmodified":1466297042,
     "wof:name":"Suolettificio Soleado S.a.s.",
     "wof:parent_id":85904797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [14.243909,40.876228,14.243909,40.876228],
+  "bbox": [
+    14.243909,
+    40.876228,
+    14.243909,
+    40.876228
+],
   "geometry": {"coordinates":[14.243909,40.876228],"type":"Point"}
 }

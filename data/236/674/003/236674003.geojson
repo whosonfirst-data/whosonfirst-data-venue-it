@@ -2,13 +2,14 @@
   "id": 236674003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.35843,45.821228,9.35843,45.821228",
     "geom:latitude":45.821228,
     "geom:longitude":9.35843,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"49, Via Provinciale 23841 Annone Di Brianza",
     "sg:city":"Annone di Brianza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236674003,
-    "wof:lastmodified":1449004242,
+    "wof:lastmodified":1466295699,
     "wof:name":"Valsecchi Pietro & C.(s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.35843,45.821228,9.35843,45.821228],
+  "bbox": [
+    9.35843,
+    45.821228,
+    9.35843,
+    45.821228
+],
   "geometry": {"coordinates":[9.35843,45.821228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320080129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.359269,41.753906,12.359269,41.753906",
     "geom:latitude":41.753906,
     "geom:longitude":12.359269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00124 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320080129,
-    "wof:lastmodified":1449014863,
+    "wof:lastmodified":1466294380,
     "wof:name":"Emmeci (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.359269,41.753906,12.359269,41.753906],
+  "bbox": [
+    12.359269,
+    41.753906,
+    12.359269,
+    41.753906
+],
   "geometry": {"coordinates":[12.359269,41.753906],"type":"Point"}
 }

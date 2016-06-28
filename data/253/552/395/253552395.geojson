@@ -2,13 +2,14 @@
   "id": 253552395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.030807,45.500099,9.030807,45.500099",
     "geom:latitude":45.500099,
     "geom:longitude":9.030807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Cornaredo",
     "sg:city":"Cornaredo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253552395,
-    "wof:lastmodified":1449064064,
+    "wof:lastmodified":1466295312,
     "wof:name":"M.p. Diamant Snc",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.030807,45.500099,9.030807,45.500099],
+  "bbox": [
+    9.030807,
+    45.500099,
+    9.030807,
+    45.500099
+],
   "geometry": {"coordinates":[9.030807,45.500099],"type":"Point"}
 }

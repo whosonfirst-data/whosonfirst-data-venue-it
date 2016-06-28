@@ -2,13 +2,14 @@
   "id": 269845737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.605599,36.948574,14.605599,36.948574",
     "geom:latitude":36.948574,
     "geom:longitude":14.605599,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Via Cascino Generale 97019 Vittoria",
     "sg:city":"Vittoria",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269845737,
-    "wof:lastmodified":1449036528,
+    "wof:lastmodified":1466293550,
     "wof:name":"Sicil Import Export",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [14.605599,36.948574,14.605599,36.948574],
+  "bbox": [
+    14.605599,
+    36.948574,
+    14.605599,
+    36.948574
+],
   "geometry": {"coordinates":[14.605599,36.948574],"type":"Point"}
 }

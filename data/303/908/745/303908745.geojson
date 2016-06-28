@@ -2,13 +2,14 @@
   "id": 303908745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.560858,45.758965,8.560858,45.758965",
     "geom:latitude":45.758965,
     "geom:longitude":8.560858,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28041 Arona",
     "sg:city":"Arona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303908745,
-    "wof:lastmodified":1448999509,
+    "wof:lastmodified":1466298191,
     "wof:name":"Ottica De Righetti V. & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.560858,45.758965,8.560858,45.758965],
+  "bbox": [
+    8.560858,
+    45.758965,
+    8.560858,
+    45.758965
+],
   "geometry": {"coordinates":[8.560858,45.758965],"type":"Point"}
 }

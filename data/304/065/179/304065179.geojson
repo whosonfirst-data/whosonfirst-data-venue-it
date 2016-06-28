@@ -2,13 +2,14 @@
   "id": 304065179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.324827,41.176426,15.324827,41.176426",
     "geom:latitude":41.176426,
     "geom:longitude":15.324827,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71021 Accadia",
     "sg:city":"Accadia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304065179,
-    "wof:lastmodified":1449044163,
+    "wof:lastmodified":1466293050,
     "wof:name":"Metaurobus Di Metauro Albino & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.324827,41.176426,15.324827,41.176426],
+  "bbox": [
+    15.324827,
+    41.176426,
+    15.324827,
+    41.176426
+],
   "geometry": {"coordinates":[15.324827,41.176426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320458267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.214962,44.536877,11.214962,44.536877",
     "geom:latitude":44.536877,
     "geom:longitude":11.214962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40011 Anzola Dell'emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Industria Alimentare E Bevande",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320458267,
-    "wof:lastmodified":1449013920,
+    "wof:lastmodified":1466297533,
     "wof:name":"Coldelite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.214962,44.536877,11.214962,44.536877],
+  "bbox": [
+    11.214962,
+    44.536877,
+    11.214962,
+    44.536877
+],
   "geometry": {"coordinates":[11.214962,44.536877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320266561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.465176,45.017391,7.465176,45.017391",
     "geom:latitude":45.017391,
     "geom:longitude":7.465176,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Sangano",
     "sg:city":"Sangano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320266561,
-    "wof:lastmodified":1449011377,
+    "wof:lastmodified":1466296643,
     "wof:name":"Elioinform Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.465176,45.017391,7.465176,45.017391],
+  "bbox": [
+    7.465176,
+    45.017391,
+    7.465176,
+    45.017391
+],
   "geometry": {"coordinates":[7.465176,45.017391],"type":"Point"}
 }

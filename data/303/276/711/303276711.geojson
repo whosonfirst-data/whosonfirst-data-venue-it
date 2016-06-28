@@ -2,13 +2,14 @@
   "id": 303276711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.645409,45.998295,12.645409,45.998295",
     "geom:latitude":45.998295,
     "geom:longitude":12.645409,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Comina 33080 San Quirino",
     "sg:city":"San Quirino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303276711,
-    "wof:lastmodified":1448998207,
+    "wof:lastmodified":1466293942,
     "wof:name":"S.n.u.a. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [12.645409,45.998295,12.645409,45.998295],
+  "bbox": [
+    12.645409,
+    45.998295,
+    12.645409,
+    45.998295
+],
   "geometry": {"coordinates":[12.645409,45.998295],"type":"Point"}
 }

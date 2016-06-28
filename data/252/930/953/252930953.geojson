@@ -2,13 +2,14 @@
   "id": 252930953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.571412,45.708794,9.571412,45.708794",
     "geom:latitude":45.708794,
     "geom:longitude":9.571412,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24036 Ponte San Pietro",
     "sg:city":"Ponte San Pietro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252930953,
-    "wof:lastmodified":1449005753,
+    "wof:lastmodified":1466291355,
     "wof:name":"Manzoni Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.571412,45.708794,9.571412,45.708794],
+  "bbox": [
+    9.571412,
+    45.708794,
+    9.571412,
+    45.708794
+],
   "geometry": {"coordinates":[9.571412,45.708794],"type":"Point"}
 }

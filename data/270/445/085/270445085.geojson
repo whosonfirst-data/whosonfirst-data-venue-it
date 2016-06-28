@@ -2,13 +2,14 @@
   "id": 270445085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.790131,44.561443,10.790131,44.561443",
     "geom:latitude":44.561443,
     "geom:longitude":10.790131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41049 Sassuolo",
     "sg:city":"Sassuolo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270445085,
-    "wof:lastmodified":1449008968,
+    "wof:lastmodified":1466294420,
     "wof:name":"Ga.pe. Due Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.790131,44.561443,10.790131,44.561443],
+  "bbox": [
+    10.790131,
+    44.561443,
+    10.790131,
+    44.561443
+],
   "geometry": {"coordinates":[10.790131,44.561443],"type":"Point"}
 }

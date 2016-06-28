@@ -2,13 +2,14 @@
   "id": 253542209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.043396,45.443401,9.043396,45.443401",
     "geom:latitude":45.443401,
     "geom:longitude":9.043396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Cusago",
     "sg:city":"Cusago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253542209,
-    "wof:lastmodified":1449065095,
+    "wof:lastmodified":1466295166,
     "wof:name":"Duratrode Div.nch Italia Srl",
     "wof:parent_id":85862759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.043396,45.443401,9.043396,45.443401],
+  "bbox": [
+    9.043396,
+    45.443401,
+    9.043396,
+    45.443401
+],
   "geometry": {"coordinates":[9.043396,45.443401],"type":"Point"}
 }

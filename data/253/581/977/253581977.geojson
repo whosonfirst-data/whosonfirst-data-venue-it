@@ -2,13 +2,14 @@
   "id": 253581977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.292635,38.266106,16.292635,38.266106",
     "geom:latitude":38.266106,
     "geom:longitude":16.292635,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Garibaldi 189 89048 Siderno",
     "sg:city":"Siderno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253581977,
-    "wof:lastmodified":1449063434,
+    "wof:lastmodified":1466295721,
     "wof:name":"C.f. Plast Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lacquer"
     ]
 },
-  "bbox": [16.292635,38.266106,16.292635,38.266106],
+  "bbox": [
+    16.292635,
+    38.266106,
+    16.292635,
+    38.266106
+],
   "geometry": {"coordinates":[16.292635,38.266106],"type":"Point"}
 }

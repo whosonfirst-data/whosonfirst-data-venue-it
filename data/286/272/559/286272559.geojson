@@ -2,13 +2,14 @@
   "id": 286272559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593143,45.046593,7.593143,45.046593",
     "geom:latitude":45.046593,
     "geom:longitude":7.593143,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"77, Via S. Paolo 10095 Grugliasco",
     "sg:city":"Grugliasco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286272559,
-    "wof:lastmodified":1449017890,
+    "wof:lastmodified":1466289566,
     "wof:name":"Carmagnani Piemonte S.p.a.",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [7.593143,45.046593,7.593143,45.046593],
+  "bbox": [
+    7.593143,
+    45.046593,
+    7.593143,
+    45.046593
+],
   "geometry": {"coordinates":[7.593143,45.046593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253651397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.375141,45.792507,9.375141,45.792507",
     "geom:latitude":45.792507,
     "geom:longitude":9.375141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23844 Sirone",
     "sg:city":"Sirone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253651397,
-    "wof:lastmodified":1449063401,
+    "wof:lastmodified":1466296373,
     "wof:name":"Mts Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.375141,45.792507,9.375141,45.792507],
+  "bbox": [
+    9.375141,
+    45.792507,
+    9.375141,
+    45.792507
+],
   "geometry": {"coordinates":[9.375141,45.792507],"type":"Point"}
 }

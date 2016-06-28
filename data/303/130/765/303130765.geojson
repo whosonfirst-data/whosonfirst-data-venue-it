@@ -2,13 +2,14 @@
   "id": 303130765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.495235,41.851952,12.495235,41.851952",
     "geom:latitude":41.851952,
     "geom:longitude":12.495235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00147 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303130765,
-    "wof:lastmodified":1448998957,
+    "wof:lastmodified":1466292053,
     "wof:name":"La Didattica S.a.s. Di O.puntelli",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.495235,41.851952,12.495235,41.851952],
+  "bbox": [
+    12.495235,
+    41.851952,
+    12.495235,
+    41.851952
+],
   "geometry": {"coordinates":[12.495235,41.851952],"type":"Point"}
 }

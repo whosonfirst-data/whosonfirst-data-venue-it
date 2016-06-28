@@ -2,13 +2,14 @@
   "id": 236372381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.1455,45.50668,12.1455,45.50668",
     "geom:latitude":45.50668,
     "geom:longitude":12.1455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30038 Spinea",
     "sg:city":"Spinea",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236372381,
-    "wof:lastmodified":1449003693,
+    "wof:lastmodified":1466292687,
     "wof:name":"Rustici Faraon Di Faraon Gianni & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.1455,45.50668,12.1455,45.50668],
+  "bbox": [
+    12.1455,
+    45.50668,
+    12.1455,
+    45.50668
+],
   "geometry": {"coordinates":[12.1455,45.50668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253437115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.104555,41.298759,13.104555,41.298759",
     "geom:latitude":41.298759,
     "geom:longitude":13.104555,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04016 Sabaudia",
     "sg:city":"Sabaudia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253437115,
-    "wof:lastmodified":1449064968,
+    "wof:lastmodified":1466293833,
     "wof:name":"Fail Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.104555,41.298759,13.104555,41.298759],
+  "bbox": [
+    13.104555,
+    41.298759,
+    13.104555,
+    41.298759
+],
   "geometry": {"coordinates":[13.104555,41.298759],"type":"Point"}
 }

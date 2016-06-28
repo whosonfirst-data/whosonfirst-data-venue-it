@@ -2,13 +2,14 @@
   "id": 236472501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.554339,44.332699,7.554339,44.332699",
     "geom:latitude":44.332699,
     "geom:longitude":7.554339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cuneo 36 12012 Boves",
     "sg:city":"Boves",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236472501,
-    "wof:lastmodified":1449001869,
+    "wof:lastmodified":1466293749,
     "wof:name":"Fratelli Ansaldi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "veneered"
     ]
 },
-  "bbox": [7.554339,44.332699,7.554339,44.332699],
+  "bbox": [
+    7.554339,
+    44.332699,
+    7.554339,
+    44.332699
+],
   "geometry": {"coordinates":[7.554339,44.332699],"type":"Point"}
 }

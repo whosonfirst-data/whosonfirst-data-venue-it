@@ -2,13 +2,14 @@
   "id": 202748961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.160888,39.262482,9.160888,39.262482",
     "geom:latitude":39.262482,
     "geom:longitude":9.160888,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09047 Selargius",
     "sg:city":"Selargius",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202748961,
-    "wof:lastmodified":1449062013,
+    "wof:lastmodified":1466291576,
     "wof:name":"Sun & Wind Di Sgualdini Ivan",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.160888,39.262482,9.160888,39.262482],
+  "bbox": [
+    9.160888,
+    39.262482,
+    9.160888,
+    39.262482
+],
   "geometry": {"coordinates":[9.160888,39.262482],"type":"Point"}
 }

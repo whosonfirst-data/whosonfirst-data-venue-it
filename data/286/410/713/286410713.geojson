@@ -2,13 +2,14 @@
   "id": 286410713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.057613,45.463589,9.057613,45.463589",
     "geom:latitude":45.463589,
     "geom:longitude":9.057613,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286410713,
-    "wof:lastmodified":1449015202,
+    "wof:lastmodified":1466291618,
     "wof:name":"Aernova System S.r.l.",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.057613,45.463589,9.057613,45.463589],
+  "bbox": [
+    9.057613,
+    45.463589,
+    9.057613,
+    45.463589
+],
   "geometry": {"coordinates":[9.057613,45.463589],"type":"Point"}
 }

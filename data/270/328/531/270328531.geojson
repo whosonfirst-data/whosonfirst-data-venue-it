@@ -2,13 +2,14 @@
   "id": 270328531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.044914,45.599239,9.044914,45.599239",
     "geom:latitude":45.599239,
     "geom:longitude":9.044914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21042 Caronno Pertusella",
     "sg:city":"Caronno Pertusella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270328531,
-    "wof:lastmodified":1449010084,
+    "wof:lastmodified":1466292989,
     "wof:name":"Marin Cartoni Jacquards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.044914,45.599239,9.044914,45.599239],
+  "bbox": [
+    9.044914,
+    45.599239,
+    9.044914,
+    45.599239
+],
   "geometry": {"coordinates":[9.044914,45.599239],"type":"Point"}
 }

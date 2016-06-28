@@ -2,13 +2,14 @@
   "id": 319900957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.616951,44.913216,8.616951,44.913216",
     "geom:latitude":44.913216,
     "geom:longitude":8.616951,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Piepasso 2 15028 Quattordio",
     "sg:city":"Piepasso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319900957,
-    "wof:lastmodified":1449024432,
+    "wof:lastmodified":1466293571,
     "wof:name":"Selepier Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [8.616951,44.913216,8.616951,44.913216],
+  "bbox": [
+    8.616951,
+    44.913216,
+    8.616951,
+    44.913216
+],
   "geometry": {"coordinates":[8.616951,44.913216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269682689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.064777,45.556076,8.064777,45.556076",
     "geom:latitude":45.556076,
     "geom:longitude":8.064777,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Viale Roma 13900 Biella",
     "sg:city":"Biella",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269682689,
-    "wof:lastmodified":1449036549,
+    "wof:lastmodified":1466291415,
     "wof:name":"Salodini (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [8.064777,45.556076,8.064777,45.556076],
+  "bbox": [
+    8.064777,
+    45.556076,
+    8.064777,
+    45.556076
+],
   "geometry": {"coordinates":[8.064777,45.556076],"type":"Point"}
 }

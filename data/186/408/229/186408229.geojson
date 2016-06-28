@@ -2,13 +2,14 @@
   "id": 186408229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.063809,45.049175,12.063809,45.049175",
     "geom:latitude":45.049175,
     "geom:longitude":12.063809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Via Leonardo Da Vinci 45011 Adria",
     "sg:city":"Adria",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186408229,
-    "wof:lastmodified":1449050624,
+    "wof:lastmodified":1466291428,
     "wof:name":"Cantieri Navali Vittoria Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.063809,45.049175,12.063809,45.049175],
+  "bbox": [
+    12.063809,
+    45.049175,
+    12.063809,
+    45.049175
+],
   "geometry": {"coordinates":[12.063809,45.049175],"type":"Point"}
 }

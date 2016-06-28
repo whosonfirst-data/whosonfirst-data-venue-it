@@ -2,13 +2,14 @@
   "id": 269625037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.206626,42.471958,14.206626,42.471958",
     "geom:latitude":42.471958,
     "geom:longitude":14.206626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65122 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269625037,
-    "wof:lastmodified":1449039016,
+    "wof:lastmodified":1466290620,
     "wof:name":"Centro Baby Di Barile Maurizio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.206626,42.471958,14.206626,42.471958],
+  "bbox": [
+    14.206626,
+    42.471958,
+    14.206626,
+    42.471958
+],
   "geometry": {"coordinates":[14.206626,42.471958],"type":"Point"}
 }

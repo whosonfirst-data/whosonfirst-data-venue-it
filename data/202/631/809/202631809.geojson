@@ -2,13 +2,14 @@
   "id": 202631809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.929081,44.414192,8.929081,44.414192",
     "geom:latitude":44.414192,
     "geom:longitude":8.929081,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16125 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":202631809,
-    "wof:lastmodified":1449060899,
+    "wof:lastmodified":1466290313,
     "wof:name":"Tag Icib Service S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.929081,44.414192,8.929081,44.414192],
+  "bbox": [
+    8.929081,
+    44.414192,
+    8.929081,
+    44.414192
+],
   "geometry": {"coordinates":[8.929081,44.414192],"type":"Point"}
 }

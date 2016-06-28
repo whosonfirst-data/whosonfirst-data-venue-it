@@ -2,13 +2,14 @@
   "id": 336701767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.428708,45.800308,9.428708,45.800308",
     "geom:latitude":45.800308,
     "geom:longitude":9.428708,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Stoppani Antonio 23801 Calolziocorte",
     "sg:city":"Calolziocorte",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336701767,
-    "wof:lastmodified":1448997805,
+    "wof:lastmodified":1466294945,
     "wof:name":"Larius S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.428708,45.800308,9.428708,45.800308],
+  "bbox": [
+    9.428708,
+    45.800308,
+    9.428708,
+    45.800308
+],
   "geometry": {"coordinates":[9.428708,45.800308],"type":"Point"}
 }

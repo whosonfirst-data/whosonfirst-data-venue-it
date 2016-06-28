@@ -2,13 +2,14 @@
   "id": 253709603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.44266,44.547207,11.44266,44.547207",
     "geom:latitude":44.547207,
     "geom:longitude":11.44266,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40057 Granarolo Dell'emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Lavorazioni Metalli, Stampaggio E Saldatura",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253709603,
-    "wof:lastmodified":1449063409,
+    "wof:lastmodified":1466296725,
     "wof:name":"Zani Srl Officine Meccaniche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.44266,44.547207,11.44266,44.547207],
+  "bbox": [
+    11.44266,
+    44.547207,
+    11.44266,
+    44.547207
+],
   "geometry": {"coordinates":[11.44266,44.547207],"type":"Point"}
 }

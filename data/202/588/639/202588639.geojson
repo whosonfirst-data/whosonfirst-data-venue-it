@@ -2,13 +2,14 @@
   "id": 202588639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.950755,44.400074,8.950755,44.400074",
     "geom:latitude":44.400074,
     "geom:longitude":8.950755,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16129 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202588639,
-    "wof:lastmodified":1449062168,
+    "wof:lastmodified":1466289814,
     "wof:name":"G.s.a. General Service Agency Srl",
     "wof:parent_id":85862649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trade"
     ]
 },
-  "bbox": [8.950755,44.400074,8.950755,44.400074],
+  "bbox": [
+    8.950755,
+    44.400074,
+    8.950755,
+    44.400074
+],
   "geometry": {"coordinates":[8.950755,44.400074],"type":"Point"}
 }

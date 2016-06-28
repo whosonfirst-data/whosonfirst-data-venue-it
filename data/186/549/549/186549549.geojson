@@ -2,13 +2,14 @@
   "id": 186549549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.783214,43.959381,12.783214,43.959381",
     "geom:latitude":43.959381,
     "geom:longitude":12.783214,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"123, Via Panoramica 61011 Gabicce Mare",
     "sg:city":"Gabicce Mare",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186549549,
-    "wof:lastmodified":1449051121,
+    "wof:lastmodified":1466292784,
     "wof:name":"Hotel Capo Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.783214,43.959381,12.783214,43.959381],
+  "bbox": [
+    12.783214,
+    43.959381,
+    12.783214,
+    43.959381
+],
   "geometry": {"coordinates":[12.783214,43.959381],"type":"Point"}
 }

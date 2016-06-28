@@ -2,13 +2,14 @@
   "id": 202627667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.766591,45.652046,13.766591,45.652046",
     "geom:latitude":45.652046,
     "geom:longitude":13.766591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34121 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202627667,
-    "wof:lastmodified":1449062719,
+    "wof:lastmodified":1466290268,
     "wof:name":"Navigazione Stoini Srl",
     "wof:parent_id":85904965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.766591,45.652046,13.766591,45.652046],
+  "bbox": [
+    13.766591,
+    45.652046,
+    13.766591,
+    45.652046
+],
   "geometry": {"coordinates":[13.766591,45.652046],"type":"Point"}
 }

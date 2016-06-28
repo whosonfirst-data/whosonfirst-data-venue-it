@@ -2,13 +2,14 @@
   "id": 320081903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.505344,45.588917,11.505344,45.588917",
     "geom:latitude":45.588917,
     "geom:longitude":11.505344,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36030 Costabissara",
     "sg:city":"Costabissara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320081903,
-    "wof:lastmodified":1449012428,
+    "wof:lastmodified":1466294404,
     "wof:name":"Innotek Di Veronese Omero & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.505344,45.588917,11.505344,45.588917],
+  "bbox": [
+    11.505344,
+    45.588917,
+    11.505344,
+    45.588917
+],
   "geometry": {"coordinates":[11.505344,45.588917],"type":"Point"}
 }

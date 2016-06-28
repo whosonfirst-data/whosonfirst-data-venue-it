@@ -2,13 +2,14 @@
   "id": 203112429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.420366,40.536877,17.420366,40.536877",
     "geom:latitude":40.536877,
     "geom:longitude":17.420366,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74023 Grottaglie",
     "sg:city":"Grottaglie",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203112429,
-    "wof:lastmodified":1449025786,
+    "wof:lastmodified":1466289016,
     "wof:name":"Modulo Zero Sud Soc.coop.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.420366,40.536877,17.420366,40.536877],
+  "bbox": [
+    17.420366,
+    40.536877,
+    17.420366,
+    40.536877
+],
   "geometry": {"coordinates":[17.420366,40.536877],"type":"Point"}
 }

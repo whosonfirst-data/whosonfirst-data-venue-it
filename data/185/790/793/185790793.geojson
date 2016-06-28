@@ -2,13 +2,14 @@
   "id": 185790793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56066,45.758648,8.56066,45.758648",
     "geom:latitude":45.758648,
     "geom:longitude":8.56066,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Della Repubblica 52; Arona",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185790793,
-    "wof:lastmodified":1449007858,
+    "wof:lastmodified":1466289219,
     "wof:name":"Banca Popolare Di Intra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.56066,45.758648,8.56066,45.758648],
+  "bbox": [
+    8.56066,
+    45.758648,
+    8.56066,
+    45.758648
+],
   "geometry": {"coordinates":[8.56066,45.758648],"type":"Point"}
 }

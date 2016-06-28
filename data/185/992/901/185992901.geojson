@@ -2,13 +2,14 @@
   "id": 185992901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.883291,45.414268,11.883291,45.414268",
     "geom:latitude":45.414268,
     "geom:longitude":11.883291,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Salvemini 13; Padova; 35131",
     "sg:city":"Padova",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185992901,
-    "wof:lastmodified":1449007372,
+    "wof:lastmodified":1466290724,
     "wof:name":"Cassa Di Risparmio Di Padova E Rovigo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.883291,45.414268,11.883291,45.414268],
+  "bbox": [
+    11.883291,
+    45.414268,
+    11.883291,
+    45.414268
+],
   "geometry": {"coordinates":[11.883291,45.414268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303150181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.304166,37.598724,14.304166,37.598724",
     "geom:latitude":37.598724,
     "geom:longitude":14.304166,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94100 Enna",
     "sg:city":"Enna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303150181,
-    "wof:lastmodified":1448998149,
+    "wof:lastmodified":1466292312,
     "wof:name":"Belgames Di Bellino Giuseppe Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.304166,37.598724,14.304166,37.598724],
+  "bbox": [
+    14.304166,
+    37.598724,
+    14.304166,
+    37.598724
+],
   "geometry": {"coordinates":[14.304166,37.598724],"type":"Point"}
 }

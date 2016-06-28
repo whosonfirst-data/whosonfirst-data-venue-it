@@ -2,13 +2,14 @@
   "id": 203255943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.532826,40.898472,14.532826,40.898472",
     "geom:latitude":40.898472,
     "geom:longitude":14.532826,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84014 Nocera Inferiore",
     "sg:city":"Nocera Inferiore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203255943,
-    "wof:lastmodified":1449025771,
+    "wof:lastmodified":1466290415,
     "wof:name":"Club Universo Soccorso E Protezione Civile Mayday",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.532826,40.898472,14.532826,40.898472],
+  "bbox": [
+    14.532826,
+    40.898472,
+    14.532826,
+    40.898472
+],
   "geometry": {"coordinates":[14.532826,40.898472],"type":"Point"}
 }

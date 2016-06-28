@@ -2,13 +2,14 @@
   "id": 169818275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.340635,44.503632,11.340635,44.503632",
     "geom:latitude":44.503632,
     "geom:longitude":11.340635,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7/h, V. Amendola 40121 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169818275,
-    "wof:lastmodified":1449034285,
+    "wof:lastmodified":1466288944,
     "wof:name":"Istituto Finanziario Del Lavoro Spa",
     "wof:parent_id":85904597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [11.340635,44.503632,11.340635,44.503632],
+  "bbox": [
+    11.340635,
+    44.503632,
+    11.340635,
+    44.503632
+],
   "geometry": {"coordinates":[11.340635,44.503632],"type":"Point"}
 }

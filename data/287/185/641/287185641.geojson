@@ -2,13 +2,14 @@
   "id": 287185641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.996425,44.764156,7.996425,44.764156",
     "geom:latitude":44.764156,
     "geom:longitude":7.996425,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Cso Canale 4 12051 Alba",
     "sg:city":"Alba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287185641,
-    "wof:lastmodified":1449000809,
+    "wof:lastmodified":1466292060,
     "wof:name":"F.t.s. Spa Ferrero Turbo Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.996425,44.764156,7.996425,44.764156],
+  "bbox": [
+    7.996425,
+    44.764156,
+    7.996425,
+    44.764156
+],
   "geometry": {"coordinates":[7.996425,44.764156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202622843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.909358,44.40567,8.909358,44.40567",
     "geom:latitude":44.40567,
     "geom:longitude":8.909358,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16126 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202622843,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1466290218,
     "wof:name":"Grandi Traghetti Spa",
     "wof:parent_id":85862663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.909358,44.40567,8.909358,44.40567],
+  "bbox": [
+    8.909358,
+    44.40567,
+    8.909358,
+    44.40567
+],
   "geometry": {"coordinates":[8.909358,44.40567],"type":"Point"}
 }

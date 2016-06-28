@@ -2,13 +2,14 @@
   "id": 336640607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.283378,44.512077,11.283378,44.512077",
     "geom:latitude":44.512077,
     "geom:longitude":11.283378,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1/11, V. Del Faggiolo 40132 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336640607,
-    "wof:lastmodified":1448997421,
+    "wof:lastmodified":1466294214,
     "wof:name":"Cortese Spa",
     "wof:parent_id":85904565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.283378,44.512077,11.283378,44.512077],
+  "bbox": [
+    11.283378,
+    44.512077,
+    11.283378,
+    44.512077
+],
   "geometry": {"coordinates":[11.283378,44.512077],"type":"Point"}
 }

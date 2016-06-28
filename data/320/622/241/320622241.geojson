@@ -2,13 +2,14 @@
   "id": 320622241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.323332,46.202682,8.323332,46.202682",
     "geom:latitude":46.202682,
     "geom:longitude":8.323332,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28862 Crodo",
     "sg:city":"Crodo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320622241,
-    "wof:lastmodified":1449014298,
+    "wof:lastmodified":1466297836,
     "wof:name":"Moro Serizzo Sas Di Moro Romeo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "marble"
     ]
 },
-  "bbox": [8.323332,46.202682,8.323332,46.202682],
+  "bbox": [
+    8.323332,
+    46.202682,
+    8.323332,
+    46.202682
+],
   "geometry": {"coordinates":[8.323332,46.202682],"type":"Point"}
 }

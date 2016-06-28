@@ -2,13 +2,14 @@
   "id": 236412703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.618671,45.445084,8.618671,45.445084",
     "geom:latitude":45.445084,
     "geom:longitude":8.618671,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Priv Arno 2 28078 Romagnano Sesia",
     "sg:city":"Romagnano Sesia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236412703,
-    "wof:lastmodified":1449002181,
+    "wof:lastmodified":1466293113,
     "wof:name":"Zepitex Di Zelioli, Piemontese & C Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hand"
     ]
 },
-  "bbox": [8.618671,45.445084,8.618671,45.445084],
+  "bbox": [
+    8.618671,
+    45.445084,
+    8.618671,
+    45.445084
+],
   "geometry": {"coordinates":[8.618671,45.445084],"type":"Point"}
 }

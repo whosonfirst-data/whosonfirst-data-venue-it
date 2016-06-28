@@ -2,13 +2,14 @@
   "id": 186003309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.054759,43.813625,11.054759,43.813625",
     "geom:latitude":43.813625,
     "geom:longitude":11.054759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Soffici 70; Poggio A Caiano",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186003309,
-    "wof:lastmodified":1449052816,
+    "wof:lastmodified":1466288909,
     "wof:name":"Cassa Di Risparmio Di Pistoia, E Pescia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.054759,43.813625,11.054759,43.813625],
+  "bbox": [
+    11.054759,
+    43.813625,
+    11.054759,
+    43.813625
+],
   "geometry": {"coordinates":[11.054759,43.813625],"type":"Point"}
 }

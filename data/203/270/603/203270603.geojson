@@ -2,13 +2,14 @@
   "id": 203270603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.00762,45.496479,9.00762,45.496479",
     "geom:latitude":45.496479,
     "geom:longitude":9.00762,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20018 Sedriano",
     "sg:city":"Sedriano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203270603,
-    "wof:lastmodified":1449025285,
+    "wof:lastmodified":1466290575,
     "wof:name":"Cooperativa Circolo Familiare",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.00762,45.496479,9.00762,45.496479],
+  "bbox": [
+    9.00762,
+    45.496479,
+    9.00762,
+    45.496479
+],
   "geometry": {"coordinates":[9.00762,45.496479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286548713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.149593,45.533878,12.149593,45.533878",
     "geom:latitude":45.533878,
     "geom:longitude":12.149593,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Via Ca' Rossa 30030 Martellago",
     "sg:city":"Martellago",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286548713,
-    "wof:lastmodified":1449017222,
+    "wof:lastmodified":1466293296,
     "wof:name":"Maglificio Leonardo (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.149593,45.533878,12.149593,45.533878],
+  "bbox": [
+    12.149593,
+    45.533878,
+    12.149593,
+    45.533878
+],
   "geometry": {"coordinates":[12.149593,45.533878],"type":"Point"}
 }

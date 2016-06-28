@@ -2,13 +2,14 @@
   "id": 253705031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.605299,45.089386,7.605299,45.089386",
     "geom:latitude":45.089386,
     "geom:longitude":7.605299,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10093 Collegno",
     "sg:city":"Collegno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253705031,
-    "wof:lastmodified":1449065824,
+    "wof:lastmodified":1466296964,
     "wof:name":"Stampal Machining Srl",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.605299,45.089386,7.605299,45.089386],
+  "bbox": [
+    7.605299,
+    45.089386,
+    7.605299,
+    45.089386
+],
   "geometry": {"coordinates":[7.605299,45.089386],"type":"Point"}
 }

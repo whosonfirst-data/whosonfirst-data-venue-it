@@ -2,13 +2,14 @@
   "id": 287058093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.302564,45.495796,9.302564,45.495796",
     "geom:latitude":45.495796,
     "geom:longitude":9.302564,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Degli Alpini 20090 Segrate",
     "sg:city":"Segrate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287058093,
-    "wof:lastmodified":1449000788,
+    "wof:lastmodified":1466290329,
     "wof:name":"A.c.s. Aviosped Cargo Service (s.r.l.)",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [9.302564,45.495796,9.302564,45.495796],
+  "bbox": [
+    9.302564,
+    45.495796,
+    9.302564,
+    45.495796
+],
   "geometry": {"coordinates":[9.302564,45.495796],"type":"Point"}
 }

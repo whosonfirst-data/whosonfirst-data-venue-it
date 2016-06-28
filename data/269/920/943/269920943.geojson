@@ -2,13 +2,14 @@
   "id": 269920943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.61493,44.734055,10.61493,44.734055",
     "geom:latitude":44.734055,
     "geom:longitude":10.61493,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Nobel Alfred Bernhard 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269920943,
-    "wof:lastmodified":1449038277,
+    "wof:lastmodified":1466294379,
     "wof:name":"Intercosped (s.r.l.)",
     "wof:parent_id":85904891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [10.61493,44.734055,10.61493,44.734055],
+  "bbox": [
+    10.61493,
+    44.734055,
+    10.61493,
+    44.734055
+],
   "geometry": {"coordinates":[10.61493,44.734055],"type":"Point"}
 }

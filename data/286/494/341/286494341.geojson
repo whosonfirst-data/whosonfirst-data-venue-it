@@ -2,13 +2,14 @@
   "id": 286494341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.97842,44.405312,8.97842,44.405312",
     "geom:latitude":44.405312,
     "geom:longitude":8.97842,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via Vernazza 16131 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286494341,
-    "wof:lastmodified":1449017780,
+    "wof:lastmodified":1466292643,
     "wof:name":"Cornucopia Di Giuliana Poggi",
     "wof:parent_id":85862641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.97842,44.405312,8.97842,44.405312],
+  "bbox": [
+    8.97842,
+    44.405312,
+    8.97842,
+    44.405312
+],
   "geometry": {"coordinates":[8.97842,44.405312],"type":"Point"}
 }

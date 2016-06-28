@@ -2,13 +2,14 @@
   "id": 219349339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.470535,41.801617,12.470535,41.801617",
     "geom:latitude":41.801617,
     "geom:longitude":12.470535,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00192 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219349339,
-    "wof:lastmodified":1449071722,
+    "wof:lastmodified":1466289799,
     "wof:name":"Zaccherini Gino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.470535,41.801617,12.470535,41.801617],
+  "bbox": [
+    12.470535,
+    41.801617,
+    12.470535,
+    41.801617
+],
   "geometry": {"coordinates":[12.470535,41.801617],"type":"Point"}
 }

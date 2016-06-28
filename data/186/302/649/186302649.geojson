@@ -2,13 +2,14 @@
   "id": 186302649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.537447,38.035187,12.537447,38.035187",
     "geom:latitude":38.035187,
     "geom:longitude":12.537447,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91016 Erice",
     "sg:city":"Erice",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186302649,
-    "wof:lastmodified":1449051292,
+    "wof:lastmodified":1466290528,
     "wof:name":"Rizzo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.537447,38.035187,12.537447,38.035187],
+  "bbox": [
+    12.537447,
+    38.035187,
+    12.537447,
+    38.035187
+],
   "geometry": {"coordinates":[12.537447,38.035187],"type":"Point"}
 }

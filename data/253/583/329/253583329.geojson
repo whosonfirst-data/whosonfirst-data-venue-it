@@ -2,13 +2,14 @@
   "id": 253583329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.361577,45.327606,11.361577,45.327606",
     "geom:latitude":45.327606,
     "geom:longitude":11.361577,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Camatte 1 37040 Zimella",
     "sg:city":"Zimella",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253583329,
-    "wof:lastmodified":1449065136,
+    "wof:lastmodified":1466295738,
     "wof:name":"Rankover Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lacquer"
     ]
 },
-  "bbox": [11.361577,45.327606,11.361577,45.327606],
+  "bbox": [
+    11.361577,
+    45.327606,
+    11.361577,
+    45.327606
+],
   "geometry": {"coordinates":[11.361577,45.327606],"type":"Point"}
 }

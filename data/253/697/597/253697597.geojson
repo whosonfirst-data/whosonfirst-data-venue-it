@@ -2,13 +2,14 @@
   "id": 253697597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.346453,46.019779,9.346453,46.019779",
     "geom:latitude":46.019779,
     "geom:longitude":9.346453,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23837 Parlasco",
     "sg:city":"Parlasco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253697597,
-    "wof:lastmodified":1449064688,
+    "wof:lastmodified":1466296818,
     "wof:name":"O.p.f.b. Officina Parlaschina Fratelli Busi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.346453,46.019779,9.346453,46.019779],
+  "bbox": [
+    9.346453,
+    46.019779,
+    9.346453,
+    46.019779
+],
   "geometry": {"coordinates":[9.346453,46.019779],"type":"Point"}
 }

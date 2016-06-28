@@ -2,13 +2,14 @@
   "id": 287244047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.987643,45.725513,8.987643,45.725513",
     "geom:latitude":45.725513,
     "geom:longitude":8.987643,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via Alessandro Manzoni 22074 Lomazzo",
     "sg:city":"Lomazzo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287244047,
-    "wof:lastmodified":1449001023,
+    "wof:lastmodified":1466292855,
     "wof:name":"Effebi Di Bianchi Franca E C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "electronic"
     ]
 },
-  "bbox": [8.987643,45.725513,8.987643,45.725513],
+  "bbox": [
+    8.987643,
+    45.725513,
+    8.987643,
+    45.725513
+],
   "geometry": {"coordinates":[8.987643,45.725513],"type":"Point"}
 }

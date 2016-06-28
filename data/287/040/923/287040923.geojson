@@ -2,13 +2,14 @@
   "id": 287040923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.880188,43.899986,12.880188,43.899986",
     "geom:latitude":43.899986,
     "geom:longitude":12.880188,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Liguria 30 61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287040923,
-    "wof:lastmodified":1449001570,
+    "wof:lastmodified":1466290101,
     "wof:name":"Mastro De Paja Di Montini Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [12.880188,43.899986,12.880188,43.899986],
+  "bbox": [
+    12.880188,
+    43.899986,
+    12.880188,
+    43.899986
+],
   "geometry": {"coordinates":[12.880188,43.899986],"type":"Point"}
 }

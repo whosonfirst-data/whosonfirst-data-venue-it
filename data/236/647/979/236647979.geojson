@@ -2,13 +2,14 @@
   "id": 236647979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.501079,45.804459,12.501079,45.804459",
     "geom:latitude":45.804459,
     "geom:longitude":12.501079,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Istria 31046 Oderzo",
     "sg:city":"Oderzo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236647979,
-    "wof:lastmodified":1449003165,
+    "wof:lastmodified":1466295458,
     "wof:name":"Promec Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.501079,45.804459,12.501079,45.804459],
+  "bbox": [
+    12.501079,
+    45.804459,
+    12.501079,
+    45.804459
+],
   "geometry": {"coordinates":[12.501079,45.804459],"type":"Point"}
 }

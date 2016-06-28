@@ -2,13 +2,14 @@
   "id": 252872363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.462957,41.928513,12.462957,41.928513",
     "geom:latitude":41.928513,
     "geom:longitude":12.462957,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00196 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252872363,
-    "wof:lastmodified":1449005508,
+    "wof:lastmodified":1466290732,
     "wof:name":"Terzulli Franco & Bonucci Iliana (s.d.f.)",
     "wof:parent_id":85904943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.462957,41.928513,12.462957,41.928513],
+  "bbox": [
+    12.462957,
+    41.928513,
+    12.462957,
+    41.928513
+],
   "geometry": {"coordinates":[12.462957,41.928513],"type":"Point"}
 }

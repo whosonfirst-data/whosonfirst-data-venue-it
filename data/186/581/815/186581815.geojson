@@ -2,13 +2,14 @@
   "id": 186581815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.359067,38.128643,13.359067,38.128643",
     "geom:latitude":38.128643,
     "geom:longitude":13.359067,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90139 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186581815,
-    "wof:lastmodified":1449050970,
+    "wof:lastmodified":1466293116,
     "wof:name":"Eurocart Spa",
     "wof:parent_id":85904867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.359067,38.128643,13.359067,38.128643],
+  "bbox": [
+    13.359067,
+    38.128643,
+    13.359067,
+    38.128643
+],
   "geometry": {"coordinates":[13.359067,38.128643],"type":"Point"}
 }

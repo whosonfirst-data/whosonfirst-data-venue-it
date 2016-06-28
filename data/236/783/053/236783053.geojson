@@ -2,13 +2,14 @@
   "id": 236783053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.580259,40.729191,17.580259,40.729191",
     "geom:latitude":40.729191,
     "geom:longitude":17.580259,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87, C. G. Garibaldi 72017 Ostuni",
     "sg:city":"Ostuni",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236783053,
-    "wof:lastmodified":1449001757,
+    "wof:lastmodified":1466296498,
     "wof:name":"Casa Vogue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.580259,40.729191,17.580259,40.729191],
+  "bbox": [
+    17.580259,
+    40.729191,
+    17.580259,
+    40.729191
+],
   "geometry": {"coordinates":[17.580259,40.729191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269493911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.449112,43.78138,11.449112,43.78138",
     "geom:latitude":43.78138,
     "geom:longitude":11.449112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Boccaccio 50060 Pelago",
     "sg:city":"Pelago",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269493911,
-    "wof:lastmodified":1449036911,
+    "wof:lastmodified":1466289061,
     "wof:name":"Pelletteria Alba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.449112,43.78138,11.449112,43.78138],
+  "bbox": [
+    11.449112,
+    43.78138,
+    11.449112,
+    43.78138
+],
   "geometry": {"coordinates":[11.449112,43.78138],"type":"Point"}
 }

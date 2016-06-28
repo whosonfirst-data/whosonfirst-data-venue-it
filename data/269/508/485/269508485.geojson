@@ -2,13 +2,14 @@
   "id": 269508485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.234113,40.869823,14.234113,40.869823",
     "geom:latitude":40.869823,
     "geom:longitude":14.234113,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Nicolardi Edoardo 80131 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269508485,
-    "wof:lastmodified":1449037475,
+    "wof:lastmodified":1466289237,
     "wof:name":"Attilio (s.p.a.)",
     "wof:parent_id":85904799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [14.234113,40.869823,14.234113,40.869823],
+  "bbox": [
+    14.234113,
+    40.869823,
+    14.234113,
+    40.869823
+],
   "geometry": {"coordinates":[14.234113,40.869823],"type":"Point"}
 }

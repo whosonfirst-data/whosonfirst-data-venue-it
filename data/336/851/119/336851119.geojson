@@ -2,13 +2,14 @@
   "id": 336851119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.309535,45.621666,9.309535,45.621666",
     "geom:latitude":45.621666,
     "geom:longitude":9.309535,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83, Viale Monte Rosa 20043 Arcore",
     "sg:city":"Arcore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336851119,
-    "wof:lastmodified":1448997641,
+    "wof:lastmodified":1466296601,
     "wof:name":"Vatinio Massenzana Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.309535,45.621666,9.309535,45.621666],
+  "bbox": [
+    9.309535,
+    45.621666,
+    9.309535,
+    45.621666
+],
   "geometry": {"coordinates":[9.309535,45.621666],"type":"Point"}
 }

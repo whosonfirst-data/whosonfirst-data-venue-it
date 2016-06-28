@@ -2,13 +2,14 @@
   "id": 253708787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.070966,45.466152,9.070966,45.466152",
     "geom:latitude":45.466152,
     "geom:longitude":9.070966,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253708787,
-    "wof:lastmodified":1449063279,
+    "wof:lastmodified":1466296716,
     "wof:name":"Volpi Luigi E C. S.n.c.",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.070966,45.466152,9.070966,45.466152],
+  "bbox": [
+    9.070966,
+    45.466152,
+    9.070966,
+    45.466152
+],
   "geometry": {"coordinates":[9.070966,45.466152],"type":"Point"}
 }

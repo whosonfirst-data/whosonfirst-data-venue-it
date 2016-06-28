@@ -2,13 +2,14 @@
   "id": 202786563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.394781,41.912735,12.394781,41.912735",
     "geom:latitude":41.912735,
     "geom:longitude":12.394781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00166 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202786563,
-    "wof:lastmodified":1449060434,
+    "wof:lastmodified":1466292056,
     "wof:name":"A. E S. Di Guido Planeta (guido Planeta Music Live)",
     "wof:parent_id":85900497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "il"
     ]
 },
-  "bbox": [12.394781,41.912735,12.394781,41.912735],
+  "bbox": [
+    12.394781,
+    41.912735,
+    12.394781,
+    41.912735
+],
   "geometry": {"coordinates":[12.394781,41.912735],"type":"Point"}
 }

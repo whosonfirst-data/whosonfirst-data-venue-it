@@ -2,13 +2,14 @@
   "id": 169776835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.110825,45.492554,12.110825,45.492554",
     "geom:latitude":45.492554,
     "geom:longitude":12.110825,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30035 Mirano",
     "sg:city":"Mirano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169776835,
-    "wof:lastmodified":1449033404,
+    "wof:lastmodified":1466295741,
     "wof:name":"Cassamarca S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.110825,45.492554,12.110825,45.492554],
+  "bbox": [
+    12.110825,
+    45.492554,
+    12.110825,
+    45.492554
+],
   "geometry": {"coordinates":[12.110825,45.492554],"type":"Point"}
 }

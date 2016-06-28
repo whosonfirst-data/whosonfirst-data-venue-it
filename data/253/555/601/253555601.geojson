@@ -2,13 +2,14 @@
   "id": 253555601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.536602,45.904388,13.536602,45.904388",
     "geom:latitude":45.904388,
     "geom:longitude":13.536602,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34072 Farra D'isonzo",
     "sg:classifiers":[],
     "sg:orig_category":"Utensili Meccanici E Materiali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253555601,
-    "wof:lastmodified":1449065352,
+    "wof:lastmodified":1466295356,
     "wof:name":"Modelleria Zorzenon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.536602,45.904388,13.536602,45.904388],
+  "bbox": [
+    13.536602,
+    45.904388,
+    13.536602,
+    45.904388
+],
   "geometry": {"coordinates":[13.536602,45.904388],"type":"Point"}
 }

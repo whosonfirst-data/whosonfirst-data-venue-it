@@ -2,13 +2,14 @@
   "id": 253212295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.002471,43.944622,8.002471,43.944622",
     "geom:latitude":43.944622,
     "geom:longitude":8.002471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Regione Gombi Della Luna 18027 Chiusavecchia",
     "sg:city":"Chiusavecchia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253212295,
-    "wof:lastmodified":1449064749,
+    "wof:lastmodified":1466291103,
     "wof:name":"Vincenzo Salvo Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "olive-oil"
     ]
 },
-  "bbox": [8.002471,43.944622,8.002471,43.944622],
+  "bbox": [
+    8.002471,
+    43.944622,
+    8.002471,
+    43.944622
+],
   "geometry": {"coordinates":[8.002471,43.944622],"type":"Point"}
 }

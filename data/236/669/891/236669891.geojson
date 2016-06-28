@@ -2,13 +2,14 @@
   "id": 236669891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.715957,43.833084,12.715957,43.833084",
     "geom:latitude":43.833084,
     "geom:longitude":12.715957,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"107, Via Del Piano 61022 Colbordolo",
     "sg:city":"Colbordolo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236669891,
-    "wof:lastmodified":1449001961,
+    "wof:lastmodified":1466295661,
     "wof:name":"Tiesse Assemblaggio Mobili Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.715957,43.833084,12.715957,43.833084],
+  "bbox": [
+    12.715957,
+    43.833084,
+    12.715957,
+    43.833084
+],
   "geometry": {"coordinates":[12.715957,43.833084],"type":"Point"}
 }

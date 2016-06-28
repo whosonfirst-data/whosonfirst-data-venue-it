@@ -2,13 +2,14 @@
   "id": 269794267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.83497,45.609436,8.83497,45.609436",
     "geom:latitude":45.609436,
     "geom:longitude":8.83497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21052 Busto Arsizio",
     "sg:city":"Busto Arsizio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269794267,
-    "wof:lastmodified":1449037295,
+    "wof:lastmodified":1466292958,
     "wof:name":"Energheia Di Sambo Ilaria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.83497,45.609436,8.83497,45.609436],
+  "bbox": [
+    8.83497,
+    45.609436,
+    8.83497,
+    45.609436
+],
   "geometry": {"coordinates":[8.83497,45.609436],"type":"Point"}
 }

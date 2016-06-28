@@ -2,13 +2,14 @@
   "id": 253535677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.482428,41.862446,12.482428,41.862446",
     "geom:latitude":41.862446,
     "geom:longitude":12.482428,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00154 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253535677,
-    "wof:lastmodified":1449063356,
+    "wof:lastmodified":1466295078,
     "wof:name":"Bruno Castrichella & C. Sas",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.482428,41.862446,12.482428,41.862446],
+  "bbox": [
+    12.482428,
+    41.862446,
+    12.482428,
+    41.862446
+],
   "geometry": {"coordinates":[12.482428,41.862446],"type":"Point"}
 }

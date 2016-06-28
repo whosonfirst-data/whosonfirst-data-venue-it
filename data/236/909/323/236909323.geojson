@@ -2,13 +2,14 @@
   "id": 236909323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.000429,45.183804,10.000429,45.183804",
     "geom:latitude":45.183804,
     "geom:longitude":10.000429,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Via Bergamo 26022 Castelverde",
     "sg:city":"Castelverde",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236909323,
-    "wof:lastmodified":1449004260,
+    "wof:lastmodified":1466297197,
     "wof:name":"C.m.f. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [10.000429,45.183804,10.000429,45.183804],
+  "bbox": [
+    10.000429,
+    45.183804,
+    10.000429,
+    45.183804
+],
   "geometry": {"coordinates":[10.000429,45.183804],"type":"Point"}
 }

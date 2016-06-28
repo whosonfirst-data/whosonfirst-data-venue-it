@@ -2,13 +2,14 @@
   "id": 287160041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.387611,38.088314,13.387611,38.088314",
     "geom:latitude":38.088314,
     "geom:longitude":13.387611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90124 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287160041,
-    "wof:lastmodified":1449001426,
+    "wof:lastmodified":1466291711,
     "wof:name":"Riticella Francesco",
     "wof:parent_id":85904861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.387611,38.088314,13.387611,38.088314],
+  "bbox": [
+    13.387611,
+    38.088314,
+    13.387611,
+    38.088314
+],
   "geometry": {"coordinates":[13.387611,38.088314],"type":"Point"}
 }

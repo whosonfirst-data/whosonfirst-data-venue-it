@@ -2,13 +2,14 @@
   "id": 169756019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.173679,45.462467,9.173679,45.462467",
     "geom:latitude":45.462467,
     "geom:longitude":9.173679,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169756019,
-    "wof:lastmodified":1449034663,
+    "wof:lastmodified":1466296316,
     "wof:name":"Getmoney Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.173679,45.462467,9.173679,45.462467],
+  "bbox": [
+    9.173679,
+    45.462467,
+    9.173679,
+    45.462467
+],
   "geometry": {"coordinates":[9.173679,45.462467],"type":"Point"}
 }

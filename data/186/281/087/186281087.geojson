@@ -2,13 +2,14 @@
   "id": 186281087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.75421,36.873722,14.75421,36.873722",
     "geom:latitude":36.873722,
     "geom:longitude":14.75421,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97015 Modica",
     "sg:city":"Modica",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186281087,
-    "wof:lastmodified":1449052600,
+    "wof:lastmodified":1466290330,
     "wof:name":"Bibite Polara Di Polara Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.75421,36.873722,14.75421,36.873722],
+  "bbox": [
+    14.75421,
+    36.873722,
+    14.75421,
+    36.873722
+],
   "geometry": {"coordinates":[14.75421,36.873722],"type":"Point"}
 }

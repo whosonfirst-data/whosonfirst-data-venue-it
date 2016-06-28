@@ -2,13 +2,14 @@
   "id": 186100667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.188141,45.463688,9.188141,45.463688",
     "geom:latitude":45.463688,
     "geom:longitude":9.188141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rovagnati 1, I-20033 Desio, Mi",
     "sg:city":"Desio",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186100667,
-    "wof:lastmodified":1449052337,
+    "wof:lastmodified":1466296051,
     "wof:name":"Desio E Brianza Leasing Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.188141,45.463688,9.188141,45.463688],
+  "bbox": [
+    9.188141,
+    45.463688,
+    9.188141,
+    45.463688
+],
   "geometry": {"coordinates":[9.188141,45.463688],"type":"Point"}
 }

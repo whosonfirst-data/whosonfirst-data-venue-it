@@ -2,13 +2,14 @@
   "id": 186168907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.500745,41.8344,12.500745,41.8344",
     "geom:latitude":41.8344,
     "geom:longitude":12.500745,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mario Bianchini 60, 00142 Rome, Rm",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186168907,
-    "wof:lastmodified":1449051775,
+    "wof:lastmodified":1466289380,
     "wof:name":"Mediocredito Di Roma Spa",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.500745,41.8344,12.500745,41.8344],
+  "bbox": [
+    12.500745,
+    41.8344,
+    12.500745,
+    41.8344
+],
   "geometry": {"coordinates":[12.500745,41.8344],"type":"Point"}
 }

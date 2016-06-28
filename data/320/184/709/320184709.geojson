@@ -2,13 +2,14 @@
   "id": 320184709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.428098,38.083416,13.428098,38.083416",
     "geom:latitude":38.083416,
     "geom:longitude":13.428098,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90121 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320184709,
-    "wof:lastmodified":1449011891,
+    "wof:lastmodified":1466295626,
     "wof:name":"Dsm D'aquila",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.428098,38.083416,13.428098,38.083416],
+  "bbox": [
+    13.428098,
+    38.083416,
+    13.428098,
+    38.083416
+],
   "geometry": {"coordinates":[13.428098,38.083416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320763551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.366962,43.515297,10.366962,43.515297",
     "geom:latitude":43.515297,
     "geom:longitude":10.366962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57128 Livorno",
     "sg:city":"Livorno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320763551,
-    "wof:lastmodified":1449014951,
+    "wof:lastmodified":1466298105,
     "wof:name":"Poggianti Erica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.366962,43.515297,10.366962,43.515297],
+  "bbox": [
+    10.366962,
+    43.515297,
+    10.366962,
+    43.515297
+],
   "geometry": {"coordinates":[10.366962,43.515297],"type":"Point"}
 }

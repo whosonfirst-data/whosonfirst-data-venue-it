@@ -2,13 +2,14 @@
   "id": 269885633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.072779,37.481281,15.072779,37.481281",
     "geom:latitude":37.481281,
     "geom:longitude":15.072779,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Forcile 95121 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269885633,
-    "wof:lastmodified":1449037413,
+    "wof:lastmodified":1466293977,
     "wof:name":"Primefrut S.r.l.",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [15.072779,37.481281,15.072779,37.481281],
+  "bbox": [
+    15.072779,
+    37.481281,
+    15.072779,
+    37.481281
+],
   "geometry": {"coordinates":[15.072779,37.481281],"type":"Point"}
 }

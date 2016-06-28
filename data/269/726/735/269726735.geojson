@@ -2,13 +2,14 @@
   "id": 269726735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.055883,45.567852,8.055883,45.567852",
     "geom:latitude":45.567852,
     "geom:longitude":8.055883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13900 Biella",
     "sg:city":"Biella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269726735,
-    "wof:lastmodified":1449037756,
+    "wof:lastmodified":1466292060,
     "wof:name":"Ifir Piemonte - Istituto Vendite Giudiziarie (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.055883,45.567852,8.055883,45.567852],
+  "bbox": [
+    8.055883,
+    45.567852,
+    8.055883,
+    45.567852
+],
   "geometry": {"coordinates":[8.055883,45.567852],"type":"Point"}
 }

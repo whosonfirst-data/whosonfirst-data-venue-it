@@ -2,13 +2,14 @@
   "id": 270205759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.896853,44.862087,7.896853,44.862087",
     "geom:latitude":44.862087,
     "geom:longitude":7.896853,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10046 Isolabella",
     "sg:city":"Isolabella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270205759,
-    "wof:lastmodified":1449010112,
+    "wof:lastmodified":1466291497,
     "wof:name":"Prosciutti Rosa Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.896853,44.862087,7.896853,44.862087],
+  "bbox": [
+    7.896853,
+    44.862087,
+    7.896853,
+    44.862087
+],
   "geometry": {"coordinates":[7.896853,44.862087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236031665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.078395,45.808186,9.078395,45.808186",
     "geom:latitude":45.808186,
     "geom:longitude":9.078395,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236031665,
-    "wof:lastmodified":1449002759,
+    "wof:lastmodified":1466289215,
     "wof:name":"Due Elle Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.078395,45.808186,9.078395,45.808186],
+  "bbox": [
+    9.078395,
+    45.808186,
+    9.078395,
+    45.808186
+],
   "geometry": {"coordinates":[9.078395,45.808186],"type":"Point"}
 }

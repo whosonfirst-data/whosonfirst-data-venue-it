@@ -2,13 +2,14 @@
   "id": 236006635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.475611,42.861465,13.475611,42.861465",
     "geom:latitude":42.861465,
     "geom:longitude":13.475611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63049 Roccafluvione",
     "sg:city":"Roccafluvione",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236006635,
-    "wof:lastmodified":1449004475,
+    "wof:lastmodified":1466288954,
     "wof:name":"Ambient Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.475611,42.861465,13.475611,42.861465],
+  "bbox": [
+    13.475611,
+    42.861465,
+    13.475611,
+    42.861465
+],
   "geometry": {"coordinates":[13.475611,42.861465],"type":"Point"}
 }

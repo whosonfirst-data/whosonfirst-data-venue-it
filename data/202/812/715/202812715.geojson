@@ -2,13 +2,14 @@
   "id": 202812715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.295684,43.768154,11.295684,43.768154",
     "geom:latitude":43.768154,
     "geom:longitude":11.295684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50136 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202812715,
-    "wof:lastmodified":1449060169,
+    "wof:lastmodified":1466292329,
     "wof:name":"Micheli Sergio",
     "wof:parent_id":85904681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.295684,43.768154,11.295684,43.768154],
+  "bbox": [
+    11.295684,
+    43.768154,
+    11.295684,
+    43.768154
+],
   "geometry": {"coordinates":[11.295684,43.768154],"type":"Point"}
 }

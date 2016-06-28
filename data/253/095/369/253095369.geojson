@@ -2,13 +2,14 @@
   "id": 253095369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.078523,45.41531,9.078523,45.41531",
     "geom:latitude":45.41531,
     "geom:longitude":9.078523,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marchesina 42 20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253095369,
-    "wof:lastmodified":1449064330,
+    "wof:lastmodified":1466289922,
     "wof:name":"Fugas Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.078523,45.41531,9.078523,45.41531],
+  "bbox": [
+    9.078523,
+    45.41531,
+    9.078523,
+    45.41531
+],
   "geometry": {"coordinates":[9.078523,45.41531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303120989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.124241,39.218353,9.124241,39.218353",
     "geom:latitude":39.218353,
     "geom:longitude":9.124241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09127 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303120989,
-    "wof:lastmodified":1449000211,
+    "wof:lastmodified":1466291917,
     "wof:name":"I.s.a.c. Srl",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.124241,39.218353,9.124241,39.218353],
+  "bbox": [
+    9.124241,
+    39.218353,
+    9.124241,
+    39.218353
+],
   "geometry": {"coordinates":[9.124241,39.218353],"type":"Point"}
 }

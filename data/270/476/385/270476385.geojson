@@ -2,13 +2,14 @@
   "id": 270476385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.768427,40.891777,16.768427,40.891777",
     "geom:latitude":40.891777,
     "geom:longitude":16.768427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Netti Francesco 70020 Cassano Delle Murge",
     "sg:city":"Cassano delle Murge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270476385,
-    "wof:lastmodified":1449009625,
+    "wof:lastmodified":1466294773,
     "wof:name":"Trofomed S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cereal"
     ]
 },
-  "bbox": [16.768427,40.891777,16.768427,40.891777],
+  "bbox": [
+    16.768427,
+    40.891777,
+    16.768427,
+    40.891777
+],
   "geometry": {"coordinates":[16.768427,40.891777],"type":"Point"}
 }

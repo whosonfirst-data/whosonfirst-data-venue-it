@@ -2,13 +2,14 @@
   "id": 236040857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.017998,45.661255,9.017998,45.661255",
     "geom:latitude":45.661255,
     "geom:longitude":9.017998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Isonzo 17 22078 Turate",
     "sg:city":"Turate",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236040857,
-    "wof:lastmodified":1449005135,
+    "wof:lastmodified":1466289307,
     "wof:name":"Promek Produzione Articoli Meccanici Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dispenser"
     ]
 },
-  "bbox": [9.017998,45.661255,9.017998,45.661255],
+  "bbox": [
+    9.017998,
+    45.661255,
+    9.017998,
+    45.661255
+],
   "geometry": {"coordinates":[9.017998,45.661255],"type":"Point"}
 }

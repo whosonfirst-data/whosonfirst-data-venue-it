@@ -2,13 +2,14 @@
   "id": 269963445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.182414,46.73748,12.182414,46.73748",
     "geom:latitude":46.73748,
     "geom:longitude":12.182414,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39039 Villabassa",
     "sg:city":"Villabassa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269963445,
-    "wof:lastmodified":1449036377,
+    "wof:lastmodified":1466294852,
     "wof:name":"Albergo Weiherbad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.182414,46.73748,12.182414,46.73748],
+  "bbox": [
+    12.182414,
+    46.73748,
+    12.182414,
+    46.73748
+],
   "geometry": {"coordinates":[12.182414,46.73748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236182057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.04218,44.507664,12.04218,44.507664",
     "geom:latitude":44.507664,
     "geom:longitude":12.04218,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Reale 63 48011 Alfonsine",
     "sg:city":"Alfonsine",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236182057,
-    "wof:lastmodified":1449003796,
+    "wof:lastmodified":1466290690,
     "wof:name":"Facchini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dynamometers"
     ]
 },
-  "bbox": [12.04218,44.507664,12.04218,44.507664],
+  "bbox": [
+    12.04218,
+    44.507664,
+    12.04218,
+    44.507664
+],
   "geometry": {"coordinates":[12.04218,44.507664],"type":"Point"}
 }

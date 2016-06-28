@@ -2,13 +2,14 @@
   "id": 236158203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.200791,44.678783,8.200791,44.678783",
     "geom:latitude":44.678783,
     "geom:longitude":8.200791,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Localita' San Bovo 12054 Cossano Belbo",
     "sg:city":"Cossano Belbo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236158203,
-    "wof:lastmodified":1449003930,
+    "wof:lastmodified":1466290452,
     "wof:name":"Fratelli Martini Secondo Luigi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [8.200791,44.678783,8.200791,44.678783],
+  "bbox": [
+    8.200791,
+    44.678783,
+    8.200791,
+    44.678783
+],
   "geometry": {"coordinates":[8.200791,44.678783],"type":"Point"}
 }

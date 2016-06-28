@@ -2,13 +2,14 @@
   "id": 253580997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.803926,45.66555,8.803926,45.66555",
     "geom:latitude":45.66555,
     "geom:longitude":8.803926,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Arconti 4 21013 Gallarate",
     "sg:city":"Gallarate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253580997,
-    "wof:lastmodified":1449064831,
+    "wof:lastmodified":1466295710,
     "wof:name":"Ricamificio Carlo Canziani Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lace"
     ]
 },
-  "bbox": [8.803926,45.66555,8.803926,45.66555],
+  "bbox": [
+    8.803926,
+    45.66555,
+    8.803926,
+    45.66555
+],
   "geometry": {"coordinates":[8.803926,45.66555],"type":"Point"}
 }

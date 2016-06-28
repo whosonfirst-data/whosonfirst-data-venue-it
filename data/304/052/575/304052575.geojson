@@ -2,13 +2,14 @@
   "id": 304052575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.66785,45.023335,7.66785,45.023335",
     "geom:latitude":45.023335,
     "geom:longitude":7.66785,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10144 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304052575,
-    "wof:lastmodified":1449043799,
+    "wof:lastmodified":1466292885,
     "wof:name":"Greca Giusy",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.66785,45.023335,7.66785,45.023335],
+  "bbox": [
+    7.66785,
+    45.023335,
+    7.66785,
+    45.023335
+],
   "geometry": {"coordinates":[7.66785,45.023335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186026833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.240126,43.457474,12.240126,43.457474",
     "geom:latitude":43.457474,
     "geom:longitude":12.240126,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Matteotti 1; Citta Di Castello; 06012",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186026833,
-    "wof:lastmodified":1449051949,
+    "wof:lastmodified":1466294395,
     "wof:name":"Cassa Di Risparmio, Di Citta'di Castello Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.240126,43.457474,12.240126,43.457474],
+  "bbox": [
+    12.240126,
+    43.457474,
+    12.240126,
+    43.457474
+],
   "geometry": {"coordinates":[12.240126,43.457474],"type":"Point"}
 }

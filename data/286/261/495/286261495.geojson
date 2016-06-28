@@ -2,13 +2,14 @@
   "id": 286261495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.382496,44.476738,11.382496,44.476738",
     "geom:latitude":44.476738,
     "geom:longitude":11.382496,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Piazza Belluno 40139 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":286261495,
-    "wof:lastmodified":1449015209,
+    "wof:lastmodified":1466296264,
     "wof:name":"Procor (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [11.382496,44.476738,11.382496,44.476738],
+  "bbox": [
+    11.382496,
+    44.476738,
+    11.382496,
+    44.476738
+],
   "geometry": {"coordinates":[11.382496,44.476738],"type":"Point"}
 }

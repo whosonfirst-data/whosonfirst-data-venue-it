@@ -2,13 +2,14 @@
   "id": 220100793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.981349,45.421162,7.981349,45.421162",
     "geom:latitude":45.421162,
     "geom:longitude":7.981349,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piane 10010 Azeglio",
     "sg:city":"Azeglio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220100793,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466295955,
     "wof:name":"Laporte Italia S.p.a. - Divisione Gomet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [7.981349,45.421162,7.981349,45.421162],
+  "bbox": [
+    7.981349,
+    45.421162,
+    7.981349,
+    45.421162
+],
   "geometry": {"coordinates":[7.981349,45.421162],"type":"Point"}
 }

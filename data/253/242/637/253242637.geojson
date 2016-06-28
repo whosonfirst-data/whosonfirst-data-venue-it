@@ -2,13 +2,14 @@
   "id": 253242637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.363599,44.490036,11.363599,44.490036",
     "geom:latitude":44.490036,
     "geom:longitude":11.363599,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253242637,
-    "wof:lastmodified":1449065423,
+    "wof:lastmodified":1466291477,
     "wof:name":"Azienda Ospedaliera Di Bologna Policlinico S. Orsola-malpighi",
     "wof:parent_id":85904623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.363599,44.490036,11.363599,44.490036],
+  "bbox": [
+    11.363599,
+    44.490036,
+    11.363599,
+    44.490036
+],
   "geometry": {"coordinates":[11.363599,44.490036],"type":"Point"}
 }

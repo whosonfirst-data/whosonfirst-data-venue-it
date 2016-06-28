@@ -2,13 +2,14 @@
   "id": 320449161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.497514,41.920082,12.497514,41.920082",
     "geom:latitude":41.920082,
     "geom:longitude":12.497514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320449161,
-    "wof:lastmodified":1449014686,
+    "wof:lastmodified":1466297436,
     "wof:name":"Agriprand Srl",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.497514,41.920082,12.497514,41.920082],
+  "bbox": [
+    12.497514,
+    41.920082,
+    12.497514,
+    41.920082
+],
   "geometry": {"coordinates":[12.497514,41.920082],"type":"Point"}
 }

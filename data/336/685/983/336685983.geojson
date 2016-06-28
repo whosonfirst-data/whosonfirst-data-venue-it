@@ -2,13 +2,14 @@
   "id": 336685983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.209715,46.145573,12.209715,46.145573",
     "geom:latitude":46.145573,
     "geom:longitude":12.209715,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, V. Arabba - Loc. Arabba 32020 Livinallongo Del Col Di Lana",
     "sg:city":"Arabba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336685983,
-    "wof:lastmodified":1448997973,
+    "wof:lastmodified":1466294756,
     "wof:name":"Hotel Malita * * *",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.209715,46.145573,12.209715,46.145573],
+  "bbox": [
+    12.209715,
+    46.145573,
+    12.209715,
+    46.145573
+],
   "geometry": {"coordinates":[12.209715,46.145573],"type":"Point"}
 }

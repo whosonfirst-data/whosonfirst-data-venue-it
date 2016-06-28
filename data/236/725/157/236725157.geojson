@@ -2,13 +2,14 @@
   "id": 236725157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.466921,43.966053,12.466921,43.966053",
     "geom:latitude":43.966053,
     "geom:longitude":12.466921,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Strada Borrana 47031 Repubblica Di San Marino",
     "sg:classifiers":[
         {
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":236725157,
-    "wof:lastmodified":1449002283,
+    "wof:lastmodified":1466296351,
     "wof:name":"Tecnoplay S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [12.466921,43.966053,12.466921,43.966053],
+  "bbox": [
+    12.466921,
+    43.966053,
+    12.466921,
+    43.966053
+],
   "geometry": {"coordinates":[12.466921,43.966053],"type":"Point"}
 }

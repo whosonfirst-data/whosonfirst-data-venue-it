@@ -2,13 +2,14 @@
   "id": 320183273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.971398,44.404339,8.971398,44.404339",
     "geom:latitude":44.404339,
     "geom:longitude":8.971398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16131 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320183273,
-    "wof:lastmodified":1449013268,
+    "wof:lastmodified":1466295607,
     "wof:name":"De Maestri Massimo & C. Sas",
     "wof:parent_id":85862645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.971398,44.404339,8.971398,44.404339],
+  "bbox": [
+    8.971398,
+    44.404339,
+    8.971398,
+    44.404339
+],
   "geometry": {"coordinates":[8.971398,44.404339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270241293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.843107,45.159771,10.843107,45.159771",
     "geom:latitude":45.159771,
     "geom:longitude":10.843107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46030 San Giorgio Di Mantova",
     "sg:city":"San Giorgio di Mantova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270241293,
-    "wof:lastmodified":1449011072,
+    "wof:lastmodified":1466291902,
     "wof:name":"Galandini Enzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.843107,45.159771,10.843107,45.159771],
+  "bbox": [
+    10.843107,
+    45.159771,
+    10.843107,
+    45.159771
+],
   "geometry": {"coordinates":[10.843107,45.159771],"type":"Point"}
 }

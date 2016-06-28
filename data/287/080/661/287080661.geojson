@@ -2,13 +2,14 @@
   "id": 287080661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.508056,43.60223,13.508056,43.60223",
     "geom:latitude":43.60223,
     "geom:longitude":13.508056,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60128 Ancona",
     "sg:city":"Ancona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287080661,
-    "wof:lastmodified":1449001571,
+    "wof:lastmodified":1466290666,
     "wof:name":"Pompe Funebri Guadagnini A.&g. Di Guadagnini Giovanni & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "public"
     ]
 },
-  "bbox": [13.508056,43.60223,13.508056,43.60223],
+  "bbox": [
+    13.508056,
+    43.60223,
+    13.508056,
+    43.60223
+],
   "geometry": {"coordinates":[13.508056,43.60223],"type":"Point"}
 }

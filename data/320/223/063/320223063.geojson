@@ -2,13 +2,14 @@
   "id": 320223063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.570701,45.620132,11.570701,45.620132",
     "geom:latitude":45.620132,
     "geom:longitude":11.570701,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36030 Villaverla",
     "sg:city":"Villaverla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320223063,
-    "wof:lastmodified":1449011502,
+    "wof:lastmodified":1466296093,
     "wof:name":"Telwin Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.570701,45.620132,11.570701,45.620132],
+  "bbox": [
+    11.570701,
+    45.620132,
+    11.570701,
+    45.620132
+],
   "geometry": {"coordinates":[11.570701,45.620132],"type":"Point"}
 }

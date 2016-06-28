@@ -2,13 +2,14 @@
   "id": 185982441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.099636,44.804127,8.099636,44.804127",
     "geom:latitude":44.804127,
     "geom:longitude":8.099636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza V.emanuele 8; Govone; 12040",
     "sg:city":"Govone",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185982441,
-    "wof:lastmodified":1449006888,
+    "wof:lastmodified":1466290649,
     "wof:name":"Cassa Di Risparmio Di Cuneo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.099636,44.804127,8.099636,44.804127],
+  "bbox": [
+    8.099636,
+    44.804127,
+    8.099636,
+    44.804127
+],
   "geometry": {"coordinates":[8.099636,44.804127],"type":"Point"}
 }

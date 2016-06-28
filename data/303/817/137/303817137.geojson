@@ -2,13 +2,14 @@
   "id": 303817137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.200704,45.448761,9.200704,45.448761",
     "geom:latitude":45.448761,
     "geom:longitude":9.200704,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20135 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303817137,
-    "wof:lastmodified":1449000088,
+    "wof:lastmodified":1466297851,
     "wof:name":"Delfitto Pietro",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.200704,45.448761,9.200704,45.448761],
+  "bbox": [
+    9.200704,
+    45.448761,
+    9.200704,
+    45.448761
+],
   "geometry": {"coordinates":[9.200704,45.448761],"type":"Point"}
 }

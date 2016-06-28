@@ -2,13 +2,14 @@
   "id": 336808487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.298581,45.516201,9.298581,45.516201",
     "geom:latitude":45.516201,
     "geom:longitude":9.298581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Di Vittorio Giuseppe 20090 Vimodrone",
     "sg:city":"Vimodrone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336808487,
-    "wof:lastmodified":1448996962,
+    "wof:lastmodified":1466296219,
     "wof:name":"Zechini Gra.for (s.r.l.)",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.298581,45.516201,9.298581,45.516201],
+  "bbox": [
+    9.298581,
+    45.516201,
+    9.298581,
+    45.516201
+],
   "geometry": {"coordinates":[9.298581,45.516201],"type":"Point"}
 }

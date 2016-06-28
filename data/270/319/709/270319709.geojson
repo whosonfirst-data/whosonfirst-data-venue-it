@@ -2,13 +2,14 @@
   "id": 270319709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.612189,44.917831,8.612189,44.917831",
     "geom:latitude":44.917831,
     "geom:longitude":8.612189,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15030 San Maurizio",
     "sg:city":"San Maurizio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270319709,
-    "wof:lastmodified":1449009638,
+    "wof:lastmodified":1466292870,
     "wof:name":"Come Industrie S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.612189,44.917831,8.612189,44.917831],
+  "bbox": [
+    8.612189,
+    44.917831,
+    8.612189,
+    44.917831
+],
   "geometry": {"coordinates":[8.612189,44.917831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269518399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.110033,45.775658,12.110033,45.775658",
     "geom:latitude":45.775658,
     "geom:longitude":12.110033,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Piave 31040 Volpago Del Montello",
     "sg:city":"Volpago del Montello",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269518399,
-    "wof:lastmodified":1449037484,
+    "wof:lastmodified":1466289349,
     "wof:name":"Calzaturificio Effe Tre (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [12.110033,45.775658,12.110033,45.775658],
+  "bbox": [
+    12.110033,
+    45.775658,
+    12.110033,
+    45.775658
+],
   "geometry": {"coordinates":[12.110033,45.775658],"type":"Point"}
 }

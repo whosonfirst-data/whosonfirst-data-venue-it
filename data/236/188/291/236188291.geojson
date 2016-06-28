@@ -2,13 +2,14 @@
   "id": 236188291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.963707,44.576111,8.963707,44.576111",
     "geom:latitude":44.576111,
     "geom:longitude":8.963707,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Seminella 27/c 16012 Sarissola",
     "sg:city":"Sarissola",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236188291,
-    "wof:lastmodified":1449003256,
+    "wof:lastmodified":1466290753,
     "wof:name":"Gennaro Paolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.963707,44.576111,8.963707,44.576111],
+  "bbox": [
+    8.963707,
+    44.576111,
+    8.963707,
+    44.576111
+],
   "geometry": {"coordinates":[8.963707,44.576111],"type":"Point"}
 }

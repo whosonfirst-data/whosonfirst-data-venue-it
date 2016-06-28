@@ -2,13 +2,14 @@
   "id": 320788319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.451892,45.932861,9.451892,45.932861",
     "geom:latitude":45.932861,
     "geom:longitude":9.451892,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23819 Primaluna",
     "sg:city":"Primaluna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320788319,
-    "wof:lastmodified":1449013182,
+    "wof:lastmodified":1466298148,
     "wof:name":"Co.fil Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.451892,45.932861,9.451892,45.932861],
+  "bbox": [
+    9.451892,
+    45.932861,
+    9.451892,
+    45.932861
+],
   "geometry": {"coordinates":[9.451892,45.932861],"type":"Point"}
 }

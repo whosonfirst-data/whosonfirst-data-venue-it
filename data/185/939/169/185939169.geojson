@@ -2,13 +2,14 @@
   "id": 185939169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.31162,43.548504,10.31162,43.548504",
     "geom:latitude":43.548504,
     "geom:longitude":10.31162,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Fulgidi, 9; Livorno; 57100",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185939169,
-    "wof:lastmodified":1449007086,
+    "wof:lastmodified":1466290343,
     "wof:name":"Banco Popolare",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.31162,43.548504,10.31162,43.548504],
+  "bbox": [
+    10.31162,
+    43.548504,
+    10.31162,
+    43.548504
+],
   "geometry": {"coordinates":[10.31162,43.548504],"type":"Point"}
 }

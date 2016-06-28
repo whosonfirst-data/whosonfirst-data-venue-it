@@ -2,13 +2,14 @@
   "id": 236870135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.172011,46.083027,13.172011,46.083027",
     "geom:latitude":46.083027,
     "geom:longitude":13.172011,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Spilimbergo 154 33035 Martignacco",
     "sg:city":"Martignacco",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236870135,
-    "wof:lastmodified":1449002332,
+    "wof:lastmodified":1466297051,
     "wof:name":"Safilo Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitting"
     ]
 },
-  "bbox": [13.172011,46.083027,13.172011,46.083027],
+  "bbox": [
+    13.172011,
+    46.083027,
+    13.172011,
+    46.083027
+],
   "geometry": {"coordinates":[13.172011,46.083027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287002981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.27631,43.736275,11.27631,43.736275",
     "geom:latitude":43.736275,
     "geom:longitude":11.27631,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Di Vacciano 50012 Bagno A Ripoli",
     "sg:city":"Bagno a Ripoli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287002981,
-    "wof:lastmodified":1449001400,
+    "wof:lastmodified":1466289655,
     "wof:name":"Costa Srl",
     "wof:parent_id":85906289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.27631,43.736275,11.27631,43.736275],
+  "bbox": [
+    11.27631,
+    43.736275,
+    11.27631,
+    43.736275
+],
   "geometry": {"coordinates":[11.27631,43.736275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219328585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.694093,45.694427,9.694093,45.694427",
     "geom:latitude":45.694427,
     "geom:longitude":9.694093,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24040 Ciserano",
     "sg:city":"Ciserano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219328585,
-    "wof:lastmodified":1449072465,
+    "wof:lastmodified":1466289591,
     "wof:name":"Drass Galeazzi",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.694093,45.694427,9.694093,45.694427],
+  "bbox": [
+    9.694093,
+    45.694427,
+    9.694093,
+    45.694427
+],
   "geometry": {"coordinates":[9.694093,45.694427],"type":"Point"}
 }

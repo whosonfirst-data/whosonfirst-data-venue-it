@@ -2,13 +2,14 @@
   "id": 253310977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.599514,41.867889,12.599514,41.867889",
     "geom:latitude":41.867889,
     "geom:longitude":12.599514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00169 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253310977,
-    "wof:lastmodified":1449064636,
+    "wof:lastmodified":1466292347,
     "wof:name":"Sistema Di Emergenza Sanitaria Lazio Soccorso 118",
     "wof:parent_id":85906291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.599514,41.867889,12.599514,41.867889],
+  "bbox": [
+    12.599514,
+    41.867889,
+    12.599514,
+    41.867889
+],
   "geometry": {"coordinates":[12.599514,41.867889],"type":"Point"}
 }

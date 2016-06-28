@@ -2,13 +2,14 @@
   "id": 286700993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.45968,41.858383,12.45968,41.858383",
     "geom:latitude":41.858383,
     "geom:longitude":12.45968,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1098, Via Della Magliana 00050 Roma",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286700993,
-    "wof:lastmodified":1449017840,
+    "wof:lastmodified":1466295221,
     "wof:name":"I.k.e.a. Appalti 2000 Srl",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [12.45968,41.858383,12.45968,41.858383],
+  "bbox": [
+    12.45968,
+    41.858383,
+    12.45968,
+    41.858383
+],
   "geometry": {"coordinates":[12.45968,41.858383],"type":"Point"}
 }

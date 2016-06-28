@@ -2,13 +2,14 @@
   "id": 270230239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.831041,45.526226,11.831041,45.526226",
     "geom:latitude":45.526226,
     "geom:longitude":11.831041,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Valsugana 22 35010 Curtarolo",
     "sg:city":"Curtarolo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270230239,
-    "wof:lastmodified":1449010458,
+    "wof:lastmodified":1466291784,
     "wof:name":"Tierre Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supraregional"
     ]
 },
-  "bbox": [11.831041,45.526226,11.831041,45.526226],
+  "bbox": [
+    11.831041,
+    45.526226,
+    11.831041,
+    45.526226
+],
   "geometry": {"coordinates":[11.831041,45.526226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186108583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.332041,43.319199,11.332041,43.319199",
     "geom:latitude":43.319199,
     "geom:longitude":11.332041,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Banchi Di Sotto 34, 53100 Siena, Si",
     "sg:city":"Siena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186108583,
-    "wof:lastmodified":1449050311,
+    "wof:lastmodified":1466296133,
     "wof:name":"Fondazione Monte Dei Paschi Di Siena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.332041,43.319199,11.332041,43.319199],
+  "bbox": [
+    11.332041,
+    43.319199,
+    11.332041,
+    43.319199
+],
   "geometry": {"coordinates":[11.332041,43.319199],"type":"Point"}
 }

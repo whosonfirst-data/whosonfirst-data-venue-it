@@ -2,13 +2,14 @@
   "id": 320043193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.980449,43.857296,10.980449,43.857296",
     "geom:latitude":43.857296,
     "geom:longitude":10.980449,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51039 Quarrata",
     "sg:city":"Quarrata",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320043193,
-    "wof:lastmodified":1449014033,
+    "wof:lastmodified":1466293932,
     "wof:name":"Utaff Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.980449,43.857296,10.980449,43.857296],
+  "bbox": [
+    10.980449,
+    43.857296,
+    10.980449,
+    43.857296
+],
   "geometry": {"coordinates":[10.980449,43.857296],"type":"Point"}
 }

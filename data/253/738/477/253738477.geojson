@@ -2,13 +2,14 @@
   "id": 253738477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.71363,45.358135,8.71363,45.358135",
     "geom:latitude":45.358135,
     "geom:longitude":8.71363,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Via Cesare Battisti 28070 Tornaco",
     "sg:city":"Tornaco",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253738477,
-    "wof:lastmodified":1449064997,
+    "wof:lastmodified":1466297036,
     "wof:name":"Solmoda (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [8.71363,45.358135,8.71363,45.358135],
+  "bbox": [
+    8.71363,
+    45.358135,
+    8.71363,
+    45.358135
+],
   "geometry": {"coordinates":[8.71363,45.358135],"type":"Point"}
 }

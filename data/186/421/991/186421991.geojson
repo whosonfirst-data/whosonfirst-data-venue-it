@@ -2,13 +2,14 @@
   "id": 186421991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.985935,45.390217,10.985935,45.390217",
     "geom:latitude":45.390217,
     "geom:longitude":10.985935,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Della Ferriera 17 37121 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186421991,
-    "wof:lastmodified":1449052078,
+    "wof:lastmodified":1466291556,
     "wof:name":"Cartiere Saci Spa",
     "wof:parent_id":85900309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bogus"
     ]
 },
-  "bbox": [10.985935,45.390217,10.985935,45.390217],
+  "bbox": [
+    10.985935,
+    45.390217,
+    10.985935,
+    45.390217
+],
   "geometry": {"coordinates":[10.985935,45.390217],"type":"Point"}
 }

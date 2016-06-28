@@ -2,13 +2,14 @@
   "id": 303320909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.413476,44.527748,11.413476,44.527748",
     "geom:latitude":44.527748,
     "geom:longitude":11.413476,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro 8/p 40057 Quarto Inferiore",
     "sg:city":"Quarto Inferiore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303320909,
-    "wof:lastmodified":1448998731,
+    "wof:lastmodified":1466294476,
     "wof:name":"Fai Toys Di Spinelli Franco",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "doll"
     ]
 },
-  "bbox": [11.413476,44.527748,11.413476,44.527748],
+  "bbox": [
+    11.413476,
+    44.527748,
+    11.413476,
+    44.527748
+],
   "geometry": {"coordinates":[11.413476,44.527748],"type":"Point"}
 }

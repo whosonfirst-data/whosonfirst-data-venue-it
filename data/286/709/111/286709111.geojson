@@ -2,13 +2,14 @@
   "id": 286709111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547111,44.388798,7.547111,44.388798",
     "geom:latitude":44.388798,
     "geom:longitude":7.547111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19/b, Via Savigliano 12020 Vottignasco",
     "sg:city":"Vottignasco",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286709111,
-    "wof:lastmodified":1449015751,
+    "wof:lastmodified":1466295323,
     "wof:name":"S I S A P Di Tomatis Geom. Massimo & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [7.547111,44.388798,7.547111,44.388798],
+  "bbox": [
+    7.547111,
+    44.388798,
+    7.547111,
+    44.388798
+],
   "geometry": {"coordinates":[7.547111,44.388798],"type":"Point"}
 }

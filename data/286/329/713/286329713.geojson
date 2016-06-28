@@ -2,13 +2,14 @@
   "id": 286329713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.869291,41.126053,16.869291,41.126053",
     "geom:latitude":41.126053,
     "geom:longitude":16.869291,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Venerabile C. Sportelli 10 70017 Putignano",
     "sg:city":"Putignano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286329713,
-    "wof:lastmodified":1449016005,
+    "wof:lastmodified":1466290435,
     "wof:name":"Malip Srl",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [16.869291,41.126053,16.869291,41.126053],
+  "bbox": [
+    16.869291,
+    41.126053,
+    16.869291,
+    41.126053
+],
   "geometry": {"coordinates":[16.869291,41.126053],"type":"Point"}
 }

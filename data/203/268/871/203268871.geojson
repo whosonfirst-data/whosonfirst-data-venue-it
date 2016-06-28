@@ -2,13 +2,14 @@
   "id": 203268871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.246769,45.538166,9.246769,45.538166",
     "geom:latitude":45.538166,
     "geom:longitude":9.246769,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203268871,
-    "wof:lastmodified":1449026030,
+    "wof:lastmodified":1466290551,
     "wof:name":"Coop Lombardia Coop A R.l.",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.246769,45.538166,9.246769,45.538166],
+  "bbox": [
+    9.246769,
+    45.538166,
+    9.246769,
+    45.538166
+],
   "geometry": {"coordinates":[9.246769,45.538166],"type":"Point"}
 }

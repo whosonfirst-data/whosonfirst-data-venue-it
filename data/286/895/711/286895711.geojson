@@ -2,13 +2,14 @@
   "id": 286895711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.672037,45.033714,7.672037,45.033714",
     "geom:latitude":45.033714,
     "geom:longitude":7.672037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10126 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286895711,
-    "wof:lastmodified":1449016427,
+    "wof:lastmodified":1466297160,
     "wof:name":"Roero Geom. Pietro",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.672037,45.033714,7.672037,45.033714],
+  "bbox": [
+    7.672037,
+    45.033714,
+    7.672037,
+    45.033714
+],
   "geometry": {"coordinates":[7.672037,45.033714],"type":"Point"}
 }

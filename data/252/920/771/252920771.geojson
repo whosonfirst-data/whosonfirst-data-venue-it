@@ -2,13 +2,14 @@
   "id": 252920771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.592284,45.057011,7.592284,45.057011",
     "geom:latitude":45.057011,
     "geom:longitude":7.592284,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10095 Grugliasco",
     "sg:city":"Gerbido",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252920771,
-    "wof:lastmodified":1449006262,
+    "wof:lastmodified":1466291258,
     "wof:name":"Azienda Agricola Gastaldi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.592284,45.057011,7.592284,45.057011],
+  "bbox": [
+    7.592284,
+    45.057011,
+    7.592284,
+    45.057011
+],
   "geometry": {"coordinates":[7.592284,45.057011],"type":"Point"}
 }

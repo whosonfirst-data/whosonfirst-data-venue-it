@@ -2,13 +2,14 @@
   "id": 253520779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.232292,42.448689,14.232292,42.448689",
     "geom:latitude":42.448689,
     "geom:longitude":14.232292,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65129 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253520779,
-    "wof:lastmodified":1449063801,
+    "wof:lastmodified":1466294882,
     "wof:name":"Vi.bi. Di Bucci G. & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.232292,42.448689,14.232292,42.448689],
+  "bbox": [
+    14.232292,
+    42.448689,
+    14.232292,
+    42.448689
+],
   "geometry": {"coordinates":[14.232292,42.448689],"type":"Point"}
 }

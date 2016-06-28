@@ -2,13 +2,14 @@
   "id": 320100073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.336305,45.574757,9.336305,45.574757",
     "geom:latitude":45.574757,
     "geom:longitude":9.336305,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20041 Agrate Brianza",
     "sg:city":"Agrate Brianza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320100073,
-    "wof:lastmodified":1449014022,
+    "wof:lastmodified":1466294627,
     "wof:name":"E.d.c. One By Tuttoufficio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.336305,45.574757,9.336305,45.574757],
+  "bbox": [
+    9.336305,
+    45.574757,
+    9.336305,
+    45.574757
+],
   "geometry": {"coordinates":[9.336305,45.574757],"type":"Point"}
 }

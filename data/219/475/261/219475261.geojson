@@ -2,13 +2,14 @@
   "id": 219475261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.667868,45.07,7.667868,45.07",
     "geom:latitude":45.07,
     "geom:longitude":7.667868,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10121 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219475261,
-    "wof:lastmodified":1449071850,
+    "wof:lastmodified":1466291156,
     "wof:name":"Ariagno Sergio",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.667868,45.07,7.667868,45.07],
+  "bbox": [
+    7.667868,
+    45.07,
+    7.667868,
+    45.07
+],
   "geometry": {"coordinates":[7.667868,45.07],"type":"Point"}
 }

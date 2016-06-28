@@ -2,13 +2,14 @@
   "id": 320227289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.714168,45.151913,7.714168,45.151913",
     "geom:latitude":45.151913,
     "geom:longitude":7.714168,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10070 Mappano",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine Utensili E Impianti. Apparecchiature Ed Attrezzature Meccaniche",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320227289,
-    "wof:lastmodified":1449012077,
+    "wof:lastmodified":1466296144,
     "wof:name":"Aster (s.r.l.)",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.714168,45.151913,7.714168,45.151913],
+  "bbox": [
+    7.714168,
+    45.151913,
+    7.714168,
+    45.151913
+],
   "geometry": {"coordinates":[7.714168,45.151913],"type":"Point"}
 }

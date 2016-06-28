@@ -2,13 +2,14 @@
   "id": 203012499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.416601,45.318188,8.416601,45.318188",
     "geom:latitude":45.318188,
     "geom:longitude":8.416601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13100 Vercelli",
     "sg:city":"Vercelli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203012499,
-    "wof:lastmodified":1449026677,
+    "wof:lastmodified":1466293874,
     "wof:name":"Istit Zooprofilattico Sper.piemonte Liguria Valle D'aosta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.416601,45.318188,8.416601,45.318188],
+  "bbox": [
+    8.416601,
+    45.318188,
+    8.416601,
+    45.318188
+],
   "geometry": {"coordinates":[8.416601,45.318188],"type":"Point"}
 }

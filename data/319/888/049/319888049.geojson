@@ -2,13 +2,14 @@
   "id": 319888049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.462255,41.827023,12.462255,41.827023",
     "geom:latitude":41.827023,
     "geom:longitude":12.462255,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00144 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319888049,
-    "wof:lastmodified":1449024579,
+    "wof:lastmodified":1466293395,
     "wof:name":"C & D Soluzioni Informatiche",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.462255,41.827023,12.462255,41.827023],
+  "bbox": [
+    12.462255,
+    41.827023,
+    12.462255,
+    41.827023
+],
   "geometry": {"coordinates":[12.462255,41.827023],"type":"Point"}
 }

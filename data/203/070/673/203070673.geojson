@@ -2,13 +2,14 @@
   "id": 203070673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.221745,45.554333,10.221745,45.554333",
     "geom:latitude":45.554333,
     "geom:longitude":10.221745,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25128 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203070673,
-    "wof:lastmodified":1449025837,
+    "wof:lastmodified":1466295629,
     "wof:name":"Duni Pietro",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.221745,45.554333,10.221745,45.554333],
+  "bbox": [
+    10.221745,
+    45.554333,
+    10.221745,
+    45.554333
+],
   "geometry": {"coordinates":[10.221745,45.554333],"type":"Point"}
 }

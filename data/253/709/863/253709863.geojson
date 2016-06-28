@@ -2,13 +2,14 @@
   "id": 253709863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.440881,44.763084,8.440881,44.763084",
     "geom:latitude":44.763084,
     "geom:longitude":8.440881,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14046 Mombaruzzo",
     "sg:city":"Mombaruzzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253709863,
-    "wof:lastmodified":1449063404,
+    "wof:lastmodified":1466296869,
     "wof:name":"R & G Di Vignone Roberto E Giorgio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.440881,44.763084,8.440881,44.763084],
+  "bbox": [
+    8.440881,
+    44.763084,
+    8.440881,
+    44.763084
+],
   "geometry": {"coordinates":[8.440881,44.763084],"type":"Point"}
 }

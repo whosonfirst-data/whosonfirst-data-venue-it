@@ -2,13 +2,14 @@
   "id": 269514233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.740116,43.248642,13.740116,43.248642",
     "geom:latitude":43.248642,
     "geom:longitude":13.740116,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64, Via Sibillini 63018 Porto Sant'elpidio",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269514233,
-    "wof:lastmodified":1449037351,
+    "wof:lastmodified":1466289304,
     "wof:name":"Calzaturificio Bracalente Ivo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.740116,43.248642,13.740116,43.248642],
+  "bbox": [
+    13.740116,
+    43.248642,
+    13.740116,
+    43.248642
+],
   "geometry": {"coordinates":[13.740116,43.248642],"type":"Point"}
 }

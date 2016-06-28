@@ -2,13 +2,14 @@
   "id": 336771289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.043819,45.525215,9.043819,45.525215",
     "geom:latitude":45.525215,
     "geom:longitude":9.043819,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Milano 20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336771289,
-    "wof:lastmodified":1448997529,
+    "wof:lastmodified":1466295774,
     "wof:name":"Savio Macchine S.p.a.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.043819,45.525215,9.043819,45.525215],
+  "bbox": [
+    9.043819,
+    45.525215,
+    9.043819,
+    45.525215
+],
   "geometry": {"coordinates":[9.043819,45.525215],"type":"Point"}
 }

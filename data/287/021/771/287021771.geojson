@@ -2,13 +2,14 @@
   "id": 287021771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.744527,41.711842,13.744527,41.711842",
     "geom:latitude":41.711842,
     "geom:longitude":13.744527,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Fontanelle 03041 Alvito",
     "sg:city":"Alvito",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287021771,
-    "wof:lastmodified":1449001237,
+    "wof:lastmodified":1466289870,
     "wof:name":"Pizzuti Carla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [13.744527,41.711842,13.744527,41.711842],
+  "bbox": [
+    13.744527,
+    41.711842,
+    13.744527,
+    41.711842
+],
   "geometry": {"coordinates":[13.744527,41.711842],"type":"Point"}
 }

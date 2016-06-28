@@ -2,13 +2,14 @@
   "id": 235969009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.880192,41.639992,15.880192,41.639992",
     "geom:latitude":41.639992,
     "geom:longitude":15.880192,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Provinciale 58 71043 Manfredonia",
     "sg:city":"Manfredonia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":235969009,
-    "wof:lastmodified":1449008337,
+    "wof:lastmodified":1466296318,
     "wof:name":"Gelati Da Tommasino S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [15.880192,41.639992,15.880192,41.639992],
+  "bbox": [
+    15.880192,
+    41.639992,
+    15.880192,
+    41.639992
+],
   "geometry": {"coordinates":[15.880192,41.639992],"type":"Point"}
 }

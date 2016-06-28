@@ -2,13 +2,14 @@
   "id": 203030931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.680319,45.110508,7.680319,45.110508",
     "geom:latitude":45.110508,
     "geom:longitude":7.680319,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203030931,
-    "wof:lastmodified":1449025615,
+    "wof:lastmodified":1466294688,
     "wof:name":"Canavesana Servizi Aziendali Integrati Srl",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.680319,45.110508,7.680319,45.110508],
+  "bbox": [
+    7.680319,
+    45.110508,
+    7.680319,
+    45.110508
+],
   "geometry": {"coordinates":[7.680319,45.110508],"type":"Point"}
 }

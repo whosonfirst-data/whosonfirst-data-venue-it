@@ -2,13 +2,14 @@
   "id": 253029827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.921278,43.939735,10.921278,43.939735",
     "geom:latitude":43.939735,
     "geom:longitude":10.921278,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51100 Pistoia",
     "sg:city":"Pistoia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253029827,
-    "wof:lastmodified":1449064073,
+    "wof:lastmodified":1466289223,
     "wof:name":"Tappezzeria Gasperini Di Gasperini Gianluca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.921278,43.939735,10.921278,43.939735],
+  "bbox": [
+    10.921278,
+    43.939735,
+    10.921278,
+    43.939735
+],
   "geometry": {"coordinates":[10.921278,43.939735],"type":"Point"}
 }

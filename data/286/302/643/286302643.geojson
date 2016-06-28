@@ -2,13 +2,14 @@
   "id": 286302643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.104854,42.417381,12.104854,42.417381",
     "geom:latitude":42.417381,
     "geom:longitude":12.104854,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Str. Provinciale Falerina Km 7,200 01034 Fabrica Di Roma",
     "sg:city":"Fabrica di Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286302643,
-    "wof:lastmodified":1449016180,
+    "wof:lastmodified":1466289988,
     "wof:name":"Ceramica Catalano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [12.104854,42.417381,12.104854,42.417381],
+  "bbox": [
+    12.104854,
+    42.417381,
+    12.104854,
+    42.417381
+],
   "geometry": {"coordinates":[12.104854,42.417381],"type":"Point"}
 }

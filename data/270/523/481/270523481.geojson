@@ -2,13 +2,14 @@
   "id": 270523481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.793792,45.390793,8.793792,45.390793",
     "geom:latitude":45.390793,
     "geom:longitude":8.793792,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Via Vigevano 28065 Cerano",
     "sg:city":"Cerano",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270523481,
-    "wof:lastmodified":1449010069,
+    "wof:lastmodified":1466295355,
     "wof:name":"Henkel Loctite Adesivi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.793792,45.390793,8.793792,45.390793],
+  "bbox": [
+    8.793792,
+    45.390793,
+    8.793792,
+    45.390793
+],
   "geometry": {"coordinates":[8.793792,45.390793],"type":"Point"}
 }

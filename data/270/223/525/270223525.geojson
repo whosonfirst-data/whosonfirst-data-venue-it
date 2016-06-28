@@ -2,13 +2,14 @@
   "id": 270223525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.077028,45.418167,9.077028,45.418167",
     "geom:latitude":45.418167,
     "geom:longitude":9.077028,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270223525,
-    "wof:lastmodified":1449008821,
+    "wof:lastmodified":1466291710,
     "wof:name":"Sanarica E Venturini Di Sanarica Luca E C. Snc",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.077028,45.418167,9.077028,45.418167],
+  "bbox": [
+    9.077028,
+    45.418167,
+    9.077028,
+    45.418167
+],
   "geometry": {"coordinates":[9.077028,45.418167],"type":"Point"}
 }

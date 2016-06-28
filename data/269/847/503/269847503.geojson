@@ -2,13 +2,14 @@
   "id": 269847503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.963256,43.677246,12.963256,43.677246",
     "geom:latitude":43.677246,
     "geom:longitude":12.963256,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Cappuccini 61040 Mondavio",
     "sg:city":"Mondavio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269847503,
-    "wof:lastmodified":1449037013,
+    "wof:lastmodified":1466293568,
     "wof:name":"Ubaldi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.963256,43.677246,12.963256,43.677246],
+  "bbox": [
+    12.963256,
+    43.677246,
+    12.963256,
+    43.677246
+],
   "geometry": {"coordinates":[12.963256,43.677246],"type":"Point"}
 }

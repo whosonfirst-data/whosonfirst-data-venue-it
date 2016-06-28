@@ -2,13 +2,14 @@
   "id": 253610385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.23946,46.063915,11.23946,46.063915",
     "geom:latitude":46.063915,
     "geom:longitude":11.23946,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Marconi 47 38057 Pergine Valsugana",
     "sg:city":"Pergine Valsugana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253610385,
-    "wof:lastmodified":1449065758,
+    "wof:lastmodified":1466296068,
     "wof:name":"Brinkmann - Lord Italia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.23946,46.063915,11.23946,46.063915],
+  "bbox": [
+    11.23946,
+    46.063915,
+    11.23946,
+    46.063915
+],
   "geometry": {"coordinates":[11.23946,46.063915],"type":"Point"}
 }

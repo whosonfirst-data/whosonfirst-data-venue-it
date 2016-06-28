@@ -2,13 +2,14 @@
   "id": 303879713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.321696,43.754322,11.321696,43.754322",
     "geom:latitude":43.754322,
     "geom:longitude":11.321696,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50012 Bagno A Ripoli",
     "sg:city":"Bagno a Ripoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303879713,
-    "wof:lastmodified":1448998140,
+    "wof:lastmodified":1466298018,
     "wof:name":"Vartisan Di Cacciarini Francesca",
     "wof:parent_id":85904727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.321696,43.754322,11.321696,43.754322],
+  "bbox": [
+    11.321696,
+    43.754322,
+    11.321696,
+    43.754322
+],
   "geometry": {"coordinates":[11.321696,43.754322],"type":"Point"}
 }

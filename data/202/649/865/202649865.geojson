@@ -2,13 +2,14 @@
   "id": 202649865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.225112,45.482613,9.225112,45.482613",
     "geom:latitude":45.482613,
     "geom:longitude":9.225112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202649865,
-    "wof:lastmodified":1449061816,
+    "wof:lastmodified":1466290527,
     "wof:name":"Autopiola S.n.c.",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.225112,45.482613,9.225112,45.482613],
+  "bbox": [
+    9.225112,
+    45.482613,
+    9.225112,
+    45.482613
+],
   "geometry": {"coordinates":[9.225112,45.482613],"type":"Point"}
 }

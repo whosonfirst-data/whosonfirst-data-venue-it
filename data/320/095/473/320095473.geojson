@@ -2,13 +2,14 @@
   "id": 320095473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.28126,45.456261,8.28126,45.456261",
     "geom:latitude":45.456261,
     "geom:longitude":8.28126,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13040 Balocco",
     "sg:city":"Balocco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320095473,
-    "wof:lastmodified":1449013155,
+    "wof:lastmodified":1466294570,
     "wof:name":"Cava E.m.i. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.28126,45.456261,8.28126,45.456261],
+  "bbox": [
+    8.28126,
+    45.456261,
+    8.28126,
+    45.456261
+],
   "geometry": {"coordinates":[8.28126,45.456261],"type":"Point"}
 }

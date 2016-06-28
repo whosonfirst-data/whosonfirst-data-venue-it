@@ -2,13 +2,14 @@
   "id": 219806309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.208252,43.830086,11.208252,43.830086",
     "geom:latitude":43.830086,
     "geom:longitude":11.208252,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"614, Via Gramsci Antonio 50019 Sesto Fiorentino",
     "sg:city":"Sesto Fiorentino",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219806309,
-    "wof:lastmodified":1449070367,
+    "wof:lastmodified":1466294344,
     "wof:name":"S.i.r.p.a. (s.p.a.)",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.208252,43.830086,11.208252,43.830086],
+  "bbox": [
+    11.208252,
+    43.830086,
+    11.208252,
+    43.830086
+],
   "geometry": {"coordinates":[11.208252,43.830086],"type":"Point"}
 }

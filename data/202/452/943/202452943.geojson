@@ -2,13 +2,14 @@
   "id": 202452943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.212898,45.488316,9.212898,45.488316",
     "geom:latitude":45.488316,
     "geom:longitude":9.212898,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202452943,
-    "wof:lastmodified":1449060703,
+    "wof:lastmodified":1466295721,
     "wof:name":"Scuole Pubbliche/civiche Scuole Secondarie Diurne E Serali Ist. Autoriz.dal Min. Pub.istr.corsi Sera",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.212898,45.488316,9.212898,45.488316],
+  "bbox": [
+    9.212898,
+    45.488316,
+    9.212898,
+    45.488316
+],
   "geometry": {"coordinates":[9.212898,45.488316],"type":"Point"}
 }

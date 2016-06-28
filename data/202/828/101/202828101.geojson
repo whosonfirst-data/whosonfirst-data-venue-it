@@ -2,13 +2,14 @@
   "id": 202828101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.042679,45.575447,11.042679,45.575447",
     "geom:latitude":45.575447,
     "geom:longitude":11.042679,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37020 Cerro Veronese",
     "sg:city":"Cerro Veronese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202828101,
-    "wof:lastmodified":1449061410,
+    "wof:lastmodified":1466292496,
     "wof:name":"Boschi Rino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.042679,45.575447,11.042679,45.575447],
+  "bbox": [
+    11.042679,
+    45.575447,
+    11.042679,
+    45.575447
+],
   "geometry": {"coordinates":[11.042679,45.575447],"type":"Point"}
 }

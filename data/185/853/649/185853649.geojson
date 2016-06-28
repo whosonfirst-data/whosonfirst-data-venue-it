@@ -2,13 +2,14 @@
   "id": 185853649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.055119,45.545506,8.055119,45.545506",
     "geom:latitude":45.545506,
     "geom:longitude":8.055119,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Italia 2, I-13900 Biella, Bi",
     "sg:city":"Biella",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185853649,
-    "wof:lastmodified":1449007260,
+    "wof:lastmodified":1466289625,
     "wof:name":"Banca Sella Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.055119,45.545506,8.055119,45.545506],
+  "bbox": [
+    8.055119,
+    45.545506,
+    8.055119,
+    45.545506
+],
   "geometry": {"coordinates":[8.055119,45.545506],"type":"Point"}
 }

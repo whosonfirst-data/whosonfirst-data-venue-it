@@ -2,13 +2,14 @@
   "id": 236158651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.913684,45.511791,10.913684,45.511791",
     "geom:latitude":45.511791,
     "geom:longitude":10.913684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13/a, Via Biasi Don Cesare 37029 San Pietro In Cariano",
     "sg:city":"San Pietro in Cariano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236158651,
-    "wof:lastmodified":1449003927,
+    "wof:lastmodified":1466290457,
     "wof:name":"Gerardo Cesari S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [10.913684,45.511791,10.913684,45.511791],
+  "bbox": [
+    10.913684,
+    45.511791,
+    10.913684,
+    45.511791
+],
   "geometry": {"coordinates":[10.913684,45.511791],"type":"Point"}
 }

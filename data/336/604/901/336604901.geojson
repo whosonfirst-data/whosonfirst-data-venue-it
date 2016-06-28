@@ -2,13 +2,14 @@
   "id": 336604901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.0545,45.548584,9.0545,45.548584",
     "geom:latitude":45.548584,
     "geom:longitude":9.0545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, V. Sirtori 20017 Passirana Di Rho",
     "sg:city":"Passirana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336604901,
-    "wof:lastmodified":1448997895,
+    "wof:lastmodified":1466293789,
     "wof:name":"Axomatic Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.0545,45.548584,9.0545,45.548584],
+  "bbox": [
+    9.0545,
+    45.548584,
+    9.0545,
+    45.548584
+],
   "geometry": {"coordinates":[9.0545,45.548584],"type":"Point"}
 }

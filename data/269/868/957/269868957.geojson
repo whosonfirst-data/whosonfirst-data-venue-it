@@ -2,13 +2,14 @@
   "id": 269868957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.182407,45.46347,9.182407,45.46347",
     "geom:latitude":45.46347,
     "geom:longitude":9.182407,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Piazza Borromeo 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269868957,
-    "wof:lastmodified":1449036237,
+    "wof:lastmodified":1466293800,
     "wof:name":"F. & P. S.p.a.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [9.182407,45.46347,9.182407,45.46347],
+  "bbox": [
+    9.182407,
+    45.46347,
+    9.182407,
+    45.46347
+],
   "geometry": {"coordinates":[9.182407,45.46347],"type":"Point"}
 }

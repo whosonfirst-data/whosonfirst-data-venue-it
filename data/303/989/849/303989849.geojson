@@ -2,13 +2,14 @@
   "id": 303989849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.867641,44.161366,9.867641,44.161366",
     "geom:latitude":44.161366,
     "geom:longitude":9.867641,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Greti Di Durasca 19020 Follo",
     "sg:city":"Follo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303989849,
-    "wof:lastmodified":1448999912,
+    "wof:lastmodified":1466298253,
     "wof:name":"Te.co Macchine Di Colombo & Pennacchio Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artificial"
     ]
 },
-  "bbox": [9.867641,44.161366,9.867641,44.161366],
+  "bbox": [
+    9.867641,
+    44.161366,
+    9.867641,
+    44.161366
+],
   "geometry": {"coordinates":[9.867641,44.161366],"type":"Point"}
 }

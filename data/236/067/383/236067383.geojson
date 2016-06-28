@@ -2,13 +2,14 @@
   "id": 236067383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.996902,45.496655,8.996902,45.496655",
     "geom:latitude":45.496655,
     "geom:longitude":8.996902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Bareggio",
     "sg:city":"Bareggio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236067383,
-    "wof:lastmodified":1449001839,
+    "wof:lastmodified":1466289564,
     "wof:name":"Cescal (s.a.s.) Di Nando Meraviglia & C.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.996902,45.496655,8.996902,45.496655],
+  "bbox": [
+    8.996902,
+    45.496655,
+    8.996902,
+    45.496655
+],
   "geometry": {"coordinates":[8.996902,45.496655],"type":"Point"}
 }

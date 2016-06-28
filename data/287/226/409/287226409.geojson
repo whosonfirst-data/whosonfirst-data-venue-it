@@ -2,13 +2,14 @@
   "id": 287226409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.676169,45.216484,11.676169,45.216484",
     "geom:latitude":45.216484,
     "geom:longitude":11.676169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Brunelli 35042 Este",
     "sg:city":"Este",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287226409,
-    "wof:lastmodified":1449001323,
+    "wof:lastmodified":1466292615,
     "wof:name":"Ares (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "electronic"
     ]
 },
-  "bbox": [11.676169,45.216484,11.676169,45.216484],
+  "bbox": [
+    11.676169,
+    45.216484,
+    11.676169,
+    45.216484
+],
   "geometry": {"coordinates":[11.676169,45.216484],"type":"Point"}
 }

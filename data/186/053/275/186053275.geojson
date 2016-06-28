@@ -2,13 +2,14 @@
   "id": 186053275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.237373,46.05962,13.237373,46.05962",
     "geom:latitude":46.05962,
     "geom:longitude":13.237373,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gorghi 33; Udine; 33100",
     "sg:city":"Udine",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186053275,
-    "wof:lastmodified":1449050910,
+    "wof:lastmodified":1466295138,
     "wof:name":"Cassa Rurale Ed Artigiano, Di Manzano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.237373,46.05962,13.237373,46.05962],
+  "bbox": [
+    13.237373,
+    46.05962,
+    13.237373,
+    46.05962
+],
   "geometry": {"coordinates":[13.237373,46.05962],"type":"Point"}
 }

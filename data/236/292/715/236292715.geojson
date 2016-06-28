@@ -2,13 +2,14 @@
   "id": 236292715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.109879,43.801998,11.109879,43.801998",
     "geom:latitude":43.801998,
     "geom:longitude":11.109879,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50058 Signa",
     "sg:city":"Signa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236292715,
-    "wof:lastmodified":1449001881,
+    "wof:lastmodified":1466291866,
     "wof:name":"Etienne Aigner Italy Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.109879,43.801998,11.109879,43.801998],
+  "bbox": [
+    11.109879,
+    43.801998,
+    11.109879,
+    43.801998
+],
   "geometry": {"coordinates":[11.109879,43.801998],"type":"Point"}
 }

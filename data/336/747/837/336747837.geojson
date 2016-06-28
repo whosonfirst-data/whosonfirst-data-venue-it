@@ -2,13 +2,14 @@
   "id": 336747837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.849058,45.630516,9.849058,45.630516",
     "geom:latitude":45.630516,
     "geom:longitude":9.849058,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Passerera 24060 Bolgare",
     "sg:city":"Bolgare",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336747837,
-    "wof:lastmodified":1448997140,
+    "wof:lastmodified":1466295488,
     "wof:name":"Pa.gi.plast (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.849058,45.630516,9.849058,45.630516],
+  "bbox": [
+    9.849058,
+    45.630516,
+    9.849058,
+    45.630516
+],
   "geometry": {"coordinates":[9.849058,45.630516],"type":"Point"}
 }

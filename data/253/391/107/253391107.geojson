@@ -2,13 +2,14 @@
   "id": 253391107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.297191,45.632572,9.297191,45.632572",
     "geom:latitude":45.632572,
     "geom:longitude":9.297191,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"75, Via Parco 20046 Biassono",
     "sg:city":"Biassono",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253391107,
-    "wof:lastmodified":1449064719,
+    "wof:lastmodified":1466293303,
     "wof:name":"Lesco Di Figini L. E C. (s.a.s)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [9.297191,45.632572,9.297191,45.632572],
+  "bbox": [
+    9.297191,
+    45.632572,
+    9.297191,
+    45.632572
+],
   "geometry": {"coordinates":[9.297191,45.632572],"type":"Point"}
 }

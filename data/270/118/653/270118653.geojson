@@ -2,13 +2,14 @@
   "id": 270118653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.380005,43.107327,12.380005,43.107327",
     "geom:latitude":43.107327,
     "geom:longitude":12.380005,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06124 Perugia",
     "sg:city":"Perugia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270118653,
-    "wof:lastmodified":1449010600,
+    "wof:lastmodified":1466290408,
     "wof:name":"Ticchioni Sport (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.380005,43.107327,12.380005,43.107327],
+  "bbox": [
+    12.380005,
+    43.107327,
+    12.380005,
+    43.107327
+],
   "geometry": {"coordinates":[12.380005,43.107327],"type":"Point"}
 }

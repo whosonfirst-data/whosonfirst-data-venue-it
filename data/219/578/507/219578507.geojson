@@ -2,13 +2,14 @@
   "id": 219578507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.648533,45.145401,9.648533,45.145401",
     "geom:latitude":45.145401,
     "geom:longitude":9.648533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26867 Somaglia",
     "sg:city":"Somaglia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219578507,
-    "wof:lastmodified":1449071285,
+    "wof:lastmodified":1466292080,
     "wof:name":"Goberti Maurizio - T.m.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.648533,45.145401,9.648533,45.145401],
+  "bbox": [
+    9.648533,
+    45.145401,
+    9.648533,
+    45.145401
+],
   "geometry": {"coordinates":[9.648533,45.145401],"type":"Point"}
 }

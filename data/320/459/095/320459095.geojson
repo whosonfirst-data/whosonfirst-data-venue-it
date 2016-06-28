@@ -2,13 +2,14 @@
   "id": 320459095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.828844,43.696529,10.828844,43.696529",
     "geom:latitude":43.696529,
     "geom:longitude":10.828844,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56028 S. Miniato",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Industria Alimentare E Bevande",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320459095,
-    "wof:lastmodified":1449012787,
+    "wof:lastmodified":1466297625,
     "wof:name":"Consorzio Macelli Di S. Miniato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.828844,43.696529,10.828844,43.696529],
+  "bbox": [
+    10.828844,
+    43.696529,
+    10.828844,
+    43.696529
+],
   "geometry": {"coordinates":[10.828844,43.696529],"type":"Point"}
 }

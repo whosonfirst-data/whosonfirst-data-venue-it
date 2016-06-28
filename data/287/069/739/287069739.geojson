@@ -2,13 +2,14 @@
   "id": 287069739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.240242,44.146225,12.240242,44.146225",
     "geom:latitude":44.146225,
     "geom:longitude":12.240242,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"157, Via Cavalcavia 47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287069739,
-    "wof:lastmodified":1449001238,
+    "wof:lastmodified":1466290506,
     "wof:name":"Magazzini Generali Raccordati Di Cesena (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [12.240242,44.146225,12.240242,44.146225],
+  "bbox": [
+    12.240242,
+    44.146225,
+    12.240242,
+    44.146225
+],
   "geometry": {"coordinates":[12.240242,44.146225],"type":"Point"}
 }

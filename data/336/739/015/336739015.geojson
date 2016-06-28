@@ -2,13 +2,14 @@
   "id": 336739015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.006085,45.548317,9.006085,45.548317",
     "geom:latitude":45.548317,
     "geom:longitude":9.006085,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Puccini 20010 Pogliano Milanese",
     "sg:city":"Pogliano Milanese",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336739015,
-    "wof:lastmodified":1448997396,
+    "wof:lastmodified":1466295381,
     "wof:name":"Officina Meccanica Zappa Leopoldo & C. (s.n.c.)",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.006085,45.548317,9.006085,45.548317],
+  "bbox": [
+    9.006085,
+    45.548317,
+    9.006085,
+    45.548317
+],
   "geometry": {"coordinates":[9.006085,45.548317],"type":"Point"}
 }

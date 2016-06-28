@@ -2,13 +2,14 @@
   "id": 336916513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172752,45.465721,9.172752,45.465721",
     "geom:latitude":45.465721,
     "geom:longitude":9.172752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336916513,
-    "wof:lastmodified":1448997536,
+    "wof:lastmodified":1466296935,
     "wof:name":"Ceriello Ermanno",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.172752,45.465721,9.172752,45.465721],
+  "bbox": [
+    9.172752,
+    45.465721,
+    9.172752,
+    45.465721
+],
   "geometry": {"coordinates":[9.172752,45.465721],"type":"Point"}
 }

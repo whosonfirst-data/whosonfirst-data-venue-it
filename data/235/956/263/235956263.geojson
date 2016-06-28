@@ -2,13 +2,14 @@
   "id": 235956263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.673257,45.532333,9.673257,45.532333",
     "geom:latitude":45.532333,
     "geom:longitude":9.673257,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Morengo 24040 Pagazzano",
     "sg:city":"Pagazzano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235956263,
-    "wof:lastmodified":1449008317,
+    "wof:lastmodified":1466295186,
     "wof:name":"Arrigoni Battista (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [9.673257,45.532333,9.673257,45.532333],
+  "bbox": [
+    9.673257,
+    45.532333,
+    9.673257,
+    45.532333
+],
   "geometry": {"coordinates":[9.673257,45.532333],"type":"Point"}
 }

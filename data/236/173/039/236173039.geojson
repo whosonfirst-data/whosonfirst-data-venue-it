@@ -2,13 +2,14 @@
   "id": 236173039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.500193,41.906235,12.500193,41.906235",
     "geom:latitude":41.906235,
     "geom:longitude":12.500193,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Goito 00185 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236173039,
-    "wof:lastmodified":1449002154,
+    "wof:lastmodified":1466290596,
     "wof:name":"Trimani (s.r.l.)",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [12.500193,41.906235,12.500193,41.906235],
+  "bbox": [
+    12.500193,
+    41.906235,
+    12.500193,
+    41.906235
+],
   "geometry": {"coordinates":[12.500193,41.906235],"type":"Point"}
 }

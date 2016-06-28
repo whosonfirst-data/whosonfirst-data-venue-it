@@ -2,13 +2,14 @@
   "id": 219501913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.258142,43.776413,11.258142,43.776413",
     "geom:latitude":43.776413,
     "geom:longitude":11.258142,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Degli Alfani 84 50121 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219501913,
-    "wof:lastmodified":1449073949,
+    "wof:lastmodified":1466291415,
     "wof:name":"Anallergo Srl",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.258142,43.776413,11.258142,43.776413],
+  "bbox": [
+    11.258142,
+    43.776413,
+    11.258142,
+    43.776413
+],
   "geometry": {"coordinates":[11.258142,43.776413],"type":"Point"}
 }

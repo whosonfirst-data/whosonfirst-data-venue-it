@@ -2,13 +2,14 @@
   "id": 186010737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.398409,41.909985,12.398409,41.909985",
     "geom:latitude":41.909985,
     "geom:longitude":12.398409,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cornelia, 13; Roma",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186010737,
-    "wof:lastmodified":1449052037,
+    "wof:lastmodified":1466292068,
     "wof:name":"Cassa Di Risparmio Di Roma",
     "wof:parent_id":85900497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.398409,41.909985,12.398409,41.909985],
+  "bbox": [
+    12.398409,
+    41.909985,
+    12.398409,
+    41.909985
+],
   "geometry": {"coordinates":[12.398409,41.909985],"type":"Point"}
 }

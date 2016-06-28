@@ -2,13 +2,14 @@
   "id": 203386503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.737381,45.898727,8.737381,45.898727",
     "geom:latitude":45.898727,
     "geom:longitude":8.737381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21030 Cuvio",
     "sg:city":"Cuvio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203386503,
-    "wof:lastmodified":1449025937,
+    "wof:lastmodified":1466291981,
     "wof:name":"Valmar Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.737381,45.898727,8.737381,45.898727],
+  "bbox": [
+    8.737381,
+    45.898727,
+    8.737381,
+    45.898727
+],
   "geometry": {"coordinates":[8.737381,45.898727],"type":"Point"}
 }

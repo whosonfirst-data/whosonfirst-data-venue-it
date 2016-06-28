@@ -2,13 +2,14 @@
   "id": 286805305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.217045,39.327679,16.217045,39.327679",
     "geom:latitude":39.327679,
     "geom:longitude":16.217045,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87040 Castrolibero",
     "sg:city":"Castrolibero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286805305,
-    "wof:lastmodified":1449016166,
+    "wof:lastmodified":1466296528,
     "wof:name":"Lavoratori Associati Impresa Retitelefoniche Sas Di Graziano F. E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.217045,39.327679,16.217045,39.327679],
+  "bbox": [
+    16.217045,
+    39.327679,
+    16.217045,
+    39.327679
+],
   "geometry": {"coordinates":[16.217045,39.327679],"type":"Point"}
 }

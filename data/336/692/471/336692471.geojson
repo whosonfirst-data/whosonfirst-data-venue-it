@@ -2,13 +2,14 @@
   "id": 336692471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.138318,44.883572,10.138318,44.883572",
     "geom:latitude":44.883572,
     "geom:longitude":10.138318,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73/e, Via Cannetolo 43012 Fontanellato",
     "sg:city":"Fontanellato",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336692471,
-    "wof:lastmodified":1448997238,
+    "wof:lastmodified":1466294839,
     "wof:name":"Intermarket Di R.bertozzi & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.138318,44.883572,10.138318,44.883572],
+  "bbox": [
+    10.138318,
+    44.883572,
+    10.138318,
+    44.883572
+],
   "geometry": {"coordinates":[10.138318,44.883572],"type":"Point"}
 }

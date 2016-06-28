@@ -2,13 +2,14 @@
   "id": 336796741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.91419,45.532848,9.91419,45.532848",
     "geom:latitude":45.532848,
     "geom:longitude":9.91419,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via Caduti Del Lavoro 25032 Chiari",
     "sg:city":"Chiari",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336796741,
-    "wof:lastmodified":1448997457,
+    "wof:lastmodified":1466296079,
     "wof:name":"Tool Dies (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.91419,45.532848,9.91419,45.532848],
+  "bbox": [
+    9.91419,
+    45.532848,
+    9.91419,
+    45.532848
+],
   "geometry": {"coordinates":[9.91419,45.532848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303430439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.121037,40.880909,14.121037,40.880909",
     "geom:latitude":40.880909,
     "geom:longitude":14.121037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80138 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303430439,
-    "wof:lastmodified":1448999676,
+    "wof:lastmodified":1466295814,
     "wof:name":"Otovox - W. Schr\u00d6eder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.121037,40.880909,14.121037,40.880909],
+  "bbox": [
+    14.121037,
+    40.880909,
+    14.121037,
+    40.880909
+],
   "geometry": {"coordinates":[14.121037,40.880909],"type":"Point"}
 }

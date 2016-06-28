@@ -2,13 +2,14 @@
   "id": 303937175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.32531,40.852604,14.32531,40.852604",
     "geom:latitude":40.852604,
     "geom:longitude":14.32531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80147 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303937175,
-    "wof:lastmodified":1448998578,
+    "wof:lastmodified":1466298177,
     "wof:name":"Orlanducci Armando",
     "wof:parent_id":85900425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.32531,40.852604,14.32531,40.852604],
+  "bbox": [
+    14.32531,
+    40.852604,
+    14.32531,
+    40.852604
+],
   "geometry": {"coordinates":[14.32531,40.852604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287255047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.429233,45.474785,11.429233,45.474785",
     "geom:latitude":45.474785,
     "geom:longitude":11.429233,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Orna 35 36040 Brendola",
     "sg:city":"Brendola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287255047,
-    "wof:lastmodified":1449001058,
+    "wof:lastmodified":1466292994,
     "wof:name":"La Triveneta Cavi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cable"
     ]
 },
-  "bbox": [11.429233,45.474785,11.429233,45.474785],
+  "bbox": [
+    11.429233,
+    45.474785,
+    11.429233,
+    45.474785
+],
   "geometry": {"coordinates":[11.429233,45.474785],"type":"Point"}
 }

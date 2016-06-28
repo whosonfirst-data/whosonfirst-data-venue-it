@@ -2,13 +2,14 @@
   "id": 320474733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.003226,42.651398,14.003226,42.651398",
     "geom:latitude":42.651398,
     "geom:longitude":14.003226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64026 Roseto Degli Abruzzi",
     "sg:city":"Roseto degli Abruzzi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320474733,
-    "wof:lastmodified":1449011419,
+    "wof:lastmodified":1466297558,
     "wof:name":"Magrini Raffaele & Ceci Graziella Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.003226,42.651398,14.003226,42.651398],
+  "bbox": [
+    14.003226,
+    42.651398,
+    14.003226,
+    42.651398
+],
   "geometry": {"coordinates":[14.003226,42.651398],"type":"Point"}
 }

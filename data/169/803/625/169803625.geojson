@@ -2,13 +2,14 @@
   "id": 169803625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.648018,42.563835,12.648018,42.563835",
     "geom:latitude":42.563835,
     "geom:longitude":12.648018,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"49, Corso Cornelio Tacito 05100 Terni",
     "sg:city":"Terni",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169803625,
-    "wof:lastmodified":1449036008,
+    "wof:lastmodified":1466296069,
     "wof:name":"Banca Cassa Risparmio Terni E Narni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [12.648018,42.563835,12.648018,42.563835],
+  "bbox": [
+    12.648018,
+    42.563835,
+    12.648018,
+    42.563835
+],
   "geometry": {"coordinates":[12.648018,42.563835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270460753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.840823,44.534801,10.840823,44.534801",
     "geom:latitude":44.534801,
     "geom:longitude":10.840823,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, V. Donati - Spezzano 41042 Fiorano Modenese",
     "sg:city":"Fiorano Modenese",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270460753,
-    "wof:lastmodified":1449010974,
+    "wof:lastmodified":1466294593,
     "wof:name":"Jb Design Sas Di Dott. Jacek Bedkowski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramic"
     ]
 },
-  "bbox": [10.840823,44.534801,10.840823,44.534801],
+  "bbox": [
+    10.840823,
+    44.534801,
+    10.840823,
+    44.534801
+],
   "geometry": {"coordinates":[10.840823,44.534801],"type":"Point"}
 }

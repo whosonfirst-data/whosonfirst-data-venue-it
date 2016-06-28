@@ -2,13 +2,14 @@
   "id": 303061127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.274473,45.62431,12.274473,45.62431",
     "geom:latitude":45.62431,
     "geom:longitude":12.274473,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Peschiere 31032 Casale Sul Sile",
     "sg:city":"Casale sul Sile",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303061127,
-    "wof:lastmodified":1448999884,
+    "wof:lastmodified":1466291126,
     "wof:name":"Emme Pi Light S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.274473,45.62431,12.274473,45.62431],
+  "bbox": [
+    12.274473,
+    45.62431,
+    12.274473,
+    45.62431
+],
   "geometry": {"coordinates":[12.274473,45.62431],"type":"Point"}
 }

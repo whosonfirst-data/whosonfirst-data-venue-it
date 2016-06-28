@@ -2,13 +2,14 @@
   "id": 220181225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.333078,44.885147,7.333078,44.885147",
     "geom:latitude":44.885147,
     "geom:longitude":7.333078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10060 Pancalieri",
     "sg:city":"Pancalieri",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220181225,
-    "wof:lastmodified":1449074526,
+    "wof:lastmodified":1466289378,
     "wof:name":"C.c.a. Snc Di Marangoni Ing. L. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.333078,44.885147,7.333078,44.885147],
+  "bbox": [
+    7.333078,
+    44.885147,
+    7.333078,
+    44.885147
+],
   "geometry": {"coordinates":[7.333078,44.885147],"type":"Point"}
 }

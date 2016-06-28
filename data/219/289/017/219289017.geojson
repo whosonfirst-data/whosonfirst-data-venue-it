@@ -2,13 +2,14 @@
   "id": 219289017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.772865,45.225067,9.772865,45.225067",
     "geom:latitude":45.225067,
     "geom:longitude":9.772865,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Resistenza 8 26020 Formigara",
     "sg:city":"Formigara",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219289017,
-    "wof:lastmodified":1449073330,
+    "wof:lastmodified":1466289184,
     "wof:name":"Veneroni Pompe Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.772865,45.225067,9.772865,45.225067],
+  "bbox": [
+    9.772865,
+    45.225067,
+    9.772865,
+    45.225067
+],
   "geometry": {"coordinates":[9.772865,45.225067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286564839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.054027,45.175251,11.054027,45.175251",
     "geom:latitude":45.175251,
     "geom:longitude":11.054027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94, Via Casotti 37054 Nogara",
     "sg:city":"Nogara",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286564839,
-    "wof:lastmodified":1449017918,
+    "wof:lastmodified":1466293493,
     "wof:name":"Moren S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.054027,45.175251,11.054027,45.175251],
+  "bbox": [
+    11.054027,
+    45.175251,
+    11.054027,
+    45.175251
+],
   "geometry": {"coordinates":[11.054027,45.175251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320847429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.834014,45.839035,8.834014,45.839035",
     "geom:latitude":45.839035,
     "geom:longitude":8.834014,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, V. Monte Tagliaferro 21056 Induno Olona",
     "sg:city":"Induno Olona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320847429,
-    "wof:lastmodified":1449012640,
+    "wof:lastmodified":1466298290,
     "wof:name":"Easydur Italiana Di Affri Renato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "measurement"
     ]
 },
-  "bbox": [8.834014,45.839035,8.834014,45.839035],
+  "bbox": [
+    8.834014,
+    45.839035,
+    8.834014,
+    45.839035
+],
   "geometry": {"coordinates":[8.834014,45.839035],"type":"Point"}
 }

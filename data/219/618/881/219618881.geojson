@@ -2,13 +2,14 @@
   "id": 219618881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.438377,40.546169,17.438377,40.546169",
     "geom:latitude":40.546169,
     "geom:longitude":17.438377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74017 Mottola",
     "sg:city":"Mottola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219618881,
-    "wof:lastmodified":1449072593,
+    "wof:lastmodified":1466292485,
     "wof:name":"Tecnoricambi Di Lasaracina Pietro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.438377,40.546169,17.438377,40.546169],
+  "bbox": [
+    17.438377,
+    40.546169,
+    17.438377,
+    40.546169
+],
   "geometry": {"coordinates":[17.438377,40.546169],"type":"Point"}
 }

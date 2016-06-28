@@ -2,13 +2,14 @@
   "id": 286714033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.770802,41.1395,14.770802,41.1395",
     "geom:latitude":41.1395,
     "geom:longitude":14.770802,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Adua 82100 Benevento",
     "sg:city":"Benevento",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286714033,
-    "wof:lastmodified":1449016640,
+    "wof:lastmodified":1466295385,
     "wof:name":"Ziccardi Luigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [14.770802,41.1395,14.770802,41.1395],
+  "bbox": [
+    14.770802,
+    41.1395,
+    14.770802,
+    41.1395
+],
   "geometry": {"coordinates":[14.770802,41.1395],"type":"Point"}
 }

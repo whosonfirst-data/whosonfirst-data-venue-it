@@ -2,13 +2,14 @@
   "id": 303682101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.432078,45.927254,8.432078,45.927254",
     "geom:latitude":45.927254,
     "geom:longitude":8.432078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28883 Gravellona Toce",
     "sg:city":"Gravellona Toce",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303682101,
-    "wof:lastmodified":1448998543,
+    "wof:lastmodified":1466297458,
     "wof:name":"Bilaff Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.432078,45.927254,8.432078,45.927254],
+  "bbox": [
+    8.432078,
+    45.927254,
+    8.432078,
+    45.927254
+],
   "geometry": {"coordinates":[8.432078,45.927254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319815983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.306753,43.347389,11.306753,43.347389",
     "geom:latitude":43.347389,
     "geom:longitude":11.306753,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53035 Monteriggioni",
     "sg:city":"Monteriggioni",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319815983,
-    "wof:lastmodified":1449024458,
+    "wof:lastmodified":1466292422,
     "wof:name":"Video Professional Studio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.306753,43.347389,11.306753,43.347389],
+  "bbox": [
+    11.306753,
+    43.347389,
+    11.306753,
+    43.347389
+],
   "geometry": {"coordinates":[11.306753,43.347389],"type":"Point"}
 }

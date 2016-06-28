@@ -2,13 +2,14 @@
   "id": 269886031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.619327,42.003323,13.619327,42.003323",
     "geom:latitude":42.003323,
     "geom:longitude":13.619327,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Corbella 67058 San Benedetto Dei Marsi",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269886031,
-    "wof:lastmodified":1449037459,
+    "wof:lastmodified":1466293979,
     "wof:name":"Primavera S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [13.619327,42.003323,13.619327,42.003323],
+  "bbox": [
+    13.619327,
+    42.003323,
+    13.619327,
+    42.003323
+],
   "geometry": {"coordinates":[13.619327,42.003323],"type":"Point"}
 }

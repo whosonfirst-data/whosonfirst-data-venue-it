@@ -2,13 +2,14 @@
   "id": 303490325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.552469,44.714417,10.552469,44.714417",
     "geom:latitude":44.714417,
     "geom:longitude":10.552469,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42025 Cavriago",
     "sg:classifiers":[],
     "sg:orig_category":"Apparecchiature Ed Attrezzature Meccaniche",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303490325,
-    "wof:lastmodified":1449000319,
+    "wof:lastmodified":1466296375,
     "wof:name":"Airtec Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.552469,44.714417,10.552469,44.714417],
+  "bbox": [
+    10.552469,
+    44.714417,
+    10.552469,
+    44.714417
+],
   "geometry": {"coordinates":[10.552469,44.714417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203077149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.331845,44.490162,11.331845,44.490162",
     "geom:latitude":44.490162,
     "geom:longitude":11.331845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40123 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203077149,
-    "wof:lastmodified":1449025233,
+    "wof:lastmodified":1466295821,
     "wof:name":"Fantasia Nell'aria",
     "wof:parent_id":85904593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.331845,44.490162,11.331845,44.490162],
+  "bbox": [
+    11.331845,
+    44.490162,
+    11.331845,
+    44.490162
+],
   "geometry": {"coordinates":[11.331845,44.490162],"type":"Point"}
 }

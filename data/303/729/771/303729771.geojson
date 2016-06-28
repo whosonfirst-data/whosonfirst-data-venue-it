@@ -2,13 +2,14 @@
   "id": 303729771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.118246,45.423126,9.118246,45.423126",
     "geom:latitude":45.423126,
     "geom:longitude":9.118246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Buccinasco",
     "sg:city":"Buccinasco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303729771,
-    "wof:lastmodified":1448999351,
+    "wof:lastmodified":1466297669,
     "wof:name":"Omegal Snc Di Galeazzi F. E Mecenero M.",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.118246,45.423126,9.118246,45.423126],
+  "bbox": [
+    9.118246,
+    45.423126,
+    9.118246,
+    45.423126
+],
   "geometry": {"coordinates":[9.118246,45.423126],"type":"Point"}
 }

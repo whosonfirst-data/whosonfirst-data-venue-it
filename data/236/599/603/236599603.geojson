@@ -2,13 +2,14 @@
   "id": 236599603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.580843,45.518074,9.580843,45.518074",
     "geom:latitude":45.518074,
     "geom:longitude":9.580843,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Via Del Bosco 24047 Treviglio",
     "sg:city":"Treviglio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236599603,
-    "wof:lastmodified":1449003133,
+    "wof:lastmodified":1466295014,
     "wof:name":"I Bronzi D'arte Renato Mascaro Di Mascaro F. & C.(s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.580843,45.518074,9.580843,45.518074],
+  "bbox": [
+    9.580843,
+    45.518074,
+    9.580843,
+    45.518074
+],
   "geometry": {"coordinates":[9.580843,45.518074],"type":"Point"}
 }

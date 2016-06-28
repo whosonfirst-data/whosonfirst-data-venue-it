@@ -2,13 +2,14 @@
   "id": 303689701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.510456,43.564045,13.510456,43.564045",
     "geom:latitude":43.564045,
     "geom:longitude":13.510456,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60020 Ancona",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamento Uffici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303689701,
-    "wof:lastmodified":1449000152,
+    "wof:lastmodified":1466297653,
     "wof:name":"Spazio Arredo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.510456,43.564045,13.510456,43.564045],
+  "bbox": [
+    13.510456,
+    43.564045,
+    13.510456,
+    43.564045
+],
   "geometry": {"coordinates":[13.510456,43.564045],"type":"Point"}
 }

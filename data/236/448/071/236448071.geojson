@@ -2,13 +2,14 @@
   "id": 236448071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.277431,44.486221,11.277431,44.486221",
     "geom:latitude":44.486221,
     "geom:longitude":11.277431,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24, V. 63 Brigata Bolero 40033 Casalecchio Di Reno",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236448071,
-    "wof:lastmodified":1449005060,
+    "wof:lastmodified":1466293506,
     "wof:name":"Tecnodent Spa",
     "wof:parent_id":85904641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instrument"
     ]
 },
-  "bbox": [11.277431,44.486221,11.277431,44.486221],
+  "bbox": [
+    11.277431,
+    44.486221,
+    11.277431,
+    44.486221
+],
   "geometry": {"coordinates":[11.277431,44.486221],"type":"Point"}
 }

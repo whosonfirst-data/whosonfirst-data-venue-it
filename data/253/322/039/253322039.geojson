@@ -2,13 +2,14 @@
   "id": 253322039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.169317,40.348248,18.169317,40.348248",
     "geom:latitude":40.348248,
     "geom:longitude":18.169317,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73100 Lecce",
     "sg:city":"Lecce",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253322039,
-    "wof:lastmodified":1449062796,
+    "wof:lastmodified":1466292505,
     "wof:name":"Pignatelli Centro Medico Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.169317,40.348248,18.169317,40.348248],
+  "bbox": [
+    18.169317,
+    40.348248,
+    18.169317,
+    40.348248
+],
   "geometry": {"coordinates":[18.169317,40.348248],"type":"Point"}
 }

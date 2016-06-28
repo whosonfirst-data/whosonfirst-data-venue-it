@@ -2,13 +2,14 @@
   "id": 269878233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.940014,46.165607,9.940014,46.165607",
     "geom:latitude":46.165607,
     "geom:longitude":9.940014,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fiorenza 23026 Ponte In Valtellina",
     "sg:city":"Ponte in Valtellina",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269878233,
-    "wof:lastmodified":1449037392,
+    "wof:lastmodified":1466293898,
     "wof:name":"Cooperativa Ortofrutticola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [9.940014,46.165607,9.940014,46.165607],
+  "bbox": [
+    9.940014,
+    46.165607,
+    9.940014,
+    46.165607
+],
   "geometry": {"coordinates":[9.940014,46.165607],"type":"Point"}
 }

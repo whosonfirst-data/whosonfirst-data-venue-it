@@ -2,13 +2,14 @@
   "id": 186237219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.479249,43.98317,12.479249,43.98317",
     "geom:latitude":43.98317,
     "geom:longitude":12.479249,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Querce 51 47842 San Giovanni In Marignano",
     "sg:city":"San Giovanni in Marignano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186237219,
-    "wof:lastmodified":1449050333,
+    "wof:lastmodified":1466289976,
     "wof:name":"Aeffe Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "basic"
     ]
 },
-  "bbox": [12.479249,43.98317,12.479249,43.98317],
+  "bbox": [
+    12.479249,
+    43.98317,
+    12.479249,
+    43.98317
+],
   "geometry": {"coordinates":[12.479249,43.98317],"type":"Point"}
 }

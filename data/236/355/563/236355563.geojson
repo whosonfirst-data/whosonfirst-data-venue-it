@@ -2,13 +2,14 @@
   "id": 236355563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.651949,45.03458,7.651949,45.03458",
     "geom:latitude":45.03458,
     "geom:longitude":7.651949,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10134 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236355563,
-    "wof:lastmodified":1449002385,
+    "wof:lastmodified":1466292510,
     "wof:name":"Opportunity Shop",
     "wof:parent_id":85796879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.651949,45.03458,7.651949,45.03458],
+  "bbox": [
+    7.651949,
+    45.03458,
+    7.651949,
+    45.03458
+],
   "geometry": {"coordinates":[7.651949,45.03458],"type":"Point"}
 }

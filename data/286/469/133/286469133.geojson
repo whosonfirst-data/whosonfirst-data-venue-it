@@ -2,13 +2,14 @@
   "id": 286469133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.307924,45.527615,10.307924,45.527615",
     "geom:latitude":45.527615,
     "geom:longitude":10.307924,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giulio Pastore 25082 Botticino",
     "sg:city":"Botticino",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286469133,
-    "wof:lastmodified":1449018170,
+    "wof:lastmodified":1466292343,
     "wof:name":"Calzificio Wz Di Zanetti Andrea & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.307924,45.527615,10.307924,45.527615],
+  "bbox": [
+    10.307924,
+    45.527615,
+    10.307924,
+    45.527615
+],
   "geometry": {"coordinates":[10.307924,45.527615],"type":"Point"}
 }

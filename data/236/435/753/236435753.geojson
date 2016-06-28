@@ -2,13 +2,14 @@
   "id": 236435753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.361376,38.11562,13.361376,38.11562",
     "geom:latitude":38.11562,
     "geom:longitude":13.361376,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctr. Basalaci - Str. St. 113 Km 202,300 90010 Campofelice Di Roccella",
     "sg:city":"Campofelice di Roccella",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236435753,
-    "wof:lastmodified":1449004881,
+    "wof:lastmodified":1466293357,
     "wof:name":"Coris Srl",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instrument"
     ]
 },
-  "bbox": [13.361376,38.11562,13.361376,38.11562],
+  "bbox": [
+    13.361376,
+    38.11562,
+    13.361376,
+    38.11562
+],
   "geometry": {"coordinates":[13.361376,38.11562],"type":"Point"}
 }

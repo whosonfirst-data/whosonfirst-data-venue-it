@@ -2,13 +2,14 @@
   "id": 219177725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.192922,45.492645,9.192922,45.492645",
     "geom:latitude":45.492645,
     "geom:longitude":9.192922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20159 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219177725,
-    "wof:lastmodified":1449073914,
+    "wof:lastmodified":1466294617,
     "wof:name":"Cervi Attilio Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.192922,45.492645,9.192922,45.492645],
+  "bbox": [
+    9.192922,
+    45.492645,
+    9.192922,
+    45.492645
+],
   "geometry": {"coordinates":[9.192922,45.492645],"type":"Point"}
 }

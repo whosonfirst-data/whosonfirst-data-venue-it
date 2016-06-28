@@ -2,13 +2,14 @@
   "id": 320037175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.364348,45.888214,12.364348,45.888214",
     "geom:latitude":45.888214,
     "geom:longitude":12.364348,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31020 Zoppe'",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine E Forniture Per Arredamento E Industria Del Legno. Prodotti E Manufatti In Gomma",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320037175,
-    "wof:lastmodified":1449015032,
+    "wof:lastmodified":1466293857,
     "wof:name":"Lape (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.364348,45.888214,12.364348,45.888214],
+  "bbox": [
+    12.364348,
+    45.888214,
+    12.364348,
+    45.888214
+],
   "geometry": {"coordinates":[12.364348,45.888214],"type":"Point"}
 }

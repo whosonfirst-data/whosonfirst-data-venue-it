@@ -2,13 +2,14 @@
   "id": 186249379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.42466,40.533081,17.42466,40.533081",
     "geom:latitude":40.533081,
     "geom:longitude":17.42466,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Partigiani Caduti 57 74023 Grottaglie",
     "sg:city":"Grottaglie",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186249379,
-    "wof:lastmodified":1449050406,
+    "wof:lastmodified":1466290072,
     "wof:name":"Edil Marmo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitting"
     ]
 },
-  "bbox": [17.42466,40.533081,17.42466,40.533081],
+  "bbox": [
+    17.42466,
+    40.533081,
+    17.42466,
+    40.533081
+],
   "geometry": {"coordinates":[17.42466,40.533081],"type":"Point"}
 }

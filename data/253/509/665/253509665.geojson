@@ -2,13 +2,14 @@
   "id": 253509665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.653281,42.087017,14.653281,42.087017",
     "geom:latitude":42.087017,
     "geom:longitude":14.653281,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66050 Monteodorisio",
     "sg:city":"Monteodorisio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253509665,
-    "wof:lastmodified":1449062943,
+    "wof:lastmodified":1466294750,
     "wof:name":"M.s.a.t. Glass Sas Di D'angio' Carlo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.653281,42.087017,14.653281,42.087017],
+  "bbox": [
+    14.653281,
+    42.087017,
+    14.653281,
+    42.087017
+],
   "geometry": {"coordinates":[14.653281,42.087017],"type":"Point"}
 }

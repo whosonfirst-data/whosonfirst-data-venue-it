@@ -2,13 +2,14 @@
   "id": 202481939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.443507,41.799564,12.443507,41.799564",
     "geom:latitude":41.799564,
     "geom:longitude":12.443507,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00128 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202481939,
-    "wof:lastmodified":1449062333,
+    "wof:lastmodified":1466296029,
     "wof:name":"L'infanzia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.443507,41.799564,12.443507,41.799564],
+  "bbox": [
+    12.443507,
+    41.799564,
+    12.443507,
+    41.799564
+],
   "geometry": {"coordinates":[12.443507,41.799564],"type":"Point"}
 }

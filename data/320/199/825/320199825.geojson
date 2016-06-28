@@ -2,13 +2,14 @@
   "id": 320199825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.389179,46.091248,13.389179,46.091248",
     "geom:latitude":46.091248,
     "geom:longitude":13.389179,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33040 Moimacco",
     "sg:city":"Moimacco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320199825,
-    "wof:lastmodified":1449011625,
+    "wof:lastmodified":1466295811,
     "wof:name":"Levigatura Alma Di Montevecchi Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.389179,46.091248,13.389179,46.091248],
+  "bbox": [
+    13.389179,
+    46.091248,
+    13.389179,
+    46.091248
+],
   "geometry": {"coordinates":[13.389179,46.091248],"type":"Point"}
 }

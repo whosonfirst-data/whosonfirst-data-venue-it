@@ -2,13 +2,14 @@
   "id": 270515563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.563339,45.742302,8.563339,45.742302",
     "geom:latitude":45.742302,
     "geom:longitude":8.563339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Mazzini 28040 Dormelletto",
     "sg:city":"Dormelletto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270515563,
-    "wof:lastmodified":1449009199,
+    "wof:lastmodified":1466295264,
     "wof:name":"Cost Oil Di Costa Irene & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.563339,45.742302,8.563339,45.742302],
+  "bbox": [
+    8.563339,
+    45.742302,
+    8.563339,
+    45.742302
+],
   "geometry": {"coordinates":[8.563339,45.742302],"type":"Point"}
 }

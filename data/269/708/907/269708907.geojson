@@ -2,13 +2,14 @@
   "id": 269708907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.239202,43.802753,11.239202,43.802753",
     "geom:latitude":43.802753,
     "geom:longitude":11.239202,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50141 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269708907,
-    "wof:lastmodified":1449036525,
+    "wof:lastmodified":1466291779,
     "wof:name":"Future Gadgets",
     "wof:parent_id":85904657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.239202,43.802753,11.239202,43.802753],
+  "bbox": [
+    11.239202,
+    43.802753,
+    11.239202,
+    43.802753
+],
   "geometry": {"coordinates":[11.239202,43.802753],"type":"Point"}
 }

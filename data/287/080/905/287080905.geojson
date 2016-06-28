@@ -2,13 +2,14 @@
   "id": 287080905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.353504,41.640453,13.353504,41.640453",
     "geom:latitude":41.640453,
     "geom:longitude":13.353504,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03023 Ceccano",
     "sg:city":"Ceccano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287080905,
-    "wof:lastmodified":1449001570,
+    "wof:lastmodified":1466290670,
     "wof:name":"Sodani Giacinto M.b.b.f.h. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "public"
     ]
 },
-  "bbox": [13.353504,41.640453,13.353504,41.640453],
+  "bbox": [
+    13.353504,
+    41.640453,
+    13.353504,
+    41.640453
+],
   "geometry": {"coordinates":[13.353504,41.640453],"type":"Point"}
 }

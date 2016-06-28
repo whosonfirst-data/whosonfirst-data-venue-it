@@ -2,13 +2,14 @@
   "id": 235937657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.256902,43.768734,11.256902,43.768734",
     "geom:latitude":43.768734,
     "geom:longitude":11.256902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Leolino 89 50020 Panzano",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235937657,
-    "wof:lastmodified":1449008323,
+    "wof:lastmodified":1466294491,
     "wof:name":"Azienda Agricola Fontodi Di Giovanni E Marco Manetti S.s.",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "italian"
     ]
 },
-  "bbox": [11.256902,43.768734,11.256902,43.768734],
+  "bbox": [
+    11.256902,
+    43.768734,
+    11.256902,
+    43.768734
+],
   "geometry": {"coordinates":[11.256902,43.768734],"type":"Point"}
 }

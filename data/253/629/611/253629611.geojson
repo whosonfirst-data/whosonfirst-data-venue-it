@@ -2,13 +2,14 @@
   "id": 253629611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.238655,44.138969,12.238655,44.138969",
     "geom:latitude":44.138969,
     "geom:longitude":12.238655,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253629611,
-    "wof:lastmodified":1449065068,
+    "wof:lastmodified":1466296393,
     "wof:name":"Centrale Del Latte Cesena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "latte"
     ]
 },
-  "bbox": [12.238655,44.138969,12.238655,44.138969],
+  "bbox": [
+    12.238655,
+    44.138969,
+    12.238655,
+    44.138969
+],
   "geometry": {"coordinates":[12.238655,44.138969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252834689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.308312,43.165619,12.308312,43.165619",
     "geom:latitude":43.165619,
     "geom:longitude":12.308312,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06019 Umbertide",
     "sg:city":"Umbertide",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252834689,
-    "wof:lastmodified":1449005517,
+    "wof:lastmodified":1466290340,
     "wof:name":"Sartoria Artigiana Pitulum Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.308312,43.165619,12.308312,43.165619],
+  "bbox": [
+    12.308312,
+    43.165619,
+    12.308312,
+    43.165619
+],
   "geometry": {"coordinates":[12.308312,43.165619],"type":"Point"}
 }

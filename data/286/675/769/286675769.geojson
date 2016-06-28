@@ -2,13 +2,14 @@
   "id": 286675769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189651,45.456867,9.189651,45.456867",
     "geom:latitude":45.456867,
     "geom:longitude":9.189651,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Via S. Sofia 20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286675769,
-    "wof:lastmodified":1449016692,
+    "wof:lastmodified":1466294901,
     "wof:name":"Leader Field Marketing Research (s.r.l.)",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "medium"
     ]
 },
-  "bbox": [9.189651,45.456867,9.189651,45.456867],
+  "bbox": [
+    9.189651,
+    45.456867,
+    9.189651,
+    45.456867
+],
   "geometry": {"coordinates":[9.189651,45.456867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219716495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.102135,45.541435,9.102135,45.541435",
     "geom:latitude":45.541435,
     "geom:longitude":9.102135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20030 Senago",
     "sg:city":"Senago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219716495,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466293457,
     "wof:name":"Rinfrescart Snc",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.102135,45.541435,9.102135,45.541435],
+  "bbox": [
+    9.102135,
+    45.541435,
+    9.102135,
+    45.541435
+],
   "geometry": {"coordinates":[9.102135,45.541435],"type":"Point"}
 }

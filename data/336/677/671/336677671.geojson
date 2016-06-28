@@ -2,13 +2,14 @@
   "id": 336677671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.24389,45.553082,9.24389,45.553082",
     "geom:latitude":45.553082,
     "geom:longitude":9.24389,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58, Via Cornaggia 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336677671,
-    "wof:lastmodified":1448997316,
+    "wof:lastmodified":1466294655,
     "wof:name":"Geico S.p.a.",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.24389,45.553082,9.24389,45.553082],
+  "bbox": [
+    9.24389,
+    45.553082,
+    9.24389,
+    45.553082
+],
   "geometry": {"coordinates":[9.24389,45.553082],"type":"Point"}
 }

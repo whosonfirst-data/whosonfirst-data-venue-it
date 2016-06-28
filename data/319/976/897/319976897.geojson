@@ -2,13 +2,14 @@
   "id": 319976897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.23983,40.785877,17.23983,40.785877",
     "geom:latitude":40.785877,
     "geom:longitude":17.23983,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70011 Alberobello",
     "sg:city":"Alberobello",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319976897,
-    "wof:lastmodified":1449024406,
+    "wof:lastmodified":1466294511,
     "wof:name":"La Vigilante Di Caporaso Armando",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.23983,40.785877,17.23983,40.785877],
+  "bbox": [
+    17.23983,
+    40.785877,
+    17.23983,
+    40.785877
+],
   "geometry": {"coordinates":[17.23983,40.785877],"type":"Point"}
 }

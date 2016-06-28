@@ -2,13 +2,14 @@
   "id": 303805391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.825123,45.32238,8.825123,45.32238",
     "geom:latitude":45.32238,
     "geom:longitude":8.825123,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27029 Piccolini",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Cucina Ed Elettrodomestici. Frigotecnica, Apparecchiature E Servizi. Elettrodomestici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303805391,
-    "wof:lastmodified":1448998933,
+    "wof:lastmodified":1466297842,
     "wof:name":"Pollastro Giancarlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.825123,45.32238,8.825123,45.32238],
+  "bbox": [
+    8.825123,
+    45.32238,
+    8.825123,
+    45.32238
+],
   "geometry": {"coordinates":[8.825123,45.32238],"type":"Point"}
 }

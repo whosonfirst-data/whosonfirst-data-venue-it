@@ -2,13 +2,14 @@
   "id": 202844247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.912734,45.39587,10.912734,45.39587",
     "geom:latitude":45.39587,
     "geom:longitude":10.912734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37040 Veronella",
     "sg:city":"Veronella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202844247,
-    "wof:lastmodified":1449061194,
+    "wof:lastmodified":1466292649,
     "wof:name":"Pres Metal Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.912734,45.39587,10.912734,45.39587],
+  "bbox": [
+    10.912734,
+    45.39587,
+    10.912734,
+    45.39587
+],
   "geometry": {"coordinates":[10.912734,45.39587],"type":"Point"}
 }

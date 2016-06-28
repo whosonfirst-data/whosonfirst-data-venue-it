@@ -2,13 +2,14 @@
   "id": 286325309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.263567,45.415119,9.263567,45.415119",
     "geom:latitude":45.415119,
     "geom:longitude":9.263567,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286325309,
-    "wof:lastmodified":1449016340,
+    "wof:lastmodified":1466290361,
     "wof:name":"Parrocchia S. Maria Assunta - Poasco",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.263567,45.415119,9.263567,45.415119],
+  "bbox": [
+    9.263567,
+    45.415119,
+    9.263567,
+    45.415119
+],
   "geometry": {"coordinates":[9.263567,45.415119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269544139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.332194,41.075417,14.332194,41.075417",
     "geom:latitude":41.075417,
     "geom:longitude":14.332194,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Consortile Asi 81032 Carinaro",
     "sg:city":"Carinaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269544139,
-    "wof:lastmodified":1449038962,
+    "wof:lastmodified":1466289638,
     "wof:name":"Gi.pi. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [14.332194,41.075417,14.332194,41.075417],
+  "bbox": [
+    14.332194,
+    41.075417,
+    14.332194,
+    41.075417
+],
   "geometry": {"coordinates":[14.332194,41.075417],"type":"Point"}
 }

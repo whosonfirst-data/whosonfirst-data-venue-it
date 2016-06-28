@@ -2,13 +2,14 @@
   "id": 186356229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.369479,44.474388,11.369479,44.474388",
     "geom:latitude":44.474388,
     "geom:longitude":11.369479,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40137 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186356229,
-    "wof:lastmodified":1449052532,
+    "wof:lastmodified":1466290971,
     "wof:name":"Domenicali Franco",
     "wof:parent_id":85900403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.369479,44.474388,11.369479,44.474388],
+  "bbox": [
+    11.369479,
+    44.474388,
+    11.369479,
+    44.474388
+],
   "geometry": {"coordinates":[11.369479,44.474388],"type":"Point"}
 }

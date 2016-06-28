@@ -2,13 +2,14 @@
   "id": 269715201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.395071,43.630455,13.395071,43.630455",
     "geom:latitude":43.630455,
     "geom:longitude":13.395071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60015 Falconara Marittima",
     "sg:city":"Falconara Marittima",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269715201,
-    "wof:lastmodified":1449038349,
+    "wof:lastmodified":1466291884,
     "wof:name":"Nobili Proposte Immobiliari Di Nobili Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.395071,43.630455,13.395071,43.630455],
+  "bbox": [
+    13.395071,
+    43.630455,
+    13.395071,
+    43.630455
+],
   "geometry": {"coordinates":[13.395071,43.630455],"type":"Point"}
 }

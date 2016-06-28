@@ -2,13 +2,14 @@
   "id": 219426063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.155252,45.468075,9.155252,45.468075",
     "geom:latitude":45.468075,
     "geom:longitude":9.155252,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20149 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219426063,
-    "wof:lastmodified":1449071148,
+    "wof:lastmodified":1466290609,
     "wof:name":"Studio Legale Behare",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.155252,45.468075,9.155252,45.468075],
+  "bbox": [
+    9.155252,
+    45.468075,
+    9.155252,
+    45.468075
+],
   "geometry": {"coordinates":[9.155252,45.468075],"type":"Point"}
 }

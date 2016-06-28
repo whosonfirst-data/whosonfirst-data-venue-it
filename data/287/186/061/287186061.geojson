@@ -2,13 +2,14 @@
   "id": 287186061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.318162,44.660278,10.318162,44.660278",
     "geom:latitude":44.660278,
     "geom:longitude":10.318162,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Provinciale 104 43037 Lesignano De' Bagni",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":287186061,
-    "wof:lastmodified":1449001360,
+    "wof:lastmodified":1466292066,
     "wof:name":"3 P Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "turning"
     ]
 },
-  "bbox": [10.318162,44.660278,10.318162,44.660278],
+  "bbox": [
+    10.318162,
+    44.660278,
+    10.318162,
+    44.660278
+],
   "geometry": {"coordinates":[10.318162,44.660278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319836713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.005163,45.639931,9.005163,45.639931",
     "geom:latitude":45.639931,
     "geom:longitude":9.005163,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21040 Gerenzano",
     "sg:city":"Gerenzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319836713,
-    "wof:lastmodified":1449024599,
+    "wof:lastmodified":1466292687,
     "wof:name":"Garage Borroni Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.005163,45.639931,9.005163,45.639931],
+  "bbox": [
+    9.005163,
+    45.639931,
+    9.005163,
+    45.639931
+],
   "geometry": {"coordinates":[9.005163,45.639931],"type":"Point"}
 }

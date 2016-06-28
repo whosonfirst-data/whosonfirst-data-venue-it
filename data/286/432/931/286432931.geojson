@@ -2,13 +2,14 @@
   "id": 286432931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.062366,41.806129,13.062366,41.806129",
     "geom:latitude":41.806129,
     "geom:longitude":13.062366,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03018 Paliano",
     "sg:city":"Paliano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286432931,
-    "wof:lastmodified":1449015113,
+    "wof:lastmodified":1466291912,
     "wof:name":"Idrotermica Massimi Gaetano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.062366,41.806129,13.062366,41.806129],
+  "bbox": [
+    13.062366,
+    41.806129,
+    13.062366,
+    41.806129
+],
   "geometry": {"coordinates":[13.062366,41.806129],"type":"Point"}
 }

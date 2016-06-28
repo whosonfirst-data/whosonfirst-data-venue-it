@@ -2,13 +2,14 @@
   "id": 253650383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.741224,45.687576,8.741224,45.687576",
     "geom:latitude":45.687576,
     "geom:longitude":8.741224,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21010 Arsago Seprio",
     "sg:city":"Arsago Seprio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253650383,
-    "wof:lastmodified":1449064612,
+    "wof:lastmodified":1466296364,
     "wof:name":"Merletti G. L. & C. Sdf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.741224,45.687576,8.741224,45.687576],
+  "bbox": [
+    8.741224,
+    45.687576,
+    8.741224,
+    45.687576
+],
   "geometry": {"coordinates":[8.741224,45.687576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303142235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.847001,45.369091,11.847001,45.369091",
     "geom:latitude":45.369091,
     "geom:longitude":11.847001,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Albignasego",
     "sg:city":"Albignasego",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303142235,
-    "wof:lastmodified":1449000075,
+    "wof:lastmodified":1466292212,
     "wof:name":"Ruffatti Fabbrica Organi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.847001,45.369091,11.847001,45.369091],
+  "bbox": [
+    11.847001,
+    45.369091,
+    11.847001,
+    45.369091
+],
   "geometry": {"coordinates":[11.847001,45.369091],"type":"Point"}
 }

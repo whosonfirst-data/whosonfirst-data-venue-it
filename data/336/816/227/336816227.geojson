@@ -2,13 +2,14 @@
   "id": 336816227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.441471,45.777538,9.441471,45.777538",
     "geom:latitude":45.777538,
     "geom:longitude":9.441471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Palude 23801 Calolziocorte",
     "sg:city":"Calolziocorte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336816227,
-    "wof:lastmodified":1448997565,
+    "wof:lastmodified":1466296287,
     "wof:name":"C.i.e. International Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.441471,45.777538,9.441471,45.777538],
+  "bbox": [
+    9.441471,
+    45.777538,
+    9.441471,
+    45.777538
+],
   "geometry": {"coordinates":[9.441471,45.777538],"type":"Point"}
 }

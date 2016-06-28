@@ -2,13 +2,14 @@
   "id": 169725129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.017695,45.596828,9.017695,45.596828",
     "geom:latitude":45.596828,
     "geom:longitude":9.017695,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Alessandro Manzoni 4 21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169725129,
-    "wof:lastmodified":1449033495,
+    "wof:lastmodified":1466294467,
     "wof:name":"Mondial Lus S.p.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "point"
     ]
 },
-  "bbox": [9.017695,45.596828,9.017695,45.596828],
+  "bbox": [
+    9.017695,
+    45.596828,
+    9.017695,
+    45.596828
+],
   "geometry": {"coordinates":[9.017695,45.596828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219976981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.626829,45.67318,9.626829,45.67318",
     "geom:latitude":45.67318,
     "geom:longitude":9.626829,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24048 Treviolo",
     "sg:city":"Treviolo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219976981,
-    "wof:lastmodified":1449071850,
+    "wof:lastmodified":1466296108,
     "wof:name":"S.i.t.i.s. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.626829,45.67318,9.626829,45.67318],
+  "bbox": [
+    9.626829,
+    45.67318,
+    9.626829,
+    45.67318
+],
   "geometry": {"coordinates":[9.626829,45.67318],"type":"Point"}
 }

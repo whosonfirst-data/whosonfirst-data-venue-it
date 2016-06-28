@@ -2,13 +2,14 @@
   "id": 304011205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.840381,45.840656,8.840381,45.840656",
     "geom:latitude":45.840656,
     "geom:longitude":8.840381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21056 Induno Olona",
     "sg:city":"Induno Olona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304011205,
-    "wof:lastmodified":1449044046,
+    "wof:lastmodified":1466292286,
     "wof:name":"Moioli F.lli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.840381,45.840656,8.840381,45.840656],
+  "bbox": [
+    8.840381,
+    45.840656,
+    8.840381,
+    45.840656
+],
   "geometry": {"coordinates":[8.840381,45.840656],"type":"Point"}
 }

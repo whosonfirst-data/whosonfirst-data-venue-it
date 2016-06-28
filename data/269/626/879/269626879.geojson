@@ -2,13 +2,14 @@
   "id": 269626879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.54697,44.712505,10.54697,44.712505",
     "geom:latitude":44.712505,
     "geom:longitude":10.54697,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell'industria 12 42025 Cavriago",
     "sg:classifiers":[],
     "sg:orig_category":"Level Meters, Electronic",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269626879,
-    "wof:lastmodified":1449038966,
+    "wof:lastmodified":1466290645,
     "wof:name":"Camlogic Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.54697,44.712505,10.54697,44.712505],
+  "bbox": [
+    10.54697,
+    44.712505,
+    10.54697,
+    44.712505
+],
   "geometry": {"coordinates":[10.54697,44.712505],"type":"Point"}
 }

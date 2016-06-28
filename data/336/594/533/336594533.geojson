@@ -2,13 +2,14 @@
   "id": 336594533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.3035,44.571133,11.3035,44.571133",
     "geom:latitude":44.571133,
     "geom:longitude":11.3035,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Verde 40012 Calderara Di Reno",
     "sg:city":"Calderara di Reno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336594533,
-    "wof:lastmodified":1448997091,
+    "wof:lastmodified":1466293668,
     "wof:name":"Accorsi (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.3035,44.571133,11.3035,44.571133],
+  "bbox": [
+    11.3035,
+    44.571133,
+    11.3035,
+    44.571133
+],
   "geometry": {"coordinates":[11.3035,44.571133],"type":"Point"}
 }

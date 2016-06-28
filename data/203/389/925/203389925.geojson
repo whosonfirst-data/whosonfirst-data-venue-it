@@ -2,13 +2,14 @@
   "id": 203389925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.917102,43.91431,12.917102,43.91431",
     "geom:latitude":43.91431,
     "geom:longitude":12.917102,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203389925,
-    "wof:lastmodified":1449026439,
+    "wof:lastmodified":1466292006,
     "wof:name":"Bagni Tino Di Cardinali Sabina & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.917102,43.91431,12.917102,43.91431],
+  "bbox": [
+    12.917102,
+    43.91431,
+    12.917102,
+    43.91431
+],
   "geometry": {"coordinates":[12.917102,43.91431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270094883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.626654,43.230579,13.626654,43.230579",
     "geom:latitude":43.230579,
     "geom:longitude":13.626654,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63014 Montegranaro",
     "sg:city":"Montegranaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270094883,
-    "wof:lastmodified":1449010181,
+    "wof:lastmodified":1466290145,
     "wof:name":"Rodi Pellami Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.626654,43.230579,13.626654,43.230579],
+  "bbox": [
+    13.626654,
+    43.230579,
+    13.626654,
+    43.230579
+],
   "geometry": {"coordinates":[13.626654,43.230579],"type":"Point"}
 }

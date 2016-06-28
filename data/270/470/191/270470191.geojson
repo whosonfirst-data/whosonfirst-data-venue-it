@@ -2,13 +2,14 @@
   "id": 270470191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.858195,46.618938,10.858195,46.618938",
     "geom:latitude":46.618938,
     "geom:longitude":10.858195,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Molino 1/5 39021 Laces",
     "sg:city":"Laces",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270470191,
-    "wof:lastmodified":1449009222,
+    "wof:lastmodified":1466294698,
     "wof:name":"Fuchs H. & Co. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cereal"
     ]
 },
-  "bbox": [10.858195,46.618938,10.858195,46.618938],
+  "bbox": [
+    10.858195,
+    46.618938,
+    10.858195,
+    46.618938
+],
   "geometry": {"coordinates":[10.858195,46.618938],"type":"Point"}
 }

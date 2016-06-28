@@ -2,13 +2,14 @@
   "id": 236549823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.812364,43.320335,11.812364,43.320335",
     "geom:latitude":43.320335,
     "geom:longitude":11.812364,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Cassia-cesa 52047 Marciano Della Chiana",
     "sg:city":"Cesa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236549823,
-    "wof:lastmodified":1449002373,
+    "wof:lastmodified":1466294563,
     "wof:name":"Bindi Cucine Componibili (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.812364,43.320335,11.812364,43.320335],
+  "bbox": [
+    11.812364,
+    43.320335,
+    11.812364,
+    43.320335
+],
   "geometry": {"coordinates":[11.812364,43.320335],"type":"Point"}
 }

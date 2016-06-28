@@ -2,13 +2,14 @@
   "id": 269913443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.275019,45.895855,12.275019,45.895855",
     "geom:latitude":45.895855,
     "geom:longitude":12.275019,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Colli 59 31058 Susegana",
     "sg:city":"Susegana",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269913443,
-    "wof:lastmodified":1449037079,
+    "wof:lastmodified":1466294279,
     "wof:name":"Emmepi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [12.275019,45.895855,12.275019,45.895855],
+  "bbox": [
+    12.275019,
+    45.895855,
+    12.275019,
+    45.895855
+],
   "geometry": {"coordinates":[12.275019,45.895855],"type":"Point"}
 }

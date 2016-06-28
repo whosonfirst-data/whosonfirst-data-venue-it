@@ -2,13 +2,14 @@
   "id": 186569713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.247582,40.842438,14.247582,40.842438",
     "geom:latitude":40.842438,
     "geom:longitude":14.247582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Montecalvario 80134 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186569713,
-    "wof:lastmodified":1449052933,
+    "wof:lastmodified":1466292975,
     "wof:name":"Pensione Folladori",
     "wof:parent_id":85900505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [14.247582,40.842438,14.247582,40.842438],
+  "bbox": [
+    14.247582,
+    40.842438,
+    14.247582,
+    40.842438
+],
   "geometry": {"coordinates":[14.247582,40.842438],"type":"Point"}
 }

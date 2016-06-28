@@ -2,13 +2,14 @@
   "id": 203106297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.981348,45.459236,10.981348,45.459236",
     "geom:latitude":45.459236,
     "geom:longitude":10.981348,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37124 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203106297,
-    "wof:lastmodified":1449024917,
+    "wof:lastmodified":1466288955,
     "wof:name":"Atelier Intarsia",
     "wof:parent_id":85905029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.981348,45.459236,10.981348,45.459236],
+  "bbox": [
+    10.981348,
+    45.459236,
+    10.981348,
+    45.459236
+],
   "geometry": {"coordinates":[10.981348,45.459236],"type":"Point"}
 }

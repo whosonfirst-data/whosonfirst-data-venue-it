@@ -2,13 +2,14 @@
   "id": 219411671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.998405,44.460106,10.998405,44.460106",
     "geom:latitude":44.460106,
     "geom:longitude":10.998405,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via I\u00b0 Maggio 275 41056 Savignano Sul Panaro",
     "sg:city":"Savignano sul Panaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219411671,
-    "wof:lastmodified":1449070537,
+    "wof:lastmodified":1466290452,
     "wof:name":"Nanni Giovanni & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.998405,44.460106,10.998405,44.460106],
+  "bbox": [
+    10.998405,
+    44.460106,
+    10.998405,
+    44.460106
+],
   "geometry": {"coordinates":[10.998405,44.460106],"type":"Point"}
 }

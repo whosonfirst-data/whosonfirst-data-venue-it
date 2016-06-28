@@ -2,13 +2,14 @@
   "id": 303121897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.185215,40.905495,14.185215,40.905495",
     "geom:latitude":40.905495,
     "geom:longitude":14.185215,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80012 Calvizzano",
     "sg:city":"Calvizzano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303121897,
-    "wof:lastmodified":1449000027,
+    "wof:lastmodified":1466291930,
     "wof:name":"Castelluccio Vincenzo",
     "wof:parent_id":85900399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.185215,40.905495,14.185215,40.905495],
+  "bbox": [
+    14.185215,
+    40.905495,
+    14.185215,
+    40.905495
+],
   "geometry": {"coordinates":[14.185215,40.905495],"type":"Point"}
 }

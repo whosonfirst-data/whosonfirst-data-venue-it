@@ -2,13 +2,14 @@
   "id": 186256321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.045649,44.585033,11.045649,44.585033",
     "geom:latitude":44.585033,
     "geom:longitude":11.045649,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41018 San Cesario Sul Panaro",
     "sg:city":"San Cesario sul Panaro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186256321,
-    "wof:lastmodified":1449052370,
+    "wof:lastmodified":1466290127,
     "wof:name":"Momag Srl - System Car Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.045649,44.585033,11.045649,44.585033],
+  "bbox": [
+    11.045649,
+    44.585033,
+    11.045649,
+    44.585033
+],
   "geometry": {"coordinates":[11.045649,44.585033],"type":"Point"}
 }

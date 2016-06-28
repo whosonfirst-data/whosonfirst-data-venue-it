@@ -2,13 +2,14 @@
   "id": 269908163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.048549,43.465431,11.048549,43.465431",
     "geom:latitude":43.465431,
     "geom:longitude":11.048549,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53037 San Gimignano",
     "sg:city":"San Gimignano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269908163,
-    "wof:lastmodified":1449037499,
+    "wof:lastmodified":1466294222,
     "wof:name":"Azienda Agricola Poggiacolle Di Bartali Stefano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.048549,43.465431,11.048549,43.465431],
+  "bbox": [
+    11.048549,
+    43.465431,
+    11.048549,
+    43.465431
+],
   "geometry": {"coordinates":[11.048549,43.465431],"type":"Point"}
 }

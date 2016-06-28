@@ -2,13 +2,14 @@
   "id": 219593841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.040983,37.473511,15.040983,37.473511",
     "geom:latitude":37.473511,
     "geom:longitude":15.040983,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95122 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219593841,
-    "wof:lastmodified":1449072723,
+    "wof:lastmodified":1466292230,
     "wof:name":"Diesel Sud Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.040983,37.473511,15.040983,37.473511],
+  "bbox": [
+    15.040983,
+    37.473511,
+    15.040983,
+    37.473511
+],
   "geometry": {"coordinates":[15.040983,37.473511],"type":"Point"}
 }

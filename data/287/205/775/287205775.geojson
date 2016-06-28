@@ -2,13 +2,14 @@
   "id": 287205775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.193686,45.493477,9.193686,45.493477",
     "geom:latitude":45.493477,
     "geom:longitude":9.193686,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287205775,
-    "wof:lastmodified":1449001198,
+    "wof:lastmodified":1466292309,
     "wof:name":"Akka Edizioni Musicali Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.193686,45.493477,9.193686,45.493477],
+  "bbox": [
+    9.193686,
+    45.493477,
+    9.193686,
+    45.493477
+],
   "geometry": {"coordinates":[9.193686,45.493477],"type":"Point"}
 }

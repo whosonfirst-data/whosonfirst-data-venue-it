@@ -2,13 +2,14 @@
   "id": 269733481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.876131,41.101604,16.876131,41.101604",
     "geom:latitude":41.101604,
     "geom:longitude":16.876131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70125 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269733481,
-    "wof:lastmodified":1449036466,
+    "wof:lastmodified":1466292179,
     "wof:name":"Ingravallo Gaetano",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.876131,41.101604,16.876131,41.101604],
+  "bbox": [
+    16.876131,
+    41.101604,
+    16.876131,
+    41.101604
+],
   "geometry": {"coordinates":[16.876131,41.101604],"type":"Point"}
 }

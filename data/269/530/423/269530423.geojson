@@ -2,13 +2,14 @@
   "id": 269530423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.045865,45.418659,12.045865,45.418659",
     "geom:latitude":45.418659,
     "geom:longitude":12.045865,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Tramazzo 30032 Fiesso D'artico",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269530423,
-    "wof:lastmodified":1449037412,
+    "wof:lastmodified":1466289481,
     "wof:name":"Calzaturificio Nicler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [12.045865,45.418659,12.045865,45.418659],
+  "bbox": [
+    12.045865,
+    45.418659,
+    12.045865,
+    45.418659
+],
   "geometry": {"coordinates":[12.045865,45.418659],"type":"Point"}
 }

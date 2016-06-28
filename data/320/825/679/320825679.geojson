@@ -2,13 +2,14 @@
   "id": 320825679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.733676,45.109058,7.733676,45.109058",
     "geom:latitude":45.109058,
     "geom:longitude":7.733676,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10156 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320825679,
-    "wof:lastmodified":1449011406,
+    "wof:lastmodified":1466298208,
     "wof:name":"Trafital (s.p.a.)",
     "wof:parent_id":85796809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.733676,45.109058,7.733676,45.109058],
+  "bbox": [
+    7.733676,
+    45.109058,
+    7.733676,
+    45.109058
+],
   "geometry": {"coordinates":[7.733676,45.109058],"type":"Point"}
 }

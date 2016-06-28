@@ -2,13 +2,14 @@
   "id": 219202861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.318419,43.517181,10.318419,43.517181",
     "geom:latitude":43.517181,
     "geom:longitude":10.318419,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57128 Livorno",
     "sg:city":"Livorno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219202861,
-    "wof:lastmodified":1449073458,
+    "wof:lastmodified":1466295231,
     "wof:name":"Centro Servizi Girasole",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.318419,43.517181,10.318419,43.517181],
+  "bbox": [
+    10.318419,
+    43.517181,
+    10.318419,
+    43.517181
+],
   "geometry": {"coordinates":[10.318419,43.517181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286274271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.387259,41.87151,12.387259,41.87151",
     "geom:latitude":41.87151,
     "geom:longitude":12.387259,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Di Brava 00163 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286274271,
-    "wof:lastmodified":1449015527,
+    "wof:lastmodified":1466289590,
     "wof:name":"Europetroli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [12.387259,41.87151,12.387259,41.87151],
+  "bbox": [
+    12.387259,
+    41.87151,
+    12.387259,
+    41.87151
+],
   "geometry": {"coordinates":[12.387259,41.87151],"type":"Point"}
 }

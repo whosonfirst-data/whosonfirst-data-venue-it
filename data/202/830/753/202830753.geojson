@@ -2,13 +2,14 @@
   "id": 202830753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.076761,45.777069,9.076761,45.777069",
     "geom:latitude":45.777069,
     "geom:longitude":9.076761,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202830753,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466292522,
     "wof:name":"Marchese Camillo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.076761,45.777069,9.076761,45.777069],
+  "bbox": [
+    9.076761,
+    45.777069,
+    9.076761,
+    45.777069
+],
   "geometry": {"coordinates":[9.076761,45.777069],"type":"Point"}
 }

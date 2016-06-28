@@ -2,13 +2,14 @@
   "id": 236560263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.765912,40.677956,14.765912,40.677956",
     "geom:latitude":40.677956,
     "geom:longitude":14.765912,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35/bis, Via Pio Xi 84125 Salerno",
     "sg:city":"Salerno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236560263,
-    "wof:lastmodified":1449004307,
+    "wof:lastmodified":1466294659,
     "wof:name":"Ceramiche Artistiche Creazioni Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [14.765912,40.677956,14.765912,40.677956],
+  "bbox": [
+    14.765912,
+    40.677956,
+    14.765912,
+    40.677956
+],
   "geometry": {"coordinates":[14.765912,40.677956],"type":"Point"}
 }

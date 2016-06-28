@@ -2,13 +2,14 @@
   "id": 320031457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.679793,41.808304,12.679793,41.808304",
     "geom:latitude":41.808304,
     "geom:longitude":12.679793,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00044 Frascati",
     "sg:city":"Frascati",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320031457,
-    "wof:lastmodified":1449012669,
+    "wof:lastmodified":1466293783,
     "wof:name":"Ricottini Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.679793,41.808304,12.679793,41.808304],
+  "bbox": [
+    12.679793,
+    41.808304,
+    12.679793,
+    41.808304
+],
   "geometry": {"coordinates":[12.679793,41.808304],"type":"Point"}
 }

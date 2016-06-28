@@ -2,13 +2,14 @@
   "id": 186044705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.966356,45.350304,9.966356,45.350304",
     "geom:latitude":45.350304,
     "geom:longitude":9.966356,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Petrobelli 11, 25022 Borgo San Giacomo, Bs",
     "sg:city":"Borgo San Giacomo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186044705,
-    "wof:lastmodified":1449051770,
+    "wof:lastmodified":1466294959,
     "wof:name":"Cassa Rurale Ed Artigiana Di Borgo San Giacomo (brescia)- Scarl Credito Cooperativo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.966356,45.350304,9.966356,45.350304],
+  "bbox": [
+    9.966356,
+    45.350304,
+    9.966356,
+    45.350304
+],
   "geometry": {"coordinates":[9.966356,45.350304],"type":"Point"}
 }

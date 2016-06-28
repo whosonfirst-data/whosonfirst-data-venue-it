@@ -2,13 +2,14 @@
   "id": 219543537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.877023,42.971004,13.877023,42.971004",
     "geom:latitude":42.971004,
     "geom:longitude":13.877023,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63013 Grottammare",
     "sg:city":"Grottammare",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219543537,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1466291787,
     "wof:name":"Residence Costazzurra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.877023,42.971004,13.877023,42.971004],
+  "bbox": [
+    13.877023,
+    42.971004,
+    13.877023,
+    42.971004
+],
   "geometry": {"coordinates":[13.877023,42.971004],"type":"Point"}
 }

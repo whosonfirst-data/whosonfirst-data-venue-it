@@ -2,13 +2,14 @@
   "id": 219956857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.904662,45.3979,11.904662,45.3979",
     "geom:latitude":45.3979,
     "geom:longitude":11.904662,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35128 Padova",
     "sg:city":"Padova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219956857,
-    "wof:lastmodified":1449070989,
+    "wof:lastmodified":1466295875,
     "wof:name":"S.e.i. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.904662,45.3979,11.904662,45.3979],
+  "bbox": [
+    11.904662,
+    45.3979,
+    11.904662,
+    45.3979
+],
   "geometry": {"coordinates":[11.904662,45.3979],"type":"Point"}
 }

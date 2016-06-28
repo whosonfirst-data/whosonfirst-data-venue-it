@@ -2,13 +2,14 @@
   "id": 186488589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.894309,45.801739,9.894309,45.801739",
     "geom:latitude":45.801739,
     "geom:longitude":9.894309,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cesare Battisti 43 24026 Leffe",
     "sg:city":"Leffe",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186488589,
-    "wof:lastmodified":1449052972,
+    "wof:lastmodified":1466292173,
     "wof:name":"Tessitura Zambaiti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcloth"
     ]
 },
-  "bbox": [9.894309,45.801739,9.894309,45.801739],
+  "bbox": [
+    9.894309,
+    45.801739,
+    9.894309,
+    45.801739
+],
   "geometry": {"coordinates":[9.894309,45.801739],"type":"Point"}
 }

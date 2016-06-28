@@ -2,13 +2,14 @@
   "id": 270211303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.131296,45.249073,9.131296,45.249073",
     "geom:latitude":45.249073,
     "geom:longitude":9.131296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270211303,
-    "wof:lastmodified":1449009224,
+    "wof:lastmodified":1466291574,
     "wof:name":"Arioli Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.131296,45.249073,9.131296,45.249073],
+  "bbox": [
+    9.131296,
+    45.249073,
+    9.131296,
+    45.249073
+],
   "geometry": {"coordinates":[9.131296,45.249073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252840329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.800962,46.018131,11.800962,46.018131",
     "geom:latitude":46.018131,
     "geom:longitude":11.800962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32030 Fonzaso",
     "sg:city":"Fonzaso",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252840329,
-    "wof:lastmodified":1449006264,
+    "wof:lastmodified":1466290396,
     "wof:name":"Manifattura Valcismon Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.800962,46.018131,11.800962,46.018131],
+  "bbox": [
+    11.800962,
+    46.018131,
+    11.800962,
+    46.018131
+],
   "geometry": {"coordinates":[11.800962,46.018131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185612011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.409925,40.631798,14.409925,40.631798",
     "geom:latitude":40.631798,
     "geom:longitude":14.409925,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Italia, 64; Piano Di Sorrento; 80063",
     "sg:city":"Piano di Sorrento",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185612011,
-    "wof:lastmodified":1449007320,
+    "wof:lastmodified":1466296271,
     "wof:name":"Banca D'america E D'italia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.409925,40.631798,14.409925,40.631798],
+  "bbox": [
+    14.409925,
+    40.631798,
+    14.409925,
+    40.631798
+],
   "geometry": {"coordinates":[14.409925,40.631798],"type":"Point"}
 }

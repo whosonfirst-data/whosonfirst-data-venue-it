@@ -2,13 +2,14 @@
   "id": 320022439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.723368,43.834194,12.723368,43.834194",
     "geom:latitude":43.834194,
     "geom:longitude":12.723368,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61022 Colbordolo",
     "sg:city":"Colbordolo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320022439,
-    "wof:lastmodified":1449012507,
+    "wof:lastmodified":1466293665,
     "wof:name":"Tecnoform Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.723368,43.834194,12.723368,43.834194],
+  "bbox": [
+    12.723368,
+    43.834194,
+    12.723368,
+    43.834194
+],
   "geometry": {"coordinates":[12.723368,43.834194],"type":"Point"}
 }

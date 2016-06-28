@@ -2,13 +2,14 @@
   "id": 320255333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.06338,45.529297,9.06338,45.529297",
     "geom:latitude":45.529297,
     "geom:longitude":9.06338,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320255333,
-    "wof:lastmodified":1449012957,
+    "wof:lastmodified":1466296418,
     "wof:name":"Scitex Wide Format Italia Srl",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.06338,45.529297,9.06338,45.529297],
+  "bbox": [
+    9.06338,
+    45.529297,
+    9.06338,
+    45.529297
+],
   "geometry": {"coordinates":[9.06338,45.529297],"type":"Point"}
 }

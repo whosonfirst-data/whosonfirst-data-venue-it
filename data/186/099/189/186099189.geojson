@@ -2,13 +2,14 @@
   "id": 186099189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.400208,46.31937,9.400208,46.31937",
     "geom:latitude":46.31937,
     "geom:longitude":9.400208,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pedretti 5; Chiavenna",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186099189,
-    "wof:lastmodified":1449052118,
+    "wof:lastmodified":1466296038,
     "wof:name":"Credito Valtellinese Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.400208,46.31937,9.400208,46.31937],
+  "bbox": [
+    9.400208,
+    46.31937,
+    9.400208,
+    46.31937
+],
   "geometry": {"coordinates":[9.400208,46.31937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253165179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.895668,45.605465,8.895668,45.605465",
     "geom:latitude":45.605465,
     "geom:longitude":8.895668,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Maroncelli 4 21053 Castellanza",
     "sg:city":"Castellanza",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253165179,
-    "wof:lastmodified":1449065816,
+    "wof:lastmodified":1466290640,
     "wof:name":"Affetti Giuseppe & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "acid"
     ]
 },
-  "bbox": [8.895668,45.605465,8.895668,45.605465],
+  "bbox": [
+    8.895668,
+    45.605465,
+    8.895668,
+    45.605465
+],
   "geometry": {"coordinates":[8.895668,45.605465],"type":"Point"}
 }

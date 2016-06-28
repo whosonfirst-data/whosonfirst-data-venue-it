@@ -2,13 +2,14 @@
   "id": 320842415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.842415,45.678391,8.842415,45.678391",
     "geom:latitude":45.678391,
     "geom:longitude":8.842415,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Siracusa 10 21050 Cairate",
     "sg:city":"Cairate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320842415,
-    "wof:lastmodified":1449011520,
+    "wof:lastmodified":1466298237,
     "wof:name":"Manifattura Renata Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.842415,45.678391,8.842415,45.678391],
+  "bbox": [
+    8.842415,
+    45.678391,
+    8.842415,
+    45.678391
+],
   "geometry": {"coordinates":[8.842415,45.678391],"type":"Point"}
 }

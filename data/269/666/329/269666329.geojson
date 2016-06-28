@@ -2,13 +2,14 @@
   "id": 269666329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.61132,45.743881,9.61132,45.743881",
     "geom:latitude":45.743881,
     "geom:longitude":9.61132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24018 Villa D'alme'",
     "sg:classifiers":[
         {
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269666329,
-    "wof:lastmodified":1449037020,
+    "wof:lastmodified":1466291161,
     "wof:name":"E.t.s. Spa Engineering And Technical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "appraiser"
     ]
 },
-  "bbox": [9.61132,45.743881,9.61132,45.743881],
+  "bbox": [
+    9.61132,
+    45.743881,
+    9.61132,
+    45.743881
+],
   "geometry": {"coordinates":[9.61132,45.743881],"type":"Point"}
 }

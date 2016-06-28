@@ -2,13 +2,14 @@
   "id": 286815941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.080478,45.421982,12.080478,45.421982",
     "geom:latitude":45.421982,
     "geom:longitude":12.080478,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30031 Dolo",
     "sg:city":"Dolo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286815941,
-    "wof:lastmodified":1449016623,
+    "wof:lastmodified":1466296489,
     "wof:name":"Calvi Gianni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.080478,45.421982,12.080478,45.421982],
+  "bbox": [
+    12.080478,
+    45.421982,
+    12.080478,
+    45.421982
+],
   "geometry": {"coordinates":[12.080478,45.421982],"type":"Point"}
 }

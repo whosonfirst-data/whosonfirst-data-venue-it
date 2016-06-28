@@ -2,13 +2,14 @@
   "id": 253670833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.871391,45.623882,8.871391,45.623882",
     "geom:latitude":45.623882,
     "geom:longitude":8.871391,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21057 Olgiate Olona",
     "sg:city":"Olgiate Olona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253670833,
-    "wof:lastmodified":1449063259,
+    "wof:lastmodified":1466296509,
     "wof:name":"L.c.t. Daly Di Ratti Barbara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.871391,45.623882,8.871391,45.623882],
+  "bbox": [
+    8.871391,
+    45.623882,
+    8.871391,
+    45.623882
+],
   "geometry": {"coordinates":[8.871391,45.623882],"type":"Point"}
 }

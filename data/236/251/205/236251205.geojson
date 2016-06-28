@@ -2,13 +2,14 @@
   "id": 236251205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.03336,45.50729,11.03336,45.50729",
     "geom:latitude":45.50729,
     "geom:longitude":11.03336,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37015 Domegliara",
     "sg:city":"Domegliara",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236251205,
-    "wof:lastmodified":1449001725,
+    "wof:lastmodified":1466291431,
     "wof:name":"Azzolini S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.03336,45.50729,11.03336,45.50729],
+  "bbox": [
+    11.03336,
+    45.50729,
+    11.03336,
+    45.50729
+],
   "geometry": {"coordinates":[11.03336,45.50729],"type":"Point"}
 }

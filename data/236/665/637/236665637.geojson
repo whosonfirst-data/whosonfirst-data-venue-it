@@ -2,13 +2,14 @@
   "id": 236665637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.27767,42.361294,14.27767,42.361294",
     "geom:latitude":42.361294,
     "geom:longitude":14.27767,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Contrada Cerreto 66010 Miglianico",
     "sg:city":"Miglianico",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236665637,
-    "wof:lastmodified":1449002495,
+    "wof:lastmodified":1466295621,
     "wof:name":"Styloffice Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [14.27767,42.361294,14.27767,42.361294],
+  "bbox": [
+    14.27767,
+    42.361294,
+    14.27767,
+    42.361294
+],
   "geometry": {"coordinates":[14.27767,42.361294],"type":"Point"}
 }

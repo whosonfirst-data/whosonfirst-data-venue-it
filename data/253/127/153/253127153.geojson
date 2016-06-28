@@ -2,13 +2,14 @@
   "id": 253127153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.091584,45.512966,9.091584,45.512966",
     "geom:latitude":45.512966,
     "geom:longitude":9.091584,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20016 Pero",
     "sg:city":"Pero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253127153,
-    "wof:lastmodified":1449065549,
+    "wof:lastmodified":1466290240,
     "wof:name":"Fonderia Bellelli E C. Di Belleli B. E Cricelli D. (s.n.c.)",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.091584,45.512966,9.091584,45.512966],
+  "bbox": [
+    9.091584,
+    45.512966,
+    9.091584,
+    45.512966
+],
   "geometry": {"coordinates":[9.091584,45.512966],"type":"Point"}
 }

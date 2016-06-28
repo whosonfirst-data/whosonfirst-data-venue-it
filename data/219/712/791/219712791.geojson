@@ -2,13 +2,14 @@
   "id": 219712791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.976887,40.202019,17.976887,40.202019",
     "geom:latitude":40.202019,
     "geom:longitude":17.976887,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73048 Nard\u00f2",
     "sg:classifiers":[],
     "sg:orig_category":"Ristorazione E Locali Pubblici Affini. Ristoranti Ed Esercizi Affini. Servizi Ausiliari Di Ristorazione E Di Intrattenimento",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219712791,
-    "wof:lastmodified":1449071902,
+    "wof:lastmodified":1466293416,
     "wof:name":"Tramonti Service Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.976887,40.202019,17.976887,40.202019],
+  "bbox": [
+    17.976887,
+    40.202019,
+    17.976887,
+    40.202019
+],
   "geometry": {"coordinates":[17.976887,40.202019],"type":"Point"}
 }

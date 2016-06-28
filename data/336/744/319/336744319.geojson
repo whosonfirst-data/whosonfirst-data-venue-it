@@ -2,13 +2,14 @@
   "id": 336744319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.61945,44.37397,10.61945,44.37397",
     "geom:latitude":44.37397,
     "geom:longitude":10.61945,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Statale 41045 Montefiorino",
     "sg:city":"Montefiorino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336744319,
-    "wof:lastmodified":1448997322,
+    "wof:lastmodified":1466295446,
     "wof:name":"Omega Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.61945,44.37397,10.61945,44.37397],
+  "bbox": [
+    10.61945,
+    44.37397,
+    10.61945,
+    44.37397
+],
   "geometry": {"coordinates":[10.61945,44.37397],"type":"Point"}
 }

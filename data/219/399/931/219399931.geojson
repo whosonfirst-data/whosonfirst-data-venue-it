@@ -2,13 +2,14 @@
   "id": 219399931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.271752,44.768372,10.271752,44.768372",
     "geom:latitude":44.768372,
     "geom:longitude":10.271752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Antolini 22 43044 Collecchio",
     "sg:city":"Collecchio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219399931,
-    "wof:lastmodified":1449071017,
+    "wof:lastmodified":1466290344,
     "wof:name":"Artemio Fava & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [10.271752,44.768372,10.271752,44.768372],
+  "bbox": [
+    10.271752,
+    44.768372,
+    10.271752,
+    44.768372
+],
   "geometry": {"coordinates":[10.271752,44.768372],"type":"Point"}
 }

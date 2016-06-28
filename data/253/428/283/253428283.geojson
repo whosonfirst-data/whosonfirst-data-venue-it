@@ -2,13 +2,14 @@
   "id": 253428283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.578743,45.709469,9.578743,45.709469",
     "geom:latitude":45.709469,
     "geom:longitude":9.578743,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Brembate Di Sopra",
     "sg:city":"Brembate di Sopra",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253428283,
-    "wof:lastmodified":1449065592,
+    "wof:lastmodified":1466293721,
     "wof:name":"Bremboflex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "measurement"
     ]
 },
-  "bbox": [9.578743,45.709469,9.578743,45.709469],
+  "bbox": [
+    9.578743,
+    45.709469,
+    9.578743,
+    45.709469
+],
   "geometry": {"coordinates":[9.578743,45.709469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219790819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.937299,44.389683,11.937299,44.389683",
     "geom:latitude":44.389683,
     "geom:longitude":11.937299,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torrazza 2/a 48010 Cotignola",
     "sg:city":"Cotignola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219790819,
-    "wof:lastmodified":1449073106,
+    "wof:lastmodified":1466294185,
     "wof:name":"T. Plast Di Tabanelli Alfeo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cord"
     ]
 },
-  "bbox": [11.937299,44.389683,11.937299,44.389683],
+  "bbox": [
+    11.937299,
+    44.389683,
+    11.937299,
+    44.389683
+],
   "geometry": {"coordinates":[11.937299,44.389683],"type":"Point"}
 }

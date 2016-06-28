@@ -2,13 +2,14 @@
   "id": 320859753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.343065,44.833241,10.343065,44.833241",
     "geom:latitude":44.833241,
     "geom:longitude":10.343065,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43100 Parma",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320859753,
-    "wof:lastmodified":1449013936,
+    "wof:lastmodified":1466298305,
     "wof:name":"Promeuro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sausage"
     ]
 },
-  "bbox": [10.343065,44.833241,10.343065,44.833241],
+  "bbox": [
+    10.343065,
+    44.833241,
+    10.343065,
+    44.833241
+],
   "geometry": {"coordinates":[10.343065,44.833241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236805163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.934807,43.432545,11.934807,43.432545",
     "geom:latitude":43.432545,
     "geom:longitude":11.934807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52100 Arezzo",
     "sg:city":"Arezzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236805163,
-    "wof:lastmodified":1449002609,
+    "wof:lastmodified":1466296594,
     "wof:name":"C.d.i. In-ex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.934807,43.432545,11.934807,43.432545],
+  "bbox": [
+    11.934807,
+    43.432545,
+    11.934807,
+    43.432545
+],
   "geometry": {"coordinates":[11.934807,43.432545],"type":"Point"}
 }

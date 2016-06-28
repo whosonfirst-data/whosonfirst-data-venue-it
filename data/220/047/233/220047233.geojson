@@ -2,13 +2,14 @@
   "id": 220047233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.717765,44.62064,10.717765,44.62064",
     "geom:latitude":44.62064,
     "geom:longitude":10.717765,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42019 Scandiano",
     "sg:classifiers":[],
     "sg:orig_category":"Imprese Edili",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220047233,
-    "wof:lastmodified":1449074575,
+    "wof:lastmodified":1466295177,
     "wof:name":"Edilcomp Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.717765,44.62064,10.717765,44.62064],
+  "bbox": [
+    10.717765,
+    44.62064,
+    10.717765,
+    44.62064
+],
   "geometry": {"coordinates":[10.717765,44.62064],"type":"Point"}
 }

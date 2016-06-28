@@ -2,13 +2,14 @@
   "id": 186095629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.145608,45.497383,9.145608,45.497383",
     "geom:latitude":45.497383,
     "geom:longitude":9.145608,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Varesina, 63; Milano; 20156",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186095629,
-    "wof:lastmodified":1449051734,
+    "wof:lastmodified":1466296034,
     "wof:name":"Credito Lombardo",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.145608,45.497383,9.145608,45.497383],
+  "bbox": [
+    9.145608,
+    45.497383,
+    9.145608,
+    45.497383
+],
   "geometry": {"coordinates":[9.145608,45.497383],"type":"Point"}
 }

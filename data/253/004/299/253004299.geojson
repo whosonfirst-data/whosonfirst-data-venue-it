@@ -2,13 +2,14 @@
   "id": 253004299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.56402,44.979496,8.56402,44.979496",
     "geom:latitude":44.979496,
     "geom:longitude":8.56402,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Fermi Enrico 15048 Valenza",
     "sg:city":"Valenza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253004299,
-    "wof:lastmodified":1449063904,
+    "wof:lastmodified":1466288960,
     "wof:name":"Zephyr Gioielli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [8.56402,44.979496,8.56402,44.979496],
+  "bbox": [
+    8.56402,
+    44.979496,
+    8.56402,
+    44.979496
+],
   "geometry": {"coordinates":[8.56402,44.979496],"type":"Point"}
 }

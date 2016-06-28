@@ -2,13 +2,14 @@
   "id": 253114453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.37746,45.767494,12.37746,45.767494",
     "geom:latitude":45.767494,
     "geom:longitude":12.37746,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31010 Cimadolmo",
     "sg:city":"Cimadolmo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253114453,
-    "wof:lastmodified":1449064059,
+    "wof:lastmodified":1466290107,
     "wof:name":"Metal 2000 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.37746,45.767494,12.37746,45.767494],
+  "bbox": [
+    12.37746,
+    45.767494,
+    12.37746,
+    45.767494
+],
   "geometry": {"coordinates":[12.37746,45.767494],"type":"Point"}
 }

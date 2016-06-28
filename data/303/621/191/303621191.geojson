@@ -2,13 +2,14 @@
   "id": 303621191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.053205,44.449688,12.053205,44.449688",
     "geom:latitude":44.449688,
     "geom:longitude":12.053205,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48012 Bagnacavallo",
     "sg:city":"Bagnacavallo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303621191,
-    "wof:lastmodified":1449000275,
+    "wof:lastmodified":1466297396,
     "wof:name":"Stefanini Otello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.053205,44.449688,12.053205,44.449688],
+  "bbox": [
+    12.053205,
+    44.449688,
+    12.053205,
+    44.449688
+],
   "geometry": {"coordinates":[12.053205,44.449688],"type":"Point"}
 }

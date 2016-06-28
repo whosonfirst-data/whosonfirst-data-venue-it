@@ -2,13 +2,14 @@
   "id": 186240137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.788399,45.634518,8.788399,45.634518",
     "geom:latitude":45.634518,
     "geom:longitude":8.788399,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Locarno 2 21017 Samarate",
     "sg:city":"Samarate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186240137,
-    "wof:lastmodified":1449050526,
+    "wof:lastmodified":1466290001,
     "wof:name":"Itm Fashion Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "basic"
     ]
 },
-  "bbox": [8.788399,45.634518,8.788399,45.634518],
+  "bbox": [
+    8.788399,
+    45.634518,
+    8.788399,
+    45.634518
+],
   "geometry": {"coordinates":[8.788399,45.634518],"type":"Point"}
 }

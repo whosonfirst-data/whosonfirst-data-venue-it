@@ -2,13 +2,14 @@
   "id": 186635015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.655963,44.735683,10.655963,44.735683",
     "geom:latitude":44.735683,
     "geom:longitude":10.655963,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Emidio Villa 2 42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Screws, Turned",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186635015,
-    "wof:lastmodified":1449051529,
+    "wof:lastmodified":1466293631,
     "wof:name":"Fm Viterie E Cuscinetti Spa",
     "wof:parent_id":85904899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.655963,44.735683,10.655963,44.735683],
+  "bbox": [
+    10.655963,
+    44.735683,
+    10.655963,
+    44.735683
+],
   "geometry": {"coordinates":[10.655963,44.735683],"type":"Point"}
 }

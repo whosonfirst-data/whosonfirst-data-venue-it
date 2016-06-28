@@ -2,13 +2,14 @@
   "id": 186164369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.477428,41.894405,12.477428,41.894405",
     "geom:latitude":41.894405,
     "geom:longitude":12.477428,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Della Enciclopedia Italiana 4, Rome, Rm",
     "sg:classifiers":[
         {
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":186164369,
-    "wof:lastmodified":1449050571,
+    "wof:lastmodified":1466289330,
     "wof:name":"Istituto Della Enciclopedia Italiana Fondata Da G Treccani Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.477428,41.894405,12.477428,41.894405],
+  "bbox": [
+    12.477428,
+    41.894405,
+    12.477428,
+    41.894405
+],
   "geometry": {"coordinates":[12.477428,41.894405],"type":"Point"}
 }

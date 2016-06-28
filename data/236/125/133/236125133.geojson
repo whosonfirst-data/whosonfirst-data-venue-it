@@ -2,13 +2,14 @@
   "id": 236125133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.302336,45.484871,9.302336,45.484871",
     "geom:latitude":45.484871,
     "geom:longitude":9.302336,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tiepolo 11 20090 Segrate",
     "sg:city":"Segrate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236125133,
-    "wof:lastmodified":1449005110,
+    "wof:lastmodified":1466290143,
     "wof:name":"Tecnostyl Srl",
     "wof:parent_id":85935827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drafting"
     ]
 },
-  "bbox": [9.302336,45.484871,9.302336,45.484871],
+  "bbox": [
+    9.302336,
+    45.484871,
+    9.302336,
+    45.484871
+],
   "geometry": {"coordinates":[9.302336,45.484871],"type":"Point"}
 }

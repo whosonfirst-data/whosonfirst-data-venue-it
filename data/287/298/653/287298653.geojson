@@ -2,13 +2,14 @@
   "id": 287298653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.223157,45.50074,9.223157,45.50074",
     "geom:latitude":45.50074,
     "geom:longitude":9.223157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Via Della Torre 20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287298653,
-    "wof:lastmodified":1449000892,
+    "wof:lastmodified":1466293523,
     "wof:name":"Electrica (s.r.l.)",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.223157,45.50074,9.223157,45.50074],
+  "bbox": [
+    9.223157,
+    45.50074,
+    9.223157,
+    45.50074
+],
   "geometry": {"coordinates":[9.223157,45.50074],"type":"Point"}
 }

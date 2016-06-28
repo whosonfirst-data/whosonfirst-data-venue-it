@@ -2,13 +2,14 @@
   "id": 270488931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.225999,37.22002,15.225999,37.22002",
     "geom:latitude":37.22002,
     "geom:longitude":15.225999,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via F. Caracciolo,118; Augusta; 96011",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270488931,
-    "wof:lastmodified":1449011083,
+    "wof:lastmodified":1466294921,
     "wof:name":"Italo - Cipriota Chamber Of Commerce And Industry",
     "wof:parent_id":85900493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [15.225999,37.22002,15.225999,37.22002],
+  "bbox": [
+    15.225999,
+    37.22002,
+    15.225999,
+    37.22002
+],
   "geometry": {"coordinates":[15.225999,37.22002],"type":"Point"}
 }

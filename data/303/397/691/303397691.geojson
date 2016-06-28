@@ -2,13 +2,14 @@
   "id": 303397691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.621098,38.824745,16.621098,38.824745",
     "geom:latitude":38.824745,
     "geom:longitude":16.621098,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88100 Catanzaro",
     "sg:city":"Catanzaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303397691,
-    "wof:lastmodified":1448999096,
+    "wof:lastmodified":1466295399,
     "wof:name":"Pisani Pasqualino - 2p Elettronica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.621098,38.824745,16.621098,38.824745],
+  "bbox": [
+    16.621098,
+    38.824745,
+    16.621098,
+    38.824745
+],
   "geometry": {"coordinates":[16.621098,38.824745],"type":"Point"}
 }

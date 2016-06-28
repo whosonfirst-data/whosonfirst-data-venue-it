@@ -2,13 +2,14 @@
   "id": 286793261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.107654,42.77401,11.107654,42.77401",
     "geom:latitude":42.77401,
     "geom:longitude":11.107654,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Via Monte Rosa 58100 Grosseto",
     "sg:city":"Grosseto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286793261,
-    "wof:lastmodified":1449016797,
+    "wof:lastmodified":1466296315,
     "wof:name":"Telemaremma S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [11.107654,42.77401,11.107654,42.77401],
+  "bbox": [
+    11.107654,
+    42.77401,
+    11.107654,
+    42.77401
+],
   "geometry": {"coordinates":[11.107654,42.77401],"type":"Point"}
 }

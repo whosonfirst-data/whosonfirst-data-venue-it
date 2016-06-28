@@ -2,13 +2,14 @@
   "id": 269866905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.526342,43.083183,12.526342,43.083183",
     "geom:latitude":43.083183,
     "geom:longitude":12.526342,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94, Via Europa 06083 Bastia",
     "sg:city":"Bastia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269866905,
-    "wof:lastmodified":1449037280,
+    "wof:lastmodified":1466293777,
     "wof:name":"Dondi S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [12.526342,43.083183,12.526342,43.083183],
+  "bbox": [
+    12.526342,
+    43.083183,
+    12.526342,
+    43.083183
+],
   "geometry": {"coordinates":[12.526342,43.083183],"type":"Point"}
 }

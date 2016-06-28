@@ -2,13 +2,14 @@
   "id": 253648055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.883866,45.190456,7.883866,45.190456",
     "geom:latitude":45.190456,
     "geom:longitude":7.883866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10034 Chivasso",
     "sg:city":"Chivasso",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253648055,
-    "wof:lastmodified":1449063619,
+    "wof:lastmodified":1466296352,
     "wof:name":"Inverso Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.883866,45.190456,7.883866,45.190456],
+  "bbox": [
+    7.883866,
+    45.190456,
+    7.883866,
+    45.190456
+],
   "geometry": {"coordinates":[7.883866,45.190456],"type":"Point"}
 }

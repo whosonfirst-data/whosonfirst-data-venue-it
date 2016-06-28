@@ -2,13 +2,14 @@
   "id": 270183127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.056476,37.47279,14.056476,37.47279",
     "geom:latitude":37.47279,
     "geom:longitude":14.056476,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Salvatore Averna 29 93100 Caltanissetta",
     "sg:city":"Caltanissetta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270183127,
-    "wof:lastmodified":1449009960,
+    "wof:lastmodified":1466291160,
     "wof:name":"Eurovast Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cardboard"
     ]
 },
-  "bbox": [14.056476,37.47279,14.056476,37.47279],
+  "bbox": [
+    14.056476,
+    37.47279,
+    14.056476,
+    37.47279
+],
   "geometry": {"coordinates":[14.056476,37.47279],"type":"Point"}
 }

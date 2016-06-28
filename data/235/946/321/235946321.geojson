@@ -2,13 +2,14 @@
   "id": 235946321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.89551,41.030037,16.89551,41.030037",
     "geom:latitude":41.030037,
     "geom:longitude":16.89551,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Marrone 70010 Capurso",
     "sg:city":"Capurso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235946321,
-    "wof:lastmodified":1449008567,
+    "wof:lastmodified":1466294843,
     "wof:name":"Didasca Vini S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "italian"
     ]
 },
-  "bbox": [16.89551,41.030037,16.89551,41.030037],
+  "bbox": [
+    16.89551,
+    41.030037,
+    16.89551,
+    41.030037
+],
   "geometry": {"coordinates":[16.89551,41.030037],"type":"Point"}
 }

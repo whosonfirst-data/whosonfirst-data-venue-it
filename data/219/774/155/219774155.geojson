@@ -2,13 +2,14 @@
   "id": 219774155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.439581,45.459854,8.439581,45.459854",
     "geom:latitude":45.459854,
     "geom:longitude":8.439581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Strada Per Vicolungo 28060 Recetto",
     "sg:city":"Recetto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219774155,
-    "wof:lastmodified":1449071761,
+    "wof:lastmodified":1466294024,
     "wof:name":"T.d.e. International Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [8.439581,45.459854,8.439581,45.459854],
+  "bbox": [
+    8.439581,
+    45.459854,
+    8.439581,
+    45.459854
+],
   "geometry": {"coordinates":[8.439581,45.459854],"type":"Point"}
 }

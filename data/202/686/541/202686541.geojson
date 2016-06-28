@@ -2,13 +2,14 @@
   "id": 202686541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.106734,39.213074,9.106734,39.213074",
     "geom:latitude":39.213074,
     "geom:longitude":9.106734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09123 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202686541,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466290923,
     "wof:name":"Combines Terminal Operators",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.106734,39.213074,9.106734,39.213074],
+  "bbox": [
+    9.106734,
+    39.213074,
+    9.106734,
+    39.213074
+],
   "geometry": {"coordinates":[9.106734,39.213074],"type":"Point"}
 }

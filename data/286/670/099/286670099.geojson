@@ -2,13 +2,14 @@
   "id": 286670099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.869291,41.126053,16.869291,41.126053",
     "geom:latitude":41.126053,
     "geom:longitude":16.869291,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Cagnazzi Luca Samuele 70124 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286670099,
-    "wof:lastmodified":1449015605,
+    "wof:lastmodified":1466294800,
     "wof:name":"De Giglio F.lli (s.n.c.)",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "medium"
     ]
 },
-  "bbox": [16.869291,41.126053,16.869291,41.126053],
+  "bbox": [
+    16.869291,
+    41.126053,
+    16.869291,
+    41.126053
+],
   "geometry": {"coordinates":[16.869291,41.126053],"type":"Point"}
 }

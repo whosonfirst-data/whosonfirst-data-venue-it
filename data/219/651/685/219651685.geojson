@@ -2,13 +2,14 @@
   "id": 219651685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.759658,43.259323,13.759658,43.259323",
     "geom:latitude":43.259323,
     "geom:longitude":13.759658,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63018 Porto Sant'elpidio",
     "sg:classifiers":[],
     "sg:orig_category":"Ricevimenti E Banchetti - Sale E Servizi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219651685,
-    "wof:lastmodified":1449071096,
+    "wof:lastmodified":1466292815,
     "wof:name":"La Rotonda Di Mattioli Guerrino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.759658,43.259323,13.759658,43.259323],
+  "bbox": [
+    13.759658,
+    43.259323,
+    13.759658,
+    43.259323
+],
   "geometry": {"coordinates":[13.759658,43.259323],"type":"Point"}
 }

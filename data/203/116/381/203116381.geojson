@@ -2,13 +2,14 @@
   "id": 203116381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.154281,45.647408,12.154281,45.647408",
     "geom:latitude":45.647408,
     "geom:longitude":12.154281,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31055 Quinto Di Treviso",
     "sg:city":"Quinto di Treviso",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203116381,
-    "wof:lastmodified":1449025209,
+    "wof:lastmodified":1466289052,
     "wof:name":"Centro Tecnico Assistenza Sas Di Gomiero Michele & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.154281,45.647408,12.154281,45.647408],
+  "bbox": [
+    12.154281,
+    45.647408,
+    12.154281,
+    45.647408
+],
   "geometry": {"coordinates":[12.154281,45.647408],"type":"Point"}
 }

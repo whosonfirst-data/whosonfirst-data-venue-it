@@ -2,13 +2,14 @@
   "id": 270168017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.134866,43.816772,11.134866,43.816772",
     "geom:latitude":43.816772,
     "geom:longitude":11.134866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50013 Campi Bisenzio",
     "sg:city":"Campi Bisenzio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270168017,
-    "wof:lastmodified":1449009921,
+    "wof:lastmodified":1466290980,
     "wof:name":"Alex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.134866,43.816772,11.134866,43.816772],
+  "bbox": [
+    11.134866,
+    43.816772,
+    11.134866,
+    43.816772
+],
   "geometry": {"coordinates":[11.134866,43.816772],"type":"Point"}
 }

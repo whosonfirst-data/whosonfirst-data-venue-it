@@ -2,13 +2,14 @@
   "id": 303510305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.633628,45.03883,7.633628,45.03883",
     "geom:latitude":45.03883,
     "geom:longitude":7.633628,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10137 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303510305,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1466296643,
     "wof:name":"Mekol Di Collorafi Stefano",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.633628,45.03883,7.633628,45.03883],
+  "bbox": [
+    7.633628,
+    45.03883,
+    7.633628,
+    45.03883
+],
   "geometry": {"coordinates":[7.633628,45.03883],"type":"Point"}
 }

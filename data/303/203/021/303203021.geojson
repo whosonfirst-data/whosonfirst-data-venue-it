@@ -2,13 +2,14 @@
   "id": 303203021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.550413,41.912159,12.550413,41.912159",
     "geom:latitude":41.912159,
     "geom:longitude":12.550413,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00157 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303203021,
-    "wof:lastmodified":1448999205,
+    "wof:lastmodified":1466293021,
     "wof:name":"Neon Jolly Di Pompei F.",
     "wof:parent_id":85904931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.550413,41.912159,12.550413,41.912159],
+  "bbox": [
+    12.550413,
+    41.912159,
+    12.550413,
+    41.912159
+],
   "geometry": {"coordinates":[12.550413,41.912159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303061645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.224618,44.996193,12.224618,44.996193",
     "geom:latitude":44.996193,
     "geom:longitude":12.224618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Del Lavoro 45019 Taglio Di Po",
     "sg:city":"Taglio di Po",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303061645,
-    "wof:lastmodified":1448999882,
+    "wof:lastmodified":1466291133,
     "wof:name":"Fb Elettrica S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.224618,44.996193,12.224618,44.996193],
+  "bbox": [
+    12.224618,
+    44.996193,
+    12.224618,
+    44.996193
+],
   "geometry": {"coordinates":[12.224618,44.996193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320390893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.235003,45.560814,9.235003,45.560814",
     "geom:latitude":45.560814,
     "geom:longitude":9.235003,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320390893,
-    "wof:lastmodified":1449015005,
+    "wof:lastmodified":1466297463,
     "wof:name":"Italsec S.r.l",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.235003,45.560814,9.235003,45.560814],
+  "bbox": [
+    9.235003,
+    45.560814,
+    9.235003,
+    45.560814
+],
   "geometry": {"coordinates":[9.235003,45.560814],"type":"Point"}
 }

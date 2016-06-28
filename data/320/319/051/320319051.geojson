@@ -2,13 +2,14 @@
   "id": 320319051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.350698,38.103123,13.350698,38.103123",
     "geom:latitude":38.103123,
     "geom:longitude":13.350698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90128 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320319051,
-    "wof:lastmodified":1449012793,
+    "wof:lastmodified":1466296861,
     "wof:name":"Royal Gas S.a.s. Di Salanitri Antonina",
     "wof:parent_id":85904857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.350698,38.103123,13.350698,38.103123],
+  "bbox": [
+    13.350698,
+    38.103123,
+    13.350698,
+    38.103123
+],
   "geometry": {"coordinates":[13.350698,38.103123],"type":"Point"}
 }

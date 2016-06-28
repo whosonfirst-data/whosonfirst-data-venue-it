@@ -2,13 +2,14 @@
   "id": 236685075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.9426,45.47221,11.9426,45.47221",
     "geom:latitude":45.47221,
     "geom:longitude":11.9426,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bosco, 3 - Codiverno 35010 Vigonza",
     "sg:city":"Codiverno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236685075,
-    "wof:lastmodified":1449005151,
+    "wof:lastmodified":1466295811,
     "wof:name":"Oreste Galato S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [11.9426,45.47221,11.9426,45.47221],
+  "bbox": [
+    11.9426,
+    45.47221,
+    11.9426,
+    45.47221
+],
   "geometry": {"coordinates":[11.9426,45.47221],"type":"Point"}
 }

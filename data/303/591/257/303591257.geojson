@@ -2,13 +2,14 @@
   "id": 303591257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.131671,39.530357,9.131671,39.530357",
     "geom:latitude":39.530357,
     "geom:longitude":9.131671,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09040 Senorbi'",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamenti - Materiali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303591257,
-    "wof:lastmodified":1448999428,
+    "wof:lastmodified":1466297152,
     "wof:name":"Sanna Salvatore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.131671,39.530357,9.131671,39.530357],
+  "bbox": [
+    9.131671,
+    39.530357,
+    9.131671,
+    39.530357
+],
   "geometry": {"coordinates":[9.131671,39.530357],"type":"Point"}
 }

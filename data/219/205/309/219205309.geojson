@@ -2,13 +2,14 @@
   "id": 219205309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.866362,42.731392,11.866362,42.731392",
     "geom:latitude":42.731392,
     "geom:longitude":11.866362,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01021 Acquapendente",
     "sg:city":"Acquapendente",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219205309,
-    "wof:lastmodified":1449072524,
+    "wof:lastmodified":1466295288,
     "wof:name":"Demonaco Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.866362,42.731392,11.866362,42.731392],
+  "bbox": [
+    11.866362,
+    42.731392,
+    11.866362,
+    42.731392
+],
   "geometry": {"coordinates":[11.866362,42.731392],"type":"Point"}
 }

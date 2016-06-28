@@ -2,13 +2,14 @@
   "id": 303242449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.443158,45.742619,11.443158,45.742619",
     "geom:latitude":45.742619,
     "geom:longitude":11.443158,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Terrenato 36010 Carre'",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303242449,
-    "wof:lastmodified":1449000280,
+    "wof:lastmodified":1466293506,
     "wof:name":"3 F Ingranaggi S R L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [11.443158,45.742619,11.443158,45.742619],
+  "bbox": [
+    11.443158,
+    45.742619,
+    11.443158,
+    45.742619
+],
   "geometry": {"coordinates":[11.443158,45.742619],"type":"Point"}
 }

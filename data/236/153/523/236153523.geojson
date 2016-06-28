@@ -2,13 +2,14 @@
   "id": 236153523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.627884,46.34938,11.627884,46.34938",
     "geom:latitude":46.34938,
     "geom:longitude":11.627884,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via S. Lazzaro 38035 Moena",
     "sg:city":"Moena",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236153523,
-    "wof:lastmodified":1449004014,
+    "wof:lastmodified":1466290408,
     "wof:name":"Desilvestro Erminio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [11.627884,46.34938,11.627884,46.34938],
+  "bbox": [
+    11.627884,
+    46.34938,
+    11.627884,
+    46.34938
+],
   "geometry": {"coordinates":[11.627884,46.34938],"type":"Point"}
 }

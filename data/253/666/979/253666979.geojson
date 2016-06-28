@@ -2,13 +2,14 @@
   "id": 253666979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.904722,44.404568,8.904722,44.404568",
     "geom:latitude":44.404568,
     "geom:longitude":8.904722,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16149 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253666979,
-    "wof:lastmodified":1449063911,
+    "wof:lastmodified":1466296612,
     "wof:name":"Roncallo & Pastorino Srl",
     "wof:parent_id":85796987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.904722,44.404568,8.904722,44.404568],
+  "bbox": [
+    8.904722,
+    44.404568,
+    8.904722,
+    44.404568
+],
   "geometry": {"coordinates":[8.904722,44.404568],"type":"Point"}
 }

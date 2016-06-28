@@ -2,13 +2,14 @@
   "id": 203388479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.621161,43.367088,13.621161,43.367088",
     "geom:latitude":43.367088,
     "geom:longitude":13.621161,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62018 Potenza Picena",
     "sg:city":"Potenza Picena",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203388479,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1466291994,
     "wof:name":"Ricci Dario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "il"
     ]
 },
-  "bbox": [13.621161,43.367088,13.621161,43.367088],
+  "bbox": [
+    13.621161,
+    43.367088,
+    13.621161,
+    43.367088
+],
   "geometry": {"coordinates":[13.621161,43.367088],"type":"Point"}
 }

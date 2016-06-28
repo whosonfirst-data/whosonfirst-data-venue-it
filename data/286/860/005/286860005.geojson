@@ -2,13 +2,14 @@
   "id": 286860005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.603596,45.071712,7.603596,45.071712",
     "geom:latitude":45.071712,
     "geom:longitude":7.603596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10093 Collegno",
     "sg:city":"Collegno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286860005,
-    "wof:lastmodified":1449016497,
+    "wof:lastmodified":1466296812,
     "wof:name":"B - F Tubi Di Benvegnu' U. E Ferraris C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.603596,45.071712,7.603596,45.071712],
+  "bbox": [
+    7.603596,
+    45.071712,
+    7.603596,
+    45.071712
+],
   "geometry": {"coordinates":[7.603596,45.071712],"type":"Point"}
 }

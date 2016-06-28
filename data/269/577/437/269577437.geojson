@@ -2,13 +2,14 @@
   "id": 269577437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.816388,43.865379,12.816388,43.865379",
     "geom:latitude":43.865379,
     "geom:longitude":12.816388,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Chiusa Nuova",
     "sg:classifiers":[],
     "sg:orig_category":"Legno E Semilavorati",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269577437,
-    "wof:lastmodified":1449039063,
+    "wof:lastmodified":1466290054,
     "wof:name":"Compla (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.816388,43.865379,12.816388,43.865379],
+  "bbox": [
+    12.816388,
+    43.865379,
+    12.816388,
+    43.865379
+],
   "geometry": {"coordinates":[12.816388,43.865379],"type":"Point"}
 }

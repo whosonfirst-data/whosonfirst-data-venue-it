@@ -2,13 +2,14 @@
   "id": 269733347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.860075,41.093117,16.860075,41.093117",
     "geom:latitude":41.093117,
     "geom:longitude":16.860075,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70124 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269733347,
-    "wof:lastmodified":1449036467,
+    "wof:lastmodified":1466292177,
     "wof:name":"General Software",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.860075,41.093117,16.860075,41.093117],
+  "bbox": [
+    16.860075,
+    41.093117,
+    16.860075,
+    41.093117
+],
   "geometry": {"coordinates":[16.860075,41.093117],"type":"Point"}
 }

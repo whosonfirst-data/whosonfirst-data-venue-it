@@ -2,13 +2,14 @@
   "id": 185612263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.254846,40.842209,14.254846,40.842209",
     "geom:latitude":40.842209,
     "geom:longitude":14.254846,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Depretis 39; Napoli; 80133",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185612263,
-    "wof:lastmodified":1449007325,
+    "wof:lastmodified":1466292345,
     "wof:name":"Banca D'america E D'italia",
     "wof:parent_id":85904835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.254846,40.842209,14.254846,40.842209],
+  "bbox": [
+    14.254846,
+    40.842209,
+    14.254846,
+    40.842209
+],
   "geometry": {"coordinates":[14.254846,40.842209],"type":"Point"}
 }

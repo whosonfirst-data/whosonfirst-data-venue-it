@@ -2,13 +2,14 @@
   "id": 286508297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.704386,45.788509,8.704386,45.788509",
     "geom:latitude":45.788509,
     "geom:longitude":8.704386,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Palude 21020 Ternate",
     "sg:city":"Ternate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286508297,
-    "wof:lastmodified":1449016828,
+    "wof:lastmodified":1466292806,
     "wof:name":"Euromoda Confezioni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.704386,45.788509,8.704386,45.788509],
+  "bbox": [
+    8.704386,
+    45.788509,
+    8.704386,
+    45.788509
+],
   "geometry": {"coordinates":[8.704386,45.788509],"type":"Point"}
 }

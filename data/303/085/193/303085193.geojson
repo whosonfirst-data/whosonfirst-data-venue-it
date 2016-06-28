@@ -2,13 +2,14 @@
   "id": 303085193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.337837,44.885151,7.337837,44.885151",
     "geom:latitude":44.885151,
     "geom:longitude":7.337837,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48, V. Cravero 10064 Pinerolo",
     "sg:city":"Pinerolo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303085193,
-    "wof:lastmodified":1448998725,
+    "wof:lastmodified":1466291452,
     "wof:name":"Cooperativa Cultura E Comunicazioni Sociali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "publishing"
     ]
 },
-  "bbox": [7.337837,44.885151,7.337837,44.885151],
+  "bbox": [
+    7.337837,
+    44.885151,
+    7.337837,
+    44.885151
+],
   "geometry": {"coordinates":[7.337837,44.885151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286705049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.539939,41.91338,12.539939,41.91338",
     "geom:latitude":41.91338,
     "geom:longitude":12.539939,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95, Via Delle Cave Di Pietralata 00157 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286705049,
-    "wof:lastmodified":1449018098,
+    "wof:lastmodified":1466295270,
     "wof:name":"Mbg Costruzioni Spa",
     "wof:parent_id":85904931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [12.539939,41.91338,12.539939,41.91338],
+  "bbox": [
+    12.539939,
+    41.91338,
+    12.539939,
+    41.91338
+],
   "geometry": {"coordinates":[12.539939,41.91338],"type":"Point"}
 }

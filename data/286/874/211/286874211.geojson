@@ -2,13 +2,14 @@
   "id": 286874211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.785936,41.084385,16.785936,41.084385",
     "geom:latitude":41.084385,
     "geom:longitude":16.785936,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70026 Modugno",
     "sg:city":"Modugno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286874211,
-    "wof:lastmodified":1449017905,
+    "wof:lastmodified":1466296912,
     "wof:name":"Euro Clima Tecnologie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.785936,41.084385,16.785936,41.084385],
+  "bbox": [
+    16.785936,
+    41.084385,
+    16.785936,
+    41.084385
+],
   "geometry": {"coordinates":[16.785936,41.084385],"type":"Point"}
 }

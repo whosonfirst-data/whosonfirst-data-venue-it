@@ -2,13 +2,14 @@
   "id": 185627261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.302378,40.912346,14.302378,40.912346",
     "geom:latitude":40.912346,
     "geom:longitude":14.302378,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Sanfelice 8, 80134 Naples, Na",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185627261,
-    "wof:lastmodified":1449008248,
+    "wof:lastmodified":1466294319,
     "wof:name":"Banca Della Provincia Di Napoli",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.302378,40.912346,14.302378,40.912346],
+  "bbox": [
+    14.302378,
+    40.912346,
+    14.302378,
+    40.912346
+],
   "geometry": {"coordinates":[14.302378,40.912346],"type":"Point"}
 }

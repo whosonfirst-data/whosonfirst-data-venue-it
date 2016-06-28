@@ -2,13 +2,14 @@
   "id": 303652381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.40488,45.564278,12.40488,45.564278",
     "geom:latitude":45.564278,
     "geom:longitude":12.40488,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30020 Quarto D'altino",
     "sg:city":"Marcon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303652381,
-    "wof:lastmodified":1448999693,
+    "wof:lastmodified":1466297443,
     "wof:name":"Marco Polo Grandi Impianti Di Milan Rita & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.40488,45.564278,12.40488,45.564278],
+  "bbox": [
+    12.40488,
+    45.564278,
+    12.40488,
+    45.564278
+],
   "geometry": {"coordinates":[12.40488,45.564278],"type":"Point"}
 }

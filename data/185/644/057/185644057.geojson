@@ -2,13 +2,14 @@
   "id": 185644057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.769962,40.891331,16.769962,40.891331",
     "geom:latitude":40.891331,
     "geom:longitude":16.769962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Veneto 9, 70020 Cassano Delle Murge, Ba",
     "sg:city":"Cassano delle Murge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185644057,
-    "wof:lastmodified":1449007522,
+    "wof:lastmodified":1466296300,
     "wof:name":"Banca Di Credito Cooperativo Di Cassano Delle Murge (bari)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.769962,40.891331,16.769962,40.891331],
+  "bbox": [
+    16.769962,
+    40.891331,
+    16.769962,
+    40.891331
+],
   "geometry": {"coordinates":[16.769962,40.891331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287223383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.137223,39.22245,9.137223,39.22245",
     "geom:latitude":39.22245,
     "geom:longitude":9.137223,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09129 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287223383,
-    "wof:lastmodified":1449000720,
+    "wof:lastmodified":1466292575,
     "wof:name":"Datel Srl",
     "wof:parent_id":85862617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.137223,39.22245,9.137223,39.22245],
+  "bbox": [
+    9.137223,
+    39.22245,
+    9.137223,
+    39.22245
+],
   "geometry": {"coordinates":[9.137223,39.22245],"type":"Point"}
 }

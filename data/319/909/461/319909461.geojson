@@ -2,13 +2,14 @@
   "id": 319909461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.427596,44.46236,11.427596,44.46236",
     "geom:latitude":44.46236,
     "geom:longitude":11.427596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319909461,
-    "wof:lastmodified":1449024679,
+    "wof:lastmodified":1466293681,
     "wof:name":"M.c.d. Srl",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.427596,44.46236,11.427596,44.46236],
+  "bbox": [
+    11.427596,
+    44.46236,
+    11.427596,
+    44.46236
+],
   "geometry": {"coordinates":[11.427596,44.46236],"type":"Point"}
 }

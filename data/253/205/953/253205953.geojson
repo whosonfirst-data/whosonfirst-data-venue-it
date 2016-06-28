@@ -2,13 +2,14 @@
   "id": 253205953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.588267,45.521015,8.588267,45.521015",
     "geom:latitude":45.521015,
     "geom:longitude":8.588267,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Risorgimento 50 28010 Caltignaga",
     "sg:city":"Caltignaga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253205953,
-    "wof:lastmodified":1449064593,
+    "wof:lastmodified":1466291040,
     "wof:name":"Europlast Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "old"
     ]
 },
-  "bbox": [8.588267,45.521015,8.588267,45.521015],
+  "bbox": [
+    8.588267,
+    45.521015,
+    8.588267,
+    45.521015
+],
   "geometry": {"coordinates":[8.588267,45.521015],"type":"Point"}
 }

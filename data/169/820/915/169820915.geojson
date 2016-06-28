@@ -2,13 +2,14 @@
   "id": 169820915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.1153,39.212448,9.1153,39.212448",
     "geom:latitude":39.212448,
     "geom:longitude":9.1153,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, V. S. Margherita 09124 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169820915,
-    "wof:lastmodified":1449034388,
+    "wof:lastmodified":1466288970,
     "wof:name":"Sfirs Spa",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [9.1153,39.212448,9.1153,39.212448],
+  "bbox": [
+    9.1153,
+    39.212448,
+    9.1153,
+    39.212448
+],
   "geometry": {"coordinates":[9.1153,39.212448],"type":"Point"}
 }

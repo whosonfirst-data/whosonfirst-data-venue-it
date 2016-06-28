@@ -2,13 +2,14 @@
   "id": 252886899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.77943,45.351982,11.77943,45.351982",
     "geom:latitude":45.351982,
     "geom:longitude":11.77943,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35031 Abano Terme",
     "sg:city":"Abano Terme",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252886899,
-    "wof:lastmodified":1449006019,
+    "wof:lastmodified":1466290884,
     "wof:name":"Giuriolo S.n.c. Cristina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.77943,45.351982,11.77943,45.351982],
+  "bbox": [
+    11.77943,
+    45.351982,
+    11.77943,
+    45.351982
+],
   "geometry": {"coordinates":[11.77943,45.351982],"type":"Point"}
 }

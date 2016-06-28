@@ -2,13 +2,14 @@
   "id": 303974333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.152387,45.443974,9.152387,45.443974",
     "geom:latitude":45.443974,
     "geom:longitude":9.152387,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20143 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303974333,
-    "wof:lastmodified":1449000245,
+    "wof:lastmodified":1466298236,
     "wof:name":"O.p.e.r.a. Oggetti Pubblicitari E Regali Aziendali",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.152387,45.443974,9.152387,45.443974],
+  "bbox": [
+    9.152387,
+    45.443974,
+    9.152387,
+    45.443974
+],
   "geometry": {"coordinates":[9.152387,45.443974],"type":"Point"}
 }

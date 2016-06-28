@@ -2,13 +2,14 @@
   "id": 219649549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.295812,38.043743,13.295812,38.043743",
     "geom:latitude":38.043743,
     "geom:longitude":13.295812,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90030 Altofonte",
     "sg:city":"Altofonte",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219649549,
-    "wof:lastmodified":1449072790,
+    "wof:lastmodified":1466292795,
     "wof:name":"Ufficio Provinciale Del Lavoro E M.o.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.295812,38.043743,13.295812,38.043743],
+  "bbox": [
+    13.295812,
+    38.043743,
+    13.295812,
+    38.043743
+],
   "geometry": {"coordinates":[13.295812,38.043743],"type":"Point"}
 }

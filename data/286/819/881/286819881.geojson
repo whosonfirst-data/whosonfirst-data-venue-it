@@ -2,13 +2,14 @@
   "id": 286819881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.758606,40.906952,14.758606,40.906952",
     "geom:latitude":40.906952,
     "geom:longitude":14.758606,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83013 Mercogliano",
     "sg:city":"Mercogliano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286819881,
-    "wof:lastmodified":1449015864,
+    "wof:lastmodified":1466296652,
     "wof:name":"Nittolo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.758606,40.906952,14.758606,40.906952],
+  "bbox": [
+    14.758606,
+    40.906952,
+    14.758606,
+    40.906952
+],
   "geometry": {"coordinates":[14.758606,40.906952],"type":"Point"}
 }

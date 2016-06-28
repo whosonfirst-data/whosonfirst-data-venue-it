@@ -2,13 +2,14 @@
   "id": 286799269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.132213,39.211353,9.132213,39.211353",
     "geom:latitude":39.211353,
     "geom:longitude":9.132213,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09126 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286799269,
-    "wof:lastmodified":1449018094,
+    "wof:lastmodified":1466296480,
     "wof:name":"Compagnia Generale Telemar (s.p.a.)",
     "wof:parent_id":85862617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.132213,39.211353,9.132213,39.211353],
+  "bbox": [
+    9.132213,
+    39.211353,
+    9.132213,
+    39.211353
+],
   "geometry": {"coordinates":[9.132213,39.211353],"type":"Point"}
 }

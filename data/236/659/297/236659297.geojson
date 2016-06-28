@@ -2,13 +2,14 @@
   "id": 236659297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.033135,45.379837,9.033135,45.379837",
     "geom:latitude":45.379837,
     "geom:longitude":9.033135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16/18, V. Belgio 20083 Gaggiano",
     "sg:city":"Gaggiano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236659297,
-    "wof:lastmodified":1449001941,
+    "wof:lastmodified":1466295563,
     "wof:name":"Semetal Di Papetta Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.033135,45.379837,9.033135,45.379837],
+  "bbox": [
+    9.033135,
+    45.379837,
+    9.033135,
+    45.379837
+],
   "geometry": {"coordinates":[9.033135,45.379837],"type":"Point"}
 }

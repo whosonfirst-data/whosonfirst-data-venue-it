@@ -2,13 +2,14 @@
   "id": 320170571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.039737,45.616596,9.039737,45.616596",
     "geom:latitude":45.616596,
     "geom:longitude":9.039737,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320170571,
-    "wof:lastmodified":1449011587,
+    "wof:lastmodified":1466295448,
     "wof:name":"Alberti Umberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.039737,45.616596,9.039737,45.616596],
+  "bbox": [
+    9.039737,
+    45.616596,
+    9.039737,
+    45.616596
+],
   "geometry": {"coordinates":[9.039737,45.616596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220081415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.47218,45.461098,10.47218,45.461098",
     "geom:latitude":45.461098,
     "geom:longitude":10.47218,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Napoleone Tirale 1 25017 Lonato",
     "sg:city":"Lonato",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220081415,
-    "wof:lastmodified":1449074267,
+    "wof:lastmodified":1466295681,
     "wof:name":"Dynair Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fan"
     ]
 },
-  "bbox": [10.47218,45.461098,10.47218,45.461098],
+  "bbox": [
+    10.47218,
+    45.461098,
+    10.47218,
+    45.461098
+],
   "geometry": {"coordinates":[10.47218,45.461098],"type":"Point"}
 }

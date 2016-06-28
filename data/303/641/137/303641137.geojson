@@ -2,13 +2,14 @@
   "id": 303641137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.253563,40.841518,14.253563,40.841518",
     "geom:latitude":40.841518,
     "geom:longitude":14.253563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80079 Procida",
     "sg:city":"Procida",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303641137,
-    "wof:lastmodified":1448999977,
+    "wof:lastmodified":1466297286,
     "wof:name":"Minichino Ugo",
     "wof:parent_id":85904835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.253563,40.841518,14.253563,40.841518],
+  "bbox": [
+    14.253563,
+    40.841518,
+    14.253563,
+    40.841518
+],
   "geometry": {"coordinates":[14.253563,40.841518],"type":"Point"}
 }

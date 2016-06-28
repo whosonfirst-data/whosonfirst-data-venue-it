@@ -2,13 +2,14 @@
   "id": 303687453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.683226,45.361839,9.683226,45.361839",
     "geom:latitude":45.361839,
     "geom:longitude":9.683226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26010 Cremosano",
     "sg:city":"Cremosano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303687453,
-    "wof:lastmodified":1448998797,
+    "wof:lastmodified":1466297561,
     "wof:name":"Vanazzi Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.683226,45.361839,9.683226,45.361839],
+  "bbox": [
+    9.683226,
+    45.361839,
+    9.683226,
+    45.361839
+],
   "geometry": {"coordinates":[9.683226,45.361839],"type":"Point"}
 }

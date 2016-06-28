@@ -2,13 +2,14 @@
   "id": 186063963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.53171,45.609776,9.53171,45.609776",
     "geom:latitude":45.609776,
     "geom:longitude":9.53171,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Veneto 36/b; Capriate San Gervasio; 24042",
     "sg:city":"Capriate San Gervasio",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186063963,
-    "wof:lastmodified":1449050478,
+    "wof:lastmodified":1466295360,
     "wof:name":"Credito Artigiano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.53171,45.609776,9.53171,45.609776],
+  "bbox": [
+    9.53171,
+    45.609776,
+    9.53171,
+    45.609776
+],
   "geometry": {"coordinates":[9.53171,45.609776],"type":"Point"}
 }

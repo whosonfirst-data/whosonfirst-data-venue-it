@@ -2,13 +2,14 @@
   "id": 236356129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.656988,41.459991,12.656988,41.459991",
     "geom:latitude":41.459991,
     "geom:longitude":12.656988,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00048 Nettuno",
     "sg:city":"Nettuno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236356129,
-    "wof:lastmodified":1449004547,
+    "wof:lastmodified":1466292517,
     "wof:name":"Origlia Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.656988,41.459991,12.656988,41.459991],
+  "bbox": [
+    12.656988,
+    41.459991,
+    12.656988,
+    41.459991
+],
   "geometry": {"coordinates":[12.656988,41.459991],"type":"Point"}
 }

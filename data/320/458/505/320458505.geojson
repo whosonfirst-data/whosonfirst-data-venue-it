@@ -2,13 +2,14 @@
   "id": 320458505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.606596,44.70607,10.606596,44.70607",
     "geom:latitude":44.70607,
     "geom:longitude":10.606596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Industria Alimentare E Bevande",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320458505,
-    "wof:lastmodified":1449013920,
+    "wof:lastmodified":1466297466,
     "wof:name":"Condor Snc",
     "wof:parent_id":85904877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.606596,44.70607,10.606596,44.70607],
+  "bbox": [
+    10.606596,
+    44.70607,
+    10.606596,
+    44.70607
+],
   "geometry": {"coordinates":[10.606596,44.70607],"type":"Point"}
 }

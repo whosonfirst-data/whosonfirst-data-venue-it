@@ -2,13 +2,14 @@
   "id": 303867749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.345089,44.511265,11.345089,44.511265",
     "geom:latitude":44.511265,
     "geom:longitude":11.345089,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40129 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303867749,
-    "wof:lastmodified":1448999175,
+    "wof:lastmodified":1466297969,
     "wof:name":"Guerra Romano",
     "wof:parent_id":85904571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.345089,44.511265,11.345089,44.511265],
+  "bbox": [
+    11.345089,
+    44.511265,
+    11.345089,
+    44.511265
+],
   "geometry": {"coordinates":[11.345089,44.511265],"type":"Point"}
 }

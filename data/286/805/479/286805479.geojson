@@ -2,13 +2,14 @@
   "id": 286805479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.546107,43.58424,13.546107,43.58424",
     "geom:latitude":43.58424,
     "geom:longitude":13.546107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60029 Montacuto",
     "sg:classifiers":[],
     "sg:orig_category":"Telecomunicazioni E Telefonia, Impianti, Apparecchi E Servizi",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":286805479,
-    "wof:lastmodified":1449016165,
+    "wof:lastmodified":1466296529,
     "wof:name":"Lucarini Luciana - A.e.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.546107,43.58424,13.546107,43.58424],
+  "bbox": [
+    13.546107,
+    43.58424,
+    13.546107,
+    43.58424
+],
   "geometry": {"coordinates":[13.546107,43.58424],"type":"Point"}
 }

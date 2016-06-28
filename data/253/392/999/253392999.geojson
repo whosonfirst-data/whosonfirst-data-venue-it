@@ -2,13 +2,14 @@
   "id": 253392999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.551972,44.411694,7.551972,44.411694",
     "geom:latitude":44.411694,
     "geom:longitude":7.551972,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5/a, V. Benessia",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253392999,
-    "wof:lastmodified":1449065184,
+    "wof:lastmodified":1466293326,
     "wof:name":"Market Compensati",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [7.551972,44.411694,7.551972,44.411694],
+  "bbox": [
+    7.551972,
+    44.411694,
+    7.551972,
+    44.411694
+],
   "geometry": {"coordinates":[7.551972,44.411694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236838355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.902913,41.471256,12.902913,41.471256",
     "geom:latitude":41.471256,
     "geom:longitude":12.902913,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04100 Latina",
     "sg:city":"Latina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236838355,
-    "wof:lastmodified":1449001976,
+    "wof:lastmodified":1466296889,
     "wof:name":"Giovannetti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.902913,41.471256,12.902913,41.471256],
+  "bbox": [
+    12.902913,
+    41.471256,
+    12.902913,
+    41.471256
+],
   "geometry": {"coordinates":[12.902913,41.471256],"type":"Point"}
 }

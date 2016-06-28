@@ -2,13 +2,14 @@
   "id": 336746823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.715855,45.749657,9.715855,45.749657",
     "geom:latitude":45.749657,
     "geom:longitude":9.715855,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80/82, Via Fornaci 24022 Alzano Lombardo",
     "sg:city":"Alzano Lombardo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336746823,
-    "wof:lastmodified":1448996912,
+    "wof:lastmodified":1466295475,
     "wof:name":"P.c.m. Di Castelli Luca E C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.715855,45.749657,9.715855,45.749657],
+  "bbox": [
+    9.715855,
+    45.749657,
+    9.715855,
+    45.749657
+],
   "geometry": {"coordinates":[9.715855,45.749657],"type":"Point"}
 }

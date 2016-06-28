@@ -2,13 +2,14 @@
   "id": 236078651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.932055,45.905628,9.932055,45.905628",
     "geom:latitude":45.905628,
     "geom:longitude":9.932055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24020 Villa D'ogna",
     "sg:classifiers":[],
     "sg:orig_category":"Dolciumi E Gelati",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236078651,
-    "wof:lastmodified":1449004630,
+    "wof:lastmodified":1466289684,
     "wof:name":"Il Gelato Artigianale Di Rubis Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.932055,45.905628,9.932055,45.905628],
+  "bbox": [
+    9.932055,
+    45.905628,
+    9.932055,
+    45.905628
+],
   "geometry": {"coordinates":[9.932055,45.905628],"type":"Point"}
 }

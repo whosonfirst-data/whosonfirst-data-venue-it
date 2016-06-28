@@ -2,13 +2,14 @@
   "id": 303605923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.732032,45.947342,12.732032,45.947342",
     "geom:latitude":45.947342,
     "geom:longitude":12.732032,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33070 Budoia",
     "sg:city":"Budoia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303605923,
-    "wof:lastmodified":1448999311,
+    "wof:lastmodified":1466297330,
     "wof:name":"Variant Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.732032,45.947342,12.732032,45.947342],
+  "bbox": [
+    12.732032,
+    45.947342,
+    12.732032,
+    45.947342
+],
   "geometry": {"coordinates":[12.732032,45.947342],"type":"Point"}
 }

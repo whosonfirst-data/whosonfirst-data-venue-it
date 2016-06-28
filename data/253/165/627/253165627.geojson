@@ -2,13 +2,14 @@
   "id": 253165627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.275285,45.626534,9.275285,45.626534",
     "geom:latitude":45.626534,
     "geom:longitude":9.275285,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cesana E Villa 45 20046 Biassono",
     "sg:city":"Biassono",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253165627,
-    "wof:lastmodified":1449065816,
+    "wof:lastmodified":1466290645,
     "wof:name":"I.t.e.c. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.275285,45.626534,9.275285,45.626534],
+  "bbox": [
+    9.275285,
+    45.626534,
+    9.275285,
+    45.626534
+],
   "geometry": {"coordinates":[9.275285,45.626534],"type":"Point"}
 }

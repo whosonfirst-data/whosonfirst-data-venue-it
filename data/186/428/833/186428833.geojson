@@ -2,13 +2,14 @@
   "id": 186428833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.173698,45.459332,9.173698,45.459332",
     "geom:latitude":45.459332,
     "geom:longitude":9.173698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ausonio 12 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186428833,
-    "wof:lastmodified":1449052849,
+    "wof:lastmodified":1466291626,
     "wof:name":"Lubner Comunication Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.173698,45.459332,9.173698,45.459332],
+  "bbox": [
+    9.173698,
+    45.459332,
+    9.173698,
+    45.459332
+],
   "geometry": {"coordinates":[9.173698,45.459332],"type":"Point"}
 }

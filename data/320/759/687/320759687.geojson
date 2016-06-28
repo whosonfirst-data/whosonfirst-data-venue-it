@@ -2,13 +2,14 @@
   "id": 320759687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.025305,37.512932,15.025305,37.512932",
     "geom:latitude":37.512932,
     "geom:longitude":15.025305,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95045 Misterbianco",
     "sg:city":"Misterbianco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320759687,
-    "wof:lastmodified":1449015018,
+    "wof:lastmodified":1466298094,
     "wof:name":"Nicosia Rosario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.025305,37.512932,15.025305,37.512932],
+  "bbox": [
+    15.025305,
+    37.512932,
+    15.025305,
+    37.512932
+],
   "geometry": {"coordinates":[15.025305,37.512932],"type":"Point"}
 }

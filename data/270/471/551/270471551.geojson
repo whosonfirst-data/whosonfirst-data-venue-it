@@ -2,13 +2,14 @@
   "id": 270471551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.805634,45.463978,11.805634,45.463978",
     "geom:latitude":45.463978,
     "geom:longitude":11.805634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55/57, V. Balla 35010 Villafranca Padovana",
     "sg:city":"Villafranca Padovana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270471551,
-    "wof:lastmodified":1449009615,
+    "wof:lastmodified":1466294712,
     "wof:name":"Agrex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cereal"
     ]
 },
-  "bbox": [11.805634,45.463978,11.805634,45.463978],
+  "bbox": [
+    11.805634,
+    45.463978,
+    11.805634,
+    45.463978
+],
   "geometry": {"coordinates":[11.805634,45.463978],"type":"Point"}
 }

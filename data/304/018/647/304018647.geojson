@@ -2,13 +2,14 @@
   "id": 304018647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.507994,43.843014,10.507994,43.843014",
     "geom:latitude":43.843014,
     "geom:longitude":10.507994,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Piage 1367 55100 Lucca",
     "sg:city":"Lucca",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":304018647,
-    "wof:lastmodified":1449043867,
+    "wof:lastmodified":1466292374,
     "wof:name":"A.b. Trend Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tent"
     ]
 },
-  "bbox": [10.507994,43.843014,10.507994,43.843014],
+  "bbox": [
+    10.507994,
+    43.843014,
+    10.507994,
+    43.843014
+],
   "geometry": {"coordinates":[10.507994,43.843014],"type":"Point"}
 }

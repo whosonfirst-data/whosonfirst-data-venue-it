@@ -2,13 +2,14 @@
   "id": 286699331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.518757,43.615856,13.518757,43.615856",
     "geom:latitude":43.615856,
     "geom:longitude":13.518757,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Zona Artigianale Fornaci 60040 Sassoferrato",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286699331,
-    "wof:lastmodified":1449015572,
+    "wof:lastmodified":1466295200,
     "wof:name":"Fiori Costruzioni (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [13.518757,43.615856,13.518757,43.615856],
+  "bbox": [
+    13.518757,
+    43.615856,
+    13.518757,
+    43.615856
+],
   "geometry": {"coordinates":[13.518757,43.615856],"type":"Point"}
 }

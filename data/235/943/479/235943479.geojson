@@ -2,13 +2,14 @@
   "id": 235943479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.462917,45.551937,8.462917,45.551937",
     "geom:latitude":45.551937,
     "geom:longitude":8.462917,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via C. Battisti, 68/70 28073 Fara Novarese",
     "sg:city":"Fara Novarese",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235943479,
-    "wof:lastmodified":1449008345,
+    "wof:lastmodified":1466294672,
     "wof:name":"Cantine Dei Colli Novaresi Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "italian"
     ]
 },
-  "bbox": [8.462917,45.551937,8.462917,45.551937],
+  "bbox": [
+    8.462917,
+    45.551937,
+    8.462917,
+    45.551937
+],
   "geometry": {"coordinates":[8.462917,45.551937],"type":"Point"}
 }

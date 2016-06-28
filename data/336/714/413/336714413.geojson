@@ -2,13 +2,14 @@
   "id": 336714413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.762089,45.705929,8.762089,45.705929",
     "geom:latitude":45.705929,
     "geom:longitude":8.762089,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Via Alfredo Di Dio 21010 Besnate",
     "sg:city":"Besnate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336714413,
-    "wof:lastmodified":1448997486,
+    "wof:lastmodified":1466295096,
     "wof:name":"Meccanica Besnatese S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.762089,45.705929,8.762089,45.705929],
+  "bbox": [
+    8.762089,
+    45.705929,
+    8.762089,
+    45.705929
+],
   "geometry": {"coordinates":[8.762089,45.705929],"type":"Point"}
 }

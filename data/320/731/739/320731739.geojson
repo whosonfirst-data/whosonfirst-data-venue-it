@@ -2,13 +2,14 @@
   "id": 320731739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.581203,45.72958,9.581203,45.72958",
     "geom:latitude":45.72958,
     "geom:longitude":9.581203,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Almenno San Bartolomeo",
     "sg:city":"Almenno San Bartolomeo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320731739,
-    "wof:lastmodified":1449014549,
+    "wof:lastmodified":1466298059,
     "wof:name":"Cugini Mazzoleni Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.581203,45.72958,9.581203,45.72958],
+  "bbox": [
+    9.581203,
+    45.72958,
+    9.581203,
+    45.72958
+],
   "geometry": {"coordinates":[9.581203,45.72958],"type":"Point"}
 }

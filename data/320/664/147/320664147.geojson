@@ -2,13 +2,14 @@
   "id": 320664147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.071602,45.476593,9.071602,45.476593",
     "geom:latitude":45.476593,
     "geom:longitude":9.071602,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320664147,
-    "wof:lastmodified":1449012663,
+    "wof:lastmodified":1466297928,
     "wof:name":"Index International S.r.l.",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.071602,45.476593,9.071602,45.476593],
+  "bbox": [
+    9.071602,
+    45.476593,
+    9.071602,
+    45.476593
+],
   "geometry": {"coordinates":[9.071602,45.476593],"type":"Point"}
 }

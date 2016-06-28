@@ -2,13 +2,14 @@
   "id": 185844703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.918874,43.341259,11.918874,43.341259",
     "geom:latitude":43.341259,
     "geom:longitude":11.918874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piave; Arezzo; 52047",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185844703,
-    "wof:lastmodified":1449007291,
+    "wof:lastmodified":1466289565,
     "wof:name":"Banca Popolare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.918874,43.341259,11.918874,43.341259],
+  "bbox": [
+    11.918874,
+    43.341259,
+    11.918874,
+    43.341259
+],
   "geometry": {"coordinates":[11.918874,43.341259],"type":"Point"}
 }

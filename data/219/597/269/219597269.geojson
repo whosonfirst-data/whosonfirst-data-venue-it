@@ -2,13 +2,14 @@
   "id": 219597269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.820648,44.425873,8.820648,44.425873",
     "geom:latitude":44.425873,
     "geom:longitude":8.820648,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16043 Chiavari",
     "sg:city":"Chiavari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219597269,
-    "wof:lastmodified":1449073865,
+    "wof:lastmodified":1466292264,
     "wof:name":"Fratelli Scotto Gomme Snc",
     "wof:parent_id":85796839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.820648,44.425873,8.820648,44.425873],
+  "bbox": [
+    8.820648,
+    44.425873,
+    8.820648,
+    44.425873
+],
   "geometry": {"coordinates":[8.820648,44.425873],"type":"Point"}
 }

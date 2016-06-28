@@ -2,13 +2,14 @@
   "id": 286667889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.140566,43.952465,8.140566,43.952465",
     "geom:latitude":43.952465,
     "geom:longitude":8.140566,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17051 Andora",
     "sg:city":"Andora",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286667889,
-    "wof:lastmodified":1449017107,
+    "wof:lastmodified":1466294767,
     "wof:name":"Colori 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.140566,43.952465,8.140566,43.952465],
+  "bbox": [
+    8.140566,
+    43.952465,
+    8.140566,
+    43.952465
+],
   "geometry": {"coordinates":[8.140566,43.952465],"type":"Point"}
 }

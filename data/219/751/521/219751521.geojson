@@ -2,13 +2,14 @@
   "id": 219751521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.547618,41.864182,12.547618,41.864182",
     "geom:latitude":41.864182,
     "geom:longitude":12.547618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, V. Dei Lentuli 00175 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219751521,
-    "wof:lastmodified":1449070582,
+    "wof:lastmodified":1466293789,
     "wof:name":"Futuroma",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "road"
     ]
 },
-  "bbox": [12.547618,41.864182,12.547618,41.864182],
+  "bbox": [
+    12.547618,
+    41.864182,
+    12.547618,
+    41.864182
+],
   "geometry": {"coordinates":[12.547618,41.864182],"type":"Point"}
 }

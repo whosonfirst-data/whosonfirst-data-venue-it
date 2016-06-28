@@ -2,13 +2,14 @@
   "id": 320554655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.667226,41.791164,12.667226,41.791164",
     "geom:latitude":41.791164,
     "geom:longitude":12.667226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00046 Grottaferrata",
     "sg:city":"Grottaferrata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320554655,
-    "wof:lastmodified":1449012028,
+    "wof:lastmodified":1466297709,
     "wof:name":"Derma Stucchi Snc Di Gizzi F. E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.667226,41.791164,12.667226,41.791164],
+  "bbox": [
+    12.667226,
+    41.791164,
+    12.667226,
+    41.791164
+],
   "geometry": {"coordinates":[12.667226,41.791164],"type":"Point"}
 }

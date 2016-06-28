@@ -2,13 +2,14 @@
   "id": 287172301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196849,45.482342,9.196849,45.482342",
     "geom:latitude":45.482342,
     "geom:longitude":9.196849,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cornalia, 7; Milan; 20124",
     "sg:classifiers":[
         {
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287172301,
-    "wof:lastmodified":1449001027,
+    "wof:lastmodified":1466291878,
     "wof:name":"Atahotel Class Residence",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.196849,45.482342,9.196849,45.482342],
+  "bbox": [
+    9.196849,
+    45.482342,
+    9.196849,
+    45.482342
+],
   "geometry": {"coordinates":[9.196849,45.482342],"type":"Point"}
 }

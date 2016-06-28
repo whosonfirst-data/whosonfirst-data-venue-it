@@ -2,13 +2,14 @@
   "id": 286942089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.509169,41.935841,12.509169,41.935841",
     "geom:latitude":41.935841,
     "geom:longitude":12.509169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00199 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286942089,
-    "wof:lastmodified":1449016528,
+    "wof:lastmodified":1466297369,
     "wof:name":"Bonoplast",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.509169,41.935841,12.509169,41.935841],
+  "bbox": [
+    12.509169,
+    41.935841,
+    12.509169,
+    41.935841
+],
   "geometry": {"coordinates":[12.509169,41.935841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303625919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.117981,39.938461,18.117981,39.938461",
     "geom:latitude":39.938461,
     "geom:longitude":18.117981,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73040 Alliste",
     "sg:city":"Alliste",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303625919,
-    "wof:lastmodified":1449000605,
+    "wof:lastmodified":1466297415,
     "wof:name":"Spennato Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.117981,39.938461,18.117981,39.938461],
+  "bbox": [
+    18.117981,
+    39.938461,
+    18.117981,
+    39.938461
+],
   "geometry": {"coordinates":[18.117981,39.938461],"type":"Point"}
 }

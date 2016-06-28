@@ -2,13 +2,14 @@
   "id": 320482741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.209904,42.469254,14.209904,42.469254",
     "geom:latitude":42.469254,
     "geom:longitude":14.209904,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65010 Cerratina",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Industria Alimentare E Bevande",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320482741,
-    "wof:lastmodified":1449012599,
+    "wof:lastmodified":1466297563,
     "wof:name":"Pionio Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.209904,42.469254,14.209904,42.469254],
+  "bbox": [
+    14.209904,
+    42.469254,
+    14.209904,
+    42.469254
+],
   "geometry": {"coordinates":[14.209904,42.469254],"type":"Point"}
 }

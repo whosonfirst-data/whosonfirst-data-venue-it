@@ -2,13 +2,14 @@
   "id": 320770433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.053337,39.857376,9.053337,39.857376",
     "geom:latitude":39.857376,
     "geom:longitude":9.053337,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"08034 Laconi",
     "sg:city":"Laconi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320770433,
-    "wof:lastmodified":1449015035,
+    "wof:lastmodified":1466298114,
     "wof:name":"Societa' Argille Caolini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.053337,39.857376,9.053337,39.857376],
+  "bbox": [
+    9.053337,
+    39.857376,
+    9.053337,
+    39.857376
+],
   "geometry": {"coordinates":[9.053337,39.857376],"type":"Point"}
 }

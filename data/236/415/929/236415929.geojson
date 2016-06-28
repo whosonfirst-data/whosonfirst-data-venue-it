@@ -2,13 +2,14 @@
   "id": 236415929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.04367,45.440315,9.04367,45.440315",
     "geom:latitude":45.440315,
     "geom:longitude":9.04367,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Cusago",
     "sg:city":"Cusago",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236415929,
-    "wof:lastmodified":1449004140,
+    "wof:lastmodified":1466293151,
     "wof:name":"Emme-ti Srl",
     "wof:parent_id":85862759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.04367,45.440315,9.04367,45.440315],
+  "bbox": [
+    9.04367,
+    45.440315,
+    9.04367,
+    45.440315
+],
   "geometry": {"coordinates":[9.04367,45.440315],"type":"Point"}
 }

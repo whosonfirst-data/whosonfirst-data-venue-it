@@ -2,13 +2,14 @@
   "id": 287049017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.565345,40.732914,14.565345,40.732914",
     "geom:latitude":40.732914,
     "geom:longitude":14.565345,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84012 Angri",
     "sg:city":"Angri",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287049017,
-    "wof:lastmodified":1449001101,
+    "wof:lastmodified":1466290202,
     "wof:name":"Caba Viaggi Snc Di Palumbo G. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourist"
     ]
 },
-  "bbox": [14.565345,40.732914,14.565345,40.732914],
+  "bbox": [
+    14.565345,
+    40.732914,
+    14.565345,
+    40.732914
+],
   "geometry": {"coordinates":[14.565345,40.732914],"type":"Point"}
 }

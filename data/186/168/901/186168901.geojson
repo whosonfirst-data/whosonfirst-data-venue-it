@@ -2,13 +2,14 @@
   "id": 186168901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.177585,45.467552,9.177585,45.467552",
     "geom:latitude":45.467552,
     "geom:longitude":9.177585,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazzale Cadorna 3; Milano; 20123",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186168901,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466289379,
     "wof:name":"Mediocredito Emilia Romagna",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.177585,45.467552,9.177585,45.467552],
+  "bbox": [
+    9.177585,
+    45.467552,
+    9.177585,
+    45.467552
+],
   "geometry": {"coordinates":[9.177585,45.467552],"type":"Point"}
 }

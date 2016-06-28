@@ -2,13 +2,14 @@
   "id": 303083389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.529803,43.633556,12.529803,43.633556",
     "geom:latitude":43.633556,
     "geom:longitude":12.529803,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brigata Gap 61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303083389,
-    "wof:lastmodified":1448999282,
+    "wof:lastmodified":1466291424,
     "wof:name":"M. Conti Di Conti Marzina & Semprucci Giancarlo Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "measurement"
     ]
 },
-  "bbox": [12.529803,43.633556,12.529803,43.633556],
+  "bbox": [
+    12.529803,
+    43.633556,
+    12.529803,
+    43.633556
+],
   "geometry": {"coordinates":[12.529803,43.633556],"type":"Point"}
 }

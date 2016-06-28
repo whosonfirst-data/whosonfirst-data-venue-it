@@ -2,13 +2,14 @@
   "id": 169848709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.101051,45.490803,9.101051,45.490803",
     "geom:latitude":45.490803,
     "geom:longitude":9.101051,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Scolari 2; Milano; 20153",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169848709,
-    "wof:lastmodified":1449033154,
+    "wof:lastmodified":1466289224,
     "wof:name":"Banca Agricola Milanese Spa",
     "wof:parent_id":85796899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.101051,45.490803,9.101051,45.490803],
+  "bbox": [
+    9.101051,
+    45.490803,
+    9.101051,
+    45.490803
+],
   "geometry": {"coordinates":[9.101051,45.490803],"type":"Point"}
 }

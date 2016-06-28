@@ -2,13 +2,14 @@
   "id": 287004373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.681453,45.014442,11.681453,45.014442",
     "geom:latitude":45.014442,
     "geom:longitude":11.681453,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Stradone Del Dieci 45030 Villamarzana",
     "sg:city":"Villamarzana",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287004373,
-    "wof:lastmodified":1449000986,
+    "wof:lastmodified":1466289671,
     "wof:name":"Dalsecchi E Debellini (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.681453,45.014442,11.681453,45.014442],
+  "bbox": [
+    11.681453,
+    45.014442,
+    11.681453,
+    45.014442
+],
   "geometry": {"coordinates":[11.681453,45.014442],"type":"Point"}
 }

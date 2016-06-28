@@ -2,13 +2,14 @@
   "id": 320093553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.511209,37.238571,14.511209,37.238571",
     "geom:latitude":37.238571,
     "geom:longitude":14.511209,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95041 Caltagirone",
     "sg:city":"Caltagirone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320093553,
-    "wof:lastmodified":1449011263,
+    "wof:lastmodified":1466294550,
     "wof:name":"C.d.s. Di De Caro Irene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.511209,37.238571,14.511209,37.238571],
+  "bbox": [
+    14.511209,
+    37.238571,
+    14.511209,
+    37.238571
+],
   "geometry": {"coordinates":[14.511209,37.238571],"type":"Point"}
 }

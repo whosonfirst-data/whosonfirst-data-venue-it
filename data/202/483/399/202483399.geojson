@@ -2,13 +2,14 @@
   "id": 202483399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.084894,45.662769,9.084894,45.662769",
     "geom:latitude":45.662769,
     "geom:longitude":9.084894,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Misinto",
     "sg:city":"Misinto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202483399,
-    "wof:lastmodified":1449062119,
+    "wof:lastmodified":1466296104,
     "wof:name":"Scuole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.084894,45.662769,9.084894,45.662769],
+  "bbox": [
+    9.084894,
+    45.662769,
+    9.084894,
+    45.662769
+],
   "geometry": {"coordinates":[9.084894,45.662769],"type":"Point"}
 }

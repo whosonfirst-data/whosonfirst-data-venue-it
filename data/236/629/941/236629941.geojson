@@ -2,13 +2,14 @@
   "id": 236629941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.545081,45.741421,7.545081,45.741421",
     "geom:latitude":45.741421,
     "geom:longitude":7.545081,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Localita' Breil 11020 Nus",
     "sg:city":"Nus",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236629941,
-    "wof:lastmodified":1449004314,
+    "wof:lastmodified":1466295287,
     "wof:name":"Mobilificio Pramotton G. & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [7.545081,45.741421,7.545081,45.741421],
+  "bbox": [
+    7.545081,
+    45.741421,
+    7.545081,
+    45.741421
+],
   "geometry": {"coordinates":[7.545081,45.741421],"type":"Point"}
 }

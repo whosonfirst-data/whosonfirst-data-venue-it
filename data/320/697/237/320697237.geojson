@@ -2,13 +2,14 @@
   "id": 320697237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.187042,45.536861,9.187042,45.536861",
     "geom:latitude":45.536861,
     "geom:longitude":9.187042,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320697237,
-    "wof:lastmodified":1449013614,
+    "wof:lastmodified":1466297994,
     "wof:name":"M.e.a. Snc",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.187042,45.536861,9.187042,45.536861],
+  "bbox": [
+    9.187042,
+    45.536861,
+    9.187042,
+    45.536861
+],
   "geometry": {"coordinates":[9.187042,45.536861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286300037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.647587,45.504299,8.647587,45.504299",
     "geom:latitude":45.504299,
     "geom:longitude":8.647587,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"249, Via Giacomo Matteotti 28062 Cameri",
     "sg:city":"Cameri",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286300037,
-    "wof:lastmodified":1449016838,
+    "wof:lastmodified":1466289951,
     "wof:name":"Procos (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.647587,45.504299,8.647587,45.504299],
+  "bbox": [
+    8.647587,
+    45.504299,
+    8.647587,
+    45.504299
+],
   "geometry": {"coordinates":[8.647587,45.504299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236171711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.878888,44.372345,11.878888,44.372345",
     "geom:latitude":44.372345,
     "geom:longitude":11.878888,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Via Gaggio 48010 Cotignola",
     "sg:city":"Cotignola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236171711,
-    "wof:lastmodified":1449005267,
+    "wof:lastmodified":1466290583,
     "wof:name":"Sprint Distillery S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [11.878888,44.372345,11.878888,44.372345],
+  "bbox": [
+    11.878888,
+    44.372345,
+    11.878888,
+    44.372345
+],
   "geometry": {"coordinates":[11.878888,44.372345],"type":"Point"}
 }

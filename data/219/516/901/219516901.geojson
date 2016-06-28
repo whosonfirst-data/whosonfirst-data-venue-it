@@ -2,13 +2,14 @@
   "id": 219516901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.036967,45.615204,9.036967,45.615204",
     "geom:latitude":45.615204,
     "geom:longitude":9.036967,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Morandi 21 21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219516901,
-    "wof:lastmodified":1449071067,
+    "wof:lastmodified":1466291548,
     "wof:name":"Nobili Arredamenti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [9.036967,45.615204,9.036967,45.615204],
+  "bbox": [
+    9.036967,
+    45.615204,
+    9.036967,
+    45.615204
+],
   "geometry": {"coordinates":[9.036967,45.615204],"type":"Point"}
 }

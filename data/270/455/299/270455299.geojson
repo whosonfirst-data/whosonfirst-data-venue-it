@@ -2,13 +2,14 @@
   "id": 270455299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.488659,44.504566,7.488659,44.504566",
     "geom:latitude":44.504566,
     "geom:longitude":7.488659,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Corso Giovanni Xxiii 12022 Busca",
     "sg:city":"Busca",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270455299,
-    "wof:lastmodified":1449010677,
+    "wof:lastmodified":1466294534,
     "wof:name":"Berardo Cav. Natale & Figli Di Lamberti Laurina & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramic"
     ]
 },
-  "bbox": [7.488659,44.504566,7.488659,44.504566],
+  "bbox": [
+    7.488659,
+    44.504566,
+    7.488659,
+    44.504566
+],
   "geometry": {"coordinates":[7.488659,44.504566],"type":"Point"}
 }

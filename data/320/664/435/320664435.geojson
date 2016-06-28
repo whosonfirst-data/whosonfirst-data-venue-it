@@ -2,13 +2,14 @@
   "id": 320664435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.033521,43.888184,8.033521,43.888184",
     "geom:latitude":43.888184,
     "geom:longitude":8.033521,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18100 Imperia",
     "sg:city":"Imperia",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320664435,
-    "wof:lastmodified":1449012664,
+    "wof:lastmodified":1466297928,
     "wof:name":"Intel Di R. Savaia & C. Sas",
     "wof:parent_id":85796911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.033521,43.888184,8.033521,43.888184],
+  "bbox": [
+    8.033521,
+    43.888184,
+    8.033521,
+    43.888184
+],
   "geometry": {"coordinates":[8.033521,43.888184],"type":"Point"}
 }

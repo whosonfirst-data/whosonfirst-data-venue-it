@@ -2,13 +2,14 @@
   "id": 269828635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.28688,43.470013,11.28688,43.470013",
     "geom:latitude":43.470013,
     "geom:longitude":11.28688,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Trento E Trieste 53011 Castellina In Chianti",
     "sg:city":"Castellina in Chianti",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269828635,
-    "wof:lastmodified":1449037358,
+    "wof:lastmodified":1466293358,
     "wof:name":"Agriserv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.28688,43.470013,11.28688,43.470013],
+  "bbox": [
+    11.28688,
+    43.470013,
+    11.28688,
+    43.470013
+],
   "geometry": {"coordinates":[11.28688,43.470013],"type":"Point"}
 }

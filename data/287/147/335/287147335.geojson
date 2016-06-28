@@ -2,13 +2,14 @@
   "id": 287147335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.931723,45.816277,8.931723,45.816277",
     "geom:latitude":45.816277,
     "geom:longitude":8.931723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Valmorea",
     "sg:city":"Valmorea",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287147335,
-    "wof:lastmodified":1449001483,
+    "wof:lastmodified":1466291548,
     "wof:name":"Graziato Fratelli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.931723,45.816277,8.931723,45.816277],
+  "bbox": [
+    8.931723,
+    45.816277,
+    8.931723,
+    45.816277
+],
   "geometry": {"coordinates":[8.931723,45.816277],"type":"Point"}
 }

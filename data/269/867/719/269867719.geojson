@@ -2,13 +2,14 @@
   "id": 269867719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.538112,44.695229,10.538112,44.695229",
     "geom:latitude":44.695229,
     "geom:longitude":10.538112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via W. Tobagi 42025 Cavriago",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269867719,
-    "wof:lastmodified":1449037169,
+    "wof:lastmodified":1466293787,
     "wof:name":"Woodline S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [10.538112,44.695229,10.538112,44.695229],
+  "bbox": [
+    10.538112,
+    44.695229,
+    10.538112,
+    44.695229
+],
   "geometry": {"coordinates":[10.538112,44.695229],"type":"Point"}
 }

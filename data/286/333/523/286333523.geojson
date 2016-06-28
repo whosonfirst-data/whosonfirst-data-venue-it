@@ -2,13 +2,14 @@
   "id": 286333523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.87481,45.82061,11.87481,45.82061",
     "geom:latitude":45.82061,
     "geom:longitude":11.87481,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Erega 1 31030 Castelcucco",
     "sg:city":"Castelcucco",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286333523,
-    "wof:lastmodified":1449017883,
+    "wof:lastmodified":1466290478,
     "wof:name":"Grisport Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "children's"
     ]
 },
-  "bbox": [11.87481,45.82061,11.87481,45.82061],
+  "bbox": [
+    11.87481,
+    45.82061,
+    11.87481,
+    45.82061
+],
   "geometry": {"coordinates":[11.87481,45.82061],"type":"Point"}
 }

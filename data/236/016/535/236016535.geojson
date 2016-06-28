@@ -2,13 +2,14 @@
   "id": 236016535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.916505,44.66304,10.916505,44.66304",
     "geom:latitude":44.66304,
     "geom:longitude":10.916505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Suore 305 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236016535,
-    "wof:lastmodified":1449002103,
+    "wof:lastmodified":1466289053,
     "wof:name":"Ata Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.916505,44.66304,10.916505,44.66304],
+  "bbox": [
+    10.916505,
+    44.66304,
+    10.916505,
+    44.66304
+],
   "geometry": {"coordinates":[10.916505,44.66304],"type":"Point"}
 }

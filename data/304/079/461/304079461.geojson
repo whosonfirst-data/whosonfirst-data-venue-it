@@ -2,13 +2,14 @@
   "id": 304079461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.238877,43.797523,11.238877,43.797523",
     "geom:latitude":43.797523,
     "geom:longitude":11.238877,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94/12, Via Panciatichi 50127 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":304079461,
-    "wof:lastmodified":1449044063,
+    "wof:lastmodified":1466293248,
     "wof:name":"Logisistem Srl",
     "wof:parent_id":85904657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [11.238877,43.797523,11.238877,43.797523],
+  "bbox": [
+    11.238877,
+    43.797523,
+    11.238877,
+    43.797523
+],
   "geometry": {"coordinates":[11.238877,43.797523],"type":"Point"}
 }

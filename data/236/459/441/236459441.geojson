@@ -2,13 +2,14 @@
   "id": 236459441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.403499,45.640846,9.403499,45.640846",
     "geom:latitude":45.640846,
     "geom:longitude":9.403499,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V.le Dell' Artigianato ,13/17 20044 Bernareggio",
     "sg:city":"Bernareggio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236459441,
-    "wof:lastmodified":1449002907,
+    "wof:lastmodified":1466293619,
     "wof:name":"Mira System Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [9.403499,45.640846,9.403499,45.640846],
+  "bbox": [
+    9.403499,
+    45.640846,
+    9.403499,
+    45.640846
+],
   "geometry": {"coordinates":[9.403499,45.640846],"type":"Point"}
 }

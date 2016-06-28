@@ -2,13 +2,14 @@
   "id": 236804221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.645972,45.009644,8.645972,45.009644",
     "geom:latitude":45.009644,
     "geom:longitude":8.645972,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15048 Valenza",
     "sg:city":"Valenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236804221,
-    "wof:lastmodified":1449004046,
+    "wof:lastmodified":1466296587,
     "wof:name":"Bortolin Marco - Laboratorio Di Incassatura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.645972,45.009644,8.645972,45.009644],
+  "bbox": [
+    8.645972,
+    45.009644,
+    8.645972,
+    45.009644
+],
   "geometry": {"coordinates":[8.645972,45.009644],"type":"Point"}
 }

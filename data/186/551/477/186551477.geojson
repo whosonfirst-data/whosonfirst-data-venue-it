@@ -2,13 +2,14 @@
   "id": 186551477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.206573,45.473869,9.206573,45.473869",
     "geom:latitude":45.473869,
     "geom:longitude":9.206573,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Viale Piave 20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186551477,
-    "wof:lastmodified":1449050943,
+    "wof:lastmodified":1466292803,
     "wof:name":"Hotel Diana Majestic",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [9.206573,45.473869,9.206573,45.473869],
+  "bbox": [
+    9.206573,
+    45.473869,
+    9.206573,
+    45.473869
+],
   "geometry": {"coordinates":[9.206573,45.473869],"type":"Point"}
 }

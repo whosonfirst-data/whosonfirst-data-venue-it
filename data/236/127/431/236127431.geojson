@@ -2,13 +2,14 @@
   "id": 236127431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.393235,45.477905,10.393235,45.477905",
     "geom:latitude":45.477905,
     "geom:longitude":10.393235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Statale 132 25011 Calcinato",
     "sg:city":"Calcinato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236127431,
-    "wof:lastmodified":1449004921,
+    "wof:lastmodified":1466290162,
     "wof:name":"Metallurgica San Marco Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drawn"
     ]
 },
-  "bbox": [10.393235,45.477905,10.393235,45.477905],
+  "bbox": [
+    10.393235,
+    45.477905,
+    10.393235,
+    45.477905
+],
   "geometry": {"coordinates":[10.393235,45.477905],"type":"Point"}
 }

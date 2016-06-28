@@ -2,13 +2,14 @@
   "id": 219843631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.924366,44.903553,8.924366,44.903553",
     "geom:latitude":44.903553,
     "geom:longitude":8.924366,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15058 Viguzzolo",
     "sg:city":"Viguzzolo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219843631,
-    "wof:lastmodified":1449070699,
+    "wof:lastmodified":1466294696,
     "wof:name":"Circo Tribertis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [8.924366,44.903553,8.924366,44.903553],
+  "bbox": [
+    8.924366,
+    44.903553,
+    8.924366,
+    44.903553
+],
   "geometry": {"coordinates":[8.924366,44.903553],"type":"Point"}
 }

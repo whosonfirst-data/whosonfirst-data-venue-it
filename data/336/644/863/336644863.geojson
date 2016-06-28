@@ -2,13 +2,14 @@
   "id": 336644863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.707479,45.03648,10.707479,45.03648",
     "geom:latitude":45.03648,
     "geom:longitude":10.707479,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Piazza Moschini 46020 Motteggiana",
     "sg:city":"Motteggiana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336644863,
-    "wof:lastmodified":1448997551,
+    "wof:lastmodified":1466294266,
     "wof:name":"D.b.d. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.707479,45.03648,10.707479,45.03648],
+  "bbox": [
+    10.707479,
+    45.03648,
+    10.707479,
+    45.03648
+],
   "geometry": {"coordinates":[10.707479,45.03648],"type":"Point"}
 }

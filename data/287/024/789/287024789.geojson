@@ -2,13 +2,14 @@
   "id": 287024789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.31046,45.510506,10.31046,45.510506",
     "geom:latitude":45.510506,
     "geom:longitude":10.31046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Torquato Tasso 25080 Mazzano",
     "sg:city":"Mazzano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287024789,
-    "wof:lastmodified":1449001080,
+    "wof:lastmodified":1466289903,
     "wof:name":"Stern S.p.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [10.31046,45.510506,10.31046,45.510506],
+  "bbox": [
+    10.31046,
+    45.510506,
+    10.31046,
+    45.510506
+],
   "geometry": {"coordinates":[10.31046,45.510506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219722957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.186396,45.689987,9.186396,45.689987",
     "geom:latitude":45.689987,
     "geom:longitude":9.186396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Isonzo 99 22066 Mariano Comense",
     "sg:city":"Mariano Comense",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219722957,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466293513,
     "wof:name":"Haubold Airfix Italia Srl",
     "wof:parent_id":85862609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.186396,45.689987,9.186396,45.689987],
+  "bbox": [
+    9.186396,
+    45.689987,
+    9.186396,
+    45.689987
+],
   "geometry": {"coordinates":[9.186396,45.689987],"type":"Point"}
 }

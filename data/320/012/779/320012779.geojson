@@ -2,13 +2,14 @@
   "id": 320012779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.112147,39.212975,9.112147,39.212975",
     "geom:latitude":39.212975,
     "geom:longitude":9.112147,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09123 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320012779,
-    "wof:lastmodified":1449014587,
+    "wof:lastmodified":1466293556,
     "wof:name":"Fadda Gianni",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.112147,39.212975,9.112147,39.212975],
+  "bbox": [
+    9.112147,
+    39.212975,
+    9.112147,
+    39.212975
+],
   "geometry": {"coordinates":[9.112147,39.212975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219798735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.650801,44.68232,10.650801,44.68232",
     "geom:latitude":44.68232,
     "geom:longitude":10.650801,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13/h, V. Zatti 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219798735,
-    "wof:lastmodified":1449071054,
+    "wof:lastmodified":1466294266,
     "wof:name":"Barbieri A. & C. Snc",
     "wof:parent_id":85904909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.650801,44.68232,10.650801,44.68232],
+  "bbox": [
+    10.650801,
+    44.68232,
+    10.650801,
+    44.68232
+],
   "geometry": {"coordinates":[10.650801,44.68232],"type":"Point"}
 }

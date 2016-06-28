@@ -2,13 +2,14 @@
   "id": 286543637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.790223,43.849957,12.790223,43.849957",
     "geom:latitude":43.849957,
     "geom:longitude":12.790223,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Risara 61025 Montelabbate",
     "sg:city":"Montelabbate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286543637,
-    "wof:lastmodified":1449015736,
+    "wof:lastmodified":1466293237,
     "wof:name":"Maglificio Condor Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.790223,43.849957,12.790223,43.849957],
+  "bbox": [
+    12.790223,
+    43.849957,
+    12.790223,
+    43.849957
+],
   "geometry": {"coordinates":[12.790223,43.849957],"type":"Point"}
 }

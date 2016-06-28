@@ -2,13 +2,14 @@
   "id": 236148051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.761815,45.329319,8.761815,45.329319",
     "geom:latitude":45.329319,
     "geom:longitude":8.761815,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48, Via Circonvallazione 27020 Gravellona Lomellina",
     "sg:city":"Gravellona Lomellina",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236148051,
-    "wof:lastmodified":1449004625,
+    "wof:lastmodified":1466290356,
     "wof:name":"Cantine E. Silva Di Silva R. & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [8.761815,45.329319,8.761815,45.329319],
+  "bbox": [
+    8.761815,
+    45.329319,
+    8.761815,
+    45.329319
+],
   "geometry": {"coordinates":[8.761815,45.329319],"type":"Point"}
 }

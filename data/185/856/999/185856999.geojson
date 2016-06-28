@@ -2,13 +2,14 @@
   "id": 185856999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.789685,45.598,7.789685,45.598",
     "geom:latitude":45.598,
     "geom:longitude":7.789685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Circonvallazione, 15/a; Pont S. Martin; 11026",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185856999,
-    "wof:lastmodified":1449007072,
+    "wof:lastmodified":1466289646,
     "wof:name":"Banca Sella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.789685,45.598,7.789685,45.598],
+  "bbox": [
+    7.789685,
+    45.598,
+    7.789685,
+    45.598
+],
   "geometry": {"coordinates":[7.789685,45.598],"type":"Point"}
 }

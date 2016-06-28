@@ -2,13 +2,14 @@
   "id": 185657347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.537631,41.962063,13.537631,41.962063",
     "geom:latitude":41.962063,
     "geom:longitude":13.537631,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavour 21, 67059 Trasacco, Aq",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185657347,
-    "wof:lastmodified":1449006787,
+    "wof:lastmodified":1466295029,
     "wof:name":"Banca Di Credito Cooperativo Di Trasacco Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.537631,41.962063,13.537631,41.962063],
+  "bbox": [
+    13.537631,
+    41.962063,
+    13.537631,
+    41.962063
+],
   "geometry": {"coordinates":[13.537631,41.962063],"type":"Point"}
 }

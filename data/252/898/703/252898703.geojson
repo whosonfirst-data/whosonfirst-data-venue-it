@@ -2,13 +2,14 @@
   "id": 252898703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.475546,45.182945,8.475546,45.182945",
     "geom:latitude":45.182945,
     "geom:longitude":8.475546,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15030 Villanova Monferrato",
     "sg:city":"Villanova Monferrato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252898703,
-    "wof:lastmodified":1449005381,
+    "wof:lastmodified":1466291013,
     "wof:name":"Byem Estintori Di La Mantia Domenico & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.475546,45.182945,8.475546,45.182945],
+  "bbox": [
+    8.475546,
+    45.182945,
+    8.475546,
+    45.182945
+],
   "geometry": {"coordinates":[8.475546,45.182945],"type":"Point"}
 }

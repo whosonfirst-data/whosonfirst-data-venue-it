@@ -2,13 +2,14 @@
   "id": 253634173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.751143,44.431358,8.751143,44.431358",
     "geom:latitude":44.431358,
     "geom:longitude":8.751143,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16158 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253634173,
-    "wof:lastmodified":1449064234,
+    "wof:lastmodified":1466296417,
     "wof:name":"Lavanderia Express",
     "wof:parent_id":85796925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.751143,44.431358,8.751143,44.431358],
+  "bbox": [
+    8.751143,
+    44.431358,
+    8.751143,
+    44.431358
+],
   "geometry": {"coordinates":[8.751143,44.431358],"type":"Point"}
 }

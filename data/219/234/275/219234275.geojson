@@ -2,13 +2,14 @@
   "id": 219234275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171674,45.482246,9.171674,45.482246",
     "geom:latitude":45.482246,
     "geom:longitude":9.171674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bertini Giovanni Battista 13 20154 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219234275,
-    "wof:lastmodified":1449073715,
+    "wof:lastmodified":1466295902,
     "wof:name":"Best Sound Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171674,45.482246,9.171674,45.482246],
+  "bbox": [
+    9.171674,
+    45.482246,
+    9.171674,
+    45.482246
+],
   "geometry": {"coordinates":[9.171674,45.482246],"type":"Point"}
 }

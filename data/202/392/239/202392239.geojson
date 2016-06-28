@@ -2,13 +2,14 @@
   "id": 202392239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.661452,45.956367,12.661452,45.956367",
     "geom:latitude":45.956367,
     "geom:longitude":12.661452,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33170 Pordenone",
     "sg:city":"Pordenone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202392239,
-    "wof:lastmodified":1449062158,
+    "wof:lastmodified":1466294281,
     "wof:name":"Istituto Scolastico Parini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.661452,45.956367,12.661452,45.956367],
+  "bbox": [
+    12.661452,
+    45.956367,
+    12.661452,
+    45.956367
+],
   "geometry": {"coordinates":[12.661452,45.956367],"type":"Point"}
 }

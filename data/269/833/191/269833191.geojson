@@ -2,13 +2,14 @@
   "id": 269833191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.268367,37.070976,15.268367,37.070976",
     "geom:latitude":37.070976,
     "geom:longitude":15.268367,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Necropoli Del Fusco 96100 Siracusa",
     "sg:city":"Siracusa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269833191,
-    "wof:lastmodified":1449036443,
+    "wof:lastmodified":1466293410,
     "wof:name":"Consorzio Agrario Interprovinciale Di Ragusa E Siracusa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [15.268367,37.070976,15.268367,37.070976],
+  "bbox": [
+    15.268367,
+    37.070976,
+    15.268367,
+    37.070976
+],
   "geometry": {"coordinates":[15.268367,37.070976],"type":"Point"}
 }

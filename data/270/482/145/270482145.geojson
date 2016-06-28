@@ -2,13 +2,14 @@
   "id": 270482145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.825027,45.674911,11.825027,45.674911",
     "geom:latitude":45.674911,
     "geom:longitude":11.825027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Po 7 35015 Galliera Veneta",
     "sg:city":"Galliera Veneta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270482145,
-    "wof:lastmodified":1449009518,
+    "wof:lastmodified":1466294846,
     "wof:name":"Legno Form Di Zandarin Fernando E C Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ship"
     ]
 },
-  "bbox": [11.825027,45.674911,11.825027,45.674911],
+  "bbox": [
+    11.825027,
+    45.674911,
+    11.825027,
+    45.674911
+],
   "geometry": {"coordinates":[11.825027,45.674911],"type":"Point"}
 }

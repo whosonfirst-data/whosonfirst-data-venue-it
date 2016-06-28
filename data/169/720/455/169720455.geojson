@@ -2,13 +2,14 @@
   "id": 169720455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.867517,45.447208,10.867517,45.447208",
     "geom:latitude":45.447208,
     "geom:longitude":10.867517,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Caduti Sul Lavoro 17/19 37012 Bussolengo",
     "sg:city":"Bussolengo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169720455,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1466294333,
     "wof:name":"Conti Snc Di Turella Ornella E C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bakery"
     ]
 },
-  "bbox": [10.867517,45.447208,10.867517,45.447208],
+  "bbox": [
+    10.867517,
+    45.447208,
+    10.867517,
+    45.447208
+],
   "geometry": {"coordinates":[10.867517,45.447208],"type":"Point"}
 }

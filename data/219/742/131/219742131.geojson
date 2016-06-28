@@ -2,13 +2,14 @@
   "id": 219742131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.241918,41.77243,12.241918,41.77243",
     "geom:latitude":41.77243,
     "geom:longitude":12.241918,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via La Valle Remo 00054 Fiumicino",
     "sg:city":"Fiumicino",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219742131,
-    "wof:lastmodified":1449070614,
+    "wof:lastmodified":1466293692,
     "wof:name":"Cipolli & Zannetti Trasporti Internazionali (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [12.241918,41.77243,12.241918,41.77243],
+  "bbox": [
+    12.241918,
+    41.77243,
+    12.241918,
+    41.77243
+],
   "geometry": {"coordinates":[12.241918,41.77243],"type":"Point"}
 }

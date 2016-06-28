@@ -2,13 +2,14 @@
   "id": 202492457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.241083,40.833092,14.241083,40.833092",
     "geom:latitude":40.833092,
     "geom:longitude":14.241083,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"287, V. Riviera Di Chiaia 80121 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202492457,
-    "wof:lastmodified":1449060111,
+    "wof:lastmodified":1466296243,
     "wof:name":"Augusta Offshore Spa",
     "wof:parent_id":85900291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sea"
     ]
 },
-  "bbox": [14.241083,40.833092,14.241083,40.833092],
+  "bbox": [
+    14.241083,
+    40.833092,
+    14.241083,
+    40.833092
+],
   "geometry": {"coordinates":[14.241083,40.833092],"type":"Point"}
 }

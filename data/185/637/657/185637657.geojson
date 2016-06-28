@@ -2,13 +2,14 @@
   "id": 185637657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.338376,44.496365,11.338376,44.496365",
     "geom:latitude":44.496365,
     "geom:longitude":11.338376,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Marconi 8, 40042 Lizzano In Belvedere, Bo",
     "sg:city":"Lizzano in Belvedere",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185637657,
-    "wof:lastmodified":1449006593,
+    "wof:lastmodified":1466294621,
     "wof:name":"Banca Di Credito Cooperativo Dell'alto Reno Scrl",
     "wof:parent_id":85904597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.338376,44.496365,11.338376,44.496365],
+  "bbox": [
+    11.338376,
+    44.496365,
+    11.338376,
+    44.496365
+],
   "geometry": {"coordinates":[11.338376,44.496365],"type":"Point"}
 }

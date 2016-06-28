@@ -2,13 +2,14 @@
   "id": 202550909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.307333,45.077862,9.307333,45.077862",
     "geom:latitude":45.077862,
     "geom:longitude":9.307333,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27049 Stradella",
     "sg:city":"Stradella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202550909,
-    "wof:lastmodified":1449061484,
+    "wof:lastmodified":1466289440,
     "wof:name":"Sami Di Pezone Domenico & Tonsino Salvatore S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.307333,45.077862,9.307333,45.077862],
+  "bbox": [
+    9.307333,
+    45.077862,
+    9.307333,
+    45.077862
+],
   "geometry": {"coordinates":[9.307333,45.077862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270117283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.434626,41.83033,12.434626,41.83033",
     "geom:latitude":41.83033,
     "geom:longitude":12.434626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00148 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270117283,
-    "wof:lastmodified":1449010330,
+    "wof:lastmodified":1466290392,
     "wof:name":"Sea Srl",
     "wof:parent_id":85900349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.434626,41.83033,12.434626,41.83033],
+  "bbox": [
+    12.434626,
+    41.83033,
+    12.434626,
+    41.83033
+],
   "geometry": {"coordinates":[12.434626,41.83033],"type":"Point"}
 }

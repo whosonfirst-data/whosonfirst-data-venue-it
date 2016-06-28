@@ -2,13 +2,14 @@
   "id": 270200129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.050423,45.743351,9.050423,45.743351",
     "geom:latitude":45.743351,
     "geom:longitude":9.050423,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22073 Fino Mornasco",
     "sg:city":"Fino Mornasco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270200129,
-    "wof:lastmodified":1449009613,
+    "wof:lastmodified":1466291404,
     "wof:name":"Macelleria Pellegrini Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.050423,45.743351,9.050423,45.743351],
+  "bbox": [
+    9.050423,
+    45.743351,
+    9.050423,
+    45.743351
+],
   "geometry": {"coordinates":[9.050423,45.743351],"type":"Point"}
 }

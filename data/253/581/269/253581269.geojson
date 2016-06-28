@@ -2,13 +2,14 @@
   "id": 253581269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.650888,44.965981,7.650888,44.965981",
     "geom:latitude":44.965981,
     "geom:longitude":7.650888,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Moncalieri 99/15d 10048 Vinovo",
     "sg:city":"Vinovo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253581269,
-    "wof:lastmodified":1449063435,
+    "wof:lastmodified":1466295712,
     "wof:name":"A.b. Chimica S.r.l.",
     "wof:parent_id":85797015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lacquer"
     ]
 },
-  "bbox": [7.650888,44.965981,7.650888,44.965981],
+  "bbox": [
+    7.650888,
+    44.965981,
+    7.650888,
+    44.965981
+],
   "geometry": {"coordinates":[7.650888,44.965981],"type":"Point"}
 }

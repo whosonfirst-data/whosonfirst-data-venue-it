@@ -2,13 +2,14 @@
   "id": 286380233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.440986,41.946659,12.440986,41.946659",
     "geom:latitude":41.946659,
     "geom:longitude":12.440986,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00135 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286380233,
-    "wof:lastmodified":1449016554,
+    "wof:lastmodified":1466291148,
     "wof:name":"Time Out Cinematografica Srl",
     "wof:parent_id":85904921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.440986,41.946659,12.440986,41.946659],
+  "bbox": [
+    12.440986,
+    41.946659,
+    12.440986,
+    41.946659
+],
   "geometry": {"coordinates":[12.440986,41.946659],"type":"Point"}
 }

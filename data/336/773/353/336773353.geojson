@@ -2,13 +2,14 @@
   "id": 336773353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.595469,40.012913,8.595469,40.012913",
     "geom:latitude":40.012913,
     "geom:longitude":8.595469,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Putzu Idu 09070 San Vero Milis",
     "sg:city":"Milis",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336773353,
-    "wof:lastmodified":1448997062,
+    "wof:lastmodified":1466295800,
     "wof:name":"Seda Giuseppino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.595469,40.012913,8.595469,40.012913],
+  "bbox": [
+    8.595469,
+    40.012913,
+    8.595469,
+    40.012913
+],
   "geometry": {"coordinates":[8.595469,40.012913],"type":"Point"}
 }

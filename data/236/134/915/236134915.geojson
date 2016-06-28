@@ -2,13 +2,14 @@
   "id": 236134915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.389172,43.110703,12.389172,43.110703",
     "geom:latitude":43.110703,
     "geom:longitude":12.389172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Vocabolo S. Angelo 06030 Sellano",
     "sg:city":"Sellano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236134915,
-    "wof:lastmodified":1449005031,
+    "wof:lastmodified":1466290229,
     "wof:name":"Acqua Minerale Fonte Tullia Tulli Acque Minerali (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [12.389172,43.110703,12.389172,43.110703],
+  "bbox": [
+    12.389172,
+    43.110703,
+    12.389172,
+    43.110703
+],
   "geometry": {"coordinates":[12.389172,43.110703],"type":"Point"}
 }

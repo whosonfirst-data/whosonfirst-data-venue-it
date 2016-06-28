@@ -2,13 +2,14 @@
   "id": 286585265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.781174,41.130447,14.781174,41.130447",
     "geom:latitude":41.130447,
     "geom:longitude":14.781174,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sorgente 82034 Guardia Sanframondi",
     "sg:city":"Guardia Sanframondi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286585265,
-    "wof:lastmodified":1449017148,
+    "wof:lastmodified":1466293741,
     "wof:name":"Sanzari Diego",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [14.781174,41.130447,14.781174,41.130447],
+  "bbox": [
+    14.781174,
+    41.130447,
+    14.781174,
+    41.130447
+],
   "geometry": {"coordinates":[14.781174,41.130447],"type":"Point"}
 }

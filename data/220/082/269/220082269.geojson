@@ -2,13 +2,14 @@
   "id": 220082269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.957159,45.354099,11.957159,45.354099",
     "geom:latitude":45.354099,
     "geom:longitude":11.957159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Leonardo Da Vinci 20 35028 Piove Di Sacco",
     "sg:city":"Piove di Sacco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220082269,
-    "wof:lastmodified":1449074083,
+    "wof:lastmodified":1466295685,
     "wof:name":"Nesite Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "flooring"
     ]
 },
-  "bbox": [11.957159,45.354099,11.957159,45.354099],
+  "bbox": [
+    11.957159,
+    45.354099,
+    11.957159,
+    45.354099
+],
   "geometry": {"coordinates":[11.957159,45.354099],"type":"Point"}
 }

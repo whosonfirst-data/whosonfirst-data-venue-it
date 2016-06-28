@@ -2,13 +2,14 @@
   "id": 185777369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.174537,45.483612,10.174537,45.483612",
     "geom:latitude":45.483612,
     "geom:longitude":10.174537,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Flero; 25020",
     "sg:city":"Flero",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185777369,
-    "wof:lastmodified":1449007475,
+    "wof:lastmodified":1466289134,
     "wof:name":"Banca Popolare Di Brescia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.174537,45.483612,10.174537,45.483612],
+  "bbox": [
+    10.174537,
+    45.483612,
+    10.174537,
+    45.483612
+],
   "geometry": {"coordinates":[10.174537,45.483612],"type":"Point"}
 }

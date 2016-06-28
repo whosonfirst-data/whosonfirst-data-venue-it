@@ -2,13 +2,14 @@
   "id": 253574173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.304342,44.641808,10.304342,44.641808",
     "geom:latitude":44.641808,
     "geom:longitude":10.304342,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43029 Traversetolo",
     "sg:city":"Traversetolo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253574173,
-    "wof:lastmodified":1449062808,
+    "wof:lastmodified":1466295613,
     "wof:name":"Bandini Di Giorgio Bandini & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.304342,44.641808,10.304342,44.641808],
+  "bbox": [
+    10.304342,
+    44.641808,
+    10.304342,
+    44.641808
+],
   "geometry": {"coordinates":[10.304342,44.641808],"type":"Point"}
 }

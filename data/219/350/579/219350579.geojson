@@ -2,13 +2,14 @@
   "id": 219350579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.678555,45.053406,7.678555,45.053406",
     "geom:latitude":45.053406,
     "geom:longitude":7.678555,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10125 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219350579,
-    "wof:lastmodified":1449072183,
+    "wof:lastmodified":1466289812,
     "wof:name":"Aquashop S.a.s.",
     "wof:parent_id":85796951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "il"
     ]
 },
-  "bbox": [7.678555,45.053406,7.678555,45.053406],
+  "bbox": [
+    7.678555,
+    45.053406,
+    7.678555,
+    45.053406
+],
   "geometry": {"coordinates":[7.678555,45.053406],"type":"Point"}
 }

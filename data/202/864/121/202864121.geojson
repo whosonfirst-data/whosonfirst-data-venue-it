@@ -2,13 +2,14 @@
   "id": 202864121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.964194,45.880192,9.964194,45.880192",
     "geom:latitude":45.880192,
     "geom:longitude":9.964194,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24023 Clusone",
     "sg:city":"Clusone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202864121,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466292837,
     "wof:name":"Visini Eugenio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.964194,45.880192,9.964194,45.880192],
+  "bbox": [
+    9.964194,
+    45.880192,
+    9.964194,
+    45.880192
+],
   "geometry": {"coordinates":[9.964194,45.880192],"type":"Point"}
 }

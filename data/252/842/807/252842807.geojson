@@ -2,13 +2,14 @@
   "id": 252842807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.439545,45.497913,11.439545,45.497913",
     "geom:latitude":45.497913,
     "geom:longitude":11.439545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36075 Montecchio Maggiore",
     "sg:city":"Alte ceccato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252842807,
-    "wof:lastmodified":1449005490,
+    "wof:lastmodified":1466290421,
     "wof:name":"Fimez Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.439545,45.497913,11.439545,45.497913],
+  "bbox": [
+    11.439545,
+    45.497913,
+    11.439545,
+    45.497913
+],
   "geometry": {"coordinates":[11.439545,45.497913],"type":"Point"}
 }

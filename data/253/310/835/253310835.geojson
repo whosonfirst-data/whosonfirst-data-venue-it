@@ -2,13 +2,14 @@
   "id": 253310835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.208926,43.715137,13.208926,43.715137",
     "geom:latitude":43.715137,
     "geom:longitude":13.208926,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60019 Senigallia",
     "sg:city":"Senigallia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253310835,
-    "wof:lastmodified":1449064632,
+    "wof:lastmodified":1466292346,
     "wof:name":"Azienda Unita' Sanitaria Locale N. 4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.208926,43.715137,13.208926,43.715137],
+  "bbox": [
+    13.208926,
+    43.715137,
+    13.208926,
+    43.715137
+],
   "geometry": {"coordinates":[13.208926,43.715137],"type":"Point"}
 }

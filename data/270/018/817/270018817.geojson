@@ -2,13 +2,14 @@
   "id": 270018817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.323449,41.068142,14.323449,41.068142",
     "geom:latitude":41.068142,
     "geom:longitude":14.323449,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Enrico Mattei 4 81100 Caserta",
     "sg:city":"Caserta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270018817,
-    "wof:lastmodified":1449009858,
+    "wof:lastmodified":1466289219,
     "wof:name":"Idromodul Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "strip"
     ]
 },
-  "bbox": [14.323449,41.068142,14.323449,41.068142],
+  "bbox": [
+    14.323449,
+    41.068142,
+    14.323449,
+    41.068142
+],
   "geometry": {"coordinates":[14.323449,41.068142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269923295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.812659,45.705746,8.812659,45.705746",
     "geom:latitude":45.705746,
     "geom:longitude":8.812659,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Per Solbiate 49 21040 Oggiona Con Santo Stefano",
     "sg:city":"Oggiona",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269923295,
-    "wof:lastmodified":1449038870,
+    "wof:lastmodified":1466294409,
     "wof:name":"Filiberti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "air-conditioners"
     ]
 },
-  "bbox": [8.812659,45.705746,8.812659,45.705746],
+  "bbox": [
+    8.812659,
+    45.705746,
+    8.812659,
+    45.705746
+],
   "geometry": {"coordinates":[8.812659,45.705746],"type":"Point"}
 }

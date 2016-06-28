@@ -2,13 +2,14 @@
   "id": 186019867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.289098,45.356796,11.289098,45.356796",
     "geom:latitude":45.356796,
     "geom:longitude":11.289098,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Padovana 124; S. Bonifacio; 37047",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186019867,
-    "wof:lastmodified":1449051922,
+    "wof:lastmodified":1466294079,
     "wof:name":"Cassa Di Risparmio Di Verona Vicenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.289098,45.356796,11.289098,45.356796],
+  "bbox": [
+    11.289098,
+    45.356796,
+    11.289098,
+    45.356796
+],
   "geometry": {"coordinates":[11.289098,45.356796],"type":"Point"}
 }

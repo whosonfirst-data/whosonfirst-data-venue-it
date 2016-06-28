@@ -2,13 +2,14 @@
   "id": 320850249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.022512,45.701065,9.022512,45.701065",
     "geom:latitude":45.701065,
     "geom:longitude":9.022512,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Del Seprio 22074 Lomazzo",
     "sg:city":"Lomazzo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320850249,
-    "wof:lastmodified":1449013421,
+    "wof:lastmodified":1466298292,
     "wof:name":"Invensys Controls Italy Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "measurement"
     ]
 },
-  "bbox": [9.022512,45.701065,9.022512,45.701065],
+  "bbox": [
+    9.022512,
+    45.701065,
+    9.022512,
+    45.701065
+],
   "geometry": {"coordinates":[9.022512,45.701065],"type":"Point"}
 }

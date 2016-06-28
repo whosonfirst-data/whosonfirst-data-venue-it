@@ -2,13 +2,14 @@
   "id": 236623775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.296602,42.299423,13.296602,42.299423",
     "geom:latitude":42.299423,
     "geom:longitude":13.296602,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via S. Bartolomeo 67049 Tornimparte",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236623775,
-    "wof:lastmodified":1449004069,
+    "wof:lastmodified":1466295233,
     "wof:name":"Micarelli Pierina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.296602,42.299423,13.296602,42.299423],
+  "bbox": [
+    13.296602,
+    42.299423,
+    13.296602,
+    42.299423
+],
   "geometry": {"coordinates":[13.296602,42.299423],"type":"Point"}
 }

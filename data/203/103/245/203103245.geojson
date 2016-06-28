@@ -2,13 +2,14 @@
   "id": 203103245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.342116,44.798885,10.342116,44.798885",
     "geom:latitude":44.798885,
     "geom:longitude":10.342116,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43011 Busseto",
     "sg:city":"Busseto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203103245,
-    "wof:lastmodified":1449026137,
+    "wof:lastmodified":1466288921,
     "wof:name":"Show Room Della Tenda Di Pelizzoni Geom. Leonardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.342116,44.798885,10.342116,44.798885],
+  "bbox": [
+    10.342116,
+    44.798885,
+    10.342116,
+    44.798885
+],
   "geometry": {"coordinates":[10.342116,44.798885],"type":"Point"}
 }

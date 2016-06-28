@@ -2,13 +2,14 @@
   "id": 253121549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.071511,45.529789,9.071511,45.529789",
     "geom:latitude":45.529789,
     "geom:longitude":9.071511,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253121549,
-    "wof:lastmodified":1449065105,
+    "wof:lastmodified":1466290174,
     "wof:name":"Bis Italia (s.r.l.)",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.071511,45.529789,9.071511,45.529789],
+  "bbox": [
+    9.071511,
+    45.529789,
+    9.071511,
+    45.529789
+],
   "geometry": {"coordinates":[9.071511,45.529789],"type":"Point"}
 }

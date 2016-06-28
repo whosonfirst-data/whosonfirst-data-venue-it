@@ -2,13 +2,14 @@
   "id": 303425853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.247463,45.599705,9.247463,45.599705",
     "geom:latitude":45.599705,
     "geom:longitude":9.247463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fortuna 21 20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303425853,
-    "wof:lastmodified":1448998981,
+    "wof:lastmodified":1466295760,
     "wof:name":"Gariboldi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [9.247463,45.599705,9.247463,45.599705],
+  "bbox": [
+    9.247463,
+    45.599705,
+    9.247463,
+    45.599705
+],
   "geometry": {"coordinates":[9.247463,45.599705],"type":"Point"}
 }

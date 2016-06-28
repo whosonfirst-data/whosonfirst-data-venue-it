@@ -2,13 +2,14 @@
   "id": 269962705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.374512,46.463772,10.374512,46.463772",
     "geom:latitude":46.463772,
     "geom:longitude":10.374512,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23032 Bormio",
     "sg:city":"Bormio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269962705,
-    "wof:lastmodified":1449037561,
+    "wof:lastmodified":1466294844,
     "wof:name":"Alberghi Capitani Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.374512,46.463772,10.374512,46.463772],
+  "bbox": [
+    10.374512,
+    46.463772,
+    10.374512,
+    46.463772
+],
   "geometry": {"coordinates":[10.374512,46.463772],"type":"Point"}
 }

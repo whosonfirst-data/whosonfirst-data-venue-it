@@ -2,13 +2,14 @@
   "id": 186385909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.06329,37.48991,14.06329,37.48991",
     "geom:latitude":37.48991,
     "geom:longitude":14.06329,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93018 S. Caterina Villarmosa",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186385909,
-    "wof:lastmodified":1449051963,
+    "wof:lastmodified":1466291230,
     "wof:name":"La Placa F.lli Snc Antico Forno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "biscotti"
     ]
 },
-  "bbox": [14.06329,37.48991,14.06329,37.48991],
+  "bbox": [
+    14.06329,
+    37.48991,
+    14.06329,
+    37.48991
+],
   "geometry": {"coordinates":[14.06329,37.48991],"type":"Point"}
 }

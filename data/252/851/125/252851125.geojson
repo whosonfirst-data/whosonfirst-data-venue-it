@@ -2,13 +2,14 @@
   "id": 252851125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.202526,44.409332,12.202526,44.409332",
     "geom:latitude":44.409332,
     "geom:longitude":12.202526,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48022 Lugo",
     "sg:city":"Lugo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252851125,
-    "wof:lastmodified":1449006118,
+    "wof:lastmodified":1466290502,
     "wof:name":"Antincendio Lughese Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.202526,44.409332,12.202526,44.409332],
+  "bbox": [
+    12.202526,
+    44.409332,
+    12.202526,
+    44.409332
+],
   "geometry": {"coordinates":[12.202526,44.409332],"type":"Point"}
 }

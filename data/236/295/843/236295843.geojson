@@ -2,13 +2,14 @@
   "id": 236295843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.951184,43.879807,7.951184,43.879807",
     "geom:latitude":43.879807,
     "geom:longitude":7.951184,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18039 Ventimiglia",
     "sg:city":"Ventimiglia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236295843,
-    "wof:lastmodified":1449002903,
+    "wof:lastmodified":1466291898,
     "wof:name":"F.m. Mobili Di Marra Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.951184,43.879807,7.951184,43.879807],
+  "bbox": [
+    7.951184,
+    43.879807,
+    7.951184,
+    43.879807
+],
   "geometry": {"coordinates":[7.951184,43.879807],"type":"Point"}
 }

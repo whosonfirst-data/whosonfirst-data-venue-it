@@ -2,13 +2,14 @@
   "id": 320781829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.511457,45.508476,11.511457,45.508476",
     "geom:latitude":45.508476,
     "geom:longitude":11.511457,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36057 Arcugnano",
     "sg:city":"Arcugnano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320781829,
-    "wof:lastmodified":1449011963,
+    "wof:lastmodified":1466298139,
     "wof:name":"Aluveneta Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.511457,45.508476,11.511457,45.508476],
+  "bbox": [
+    11.511457,
+    45.508476,
+    11.511457,
+    45.508476
+],
   "geometry": {"coordinates":[11.511457,45.508476],"type":"Point"}
 }

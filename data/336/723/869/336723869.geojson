@@ -2,13 +2,14 @@
   "id": 336723869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.231276,43.818832,11.231276,43.818832",
     "geom:latitude":43.818832,
     "geom:longitude":11.231276,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, V. Del Pontormo 50141 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336723869,
-    "wof:lastmodified":1448997570,
+    "wof:lastmodified":1466295204,
     "wof:name":"Multigel Srl",
     "wof:parent_id":85904659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.231276,43.818832,11.231276,43.818832],
+  "bbox": [
+    11.231276,
+    43.818832,
+    11.231276,
+    43.818832
+],
   "geometry": {"coordinates":[11.231276,43.818832],"type":"Point"}
 }

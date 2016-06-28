@@ -2,13 +2,14 @@
   "id": 236781199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.646281,45.65683,9.646281,45.65683",
     "geom:latitude":45.65683,
     "geom:longitude":9.646281,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Santuario 24040 Levate",
     "sg:city":"Levate",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236781199,
-    "wof:lastmodified":1449002139,
+    "wof:lastmodified":1466296484,
     "wof:name":"Ala (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.646281,45.65683,9.646281,45.65683],
+  "bbox": [
+    9.646281,
+    45.65683,
+    9.646281,
+    45.65683
+],
   "geometry": {"coordinates":[9.646281,45.65683],"type":"Point"}
 }

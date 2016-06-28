@@ -2,13 +2,14 @@
   "id": 319973335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.606388,45.647034,9.606388,45.647034",
     "geom:latitude":45.647034,
     "geom:longitude":9.606388,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24124 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319973335,
-    "wof:lastmodified":1449024562,
+    "wof:lastmodified":1466294462,
     "wof:name":"Autoscuola Agenzia Prima Snc Di Tombini Giovanna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.606388,45.647034,9.606388,45.647034],
+  "bbox": [
+    9.606388,
+    45.647034,
+    9.606388,
+    45.647034
+],
   "geometry": {"coordinates":[9.606388,45.647034],"type":"Point"}
 }

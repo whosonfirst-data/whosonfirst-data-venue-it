@@ -2,13 +2,14 @@
   "id": 219814825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.027307,43.913475,8.027307,43.913475",
     "geom:latitude":43.913475,
     "geom:longitude":8.027307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18027 Pontedassio",
     "sg:city":"Pontedassio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219814825,
-    "wof:lastmodified":1449071038,
+    "wof:lastmodified":1466294426,
     "wof:name":"Ditta Podest\u00c0 Di Podest\u00c0 M. & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.027307,43.913475,8.027307,43.913475],
+  "bbox": [
+    8.027307,
+    43.913475,
+    8.027307,
+    43.913475
+],
   "geometry": {"coordinates":[8.027307,43.913475],"type":"Point"}
 }

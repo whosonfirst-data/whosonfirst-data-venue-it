@@ -2,13 +2,14 @@
   "id": 220082311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.911825,44.516171,10.911825,44.516171",
     "geom:latitude":44.516171,
     "geom:longitude":10.911825,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Croce 5/d 41014 Castelvetro Di Modena",
     "sg:city":"Castelvetro di Modena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220082311,
-    "wof:lastmodified":1449074081,
+    "wof:lastmodified":1466295687,
     "wof:name":"Flaviker Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "flooring"
     ]
 },
-  "bbox": [10.911825,44.516171,10.911825,44.516171],
+  "bbox": [
+    10.911825,
+    44.516171,
+    10.911825,
+    44.516171
+],
   "geometry": {"coordinates":[10.911825,44.516171],"type":"Point"}
 }

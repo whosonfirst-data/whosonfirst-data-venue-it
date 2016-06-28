@@ -2,13 +2,14 @@
   "id": 320693577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.149301,45.524506,9.149301,45.524506",
     "geom:latitude":45.524506,
     "geom:longitude":9.149301,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20026 Novate Milanese",
     "sg:city":"Novate Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320693577,
-    "wof:lastmodified":1449011466,
+    "wof:lastmodified":1466297998,
     "wof:name":"Industria Lombarda Materiale Elettrico Spa",
     "wof:parent_id":85862707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.149301,45.524506,9.149301,45.524506],
+  "bbox": [
+    9.149301,
+    45.524506,
+    9.149301,
+    45.524506
+],
   "geometry": {"coordinates":[9.149301,45.524506],"type":"Point"}
 }

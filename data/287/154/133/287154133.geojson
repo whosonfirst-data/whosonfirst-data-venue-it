@@ -2,13 +2,14 @@
   "id": 287154133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.266237,42.272713,12.266237,42.272713",
     "geom:latitude":42.272713,
     "geom:longitude":12.266237,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01037 Ronciglione",
     "sg:city":"Ronciglione",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287154133,
-    "wof:lastmodified":1449001600,
+    "wof:lastmodified":1466291632,
     "wof:name":"Musetti Francesco Rosato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.266237,42.272713,12.266237,42.272713],
+  "bbox": [
+    12.266237,
+    42.272713,
+    12.266237,
+    42.272713
+],
   "geometry": {"coordinates":[12.266237,42.272713],"type":"Point"}
 }

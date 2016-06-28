@@ -2,13 +2,14 @@
   "id": 320851545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.398293,46.240219,10.398293,46.240219",
     "geom:latitude":46.240219,
     "geom:longitude":10.398293,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Roma 25059 Vezza D'oglio",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320851545,
-    "wof:lastmodified":1449013727,
+    "wof:lastmodified":1466298295,
     "wof:name":"Mesit Mittel European Sensor Istruments Tecnology S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "measurement"
     ]
 },
-  "bbox": [10.398293,46.240219,10.398293,46.240219],
+  "bbox": [
+    10.398293,
+    46.240219,
+    10.398293,
+    46.240219
+],
   "geometry": {"coordinates":[10.398293,46.240219],"type":"Point"}
 }

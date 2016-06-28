@@ -2,13 +2,14 @@
   "id": 219489059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.607123,36.945431,14.607123,36.945431",
     "geom:latitude":36.945431,
     "geom:longitude":14.607123,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97013 Comiso",
     "sg:city":"Comiso",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219489059,
-    "wof:lastmodified":1449072304,
+    "wof:lastmodified":1466291300,
     "wof:name":"Cassibba Arch. Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.607123,36.945431,14.607123,36.945431],
+  "bbox": [
+    14.607123,
+    36.945431,
+    14.607123,
+    36.945431
+],
   "geometry": {"coordinates":[14.607123,36.945431],"type":"Point"}
 }

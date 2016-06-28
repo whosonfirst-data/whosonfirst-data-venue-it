@@ -2,13 +2,14 @@
   "id": 202581833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.195748,45.901199,10.195748,45.901199",
     "geom:latitude":45.901199,
     "geom:longitude":10.195748,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25047 Darfo Boario Terme",
     "sg:city":"Darfo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202581833,
-    "wof:lastmodified":1449060652,
+    "wof:lastmodified":1466289745,
     "wof:name":"Stabil Italia Di Canobbio Luca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.195748,45.901199,10.195748,45.901199],
+  "bbox": [
+    10.195748,
+    45.901199,
+    10.195748,
+    45.901199
+],
   "geometry": {"coordinates":[10.195748,45.901199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286499031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.381725,44.478401,11.381725,44.478401",
     "geom:latitude":44.478401,
     "geom:longitude":11.381725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3/a, V. Friuli Venezia Giulia 40139 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286499031,
-    "wof:lastmodified":1449015725,
+    "wof:lastmodified":1466292697,
     "wof:name":"Daniela Drei",
     "wof:parent_id":85900423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.381725,44.478401,11.381725,44.478401],
+  "bbox": [
+    11.381725,
+    44.478401,
+    11.381725,
+    44.478401
+],
   "geometry": {"coordinates":[11.381725,44.478401],"type":"Point"}
 }

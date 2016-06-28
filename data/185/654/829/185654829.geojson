@@ -2,13 +2,14 @@
   "id": 185654829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.019928,38.574062,16.019928,38.574062",
     "geom:latitude":38.574062,
     "geom:longitude":16.019928,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Riposo 7, 88010 San Calogero, Vv",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185654829,
-    "wof:lastmodified":1449007144,
+    "wof:lastmodified":1466294982,
     "wof:name":"Banca Di Credito Cooperativo Di San Calogero Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.019928,38.574062,16.019928,38.574062],
+  "bbox": [
+    16.019928,
+    38.574062,
+    16.019928,
+    38.574062
+],
   "geometry": {"coordinates":[16.019928,38.574062],"type":"Point"}
 }

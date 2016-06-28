@@ -2,13 +2,14 @@
   "id": 269926905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.104858,45.665451,13.104858,45.665451",
     "geom:latitude":45.665451,
     "geom:longitude":13.104858,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33054 Lignano Sabbiadoro",
     "sg:city":"Lignano Sabbiadoro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269926905,
-    "wof:lastmodified":1449036978,
+    "wof:lastmodified":1466294454,
     "wof:name":"Agenzia Immobiliare Maa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.104858,45.665451,13.104858,45.665451],
+  "bbox": [
+    13.104858,
+    45.665451,
+    13.104858,
+    45.665451
+],
   "geometry": {"coordinates":[13.104858,45.665451],"type":"Point"}
 }

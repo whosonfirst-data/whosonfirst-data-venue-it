@@ -2,13 +2,14 @@
   "id": 286290491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.190084,43.820202,11.190084,43.820202",
     "geom:latitude":43.820202,
     "geom:longitude":11.190084,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Osmannoro 50019 Sesto Fiorentino",
     "sg:city":"Osmannoro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286290491,
-    "wof:lastmodified":1449016444,
+    "wof:lastmodified":1466289811,
     "wof:name":"Baxter Manufacturing S.p.a.",
     "wof:parent_id":85904645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [11.190084,43.820202,11.190084,43.820202],
+  "bbox": [
+    11.190084,
+    43.820202,
+    11.190084,
+    43.820202
+],
   "geometry": {"coordinates":[11.190084,43.820202],"type":"Point"}
 }

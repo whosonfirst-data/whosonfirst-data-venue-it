@@ -2,13 +2,14 @@
   "id": 236660197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.60705,43.615025,10.60705,43.615025",
     "geom:latitude":43.615025,
     "geom:longitude":10.60705,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Via Sicilia 56035 Lari",
     "sg:city":"Lari",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236660197,
-    "wof:lastmodified":1449004834,
+    "wof:lastmodified":1466295570,
     "wof:name":"Signorini Fratelli (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [10.60705,43.615025,10.60705,43.615025],
+  "bbox": [
+    10.60705,
+    43.615025,
+    10.60705,
+    43.615025
+],
   "geometry": {"coordinates":[10.60705,43.615025],"type":"Point"}
 }

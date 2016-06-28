@@ -2,13 +2,14 @@
   "id": 320767181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.157935,45.204906,9.157935,45.204906",
     "geom:latitude":45.204906,
     "geom:longitude":9.157935,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320767181,
-    "wof:lastmodified":1449012326,
+    "wof:lastmodified":1466298108,
     "wof:name":"Sabbie Sataf Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.157935,45.204906,9.157935,45.204906],
+  "bbox": [
+    9.157935,
+    45.204906,
+    9.157935,
+    45.204906
+],
   "geometry": {"coordinates":[9.157935,45.204906],"type":"Point"}
 }

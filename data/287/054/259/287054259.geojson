@@ -2,13 +2,14 @@
   "id": 287054259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.880793,45.468178,11.880793,45.468178",
     "geom:latitude":45.468178,
     "geom:longitude":11.880793,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ca' Zusto 99 35010 Vigodarzere",
     "sg:city":"Vigodarzere",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287054259,
-    "wof:lastmodified":1449001073,
+    "wof:lastmodified":1466290274,
     "wof:name":"C.m.p. Giochi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "plastic"
     ]
 },
-  "bbox": [11.880793,45.468178,11.880793,45.468178],
+  "bbox": [
+    11.880793,
+    45.468178,
+    11.880793,
+    45.468178
+],
   "geometry": {"coordinates":[11.880793,45.468178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303263157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.333115,41.056339,14.333115,41.056339",
     "geom:latitude":41.056339,
     "geom:longitude":14.333115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56, V. S. Croce 81020 San Nicola La Strada",
     "sg:city":"San Nicola la Strada",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303263157,
-    "wof:lastmodified":1449000495,
+    "wof:lastmodified":1466293773,
     "wof:name":"Espurghi San Nicola Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [14.333115,41.056339,14.333115,41.056339],
+  "bbox": [
+    14.333115,
+    41.056339,
+    14.333115,
+    41.056339
+],
   "geometry": {"coordinates":[14.333115,41.056339],"type":"Point"}
 }

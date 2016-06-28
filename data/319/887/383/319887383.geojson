@@ -2,13 +2,14 @@
   "id": 319887383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.105497,39.231052,9.105497,39.231052",
     "geom:latitude":39.231052,
     "geom:longitude":9.105497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09122 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319887383,
-    "wof:lastmodified":1449024724,
+    "wof:lastmodified":1466293387,
     "wof:name":"Archi-net Sas Di Langiu Antonello & C.",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.105497,39.231052,9.105497,39.231052],
+  "bbox": [
+    9.105497,
+    39.231052,
+    9.105497,
+    39.231052
+],
   "geometry": {"coordinates":[9.105497,39.231052],"type":"Point"}
 }

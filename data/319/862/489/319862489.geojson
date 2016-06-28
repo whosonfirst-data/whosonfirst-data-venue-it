@@ -2,13 +2,14 @@
   "id": 319862489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.765069,45.555107,8.765069,45.555107",
     "geom:latitude":45.555107,
     "geom:longitude":8.765069,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Modigliani 6 20022 Castano Primo",
     "sg:city":"Castano Primo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319862489,
-    "wof:lastmodified":1449024905,
+    "wof:lastmodified":1466293011,
     "wof:name":"New. Mec. Di Segreto Francesco & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automation"
     ]
 },
-  "bbox": [8.765069,45.555107,8.765069,45.555107],
+  "bbox": [
+    8.765069,
+    45.555107,
+    8.765069,
+    45.555107
+],
   "geometry": {"coordinates":[8.765069,45.555107],"type":"Point"}
 }

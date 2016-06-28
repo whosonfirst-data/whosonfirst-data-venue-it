@@ -2,13 +2,14 @@
   "id": 236790249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.354178,45.496162,10.354178,45.496162",
     "geom:latitude":45.496162,
     "geom:longitude":10.354178,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33, V. Padana Superiore 25080 Molinetto Di Mazzano",
     "sg:city":"Mazzano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236790249,
-    "wof:lastmodified":1449004320,
+    "wof:lastmodified":1466296657,
     "wof:name":"Stancanelli Fantasy Line Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.354178,45.496162,10.354178,45.496162],
+  "bbox": [
+    10.354178,
+    45.496162,
+    10.354178,
+    45.496162
+],
   "geometry": {"coordinates":[10.354178,45.496162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336923747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.489397,41.929234,12.489397,41.929234",
     "geom:latitude":41.929234,
     "geom:longitude":12.489397,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00197 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336923747,
-    "wof:lastmodified":1448997963,
+    "wof:lastmodified":1466296954,
     "wof:name":"D'ambrosio Massimo",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.489397,41.929234,12.489397,41.929234],
+  "bbox": [
+    12.489397,
+    41.929234,
+    12.489397,
+    41.929234
+],
   "geometry": {"coordinates":[12.489397,41.929234],"type":"Point"}
 }

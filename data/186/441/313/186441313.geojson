@@ -2,13 +2,14 @@
   "id": 186441313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.602743,43.233219,13.602743,43.233219",
     "geom:latitude":43.233219,
     "geom:longitude":13.602743,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via La Pira 10 62015 Monte San Giusto",
     "sg:city":"Monte San Giusto",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186441313,
-    "wof:lastmodified":1449050451,
+    "wof:lastmodified":1466291739,
     "wof:name":"Prefiniti F.lli Mazza Di Giulietti & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bottom"
     ]
 },
-  "bbox": [13.602743,43.233219,13.602743,43.233219],
+  "bbox": [
+    13.602743,
+    43.233219,
+    13.602743,
+    43.233219
+],
   "geometry": {"coordinates":[13.602743,43.233219],"type":"Point"}
 }

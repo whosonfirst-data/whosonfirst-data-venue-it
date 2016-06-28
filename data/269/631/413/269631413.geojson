@@ -2,13 +2,14 @@
   "id": 269631413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.122536,45.737793,12.122536,45.737793",
     "geom:latitude":45.737793,
     "geom:longitude":12.122536,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piavesella 6 31040 Trevignano",
     "sg:city":"Trevignano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269631413,
-    "wof:lastmodified":1449036892,
+    "wof:lastmodified":1466290712,
     "wof:name":"Offine Alpi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "belt"
     ]
 },
-  "bbox": [12.122536,45.737793,12.122536,45.737793],
+  "bbox": [
+    12.122536,
+    45.737793,
+    12.122536,
+    45.737793
+],
   "geometry": {"coordinates":[12.122536,45.737793],"type":"Point"}
 }

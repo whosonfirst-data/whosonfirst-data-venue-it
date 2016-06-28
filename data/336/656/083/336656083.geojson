@@ -2,13 +2,14 @@
   "id": 336656083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.621024,42.553715,12.621024,42.553715",
     "geom:latitude":42.553715,
     "geom:longitude":12.621024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Via Dell' Impresa 05100 Terni",
     "sg:city":"Terni",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336656083,
-    "wof:lastmodified":1448997633,
+    "wof:lastmodified":1466294403,
     "wof:name":"Environmental Systems S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.621024,42.553715,12.621024,42.553715],
+  "bbox": [
+    12.621024,
+    42.553715,
+    12.621024,
+    42.553715
+],
   "geometry": {"coordinates":[12.621024,42.553715],"type":"Point"}
 }

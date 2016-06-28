@@ -2,13 +2,14 @@
   "id": 320634257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.810169,45.532169,10.810169,45.532169",
     "geom:latitude":45.532169,
     "geom:longitude":10.810169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37020 Volargne",
     "sg:city":"Volargne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320634257,
-    "wof:lastmodified":1449013038,
+    "wof:lastmodified":1466297861,
     "wof:name":"Bindi Paolo & Leone Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.810169,45.532169,10.810169,45.532169],
+  "bbox": [
+    10.810169,
+    45.532169,
+    10.810169,
+    45.532169
+],
   "geometry": {"coordinates":[10.810169,45.532169],"type":"Point"}
 }

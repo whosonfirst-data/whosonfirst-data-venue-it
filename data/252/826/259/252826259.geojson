@@ -2,13 +2,14 @@
   "id": 252826259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.167664,40.88372,17.167664,40.88372",
     "geom:latitude":40.88372,
     "geom:longitude":17.167664,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70013 Castellana Grotte",
     "sg:city":"Castellana Grotte",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252826259,
-    "wof:lastmodified":1449006188,
+    "wof:lastmodified":1466290244,
     "wof:name":"L'uomottanta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.167664,40.88372,17.167664,40.88372],
+  "bbox": [
+    17.167664,
+    40.88372,
+    17.167664,
+    40.88372
+],
   "geometry": {"coordinates":[17.167664,40.88372],"type":"Point"}
 }

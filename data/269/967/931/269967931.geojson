@@ -2,13 +2,14 @@
   "id": 269967931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.621796,40.646893,14.621796,40.646893",
     "geom:latitude":40.646893,
     "geom:longitude":14.621796,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84010 Ravello",
     "sg:city":"Ravello",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269967931,
-    "wof:lastmodified":1449038801,
+    "wof:lastmodified":1466294899,
     "wof:name":"Albergo Marmorata Di S. Camera D'afflitto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.621796,40.646893,14.621796,40.646893],
+  "bbox": [
+    14.621796,
+    40.646893,
+    14.621796,
+    40.646893
+],
   "geometry": {"coordinates":[14.621796,40.646893],"type":"Point"}
 }

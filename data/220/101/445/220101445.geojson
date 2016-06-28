@@ -2,13 +2,14 @@
   "id": 220101445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.468517,45.043999,7.468517,45.043999",
     "geom:latitude":45.043999,
     "geom:longitude":7.468517,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Regione Zona Industriale 10090 Trana",
     "sg:city":"Trana",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220101445,
-    "wof:lastmodified":1449074465,
+    "wof:lastmodified":1466295960,
     "wof:name":"M.p. Di Bottasso Bartolomeo & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [7.468517,45.043999,7.468517,45.043999],
+  "bbox": [
+    7.468517,
+    45.043999,
+    7.468517,
+    45.043999
+],
   "geometry": {"coordinates":[7.468517,45.043999],"type":"Point"}
 }

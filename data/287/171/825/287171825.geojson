@@ -2,13 +2,14 @@
   "id": 287171825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.767398,43.884766,10.767398,43.884766",
     "geom:latitude":43.884766,
     "geom:longitude":10.767398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Roma N 52/54; Montecatini Terme; 51016",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287171825,
-    "wof:lastmodified":1449001594,
+    "wof:lastmodified":1466291872,
     "wof:name":"A.p.i.a. Ranieri Viaggi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.767398,43.884766,10.767398,43.884766],
+  "bbox": [
+    10.767398,
+    43.884766,
+    10.767398,
+    43.884766
+],
   "geometry": {"coordinates":[10.767398,43.884766],"type":"Point"}
 }

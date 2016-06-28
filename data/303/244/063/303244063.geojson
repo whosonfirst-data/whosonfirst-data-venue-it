@@ -2,13 +2,14 @@
   "id": 303244063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.671753,45.045734,7.671753,45.045734",
     "geom:latitude":45.045734,
     "geom:longitude":7.671753,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Tiziano Vecellio 10126 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303244063,
-    "wof:lastmodified":1448999092,
+    "wof:lastmodified":1466293528,
     "wof:name":"F.lli Ratti Di Ratti Giorgio E C. (s.n.c.)",
     "wof:parent_id":85796951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [7.671753,45.045734,7.671753,45.045734],
+  "bbox": [
+    7.671753,
+    45.045734,
+    7.671753,
+    45.045734
+],
   "geometry": {"coordinates":[7.671753,45.045734],"type":"Point"}
 }

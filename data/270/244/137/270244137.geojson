@@ -2,13 +2,14 @@
   "id": 270244137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.666099,44.99839,7.666099,44.99839",
     "geom:latitude":44.99839,
     "geom:longitude":7.666099,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270244137,
-    "wof:lastmodified":1449009605,
+    "wof:lastmodified":1466291931,
     "wof:name":"Mantec Srl",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.666099,44.99839,7.666099,44.99839],
+  "bbox": [
+    7.666099,
+    44.99839,
+    7.666099,
+    44.99839
+],
   "geometry": {"coordinates":[7.666099,44.99839],"type":"Point"}
 }

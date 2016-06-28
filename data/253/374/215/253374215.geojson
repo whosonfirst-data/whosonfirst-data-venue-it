@@ -2,13 +2,14 @@
   "id": 253374215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.129837,45.7402,9.129837,45.7402",
     "geom:latitude":45.7402,
     "geom:longitude":9.129837,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, V. S. Francesco 22072 Cermenate",
     "sg:city":"Cermenate",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253374215,
-    "wof:lastmodified":1449064110,
+    "wof:lastmodified":1466293114,
     "wof:name":"Bellotti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [9.129837,45.7402,9.129837,45.7402],
+  "bbox": [
+    9.129837,
+    45.7402,
+    9.129837,
+    45.7402
+],
   "geometry": {"coordinates":[9.129837,45.7402],"type":"Point"}
 }

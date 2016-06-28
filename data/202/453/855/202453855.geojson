@@ -2,13 +2,14 @@
   "id": 202453855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.274692,44.474445,11.274692,44.474445",
     "geom:latitude":44.474445,
     "geom:longitude":11.274692,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40033 Casalecchio Di Reno",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202453855,
-    "wof:lastmodified":1449062017,
+    "wof:lastmodified":1466295719,
     "wof:name":"Autoscuola Boschi Srl",
     "wof:parent_id":85904639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.274692,44.474445,11.274692,44.474445],
+  "bbox": [
+    11.274692,
+    44.474445,
+    11.274692,
+    44.474445
+],
   "geometry": {"coordinates":[11.274692,44.474445],"type":"Point"}
 }

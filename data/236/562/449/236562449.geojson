@@ -2,13 +2,14 @@
   "id": 236562449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.042528,45.518005,9.042528,45.518005",
     "geom:latitude":45.518005,
     "geom:longitude":9.042528,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Mincio 20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236562449,
-    "wof:lastmodified":1449003396,
+    "wof:lastmodified":1466294679,
     "wof:name":"Comal 2000 Srl",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.042528,45.518005,9.042528,45.518005],
+  "bbox": [
+    9.042528,
+    45.518005,
+    9.042528,
+    45.518005
+],
   "geometry": {"coordinates":[9.042528,45.518005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269643791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.141232,43.81683,11.141232,43.81683",
     "geom:latitude":43.81683,
     "geom:longitude":11.141232,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50013 Campi Bisenzio",
     "sg:city":"Campi Bisenzio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269643791,
-    "wof:lastmodified":1449038531,
+    "wof:lastmodified":1466290872,
     "wof:name":"La Stampa Bobadoma Sas",
     "wof:parent_id":85904647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.141232,43.81683,11.141232,43.81683],
+  "bbox": [
+    11.141232,
+    43.81683,
+    11.141232,
+    43.81683
+],
   "geometry": {"coordinates":[11.141232,43.81683],"type":"Point"}
 }

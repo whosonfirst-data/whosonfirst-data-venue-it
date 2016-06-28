@@ -2,13 +2,14 @@
   "id": 336829343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.630644,45.798775,8.630644,45.798775",
     "geom:latitude":45.798775,
     "geom:longitude":8.630644,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"226, Via Don Guanella 21020 Cadrezzate",
     "sg:city":"Cadrezzate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336829343,
-    "wof:lastmodified":1448997941,
+    "wof:lastmodified":1466296468,
     "wof:name":"Intell - Dies Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.630644,45.798775,8.630644,45.798775],
+  "bbox": [
+    8.630644,
+    45.798775,
+    8.630644,
+    45.798775
+],
   "geometry": {"coordinates":[8.630644,45.798775],"type":"Point"}
 }

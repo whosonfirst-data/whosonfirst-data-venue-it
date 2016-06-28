@@ -2,13 +2,14 @@
   "id": 269914489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.506772,43.932026,12.506772,43.932026",
     "geom:latitude":43.932026,
     "geom:longitude":12.506772,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Str. Del Marano 95 47890 Repubblica Di San Marino",
     "sg:classifiers":[
         {
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269914489,
-    "wof:lastmodified":1449037061,
+    "wof:lastmodified":1466294290,
     "wof:name":"Laboratorio Chimico - Farmaceutico Sammarinese Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air"
     ]
 },
-  "bbox": [12.506772,43.932026,12.506772,43.932026],
+  "bbox": [
+    12.506772,
+    43.932026,
+    12.506772,
+    43.932026
+],
   "geometry": {"coordinates":[12.506772,43.932026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286512239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.096313,43.8797,11.096313,43.8797",
     "geom:latitude":43.8797,
     "geom:longitude":11.096313,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Degli Innocenti Renzo 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286512239,
-    "wof:lastmodified":1449017319,
+    "wof:lastmodified":1466292853,
     "wof:name":"Finset Jersey Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.096313,43.8797,11.096313,43.8797],
+  "bbox": [
+    11.096313,
+    43.8797,
+    11.096313,
+    43.8797
+],
   "geometry": {"coordinates":[11.096313,43.8797],"type":"Point"}
 }

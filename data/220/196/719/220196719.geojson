@@ -2,13 +2,14 @@
   "id": 220196719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.703373,45.035168,9.703373,45.035168",
     "geom:latitude":45.035168,
     "geom:longitude":9.703373,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220196719,
-    "wof:lastmodified":1449074221,
+    "wof:lastmodified":1466289526,
     "wof:name":"Poliplast Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.703373,45.035168,9.703373,45.035168],
+  "bbox": [
+    9.703373,
+    45.035168,
+    9.703373,
+    45.035168
+],
   "geometry": {"coordinates":[9.703373,45.035168],"type":"Point"}
 }

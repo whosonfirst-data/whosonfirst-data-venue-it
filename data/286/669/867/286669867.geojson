@@ -2,13 +2,14 @@
   "id": 286669867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.649416,38.099552,15.649416,38.099552",
     "geom:latitude":38.099552,
     "geom:longitude":15.649416,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"128, Viale Pio Xi 89133 Reggio Calabria",
     "sg:classifiers":[
         {
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":286669867,
-    "wof:lastmodified":1449015514,
+    "wof:lastmodified":1466294797,
     "wof:name":"Cara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "medium"
     ]
 },
-  "bbox": [15.649416,38.099552,15.649416,38.099552],
+  "bbox": [
+    15.649416,
+    38.099552,
+    15.649416,
+    38.099552
+],
   "geometry": {"coordinates":[15.649416,38.099552],"type":"Point"}
 }

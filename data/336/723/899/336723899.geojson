@@ -2,13 +2,14 @@
   "id": 336723899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.826385,45.817604,8.826385,45.817604",
     "geom:latitude":45.817604,
     "geom:longitude":8.826385,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Vl. Industria 21052 Busto Arsizio",
     "sg:city":"Busto Arsizio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336723899,
-    "wof:lastmodified":1448997570,
+    "wof:lastmodified":1466295205,
     "wof:name":"Mp Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.826385,45.817604,8.826385,45.817604],
+  "bbox": [
+    8.826385,
+    45.817604,
+    8.826385,
+    45.817604
+],
   "geometry": {"coordinates":[8.826385,45.817604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336859187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.493676,45.535595,11.493676,45.535595",
     "geom:latitude":45.535595,
     "geom:longitude":11.493676,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36051 Creazzo",
     "sg:city":"Creazzo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336859187,
-    "wof:lastmodified":1448997699,
+    "wof:lastmodified":1466296643,
     "wof:name":"Automatismi Brazzale Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "electronic"
     ]
 },
-  "bbox": [11.493676,45.535595,11.493676,45.535595],
+  "bbox": [
+    11.493676,
+    45.535595,
+    11.493676,
+    45.535595
+],
   "geometry": {"coordinates":[11.493676,45.535595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336706707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.265914,37.0714,15.265914,37.0714",
     "geom:latitude":37.0714,
     "geom:longitude":15.265914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Necropoli Del Fusco 96100 Siracusa",
     "sg:city":"Siracusa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336706707,
-    "wof:lastmodified":1448997004,
+    "wof:lastmodified":1466295004,
     "wof:name":"M.f.c.i. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [15.265914,37.0714,15.265914,37.0714],
+  "bbox": [
+    15.265914,
+    37.0714,
+    15.265914,
+    37.0714
+],
   "geometry": {"coordinates":[15.265914,37.0714],"type":"Point"}
 }

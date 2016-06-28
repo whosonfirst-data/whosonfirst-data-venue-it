@@ -2,13 +2,14 @@
   "id": 269590039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.94635,44.571865,8.94635,44.571865",
     "geom:latitude":44.571865,
     "geom:longitude":8.94635,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16012 Busalla",
     "sg:city":"Busalla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269590039,
-    "wof:lastmodified":1449037573,
+    "wof:lastmodified":1466290202,
     "wof:name":"Navone Trasporti Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.94635,44.571865,8.94635,44.571865],
+  "bbox": [
+    8.94635,
+    44.571865,
+    8.94635,
+    44.571865
+],
   "geometry": {"coordinates":[8.94635,44.571865],"type":"Point"}
 }

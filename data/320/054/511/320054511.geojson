@@ -2,13 +2,14 @@
   "id": 320054511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.712208,43.052826,12.712208,43.052826",
     "geom:latitude":43.052826,
     "geom:longitude":12.712208,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06087 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine E Forniture Per Ecologia E Smaltimento Rifiuti",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":320054511,
-    "wof:lastmodified":1449013016,
+    "wof:lastmodified":1466294061,
     "wof:name":"Se.te.co. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.712208,43.052826,12.712208,43.052826],
+  "bbox": [
+    12.712208,
+    43.052826,
+    12.712208,
+    43.052826
+],
   "geometry": {"coordinates":[12.712208,43.052826],"type":"Point"}
 }

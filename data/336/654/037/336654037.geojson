@@ -2,13 +2,14 @@
   "id": 336654037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.507721,40.693489,14.507721,40.693489",
     "geom:latitude":40.693489,
     "geom:longitude":14.507721,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87, Via Castellammare 80054 Gragnano",
     "sg:city":"Gragnano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336654037,
-    "wof:lastmodified":1448997302,
+    "wof:lastmodified":1466294376,
     "wof:name":"Elettrosud Di L. Russo & C. S.n.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [14.507721,40.693489,14.507721,40.693489],
+  "bbox": [
+    14.507721,
+    40.693489,
+    14.507721,
+    40.693489
+],
   "geometry": {"coordinates":[14.507721,40.693489],"type":"Point"}
 }

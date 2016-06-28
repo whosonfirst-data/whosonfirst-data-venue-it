@@ -2,13 +2,14 @@
   "id": 286826773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.900879,45.510574,8.900879,45.510574",
     "geom:latitude":45.510574,
     "geom:longitude":8.900879,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Ossona",
     "sg:city":"Ossona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286826773,
-    "wof:lastmodified":1449017316,
+    "wof:lastmodified":1466296688,
     "wof:name":"Macchi Guglielmo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.900879,45.510574,8.900879,45.510574],
+  "bbox": [
+    8.900879,
+    45.510574,
+    8.900879,
+    45.510574
+],
   "geometry": {"coordinates":[8.900879,45.510574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236703569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.91797,44.328232,11.91797,44.328232",
     "geom:latitude":44.328232,
     "geom:longitude":11.91797,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Via Spadarino 48018 Faenza",
     "sg:city":"Faenza",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236703569,
-    "wof:lastmodified":1449002488,
+    "wof:lastmodified":1466296022,
     "wof:name":"Cleo Di Solaroli Sergio E C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [11.91797,44.328232,11.91797,44.328232],
+  "bbox": [
+    11.91797,
+    44.328232,
+    11.91797,
+    44.328232
+],
   "geometry": {"coordinates":[11.91797,44.328232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219782239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.782907,43.408791,11.782907,43.408791",
     "geom:latitude":43.408791,
     "geom:longitude":11.782907,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Sembolino, 62/64 Badia Al Pino 52041 Civitella In Val Di Chiana",
     "sg:city":"Badia al Pino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219782239,
-    "wof:lastmodified":1449070363,
+    "wof:lastmodified":1466294101,
     "wof:name":"Corsino Corsini Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roasted"
     ]
 },
-  "bbox": [11.782907,43.408791,11.782907,43.408791],
+  "bbox": [
+    11.782907,
+    43.408791,
+    11.782907,
+    43.408791
+],
   "geometry": {"coordinates":[11.782907,43.408791],"type":"Point"}
 }

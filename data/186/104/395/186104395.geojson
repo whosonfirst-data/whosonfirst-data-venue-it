@@ -2,13 +2,14 @@
   "id": 186104395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.222838,45.489159,9.222838,45.489159",
     "geom:latitude":45.489159,
     "geom:longitude":9.222838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Burante 11, 20131 Milan, Mi",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186104395,
-    "wof:lastmodified":1449051484,
+    "wof:lastmodified":1466296096,
     "wof:name":"Fin-eco Banca Icq Spa",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.222838,45.489159,9.222838,45.489159],
+  "bbox": [
+    9.222838,
+    45.489159,
+    9.222838,
+    45.489159
+],
   "geometry": {"coordinates":[9.222838,45.489159],"type":"Point"}
 }

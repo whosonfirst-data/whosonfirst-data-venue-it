@@ -2,13 +2,14 @@
   "id": 235960999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.097152,45.558201,10.097152,45.558201",
     "geom:latitude":45.558201,
     "geom:longitude":10.097152,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Colombaia 25050 Rodengo Saiano",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":235960999,
-    "wof:lastmodified":1449008492,
+    "wof:lastmodified":1466295263,
     "wof:name":"Caseificio Ilfa (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [10.097152,45.558201,10.097152,45.558201],
+  "bbox": [
+    10.097152,
+    45.558201,
+    10.097152,
+    45.558201
+],
   "geometry": {"coordinates":[10.097152,45.558201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236483223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.796274,45.673431,8.796274,45.673431",
     "geom:latitude":45.673431,
     "geom:longitude":8.796274,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21013 Gallarate",
     "sg:city":"Gallarate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236483223,
-    "wof:lastmodified":1449004399,
+    "wof:lastmodified":1466293884,
     "wof:name":"Longobardi Luigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.796274,45.673431,8.796274,45.673431],
+  "bbox": [
+    8.796274,
+    45.673431,
+    8.796274,
+    45.673431
+],
   "geometry": {"coordinates":[8.796274,45.673431],"type":"Point"}
 }

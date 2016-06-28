@@ -2,13 +2,14 @@
   "id": 320853643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.163285,45.506424,9.163285,45.506424",
     "geom:latitude":45.506424,
     "geom:longitude":9.163285,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38, V. Durando 20158 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320853643,
-    "wof:lastmodified":1449012778,
+    "wof:lastmodified":1466298299,
     "wof:name":"Salmoiraghi La Filotecnica Srl",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "measurement"
     ]
 },
-  "bbox": [9.163285,45.506424,9.163285,45.506424],
+  "bbox": [
+    9.163285,
+    45.506424,
+    9.163285,
+    45.506424
+],
   "geometry": {"coordinates":[9.163285,45.506424],"type":"Point"}
 }

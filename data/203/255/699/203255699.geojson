@@ -2,13 +2,14 @@
   "id": 203255699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.205106,37.729897,15.205106,37.729897",
     "geom:latitude":37.729897,
     "geom:longitude":15.205106,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95018 Riposto",
     "sg:city":"Riposto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203255699,
-    "wof:lastmodified":1449025772,
+    "wof:lastmodified":1466290409,
     "wof:name":"Centro Protezione Civile Volontario Sicilia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.205106,37.729897,15.205106,37.729897],
+  "bbox": [
+    15.205106,
+    37.729897,
+    15.205106,
+    37.729897
+],
   "geometry": {"coordinates":[15.205106,37.729897],"type":"Point"}
 }

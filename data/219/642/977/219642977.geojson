@@ -2,13 +2,14 @@
   "id": 219642977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.432,46.091114,13.432,46.091114",
     "geom:latitude":46.091114,
     "geom:longitude":13.432,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33043 Cividale Del Friuli",
     "sg:city":"Cividale del Friuli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219642977,
-    "wof:lastmodified":1449070592,
+    "wof:lastmodified":1466292731,
     "wof:name":"Agenzia Regionale Per L'impiego",
     "wof:parent_id":85900367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.432,46.091114,13.432,46.091114],
+  "bbox": [
+    13.432,
+    46.091114,
+    13.432,
+    46.091114
+],
   "geometry": {"coordinates":[13.432,46.091114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219353475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.13204,45.30368,11.13204,45.30368",
     "geom:latitude":45.30368,
     "geom:longitude":11.13204,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37050 Oppeano",
     "sg:city":"Oppeano",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219353475,
-    "wof:lastmodified":1449071421,
+    "wof:lastmodified":1466289846,
     "wof:name":"Hobby Pesca Di Bosello Paola & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "il"
     ]
 },
-  "bbox": [11.13204,45.30368,11.13204,45.30368],
+  "bbox": [
+    11.13204,
+    45.30368,
+    11.13204,
+    45.30368
+],
   "geometry": {"coordinates":[11.13204,45.30368],"type":"Point"}
 }

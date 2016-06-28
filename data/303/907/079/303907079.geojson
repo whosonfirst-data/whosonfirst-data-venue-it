@@ -2,13 +2,14 @@
   "id": 303907079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.144313,45.197838,9.144313,45.197838",
     "geom:latitude":45.197838,
     "geom:longitude":9.144313,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303907079,
-    "wof:lastmodified":1449000378,
+    "wof:lastmodified":1466298091,
     "wof:name":"Officina Ortopedica Pavese Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.144313,45.197838,9.144313,45.197838],
+  "bbox": [
+    9.144313,
+    45.197838,
+    9.144313,
+    45.197838
+],
   "geometry": {"coordinates":[9.144313,45.197838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219747131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.654562,45.003044,7.654562,45.003044",
     "geom:latitude":45.003044,
     "geom:longitude":7.654562,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Via Pacinotti Antonio 10042 Nichelino",
     "sg:city":"Nichelino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219747131,
-    "wof:lastmodified":1449071036,
+    "wof:lastmodified":1466293742,
     "wof:name":"Di Luzio & Figli S.n.c. Di Di Luzio Sem & C.",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "road"
     ]
 },
-  "bbox": [7.654562,45.003044,7.654562,45.003044],
+  "bbox": [
+    7.654562,
+    45.003044,
+    7.654562,
+    45.003044
+],
   "geometry": {"coordinates":[7.654562,45.003044],"type":"Point"}
 }

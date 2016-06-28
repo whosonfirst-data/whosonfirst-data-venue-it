@@ -2,13 +2,14 @@
   "id": 186430957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025466,45.864994,11.025466,45.864994",
     "geom:latitude":45.864994,
     "geom:longitude":11.025466,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Del Lavoro 10 38068 Rovereto",
     "sg:city":"Rovereto",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186430957,
-    "wof:lastmodified":1449052088,
+    "wof:lastmodified":1466291651,
     "wof:name":"Pama Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "milling"
     ]
 },
-  "bbox": [11.025466,45.864994,11.025466,45.864994],
+  "bbox": [
+    11.025466,
+    45.864994,
+    11.025466,
+    45.864994
+],
   "geometry": {"coordinates":[11.025466,45.864994],"type":"Point"}
 }

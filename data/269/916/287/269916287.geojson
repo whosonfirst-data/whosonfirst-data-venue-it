@@ -2,13 +2,14 @@
   "id": 269916287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.270923,44.870197,9.270923,44.870197",
     "geom:latitude":44.870197,
     "geom:longitude":9.270923,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Emanuele 76 27059 Zavattarello",
     "sg:city":"Zavattarello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269916287,
-    "wof:lastmodified":1449037447,
+    "wof:lastmodified":1466294313,
     "wof:name":"Edilio Gianesi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [9.270923,44.870197,9.270923,44.870197],
+  "bbox": [
+    9.270923,
+    44.870197,
+    9.270923,
+    44.870197
+],
   "geometry": {"coordinates":[9.270923,44.870197],"type":"Point"}
 }

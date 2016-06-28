@@ -2,13 +2,14 @@
   "id": 269720841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165989,45.476891,9.165989,45.476891",
     "geom:latitude":45.476891,
     "geom:longitude":9.165989,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20145 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269720841,
-    "wof:lastmodified":1449036711,
+    "wof:lastmodified":1466291965,
     "wof:name":"Sirio Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165989,45.476891,9.165989,45.476891],
+  "bbox": [
+    9.165989,
+    45.476891,
+    9.165989,
+    45.476891
+],
   "geometry": {"coordinates":[9.165989,45.476891],"type":"Point"}
 }

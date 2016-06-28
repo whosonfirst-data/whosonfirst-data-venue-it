@@ -2,13 +2,14 @@
   "id": 185813745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.066895,46.172333,10.066895,46.172333",
     "geom:latitude":46.172333,
     "geom:longitude":10.066895,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza S Eufemia 2; Teglio; 23036",
     "sg:city":"Teglio",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185813745,
-    "wof:lastmodified":1449007022,
+    "wof:lastmodified":1466289374,
     "wof:name":"Banca Popolare Di Sondrio Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.066895,46.172333,10.066895,46.172333],
+  "bbox": [
+    10.066895,
+    46.172333,
+    10.066895,
+    46.172333
+],
   "geometry": {"coordinates":[10.066895,46.172333],"type":"Point"}
 }

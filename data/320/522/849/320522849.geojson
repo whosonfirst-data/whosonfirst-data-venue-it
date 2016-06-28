@@ -2,13 +2,14 @@
   "id": 320522849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.425944,45.969387,13.425944,45.969387",
     "geom:latitude":45.969387,
     "geom:longitude":13.425944,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33048 San Giovanni Natisone",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320522849,
-    "wof:lastmodified":1449013031,
+    "wof:lastmodified":1466297636,
     "wof:name":"Co.mec Di Bergamasco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [13.425944,45.969387,13.425944,45.969387],
+  "bbox": [
+    13.425944,
+    45.969387,
+    13.425944,
+    45.969387
+],
   "geometry": {"coordinates":[13.425944,45.969387],"type":"Point"}
 }

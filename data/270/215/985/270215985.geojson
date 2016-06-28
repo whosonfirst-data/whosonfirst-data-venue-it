@@ -2,13 +2,14 @@
   "id": 270215985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.143685,42.455322,14.143685,42.455322",
     "geom:latitude":42.455322,
     "geom:longitude":14.143685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65010 Cappelle Sul Tavo",
     "sg:city":"Cappelle sul Tavo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270215985,
-    "wof:lastmodified":1449010640,
+    "wof:lastmodified":1466291623,
     "wof:name":"C. & G. Di Filiani Gabriele E C. S.a.s. Gabriele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.143685,42.455322,14.143685,42.455322],
+  "bbox": [
+    14.143685,
+    42.455322,
+    14.143685,
+    42.455322
+],
   "geometry": {"coordinates":[14.143685,42.455322],"type":"Point"}
 }

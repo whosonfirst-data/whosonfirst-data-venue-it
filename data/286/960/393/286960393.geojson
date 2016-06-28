@@ -2,13 +2,14 @@
   "id": 286960393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17482,45.467907,9.17482,45.467907",
     "geom:latitude":45.467907,
     "geom:longitude":9.17482,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286960393,
-    "wof:lastmodified":1449017296,
+    "wof:lastmodified":1466297434,
     "wof:name":"F.k. Cotoni Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.17482,45.467907,9.17482,45.467907],
+  "bbox": [
+    9.17482,
+    45.467907,
+    9.17482,
+    45.467907
+],
   "geometry": {"coordinates":[9.17482,45.467907],"type":"Point"}
 }

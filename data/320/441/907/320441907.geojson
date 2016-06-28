@@ -2,13 +2,14 @@
   "id": 320441907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.982322,44.98481,9.982322,44.98481",
     "geom:latitude":44.98481,
     "geom:longitude":9.982322,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29010 Besenzone",
     "sg:city":"Besenzone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320441907,
-    "wof:lastmodified":1449011535,
+    "wof:lastmodified":1466297423,
     "wof:name":"Galli Silvio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.982322,44.98481,9.982322,44.98481],
+  "bbox": [
+    9.982322,
+    44.98481,
+    9.982322,
+    44.98481
+],
   "geometry": {"coordinates":[9.982322,44.98481],"type":"Point"}
 }

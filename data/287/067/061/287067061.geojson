@@ -2,13 +2,14 @@
   "id": 287067061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.855727,44.684509,10.855727,44.684509",
     "geom:latitude":44.684509,
     "geom:longitude":10.855727,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Viale Europa 41011 Campogalliano",
     "sg:city":"Campogalliano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287067061,
-    "wof:lastmodified":1449000714,
+    "wof:lastmodified":1466290466,
     "wof:name":"Gottardo Ruffoni Rondine Spedizioni Internazionali Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [10.855727,44.684509,10.855727,44.684509],
+  "bbox": [
+    10.855727,
+    44.684509,
+    10.855727,
+    44.684509
+],
   "geometry": {"coordinates":[10.855727,44.684509],"type":"Point"}
 }

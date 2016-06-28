@@ -2,13 +2,14 @@
   "id": 186173039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.886578,41.099857,16.886578,41.099857",
     "geom:latitude":41.099857,
     "geom:longitude":16.886578,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nicola Tridente 22/a, 70125 Bari, Ba",
     "sg:city":"Bari",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186173039,
-    "wof:lastmodified":1449050924,
+    "wof:lastmodified":1466289423,
     "wof:name":"Parfin Spa",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.886578,41.099857,16.886578,41.099857],
+  "bbox": [
+    16.886578,
+    41.099857,
+    16.886578,
+    41.099857
+],
   "geometry": {"coordinates":[16.886578,41.099857],"type":"Point"}
 }

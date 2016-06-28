@@ -2,13 +2,14 @@
   "id": 286326715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.137446,45.51939,9.137446,45.51939",
     "geom:latitude":45.51939,
     "geom:longitude":9.137446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20157 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286326715,
-    "wof:lastmodified":1449016433,
+    "wof:lastmodified":1466290388,
     "wof:name":"Suore Ausiliatrici Del Purgatorio",
     "wof:parent_id":85796967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.137446,45.51939,9.137446,45.51939],
+  "bbox": [
+    9.137446,
+    45.51939,
+    9.137446,
+    45.51939
+],
   "geometry": {"coordinates":[9.137446,45.51939],"type":"Point"}
 }

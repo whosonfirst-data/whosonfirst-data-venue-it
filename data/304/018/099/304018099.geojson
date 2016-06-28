@@ -2,13 +2,14 @@
   "id": 304018099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.612808,45.641476,9.612808,45.641476",
     "geom:latitude":45.641476,
     "geom:longitude":9.612808,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Provinciale 18 24048 Treviolo",
     "sg:city":"Treviolo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304018099,
-    "wof:lastmodified":1449043867,
+    "wof:lastmodified":1466292365,
     "wof:name":"Lazzari L.m.i. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "prefabricated"
     ]
 },
-  "bbox": [9.612808,45.641476,9.612808,45.641476],
+  "bbox": [
+    9.612808,
+    45.641476,
+    9.612808,
+    45.641476
+],
   "geometry": {"coordinates":[9.612808,45.641476],"type":"Point"}
 }

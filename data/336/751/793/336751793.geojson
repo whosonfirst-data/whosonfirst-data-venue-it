@@ -2,13 +2,14 @@
   "id": 336751793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.878798,45.56765,8.878798,45.56765",
     "geom:latitude":45.56765,
     "geom:longitude":8.878798,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Salvo D'acquisto 20020 Villa Cortese",
     "sg:city":"Villa Cortese",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336751793,
-    "wof:lastmodified":1448996977,
+    "wof:lastmodified":1466295535,
     "wof:name":"Pietro Carnaghi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.878798,45.56765,8.878798,45.56765],
+  "bbox": [
+    8.878798,
+    45.56765,
+    8.878798,
+    45.56765
+],
   "geometry": {"coordinates":[8.878798,45.56765],"type":"Point"}
 }

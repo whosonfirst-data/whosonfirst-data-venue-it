@@ -2,13 +2,14 @@
   "id": 270491223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.432455,45.928497,8.432455,45.928497",
     "geom:latitude":45.928497,
     "geom:longitude":8.432455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"S.s. Sempione 4; Baveno; 28042",
     "sg:classifiers":[
         {
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":270491223,
-    "wof:lastmodified":1449008624,
+    "wof:lastmodified":1466294951,
     "wof:name":"Verbano Chamber Of Commerce & Industry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "commerce"
     ]
 },
-  "bbox": [8.432455,45.928497,8.432455,45.928497],
+  "bbox": [
+    8.432455,
+    45.928497,
+    8.432455,
+    45.928497
+],
   "geometry": {"coordinates":[8.432455,45.928497],"type":"Point"}
 }

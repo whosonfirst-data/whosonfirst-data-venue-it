@@ -2,13 +2,14 @@
   "id": 236535557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.579593,45.887733,12.579593,45.887733",
     "geom:latitude":45.887733,
     "geom:longitude":12.579593,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Enrico Mattei 33080 Prata Di Pordenone",
     "sg:city":"Prata di Pordenone",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236535557,
-    "wof:lastmodified":1449002124,
+    "wof:lastmodified":1466294426,
     "wof:name":"Mondial Arredamenti Di Muzzo Antonio & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.579593,45.887733,12.579593,45.887733],
+  "bbox": [
+    12.579593,
+    45.887733,
+    12.579593,
+    45.887733
+],
   "geometry": {"coordinates":[12.579593,45.887733],"type":"Point"}
 }

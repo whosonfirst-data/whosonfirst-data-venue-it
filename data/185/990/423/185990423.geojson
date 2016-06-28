@@ -2,13 +2,14 @@
   "id": 185990423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.258762,44.487682,11.258762,44.487682",
     "geom:latitude":44.487682,
     "geom:longitude":11.258762,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro 4; Casalecchio Di Reno; 40033",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185990423,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466290705,
     "wof:name":"Cassa Di Risparmio Di Imola Spa",
     "wof:parent_id":85904641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.258762,44.487682,11.258762,44.487682],
+  "bbox": [
+    11.258762,
+    44.487682,
+    11.258762,
+    44.487682
+],
   "geometry": {"coordinates":[11.258762,44.487682],"type":"Point"}
 }

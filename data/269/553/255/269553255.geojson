@@ -2,13 +2,14 @@
   "id": 269553255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.260776,40.931248,14.260776,40.931248",
     "geom:latitude":40.931248,
     "geom:longitude":14.260776,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Michelangelo Buonarroti 80028 Grumo Nevano",
     "sg:city":"Grumo Nevano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269553255,
-    "wof:lastmodified":1449036163,
+    "wof:lastmodified":1466289747,
     "wof:name":"S.t. Calzature Moda S.r.l.",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [14.260776,40.931248,14.260776,40.931248],
+  "bbox": [
+    14.260776,
+    40.931248,
+    14.260776,
+    40.931248
+],
   "geometry": {"coordinates":[14.260776,40.931248],"type":"Point"}
 }

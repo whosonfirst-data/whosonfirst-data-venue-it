@@ -2,13 +2,14 @@
   "id": 253614439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.876622,45.461086,11.876622,45.461086",
     "geom:latitude":45.461086,
     "geom:longitude":11.876622,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Di Vittorio 3 35046 Saletto",
     "sg:city":"Saletto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253614439,
-    "wof:lastmodified":1449065877,
+    "wof:lastmodified":1466296120,
     "wof:name":"Reds Diffusion Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.876622,45.461086,11.876622,45.461086],
+  "bbox": [
+    11.876622,
+    45.461086,
+    11.876622,
+    45.461086
+],
   "geometry": {"coordinates":[11.876622,45.461086],"type":"Point"}
 }

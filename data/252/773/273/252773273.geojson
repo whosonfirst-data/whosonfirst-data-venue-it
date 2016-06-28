@@ -2,13 +2,14 @@
   "id": 252773273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.505218,40.842384,14.505218,40.842384",
     "geom:latitude":40.842384,
     "geom:longitude":14.505218,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80044 Ottaviano",
     "sg:city":"Ottaviano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252773273,
-    "wof:lastmodified":1449005536,
+    "wof:lastmodified":1466289609,
     "wof:name":"Tex World Di Del Giudice F.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.505218,40.842384,14.505218,40.842384],
+  "bbox": [
+    14.505218,
+    40.842384,
+    14.505218,
+    40.842384
+],
   "geometry": {"coordinates":[14.505218,40.842384],"type":"Point"}
 }

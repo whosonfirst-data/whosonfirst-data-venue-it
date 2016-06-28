@@ -2,13 +2,14 @@
   "id": 202952911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.490733,43.261044,13.490733,43.261044",
     "geom:latitude":43.261044,
     "geom:longitude":13.490733,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62014 Corridonia",
     "sg:city":"Corridonia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202952911,
-    "wof:lastmodified":1449061926,
+    "wof:lastmodified":1466293747,
     "wof:name":"Cappelloni Paolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.490733,43.261044,13.490733,43.261044],
+  "bbox": [
+    13.490733,
+    43.261044,
+    13.490733,
+    43.261044
+],
   "geometry": {"coordinates":[13.490733,43.261044],"type":"Point"}
 }

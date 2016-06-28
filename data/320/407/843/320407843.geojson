@@ -2,13 +2,14 @@
   "id": 320407843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.740502,41.261879,13.740502,41.261879",
     "geom:latitude":41.261879,
     "geom:longitude":13.740502,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04026 Minturno",
     "sg:city":"Minturno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320407843,
-    "wof:lastmodified":1449013331,
+    "wof:lastmodified":1466297308,
     "wof:name":"Free Time Di Treglia Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.740502,41.261879,13.740502,41.261879],
+  "bbox": [
+    13.740502,
+    41.261879,
+    13.740502,
+    41.261879
+],
   "geometry": {"coordinates":[13.740502,41.261879],"type":"Point"}
 }

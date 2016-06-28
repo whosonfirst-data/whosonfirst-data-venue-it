@@ -2,13 +2,14 @@
   "id": 169849685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171959,45.481091,9.171959,45.481091",
     "geom:latitude":45.481091,
     "geom:longitude":9.171959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Paolo Sarpi 54; Milano; 20154",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169849685,
-    "wof:lastmodified":1449033300,
+    "wof:lastmodified":1466289231,
     "wof:name":"Banca Agricola Milanese Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171959,45.481091,9.171959,45.481091],
+  "bbox": [
+    9.171959,
+    45.481091,
+    9.171959,
+    45.481091
+],
   "geometry": {"coordinates":[9.171959,45.481091],"type":"Point"}
 }

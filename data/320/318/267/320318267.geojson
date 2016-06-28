@@ -2,13 +2,14 @@
   "id": 320318267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.118589,39.226555,9.118589,39.226555",
     "geom:latitude":39.226555,
     "geom:longitude":9.118589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09127 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320318267,
-    "wof:lastmodified":1449012081,
+    "wof:lastmodified":1466296973,
     "wof:name":"Medda Pietro",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.118589,39.226555,9.118589,39.226555],
+  "bbox": [
+    9.118589,
+    39.226555,
+    9.118589,
+    39.226555
+],
   "geometry": {"coordinates":[9.118589,39.226555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269884147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.059242,44.935154,8.059242,44.935154",
     "geom:latitude":44.935154,
     "geom:longitude":8.059242,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Regione Barbone 14013 Monale",
     "sg:city":"Monale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269884147,
-    "wof:lastmodified":1449038380,
+    "wof:lastmodified":1466293961,
     "wof:name":"Monalfungo S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [8.059242,44.935154,8.059242,44.935154],
+  "bbox": [
+    8.059242,
+    44.935154,
+    8.059242,
+    44.935154
+],
   "geometry": {"coordinates":[8.059242,44.935154],"type":"Point"}
 }

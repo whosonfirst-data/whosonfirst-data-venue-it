@@ -2,13 +2,14 @@
   "id": 336890501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.588803,41.899464,12.588803,41.899464",
     "geom:latitude":41.899464,
     "geom:longitude":12.588803,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00155 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336890501,
-    "wof:lastmodified":1448997191,
+    "wof:lastmodified":1466296898,
     "wof:name":"Al Salhi Ismail",
     "wof:parent_id":85900495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.588803,41.899464,12.588803,41.899464],
+  "bbox": [
+    12.588803,
+    41.899464,
+    12.588803,
+    41.899464
+],
   "geometry": {"coordinates":[12.588803,41.899464],"type":"Point"}
 }

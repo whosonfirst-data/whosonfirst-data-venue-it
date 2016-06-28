@@ -2,13 +2,14 @@
   "id": 319883257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.628976,45.039993,7.628976,45.039993",
     "geom:latitude":45.039993,
     "geom:longitude":7.628976,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10137 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":319883257,
-    "wof:lastmodified":1449024699,
+    "wof:lastmodified":1466293320,
     "wof:name":"Axioma Srl",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.628976,45.039993,7.628976,45.039993],
+  "bbox": [
+    7.628976,
+    45.039993,
+    7.628976,
+    45.039993
+],
   "geometry": {"coordinates":[7.628976,45.039993],"type":"Point"}
 }

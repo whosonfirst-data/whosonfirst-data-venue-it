@@ -2,13 +2,14 @@
   "id": 269644721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.472446,45.954216,13.472446,45.954216",
     "geom:latitude":45.954216,
     "geom:longitude":13.472446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34071 Cormons",
     "sg:city":"Brazzano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269644721,
-    "wof:lastmodified":1449037506,
+    "wof:lastmodified":1466290884,
     "wof:name":"Allevamento 'delle Vallate' Di Boscato Cav. Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "breeding"
     ]
 },
-  "bbox": [13.472446,45.954216,13.472446,45.954216],
+  "bbox": [
+    13.472446,
+    45.954216,
+    13.472446,
+    45.954216
+],
   "geometry": {"coordinates":[13.472446,45.954216],"type":"Point"}
 }

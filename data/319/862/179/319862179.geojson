@@ -2,13 +2,14 @@
   "id": 319862179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.617076,44.723305,10.617076,44.723305",
     "geom:latitude":44.723305,
     "geom:longitude":10.617076,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gasparini 14 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319862179,
-    "wof:lastmodified":1449024906,
+    "wof:lastmodified":1466293007,
     "wof:name":"R.r. Robotica Srl",
     "wof:parent_id":85904895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automation"
     ]
 },
-  "bbox": [10.617076,44.723305,10.617076,44.723305],
+  "bbox": [
+    10.617076,
+    44.723305,
+    10.617076,
+    44.723305
+],
   "geometry": {"coordinates":[10.617076,44.723305],"type":"Point"}
 }

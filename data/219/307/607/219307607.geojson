@@ -2,13 +2,14 @@
   "id": 219307607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.222795,45.823196,9.222795,45.823196",
     "geom:latitude":45.823196,
     "geom:longitude":9.222795,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Volta 3 22037 Ponte Lambro",
     "sg:city":"Ponte Lambro",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219307607,
-    "wof:lastmodified":1449071311,
+    "wof:lastmodified":1466289378,
     "wof:name":"Marcello Muzzi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [9.222795,45.823196,9.222795,45.823196],
+  "bbox": [
+    9.222795,
+    45.823196,
+    9.222795,
+    45.823196
+],
   "geometry": {"coordinates":[9.222795,45.823196],"type":"Point"}
 }

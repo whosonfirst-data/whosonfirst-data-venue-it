@@ -2,13 +2,14 @@
   "id": 269740111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.333673,45.434158,12.333673,45.434158",
     "geom:latitude":45.434158,
     "geom:longitude":12.333673,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30124 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269740111,
-    "wof:lastmodified":1449037233,
+    "wof:lastmodified":1466292279,
     "wof:name":"Unione Region. Delle Camere Di Comm Ind Art. E Agr. Del Veneto",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.333673,45.434158,12.333673,45.434158],
+  "bbox": [
+    12.333673,
+    45.434158,
+    12.333673,
+    45.434158
+],
   "geometry": {"coordinates":[12.333673,45.434158],"type":"Point"}
 }

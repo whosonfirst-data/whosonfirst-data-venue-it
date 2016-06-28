@@ -2,13 +2,14 @@
   "id": 270170997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.92522,44.647079,10.92522,44.647079",
     "geom:latitude":44.647079,
     "geom:longitude":10.92522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Davide Livingstone 6 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270170997,
-    "wof:lastmodified":1449008871,
+    "wof:lastmodified":1466291016,
     "wof:name":"Safim Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "brake"
     ]
 },
-  "bbox": [10.92522,44.647079,10.92522,44.647079],
+  "bbox": [
+    10.92522,
+    44.647079,
+    10.92522,
+    44.647079
+],
   "geometry": {"coordinates":[10.92522,44.647079],"type":"Point"}
 }

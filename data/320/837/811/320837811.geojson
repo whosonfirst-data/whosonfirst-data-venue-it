@@ -2,13 +2,14 @@
   "id": 320837811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.668108,44.991249,7.668108,44.991249",
     "geom:latitude":44.991249,
     "geom:longitude":7.668108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320837811,
-    "wof:lastmodified":1449011834,
+    "wof:lastmodified":1466298230,
     "wof:name":"Lav.es. Plastici Sas",
     "wof:parent_id":85797007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.668108,44.991249,7.668108,44.991249],
+  "bbox": [
+    7.668108,
+    44.991249,
+    7.668108,
+    44.991249
+],
   "geometry": {"coordinates":[7.668108,44.991249],"type":"Point"}
 }

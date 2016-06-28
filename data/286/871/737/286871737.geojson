@@ -2,13 +2,14 @@
   "id": 286871737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.510321,41.885098,12.510321,41.885098",
     "geom:latitude":41.885098,
     "geom:longitude":12.510321,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00043 Ciampino",
     "sg:city":"Ciampino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286871737,
-    "wof:lastmodified":1449016144,
+    "wof:lastmodified":1466297024,
     "wof:name":"Di.ma.ter",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.510321,41.885098,12.510321,41.885098],
+  "bbox": [
+    12.510321,
+    41.885098,
+    12.510321,
+    41.885098
+],
   "geometry": {"coordinates":[12.510321,41.885098],"type":"Point"}
 }

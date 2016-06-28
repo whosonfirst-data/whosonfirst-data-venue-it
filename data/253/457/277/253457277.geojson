@@ -2,13 +2,14 @@
   "id": 253457277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.215569,45.607738,10.215569,45.607738",
     "geom:latitude":45.607738,
     "geom:longitude":10.215569,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25065 Lumezzane",
     "sg:city":"Lumezzane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253457277,
-    "wof:lastmodified":1449064821,
+    "wof:lastmodified":1466294100,
     "wof:name":"Ravani Raccordi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.215569,45.607738,10.215569,45.607738],
+  "bbox": [
+    10.215569,
+    45.607738,
+    10.215569,
+    45.607738
+],
   "geometry": {"coordinates":[10.215569,45.607738],"type":"Point"}
 }

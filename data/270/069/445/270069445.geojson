@@ -2,13 +2,14 @@
   "id": 270069445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.803007,40.818687,14.803007,40.818687",
     "geom:latitude":40.818687,
     "geom:longitude":14.803007,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83026 Montoro Superiore",
     "sg:city":"Montoro Superiore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270069445,
-    "wof:lastmodified":1449010199,
+    "wof:lastmodified":1466289809,
     "wof:name":"Nati Moda S.a.s. Di Napoli Gerardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.803007,40.818687,14.803007,40.818687],
+  "bbox": [
+    14.803007,
+    40.818687,
+    14.803007,
+    40.818687
+],
   "geometry": {"coordinates":[14.803007,40.818687],"type":"Point"}
 }

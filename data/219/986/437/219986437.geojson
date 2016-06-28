@@ -2,13 +2,14 @@
   "id": 219986437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.084725,44.977993,9.084725,44.977993",
     "geom:latitude":44.977993,
     "geom:longitude":9.084725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27050 Torrazza Coste",
     "sg:city":"Torrazza Coste",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219986437,
-    "wof:lastmodified":1449073246,
+    "wof:lastmodified":1466296207,
     "wof:name":"Tuttocasa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.084725,44.977993,9.084725,44.977993],
+  "bbox": [
+    9.084725,
+    44.977993,
+    9.084725,
+    44.977993
+],
   "geometry": {"coordinates":[9.084725,44.977993],"type":"Point"}
 }

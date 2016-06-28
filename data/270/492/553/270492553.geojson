@@ -2,13 +2,14 @@
   "id": 270492553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.982656,44.622711,10.982656,44.622711",
     "geom:latitude":44.622711,
     "geom:longitude":10.982656,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Emilia Est 2009 41018 San Cesario Sul Panaro",
     "sg:city":"San Cesario sul Panaro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270492553,
-    "wof:lastmodified":1449008657,
+    "wof:lastmodified":1466294964,
     "wof:name":"Almac Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vat"
     ]
 },
-  "bbox": [10.982656,44.622711,10.982656,44.622711],
+  "bbox": [
+    10.982656,
+    44.622711,
+    10.982656,
+    44.622711
+],
   "geometry": {"coordinates":[10.982656,44.622711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203105625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.02759,45.495094,9.02759,45.495094",
     "geom:latitude":45.495094,
     "geom:longitude":9.02759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Cornaredo",
     "sg:city":"Cornaredo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203105625,
-    "wof:lastmodified":1449025642,
+    "wof:lastmodified":1466288948,
     "wof:name":"Zuccato Mario",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.02759,45.495094,9.02759,45.495094],
+  "bbox": [
+    9.02759,
+    45.495094,
+    9.02759,
+    45.495094
+],
   "geometry": {"coordinates":[9.02759,45.495094],"type":"Point"}
 }

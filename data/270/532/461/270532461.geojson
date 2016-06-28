@@ -2,13 +2,14 @@
   "id": 270532461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.367769,44.92458,7.367769,44.92458",
     "geom:latitude":44.92458,
     "geom:longitude":7.367769,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17/1b, Via Piscina 10060 Frossasco",
     "sg:city":"Frossasco",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270532461,
-    "wof:lastmodified":1449009451,
+    "wof:lastmodified":1466295470,
     "wof:name":"Pelver Vernici Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [7.367769,44.92458,7.367769,44.92458],
+  "bbox": [
+    7.367769,
+    44.92458,
+    7.367769,
+    44.92458
+],
   "geometry": {"coordinates":[7.367769,44.92458],"type":"Point"}
 }

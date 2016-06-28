@@ -2,13 +2,14 @@
   "id": 219955301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.365514,44.558628,11.365514,44.558628",
     "geom:latitude":44.558628,
     "geom:longitude":11.365514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40013 Castel Maggiore",
     "sg:city":"Castel Maggiore",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219955301,
-    "wof:lastmodified":1449072841,
+    "wof:lastmodified":1466295861,
     "wof:name":"Pulsar Srl",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.365514,44.558628,11.365514,44.558628],
+  "bbox": [
+    11.365514,
+    44.558628,
+    11.365514,
+    44.558628
+],
   "geometry": {"coordinates":[11.365514,44.558628],"type":"Point"}
 }

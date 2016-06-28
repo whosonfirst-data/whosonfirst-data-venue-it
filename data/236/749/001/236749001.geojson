@@ -2,13 +2,14 @@
   "id": 236749001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.852298,43.849682,7.852298,43.849682",
     "geom:latitude":43.849682,
     "geom:longitude":7.852298,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Piano 72 18018 Taggia",
     "sg:city":"Taggia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236749001,
-    "wof:lastmodified":1449002406,
+    "wof:lastmodified":1466296327,
     "wof:name":"Viale Sistemi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [7.852298,43.849682,7.852298,43.849682],
+  "bbox": [
+    7.852298,
+    43.849682,
+    7.852298,
+    43.849682
+],
   "geometry": {"coordinates":[7.852298,43.849682],"type":"Point"}
 }

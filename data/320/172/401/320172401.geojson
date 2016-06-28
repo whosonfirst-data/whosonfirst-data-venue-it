@@ -2,13 +2,14 @@
   "id": 320172401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.611259,44.933907,7.611259,44.933907",
     "geom:latitude":44.933907,
     "geom:longitude":7.611259,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 Piobesi Torinese",
     "sg:city":"Piobesi Torinese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320172401,
-    "wof:lastmodified":1449012772,
+    "wof:lastmodified":1466295470,
     "wof:name":"Automa Sas Di Marconetto M. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.611259,44.933907,7.611259,44.933907],
+  "bbox": [
+    7.611259,
+    44.933907,
+    7.611259,
+    44.933907
+],
   "geometry": {"coordinates":[7.611259,44.933907],"type":"Point"}
 }

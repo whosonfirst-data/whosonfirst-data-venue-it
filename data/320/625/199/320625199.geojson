@@ -2,13 +2,14 @@
   "id": 320625199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.374343,44.483585,11.374343,44.483585",
     "geom:latitude":44.483585,
     "geom:longitude":11.374343,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40121 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320625199,
-    "wof:lastmodified":1449015023,
+    "wof:lastmodified":1466297750,
     "wof:name":"L & Q Marketing E Comunicazione Srl",
     "wof:parent_id":85900423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.374343,44.483585,11.374343,44.483585],
+  "bbox": [
+    11.374343,
+    44.483585,
+    11.374343,
+    44.483585
+],
   "geometry": {"coordinates":[11.374343,44.483585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286760543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.005992,43.83609,13.005992,43.83609",
     "geom:latitude":43.83609,
     "geom:longitude":13.005992,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 179 61032 Fano",
     "sg:city":"Fano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286760543,
-    "wof:lastmodified":1449017980,
+    "wof:lastmodified":1466295985,
     "wof:name":"Essepigi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cutting-out"
     ]
 },
-  "bbox": [13.005992,43.83609,13.005992,43.83609],
+  "bbox": [
+    13.005992,
+    43.83609,
+    13.005992,
+    43.83609
+],
   "geometry": {"coordinates":[13.005992,43.83609],"type":"Point"}
 }

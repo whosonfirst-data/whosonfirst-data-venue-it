@@ -2,13 +2,14 @@
   "id": 303476313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.323753,38.095169,13.323753,38.095169",
     "geom:latitude":38.095169,
     "geom:longitude":13.323753,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90131 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303476313,
-    "wof:lastmodified":1448999107,
+    "wof:lastmodified":1466296325,
     "wof:name":"Schimmenti Vincenzo",
     "wof:parent_id":85904839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.323753,38.095169,13.323753,38.095169],
+  "bbox": [
+    13.323753,
+    38.095169,
+    13.323753,
+    38.095169
+],
   "geometry": {"coordinates":[13.323753,38.095169],"type":"Point"}
 }

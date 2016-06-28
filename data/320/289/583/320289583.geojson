@@ -2,13 +2,14 @@
   "id": 320289583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.627248,44.988094,7.627248,44.988094",
     "geom:latitude":44.988094,
     "geom:longitude":7.627248,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10042 Nichelino",
     "sg:city":"Nichelino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320289583,
-    "wof:lastmodified":1449014355,
+    "wof:lastmodified":1466296637,
     "wof:name":"Nibel Impianti Chimico Farmaceutici",
     "wof:parent_id":85797003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.627248,44.988094,7.627248,44.988094],
+  "bbox": [
+    7.627248,
+    44.988094,
+    7.627248,
+    44.988094
+],
   "geometry": {"coordinates":[7.627248,44.988094],"type":"Point"}
 }

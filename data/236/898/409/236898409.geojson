@@ -2,13 +2,14 @@
   "id": 236898409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.792723,40.914749,14.792723,40.914749",
     "geom:latitude":40.914749,
     "geom:longitude":14.792723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Celentane Zona Industriale 83029 Solofra",
     "sg:city":"Solofra",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236898409,
-    "wof:lastmodified":1449001625,
+    "wof:lastmodified":1466297075,
     "wof:name":"Societa' Partenopea Pellami Di Siciliano Antonio E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glove"
     ]
 },
-  "bbox": [14.792723,40.914749,14.792723,40.914749],
+  "bbox": [
+    14.792723,
+    40.914749,
+    14.792723,
+    40.914749
+],
   "geometry": {"coordinates":[14.792723,40.914749],"type":"Point"}
 }

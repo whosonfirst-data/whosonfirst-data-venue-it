@@ -2,13 +2,14 @@
   "id": 319874023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.504013,41.836437,12.504013,41.836437",
     "geom:latitude":41.836437,
     "geom:longitude":12.504013,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00142 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319874023,
-    "wof:lastmodified":1449024842,
+    "wof:lastmodified":1466293180,
     "wof:name":"M. Electronic S.r.l.",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.504013,41.836437,12.504013,41.836437],
+  "bbox": [
+    12.504013,
+    41.836437,
+    12.504013,
+    41.836437
+],
   "geometry": {"coordinates":[12.504013,41.836437],"type":"Point"}
 }

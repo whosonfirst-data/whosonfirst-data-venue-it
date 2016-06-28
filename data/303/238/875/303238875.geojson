@@ -2,13 +2,14 @@
   "id": 303238875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.064797,43.132656,13.064797,43.132656",
     "geom:latitude":43.132656,
     "geom:longitude":13.064797,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Largo Feliciangeli 62032 Camerino",
     "sg:city":"Camerino",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303238875,
-    "wof:lastmodified":1448999035,
+    "wof:lastmodified":1466293462,
     "wof:name":"I.v.p.c. Marche Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "energy"
     ]
 },
-  "bbox": [13.064797,43.132656,13.064797,43.132656],
+  "bbox": [
+    13.064797,
+    43.132656,
+    13.064797,
+    43.132656
+],
   "geometry": {"coordinates":[13.064797,43.132656],"type":"Point"}
 }

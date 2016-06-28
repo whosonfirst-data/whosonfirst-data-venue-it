@@ -2,13 +2,14 @@
   "id": 219753755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.211215,45.477001,12.211215,45.477001",
     "geom:latitude":45.477001,
     "geom:longitude":12.211215,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72, V. Trieste30175 Marghera",
     "sg:city":"Marghera",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219753755,
-    "wof:lastmodified":1449070805,
+    "wof:lastmodified":1466293812,
     "wof:name":"Gmv Srll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "road"
     ]
 },
-  "bbox": [12.211215,45.477001,12.211215,45.477001],
+  "bbox": [
+    12.211215,
+    45.477001,
+    12.211215,
+    45.477001
+],
   "geometry": {"coordinates":[12.211215,45.477001],"type":"Point"}
 }

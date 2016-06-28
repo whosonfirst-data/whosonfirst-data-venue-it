@@ -2,13 +2,14 @@
   "id": 219633749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.922773,44.644482,10.922773,44.644482",
     "geom:latitude":44.644482,
     "geom:longitude":10.922773,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219633749,
-    "wof:lastmodified":1449073883,
+    "wof:lastmodified":1466292634,
     "wof:name":"Cespim Sas Di Gorini Osvaldo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.922773,44.644482,10.922773,44.644482],
+  "bbox": [
+    10.922773,
+    44.644482,
+    10.922773,
+    44.644482
+],
   "geometry": {"coordinates":[10.922773,44.644482],"type":"Point"}
 }

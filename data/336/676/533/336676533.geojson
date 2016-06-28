@@ -2,13 +2,14 @@
   "id": 336676533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.407673,45.475021,10.407673,45.475021",
     "geom:latitude":45.475021,
     "geom:longitude":10.407673,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"129, V. Sottopassaggio 25011 Calcinato",
     "sg:city":"Calcinato",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336676533,
-    "wof:lastmodified":1448997616,
+    "wof:lastmodified":1466294643,
     "wof:name":"Ganditex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.407673,45.475021,10.407673,45.475021],
+  "bbox": [
+    10.407673,
+    45.475021,
+    10.407673,
+    45.475021
+],
   "geometry": {"coordinates":[10.407673,45.475021],"type":"Point"}
 }

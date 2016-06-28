@@ -2,13 +2,14 @@
   "id": 269859017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.283201,45.219872,12.283201,45.219872",
     "geom:latitude":45.219872,
     "geom:longitude":12.283201,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67, Via Poli Giovanni 30015 Chioggia",
     "sg:city":"Chioggia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269859017,
-    "wof:lastmodified":1449037910,
+    "wof:lastmodified":1466293691,
     "wof:name":"C.r.a.m.e.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [12.283201,45.219872,12.283201,45.219872],
+  "bbox": [
+    12.283201,
+    45.219872,
+    12.283201,
+    45.219872
+],
   "geometry": {"coordinates":[12.283201,45.219872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269486609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.586054,43.877941,10.586054,43.877941",
     "geom:latitude":43.877941,
     "geom:longitude":10.586054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64, Via Dei Gheghi 55012 Capannori",
     "sg:city":"Capannori",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269486609,
-    "wof:lastmodified":1449037466,
+    "wof:lastmodified":1466288968,
     "wof:name":"Katy (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.586054,43.877941,10.586054,43.877941],
+  "bbox": [
+    10.586054,
+    43.877941,
+    10.586054,
+    43.877941
+],
   "geometry": {"coordinates":[10.586054,43.877941],"type":"Point"}
 }

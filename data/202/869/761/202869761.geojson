@@ -2,13 +2,14 @@
   "id": 202869761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.610591,41.721321,12.610591,41.721321",
     "geom:latitude":41.721321,
     "geom:longitude":12.610591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00055 Ladispoli",
     "sg:city":"Ladispoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202869761,
-    "wof:lastmodified":1449062453,
+    "wof:lastmodified":1466292892,
     "wof:name":"Ahmad Intisar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.610591,41.721321,12.610591,41.721321],
+  "bbox": [
+    12.610591,
+    41.721321,
+    12.610591,
+    41.721321
+],
   "geometry": {"coordinates":[12.610591,41.721321],"type":"Point"}
 }

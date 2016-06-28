@@ -2,13 +2,14 @@
   "id": 253029017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.446781,45.96114,8.446781,45.96114",
     "geom:latitude":45.96114,
     "geom:longitude":8.446781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28802 Mergozzo",
     "sg:city":"Mergozzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253029017,
-    "wof:lastmodified":1449064077,
+    "wof:lastmodified":1466289215,
     "wof:name":"Seam Cover Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.446781,45.96114,8.446781,45.96114],
+  "bbox": [
+    8.446781,
+    45.96114,
+    8.446781,
+    45.96114
+],
   "geometry": {"coordinates":[8.446781,45.96114],"type":"Point"}
 }

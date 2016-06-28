@@ -2,13 +2,14 @@
   "id": 287147647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.404939,45.853374,9.404939,45.853374",
     "geom:latitude":45.853374,
     "geom:longitude":9.404939,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23900 Lecco",
     "sg:city":"Lecco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287147647,
-    "wof:lastmodified":1449001483,
+    "wof:lastmodified":1466291552,
     "wof:name":"Guarnaroli Francesco Di Guarnaroli Renato & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.404939,45.853374,9.404939,45.853374],
+  "bbox": [
+    9.404939,
+    45.853374,
+    9.404939,
+    45.853374
+],
   "geometry": {"coordinates":[9.404939,45.853374],"type":"Point"}
 }

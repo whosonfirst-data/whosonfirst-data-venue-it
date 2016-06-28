@@ -2,13 +2,14 @@
   "id": 219359271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.249545,43.775291,11.249545,43.775291",
     "geom:latitude":43.775291,
     "geom:longitude":11.249545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219359271,
-    "wof:lastmodified":1449070331,
+    "wof:lastmodified":1466289906,
     "wof:name":"Rifugio Sport Srl",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "articoli"
     ]
 },
-  "bbox": [11.249545,43.775291,11.249545,43.775291],
+  "bbox": [
+    11.249545,
+    43.775291,
+    11.249545,
+    43.775291
+],
   "geometry": {"coordinates":[11.249545,43.775291],"type":"Point"}
 }

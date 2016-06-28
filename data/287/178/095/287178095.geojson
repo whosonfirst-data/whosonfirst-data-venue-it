@@ -2,13 +2,14 @@
   "id": 287178095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.865748,44.528511,10.865748,44.528511",
     "geom:latitude":44.528511,
     "geom:longitude":10.865748,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nazionale 14/16; Maranello; 41053",
     "sg:city":"Maranello",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287178095,
-    "wof:lastmodified":1449001318,
+    "wof:lastmodified":1466291965,
     "wof:name":"Starlight Tours Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.865748,44.528511,10.865748,44.528511],
+  "bbox": [
+    10.865748,
+    44.528511,
+    10.865748,
+    44.528511
+],
   "geometry": {"coordinates":[10.865748,44.528511],"type":"Point"}
 }

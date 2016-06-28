@@ -2,13 +2,14 @@
   "id": 320769167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.418126,42.035885,13.418126,42.035885",
     "geom:latitude":42.035885,
     "geom:longitude":13.418126,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67051 Avezzano",
     "sg:classifiers":[],
     "sg:orig_category":"Materiali Edili",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320769167,
-    "wof:lastmodified":1449012515,
+    "wof:lastmodified":1466298108,
     "wof:name":"Siderurgica Lombardi Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.418126,42.035885,13.418126,42.035885],
+  "bbox": [
+    13.418126,
+    42.035885,
+    13.418126,
+    42.035885
+],
   "geometry": {"coordinates":[13.418126,42.035885],"type":"Point"}
 }

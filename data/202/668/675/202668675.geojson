@@ -2,13 +2,14 @@
   "id": 202668675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.523556,41.932568,12.523556,41.932568",
     "geom:latitude":41.932568,
     "geom:longitude":12.523556,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00137 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202668675,
-    "wof:lastmodified":1449061864,
+    "wof:lastmodified":1466290731,
     "wof:name":"L.a.c. Sas Di Diano Francesco",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.523556,41.932568,12.523556,41.932568],
+  "bbox": [
+    12.523556,
+    41.932568,
+    12.523556,
+    41.932568
+],
   "geometry": {"coordinates":[12.523556,41.932568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186550297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.387969,40.628517,14.387969,40.628517",
     "geom:latitude":40.628517,
     "geom:longitude":14.387969,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"254, Corso Italia 80067 Sorrento",
     "sg:city":"Sorrento",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186550297,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466292790,
     "wof:name":"Hotel Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [14.387969,40.628517,14.387969,40.628517],
+  "bbox": [
+    14.387969,
+    40.628517,
+    14.387969,
+    40.628517
+],
   "geometry": {"coordinates":[14.387969,40.628517],"type":"Point"}
 }

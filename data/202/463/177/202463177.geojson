@@ -2,13 +2,14 @@
   "id": 202463177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.554015,38.18322,15.554015,38.18322",
     "geom:latitude":38.18322,
     "geom:longitude":15.554015,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98123 Messina",
     "sg:city":"Messina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202463177,
-    "wof:lastmodified":1449061857,
+    "wof:lastmodified":1466295753,
     "wof:name":"Bogani Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.554015,38.18322,15.554015,38.18322],
+  "bbox": [
+    15.554015,
+    38.18322,
+    15.554015,
+    38.18322
+],
   "geometry": {"coordinates":[15.554015,38.18322],"type":"Point"}
 }

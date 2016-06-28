@@ -2,13 +2,14 @@
   "id": 202990461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.002442,44.469563,11.002442,44.469563",
     "geom:latitude":44.469563,
     "geom:longitude":11.002442,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41056 Formica",
     "sg:city":"Formica",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202990461,
-    "wof:lastmodified":1449061786,
+    "wof:lastmodified":1466294076,
     "wof:name":"Toselli Giuliano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.002442,44.469563,11.002442,44.469563],
+  "bbox": [
+    11.002442,
+    44.469563,
+    11.002442,
+    44.469563
+],
   "geometry": {"coordinates":[11.002442,44.469563],"type":"Point"}
 }

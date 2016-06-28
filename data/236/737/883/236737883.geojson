@@ -2,13 +2,14 @@
   "id": 236737883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.309424,45.654121,9.309424,45.654121",
     "geom:latitude":45.654121,
     "geom:longitude":9.309424,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lega Lombarda 29 20050 Lesmo",
     "sg:city":"Lesmo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236737883,
-    "wof:lastmodified":1449002231,
+    "wof:lastmodified":1466296405,
     "wof:name":"Samia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "heating"
     ]
 },
-  "bbox": [9.309424,45.654121,9.309424,45.654121],
+  "bbox": [
+    9.309424,
+    45.654121,
+    9.309424,
+    45.654121
+],
   "geometry": {"coordinates":[9.309424,45.654121],"type":"Point"}
 }

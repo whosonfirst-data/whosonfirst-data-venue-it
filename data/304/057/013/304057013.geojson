@@ -2,13 +2,14 @@
   "id": 304057013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.955763,44.465134,11.955763,44.465134",
     "geom:latitude":44.465134,
     "geom:longitude":11.955763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Santa Barbara 143 48010 Fusignano",
     "sg:city":"Fusignano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":304057013,
-    "wof:lastmodified":1449043856,
+    "wof:lastmodified":1466292940,
     "wof:name":"Icme Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "asynchronous"
     ]
 },
-  "bbox": [11.955763,44.465134,11.955763,44.465134],
+  "bbox": [
+    11.955763,
+    44.465134,
+    11.955763,
+    44.465134
+],
   "geometry": {"coordinates":[11.955763,44.465134],"type":"Point"}
 }

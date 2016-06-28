@@ -2,13 +2,14 @@
   "id": 219619977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.765324,45.131401,7.765324,45.131401",
     "geom:latitude":45.131401,
     "geom:longitude":7.765324,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10036 Settimo Torinese",
     "sg:city":"Settimo Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219619977,
-    "wof:lastmodified":1449071032,
+    "wof:lastmodified":1466292498,
     "wof:name":"Vicari Michele",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.765324,45.131401,7.765324,45.131401],
+  "bbox": [
+    7.765324,
+    45.131401,
+    7.765324,
+    45.131401
+],
   "geometry": {"coordinates":[7.765324,45.131401],"type":"Point"}
 }

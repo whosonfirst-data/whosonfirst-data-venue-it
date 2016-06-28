@@ -2,13 +2,14 @@
   "id": 186552527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.251355,38.192978,13.251355,38.192978",
     "geom:latitude":38.192978,
     "geom:longitude":13.251355,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Statale 113 90040 Isola Delle Femmine",
     "sg:city":"Isola delle Femmine",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186552527,
-    "wof:lastmodified":1449051499,
+    "wof:lastmodified":1466292812,
     "wof:name":"Hotel Eufemia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [13.251355,38.192978,13.251355,38.192978],
+  "bbox": [
+    13.251355,
+    38.192978,
+    13.251355,
+    38.192978
+],
   "geometry": {"coordinates":[13.251355,38.192978],"type":"Point"}
 }

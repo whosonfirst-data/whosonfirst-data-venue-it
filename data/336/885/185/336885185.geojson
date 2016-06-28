@@ -2,13 +2,14 @@
   "id": 336885185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.345591,40.817535,14.345591,40.817535",
     "geom:latitude":40.817535,
     "geom:longitude":14.345591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80055 Portici",
     "sg:city":"Portici",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":336885185,
-    "wof:lastmodified":1448997525,
+    "wof:lastmodified":1466296706,
     "wof:name":"Biomedica Belga Srl",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.345591,40.817535,14.345591,40.817535],
+  "bbox": [
+    14.345591,
+    40.817535,
+    14.345591,
+    40.817535
+],
   "geometry": {"coordinates":[14.345591,40.817535],"type":"Point"}
 }

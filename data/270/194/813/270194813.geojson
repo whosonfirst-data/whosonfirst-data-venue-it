@@ -2,13 +2,14 @@
   "id": 270194813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.884335,46.327194,10.884335,46.327194",
     "geom:latitude":46.327194,
     "geom:longitude":10.884335,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38025 Dimaro",
     "sg:city":"Dimaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270194813,
-    "wof:lastmodified":1449010730,
+    "wof:lastmodified":1466291329,
     "wof:name":"Fantelli Nicola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.884335,46.327194,10.884335,46.327194],
+  "bbox": [
+    10.884335,
+    46.327194,
+    10.884335,
+    46.327194
+],
   "geometry": {"coordinates":[10.884335,46.327194],"type":"Point"}
 }

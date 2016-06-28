@@ -2,13 +2,14 @@
   "id": 253129795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.126132,43.834072,11.126132,43.834072",
     "geom:latitude":43.834072,
     "geom:longitude":11.126132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50013 Campi Bisenzio",
     "sg:city":"Campi Bisenzio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253129795,
-    "wof:lastmodified":1449065194,
+    "wof:lastmodified":1466290269,
     "wof:name":"Fonderia Montagna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.126132,43.834072,11.126132,43.834072],
+  "bbox": [
+    11.126132,
+    43.834072,
+    11.126132,
+    43.834072
+],
   "geometry": {"coordinates":[11.126132,43.834072],"type":"Point"}
 }

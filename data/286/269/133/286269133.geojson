@@ -2,13 +2,14 @@
   "id": 286269133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.50928,43.327858,10.50928,43.327858",
     "geom:latitude":43.327858,
     "geom:longitude":10.50928,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Via Val Di Cecina 57023 Cecina",
     "sg:city":"Cecina",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286269133,
-    "wof:lastmodified":1449017046,
+    "wof:lastmodified":1466289520,
     "wof:name":"Uni.ra (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [10.50928,43.327858,10.50928,43.327858],
+  "bbox": [
+    10.50928,
+    43.327858,
+    10.50928,
+    43.327858
+],
   "geometry": {"coordinates":[10.50928,43.327858],"type":"Point"}
 }

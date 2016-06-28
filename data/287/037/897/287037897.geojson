@@ -2,13 +2,14 @@
   "id": 287037897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.870601,45.675453,8.870601,45.675453",
     "geom:latitude":45.675453,
     "geom:longitude":8.870601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Opifici Valle 6 21054 Fagnano Olona",
     "sg:city":"Fagnano Olona",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287037897,
-    "wof:lastmodified":1449001606,
+    "wof:lastmodified":1466290063,
     "wof:name":"Gaspare Tronconi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tincture"
     ]
 },
-  "bbox": [8.870601,45.675453,8.870601,45.675453],
+  "bbox": [
+    8.870601,
+    45.675453,
+    8.870601,
+    45.675453
+],
   "geometry": {"coordinates":[8.870601,45.675453],"type":"Point"}
 }

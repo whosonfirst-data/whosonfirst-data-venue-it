@@ -2,13 +2,14 @@
   "id": 169798129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.723351,44.972546,7.723351,44.972546",
     "geom:latitude":44.972546,
     "geom:longitude":7.723351,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittime Del Vajont , 23/25 10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169798129,
-    "wof:lastmodified":1449033304,
+    "wof:lastmodified":1466296057,
     "wof:name":"Savojni S.p.a.",
     "wof:parent_id":85862789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.723351,44.972546,7.723351,44.972546],
+  "bbox": [
+    7.723351,
+    44.972546,
+    7.723351,
+    44.972546
+],
   "geometry": {"coordinates":[7.723351,44.972546],"type":"Point"}
 }

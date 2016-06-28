@@ -2,13 +2,14 @@
   "id": 252753091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.108267,44.85416,10.108267,44.85416",
     "geom:latitude":44.85416,
     "geom:longitude":10.108267,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43012 Fontanellato",
     "sg:city":"Fontanellato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252753091,
-    "wof:lastmodified":1449005527,
+    "wof:lastmodified":1466289386,
     "wof:name":"Manifatture Abbigliamento Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.108267,44.85416,10.108267,44.85416],
+  "bbox": [
+    10.108267,
+    44.85416,
+    10.108267,
+    44.85416
+],
   "geometry": {"coordinates":[10.108267,44.85416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286776253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.348394,45.985134,12.348394,45.985134",
     "geom:latitude":45.985134,
     "geom:longitude":12.348394,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Torre 17 31010 Fregona",
     "sg:city":"Fregona",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286776253,
-    "wof:lastmodified":1449015816,
+    "wof:lastmodified":1466296181,
     "wof:name":"Selcom S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [12.348394,45.985134,12.348394,45.985134],
+  "bbox": [
+    12.348394,
+    45.985134,
+    12.348394,
+    45.985134
+],
   "geometry": {"coordinates":[12.348394,45.985134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253722605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.800719,45.045025,8.800719,45.045025",
     "geom:latitude":45.045025,
     "geom:longitude":8.800719,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, V. Guasca 27037 Pieve Del Cairo",
     "sg:city":"Pieve del Cairo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253722605,
-    "wof:lastmodified":1449063867,
+    "wof:lastmodified":1466296802,
     "wof:name":"Eurofly Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "-"
     ]
 },
-  "bbox": [8.800719,45.045025,8.800719,45.045025],
+  "bbox": [
+    8.800719,
+    45.045025,
+    8.800719,
+    45.045025
+],
   "geometry": {"coordinates":[8.800719,45.045025],"type":"Point"}
 }

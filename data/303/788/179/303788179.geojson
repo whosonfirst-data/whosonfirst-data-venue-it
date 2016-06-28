@@ -2,13 +2,14 @@
   "id": 303788179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.874272,40.645481,14.874272,40.645481",
     "geom:latitude":40.645481,
     "geom:longitude":14.874272,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84085 Curteri",
     "sg:city":"Curteri",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303788179,
-    "wof:lastmodified":1448999382,
+    "wof:lastmodified":1466297788,
     "wof:name":"Monetta Sonia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.874272,40.645481,14.874272,40.645481],
+  "bbox": [
+    14.874272,
+    40.645481,
+    14.874272,
+    40.645481
+],
   "geometry": {"coordinates":[14.874272,40.645481],"type":"Point"}
 }

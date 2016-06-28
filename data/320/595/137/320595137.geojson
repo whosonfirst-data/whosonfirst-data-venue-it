@@ -2,13 +2,14 @@
   "id": 320595137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.834063,44.440323,11.834063,44.440323",
     "geom:latitude":44.440323,
     "geom:longitude":11.834063,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48017 Conselice",
     "sg:city":"Conselice",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320595137,
-    "wof:lastmodified":1449014603,
+    "wof:lastmodified":1466297686,
     "wof:name":"La Citta' Di Valenti Mario & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.834063,44.440323,11.834063,44.440323],
+  "bbox": [
+    11.834063,
+    44.440323,
+    11.834063,
+    44.440323
+],
   "geometry": {"coordinates":[11.834063,44.440323],"type":"Point"}
 }

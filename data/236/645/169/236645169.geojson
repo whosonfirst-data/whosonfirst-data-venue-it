@@ -2,13 +2,14 @@
   "id": 236645169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.513582,45.876453,12.513582,45.876453",
     "geom:latitude":45.876453,
     "geom:longitude":12.513582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Roncat 31018 Gaiarine",
     "sg:city":"Gaiarine",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236645169,
-    "wof:lastmodified":1449001924,
+    "wof:lastmodified":1466295430,
     "wof:name":"Poles (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.513582,45.876453,12.513582,45.876453],
+  "bbox": [
+    12.513582,
+    45.876453,
+    12.513582,
+    45.876453
+],
   "geometry": {"coordinates":[12.513582,45.876453],"type":"Point"}
 }

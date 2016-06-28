@@ -2,13 +2,14 @@
   "id": 286538465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.889375,44.78265,10.889375,44.78265",
     "geom:latitude":44.78265,
     "geom:longitude":10.889375,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Vivaldi Antonio 41012 Carpi",
     "sg:city":"Carpi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286538465,
-    "wof:lastmodified":1449015540,
+    "wof:lastmodified":1466293177,
     "wof:name":"Mafim S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.889375,44.78265,10.889375,44.78265],
+  "bbox": [
+    10.889375,
+    44.78265,
+    10.889375,
+    44.78265
+],
   "geometry": {"coordinates":[10.889375,44.78265],"type":"Point"}
 }

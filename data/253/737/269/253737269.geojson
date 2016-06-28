@@ -2,13 +2,14 @@
   "id": 253737269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.739533,43.24791,13.739533,43.24791",
     "geom:latitude":43.24791,
     "geom:longitude":13.739533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70, Via Garda 63018 Porto Sant'elpidio",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":253737269,
-    "wof:lastmodified":1449063465,
+    "wof:lastmodified":1466297029,
     "wof:name":"Silver Di Castoldi Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.739533,43.24791,13.739533,43.24791],
+  "bbox": [
+    13.739533,
+    43.24791,
+    13.739533,
+    43.24791
+],
   "geometry": {"coordinates":[13.739533,43.24791],"type":"Point"}
 }

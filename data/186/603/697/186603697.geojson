@@ -2,13 +2,14 @@
   "id": 186603697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.053044,37.572632,15.053044,37.572632",
     "geom:latitude":37.572632,
     "geom:longitude":15.053044,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95030 Mascalucia",
     "sg:city":"Mascalucia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186603697,
-    "wof:lastmodified":1449052591,
+    "wof:lastmodified":1466293331,
     "wof:name":"Costa Arredamenti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.053044,37.572632,15.053044,37.572632],
+  "bbox": [
+    15.053044,
+    37.572632,
+    15.053044,
+    37.572632
+],
   "geometry": {"coordinates":[15.053044,37.572632],"type":"Point"}
 }

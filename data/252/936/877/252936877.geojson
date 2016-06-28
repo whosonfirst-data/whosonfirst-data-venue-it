@@ -2,13 +2,14 @@
   "id": 252936877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.844145,44.647648,10.844145,44.647648",
     "geom:latitude":44.647648,
     "geom:longitude":10.844145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Cittanova",
     "sg:classifiers":[],
     "sg:orig_category":"Zootecnia E Pesca, Allevamento Piccoli Animali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252936877,
-    "wof:lastmodified":1449005769,
+    "wof:lastmodified":1466291410,
     "wof:name":"Testi Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.844145,44.647648,10.844145,44.647648],
+  "bbox": [
+    10.844145,
+    44.647648,
+    10.844145,
+    44.647648
+],
   "geometry": {"coordinates":[10.844145,44.647648],"type":"Point"}
 }

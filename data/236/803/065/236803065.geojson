@@ -2,13 +2,14 @@
   "id": 236803065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.564183,44.979389,8.564183,44.979389",
     "geom:latitude":44.979389,
     "geom:longitude":8.564183,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15048 Valenza",
     "sg:city":"Valenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236803065,
-    "wof:lastmodified":1449005296,
+    "wof:lastmodified":1466296578,
     "wof:name":"Bassan Lirio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.564183,44.979389,8.564183,44.979389],
+  "bbox": [
+    8.564183,
+    44.979389,
+    8.564183,
+    44.979389
+],
   "geometry": {"coordinates":[8.564183,44.979389],"type":"Point"}
 }

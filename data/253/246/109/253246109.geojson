@@ -2,13 +2,14 @@
   "id": 253246109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.203736,45.527451,10.203736,45.527451",
     "geom:latitude":45.527451,
     "geom:longitude":10.203736,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25125 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253246109,
-    "wof:lastmodified":1449063020,
+    "wof:lastmodified":1466291520,
     "wof:name":"Bordone Tullio",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.203736,45.527451,10.203736,45.527451],
+  "bbox": [
+    10.203736,
+    45.527451,
+    10.203736,
+    45.527451
+],
   "geometry": {"coordinates":[10.203736,45.527451],"type":"Point"}
 }

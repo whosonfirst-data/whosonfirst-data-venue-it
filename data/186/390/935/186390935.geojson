@@ -2,13 +2,14 @@
   "id": 186390935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.691964,45.676632,9.691964,45.676632",
     "geom:latitude":45.676632,
     "geom:longitude":9.691964,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavour 18 24050 Orio Al Serio",
     "sg:city":"Orio al Serio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186390935,
-    "wof:lastmodified":1449053055,
+    "wof:lastmodified":1466291272,
     "wof:name":"Industria Chimica Panzeri Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auxiliary"
     ]
 },
-  "bbox": [9.691964,45.676632,9.691964,45.676632],
+  "bbox": [
+    9.691964,
+    45.676632,
+    9.691964,
+    45.676632
+],
   "geometry": {"coordinates":[9.691964,45.676632],"type":"Point"}
 }

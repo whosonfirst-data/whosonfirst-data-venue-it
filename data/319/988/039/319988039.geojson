@@ -2,13 +2,14 @@
   "id": 319988039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.409161,45.453648,10.409161,45.453648",
     "geom:latitude":45.453648,
     "geom:longitude":10.409161,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Ponte San Marco 25011 Calcinato",
     "sg:city":"Calcinato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319988039,
-    "wof:lastmodified":1449024339,
+    "wof:lastmodified":1466294647,
     "wof:name":"C3f Di Chittolina Evaristo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.409161,45.453648,10.409161,45.453648],
+  "bbox": [
+    10.409161,
+    45.453648,
+    10.409161,
+    45.453648
+],
   "geometry": {"coordinates":[10.409161,45.453648],"type":"Point"}
 }

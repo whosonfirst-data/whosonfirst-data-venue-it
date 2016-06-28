@@ -2,13 +2,14 @@
   "id": 202685081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.575175,44.360649,8.575175,44.360649",
     "geom:latitude":44.360649,
     "geom:longitude":8.575175,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17019 Varazze",
     "sg:city":"Varazze",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202685081,
-    "wof:lastmodified":1449062568,
+    "wof:lastmodified":1466290910,
     "wof:name":"Autostrade Concessioni E Costruzioni Autostrade (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.575175,44.360649,8.575175,44.360649],
+  "bbox": [
+    8.575175,
+    44.360649,
+    8.575175,
+    44.360649
+],
   "geometry": {"coordinates":[8.575175,44.360649],"type":"Point"}
 }

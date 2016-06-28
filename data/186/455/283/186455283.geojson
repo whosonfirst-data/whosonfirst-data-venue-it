@@ -2,13 +2,14 @@
   "id": 186455283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.122934,45.74884,9.122934,45.74884",
     "geom:latitude":45.74884,
     "geom:longitude":9.122934,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Como 15 22060 Figino Serenza",
     "sg:city":"Figino Serenza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186455283,
-    "wof:lastmodified":1449052572,
+    "wof:lastmodified":1466291862,
     "wof:name":"Bianchi & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brass"
     ]
 },
-  "bbox": [9.122934,45.74884,9.122934,45.74884],
+  "bbox": [
+    9.122934,
+    45.74884,
+    9.122934,
+    45.74884
+],
   "geometry": {"coordinates":[9.122934,45.74884],"type":"Point"}
 }

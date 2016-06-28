@@ -2,13 +2,14 @@
   "id": 320041387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.48243,45.189674,11.48243,45.189674",
     "geom:latitude":45.189674,
     "geom:longitude":11.48243,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35040 Casale Di Scodosia",
     "sg:city":"Casale di Scodosia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320041387,
-    "wof:lastmodified":1449012627,
+    "wof:lastmodified":1466293909,
     "wof:name":"Gabaldo Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.48243,45.189674,11.48243,45.189674],
+  "bbox": [
+    11.48243,
+    45.189674,
+    11.48243,
+    45.189674
+],
   "geometry": {"coordinates":[11.48243,45.189674],"type":"Point"}
 }

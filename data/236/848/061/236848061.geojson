@@ -2,13 +2,14 @@
   "id": 236848061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.366062,40.786572,14.366062,40.786572",
     "geom:latitude":40.786572,
     "geom:longitude":14.366062,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80059 Torre Del Greco",
     "sg:city":"Torre del Greco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236848061,
-    "wof:lastmodified":1449002025,
+    "wof:lastmodified":1466296821,
     "wof:name":"Romano Italo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.366062,40.786572,14.366062,40.786572],
+  "bbox": [
+    14.366062,
+    40.786572,
+    14.366062,
+    40.786572
+],
   "geometry": {"coordinates":[14.366062,40.786572],"type":"Point"}
 }

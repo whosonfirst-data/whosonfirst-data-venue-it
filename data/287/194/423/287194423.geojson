@@ -2,13 +2,14 @@
   "id": 287194423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.757455,37.199314,13.757455,37.199314",
     "geom:latitude":37.199314,
     "geom:longitude":13.757455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92022 Cammarata",
     "sg:city":"Cammarata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287194423,
-    "wof:lastmodified":1449001441,
+    "wof:lastmodified":1466292168,
     "wof:name":"Bongiovanni Calogero - Gromet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.757455,37.199314,13.757455,37.199314],
+  "bbox": [
+    13.757455,
+    37.199314,
+    13.757455,
+    37.199314
+],
   "geometry": {"coordinates":[13.757455,37.199314],"type":"Point"}
 }

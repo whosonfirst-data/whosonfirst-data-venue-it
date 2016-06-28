@@ -2,13 +2,14 @@
   "id": 186563113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.813229,46.301533,10.813229,46.301533",
     "geom:latitude":46.301533,
     "geom:longitude":10.813229,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1400, Localita' Marilleva 1400 38020 Mezzana",
     "sg:city":"Mezzana",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186563113,
-    "wof:lastmodified":1449050303,
+    "wof:lastmodified":1466292909,
     "wof:name":"Hotel Solaria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [10.813229,46.301533,10.813229,46.301533],
+  "bbox": [
+    10.813229,
+    46.301533,
+    10.813229,
+    46.301533
+],
   "geometry": {"coordinates":[10.813229,46.301533],"type":"Point"}
 }

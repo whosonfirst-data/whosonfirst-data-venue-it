@@ -2,13 +2,14 @@
   "id": 185627677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.265429,40.911377,14.265429,40.911377",
     "geom:latitude":40.911377,
     "geom:longitude":14.265429,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Napoli 92/98; Arzano",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185627677,
-    "wof:lastmodified":1449008252,
+    "wof:lastmodified":1466294322,
     "wof:name":"Banca Della Provincia, Di Napoli",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.265429,40.911377,14.265429,40.911377],
+  "bbox": [
+    14.265429,
+    40.911377,
+    14.265429,
+    40.911377
+],
   "geometry": {"coordinates":[14.265429,40.911377],"type":"Point"}
 }

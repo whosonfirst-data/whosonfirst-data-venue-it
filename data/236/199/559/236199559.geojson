@@ -2,13 +2,14 @@
   "id": 236199559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.225206,45.501961,9.225206,45.501961",
     "geom:latitude":45.501961,
     "geom:longitude":9.225206,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236199559,
-    "wof:lastmodified":1449001930,
+    "wof:lastmodified":1466290893,
     "wof:name":"Alson Di Falsoni Walter",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.225206,45.501961,9.225206,45.501961],
+  "bbox": [
+    9.225206,
+    45.501961,
+    9.225206,
+    45.501961
+],
   "geometry": {"coordinates":[9.225206,45.501961],"type":"Point"}
 }

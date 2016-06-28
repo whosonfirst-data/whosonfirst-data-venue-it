@@ -2,13 +2,14 @@
   "id": 270490177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.659952,45.955021,12.659952,45.955021",
     "geom:latitude":45.955021,
     "geom:longitude":12.659952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"C.so Vittorio E., 47; Pordenone; 33170",
     "sg:city":"Pordenone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270490177,
-    "wof:lastmodified":1449010847,
+    "wof:lastmodified":1466294935,
     "wof:name":"Pordenone Cci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "commerce"
     ]
 },
-  "bbox": [12.659952,45.955021,12.659952,45.955021],
+  "bbox": [
+    12.659952,
+    45.955021,
+    12.659952,
+    45.955021
+],
   "geometry": {"coordinates":[12.659952,45.955021],"type":"Point"}
 }

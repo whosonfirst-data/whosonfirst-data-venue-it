@@ -2,13 +2,14 @@
   "id": 320461943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.841352,45.665398,11.841352,45.665398",
     "geom:latitude":45.665398,
     "geom:longitude":11.841352,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35015 Galliera Veneta",
     "sg:city":"Galliera Veneta",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320461943,
-    "wof:lastmodified":1449012688,
+    "wof:lastmodified":1466297629,
     "wof:name":"Dolzan Impianti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.841352,45.665398,11.841352,45.665398],
+  "bbox": [
+    11.841352,
+    45.665398,
+    11.841352,
+    45.665398
+],
   "geometry": {"coordinates":[11.841352,45.665398],"type":"Point"}
 }

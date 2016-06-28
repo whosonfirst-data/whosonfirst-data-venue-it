@@ -2,13 +2,14 @@
   "id": 219241669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.820898,45.324017,9.820898,45.324017",
     "geom:latitude":45.324017,
     "geom:longitude":9.820898,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Industrie, 3/5 26018 Trigolo",
     "sg:city":"Trigolo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219241669,
-    "wof:lastmodified":1449073815,
+    "wof:lastmodified":1466295989,
     "wof:name":"Nicole Collezioni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shirt"
     ]
 },
-  "bbox": [9.820898,45.324017,9.820898,45.324017],
+  "bbox": [
+    9.820898,
+    45.324017,
+    9.820898,
+    45.324017
+],
   "geometry": {"coordinates":[9.820898,45.324017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252756247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.470557,41.864441,12.470557,41.864441",
     "geom:latitude":41.864441,
     "geom:longitude":12.470557,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00146 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252756247,
-    "wof:lastmodified":1449006076,
+    "wof:lastmodified":1466289421,
     "wof:name":"Prenatal Spa",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.470557,41.864441,12.470557,41.864441],
+  "bbox": [
+    12.470557,
+    41.864441,
+    12.470557,
+    41.864441
+],
   "geometry": {"coordinates":[12.470557,41.864441],"type":"Point"}
 }

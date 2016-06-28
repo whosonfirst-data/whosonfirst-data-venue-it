@@ -2,13 +2,14 @@
   "id": 287045617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.791378,39.810032,15.791378,39.810032",
     "geom:latitude":39.810032,
     "geom:longitude":15.791378,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87029 Scalea",
     "sg:city":"Scalea",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287045617,
-    "wof:lastmodified":1449001475,
+    "wof:lastmodified":1466290158,
     "wof:name":"Caff\u00c8 El Salvador",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.791378,39.810032,15.791378,39.810032],
+  "bbox": [
+    15.791378,
+    39.810032,
+    15.791378,
+    39.810032
+],
   "geometry": {"coordinates":[15.791378,39.810032],"type":"Point"}
 }

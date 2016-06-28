@@ -2,13 +2,14 @@
   "id": 303314875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.015652,45.624889,9.015652,45.624889",
     "geom:latitude":45.624889,
     "geom:longitude":9.015652,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Stra Madonna 89 21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303314875,
-    "wof:lastmodified":1449000462,
+    "wof:lastmodified":1466294402,
     "wof:name":"Innovaterm Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [9.015652,45.624889,9.015652,45.624889],
+  "bbox": [
+    9.015652,
+    45.624889,
+    9.015652,
+    45.624889
+],
   "geometry": {"coordinates":[9.015652,45.624889],"type":"Point"}
 }

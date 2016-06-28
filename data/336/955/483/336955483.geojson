@@ -2,13 +2,14 @@
   "id": 336955483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.318465,43.104435,12.318465,43.104435",
     "geom:latitude":43.104435,
     "geom:longitude":12.318465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06073 Corciano",
     "sg:city":"Corciano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336955483,
-    "wof:lastmodified":1448997677,
+    "wof:lastmodified":1466297177,
     "wof:name":"Lombi Riccardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.318465,43.104435,12.318465,43.104435],
+  "bbox": [
+    12.318465,
+    43.104435,
+    12.318465,
+    43.104435
+],
   "geometry": {"coordinates":[12.318465,43.104435],"type":"Point"}
 }

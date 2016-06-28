@@ -2,13 +2,14 @@
   "id": 219822401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.022562,45.750931,9.022562,45.750931",
     "geom:latitude":45.750931,
     "geom:longitude":9.022562,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22071 Cadorago",
     "sg:city":"Cadorago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219822401,
-    "wof:lastmodified":1449073810,
+    "wof:lastmodified":1466294502,
     "wof:name":"Cofibox Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.022562,45.750931,9.022562,45.750931],
+  "bbox": [
+    9.022562,
+    45.750931,
+    9.022562,
+    45.750931
+],
   "geometry": {"coordinates":[9.022562,45.750931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336849005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.867179,45.303989,8.867179,45.303989",
     "geom:latitude":45.303989,
     "geom:longitude":8.867179,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, V. Perugino 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336849005,
-    "wof:lastmodified":1448997148,
+    "wof:lastmodified":1466296753,
     "wof:name":"Fustellificio Elle Pi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.867179,45.303989,8.867179,45.303989],
+  "bbox": [
+    8.867179,
+    45.303989,
+    8.867179,
+    45.303989
+],
   "geometry": {"coordinates":[8.867179,45.303989],"type":"Point"}
 }

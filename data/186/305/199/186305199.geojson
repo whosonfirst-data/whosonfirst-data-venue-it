@@ -2,13 +2,14 @@
   "id": 186305199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.578443,45.908531,13.578443,45.908531",
     "geom:latitude":45.908531,
     "geom:longitude":13.578443,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34070 Savogna D'isonzo",
     "sg:classifiers":[],
     "sg:orig_category":"Bevande, Vini E Liquori",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186305199,
-    "wof:lastmodified":1449050791,
+    "wof:lastmodified":1466290550,
     "wof:name":"Solary Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.578443,45.908531,13.578443,45.908531],
+  "bbox": [
+    13.578443,
+    45.908531,
+    13.578443,
+    45.908531
+],
   "geometry": {"coordinates":[13.578443,45.908531],"type":"Point"}
 }

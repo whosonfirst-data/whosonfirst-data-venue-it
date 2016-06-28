@@ -2,13 +2,14 @@
   "id": 270006919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.130569,42.363129,14.130569,42.363129",
     "geom:latitude":42.363129,
     "geom:longitude":14.130569,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66100 Chieti",
     "sg:city":"Chieti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270006919,
-    "wof:lastmodified":1449010586,
+    "wof:lastmodified":1466289081,
     "wof:name":"Simet Di Bernardini Ottavio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.130569,42.363129,14.130569,42.363129],
+  "bbox": [
+    14.130569,
+    42.363129,
+    14.130569,
+    42.363129
+],
   "geometry": {"coordinates":[14.130569,42.363129],"type":"Point"}
 }

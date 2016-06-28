@@ -2,13 +2,14 @@
   "id": 169718495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.709173,43.233353,13.709173,43.233353",
     "geom:latitude":43.233353,
     "geom:longitude":13.709173,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vecchia Porto 1599 63019 Sant'elpidio A Mare",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169718495,
-    "wof:lastmodified":1449033398,
+    "wof:lastmodified":1466294249,
     "wof:name":"Andolfi & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mean"
     ]
 },
-  "bbox": [13.709173,43.233353,13.709173,43.233353],
+  "bbox": [
+    13.709173,
+    43.233353,
+    13.709173,
+    43.233353
+],
   "geometry": {"coordinates":[13.709173,43.233353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219958833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.649438,44.445747,11.649438,44.445747",
     "geom:latitude":44.445747,
     "geom:longitude":11.649438,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40023 Castel Guelfo Bolog.",
     "sg:classifiers":[],
     "sg:orig_category":"Impiantistica E Prodotti Tecnologici Per Edilizia. Forniture Industriali Per Prevenzione, Controllo E Sicurezza",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219958833,
-    "wof:lastmodified":1449073156,
+    "wof:lastmodified":1466295897,
     "wof:name":"Tecnocupole Pancaldi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.649438,44.445747,11.649438,44.445747],
+  "bbox": [
+    11.649438,
+    44.445747,
+    11.649438,
+    44.445747
+],
   "geometry": {"coordinates":[11.649438,44.445747],"type":"Point"}
 }

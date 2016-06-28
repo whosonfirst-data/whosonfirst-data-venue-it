@@ -2,13 +2,14 @@
   "id": 203095013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.233569,46.790253,11.233569,46.790253",
     "geom:latitude":46.790253,
     "geom:longitude":11.233569,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39015 San Leonardo In Passiria",
     "sg:city":"San Leonardo in Passiria",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203095013,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466296345,
     "wof:name":"Hofer Heinrich & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.233569,46.790253,11.233569,46.790253],
+  "bbox": [
+    11.233569,
+    46.790253,
+    11.233569,
+    46.790253
+],
   "geometry": {"coordinates":[11.233569,46.790253],"type":"Point"}
 }

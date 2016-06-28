@@ -2,13 +2,14 @@
   "id": 320691471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.273092,45.409405,9.273092,45.409405",
     "geom:latitude":45.409405,
     "geom:longitude":9.273092,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Mesero",
     "sg:city":"Mesero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320691471,
-    "wof:lastmodified":1449011557,
+    "wof:lastmodified":1466297996,
     "wof:name":"Giuliani Giuseppe",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.273092,45.409405,9.273092,45.409405],
+  "bbox": [
+    9.273092,
+    45.409405,
+    9.273092,
+    45.409405
+],
   "geometry": {"coordinates":[9.273092,45.409405],"type":"Point"}
 }

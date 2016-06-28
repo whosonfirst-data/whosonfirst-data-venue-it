@@ -2,13 +2,14 @@
   "id": 202542259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.493762,45.53323,11.493762,45.53323",
     "geom:latitude":45.53323,
     "geom:longitude":11.493762,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36051 Creazzo",
     "sg:city":"Creazzo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202542259,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466289359,
     "wof:name":"Luxin Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.493762,45.53323,11.493762,45.53323],
+  "bbox": [
+    11.493762,
+    45.53323,
+    11.493762,
+    45.53323
+],
   "geometry": {"coordinates":[11.493762,45.53323],"type":"Point"}
 }

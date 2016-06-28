@@ -2,13 +2,14 @@
   "id": 253686733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.760708,45.577976,8.760708,45.577976",
     "geom:latitude":45.577976,
     "geom:longitude":8.760708,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21015 Sant'antonino Ticino",
     "sg:classifiers":[],
     "sg:orig_category":"Lavorazioni Metalli, Stampaggio E Saldatura",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253686733,
-    "wof:lastmodified":1449065042,
+    "wof:lastmodified":1466296593,
     "wof:name":"Forgiatura Ticino (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.760708,45.577976,8.760708,45.577976],
+  "bbox": [
+    8.760708,
+    45.577976,
+    8.760708,
+    45.577976
+],
   "geometry": {"coordinates":[8.760708,45.577976],"type":"Point"}
 }

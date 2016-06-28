@@ -2,13 +2,14 @@
   "id": 202849207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.407207,44.471329,11.407207,44.471329",
     "geom:latitude":44.471329,
     "geom:longitude":11.407207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202849207,
-    "wof:lastmodified":1449060577,
+    "wof:lastmodified":1466292696,
     "wof:name":"Corticelli Gomme Di Corticelli Alberto",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.407207,44.471329,11.407207,44.471329],
+  "bbox": [
+    11.407207,
+    44.471329,
+    11.407207,
+    44.471329
+],
   "geometry": {"coordinates":[11.407207,44.471329],"type":"Point"}
 }

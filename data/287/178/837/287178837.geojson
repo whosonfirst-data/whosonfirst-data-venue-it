@@ -2,13 +2,14 @@
   "id": 287178837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.646038,45.506023,12.646038,45.506023",
     "geom:latitude":45.506023,
     "geom:longitude":12.646038,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Marconi, 18; Lido Di Jesolo; 30017",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":287178837,
-    "wof:lastmodified":1449001317,
+    "wof:lastmodified":1466291977,
     "wof:name":"Try Triangle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.646038,45.506023,12.646038,45.506023],
+  "bbox": [
+    12.646038,
+    45.506023,
+    12.646038,
+    45.506023
+],
   "geometry": {"coordinates":[12.646038,45.506023],"type":"Point"}
 }

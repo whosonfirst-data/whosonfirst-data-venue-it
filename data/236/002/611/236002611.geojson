@@ -2,13 +2,14 @@
   "id": 236002611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.182256,42.418476,14.182256,42.418476",
     "geom:latitude":42.418476,
     "geom:longitude":14.182256,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66020 S.giovanni Teatino",
     "sg:classifiers":[],
     "sg:orig_category":"Depurazione E Trattamento Delle Acque - Impianti Ed Apparecchi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236002611,
-    "wof:lastmodified":1449004528,
+    "wof:lastmodified":1466288916,
     "wof:name":"Fox Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.182256,42.418476,14.182256,42.418476],
+  "bbox": [
+    14.182256,
+    42.418476,
+    14.182256,
+    42.418476
+],
   "geometry": {"coordinates":[14.182256,42.418476],"type":"Point"}
 }

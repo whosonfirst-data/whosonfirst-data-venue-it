@@ -2,13 +2,14 @@
   "id": 303993313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.251636,40.840096,14.251636,40.840096",
     "geom:latitude":40.840096,
     "geom:longitude":14.251636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Provinciale Melitiello 12 80025 Casandrino",
     "sg:city":"Casandrino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303993313,
-    "wof:lastmodified":1448999201,
+    "wof:lastmodified":1466298196,
     "wof:name":"Ceg Glas Expert Formedailluminare Srl",
     "wof:parent_id":85904835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "artistic"
     ]
 },
-  "bbox": [14.251636,40.840096,14.251636,40.840096],
+  "bbox": [
+    14.251636,
+    40.840096,
+    14.251636,
+    40.840096
+],
   "geometry": {"coordinates":[14.251636,40.840096],"type":"Point"}
 }

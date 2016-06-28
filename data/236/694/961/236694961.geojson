@@ -2,13 +2,14 @@
   "id": 236694961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.519329,40.864822,14.519329,40.864822",
     "geom:latitude":40.864822,
     "geom:longitude":14.519329,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Di Palma",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236694961,
-    "wof:lastmodified":1449002397,
+    "wof:lastmodified":1466295926,
     "wof:name":"Anic Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [14.519329,40.864822,14.519329,40.864822],
+  "bbox": [
+    14.519329,
+    40.864822,
+    14.519329,
+    40.864822
+],
   "geometry": {"coordinates":[14.519329,40.864822],"type":"Point"}
 }

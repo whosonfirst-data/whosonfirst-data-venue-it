@@ -2,13 +2,14 @@
   "id": 236014481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.14728,45.401703,9.14728,45.401703",
     "geom:latitude":45.401703,
     "geom:longitude":9.14728,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Fiori 3 20080 Zibido San Giacomo",
     "sg:city":"Zibido San Giacomo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236014481,
-    "wof:lastmodified":1449003235,
+    "wof:lastmodified":1466289032,
     "wof:name":"La Nuova Textil Elettrochimica Srl",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cleaning"
     ]
 },
-  "bbox": [9.14728,45.401703,9.14728,45.401703],
+  "bbox": [
+    9.14728,
+    45.401703,
+    9.14728,
+    45.401703
+],
   "geometry": {"coordinates":[9.14728,45.401703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203218091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.101236,44.079338,10.101236,44.079338",
     "geom:latitude":44.079338,
     "geom:longitude":10.101236,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"54033 Carrara",
     "sg:city":"Carrara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203218091,
-    "wof:lastmodified":1449026168,
+    "wof:lastmodified":1466290065,
     "wof:name":"B.m. Casa Immobiliare Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.101236,44.079338,10.101236,44.079338],
+  "bbox": [
+    10.101236,
+    44.079338,
+    10.101236,
+    44.079338
+],
   "geometry": {"coordinates":[10.101236,44.079338],"type":"Point"}
 }

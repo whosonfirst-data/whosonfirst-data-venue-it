@@ -2,13 +2,14 @@
   "id": 253739247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.376589,43.242393,13.376589,43.242393",
     "geom:latitude":43.242393,
     "geom:longitude":13.376589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada S. Lucia 62010 Pollenza",
     "sg:city":"Pollenza",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253739247,
-    "wof:lastmodified":1449064070,
+    "wof:lastmodified":1466297042,
     "wof:name":"Stephen New Line S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.376589,43.242393,13.376589,43.242393],
+  "bbox": [
+    13.376589,
+    43.242393,
+    13.376589,
+    43.242393
+],
   "geometry": {"coordinates":[13.376589,43.242393],"type":"Point"}
 }

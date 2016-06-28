@@ -2,13 +2,14 @@
   "id": 236157533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.233931,45.730709,11.233931,45.730709",
     "geom:latitude":45.730709,
     "geom:longitude":11.233931,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Fonte Regina 36030 Valli Del Pasubio",
     "sg:city":"Valli del Pasubio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236157533,
-    "wof:lastmodified":1449004681,
+    "wof:lastmodified":1466290446,
     "wof:name":"Fonte Regina (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [11.233931,45.730709,11.233931,45.730709],
+  "bbox": [
+    11.233931,
+    45.730709,
+    11.233931,
+    45.730709
+],
   "geometry": {"coordinates":[11.233931,45.730709],"type":"Point"}
 }

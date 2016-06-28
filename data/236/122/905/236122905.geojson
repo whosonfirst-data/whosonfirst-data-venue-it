@@ -2,13 +2,14 @@
   "id": 236122905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.173182,45.460251,9.173182,45.460251",
     "geom:latitude":45.460251,
     "geom:longitude":9.173182,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20034 Giussano",
     "sg:city":"Giussano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236122905,
-    "wof:lastmodified":1449003537,
+    "wof:lastmodified":1466290122,
     "wof:name":"Barzaghi Dr. Gianni",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.173182,45.460251,9.173182,45.460251],
+  "bbox": [
+    9.173182,
+    45.460251,
+    9.173182,
+    45.460251
+],
   "geometry": {"coordinates":[9.173182,45.460251],"type":"Point"}
 }

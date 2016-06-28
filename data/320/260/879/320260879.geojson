@@ -2,13 +2,14 @@
   "id": 320260879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.520049,41.944706,12.520049,41.944706",
     "geom:latitude":41.944706,
     "geom:longitude":12.520049,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00141 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320260879,
-    "wof:lastmodified":1449011881,
+    "wof:lastmodified":1466296474,
     "wof:name":"A.g. Ufficio Di Greco Anna",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.520049,41.944706,12.520049,41.944706],
+  "bbox": [
+    12.520049,
+    41.944706,
+    12.520049,
+    41.944706
+],
   "geometry": {"coordinates":[12.520049,41.944706],"type":"Point"}
 }

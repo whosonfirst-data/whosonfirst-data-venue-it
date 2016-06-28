@@ -2,13 +2,14 @@
   "id": 303753977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.479024,41.807556,12.479024,41.807556",
     "geom:latitude":41.807556,
     "geom:longitude":12.479024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00167 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303753977,
-    "wof:lastmodified":1448998410,
+    "wof:lastmodified":1466297718,
     "wof:name":"Gabrielli Salvatore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.479024,41.807556,12.479024,41.807556],
+  "bbox": [
+    12.479024,
+    41.807556,
+    12.479024,
+    41.807556
+],
   "geometry": {"coordinates":[12.479024,41.807556],"type":"Point"}
 }

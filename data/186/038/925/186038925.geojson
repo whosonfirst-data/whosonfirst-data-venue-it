@@ -2,13 +2,14 @@
   "id": 186038925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.678283,46.196358,11.678283,46.196358",
     "geom:latitude":46.196358,
     "geom:longitude":11.678283,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Caseri, 65; Caoria; 38050",
     "sg:city":"Caoria",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186038925,
-    "wof:lastmodified":1449052096,
+    "wof:lastmodified":1466294816,
     "wof:name":"Cassa Rurale Di Caoria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.678283,46.196358,11.678283,46.196358],
+  "bbox": [
+    11.678283,
+    46.196358,
+    11.678283,
+    46.196358
+],
   "geometry": {"coordinates":[11.678283,46.196358],"type":"Point"}
 }

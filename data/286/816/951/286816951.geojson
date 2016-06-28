@@ -2,13 +2,14 @@
   "id": 286816951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228028,45.539627,9.228028,45.539627",
     "geom:latitude":45.539627,
     "geom:longitude":9.228028,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286816951,
-    "wof:lastmodified":1449016903,
+    "wof:lastmodified":1466296623,
     "wof:name":"Allcom Di Valentini Ottimo",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.228028,45.539627,9.228028,45.539627],
+  "bbox": [
+    9.228028,
+    45.539627,
+    9.228028,
+    45.539627
+],
   "geometry": {"coordinates":[9.228028,45.539627],"type":"Point"}
 }

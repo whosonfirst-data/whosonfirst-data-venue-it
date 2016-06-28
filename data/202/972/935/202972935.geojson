@@ -2,13 +2,14 @@
   "id": 202972935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.199991,45.479774,9.199991,45.479774",
     "geom:latitude":45.479774,
     "geom:longitude":9.199991,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202972935,
-    "wof:lastmodified":1449061394,
+    "wof:lastmodified":1466293932,
     "wof:name":"Compagnia Ricerche Sul Territorio Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.199991,45.479774,9.199991,45.479774],
+  "bbox": [
+    9.199991,
+    45.479774,
+    9.199991,
+    45.479774
+],
   "geometry": {"coordinates":[9.199991,45.479774],"type":"Point"}
 }

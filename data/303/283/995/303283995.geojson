@@ -2,13 +2,14 @@
   "id": 303283995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.382999,45.636036,10.382999,45.636036",
     "geom:latitude":45.636036,
     "geom:longitude":10.382999,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25076 Odolo",
     "sg:city":"Odolo",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303283995,
-    "wof:lastmodified":1448998839,
+    "wof:lastmodified":1466294024,
     "wof:name":"Idrofiltri Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "part"
     ]
 },
-  "bbox": [10.382999,45.636036,10.382999,45.636036],
+  "bbox": [
+    10.382999,
+    45.636036,
+    10.382999,
+    45.636036
+],
   "geometry": {"coordinates":[10.382999,45.636036],"type":"Point"}
 }

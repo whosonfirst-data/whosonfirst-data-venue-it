@@ -2,13 +2,14 @@
   "id": 269833767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.629207,43.823471,10.629207,43.823471",
     "geom:latitude":43.823471,
     "geom:longitude":10.629207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Sesto 55016 Porcari",
     "sg:city":"Porcari",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269833767,
-    "wof:lastmodified":1449036441,
+    "wof:lastmodified":1466293416,
     "wof:name":"Cooperativa L'unitaria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.629207,43.823471,10.629207,43.823471],
+  "bbox": [
+    10.629207,
+    43.823471,
+    10.629207,
+    43.823471
+],
   "geometry": {"coordinates":[10.629207,43.823471],"type":"Point"}
 }

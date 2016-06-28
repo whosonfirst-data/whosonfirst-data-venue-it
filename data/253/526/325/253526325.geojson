@@ -2,13 +2,14 @@
   "id": 253526325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.352386,44.496933,11.352386,44.496933",
     "geom:latitude":44.496933,
     "geom:longitude":11.352386,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40126 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253526325,
-    "wof:lastmodified":1449063725,
+    "wof:lastmodified":1466294949,
     "wof:name":"Alma Mater Studiorum - Universit\u00c1 Di Bologna",
     "wof:parent_id":85904599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.352386,44.496933,11.352386,44.496933],
+  "bbox": [
+    11.352386,
+    44.496933,
+    11.352386,
+    44.496933
+],
   "geometry": {"coordinates":[11.352386,44.496933],"type":"Point"}
 }

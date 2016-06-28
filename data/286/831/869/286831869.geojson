@@ -2,13 +2,14 @@
   "id": 286831869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.527306,44.332413,8.527306,44.332413",
     "geom:latitude":44.332413,
     "geom:longitude":8.527306,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17015 Celle Ligure",
     "sg:city":"Celle Ligure",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286831869,
-    "wof:lastmodified":1449016919,
+    "wof:lastmodified":1466296577,
     "wof:name":"Olmo Giuseppe (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.527306,44.332413,8.527306,44.332413],
+  "bbox": [
+    8.527306,
+    44.332413,
+    8.527306,
+    44.332413
+],
   "geometry": {"coordinates":[8.527306,44.332413],"type":"Point"}
 }

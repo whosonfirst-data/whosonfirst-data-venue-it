@@ -2,13 +2,14 @@
   "id": 202568629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.649959,45.964226,12.649959,45.964226",
     "geom:latitude":45.964226,
     "geom:longitude":12.649959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33170 Pordenone",
     "sg:city":"Pordenone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202568629,
-    "wof:lastmodified":1449060048,
+    "wof:lastmodified":1466289624,
     "wof:name":"Vimac Security Di Polesello & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.649959,45.964226,12.649959,45.964226],
+  "bbox": [
+    12.649959,
+    45.964226,
+    12.649959,
+    45.964226
+],
   "geometry": {"coordinates":[12.649959,45.964226],"type":"Point"}
 }

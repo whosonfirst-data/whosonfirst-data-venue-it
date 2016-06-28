@@ -2,13 +2,14 @@
   "id": 236683447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.227909,45.504803,9.227909,45.504803",
     "geom:latitude":45.504803,
     "geom:longitude":9.227909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Iglesias 6 20128 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236683447,
-    "wof:lastmodified":1449002747,
+    "wof:lastmodified":1466295795,
     "wof:name":"Pompe Hydra Srl",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [9.227909,45.504803,9.227909,45.504803],
+  "bbox": [
+    9.227909,
+    45.504803,
+    9.227909,
+    45.504803
+],
   "geometry": {"coordinates":[9.227909,45.504803],"type":"Point"}
 }

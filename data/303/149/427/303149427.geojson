@@ -2,13 +2,14 @@
   "id": 303149427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.169472,45.415722,11.169472,45.415722",
     "geom:latitude":45.415722,
     "geom:longitude":11.169472,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37042 Caldiero",
     "sg:city":"Caldiero",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303149427,
-    "wof:lastmodified":1448998122,
+    "wof:lastmodified":1466292303,
     "wof:name":"Start Light Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.169472,45.415722,11.169472,45.415722],
+  "bbox": [
+    11.169472,
+    45.415722,
+    11.169472,
+    45.415722
+],
   "geometry": {"coordinates":[11.169472,45.415722],"type":"Point"}
 }

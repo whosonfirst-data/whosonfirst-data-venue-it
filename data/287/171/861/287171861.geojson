@@ -2,13 +2,14 @@
   "id": 287171861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.401802,43.716385,10.401802,43.716385",
     "geom:latitude":43.716385,
     "geom:longitude":10.401802,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Lungarno Pacinotti 4; Pisa",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287171861,
-    "wof:lastmodified":1449001597,
+    "wof:lastmodified":1466291873,
     "wof:name":"A.s.t.i. Viaggi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.401802,43.716385,10.401802,43.716385],
+  "bbox": [
+    10.401802,
+    43.716385,
+    10.401802,
+    43.716385
+],
   "geometry": {"coordinates":[10.401802,43.716385],"type":"Point"}
 }

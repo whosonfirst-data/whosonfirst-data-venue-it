@@ -2,13 +2,14 @@
   "id": 236555719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.646992,45.080135,7.646992,45.080135",
     "geom:latitude":45.080135,
     "geom:longitude":7.646992,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56, Corso Lecce 10143 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236555719,
-    "wof:lastmodified":1449004678,
+    "wof:lastmodified":1466294618,
     "wof:name":"Cappa Erasmo Successori (s.p.a.)",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [7.646992,45.080135,7.646992,45.080135],
+  "bbox": [
+    7.646992,
+    45.080135,
+    7.646992,
+    45.080135
+],
   "geometry": {"coordinates":[7.646992,45.080135],"type":"Point"}
 }

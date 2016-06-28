@@ -2,13 +2,14 @@
   "id": 303456585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.337177,45.567383,9.337177,45.567383",
     "geom:latitude":45.567383,
     "geom:longitude":9.337177,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20041 Agrate Brianza",
     "sg:city":"Agrate Brianza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303456585,
-    "wof:lastmodified":1448998842,
+    "wof:lastmodified":1466296167,
     "wof:name":"Compair Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.337177,45.567383,9.337177,45.567383],
+  "bbox": [
+    9.337177,
+    45.567383,
+    9.337177,
+    45.567383
+],
   "geometry": {"coordinates":[9.337177,45.567383],"type":"Point"}
 }

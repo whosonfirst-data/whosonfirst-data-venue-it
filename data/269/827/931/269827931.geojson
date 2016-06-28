@@ -2,13 +2,14 @@
   "id": 269827931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.012552,45.553452,12.012552,45.553452",
     "geom:latitude":45.553452,
     "geom:longitude":12.012552,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Dell' Artigianato 35010 Massanzago",
     "sg:city":"Massanzago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269827931,
-    "wof:lastmodified":1449036996,
+    "wof:lastmodified":1466293350,
     "wof:name":"Agricola Italiana Officina Meccanica (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.012552,45.553452,12.012552,45.553452],
+  "bbox": [
+    12.012552,
+    45.553452,
+    12.012552,
+    45.553452
+],
   "geometry": {"coordinates":[12.012552,45.553452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320519893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.083141,45.636097,12.083141,45.636097",
     "geom:latitude":45.636097,
     "geom:longitude":12.083141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Molino 22 31050 Morgano",
     "sg:city":"Morgano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320519893,
-    "wof:lastmodified":1449014713,
+    "wof:lastmodified":1466297617,
     "wof:name":"Co.mec. Costruzioni Meccaniche Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [12.083141,45.636097,12.083141,45.636097],
+  "bbox": [
+    12.083141,
+    45.636097,
+    12.083141,
+    45.636097
+],
   "geometry": {"coordinates":[12.083141,45.636097],"type":"Point"}
 }

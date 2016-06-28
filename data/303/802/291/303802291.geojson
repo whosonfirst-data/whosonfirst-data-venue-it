@@ -2,13 +2,14 @@
   "id": 303802291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.656477,41.560562,14.656477,41.560562",
     "geom:latitude":41.560562,
     "geom:longitude":14.656477,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86041 Bonefro",
     "sg:city":"Bonefro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303802291,
-    "wof:lastmodified":1449000109,
+    "wof:lastmodified":1466297836,
     "wof:name":"Croce Nicola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.656477,41.560562,14.656477,41.560562],
+  "bbox": [
+    14.656477,
+    41.560562,
+    14.656477,
+    41.560562
+],
   "geometry": {"coordinates":[14.656477,41.560562],"type":"Point"}
 }

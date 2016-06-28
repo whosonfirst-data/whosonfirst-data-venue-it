@@ -2,13 +2,14 @@
   "id": 253060339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.613835,45.582592,12.613835,45.582592",
     "geom:latitude":45.582592,
     "geom:longitude":12.613835,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30016 Jesolo",
     "sg:classifiers":[],
     "sg:orig_category":"Accessori Moda D'abbigliamento. Complementi Di Arredamento. Tempo Libero - Articoli E Forniture",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":253060339,
-    "wof:lastmodified":1449065515,
+    "wof:lastmodified":1466289546,
     "wof:name":"Marti Di Amadardo Gianfranco & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.613835,45.582592,12.613835,45.582592],
+  "bbox": [
+    12.613835,
+    45.582592,
+    12.613835,
+    45.582592
+],
   "geometry": {"coordinates":[12.613835,45.582592],"type":"Point"}
 }

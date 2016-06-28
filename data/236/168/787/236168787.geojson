@@ -2,13 +2,14 @@
   "id": 236168787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.201725,44.335815,9.201725,44.335815",
     "geom:latitude":44.335815,
     "geom:longitude":9.201725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Somalia 16038 Santa Margherita Ligure",
     "sg:city":"Santa Margherita Ligure",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236168787,
-    "wof:lastmodified":1449003361,
+    "wof:lastmodified":1466290553,
     "wof:name":"S.a.m.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [9.201725,44.335815,9.201725,44.335815],
+  "bbox": [
+    9.201725,
+    44.335815,
+    9.201725,
+    44.335815
+],
   "geometry": {"coordinates":[9.201725,44.335815],"type":"Point"}
 }

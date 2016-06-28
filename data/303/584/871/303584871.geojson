@@ -2,13 +2,14 @@
   "id": 303584871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.344611,44.33392,9.344611,44.33392",
     "geom:latitude":44.33392,
     "geom:longitude":9.344611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16043 Chiavari",
     "sg:city":"Caperana",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303584871,
-    "wof:lastmodified":1448998387,
+    "wof:lastmodified":1466297003,
     "wof:name":"Ars Selezione Arredi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.344611,44.33392,9.344611,44.33392],
+  "bbox": [
+    9.344611,
+    44.33392,
+    9.344611,
+    44.33392
+],
   "geometry": {"coordinates":[9.344611,44.33392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286452823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.870426,41.123817,16.870426,41.123817",
     "geom:latitude":41.123817,
     "geom:longitude":16.870426,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"68, Via Argiro 70121 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286452823,
-    "wof:lastmodified":1449015861,
+    "wof:lastmodified":1466292158,
     "wof:name":"Asselta Donna",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [16.870426,41.123817,16.870426,41.123817],
+  "bbox": [
+    16.870426,
+    41.123817,
+    16.870426,
+    41.123817
+],
   "geometry": {"coordinates":[16.870426,41.123817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236876349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.497764,44.39632,7.497764,44.39632",
     "geom:latitude":44.39632,
     "geom:longitude":7.497764,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Nazionale 12010 Cervasca",
     "sg:city":"Cervasca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236876349,
-    "wof:lastmodified":1449002176,
+    "wof:lastmodified":1466296958,
     "wof:name":"Borgna Vetri (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.497764,44.39632,7.497764,44.39632],
+  "bbox": [
+    7.497764,
+    44.39632,
+    7.497764,
+    44.39632
+],
   "geometry": {"coordinates":[7.497764,44.39632],"type":"Point"}
 }

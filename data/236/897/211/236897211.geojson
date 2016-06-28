@@ -2,13 +2,14 @@
   "id": 236897211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.183307,45.469765,9.183307,45.469765",
     "geom:latitude":45.469765,
     "geom:longitude":9.183307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"68, Foro Buonaparte 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236897211,
-    "wof:lastmodified":1449004606,
+    "wof:lastmodified":1466297062,
     "wof:name":"Polycontact",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.183307,45.469765,9.183307,45.469765],
+  "bbox": [
+    9.183307,
+    45.469765,
+    9.183307,
+    45.469765
+],
   "geometry": {"coordinates":[9.183307,45.469765],"type":"Point"}
 }

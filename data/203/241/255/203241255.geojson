@@ -2,13 +2,14 @@
   "id": 203241255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.937605,44.552616,10.937605,44.552616",
     "geom:latitude":44.552616,
     "geom:longitude":10.937605,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41051 Castelnuovo Rangone",
     "sg:city":"Castelnuovo Rangone",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203241255,
-    "wof:lastmodified":1449026834,
+    "wof:lastmodified":1466290283,
     "wof:name":"La Castelnovese Lattonieri Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.937605,44.552616,10.937605,44.552616],
+  "bbox": [
+    10.937605,
+    44.552616,
+    10.937605,
+    44.552616
+],
   "geometry": {"coordinates":[10.937605,44.552616],"type":"Point"}
 }

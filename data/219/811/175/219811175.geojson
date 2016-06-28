@@ -2,13 +2,14 @@
   "id": 219811175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.349618,45.880024,13.349618,45.880024",
     "geom:latitude":45.880024,
     "geom:longitude":13.349618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell'industria 2 33041 Aiello Del Friuli",
     "sg:city":"Aiello del Friuli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219811175,
-    "wof:lastmodified":1449072091,
+    "wof:lastmodified":1466294392,
     "wof:name":"Iride Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [13.349618,45.880024,13.349618,45.880024],
+  "bbox": [
+    13.349618,
+    45.880024,
+    13.349618,
+    45.880024
+],
   "geometry": {"coordinates":[13.349618,45.880024],"type":"Point"}
 }

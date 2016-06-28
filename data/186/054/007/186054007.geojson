@@ -2,13 +2,14 @@
   "id": 186054007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.24199,46.004444,11.24199,46.004444",
     "geom:latitude":46.004444,
     "geom:longitude":11.24199,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Largo Graziadei, 15; Caldonazzo; 38052",
     "sg:city":"Caldonazzo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186054007,
-    "wof:lastmodified":1449051650,
+    "wof:lastmodified":1466296309,
     "wof:name":"Cassa Rurale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.24199,46.004444,11.24199,46.004444],
+  "bbox": [
+    11.24199,
+    46.004444,
+    11.24199,
+    46.004444
+],
   "geometry": {"coordinates":[11.24199,46.004444],"type":"Point"}
 }

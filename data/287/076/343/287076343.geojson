@@ -2,13 +2,14 @@
   "id": 287076343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.235929,45.483204,12.235929,45.483204",
     "geom:latitude":45.483204,
     "geom:longitude":12.235929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91, V. Cappuccina 30172 Mestre",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287076343,
-    "wof:lastmodified":1449001363,
+    "wof:lastmodified":1466290612,
     "wof:name":"U.t.c. Sas Universal Transport Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [12.235929,45.483204,12.235929,45.483204],
+  "bbox": [
+    12.235929,
+    45.483204,
+    12.235929,
+    45.483204
+],
   "geometry": {"coordinates":[12.235929,45.483204],"type":"Point"}
 }

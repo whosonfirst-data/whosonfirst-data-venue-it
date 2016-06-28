@@ -2,13 +2,14 @@
   "id": 303360131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.088343,45.78392,12.088343,45.78392",
     "geom:latitude":45.78392,
     "geom:longitude":12.088343,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dalmazia 4 31040 Venegazzu'",
     "sg:classifiers":[
         {
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":303360131,
-    "wof:lastmodified":1449000003,
+    "wof:lastmodified":1466294957,
     "wof:name":"Volpato Sergio & C. Import Ed Export Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "skin"
     ]
 },
-  "bbox": [12.088343,45.78392,12.088343,45.78392],
+  "bbox": [
+    12.088343,
+    45.78392,
+    12.088343,
+    45.78392
+],
   "geometry": {"coordinates":[12.088343,45.78392],"type":"Point"}
 }

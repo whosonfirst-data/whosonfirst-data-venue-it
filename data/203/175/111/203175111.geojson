@@ -2,13 +2,14 @@
   "id": 203175111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.026861,44.678318,11.026861,44.678318",
     "geom:latitude":44.678318,
     "geom:longitude":11.026861,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41015 Nonantola",
     "sg:city":"Nonantola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203175111,
-    "wof:lastmodified":1449026296,
+    "wof:lastmodified":1466289630,
     "wof:name":"Baccarani & Bonettini Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.026861,44.678318,11.026861,44.678318],
+  "bbox": [
+    11.026861,
+    44.678318,
+    11.026861,
+    44.678318
+],
   "geometry": {"coordinates":[11.026861,44.678318],"type":"Point"}
 }

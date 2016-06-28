@@ -2,13 +2,14 @@
   "id": 286856475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.72156,45.662247,9.72156,45.662247",
     "geom:latitude":45.662247,
     "geom:longitude":9.72156,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24050 Grassobbio",
     "sg:city":"Grassobbio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286856475,
-    "wof:lastmodified":1449016026,
+    "wof:lastmodified":1466297048,
     "wof:name":"A.g.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.72156,45.662247,9.72156,45.662247],
+  "bbox": [
+    9.72156,
+    45.662247,
+    9.72156,
+    45.662247
+],
   "geometry": {"coordinates":[9.72156,45.662247],"type":"Point"}
 }

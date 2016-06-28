@@ -2,13 +2,14 @@
   "id": 220171557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.957053,45.354,11.957053,45.354",
     "geom:latitude":45.354,
     "geom:longitude":11.957053,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi, 12/14 35020 Legnaro",
     "sg:city":"Legnaro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220171557,
-    "wof:lastmodified":1449074886,
+    "wof:lastmodified":1466289290,
     "wof:name":"G.g.s. Di Gobbato Franco & C S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "injection"
     ]
 },
-  "bbox": [11.957053,45.354,11.957053,45.354],
+  "bbox": [
+    11.957053,
+    45.354,
+    11.957053,
+    45.354
+],
   "geometry": {"coordinates":[11.957053,45.354],"type":"Point"}
 }

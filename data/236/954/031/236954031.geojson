@@ -2,13 +2,14 @@
   "id": 236954031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62811,43.817806,7.62811,43.817806",
     "geom:latitude":43.817806,
     "geom:longitude":7.62811,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18033 Camporosso",
     "sg:city":"Camporosso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236954031,
-    "wof:lastmodified":1449004737,
+    "wof:lastmodified":1466297431,
     "wof:name":"Edilmarmo - Graniti Di Coppola Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62811,43.817806,7.62811,43.817806],
+  "bbox": [
+    7.62811,
+    43.817806,
+    7.62811,
+    43.817806
+],
   "geometry": {"coordinates":[7.62811,43.817806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320407261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.606889,44.922813,9.606889,44.922813",
     "geom:latitude":44.922813,
     "geom:longitude":9.606889,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29029 Rivergaro",
     "sg:city":"Rivergaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320407261,
-    "wof:lastmodified":1449013331,
+    "wof:lastmodified":1466297303,
     "wof:name":"Fontana Mauro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.606889,44.922813,9.606889,44.922813],
+  "bbox": [
+    9.606889,
+    44.922813,
+    9.606889,
+    44.922813
+],
   "geometry": {"coordinates":[9.606889,44.922813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253018987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.816499,42.103893,13.816499,42.103893",
     "geom:latitude":42.103893,
     "geom:longitude":13.816499,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67027 Raiano",
     "sg:classifiers":[],
     "sg:orig_category":"Accessori Dei Mezzi Di Trasporto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253018987,
-    "wof:lastmodified":1449064300,
+    "wof:lastmodified":1466289110,
     "wof:name":"Di Iorio Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.816499,42.103893,13.816499,42.103893],
+  "bbox": [
+    13.816499,
+    42.103893,
+    13.816499,
+    42.103893
+],
   "geometry": {"coordinates":[13.816499,42.103893],"type":"Point"}
 }

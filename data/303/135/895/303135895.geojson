@@ -2,13 +2,14 @@
   "id": 303135895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.167273,44.517124,11.167273,44.517124",
     "geom:latitude":44.517124,
     "geom:longitude":11.167273,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40056 Crespellano",
     "sg:city":"Crespellano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303135895,
-    "wof:lastmodified":1448999058,
+    "wof:lastmodified":1466292128,
     "wof:name":"Media Service Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.167273,44.517124,11.167273,44.517124],
+  "bbox": [
+    11.167273,
+    44.517124,
+    11.167273,
+    44.517124
+],
   "geometry": {"coordinates":[11.167273,44.517124],"type":"Point"}
 }

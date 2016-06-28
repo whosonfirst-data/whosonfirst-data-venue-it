@@ -2,13 +2,14 @@
   "id": 286321847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.185341,45.462021,9.185341,45.462021",
     "geom:latitude":45.462021,
     "geom:longitude":9.185341,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286321847,
-    "wof:lastmodified":1449015224,
+    "wof:lastmodified":1466290294,
     "wof:name":"I.s.k.con.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.185341,45.462021,9.185341,45.462021],
+  "bbox": [
+    9.185341,
+    45.462021,
+    9.185341,
+    45.462021
+],
   "geometry": {"coordinates":[9.185341,45.462021],"type":"Point"}
 }

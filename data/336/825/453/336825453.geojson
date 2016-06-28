@@ -2,13 +2,14 @@
   "id": 336825453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.557225,45.076553,7.557225,45.076553",
     "geom:latitude":45.076553,
     "geom:longitude":7.557225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64, Via Vajont 10098 Rivoli",
     "sg:city":"Rivoli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336825453,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466296456,
     "wof:name":"Fiamma (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.557225,45.076553,7.557225,45.076553],
+  "bbox": [
+    7.557225,
+    45.076553,
+    7.557225,
+    45.076553
+],
   "geometry": {"coordinates":[7.557225,45.076553],"type":"Point"}
 }

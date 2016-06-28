@@ -2,13 +2,14 @@
   "id": 253050141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.248473,40.839878,14.248473,40.839878",
     "geom:latitude":40.839878,
     "geom:longitude":14.248473,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80134 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253050141,
-    "wof:lastmodified":1449064457,
+    "wof:lastmodified":1466289439,
     "wof:name":"Merola Eduardo",
     "wof:parent_id":85904835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.248473,40.839878,14.248473,40.839878],
+  "bbox": [
+    14.248473,
+    40.839878,
+    14.248473,
+    40.839878
+],
   "geometry": {"coordinates":[14.248473,40.839878],"type":"Point"}
 }

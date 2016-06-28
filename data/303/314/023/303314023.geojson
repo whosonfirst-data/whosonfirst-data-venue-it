@@ -2,13 +2,14 @@
   "id": 303314023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.489537,42.653446,12.489537,42.653446",
     "geom:latitude":42.653446,
     "geom:longitude":12.489537,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vocabolo Stazione 6 05020 Montecastrilli",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303314023,
-    "wof:lastmodified":1449000462,
+    "wof:lastmodified":1466294389,
     "wof:name":"Cardinalini & C. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [12.489537,42.653446,12.489537,42.653446],
+  "bbox": [
+    12.489537,
+    42.653446,
+    12.489537,
+    42.653446
+],
   "geometry": {"coordinates":[12.489537,42.653446],"type":"Point"}
 }

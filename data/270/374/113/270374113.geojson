@@ -2,13 +2,14 @@
   "id": 270374113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.166413,45.368065,8.166413,45.368065",
     "geom:latitude":45.368065,
     "geom:longitude":8.166413,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13048 Santhi\u00e0",
     "sg:classifiers":[],
     "sg:orig_category":"Casseforti E Armadi Blindati",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270374113,
-    "wof:lastmodified":1449009696,
+    "wof:lastmodified":1466293560,
     "wof:name":"Societa' B.m. Di Olivero & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.166413,45.368065,8.166413,45.368065],
+  "bbox": [
+    8.166413,
+    45.368065,
+    8.166413,
+    45.368065
+],
   "geometry": {"coordinates":[8.166413,45.368065],"type":"Point"}
 }

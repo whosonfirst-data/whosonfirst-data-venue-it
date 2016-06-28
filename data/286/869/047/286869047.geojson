@@ -2,13 +2,14 @@
   "id": 286869047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.599983,44.667274,10.599983,44.667274",
     "geom:latitude":44.667274,
     "geom:longitude":10.599983,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Termotecnica E Riscaldamento, Apparecchiature E Servizi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286869047,
-    "wof:lastmodified":1449017859,
+    "wof:lastmodified":1466296872,
     "wof:name":"Corradini Luciano",
     "wof:parent_id":85904885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.599983,44.667274,10.599983,44.667274],
+  "bbox": [
+    10.599983,
+    44.667274,
+    10.599983,
+    44.667274
+],
   "geometry": {"coordinates":[10.599983,44.667274],"type":"Point"}
 }

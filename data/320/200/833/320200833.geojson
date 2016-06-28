@@ -2,13 +2,14 @@
   "id": 320200833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.110924,45.763004,9.110924,45.763004",
     "geom:latitude":45.763004,
     "geom:longitude":9.110924,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Senna Comasco",
     "sg:city":"Senna Comasco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320200833,
-    "wof:lastmodified":1449012761,
+    "wof:lastmodified":1466295823,
     "wof:name":"M.p.d. Costruzioni Meccaniche (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.110924,45.763004,9.110924,45.763004],
+  "bbox": [
+    9.110924,
+    45.763004,
+    9.110924,
+    45.763004
+],
   "geometry": {"coordinates":[9.110924,45.763004],"type":"Point"}
 }

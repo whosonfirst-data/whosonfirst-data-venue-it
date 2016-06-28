@@ -2,13 +2,14 @@
   "id": 286373823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.149254,45.186676,9.149254,45.186676",
     "geom:latitude":45.186676,
     "geom:longitude":9.149254,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286373823,
-    "wof:lastmodified":1449016719,
+    "wof:lastmodified":1466291026,
     "wof:name":"New Vision Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "optical"
     ]
 },
-  "bbox": [9.149254,45.186676,9.149254,45.186676],
+  "bbox": [
+    9.149254,
+    45.186676,
+    9.149254,
+    45.186676
+],
   "geometry": {"coordinates":[9.149254,45.186676],"type":"Point"}
 }

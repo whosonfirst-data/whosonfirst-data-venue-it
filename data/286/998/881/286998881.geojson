@@ -2,13 +2,14 @@
   "id": 286998881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.407481,41.543678,14.407481,41.543678",
     "geom:latitude":41.543678,
     "geom:longitude":14.407481,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Localita' Guadovito 86096 Macchiagodena",
     "sg:city":"Macchiagodena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286998881,
-    "wof:lastmodified":1449016156,
+    "wof:lastmodified":1466297625,
     "wof:name":"Confezioni Dalo Di Ciccone Angiolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [14.407481,41.543678,14.407481,41.543678],
+  "bbox": [
+    14.407481,
+    41.543678,
+    14.407481,
+    41.543678
+],
   "geometry": {"coordinates":[14.407481,41.543678],"type":"Point"}
 }

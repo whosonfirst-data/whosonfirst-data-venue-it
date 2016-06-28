@@ -2,13 +2,14 @@
   "id": 303739275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.970452,45.491764,11.970452,45.491764",
     "geom:latitude":45.491764,
     "geom:longitude":11.970452,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Villanova Di Camposampiero",
     "sg:city":"Villanova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303739275,
-    "wof:lastmodified":1448999151,
+    "wof:lastmodified":1466297692,
     "wof:name":"Carraro Renato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.970452,45.491764,11.970452,45.491764],
+  "bbox": [
+    11.970452,
+    45.491764,
+    11.970452,
+    45.491764
+],
   "geometry": {"coordinates":[11.970452,45.491764],"type":"Point"}
 }

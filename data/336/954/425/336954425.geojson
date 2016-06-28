@@ -2,13 +2,14 @@
   "id": 336954425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.629782,40.073586,15.629782,40.073586",
     "geom:latitude":40.073586,
     "geom:longitude":15.629782,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84073 Sapri",
     "sg:city":"Sapri",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336954425,
-    "wof:lastmodified":1448997884,
+    "wof:lastmodified":1466297387,
     "wof:name":"Limongi Dott. Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [15.629782,40.073586,15.629782,40.073586],
+  "bbox": [
+    15.629782,
+    40.073586,
+    15.629782,
+    40.073586
+],
   "geometry": {"coordinates":[15.629782,40.073586],"type":"Point"}
 }

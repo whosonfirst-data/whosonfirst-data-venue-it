@@ -2,13 +2,14 @@
   "id": 270036827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.94246,45.524731,10.94246,45.524731",
     "geom:latitude":45.524731,
     "geom:longitude":10.94246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37024 Negrar",
     "sg:city":"Negrar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270036827,
-    "wof:lastmodified":1449009169,
+    "wof:lastmodified":1466289424,
     "wof:name":"Betonspan Snc Di Sona Geom. Piergiorgio & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.94246,45.524731,10.94246,45.524731],
+  "bbox": [
+    10.94246,
+    45.524731,
+    10.94246,
+    45.524731
+],
   "geometry": {"coordinates":[10.94246,45.524731],"type":"Point"}
 }

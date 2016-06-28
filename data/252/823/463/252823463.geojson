@@ -2,13 +2,14 @@
   "id": 252823463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.141093,42.364395,14.141093,42.364395",
     "geom:latitude":42.364395,
     "geom:longitude":14.141093,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66100 Chieti",
     "sg:city":"Chieti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252823463,
-    "wof:lastmodified":1449006496,
+    "wof:lastmodified":1466290214,
     "wof:name":"Genevieve Di Peca Marisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.141093,42.364395,14.141093,42.364395],
+  "bbox": [
+    14.141093,
+    42.364395,
+    14.141093,
+    42.364395
+],
   "geometry": {"coordinates":[14.141093,42.364395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286743725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.772462,45.138077,7.772462,45.138077",
     "geom:latitude":45.138077,
     "geom:longitude":7.772462,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Italia 73 10040 Leini'",
     "sg:classifiers":[
         {
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286743725,
-    "wof:lastmodified":1449018064,
+    "wof:lastmodified":1466295770,
     "wof:name":"Seven Spa",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "creative"
     ]
 },
-  "bbox": [7.772462,45.138077,7.772462,45.138077],
+  "bbox": [
+    7.772462,
+    45.138077,
+    7.772462,
+    45.138077
+],
   "geometry": {"coordinates":[7.772462,45.138077],"type":"Point"}
 }

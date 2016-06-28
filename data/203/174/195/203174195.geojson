@@ -2,13 +2,14 @@
   "id": 203174195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.344471,44.534119,11.344471,44.534119",
     "geom:latitude":44.534119,
     "geom:longitude":11.344471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40129 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203174195,
-    "wof:lastmodified":1449025199,
+    "wof:lastmodified":1466289621,
     "wof:name":"Assoedil Srl",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.344471,44.534119,11.344471,44.534119],
+  "bbox": [
+    11.344471,
+    44.534119,
+    11.344471,
+    44.534119
+],
   "geometry": {"coordinates":[11.344471,44.534119],"type":"Point"}
 }

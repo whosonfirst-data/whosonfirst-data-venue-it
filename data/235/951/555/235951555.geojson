@@ -2,13 +2,14 @@
   "id": 235951555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.169991,39.253876,9.169991,39.253876",
     "geom:latitude":39.253876,
     "geom:longitude":9.169991,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Antonio Gallus 79 09047 Selargius",
     "sg:city":"Selargius",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235951555,
-    "wof:lastmodified":1449008284,
+    "wof:lastmodified":1466295029,
     "wof:name":"Sarda Acque Minerali Sam Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "italian"
     ]
 },
-  "bbox": [9.169991,39.253876,9.169991,39.253876],
+  "bbox": [
+    9.169991,
+    39.253876,
+    9.169991,
+    39.253876
+],
   "geometry": {"coordinates":[9.169991,39.253876],"type":"Point"}
 }

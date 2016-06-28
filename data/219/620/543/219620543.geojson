@@ -2,13 +2,14 @@
   "id": 219620543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.266829,40.861706,14.266829,40.861706",
     "geom:latitude":40.861706,
     "geom:longitude":14.266829,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80141 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219620543,
-    "wof:lastmodified":1449073614,
+    "wof:lastmodified":1466292504,
     "wof:name":"Zaino Vincenzo",
     "wof:parent_id":85904833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.266829,40.861706,14.266829,40.861706],
+  "bbox": [
+    14.266829,
+    40.861706,
+    14.266829,
+    40.861706
+],
   "geometry": {"coordinates":[14.266829,40.861706],"type":"Point"}
 }

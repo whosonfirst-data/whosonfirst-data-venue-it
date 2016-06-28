@@ -2,13 +2,14 @@
   "id": 236559243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.537948,45.899914,12.537948,45.899914",
     "geom:latitude":45.899914,
     "geom:longitude":12.537948,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Dante Alighieri 33070 Brugnera",
     "sg:city":"Brugnera",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236559243,
-    "wof:lastmodified":1449004378,
+    "wof:lastmodified":1466294650,
     "wof:name":"Celotto S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.537948,45.899914,12.537948,45.899914],
+  "bbox": [
+    12.537948,
+    45.899914,
+    12.537948,
+    45.899914
+],
   "geometry": {"coordinates":[12.537948,45.899914],"type":"Point"}
 }

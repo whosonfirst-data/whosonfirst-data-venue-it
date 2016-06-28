@@ -2,13 +2,14 @@
   "id": 304073453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.514634,38.018589,12.514634,38.018589",
     "geom:latitude":38.018589,
     "geom:longitude":12.514634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, V. G. Anca Omodei 91025 Marsala",
     "sg:city":"Marsala",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":304073453,
-    "wof:lastmodified":1449043629,
+    "wof:lastmodified":1466293168,
     "wof:name":"Rallo Ignazio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [12.514634,38.018589,12.514634,38.018589],
+  "bbox": [
+    12.514634,
+    38.018589,
+    12.514634,
+    38.018589
+],
   "geometry": {"coordinates":[12.514634,38.018589],"type":"Point"}
 }

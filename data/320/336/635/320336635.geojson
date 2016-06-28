@@ -2,13 +2,14 @@
   "id": 320336635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.783257,45.00161,9.783257,45.00161",
     "geom:latitude":45.00161,
     "geom:longitude":9.783257,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29012 Caorso",
     "sg:city":"Caorso",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320336635,
-    "wof:lastmodified":1449011188,
+    "wof:lastmodified":1466296969,
     "wof:name":"Zenit Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.783257,45.00161,9.783257,45.00161],
+  "bbox": [
+    9.783257,
+    45.00161,
+    9.783257,
+    45.00161
+],
   "geometry": {"coordinates":[9.783257,45.00161],"type":"Point"}
 }

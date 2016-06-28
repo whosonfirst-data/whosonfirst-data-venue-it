@@ -2,13 +2,14 @@
   "id": 236022267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.120083,45.412643,9.120083,45.412643",
     "geom:latitude":45.412643,
     "geom:longitude":9.120083,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torricelli 2 20090 Buccinasco",
     "sg:city":"Buccinasco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236022267,
-    "wof:lastmodified":1449002598,
+    "wof:lastmodified":1466289113,
     "wof:name":"Videovox Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "digital"
     ]
 },
-  "bbox": [9.120083,45.412643,9.120083,45.412643],
+  "bbox": [
+    9.120083,
+    45.412643,
+    9.120083,
+    45.412643
+],
   "geometry": {"coordinates":[9.120083,45.412643],"type":"Point"}
 }

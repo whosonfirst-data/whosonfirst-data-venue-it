@@ -2,13 +2,14 @@
   "id": 270025999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.886536,45.591785,8.886536,45.591785",
     "geom:latitude":45.591785,
     "geom:longitude":8.886536,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ciro Menotti 197 20025 Legnano",
     "sg:city":"Legnano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270025999,
-    "wof:lastmodified":1449010670,
+    "wof:lastmodified":1466289298,
     "wof:name":"Castagna U., G.b.& C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [8.886536,45.591785,8.886536,45.591785],
+  "bbox": [
+    8.886536,
+    45.591785,
+    8.886536,
+    45.591785
+],
   "geometry": {"coordinates":[8.886536,45.591785],"type":"Point"}
 }

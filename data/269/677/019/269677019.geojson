@@ -2,13 +2,14 @@
   "id": 269677019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.60269,45.434242,10.60269,45.434242",
     "geom:latitude":45.434242,
     "geom:longitude":10.60269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Sirmione 25015 Desenzano Del Garda",
     "sg:city":"Desenzano del Garda",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269677019,
-    "wof:lastmodified":1449037000,
+    "wof:lastmodified":1466291324,
     "wof:name":"Errico & Lanciotti Sas Lanciotti Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [10.60269,45.434242,10.60269,45.434242],
+  "bbox": [
+    10.60269,
+    45.434242,
+    10.60269,
+    45.434242
+],
   "geometry": {"coordinates":[10.60269,45.434242],"type":"Point"}
 }

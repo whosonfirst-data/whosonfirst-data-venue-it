@@ -2,13 +2,14 @@
   "id": 236131881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.203959,42.434414,14.203959,42.434414",
     "geom:latitude":42.434414,
     "geom:longitude":14.203959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65129 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236131881,
-    "wof:lastmodified":1449002478,
+    "wof:lastmodified":1466290203,
     "wof:name":"Villa Torrese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "drinks"
     ]
 },
-  "bbox": [14.203959,42.434414,14.203959,42.434414],
+  "bbox": [
+    14.203959,
+    42.434414,
+    14.203959,
+    42.434414
+],
   "geometry": {"coordinates":[14.203959,42.434414],"type":"Point"}
 }

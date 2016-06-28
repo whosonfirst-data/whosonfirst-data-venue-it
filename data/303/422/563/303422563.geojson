@@ -2,13 +2,14 @@
   "id": 303422563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.638906,45.529804,9.638906,45.529804",
     "geom:latitude":45.529804,
     "geom:longitude":9.638906,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24053 Brignano Gera D'adda",
     "sg:classifiers":[],
     "sg:orig_category":"Antiquariato",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303422563,
-    "wof:lastmodified":1448998290,
+    "wof:lastmodified":1466295718,
     "wof:name":"Allevi Antichita' E Restauri Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.638906,45.529804,9.638906,45.529804],
+  "bbox": [
+    9.638906,
+    45.529804,
+    9.638906,
+    45.529804
+],
   "geometry": {"coordinates":[9.638906,45.529804],"type":"Point"}
 }

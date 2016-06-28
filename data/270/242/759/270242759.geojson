@@ -2,13 +2,14 @@
   "id": 270242759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.989211,44.731892,10.989211,44.731892",
     "geom:latitude":44.731892,
     "geom:longitude":10.989211,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41030 Bastiglia",
     "sg:city":"Bastiglia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270242759,
-    "wof:lastmodified":1449010805,
+    "wof:lastmodified":1466291917,
     "wof:name":"S.tre.g. Snc Di Ardente Stefano & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.989211,44.731892,10.989211,44.731892],
+  "bbox": [
+    10.989211,
+    44.731892,
+    10.989211,
+    44.731892
+],
   "geometry": {"coordinates":[10.989211,44.731892],"type":"Point"}
 }

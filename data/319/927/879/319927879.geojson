@@ -2,13 +2,14 @@
   "id": 319927879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.641772,44.464054,7.641772,44.464054",
     "geom:latitude":44.464054,
     "geom:longitude":7.641772,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12045 Fossano",
     "sg:city":"Fossano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319927879,
-    "wof:lastmodified":1449024803,
+    "wof:lastmodified":1466293918,
     "wof:name":"Deltauto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.641772,44.464054,7.641772,44.464054],
+  "bbox": [
+    7.641772,
+    44.464054,
+    7.641772,
+    44.464054
+],
   "geometry": {"coordinates":[7.641772,44.464054],"type":"Point"}
 }

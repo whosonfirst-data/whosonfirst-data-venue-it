@@ -2,13 +2,14 @@
   "id": 253006675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.424838,44.463524,11.424838,44.463524",
     "geom:latitude":44.463524,
     "geom:longitude":11.424838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro 7 40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253006675,
-    "wof:lastmodified":1449065191,
+    "wof:lastmodified":1466288983,
     "wof:name":"Conti Editore Spa",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "journal"
     ]
 },
-  "bbox": [11.424838,44.463524,11.424838,44.463524],
+  "bbox": [
+    11.424838,
+    44.463524,
+    11.424838,
+    44.463524
+],
   "geometry": {"coordinates":[11.424838,44.463524],"type":"Point"}
 }

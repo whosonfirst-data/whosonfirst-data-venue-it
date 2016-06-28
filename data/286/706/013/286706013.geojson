@@ -2,13 +2,14 @@
   "id": 286706013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.322689,44.108315,12.322689,44.108315",
     "geom:latitude":44.108315,
     "geom:longitude":12.322689,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5331, Via Emilia Levante 47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286706013,
-    "wof:lastmodified":1449015381,
+    "wof:lastmodified":1466295283,
     "wof:name":"Neri S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [12.322689,44.108315,12.322689,44.108315],
+  "bbox": [
+    12.322689,
+    44.108315,
+    12.322689,
+    44.108315
+],
   "geometry": {"coordinates":[12.322689,44.108315],"type":"Point"}
 }

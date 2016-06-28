@@ -2,13 +2,14 @@
   "id": 236478683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.513388,41.880032,12.513388,41.880032",
     "geom:latitude":41.880032,
     "geom:longitude":12.513388,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00183 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236478683,
-    "wof:lastmodified":1449001761,
+    "wof:lastmodified":1466293837,
     "wof:name":"Filatelia Numismatica Appia",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.513388,41.880032,12.513388,41.880032],
+  "bbox": [
+    12.513388,
+    41.880032,
+    12.513388,
+    41.880032
+],
   "geometry": {"coordinates":[12.513388,41.880032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286751071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.796829,45.332485,11.796829,45.332485",
     "geom:latitude":45.332485,
     "geom:longitude":11.796829,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35036 Montegrotto Terme",
     "sg:city":"Montegrotto Terme",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286751071,
-    "wof:lastmodified":1449015336,
+    "wof:lastmodified":1466295859,
     "wof:name":"Arredamenti Bordin Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.796829,45.332485,11.796829,45.332485],
+  "bbox": [
+    11.796829,
+    45.332485,
+    11.796829,
+    45.332485
+],
   "geometry": {"coordinates":[11.796829,45.332485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253621027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.25492,45.640667,9.25492,45.640667",
     "geom:latitude":45.640667,
     "geom:longitude":9.25492,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cascina Greppi 61 20050 Sovico",
     "sg:city":"Sovico",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253621027,
-    "wof:lastmodified":1449065419,
+    "wof:lastmodified":1466296200,
     "wof:name":"Nuova River S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laminated"
     ]
 },
-  "bbox": [9.25492,45.640667,9.25492,45.640667],
+  "bbox": [
+    9.25492,
+    45.640667,
+    9.25492,
+    45.640667
+],
   "geometry": {"coordinates":[9.25492,45.640667],"type":"Point"}
 }

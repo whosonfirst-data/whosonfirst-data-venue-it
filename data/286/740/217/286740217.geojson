@@ -2,13 +2,14 @@
   "id": 286740217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.740569,44.959801,11.740569,44.959801",
     "geom:latitude":44.959801,
     "geom:longitude":11.740569,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Statale 16, 3008 45038 Polesella",
     "sg:city":"Polesella",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286740217,
-    "wof:lastmodified":1449016527,
+    "wof:lastmodified":1466295728,
     "wof:name":"Oleodinamica Polesana Di Coltro Giovanni & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [11.740569,44.959801,11.740569,44.959801],
+  "bbox": [
+    11.740569,
+    44.959801,
+    11.740569,
+    44.959801
+],
   "geometry": {"coordinates":[11.740569,44.959801],"type":"Point"}
 }

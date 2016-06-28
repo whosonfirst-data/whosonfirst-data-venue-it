@@ -2,13 +2,14 @@
   "id": 186002355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.077819,43.853642,11.077819,43.853642",
     "geom:latitude":43.853642,
     "geom:longitude":11.077819,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 469; Prato; 50074",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186002355,
-    "wof:lastmodified":1449052524,
+    "wof:lastmodified":1466288901,
     "wof:name":"Cassa Di Risparmio Di Pisa Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.077819,43.853642,11.077819,43.853642],
+  "bbox": [
+    11.077819,
+    43.853642,
+    11.077819,
+    43.853642
+],
   "geometry": {"coordinates":[11.077819,43.853642],"type":"Point"}
 }

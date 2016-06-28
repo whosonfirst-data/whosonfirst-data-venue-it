@@ -2,13 +2,14 @@
   "id": 236614079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.22824,45.613415,9.22824,45.613415",
     "geom:latitude":45.613415,
     "geom:longitude":9.22824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Via Corino 20035 Lissone",
     "sg:city":"Lissone",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236614079,
-    "wof:lastmodified":1449005362,
+    "wof:lastmodified":1466295143,
     "wof:name":"Lineaotto (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.22824,45.613415,9.22824,45.613415],
+  "bbox": [
+    9.22824,
+    45.613415,
+    9.22824,
+    45.613415
+],
   "geometry": {"coordinates":[9.22824,45.613415],"type":"Point"}
 }

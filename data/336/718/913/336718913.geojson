@@ -2,13 +2,14 @@
   "id": 336718913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.022773,45.767933,9.022773,45.767933",
     "geom:latitude":45.767933,
     "geom:longitude":9.022773,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Andrea Costa 22079 Villa Guardia",
     "sg:city":"Villa Guardia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336718913,
-    "wof:lastmodified":1448997183,
+    "wof:lastmodified":1466295147,
     "wof:name":"Metronik (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.022773,45.767933,9.022773,45.767933],
+  "bbox": [
+    9.022773,
+    45.767933,
+    9.022773,
+    45.767933
+],
   "geometry": {"coordinates":[9.022773,45.767933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219287851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.976597,43.866589,10.976597,43.866589",
     "geom:latitude":43.866589,
     "geom:longitude":10.976597,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Casone 71 51039 Quarrata",
     "sg:city":"Quarrata",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219287851,
-    "wof:lastmodified":1449070595,
+    "wof:lastmodified":1466289173,
     "wof:name":"Pazzaglia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "accessory"
     ]
 },
-  "bbox": [10.976597,43.866589,10.976597,43.866589],
+  "bbox": [
+    10.976597,
+    43.866589,
+    10.976597,
+    43.866589
+],
   "geometry": {"coordinates":[10.976597,43.866589],"type":"Point"}
 }

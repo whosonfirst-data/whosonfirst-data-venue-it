@@ -2,13 +2,14 @@
   "id": 320173951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.408865,44.506031,11.408865,44.506031",
     "geom:latitude":44.506031,
     "geom:longitude":11.408865,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40043 Marzabotto",
     "sg:city":"Marzabotto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320173951,
-    "wof:lastmodified":1449011977,
+    "wof:lastmodified":1466295490,
     "wof:name":"Bignami Snc",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.408865,44.506031,11.408865,44.506031],
+  "bbox": [
+    11.408865,
+    44.506031,
+    11.408865,
+    44.506031
+],
   "geometry": {"coordinates":[11.408865,44.506031],"type":"Point"}
 }

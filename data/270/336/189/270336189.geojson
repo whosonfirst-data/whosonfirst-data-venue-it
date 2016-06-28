@@ -2,13 +2,14 @@
   "id": 270336189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.573235,44.027252,12.573235,44.027252",
     "geom:latitude":44.027252,
     "geom:longitude":12.573235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47900 Rimini",
     "sg:city":"Rimini",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270336189,
-    "wof:lastmodified":1449008619,
+    "wof:lastmodified":1466293090,
     "wof:name":"Cenci Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.573235,44.027252,12.573235,44.027252],
+  "bbox": [
+    12.573235,
+    44.027252,
+    12.573235,
+    44.027252
+],
   "geometry": {"coordinates":[12.573235,44.027252],"type":"Point"}
 }

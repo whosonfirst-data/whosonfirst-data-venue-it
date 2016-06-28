@@ -2,13 +2,14 @@
   "id": 186534895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.271878,44.50074,11.271878,44.50074",
     "geom:latitude":44.50074,
     "geom:longitude":11.271878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via S. Croce 40122 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186534895,
-    "wof:lastmodified":1449051090,
+    "wof:lastmodified":1466292642,
     "wof:name":"Albergo Re Enzo",
     "wof:parent_id":85900325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.271878,44.50074,11.271878,44.50074],
+  "bbox": [
+    11.271878,
+    44.50074,
+    11.271878,
+    44.50074
+],
   "geometry": {"coordinates":[11.271878,44.50074],"type":"Point"}
 }

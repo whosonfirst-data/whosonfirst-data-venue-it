@@ -2,13 +2,14 @@
   "id": 336809829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.600328,45.652496,9.600328,45.652496",
     "geom:latitude":45.652496,
     "geom:longitude":9.600328,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Andrea Fantoni 24049 Verdello",
     "sg:city":"Verdello",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336809829,
-    "wof:lastmodified":1448997841,
+    "wof:lastmodified":1466296232,
     "wof:name":"Zucchinali Mario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.600328,45.652496,9.600328,45.652496],
+  "bbox": [
+    9.600328,
+    45.652496,
+    9.600328,
+    45.652496
+],
   "geometry": {"coordinates":[9.600328,45.652496],"type":"Point"}
 }

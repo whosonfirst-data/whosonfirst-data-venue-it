@@ -2,13 +2,14 @@
   "id": 236884431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.349398,45.456417,12.349398,45.456417",
     "geom:latitude":45.456417,
     "geom:longitude":12.349398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Calle Vivarini Antonio 30141 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236884431,
-    "wof:lastmodified":1449004471,
+    "wof:lastmodified":1466297008,
     "wof:name":"Nason V. & C. - S.r.l.",
     "wof:parent_id":85905013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.349398,45.456417,12.349398,45.456417],
+  "bbox": [
+    12.349398,
+    45.456417,
+    12.349398,
+    45.456417
+],
   "geometry": {"coordinates":[12.349398,45.456417],"type":"Point"}
 }

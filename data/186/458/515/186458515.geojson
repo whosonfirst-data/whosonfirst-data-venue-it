@@ -2,13 +2,14 @@
   "id": 186458515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.136961,46.076942,12.136961,46.076942",
     "geom:latitude":46.076942,
     "geom:longitude":12.136961,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2/a, V. Frontin 32028 Trichiana",
     "sg:city":"Trichiana",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186458515,
-    "wof:lastmodified":1449052265,
+    "wof:lastmodified":1466291892,
     "wof:name":"Caffe' Pasticceria Gelateria Chantilly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bread"
     ]
 },
-  "bbox": [12.136961,46.076942,12.136961,46.076942],
+  "bbox": [
+    12.136961,
+    46.076942,
+    12.136961,
+    46.076942
+],
   "geometry": {"coordinates":[12.136961,46.076942],"type":"Point"}
 }

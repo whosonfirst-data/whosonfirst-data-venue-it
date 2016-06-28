@@ -2,13 +2,14 @@
   "id": 336791227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.316616,43.560902,10.316616,43.560902",
     "geom:latitude":43.560902,
     "geom:longitude":10.316616,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, V. Mastacchi 57122 Livorno",
     "sg:city":"Livorno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336791227,
-    "wof:lastmodified":1448997785,
+    "wof:lastmodified":1466296016,
     "wof:name":"Tecnopack Equipment Srl",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.316616,43.560902,10.316616,43.560902],
+  "bbox": [
+    10.316616,
+    43.560902,
+    10.316616,
+    43.560902
+],
   "geometry": {"coordinates":[10.316616,43.560902],"type":"Point"}
 }

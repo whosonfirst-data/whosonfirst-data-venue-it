@@ -2,13 +2,14 @@
   "id": 236575745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.213304,45.693523,9.213304,45.693523",
     "geom:latitude":45.693523,
     "geom:longitude":9.213304,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Prealpi 20034 Giussano",
     "sg:city":"Giussano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236575745,
-    "wof:lastmodified":1449002434,
+    "wof:lastmodified":1466294799,
     "wof:name":"Elli F.lli Di Luigi Di Elli Gabriele Luigi Raffaele & C. S.a.s.",
     "wof:parent_id":85862609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.213304,45.693523,9.213304,45.693523],
+  "bbox": [
+    9.213304,
+    45.693523,
+    9.213304,
+    45.693523
+],
   "geometry": {"coordinates":[9.213304,45.693523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269513897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.955763,44.465134,11.955763,44.465134",
     "geom:latitude":44.465134,
     "geom:longitude":11.955763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"113/b, Via S. Barbara 48010 Fusignano",
     "sg:city":"Fusignano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269513897,
-    "wof:lastmodified":1449037710,
+    "wof:lastmodified":1466289300,
     "wof:name":"Calzaturificio Beta Di Valli Giuliana & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.955763,44.465134,11.955763,44.465134],
+  "bbox": [
+    11.955763,
+    44.465134,
+    11.955763,
+    44.465134
+],
   "geometry": {"coordinates":[11.955763,44.465134],"type":"Point"}
 }

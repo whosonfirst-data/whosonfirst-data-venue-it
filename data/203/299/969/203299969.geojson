@@ -2,13 +2,14 @@
   "id": 203299969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.494514,41.912949,12.494514,41.912949",
     "geom:latitude":41.912949,
     "geom:longitude":12.494514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203299969,
-    "wof:lastmodified":1449025396,
+    "wof:lastmodified":1466290931,
     "wof:name":"Vivalibri Srl",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.494514,41.912949,12.494514,41.912949],
+  "bbox": [
+    12.494514,
+    41.912949,
+    12.494514,
+    41.912949
+],
   "geometry": {"coordinates":[12.494514,41.912949],"type":"Point"}
 }

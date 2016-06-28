@@ -2,13 +2,14 @@
   "id": 203094591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.330517,45.425591,12.330517,45.425591",
     "geom:latitude":45.425591,
     "geom:longitude":12.330517,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30133 Venezia",
     "sg:city":"Giudecca",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203094591,
-    "wof:lastmodified":1449026145,
+    "wof:lastmodified":1466296088,
     "wof:name":"I.ve.p. Impresa Veneziana Palificazioni",
     "wof:parent_id":85900371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.330517,45.425591,12.330517,45.425591],
+  "bbox": [
+    12.330517,
+    45.425591,
+    12.330517,
+    45.425591
+],
   "geometry": {"coordinates":[12.330517,45.425591],"type":"Point"}
 }

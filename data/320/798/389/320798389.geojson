@@ -2,13 +2,14 @@
   "id": 320798389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.291293,43.566574,13.291293,43.566574",
     "geom:latitude":43.566574,
     "geom:longitude":13.291293,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60030 Monsano",
     "sg:city":"Monsano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320798389,
-    "wof:lastmodified":1449011953,
+    "wof:lastmodified":1466298165,
     "wof:name":"G.m. Di Giuliani G. E Manoni S. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.291293,43.566574,13.291293,43.566574],
+  "bbox": [
+    13.291293,
+    43.566574,
+    13.291293,
+    43.566574
+],
   "geometry": {"coordinates":[13.291293,43.566574],"type":"Point"}
 }

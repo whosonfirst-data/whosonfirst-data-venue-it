@@ -2,13 +2,14 @@
   "id": 269796991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.871736,44.825371,9.871736,44.825371",
     "geom:latitude":44.825371,
     "geom:longitude":9.871736,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29010 Vernasca",
     "sg:city":"Vernasca",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269796991,
-    "wof:lastmodified":1449037267,
+    "wof:lastmodified":1466292988,
     "wof:name":"Azienda Agricola Ca' Visconti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.871736,44.825371,9.871736,44.825371],
+  "bbox": [
+    9.871736,
+    44.825371,
+    9.871736,
+    44.825371
+],
   "geometry": {"coordinates":[9.871736,44.825371],"type":"Point"}
 }

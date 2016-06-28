@@ -2,13 +2,14 @@
   "id": 336738621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.151949,44.923428,8.151949,44.923428",
     "geom:latitude":44.923428,
     "geom:longitude":8.151949,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60/e, Localita' Rilate 14100 Asti",
     "sg:city":"Asti",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336738621,
-    "wof:lastmodified":1448997719,
+    "wof:lastmodified":1466295377,
     "wof:name":"Officina Meccanica Pavese S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.151949,44.923428,8.151949,44.923428],
+  "bbox": [
+    8.151949,
+    44.923428,
+    8.151949,
+    44.923428
+],
   "geometry": {"coordinates":[8.151949,44.923428],"type":"Point"}
 }

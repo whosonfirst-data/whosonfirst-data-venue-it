@@ -2,13 +2,14 @@
   "id": 219530901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.911973,45.376278,11.911973,45.376278",
     "geom:latitude":45.376278,
     "geom:longitude":11.911973,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Ponte San Nicol\u00f2",
     "sg:classifiers":[],
     "sg:orig_category":"Recuperi Industriali Vari",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219530901,
-    "wof:lastmodified":1449072260,
+    "wof:lastmodified":1466291673,
     "wof:name":"Lucati F.lli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.911973,45.376278,11.911973,45.376278],
+  "bbox": [
+    11.911973,
+    45.376278,
+    11.911973,
+    45.376278
+],
   "geometry": {"coordinates":[11.911973,45.376278],"type":"Point"}
 }

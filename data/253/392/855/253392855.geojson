@@ -2,13 +2,14 @@
   "id": 253392855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.784879,43.856148,12.784879,43.856148",
     "geom:latitude":43.856148,
     "geom:longitude":12.784879,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Toscana 61020 Sant'angelo In Lizzola",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253392855,
-    "wof:lastmodified":1449065184,
+    "wof:lastmodified":1466293324,
     "wof:name":"Marinucci S.n.c. Di Marinucci Ermando & Paolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.784879,43.856148,12.784879,43.856148],
+  "bbox": [
+    12.784879,
+    43.856148,
+    12.784879,
+    43.856148
+],
   "geometry": {"coordinates":[12.784879,43.856148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320532823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.598461,42.07288,12.598461,42.07288",
     "geom:latitude":42.07288,
     "geom:longitude":12.598461,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00016 Roma",
     "sg:classifiers":[],
     "sg:orig_category":"Magazzinaggio E Logistica Industriale - Servizio Conto Terzi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320532823,
-    "wof:lastmodified":1449012528,
+    "wof:lastmodified":1466297762,
     "wof:name":"Gondrand Spa - Filiale Roma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.598461,42.07288,12.598461,42.07288],
+  "bbox": [
+    12.598461,
+    42.07288,
+    12.598461,
+    42.07288
+],
   "geometry": {"coordinates":[12.598461,42.07288],"type":"Point"}
 }

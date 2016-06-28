@@ -2,13 +2,14 @@
   "id": 336735679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.191496,45.737373,9.191496,45.737373",
     "geom:latitude":45.737373,
     "geom:longitude":9.191496,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Valsorda 22040 Brenna",
     "sg:city":"Brenna",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336735679,
-    "wof:lastmodified":1448997973,
+    "wof:lastmodified":1466295345,
     "wof:name":"O.s.r. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.191496,45.737373,9.191496,45.737373],
+  "bbox": [
+    9.191496,
+    45.737373,
+    9.191496,
+    45.737373
+],
   "geometry": {"coordinates":[9.191496,45.737373],"type":"Point"}
 }

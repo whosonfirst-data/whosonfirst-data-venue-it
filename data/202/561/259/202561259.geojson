@@ -2,13 +2,14 @@
   "id": 202561259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.346817,38.0802,13.346817,38.0802",
     "geom:latitude":38.0802,
     "geom:longitude":13.346817,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90126 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202561259,
-    "wof:lastmodified":1449061897,
+    "wof:lastmodified":1466289544,
     "wof:name":"Blindocasa Di Angelo Col\u00d2 & Figlio",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.346817,38.0802,13.346817,38.0802],
+  "bbox": [
+    13.346817,
+    38.0802,
+    13.346817,
+    38.0802
+],
   "geometry": {"coordinates":[13.346817,38.0802],"type":"Point"}
 }

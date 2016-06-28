@@ -2,13 +2,14 @@
   "id": 303347593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.24159,45.47551,9.24159,45.47551",
     "geom:latitude":45.47551,
     "geom:longitude":9.24159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Faustino 58 20134 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303347593,
-    "wof:lastmodified":1448999300,
+    "wof:lastmodified":1466294815,
     "wof:name":"Bio Optica Milano Spa",
     "wof:parent_id":85796921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.24159,45.47551,9.24159,45.47551],
+  "bbox": [
+    9.24159,
+    45.47551,
+    9.24159,
+    45.47551
+],
   "geometry": {"coordinates":[9.24159,45.47551],"type":"Point"}
 }

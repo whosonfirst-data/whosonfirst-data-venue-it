@@ -2,13 +2,14 @@
   "id": 286513309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.588971,44.397511,11.588971,44.397511",
     "geom:latitude":44.397511,
     "geom:longitude":11.588971,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Manzoni 40024 Castel San Pietro Terme",
     "sg:city":"Castel San Pietro Terme",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286513309,
-    "wof:lastmodified":1449017136,
+    "wof:lastmodified":1466292868,
     "wof:name":"Franca Tassi S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.588971,44.397511,11.588971,44.397511],
+  "bbox": [
+    11.588971,
+    44.397511,
+    11.588971,
+    44.397511
+],
   "geometry": {"coordinates":[11.588971,44.397511],"type":"Point"}
 }

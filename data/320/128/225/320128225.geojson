@@ -2,13 +2,14 @@
   "id": 320128225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.551468,45.460659,10.551468,45.460659",
     "geom:latitude":45.460659,
     "geom:longitude":10.551468,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25015 Desenzano Del Garda",
     "sg:city":"Desenzano del Garda",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320128225,
-    "wof:lastmodified":1449012724,
+    "wof:lastmodified":1466294957,
     "wof:name":"Tecnocava Di Merlin Danilo E Figlio (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.551468,45.460659,10.551468,45.460659],
+  "bbox": [
+    10.551468,
+    45.460659,
+    10.551468,
+    45.460659
+],
   "geometry": {"coordinates":[10.551468,45.460659],"type":"Point"}
 }

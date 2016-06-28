@@ -2,13 +2,14 @@
   "id": 186454461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.157892,45.551891,9.157892,45.551891",
     "geom:latitude":45.551891,
     "geom:longitude":9.157892,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro 33 20030 Senago",
     "sg:city":"Senago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186454461,
-    "wof:lastmodified":1449052768,
+    "wof:lastmodified":1466291855,
     "wof:name":"Finesso Raimondo & Figli Snc",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "working"
     ]
 },
-  "bbox": [9.157892,45.551891,9.157892,45.551891],
+  "bbox": [
+    9.157892,
+    45.551891,
+    9.157892,
+    45.551891
+],
   "geometry": {"coordinates":[9.157892,45.551891],"type":"Point"}
 }

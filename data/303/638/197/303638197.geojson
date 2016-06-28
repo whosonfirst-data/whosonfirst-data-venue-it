@@ -2,13 +2,14 @@
   "id": 303638197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.228254,46.065086,13.228254,46.065086",
     "geom:latitude":46.065086,
     "geom:longitude":13.228254,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33100 Udine",
     "sg:city":"Udine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303638197,
-    "wof:lastmodified":1448998255,
+    "wof:lastmodified":1466297273,
     "wof:name":"Copeco Di Aviani & C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.228254,46.065086,13.228254,46.065086],
+  "bbox": [
+    13.228254,
+    46.065086,
+    13.228254,
+    46.065086
+],
   "geometry": {"coordinates":[13.228254,46.065086],"type":"Point"}
 }

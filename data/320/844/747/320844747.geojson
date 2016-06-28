@@ -2,13 +2,14 @@
   "id": 320844747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.599953,42.081341,12.599953,42.081341",
     "geom:latitude":42.081341,
     "geom:longitude":12.599953,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Amaldi E. 00015 Monterotondo",
     "sg:city":"Monterotondo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320844747,
-    "wof:lastmodified":1449012850,
+    "wof:lastmodified":1466298242,
     "wof:name":"Assing Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "measurement"
     ]
 },
-  "bbox": [12.599953,42.081341,12.599953,42.081341],
+  "bbox": [
+    12.599953,
+    42.081341,
+    12.599953,
+    42.081341
+],
   "geometry": {"coordinates":[12.599953,42.081341],"type":"Point"}
 }

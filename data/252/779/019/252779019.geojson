@@ -2,13 +2,14 @@
   "id": 252779019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.671741,45.437038,11.671741,45.437038",
     "geom:latitude":45.437038,
     "geom:longitude":11.671741,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36047 Montegaldella",
     "sg:city":"Montegaldella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252779019,
-    "wof:lastmodified":1449005575,
+    "wof:lastmodified":1466289676,
     "wof:name":"Pellicceria Lunardi & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.671741,45.437038,11.671741,45.437038],
+  "bbox": [
+    11.671741,
+    45.437038,
+    11.671741,
+    45.437038
+],
   "geometry": {"coordinates":[11.671741,45.437038],"type":"Point"}
 }

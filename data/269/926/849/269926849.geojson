@@ -2,13 +2,14 @@
   "id": 269926849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.854874,45.898983,10.854874,45.898983",
     "geom:latitude":45.898983,
     "geom:longitude":10.854874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38066 Riva Del Garda",
     "sg:city":"Riva del Garda",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269926849,
-    "wof:lastmodified":1449036976,
+    "wof:lastmodified":1466294453,
     "wof:name":"Albergo Al Maso",
     "wof:parent_id":85900359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.854874,45.898983,10.854874,45.898983],
+  "bbox": [
+    10.854874,
+    45.898983,
+    10.854874,
+    45.898983
+],
   "geometry": {"coordinates":[10.854874,45.898983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219265673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.258662,45.398342,9.258662,45.398342",
     "geom:latitude":45.398342,
     "geom:longitude":9.258662,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Abruzzi 12 20098 Sesto Ulteriano",
     "sg:city":"Sesto Ulteriano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219265673,
-    "wof:lastmodified":1449071602,
+    "wof:lastmodified":1466288951,
     "wof:name":"Syneco Spa",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mean"
     ]
 },
-  "bbox": [9.258662,45.398342,9.258662,45.398342],
+  "bbox": [
+    9.258662,
+    45.398342,
+    9.258662,
+    45.398342
+],
   "geometry": {"coordinates":[9.258662,45.398342],"type":"Point"}
 }

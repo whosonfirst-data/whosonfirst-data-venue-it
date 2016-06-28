@@ -2,13 +2,14 @@
   "id": 236905061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.785738,44.472012,7.785738,44.472012",
     "geom:latitude":44.472012,
     "geom:longitude":7.785738,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Gratteria 12084 Mondovi'",
     "sg:city":"Gratteria",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236905061,
-    "wof:lastmodified":1449002844,
+    "wof:lastmodified":1466297192,
     "wof:name":"Lem Impianti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [7.785738,44.472012,7.785738,44.472012],
+  "bbox": [
+    7.785738,
+    44.472012,
+    7.785738,
+    44.472012
+],
   "geometry": {"coordinates":[7.785738,44.472012],"type":"Point"}
 }

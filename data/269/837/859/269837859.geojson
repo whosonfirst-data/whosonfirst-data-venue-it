@@ -2,13 +2,14 @@
   "id": 269837859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.204753,37.786507,15.204753,37.786507",
     "geom:latitude":37.786507,
     "geom:longitude":15.204753,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Morandi 95013 Fiumefreddo Di Sicilia",
     "sg:city":"Fiumefreddo di Sicilia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269837859,
-    "wof:lastmodified":1449036521,
+    "wof:lastmodified":1466293462,
     "wof:name":"I.m.a.s. S.r.l. Ind. Macchine Agrumarie Sic.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [15.204753,37.786507,15.204753,37.786507],
+  "bbox": [
+    15.204753,
+    37.786507,
+    15.204753,
+    37.786507
+],
   "geometry": {"coordinates":[15.204753,37.786507],"type":"Point"}
 }

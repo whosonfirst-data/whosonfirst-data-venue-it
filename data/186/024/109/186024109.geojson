@@ -2,13 +2,14 @@
   "id": 186024109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.234948,45.560955,12.234948,45.560955",
     "geom:latitude":45.560955,
     "geom:longitude":12.234948,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Duca D'aosta 20; Mogliano; 31021",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186024109,
-    "wof:lastmodified":1449051668,
+    "wof:lastmodified":1466294305,
     "wof:name":"Cassa Di Risparmio, Della Marca Trivigiana Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.234948,45.560955,12.234948,45.560955],
+  "bbox": [
+    12.234948,
+    45.560955,
+    12.234948,
+    45.560955
+],
   "geometry": {"coordinates":[12.234948,45.560955],"type":"Point"}
 }

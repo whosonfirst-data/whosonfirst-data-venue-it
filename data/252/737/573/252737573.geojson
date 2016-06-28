@@ -2,13 +2,14 @@
   "id": 252737573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.59024,37.319759,13.59024,37.319759",
     "geom:latitude":37.319759,
     "geom:longitude":13.59024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92100 Agrigento",
     "sg:city":"Agrigento",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252737573,
-    "wof:lastmodified":1449005672,
+    "wof:lastmodified":1466289225,
     "wof:name":"Baiamonte Giovanni & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.59024,37.319759,13.59024,37.319759],
+  "bbox": [
+    13.59024,
+    37.319759,
+    13.59024,
+    37.319759
+],
   "geometry": {"coordinates":[13.59024,37.319759],"type":"Point"}
 }

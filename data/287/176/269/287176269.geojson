@@ -2,13 +2,14 @@
   "id": 287176269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.671427,45.514072,12.671427,45.514072",
     "geom:latitude":45.514072,
     "geom:longitude":12.671427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Milano 36; Lido Di Jesolo; Venezia; 30017",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":287176269,
-    "wof:lastmodified":1449001266,
+    "wof:lastmodified":1466291937,
     "wof:name":"Intras Viaggi E Vacanze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.671427,45.514072,12.671427,45.514072],
+  "bbox": [
+    12.671427,
+    45.514072,
+    12.671427,
+    45.514072
+],
   "geometry": {"coordinates":[12.671427,45.514072],"type":"Point"}
 }

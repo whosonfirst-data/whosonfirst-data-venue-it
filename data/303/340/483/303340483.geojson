@@ -2,13 +2,14 @@
   "id": 303340483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.427556,43.684517,10.427556,43.684517",
     "geom:latitude":43.684517,
     "geom:longitude":10.427556,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56121 Pisa",
     "sg:city":"Pisa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303340483,
-    "wof:lastmodified":1449000007,
+    "wof:lastmodified":1466294730,
     "wof:name":"Dendi Dino Di M. Dendi & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.427556,43.684517,10.427556,43.684517],
+  "bbox": [
+    10.427556,
+    43.684517,
+    10.427556,
+    43.684517
+],
   "geometry": {"coordinates":[10.427556,43.684517],"type":"Point"}
 }

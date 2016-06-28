@@ -2,13 +2,14 @@
   "id": 303594335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.522712,45.730236,9.522712,45.730236",
     "geom:latitude":45.730236,
     "geom:longitude":9.522712,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Mapello",
     "sg:city":"Mapello",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303594335,
-    "wof:lastmodified":1448998470,
+    "wof:lastmodified":1466297163,
     "wof:name":"Crotti Arredamenti Snc Di Carlo & Cinzia Crotti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.522712,45.730236,9.522712,45.730236],
+  "bbox": [
+    9.522712,
+    45.730236,
+    9.522712,
+    45.730236
+],
   "geometry": {"coordinates":[9.522712,45.730236],"type":"Point"}
 }

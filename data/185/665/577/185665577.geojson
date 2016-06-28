@@ -2,13 +2,14 @@
   "id": 185665577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.049612,40.798824,14.049612,40.798824",
     "geom:latitude":40.798824,
     "geom:longitude":14.049612,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pedecone 5; Monte Di Procida; 80070",
     "sg:city":"Monte di Procida",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185665577,
-    "wof:lastmodified":1449007101,
+    "wof:lastmodified":1466295178,
     "wof:name":"Banca Di Credito Popolare Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.049612,40.798824,14.049612,40.798824],
+  "bbox": [
+    14.049612,
+    40.798824,
+    14.049612,
+    40.798824
+],
   "geometry": {"coordinates":[14.049612,40.798824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253051747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.863384,45.321247,11.863384,45.321247",
     "geom:latitude":45.321247,
     "geom:longitude":11.863384,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35044 Montagnana",
     "sg:city":"Montagnana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253051747,
-    "wof:lastmodified":1449064642,
+    "wof:lastmodified":1466289457,
     "wof:name":"Okinawa (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.863384,45.321247,11.863384,45.321247],
+  "bbox": [
+    11.863384,
+    45.321247,
+    11.863384,
+    45.321247
+],
   "geometry": {"coordinates":[11.863384,45.321247],"type":"Point"}
 }

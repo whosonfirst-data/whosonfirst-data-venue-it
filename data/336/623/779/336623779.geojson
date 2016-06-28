@@ -2,13 +2,14 @@
   "id": 336623779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.465261,41.747887,12.465261,41.747887",
     "geom:latitude":41.747887,
     "geom:longitude":12.465261,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"171, V. Di Trigoria 00128 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336623779,
-    "wof:lastmodified":1448997689,
+    "wof:lastmodified":1466294016,
     "wof:name":"Caff\u00c8 Vicer\u00c9 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.465261,41.747887,12.465261,41.747887],
+  "bbox": [
+    12.465261,
+    41.747887,
+    12.465261,
+    41.747887
+],
   "geometry": {"coordinates":[12.465261,41.747887],"type":"Point"}
 }

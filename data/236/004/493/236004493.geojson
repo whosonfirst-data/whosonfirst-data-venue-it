@@ -2,13 +2,14 @@
   "id": 236004493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.23657,40.918869,14.23657,40.918869",
     "geom:latitude":40.918869,
     "geom:longitude":14.23657,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80125 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236004493,
-    "wof:lastmodified":1449002732,
+    "wof:lastmodified":1466288932,
     "wof:name":"C.m. Depurazione Acque Sas",
     "wof:parent_id":85900399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.23657,40.918869,14.23657,40.918869],
+  "bbox": [
+    14.23657,
+    40.918869,
+    14.23657,
+    40.918869
+],
   "geometry": {"coordinates":[14.23657,40.918869],"type":"Point"}
 }

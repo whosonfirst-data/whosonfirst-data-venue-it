@@ -2,13 +2,14 @@
   "id": 219173385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.397581,44.240589,7.397581,44.240589",
     "geom:latitude":44.240589,
     "geom:longitude":7.397581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 Entracque",
     "sg:city":"Entracque",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219173385,
-    "wof:lastmodified":1449071075,
+    "wof:lastmodified":1466294460,
     "wof:name":"Parco Naturale Alpi Marittime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.397581,44.240589,7.397581,44.240589],
+  "bbox": [
+    7.397581,
+    44.240589,
+    7.397581,
+    44.240589
+],
   "geometry": {"coordinates":[7.397581,44.240589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270160185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.319797,43.561794,10.319797,43.561794",
     "geom:latitude":43.561794,
     "geom:longitude":10.319797,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57122 Livorno",
     "sg:city":"Livorno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270160185,
-    "wof:lastmodified":1449010680,
+    "wof:lastmodified":1466290892,
     "wof:name":"L.g.m.",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.319797,43.561794,10.319797,43.561794],
+  "bbox": [
+    10.319797,
+    43.561794,
+    10.319797,
+    43.561794
+],
   "geometry": {"coordinates":[10.319797,43.561794],"type":"Point"}
 }

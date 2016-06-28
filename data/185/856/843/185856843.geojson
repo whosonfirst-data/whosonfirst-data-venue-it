@@ -2,13 +2,14 @@
   "id": 185856843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.607742,45.241348,7.607742,45.241348",
     "geom:latitude":45.241348,
     "geom:longitude":7.607742,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Cirie 73; S. Carlo; 10070",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185856843,
-    "wof:lastmodified":1449007067,
+    "wof:lastmodified":1466289644,
     "wof:name":"Banca Sella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.607742,45.241348,7.607742,45.241348],
+  "bbox": [
+    7.607742,
+    45.241348,
+    7.607742,
+    45.241348
+],
   "geometry": {"coordinates":[7.607742,45.241348],"type":"Point"}
 }

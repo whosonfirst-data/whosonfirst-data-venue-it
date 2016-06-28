@@ -2,13 +2,14 @@
   "id": 186426941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.436891,45.482235,11.436891,45.482235",
     "geom:latitude":45.482235,
     "geom:longitude":11.436891,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pacinotti 44 36040 Brendola",
     "sg:city":"Brendola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186426941,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466291603,
     "wof:name":"Tecnograf Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinding"
     ]
 },
-  "bbox": [11.436891,45.482235,11.436891,45.482235],
+  "bbox": [
+    11.436891,
+    45.482235,
+    11.436891,
+    45.482235
+],
   "geometry": {"coordinates":[11.436891,45.482235],"type":"Point"}
 }

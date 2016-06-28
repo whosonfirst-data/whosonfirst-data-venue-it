@@ -2,13 +2,14 @@
   "id": 287291611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.41447,45.444725,11.41447,45.444725",
     "geom:latitude":45.444725,
     "geom:longitude":11.41447,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Della Meccanica 36040 Sarego",
     "sg:city":"Sarego",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287291611,
-    "wof:lastmodified":1449000923,
+    "wof:lastmodified":1466293436,
     "wof:name":"Berica Cavi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.41447,45.444725,11.41447,45.444725],
+  "bbox": [
+    11.41447,
+    45.444725,
+    11.41447,
+    45.444725
+],
   "geometry": {"coordinates":[11.41447,45.444725],"type":"Point"}
 }

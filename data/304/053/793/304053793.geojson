@@ -2,13 +2,14 @@
   "id": 304053793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165758,45.415134,9.165758,45.415134",
     "geom:latitude":45.415134,
     "geom:longitude":9.165758,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20142 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304053793,
-    "wof:lastmodified":1449043670,
+    "wof:lastmodified":1466292900,
     "wof:name":"Ruzza Roberta",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165758,45.415134,9.165758,45.415134],
+  "bbox": [
+    9.165758,
+    45.415134,
+    9.165758,
+    45.415134
+],
   "geometry": {"coordinates":[9.165758,45.415134],"type":"Point"}
 }

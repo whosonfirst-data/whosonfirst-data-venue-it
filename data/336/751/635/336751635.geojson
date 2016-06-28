@@ -2,13 +2,14 @@
   "id": 336751635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.472471,41.683643,12.472471,41.683643",
     "geom:latitude":41.683643,
     "geom:longitude":12.472471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Vaccareccia 00040 Pomezia",
     "sg:city":"Pomezia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336751635,
-    "wof:lastmodified":1448996977,
+    "wof:lastmodified":1466295532,
     "wof:name":"Piacenza S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.472471,41.683643,12.472471,41.683643],
+  "bbox": [
+    12.472471,
+    41.683643,
+    12.472471,
+    41.683643
+],
   "geometry": {"coordinates":[12.472471,41.683643],"type":"Point"}
 }

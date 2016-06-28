@@ -2,13 +2,14 @@
   "id": 336913629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.868402,43.912189,12.868402,43.912189",
     "geom:latitude":43.912189,
     "geom:longitude":12.868402,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336913629,
-    "wof:lastmodified":1448997367,
+    "wof:lastmodified":1466297038,
     "wof:name":"Centro Clinico Diagnostico Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.868402,43.912189,12.868402,43.912189],
+  "bbox": [
+    12.868402,
+    43.912189,
+    12.868402,
+    43.912189
+],
   "geometry": {"coordinates":[12.868402,43.912189],"type":"Point"}
 }

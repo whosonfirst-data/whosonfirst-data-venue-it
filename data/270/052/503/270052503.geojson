@@ -2,13 +2,14 @@
   "id": 270052503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.513097,40.933453,14.513097,40.933453",
     "geom:latitude":40.933453,
     "geom:longitude":14.513097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80035 Nola",
     "sg:city":"Nola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270052503,
-    "wof:lastmodified":1449009739,
+    "wof:lastmodified":1466289612,
     "wof:name":"Albano 2 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.513097,40.933453,14.513097,40.933453],
+  "bbox": [
+    14.513097,
+    40.933453,
+    14.513097,
+    40.933453
+],
   "geometry": {"coordinates":[14.513097,40.933453],"type":"Point"}
 }

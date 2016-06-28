@@ -2,13 +2,14 @@
   "id": 203266145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.759463,41.838242,12.759463,41.838242",
     "geom:latitude":41.838242,
     "geom:longitude":12.759463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00030 Colonna",
     "sg:city":"Colonna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203266145,
-    "wof:lastmodified":1449025011,
+    "wof:lastmodified":1466290516,
     "wof:name":"Autocentro Montecarlo S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.759463,41.838242,12.759463,41.838242],
+  "bbox": [
+    12.759463,
+    41.838242,
+    12.759463,
+    41.838242
+],
   "geometry": {"coordinates":[12.759463,41.838242],"type":"Point"}
 }

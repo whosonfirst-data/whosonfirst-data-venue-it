@@ -2,13 +2,14 @@
   "id": 287172001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.497658,41.898586,12.497658,41.898586",
     "geom:latitude":41.898586,
     "geom:longitude":12.497658,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Dell'esquilino 5; Roma; 00185",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287172001,
-    "wof:lastmodified":1449001028,
+    "wof:lastmodified":1466291874,
     "wof:name":"Appian Line",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.497658,41.898586,12.497658,41.898586],
+  "bbox": [
+    12.497658,
+    41.898586,
+    12.497658,
+    41.898586
+],
   "geometry": {"coordinates":[12.497658,41.898586],"type":"Point"}
 }

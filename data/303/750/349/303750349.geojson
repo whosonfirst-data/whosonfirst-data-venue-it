@@ -2,13 +2,14 @@
   "id": 303750349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.431377,41.906658,13.431377,41.906658",
     "geom:latitude":41.906658,
     "geom:longitude":13.431377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67027 Raiano",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Camera Letto E Complementi",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303750349,
-    "wof:lastmodified":1448999595,
+    "wof:lastmodified":1466297703,
     "wof:name":"Semmiflex Di Trinetti Antonio Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.431377,41.906658,13.431377,41.906658],
+  "bbox": [
+    13.431377,
+    41.906658,
+    13.431377,
+    41.906658
+],
   "geometry": {"coordinates":[13.431377,41.906658],"type":"Point"}
 }

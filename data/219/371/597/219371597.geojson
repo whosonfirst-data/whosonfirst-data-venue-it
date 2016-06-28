@@ -2,13 +2,14 @@
   "id": 219371597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.374678,45.599998,9.374678,45.599998",
     "geom:latitude":45.599998,
     "geom:longitude":9.374678,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Primo Villa 17 20040 Burago Di Molgora",
     "sg:city":"Burago di Molgora",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219371597,
-    "wof:lastmodified":1449073152,
+    "wof:lastmodified":1466290035,
     "wof:name":"Cemacc Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [9.374678,45.599998,9.374678,45.599998],
+  "bbox": [
+    9.374678,
+    45.599998,
+    9.374678,
+    45.599998
+],
   "geometry": {"coordinates":[9.374678,45.599998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320781371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.475479,45.696125,8.475479,45.696125",
     "geom:latitude":45.696125,
     "geom:longitude":8.475479,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28021 Borgomanero",
     "sg:city":"Borgomanero",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320781371,
-    "wof:lastmodified":1449011960,
+    "wof:lastmodified":1466298133,
     "wof:name":"Alcos Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.475479,45.696125,8.475479,45.696125],
+  "bbox": [
+    8.475479,
+    45.696125,
+    8.475479,
+    45.696125
+],
   "geometry": {"coordinates":[8.475479,45.696125],"type":"Point"}
 }

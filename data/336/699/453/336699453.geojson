@@ -2,13 +2,14 @@
   "id": 336699453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.348908,40.851948,14.348908,40.851948",
     "geom:latitude":40.851948,
     "geom:longitude":14.348908,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51, Via Censi Dell' Arco 80040 Cercola",
     "sg:city":"Cercola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336699453,
-    "wof:lastmodified":1448997079,
+    "wof:lastmodified":1466294919,
     "wof:name":"La Moderna Meccanica Di Annunziata Cassese E C. S.",
     "wof:parent_id":85904821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [14.348908,40.851948,14.348908,40.851948],
+  "bbox": [
+    14.348908,
+    40.851948,
+    14.348908,
+    40.851948
+],
   "geometry": {"coordinates":[14.348908,40.851948],"type":"Point"}
 }

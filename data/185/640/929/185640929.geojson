@@ -2,13 +2,14 @@
   "id": 185640929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.610845,45.361221,9.610845,45.361221",
     "geom:latitude":45.361221,
     "geom:longitude":9.610845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via De Magistris 8, 26010 Bagnolo Cremasco, Cr",
     "sg:city":"Bagnolo Cremasco",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185640929,
-    "wof:lastmodified":1449007317,
+    "wof:lastmodified":1466294703,
     "wof:name":"Banca Di Credito Cooperativo Di Bagnolo Cremasco (cremona) Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.610845,45.361221,9.610845,45.361221],
+  "bbox": [
+    9.610845,
+    45.361221,
+    9.610845,
+    45.361221
+],
   "geometry": {"coordinates":[9.610845,45.361221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336621063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.363147,44.995537,11.363147,44.995537",
     "geom:latitude":44.995537,
     "geom:longitude":11.363147,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"243, Via Dell' Artigianato 45030 Calto",
     "sg:city":"Calto",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336621063,
-    "wof:lastmodified":1448997891,
+    "wof:lastmodified":1466293985,
     "wof:name":"C.m.g. Di Gabioli Mauro E Meneghello Roberto Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.363147,44.995537,11.363147,44.995537],
+  "bbox": [
+    11.363147,
+    44.995537,
+    11.363147,
+    44.995537
+],
   "geometry": {"coordinates":[11.363147,44.995537],"type":"Point"}
 }

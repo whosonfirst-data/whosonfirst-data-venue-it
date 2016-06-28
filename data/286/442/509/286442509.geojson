@@ -2,13 +2,14 @@
   "id": 286442509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.445112,44.283688,8.445112,44.283688",
     "geom:latitude":44.283688,
     "geom:longitude":8.445112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55/r, V. Nizza 17100 Savona",
     "sg:city":"Savona",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286442509,
-    "wof:lastmodified":1449016480,
+    "wof:lastmodified":1466292036,
     "wof:name":"Adele Atelier Sposi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.445112,44.283688,8.445112,44.283688],
+  "bbox": [
+    8.445112,
+    44.283688,
+    8.445112,
+    44.283688
+],
   "geometry": {"coordinates":[8.445112,44.283688],"type":"Point"}
 }

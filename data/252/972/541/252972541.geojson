@@ -2,13 +2,14 @@
   "id": 252972541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.243736,44.139259,12.243736,44.139259",
     "geom:latitude":44.139259,
     "geom:longitude":12.243736,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Montalti 47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252972541,
-    "wof:lastmodified":1449005963,
+    "wof:lastmodified":1466291781,
     "wof:name":"Arte Orafa Di Bianchi Marino & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [12.243736,44.139259,12.243736,44.139259],
+  "bbox": [
+    12.243736,
+    44.139259,
+    12.243736,
+    44.139259
+],
   "geometry": {"coordinates":[12.243736,44.139259],"type":"Point"}
 }

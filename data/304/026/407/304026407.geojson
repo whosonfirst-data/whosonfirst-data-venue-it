@@ -2,13 +2,14 @@
   "id": 304026407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.119921,39.228355,9.119921,39.228355",
     "geom:latitude":39.228355,
     "geom:longitude":9.119921,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09127 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304026407,
-    "wof:lastmodified":1449043941,
+    "wof:lastmodified":1466292501,
     "wof:name":"Lobina Assicurazioni",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.119921,39.228355,9.119921,39.228355],
+  "bbox": [
+    9.119921,
+    39.228355,
+    9.119921,
+    39.228355
+],
   "geometry": {"coordinates":[9.119921,39.228355],"type":"Point"}
 }

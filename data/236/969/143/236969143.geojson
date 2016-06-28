@@ -2,13 +2,14 @@
   "id": 236969143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.296734,45.483887,12.296734,45.483887",
     "geom:latitude":45.483887,
     "geom:longitude":12.296734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Passo 124 30030 Campalto",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236969143,
-    "wof:lastmodified":1449002274,
+    "wof:lastmodified":1466297384,
     "wof:name":"F.lli Marchi S.n.c.",
     "wof:parent_id":85905011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [12.296734,45.483887,12.296734,45.483887],
+  "bbox": [
+    12.296734,
+    45.483887,
+    12.296734,
+    45.483887
+],
   "geometry": {"coordinates":[12.296734,45.483887],"type":"Point"}
 }

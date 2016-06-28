@@ -2,13 +2,14 @@
   "id": 320399535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.105272,40.972542,17.105272,40.972542",
     "geom:latitude":40.972542,
     "geom:longitude":17.105272,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70014 Conversano",
     "sg:city":"Conversano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320399535,
-    "wof:lastmodified":1449011915,
+    "wof:lastmodified":1466297401,
     "wof:name":"Buonasora G.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.105272,40.972542,17.105272,40.972542],
+  "bbox": [
+    17.105272,
+    40.972542,
+    17.105272,
+    40.972542
+],
   "geometry": {"coordinates":[17.105272,40.972542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303248507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.402596,45.416481,9.402596,45.416481",
     "geom:latitude":45.416481,
     "geom:longitude":9.402596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Pasubio 20067 Tribiano",
     "sg:city":"Tribiano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303248507,
-    "wof:lastmodified":1448999462,
+    "wof:lastmodified":1466293590,
     "wof:name":"Mt Milantractor Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [9.402596,45.416481,9.402596,45.416481],
+  "bbox": [
+    9.402596,
+    45.416481,
+    9.402596,
+    45.416481
+],
   "geometry": {"coordinates":[9.402596,45.416481],"type":"Point"}
 }

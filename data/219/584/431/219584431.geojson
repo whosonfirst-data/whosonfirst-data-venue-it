@@ -2,13 +2,14 @@
   "id": 219584431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.433721,43.260925,13.433721,43.260925",
     "geom:latitude":43.260925,
     "geom:longitude":13.433721,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62100 Macerata",
     "sg:city":"Macerata",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219584431,
-    "wof:lastmodified":1449070775,
+    "wof:lastmodified":1466292138,
     "wof:name":"Bartoli Auto Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.433721,43.260925,13.433721,43.260925],
+  "bbox": [
+    13.433721,
+    43.260925,
+    13.433721,
+    43.260925
+],
   "geometry": {"coordinates":[13.433721,43.260925],"type":"Point"}
 }

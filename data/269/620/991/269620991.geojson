@@ -2,13 +2,14 @@
   "id": 269620991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.865624,45.85648,8.865624,45.85648",
     "geom:latitude":45.85648,
     "geom:longitude":8.865624,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21023 Besozzo",
     "sg:city":"Besozzo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269620991,
-    "wof:lastmodified":1449038779,
+    "wof:lastmodified":1466290561,
     "wof:name":"Aika Coppe Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supplies"
     ]
 },
-  "bbox": [8.865624,45.85648,8.865624,45.85648],
+  "bbox": [
+    8.865624,
+    45.85648,
+    8.865624,
+    45.85648
+],
   "geometry": {"coordinates":[8.865624,45.85648],"type":"Point"}
 }

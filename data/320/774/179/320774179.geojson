@@ -2,13 +2,14 @@
   "id": 320774179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.429472,46.281887,11.429472,46.281887",
     "geom:latitude":46.281887,
     "geom:longitude":11.429472,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38030 Castello Molina Di Fiemme",
     "sg:city":"Castello Molina di Fiemme",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320774179,
-    "wof:lastmodified":1449012720,
+    "wof:lastmodified":1466298197,
     "wof:name":"Thaler R. & C. S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.429472,46.281887,11.429472,46.281887],
+  "bbox": [
+    11.429472,
+    46.281887,
+    11.429472,
+    46.281887
+],
   "geometry": {"coordinates":[11.429472,46.281887],"type":"Point"}
 }

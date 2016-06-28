@@ -2,13 +2,14 @@
   "id": 286407275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.882314,44.415291,8.882314,44.415291",
     "geom:latitude":44.415291,
     "geom:longitude":8.882314,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Eridania 19 16151 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286407275,
-    "wof:lastmodified":1449016812,
+    "wof:lastmodified":1466291572,
     "wof:name":"Prosald Di Guido Brandi & C. Sas",
     "wof:parent_id":85796857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clevis"
     ]
 },
-  "bbox": [8.882314,44.415291,8.882314,44.415291],
+  "bbox": [
+    8.882314,
+    44.415291,
+    8.882314,
+    44.415291
+],
   "geometry": {"coordinates":[8.882314,44.415291],"type":"Point"}
 }

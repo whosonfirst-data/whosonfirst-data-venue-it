@@ -2,13 +2,14 @@
   "id": 253584915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.984499,45.519554,9.984499,45.519554",
     "geom:latitude":45.519554,
     "geom:longitude":9.984499,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rovato 21 25030 Castrezzato",
     "sg:city":"Castrezzato",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253584915,
-    "wof:lastmodified":1449063139,
+    "wof:lastmodified":1466295759,
     "wof:name":"Alcado Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dress"
     ]
 },
-  "bbox": [9.984499,45.519554,9.984499,45.519554],
+  "bbox": [
+    9.984499,
+    45.519554,
+    9.984499,
+    45.519554
+],
   "geometry": {"coordinates":[9.984499,45.519554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270520215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.182665,45.547409,10.182665,45.547409",
     "geom:latitude":45.547409,
     "geom:longitude":10.182665,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Valcamonica 25126 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270520215,
-    "wof:lastmodified":1449009443,
+    "wof:lastmodified":1466295318,
     "wof:name":"Ferremi Battista (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [10.182665,45.547409,10.182665,45.547409],
+  "bbox": [
+    10.182665,
+    45.547409,
+    10.182665,
+    45.547409
+],
   "geometry": {"coordinates":[10.182665,45.547409],"type":"Point"}
 }

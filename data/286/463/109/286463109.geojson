@@ -2,13 +2,14 @@
   "id": 286463109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.420442,45.653446,11.420442,45.653446",
     "geom:latitude":45.653446,
     "geom:longitude":11.420442,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ca' Bianca 36034 Malo",
     "sg:city":"Malo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286463109,
-    "wof:lastmodified":1449017227,
+    "wof:lastmodified":1466292272,
     "wof:name":"Ca' Bianca S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.420442,45.653446,11.420442,45.653446],
+  "bbox": [
+    11.420442,
+    45.653446,
+    11.420442,
+    45.653446
+],
   "geometry": {"coordinates":[11.420442,45.653446],"type":"Point"}
 }

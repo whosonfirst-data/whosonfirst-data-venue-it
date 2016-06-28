@@ -2,13 +2,14 @@
   "id": 303316849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.20272,45.651211,12.20272,45.651211",
     "geom:latitude":45.651211,
     "geom:longitude":12.20272,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Storga 2 31100 Treviso",
     "sg:city":"Treviso",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303316849,
-    "wof:lastmodified":1448999773,
+    "wof:lastmodified":1466294424,
     "wof:name":"Consulsped S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "export"
     ]
 },
-  "bbox": [12.20272,45.651211,12.20272,45.651211],
+  "bbox": [
+    12.20272,
+    45.651211,
+    12.20272,
+    45.651211
+],
   "geometry": {"coordinates":[12.20272,45.651211],"type":"Point"}
 }

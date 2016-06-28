@@ -2,13 +2,14 @@
   "id": 203082689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.537906,41.432995,15.537906,41.432995",
     "geom:latitude":41.432995,
     "geom:longitude":15.537906,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71043 Foggia",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Arredamento E Industria Del Legno. Servizi Di Magazzinaggio E Movimentazione",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203082689,
-    "wof:lastmodified":1449025000,
+    "wof:lastmodified":1466295878,
     "wof:name":"I Professionisti Del Trasloco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.537906,41.432995,15.537906,41.432995],
+  "bbox": [
+    15.537906,
+    41.432995,
+    15.537906,
+    41.432995
+],
   "geometry": {"coordinates":[15.537906,41.432995],"type":"Point"}
 }

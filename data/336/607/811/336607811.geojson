@@ -2,13 +2,14 @@
   "id": 336607811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.353074,42.999962,12.353074,42.999962",
     "geom:latitude":42.999962,
     "geom:longitude":12.353074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Marscianese 06055 Marsciano",
     "sg:city":"Marsciano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336607811,
-    "wof:lastmodified":1448997072,
+    "wof:lastmodified":1466293824,
     "wof:name":"Baldini Aroldo & Otello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.353074,42.999962,12.353074,42.999962],
+  "bbox": [
+    12.353074,
+    42.999962,
+    12.353074,
+    42.999962
+],
   "geometry": {"coordinates":[12.353074,42.999962],"type":"Point"}
 }

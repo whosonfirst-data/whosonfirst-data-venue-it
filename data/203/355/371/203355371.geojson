@@ -2,13 +2,14 @@
   "id": 203355371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.216995,45.474289,9.216995,45.474289",
     "geom:latitude":45.474289,
     "geom:longitude":9.216995,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203355371,
-    "wof:lastmodified":1449025436,
+    "wof:lastmodified":1466291633,
     "wof:name":"Kronos Informazioni Commerciali E Investigazioni",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.216995,45.474289,9.216995,45.474289],
+  "bbox": [
+    9.216995,
+    45.474289,
+    9.216995,
+    45.474289
+],
   "geometry": {"coordinates":[9.216995,45.474289],"type":"Point"}
 }

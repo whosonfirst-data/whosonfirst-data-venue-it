@@ -2,13 +2,14 @@
   "id": 303776017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.446026,41.907913,12.446026,41.907913",
     "geom:latitude":41.907913,
     "geom:longitude":12.446026,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00136 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303776017,
-    "wof:lastmodified":1448998648,
+    "wof:lastmodified":1466297876,
     "wof:name":"De Renzi Rita",
     "wof:parent_id":85900395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.446026,41.907913,12.446026,41.907913],
+  "bbox": [
+    12.446026,
+    41.907913,
+    12.446026,
+    41.907913
+],
   "geometry": {"coordinates":[12.446026,41.907913],"type":"Point"}
 }

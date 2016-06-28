@@ -2,13 +2,14 @@
   "id": 270323917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.999615,45.331326,7.999615,45.331326",
     "geom:latitude":45.331326,
     "geom:longitude":7.999615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13040 Moncrivello",
     "sg:city":"Moncrivello",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270323917,
-    "wof:lastmodified":1449008861,
+    "wof:lastmodified":1466292928,
     "wof:name":"Bocca Paola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.999615,45.331326,7.999615,45.331326],
+  "bbox": [
+    7.999615,
+    45.331326,
+    7.999615,
+    45.331326
+],
   "geometry": {"coordinates":[7.999615,45.331326],"type":"Point"}
 }

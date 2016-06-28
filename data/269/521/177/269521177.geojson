@@ -2,13 +2,14 @@
   "id": 269521177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.203382,40.867466,14.203382,40.867466",
     "geom:latitude":40.867466,
     "geom:longitude":14.203382,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Comunale Guantai Ad Orsolone 80131 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269521177,
-    "wof:lastmodified":1449038846,
+    "wof:lastmodified":1466289379,
     "wof:name":"Calzaturificio Fratelli Sacco (s.a.s.) Di Sacco Cidro & C.",
     "wof:parent_id":85904795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [14.203382,40.867466,14.203382,40.867466],
+  "bbox": [
+    14.203382,
+    40.867466,
+    14.203382,
+    40.867466
+],
   "geometry": {"coordinates":[14.203382,40.867466],"type":"Point"}
 }

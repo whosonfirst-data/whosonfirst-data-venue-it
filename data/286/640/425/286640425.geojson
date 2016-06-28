@@ -2,13 +2,14 @@
   "id": 286640425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.865157,45.447556,10.865157,45.447556",
     "geom:latitude":45.447556,
     "geom:longitude":10.865157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37012 Bussolengo",
     "sg:city":"Bussolengo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286640425,
-    "wof:lastmodified":1449016464,
+    "wof:lastmodified":1466294427,
     "wof:name":"Montresor Lino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "clothing"
     ]
 },
-  "bbox": [10.865157,45.447556,10.865157,45.447556],
+  "bbox": [
+    10.865157,
+    45.447556,
+    10.865157,
+    45.447556
+],
   "geometry": {"coordinates":[10.865157,45.447556],"type":"Point"}
 }

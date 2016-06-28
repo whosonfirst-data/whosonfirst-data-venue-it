@@ -2,13 +2,14 @@
   "id": 186491833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.644555,45.800335,8.644555,45.800335",
     "geom:latitude":45.800335,
     "geom:longitude":8.644555,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21020 Cadrezzate",
     "sg:city":"Cadrezzate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186491833,
-    "wof:lastmodified":1449050190,
+    "wof:lastmodified":1466292201,
     "wof:name":"Trombetta Ing. Fernando Luigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carbone"
     ]
 },
-  "bbox": [8.644555,45.800335,8.644555,45.800335],
+  "bbox": [
+    8.644555,
+    45.800335,
+    8.644555,
+    45.800335
+],
   "geometry": {"coordinates":[8.644555,45.800335],"type":"Point"}
 }

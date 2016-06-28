@@ -2,13 +2,14 @@
   "id": 286624655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.351274,45.150597,11.351274,45.150597",
     "geom:latitude":45.150597,
     "geom:longitude":11.351274,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Boschetto 37049 Villa Bartolomea",
     "sg:city":"Villa Bartolomea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286624655,
-    "wof:lastmodified":1449017205,
+    "wof:lastmodified":1466294240,
     "wof:name":"Pasa Sport Di Pasato Federica & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.351274,45.150597,11.351274,45.150597],
+  "bbox": [
+    11.351274,
+    45.150597,
+    11.351274,
+    45.150597
+],
   "geometry": {"coordinates":[11.351274,45.150597],"type":"Point"}
 }

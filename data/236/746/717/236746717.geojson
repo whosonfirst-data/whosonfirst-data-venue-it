@@ -2,13 +2,14 @@
   "id": 236746717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.639835,45.071182,7.639835,45.071182",
     "geom:latitude":45.071182,
     "geom:longitude":7.639835,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Trapani 54 10139 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236746717,
-    "wof:lastmodified":1449001654,
+    "wof:lastmodified":1466296319,
     "wof:name":"Minirobot Automazioni Srl",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automatic"
     ]
 },
-  "bbox": [7.639835,45.071182,7.639835,45.071182],
+  "bbox": [
+    7.639835,
+    45.071182,
+    7.639835,
+    45.071182
+],
   "geometry": {"coordinates":[7.639835,45.071182],"type":"Point"}
 }

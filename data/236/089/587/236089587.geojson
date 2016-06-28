@@ -2,13 +2,14 @@
   "id": 236089587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.220375,45.481812,9.220375,45.481812",
     "geom:latitude":45.481812,
     "geom:longitude":9.220375,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236089587,
-    "wof:lastmodified":1449002179,
+    "wof:lastmodified":1466289800,
     "wof:name":"Radal Di Romanelli Luca & C. (s.a.s.)",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.220375,45.481812,9.220375,45.481812],
+  "bbox": [
+    9.220375,
+    45.481812,
+    9.220375,
+    45.481812
+],
   "geometry": {"coordinates":[9.220375,45.481812],"type":"Point"}
 }

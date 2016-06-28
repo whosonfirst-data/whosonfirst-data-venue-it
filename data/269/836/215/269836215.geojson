@@ -2,13 +2,14 @@
   "id": 269836215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.835046,41.512634,13.835046,41.512634",
     "geom:latitude":41.512634,
     "geom:longitude":13.835046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sferracavallo 03043 Cassino",
     "sg:city":"Cassino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269836215,
-    "wof:lastmodified":1449037706,
+    "wof:lastmodified":1466293443,
     "wof:name":"Francesco Di Gruso (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [13.835046,41.512634,13.835046,41.512634],
+  "bbox": [
+    13.835046,
+    41.512634,
+    13.835046,
+    41.512634
+],
   "geometry": {"coordinates":[13.835046,41.512634],"type":"Point"}
 }

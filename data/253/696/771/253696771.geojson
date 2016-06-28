@@ -2,13 +2,14 @@
   "id": 253696771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.542868,43.890419,10.542868,43.890419",
     "geom:latitude":43.890419,
     "geom:longitude":10.542868,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55012 Capannori",
     "sg:city":"Capannori",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253696771,
-    "wof:lastmodified":1449063040,
+    "wof:lastmodified":1466296643,
     "wof:name":"Nuova Omma Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.542868,43.890419,10.542868,43.890419],
+  "bbox": [
+    10.542868,
+    43.890419,
+    10.542868,
+    43.890419
+],
   "geometry": {"coordinates":[10.542868,43.890419],"type":"Point"}
 }

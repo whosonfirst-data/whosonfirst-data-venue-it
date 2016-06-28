@@ -2,13 +2,14 @@
   "id": 253343149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.175839,43.846958,11.175839,43.846958",
     "geom:latitude":43.846958,
     "geom:longitude":11.175839,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Emanuele 33 50041 Calenzano",
     "sg:city":"Calenzano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253343149,
-    "wof:lastmodified":1449064932,
+    "wof:lastmodified":1466292777,
     "wof:name":"Casa Della Ruota Di Carla Ghigliazza Sas",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wheel-sets"
     ]
 },
-  "bbox": [11.175839,43.846958,11.175839,43.846958],
+  "bbox": [
+    11.175839,
+    43.846958,
+    11.175839,
+    43.846958
+],
   "geometry": {"coordinates":[11.175839,43.846958],"type":"Point"}
 }

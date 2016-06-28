@@ -2,13 +2,14 @@
   "id": 286562635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.544938,44.386387,7.544938,44.386387",
     "geom:latitude":44.386387,
     "geom:longitude":7.544938,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Corso Nizza 12100 Cuneo",
     "sg:city":"Cuneo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286562635,
-    "wof:lastmodified":1449016745,
+    "wof:lastmodified":1466293465,
     "wof:name":"Miroglio (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [7.544938,44.386387,7.544938,44.386387],
+  "bbox": [
+    7.544938,
+    44.386387,
+    7.544938,
+    44.386387
+],
   "geometry": {"coordinates":[7.544938,44.386387],"type":"Point"}
 }

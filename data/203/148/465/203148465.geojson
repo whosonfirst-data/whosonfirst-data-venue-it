@@ -2,13 +2,14 @@
   "id": 203148465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.396046,40.886131,14.396046,40.886131",
     "geom:latitude":40.886131,
     "geom:longitude":14.396046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80049 Somma Vesuviana",
     "sg:city":"Somma Vesuviana",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203148465,
-    "wof:lastmodified":1449026549,
+    "wof:lastmodified":1466289384,
     "wof:name":"Ecosumma Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.396046,40.886131,14.396046,40.886131],
+  "bbox": [
+    14.396046,
+    40.886131,
+    14.396046,
+    40.886131
+],
   "geometry": {"coordinates":[14.396046,40.886131],"type":"Point"}
 }

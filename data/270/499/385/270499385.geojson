@@ -2,13 +2,14 @@
   "id": 270499385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.063035,45.420586,9.063035,45.420586",
     "geom:latitude":45.420586,
     "geom:longitude":9.063035,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Edison 9 20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270499385,
-    "wof:lastmodified":1449009092,
+    "wof:lastmodified":1466295047,
     "wof:name":"Fumagalli Componenti Spa",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petrochemistry"
     ]
 },
-  "bbox": [9.063035,45.420586,9.063035,45.420586],
+  "bbox": [
+    9.063035,
+    45.420586,
+    9.063035,
+    45.420586
+],
   "geometry": {"coordinates":[9.063035,45.420586],"type":"Point"}
 }

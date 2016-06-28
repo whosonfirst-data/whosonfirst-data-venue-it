@@ -2,13 +2,14 @@
   "id": 269821859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.745169,45.948627,12.745169,45.948627",
     "geom:latitude":45.948627,
     "geom:longitude":12.745169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cusano 28 33080 Zoppola",
     "sg:city":"Zoppola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269821859,
-    "wof:lastmodified":1449037444,
+    "wof:lastmodified":1466293285,
     "wof:name":"Enrico Bisaro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.745169,45.948627,12.745169,45.948627],
+  "bbox": [
+    12.745169,
+    45.948627,
+    12.745169,
+    45.948627
+],
   "geometry": {"coordinates":[12.745169,45.948627],"type":"Point"}
 }

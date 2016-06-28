@@ -2,13 +2,14 @@
   "id": 219723907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.7323,44.779266,7.7323,44.779266",
     "geom:latitude":44.779266,
     "geom:longitude":7.7323,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Sebastiano 87 12030 Caramagna Piemonte",
     "sg:city":"Caramagna Piemonte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219723907,
-    "wof:lastmodified":1449072450,
+    "wof:lastmodified":1466293525,
     "wof:name":"Mac 2000 S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "road"
     ]
 },
-  "bbox": [7.7323,44.779266,7.7323,44.779266],
+  "bbox": [
+    7.7323,
+    44.779266,
+    7.7323,
+    44.779266
+],
   "geometry": {"coordinates":[7.7323,44.779266],"type":"Point"}
 }

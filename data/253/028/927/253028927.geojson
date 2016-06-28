@@ -2,13 +2,14 @@
   "id": 253028927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.122741,45.304852,9.122741,45.304852",
     "geom:latitude":45.304852,
     "geom:longitude":9.122741,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27010 Giussago",
     "sg:city":"Giussago",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253028927,
-    "wof:lastmodified":1449064433,
+    "wof:lastmodified":1466289213,
     "wof:name":"Saccinto Paola Servauto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.122741,45.304852,9.122741,45.304852],
+  "bbox": [
+    9.122741,
+    45.304852,
+    9.122741,
+    45.304852
+],
   "geometry": {"coordinates":[9.122741,45.304852],"type":"Point"}
 }

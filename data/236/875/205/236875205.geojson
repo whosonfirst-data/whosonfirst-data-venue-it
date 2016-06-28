@@ -2,13 +2,14 @@
   "id": 236875205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.407898,45.783493,12.407898,45.783493",
     "geom:latitude":45.783493,
     "geom:longitude":12.407898,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Ormelle 31020 San Polo Di Piave",
     "sg:city":"San Polo di Piave",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236875205,
-    "wof:lastmodified":1449004228,
+    "wof:lastmodified":1466296946,
     "wof:name":"Avir S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.407898,45.783493,12.407898,45.783493],
+  "bbox": [
+    12.407898,
+    45.783493,
+    12.407898,
+    45.783493
+],
   "geometry": {"coordinates":[12.407898,45.783493],"type":"Point"}
 }

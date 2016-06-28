@@ -2,13 +2,14 @@
   "id": 220178725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.238764,43.803829,11.238764,43.803829",
     "geom:latitude":43.803829,
     "geom:longitude":11.238764,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50141 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220178725,
-    "wof:lastmodified":1449074628,
+    "wof:lastmodified":1466289356,
     "wof:name":"Bonciani G. & F. Snc",
     "wof:parent_id":85904657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.238764,43.803829,11.238764,43.803829],
+  "bbox": [
+    11.238764,
+    43.803829,
+    11.238764,
+    43.803829
+],
   "geometry": {"coordinates":[11.238764,43.803829],"type":"Point"}
 }

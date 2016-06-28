@@ -2,13 +2,14 @@
   "id": 270404243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.390246,44.493237,11.390246,44.493237",
     "geom:latitude":44.493237,
     "geom:longitude":11.390246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270404243,
-    "wof:lastmodified":1449010288,
+    "wof:lastmodified":1466293934,
     "wof:name":"Istituto Di Estetica Betta Bolognesi Snc",
     "wof:parent_id":85904591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.390246,44.493237,11.390246,44.493237],
+  "bbox": [
+    11.390246,
+    44.493237,
+    11.390246,
+    44.493237
+],
   "geometry": {"coordinates":[11.390246,44.493237],"type":"Point"}
 }

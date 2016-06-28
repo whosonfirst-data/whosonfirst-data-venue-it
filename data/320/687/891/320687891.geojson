@@ -2,13 +2,14 @@
   "id": 320687891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.013305,45.40229,11.013305,45.40229",
     "geom:latitude":45.40229,
     "geom:longitude":11.013305,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37046 Minerbe",
     "sg:city":"Minerbe",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320687891,
-    "wof:lastmodified":1449012305,
+    "wof:lastmodified":1466298120,
     "wof:name":"F.i.e.s. Di Spoladori Maria Gabriella & C. (s.n.c.)",
     "wof:parent_id":85900309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.013305,45.40229,11.013305,45.40229],
+  "bbox": [
+    11.013305,
+    45.40229,
+    11.013305,
+    45.40229
+],
   "geometry": {"coordinates":[11.013305,45.40229],"type":"Point"}
 }

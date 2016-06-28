@@ -2,13 +2,14 @@
   "id": 186055499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.928226,45.396614,11.928226,45.396614",
     "geom:latitude":45.396614,
     "geom:longitude":11.928226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Uruguay 75; Padova; 35126",
     "sg:city":"Padova",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186055499,
-    "wof:lastmodified":1449050999,
+    "wof:lastmodified":1466295156,
     "wof:name":"Cassamarca Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.928226,45.396614,11.928226,45.396614],
+  "bbox": [
+    11.928226,
+    45.396614,
+    11.928226,
+    45.396614
+],
   "geometry": {"coordinates":[11.928226,45.396614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320744289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.376401,45.47784,10.376401,45.47784",
     "geom:latitude":45.47784,
     "geom:longitude":10.376401,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25011 Calcinato",
     "sg:city":"Calcinato",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320744289,
-    "wof:lastmodified":1449012625,
+    "wof:lastmodified":1466298072,
     "wof:name":"Gabeca Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.376401,45.47784,10.376401,45.47784],
+  "bbox": [
+    10.376401,
+    45.47784,
+    10.376401,
+    45.47784
+],
   "geometry": {"coordinates":[10.376401,45.47784],"type":"Point"}
 }

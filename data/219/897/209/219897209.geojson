@@ -2,13 +2,14 @@
   "id": 219897209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.509316,44.781456,10.509316,44.781456",
     "geom:latitude":44.781456,
     "geom:longitude":10.509316,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42043 Gattatico",
     "sg:classifiers":[],
     "sg:orig_category":"Impiantistica E Prodotti Tecnologici Per Edilizia",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219897209,
-    "wof:lastmodified":1449073344,
+    "wof:lastmodified":1466295269,
     "wof:name":"Ferretti Pier Giorgio Elfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.509316,44.781456,10.509316,44.781456],
+  "bbox": [
+    10.509316,
+    44.781456,
+    10.509316,
+    44.781456
+],
   "geometry": {"coordinates":[10.509316,44.781456],"type":"Point"}
 }

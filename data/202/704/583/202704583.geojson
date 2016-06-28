@@ -2,13 +2,14 @@
   "id": 202704583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.626904,44.709156,10.626904,44.709156",
     "geom:latitude":44.709156,
     "geom:longitude":10.626904,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Ausiliari Di Analisi, Controllo E Ricerca",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202704583,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1466291126,
     "wof:name":"Istituto Zooprofilattico",
     "wof:parent_id":85904879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.626904,44.709156,10.626904,44.709156],
+  "bbox": [
+    10.626904,
+    44.709156,
+    10.626904,
+    44.709156
+],
   "geometry": {"coordinates":[10.626904,44.709156],"type":"Point"}
 }

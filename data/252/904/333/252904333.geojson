@@ -2,13 +2,14 @@
   "id": 252904333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.445785,41.87236,12.445785,41.87236",
     "geom:latitude":41.87236,
     "geom:longitude":12.445785,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00151 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252904333,
-    "wof:lastmodified":1449006546,
+    "wof:lastmodified":1466291074,
     "wof:name":"Montesi Pietro & C. Sas",
     "wof:parent_id":85904947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.445785,41.87236,12.445785,41.87236],
+  "bbox": [
+    12.445785,
+    41.87236,
+    12.445785,
+    41.87236
+],
   "geometry": {"coordinates":[12.445785,41.87236],"type":"Point"}
 }

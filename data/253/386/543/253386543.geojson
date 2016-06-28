@@ -2,13 +2,14 @@
   "id": 253386543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.465954,45.51202,9.465954,45.51202",
     "geom:latitude":45.51202,
     "geom:longitude":9.465954,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Picasso 20060 Pozzuolo Martesana",
     "sg:city":"Pozzuolo Martesana",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253386543,
-    "wof:lastmodified":1449064375,
+    "wof:lastmodified":1466293254,
     "wof:name":"I.l.c. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [9.465954,45.51202,9.465954,45.51202],
+  "bbox": [
+    9.465954,
+    45.51202,
+    9.465954,
+    45.51202
+],
   "geometry": {"coordinates":[9.465954,45.51202],"type":"Point"}
 }

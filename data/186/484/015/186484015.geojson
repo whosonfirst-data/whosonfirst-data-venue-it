@@ -2,13 +2,14 @@
   "id": 186484015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.865707,40.999329,16.865707,40.999329",
     "geom:latitude":40.999329,
     "geom:longitude":16.865707,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70043 Monopoli",
     "sg:city":"Monopoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186484015,
-    "wof:lastmodified":1449052877,
+    "wof:lastmodified":1466292129,
     "wof:name":"Ippolito Legnami",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.865707,40.999329,16.865707,40.999329],
+  "bbox": [
+    16.865707,
+    40.999329,
+    16.865707,
+    40.999329
+],
   "geometry": {"coordinates":[16.865707,40.999329],"type":"Point"}
 }

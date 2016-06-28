@@ -2,13 +2,14 @@
   "id": 185603167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.112514,39.216621,9.112514,39.216621",
     "geom:latitude":39.216621,
     "geom:longitude":9.112514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Largo Carlo Felice 55; Cagliari; 09100",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185603167,
-    "wof:lastmodified":1449007985,
+    "wof:lastmodified":1466288915,
     "wof:name":"Banca Commerciale Italiana Spa",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.112514,39.216621,9.112514,39.216621],
+  "bbox": [
+    9.112514,
+    39.216621,
+    9.112514,
+    39.216621
+],
   "geometry": {"coordinates":[9.112514,39.216621],"type":"Point"}
 }

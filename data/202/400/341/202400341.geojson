@@ -2,13 +2,14 @@
   "id": 202400341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.491584,41.823093,12.491584,41.823093",
     "geom:latitude":41.823093,
     "geom:longitude":12.491584,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00165 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202400341,
-    "wof:lastmodified":1449060361,
+    "wof:lastmodified":1466294590,
     "wof:name":"Suore Di S. Giovanni Battista",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.491584,41.823093,12.491584,41.823093],
+  "bbox": [
+    12.491584,
+    41.823093,
+    12.491584,
+    41.823093
+],
   "geometry": {"coordinates":[12.491584,41.823093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286346525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.471927,45.282528,10.471927,45.282528",
     "geom:latitude":45.282528,
     "geom:longitude":10.471927,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46042 Castel Goffredo",
     "sg:city":"Castel Goffredo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286346525,
-    "wof:lastmodified":1449015149,
+    "wof:lastmodified":1466290651,
     "wof:name":"F.a.l. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.471927,45.282528,10.471927,45.282528],
+  "bbox": [
+    10.471927,
+    45.282528,
+    10.471927,
+    45.282528
+],
   "geometry": {"coordinates":[10.471927,45.282528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185658599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.612346,38.036907,12.612346,38.036907",
     "geom:latitude":38.036907,
     "geom:longitude":12.612346,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Erice 2/4, Paparella, 91019 Valderice, Tp",
     "sg:city":"Valderice",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185658599,
-    "wof:lastmodified":1449006566,
+    "wof:lastmodified":1466295073,
     "wof:name":"Banca Di Credito Cooperativo Ericina Di Valderice Provincia Di Trapani Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.612346,38.036907,12.612346,38.036907],
+  "bbox": [
+    12.612346,
+    38.036907,
+    12.612346,
+    38.036907
+],
   "geometry": {"coordinates":[12.612346,38.036907],"type":"Point"}
 }

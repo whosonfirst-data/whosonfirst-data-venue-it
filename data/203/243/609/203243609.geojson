@@ -2,13 +2,14 @@
   "id": 203243609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.768913,45.127911,10.768913,45.127911",
     "geom:latitude":45.127911,
     "geom:longitude":10.768913,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46010 Curtatone",
     "sg:city":"Curtatone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203243609,
-    "wof:lastmodified":1449025534,
+    "wof:lastmodified":1466290305,
     "wof:name":"Servizio Elettrico Snc Di Gabbioli Luigi & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.768913,45.127911,10.768913,45.127911],
+  "bbox": [
+    10.768913,
+    45.127911,
+    10.768913,
+    45.127911
+],
   "geometry": {"coordinates":[10.768913,45.127911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253391317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.629007,41.927933,12.629007,41.927933",
     "geom:latitude":41.927933,
     "geom:longitude":12.629007,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"246, Via Di Salone 00131 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253391317,
-    "wof:lastmodified":1449064721,
+    "wof:lastmodified":1466293307,
     "wof:name":"Lumaca Legnami S.p.a.",
     "wof:parent_id":85900495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.629007,41.927933,12.629007,41.927933],
+  "bbox": [
+    12.629007,
+    41.927933,
+    12.629007,
+    41.927933
+],
   "geometry": {"coordinates":[12.629007,41.927933],"type":"Point"}
 }

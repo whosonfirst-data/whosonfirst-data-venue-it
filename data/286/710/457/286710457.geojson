@@ -2,13 +2,14 @@
   "id": 286710457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.124933,39.0788,17.124933,39.0788",
     "geom:latitude":39.0788,
     "geom:longitude":17.124933,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83, Via Firenze 88900 Crotone",
     "sg:city":"Crotone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286710457,
-    "wof:lastmodified":1449015359,
+    "wof:lastmodified":1466295340,
     "wof:name":"Sestito Giancarlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [17.124933,39.0788,17.124933,39.0788],
+  "bbox": [
+    17.124933,
+    39.0788,
+    17.124933,
+    39.0788
+],
   "geometry": {"coordinates":[17.124933,39.0788],"type":"Point"}
 }

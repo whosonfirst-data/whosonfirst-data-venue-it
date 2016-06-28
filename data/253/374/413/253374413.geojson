@@ -2,13 +2,14 @@
   "id": 253374413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.126648,45.770004,9.126648,45.770004",
     "geom:latitude":45.770004,
     "geom:longitude":9.126648,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Serenza 22070 Capiago Intimiano",
     "sg:city":"Capiago",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253374413,
-    "wof:lastmodified":1449064108,
+    "wof:lastmodified":1466293116,
     "wof:name":"Bergna & Colombo (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [9.126648,45.770004,9.126648,45.770004],
+  "bbox": [
+    9.126648,
+    45.770004,
+    9.126648,
+    45.770004
+],
   "geometry": {"coordinates":[9.126648,45.770004],"type":"Point"}
 }

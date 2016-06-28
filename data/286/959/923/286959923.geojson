@@ -2,13 +2,14 @@
   "id": 286959923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.921511,45.593483,8.921511,45.593483",
     "geom:latitude":45.593483,
     "geom:longitude":8.921511,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Furato",
     "sg:city":"Furato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286959923,
-    "wof:lastmodified":1449017801,
+    "wof:lastmodified":1466297511,
     "wof:name":"Cotonificio Carlo Bonomi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.921511,45.593483,8.921511,45.593483],
+  "bbox": [
+    8.921511,
+    45.593483,
+    8.921511,
+    45.593483
+],
   "geometry": {"coordinates":[8.921511,45.593483],"type":"Point"}
 }

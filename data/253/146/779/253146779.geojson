@@ -2,13 +2,14 @@
   "id": 253146779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.511437,40.755352,14.511437,40.755352",
     "geom:latitude":40.755352,
     "geom:longitude":14.511437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80045 Pompei",
     "sg:city":"Pompei",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253146779,
-    "wof:lastmodified":1449064048,
+    "wof:lastmodified":1466290454,
     "wof:name":"Supino Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.511437,40.755352,14.511437,40.755352],
+  "bbox": [
+    14.511437,
+    40.755352,
+    14.511437,
+    40.755352
+],
   "geometry": {"coordinates":[14.511437,40.755352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220119601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.270423,45.538074,9.270423,45.538074",
     "geom:latitude":45.538074,
     "geom:longitude":9.270423,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Santa Maria 98 20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220119601,
-    "wof:lastmodified":1449074622,
+    "wof:lastmodified":1466296095,
     "wof:name":"Nautica Aiello Impresa Individuale",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inflatable"
     ]
 },
-  "bbox": [9.270423,45.538074,9.270423,45.538074],
+  "bbox": [
+    9.270423,
+    45.538074,
+    9.270423,
+    45.538074
+],
   "geometry": {"coordinates":[9.270423,45.538074],"type":"Point"}
 }

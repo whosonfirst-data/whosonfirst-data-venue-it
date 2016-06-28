@@ -2,13 +2,14 @@
   "id": 270433405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.336377,44.49873,11.336377,44.49873",
     "geom:latitude":44.49873,
     "geom:longitude":11.336377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40122 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270433405,
-    "wof:lastmodified":1449008929,
+    "wof:lastmodified":1466294290,
     "wof:name":"Arcostil Di Craparotta Antonio",
     "wof:parent_id":85904597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.336377,44.49873,11.336377,44.49873],
+  "bbox": [
+    11.336377,
+    44.49873,
+    11.336377,
+    44.49873
+],
   "geometry": {"coordinates":[11.336377,44.49873],"type":"Point"}
 }

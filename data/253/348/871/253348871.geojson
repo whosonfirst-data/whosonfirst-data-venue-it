@@ -2,13 +2,14 @@
   "id": 253348871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.170918,45.667057,9.170918,45.667057",
     "geom:latitude":45.667057,
     "geom:longitude":9.170918,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65, Via Trieste 20036 Meda",
     "sg:city":"Meda",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253348871,
-    "wof:lastmodified":1449062953,
+    "wof:lastmodified":1466292839,
     "wof:name":"Allievi Fratelli",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [9.170918,45.667057,9.170918,45.667057],
+  "bbox": [
+    9.170918,
+    45.667057,
+    9.170918,
+    45.667057
+],
   "geometry": {"coordinates":[9.170918,45.667057],"type":"Point"}
 }

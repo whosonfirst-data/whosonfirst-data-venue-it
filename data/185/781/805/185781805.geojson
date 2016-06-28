@@ -2,13 +2,14 @@
   "id": 185781805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.430894,46.093521,13.430894,46.093521",
     "geom:latitude":46.093521,
     "geom:longitude":13.430894,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"C Mazzini 6; Cividale; 33043",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185781805,
-    "wof:lastmodified":1449006923,
+    "wof:lastmodified":1466289163,
     "wof:name":"Banca Popolare Di Cividale",
     "wof:parent_id":85900367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.430894,46.093521,13.430894,46.093521],
+  "bbox": [
+    13.430894,
+    46.093521,
+    13.430894,
+    46.093521
+],
   "geometry": {"coordinates":[13.430894,46.093521],"type":"Point"}
 }

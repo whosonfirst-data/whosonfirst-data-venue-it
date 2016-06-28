@@ -2,13 +2,14 @@
   "id": 202428449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.38127,41.687897,15.38127,41.687897",
     "geom:latitude":41.687897,
     "geom:longitude":15.38127,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71016 San Severo",
     "sg:city":"San Severo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202428449,
-    "wof:lastmodified":1449062470,
+    "wof:lastmodified":1466295364,
     "wof:name":"Centro Studi Quintiliano (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.38127,41.687897,15.38127,41.687897],
+  "bbox": [
+    15.38127,
+    41.687897,
+    15.38127,
+    41.687897
+],
   "geometry": {"coordinates":[15.38127,41.687897],"type":"Point"}
 }

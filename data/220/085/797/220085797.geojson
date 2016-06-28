@@ -2,13 +2,14 @@
   "id": 220085797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619183,45.076698,7.619183,45.076698",
     "geom:latitude":45.076698,
     "geom:longitude":7.619183,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sostegno 20 10146 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220085797,
-    "wof:lastmodified":1449074236,
+    "wof:lastmodified":1466295708,
     "wof:name":"Acet Srl",
     "wof:parent_id":85859509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [7.619183,45.076698,7.619183,45.076698],
+  "bbox": [
+    7.619183,
+    45.076698,
+    7.619183,
+    45.076698
+],
   "geometry": {"coordinates":[7.619183,45.076698],"type":"Point"}
 }

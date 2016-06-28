@@ -2,13 +2,14 @@
   "id": 186043109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.510088,46.289608,11.510088,46.289608",
     "geom:latitude":46.289608,
     "geom:longitude":11.510088,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Cesare Battisti 4, 38038 T\u00e9sero, Tn",
     "sg:city":"Tesero",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186043109,
-    "wof:lastmodified":1449052351,
+    "wof:lastmodified":1466294900,
     "wof:name":"Cassa Rurale Di Tesero E Panchia' (tesero - Trento)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.510088,46.289608,11.510088,46.289608],
+  "bbox": [
+    11.510088,
+    46.289608,
+    11.510088,
+    46.289608
+],
   "geometry": {"coordinates":[11.510088,46.289608],"type":"Point"}
 }

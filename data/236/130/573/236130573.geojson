@@ -2,13 +2,14 @@
   "id": 236130573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.243685,45.665714,12.243685,45.665714",
     "geom:latitude":45.665714,
     "geom:longitude":12.243685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31056 Roncade",
     "sg:city":"Roncade",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236130573,
-    "wof:lastmodified":1449002649,
+    "wof:lastmodified":1466290191,
     "wof:name":"Ceccarel Import Export Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "drinks"
     ]
 },
-  "bbox": [12.243685,45.665714,12.243685,45.665714],
+  "bbox": [
+    12.243685,
+    45.665714,
+    12.243685,
+    45.665714
+],
   "geometry": {"coordinates":[12.243685,45.665714],"type":"Point"}
 }

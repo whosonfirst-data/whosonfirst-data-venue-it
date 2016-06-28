@@ -2,13 +2,14 @@
   "id": 253099163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547111,44.388798,7.547111,44.388798",
     "geom:latitude":44.388798,
     "geom:longitude":7.547111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 118/a 12030 Marene",
     "sg:city":"Marene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253099163,
-    "wof:lastmodified":1449064763,
+    "wof:lastmodified":1466289961,
     "wof:name":"Findelta Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [7.547111,44.388798,7.547111,44.388798],
+  "bbox": [
+    7.547111,
+    44.388798,
+    7.547111,
+    44.388798
+],
   "geometry": {"coordinates":[7.547111,44.388798],"type":"Point"}
 }

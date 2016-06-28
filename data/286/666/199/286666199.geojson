@@ -2,13 +2,14 @@
   "id": 286666199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.167612,44.637669,11.167612,44.637669",
     "geom:latitude":44.637669,
     "geom:longitude":11.167612,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Einstein 69 40017 San Giovanni In Persiceto",
     "sg:city":"San Giovanni in Persiceto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286666199,
-    "wof:lastmodified":1449016258,
+    "wof:lastmodified":1466294744,
     "wof:name":"Businaro Di Businaro Andrea E Luca Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.167612,44.637669,11.167612,44.637669],
+  "bbox": [
+    11.167612,
+    44.637669,
+    11.167612,
+    44.637669
+],
   "geometry": {"coordinates":[11.167612,44.637669],"type":"Point"}
 }

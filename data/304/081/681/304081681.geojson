@@ -2,13 +2,14 @@
   "id": 304081681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.771862,45.748589,9.771862,45.748589",
     "geom:latitude":45.748589,
     "geom:longitude":9.771862,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Crespi 24020 Pradalunga",
     "sg:city":"Pradalunga",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304081681,
-    "wof:lastmodified":1449043735,
+    "wof:lastmodified":1466293278,
     "wof:name":"Saar Elettronica S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [9.771862,45.748589,9.771862,45.748589],
+  "bbox": [
+    9.771862,
+    45.748589,
+    9.771862,
+    45.748589
+],
   "geometry": {"coordinates":[9.771862,45.748589],"type":"Point"}
 }

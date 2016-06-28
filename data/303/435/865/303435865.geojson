@@ -2,13 +2,14 @@
   "id": 303435865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.670722,45.112335,7.670722,45.112335",
     "geom:latitude":45.112335,
     "geom:longitude":7.670722,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303435865,
-    "wof:lastmodified":1449000339,
+    "wof:lastmodified":1466295891,
     "wof:name":"G. Di Fiore & C. Snc",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.670722,45.112335,7.670722,45.112335],
+  "bbox": [
+    7.670722,
+    45.112335,
+    7.670722,
+    45.112335
+],
   "geometry": {"coordinates":[7.670722,45.112335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236081207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.234691,44.507065,11.234691,44.507065",
     "geom:latitude":44.507065,
     "geom:longitude":11.234691,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236081207,
-    "wof:lastmodified":1449002514,
+    "wof:lastmodified":1466289713,
     "wof:name":"Lelli Lino E Figli S.r.l.",
     "wof:parent_id":85900307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.234691,44.507065,11.234691,44.507065],
+  "bbox": [
+    11.234691,
+    44.507065,
+    11.234691,
+    44.507065
+],
   "geometry": {"coordinates":[11.234691,44.507065],"type":"Point"}
 }

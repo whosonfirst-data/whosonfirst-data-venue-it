@@ -2,13 +2,14 @@
   "id": 202925801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.037331,45.510475,8.037331,45.510475",
     "geom:latitude":45.510475,
     "geom:longitude":8.037331,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13872 Borriana",
     "sg:city":"Borriana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202925801,
-    "wof:lastmodified":1449060133,
+    "wof:lastmodified":1466293478,
     "wof:name":"Ritorcitura Filma S.n.c. Di Filippone Pietro & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.037331,45.510475,8.037331,45.510475],
+  "bbox": [
+    8.037331,
+    45.510475,
+    8.037331,
+    45.510475
+],
   "geometry": {"coordinates":[8.037331,45.510475],"type":"Point"}
 }

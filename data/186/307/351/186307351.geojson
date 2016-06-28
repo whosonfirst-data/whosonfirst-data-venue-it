@@ -2,13 +2,14 @@
   "id": 186307351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.654788,41.552486,14.654788,41.552486",
     "geom:latitude":41.552486,
     "geom:longitude":14.654788,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86100 Campobasso",
     "sg:city":"Campobasso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186307351,
-    "wof:lastmodified":1449051085,
+    "wof:lastmodified":1466290570,
     "wof:name":"Vinicola Molisana Cefalo Gennaro & Figli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.654788,41.552486,14.654788,41.552486],
+  "bbox": [
+    14.654788,
+    41.552486,
+    14.654788,
+    41.552486
+],
   "geometry": {"coordinates":[14.654788,41.552486],"type":"Point"}
 }

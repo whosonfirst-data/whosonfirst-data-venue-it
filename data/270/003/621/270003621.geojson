@@ -2,13 +2,14 @@
   "id": 270003621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.238614,40.870598,14.238614,40.870598",
     "geom:latitude":40.870598,
     "geom:longitude":14.238614,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80131 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270003621,
-    "wof:lastmodified":1449010912,
+    "wof:lastmodified":1466289042,
     "wof:name":"Farmacia Maddaloni",
     "wof:parent_id":85904831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.238614,40.870598,14.238614,40.870598],
+  "bbox": [
+    14.238614,
+    40.870598,
+    14.238614,
+    40.870598
+],
   "geometry": {"coordinates":[14.238614,40.870598],"type":"Point"}
 }

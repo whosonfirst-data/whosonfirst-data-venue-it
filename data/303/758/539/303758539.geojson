@@ -2,13 +2,14 @@
   "id": 303758539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.642303,41.9856,-72.642303,41.9856",
     "geom:latitude":41.9856,
     "geom:longitude":-72.642303,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06080 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Cucina Ed Elettrodomestici",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303758539,
-    "wof:lastmodified":1448998858,
+    "wof:lastmodified":1466297650,
     "wof:name":"Falegnameria Milletti Snc Di Milletti Claudio & Franco",
     "wof:parent_id":85865187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.642303,41.9856,-72.642303,41.9856],
+  "bbox": [
+    -72.642303,
+    41.9856,
+    -72.642303,
+    41.9856
+],
   "geometry": {"coordinates":[-72.642303,41.9856],"type":"Point"}
 }

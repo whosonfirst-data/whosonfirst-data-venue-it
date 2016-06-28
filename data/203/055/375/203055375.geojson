@@ -2,13 +2,14 @@
   "id": 203055375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.213264,45.617748,9.213264,45.617748",
     "geom:latitude":45.617748,
     "geom:longitude":9.213264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20033 Desio",
     "sg:city":"Desio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203055375,
-    "wof:lastmodified":1449025350,
+    "wof:lastmodified":1466295336,
     "wof:name":"Mogicato Sergio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.213264,45.617748,9.213264,45.617748],
+  "bbox": [
+    9.213264,
+    45.617748,
+    9.213264,
+    45.617748
+],
   "geometry": {"coordinates":[9.213264,45.617748],"type":"Point"}
 }

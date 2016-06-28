@@ -2,13 +2,14 @@
   "id": 236899299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.849996,43.486767,11.849996,43.486767",
     "geom:latitude":43.486767,
     "geom:longitude":11.849996,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sette Ponti 67 52100 Arezzo",
     "sg:city":"Arezzo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236899299,
-    "wof:lastmodified":1449005051,
+    "wof:lastmodified":1466297081,
     "wof:name":"Arezia Oro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gold"
     ]
 },
-  "bbox": [11.849996,43.486767,11.849996,43.486767],
+  "bbox": [
+    11.849996,
+    43.486767,
+    11.849996,
+    43.486767
+],
   "geometry": {"coordinates":[11.849996,43.486767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186522779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.253883,44.259518,12.253883,44.259518",
     "geom:latitude":44.259518,
     "geom:longitude":12.253883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"201, Viale Romagna 48100 Ravenna",
     "sg:city":"Ravenna",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186522779,
-    "wof:lastmodified":1449051655,
+    "wof:lastmodified":1466292523,
     "wof:name":"Albergo Colorado",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.253883,44.259518,12.253883,44.259518],
+  "bbox": [
+    12.253883,
+    44.259518,
+    12.253883,
+    44.259518
+],
   "geometry": {"coordinates":[12.253883,44.259518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303953767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.656145,45.003719,7.656145,45.003719",
     "geom:latitude":45.003719,
     "geom:longitude":7.656145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10073 Cirie'",
     "sg:classifiers":[],
     "sg:orig_category":"Articoli Pulizia",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303953767,
-    "wof:lastmodified":1448999803,
+    "wof:lastmodified":1466298219,
     "wof:name":"Cibrario Domenico",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.656145,45.003719,7.656145,45.003719],
+  "bbox": [
+    7.656145,
+    45.003719,
+    7.656145,
+    45.003719
+],
   "geometry": {"coordinates":[7.656145,45.003719],"type":"Point"}
 }

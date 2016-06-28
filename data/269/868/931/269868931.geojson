@@ -2,13 +2,14 @@
   "id": 269868931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.176678,45.468838,9.176678,45.468838",
     "geom:latitude":45.468838,
     "geom:longitude":9.176678,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Piazzale Cadorna Luigi 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269868931,
-    "wof:lastmodified":1449036238,
+    "wof:lastmodified":1466293799,
     "wof:name":"Europro S.r.l.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [9.176678,45.468838,9.176678,45.468838],
+  "bbox": [
+    9.176678,
+    45.468838,
+    9.176678,
+    45.468838
+],
   "geometry": {"coordinates":[9.176678,45.468838],"type":"Point"}
 }

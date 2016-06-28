@@ -2,13 +2,14 @@
   "id": 286838025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.483711,41.846889,12.483711,41.846889",
     "geom:latitude":41.846889,
     "geom:longitude":12.483711,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00142 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286838025,
-    "wof:lastmodified":1449015525,
+    "wof:lastmodified":1466296781,
     "wof:name":"Lanna Laura",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.483711,41.846889,12.483711,41.846889],
+  "bbox": [
+    12.483711,
+    41.846889,
+    12.483711,
+    41.846889
+],
   "geometry": {"coordinates":[12.483711,41.846889],"type":"Point"}
 }

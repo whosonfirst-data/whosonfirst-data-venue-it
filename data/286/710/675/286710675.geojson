@@ -2,13 +2,14 @@
   "id": 286710675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.778691,40.632668,15.778691,40.632668",
     "geom:latitude":40.632668,
     "geom:longitude":15.778691,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Gallitello 85100 Potenza",
     "sg:city":"Potenza",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286710675,
-    "wof:lastmodified":1449015360,
+    "wof:lastmodified":1466295343,
     "wof:name":"Sinisgalli Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [15.778691,40.632668,15.778691,40.632668],
+  "bbox": [
+    15.778691,
+    40.632668,
+    15.778691,
+    40.632668
+],
   "geometry": {"coordinates":[15.778691,40.632668],"type":"Point"}
 }

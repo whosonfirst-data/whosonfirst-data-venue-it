@@ -2,13 +2,14 @@
   "id": 236017637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.650214,45.059235,7.650214,45.059235",
     "geom:latitude":45.059235,
     "geom:longitude":7.650214,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Osasco 56 10141 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236017637,
-    "wof:lastmodified":1449003399,
+    "wof:lastmodified":1466289064,
     "wof:name":"Cate Srl",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond"
     ]
 },
-  "bbox": [7.650214,45.059235,7.650214,45.059235],
+  "bbox": [
+    7.650214,
+    45.059235,
+    7.650214,
+    45.059235
+],
   "geometry": {"coordinates":[7.650214,45.059235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287223265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.772601,45.76976,11.772601,45.76976",
     "geom:latitude":45.76976,
     "geom:longitude":11.772601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36060 Romano D'ezzelino",
     "sg:classifiers":[],
     "sg:orig_category":"Elaborazione Dati - Servizio Conto Terzi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287223265,
-    "wof:lastmodified":1449000720,
+    "wof:lastmodified":1466292572,
     "wof:name":"Studio Farronato 1 Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.772601,45.76976,11.772601,45.76976],
+  "bbox": [
+    11.772601,
+    45.76976,
+    11.772601,
+    45.76976
+],
   "geometry": {"coordinates":[11.772601,45.76976],"type":"Point"}
 }

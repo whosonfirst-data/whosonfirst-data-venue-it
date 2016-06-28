@@ -2,13 +2,14 @@
   "id": 203166525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165039,45.377842,9.165039,45.377842",
     "geom:latitude":45.377842,
     "geom:longitude":9.165039,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20089 Rozzano",
     "sg:city":"Rozzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203166525,
-    "wof:lastmodified":1449026012,
+    "wof:lastmodified":1466289550,
     "wof:name":"Delos Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165039,45.377842,9.165039,45.377842],
+  "bbox": [
+    9.165039,
+    45.377842,
+    9.165039,
+    45.377842
+],
   "geometry": {"coordinates":[9.165039,45.377842],"type":"Point"}
 }

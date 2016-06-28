@@ -2,13 +2,14 @@
   "id": 286836135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.183946,44.813511,10.183946,44.813511",
     "geom:latitude":44.813511,
     "geom:longitude":10.183946,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43015 Noceto",
     "sg:city":"Noceto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286836135,
-    "wof:lastmodified":1449017130,
+    "wof:lastmodified":1466296772,
     "wof:name":"Sport Bike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.183946,44.813511,10.183946,44.813511],
+  "bbox": [
+    10.183946,
+    44.813511,
+    10.183946,
+    44.813511
+],
   "geometry": {"coordinates":[10.183946,44.813511],"type":"Point"}
 }

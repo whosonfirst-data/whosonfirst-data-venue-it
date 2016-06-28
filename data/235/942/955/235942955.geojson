@@ -2,13 +2,14 @@
   "id": 235942955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547111,44.388798,7.547111,44.388798",
     "geom:latitude":44.388798,
     "geom:longitude":7.547111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Barolo Alba 5 12060 Castiglione Falletto",
     "sg:city":"Barolo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235942955,
-    "wof:lastmodified":1449008406,
+    "wof:lastmodified":1466294647,
     "wof:name":"Cantina Terre Del Barolo S.c.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "italian"
     ]
 },
-  "bbox": [7.547111,44.388798,7.547111,44.388798],
+  "bbox": [
+    7.547111,
+    44.388798,
+    7.547111,
+    44.388798
+],
   "geometry": {"coordinates":[7.547111,44.388798],"type":"Point"}
 }

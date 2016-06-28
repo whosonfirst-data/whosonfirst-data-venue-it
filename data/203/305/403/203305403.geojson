@@ -2,13 +2,14 @@
   "id": 203305403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.55823,41.941551,12.55823,41.941551",
     "geom:latitude":41.941551,
     "geom:longitude":12.55823,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00137 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203305403,
-    "wof:lastmodified":1449025226,
+    "wof:lastmodified":1466291025,
     "wof:name":"C.s.c. Sas Di Massimo Calanca",
     "wof:parent_id":85904923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.55823,41.941551,12.55823,41.941551],
+  "bbox": [
+    12.55823,
+    41.941551,
+    12.55823,
+    41.941551
+],
   "geometry": {"coordinates":[12.55823,41.941551],"type":"Point"}
 }

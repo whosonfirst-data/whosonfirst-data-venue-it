@@ -2,13 +2,14 @@
   "id": 286690685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.92522,44.647079,10.92522,44.647079",
     "geom:latitude":44.647079,
     "geom:longitude":10.92522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"210, Via Respighi Ottorino 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286690685,
-    "wof:lastmodified":1449016744,
+    "wof:lastmodified":1466295094,
     "wof:name":"Attima Societa' Cooperativa A R. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [10.92522,44.647079,10.92522,44.647079],
+  "bbox": [
+    10.92522,
+    44.647079,
+    10.92522,
+    44.647079
+],
   "geometry": {"coordinates":[10.92522,44.647079],"type":"Point"}
 }

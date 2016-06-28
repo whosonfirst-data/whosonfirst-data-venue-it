@@ -2,13 +2,14 @@
   "id": 269682033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.127846,39.225719,9.127846,39.225719",
     "geom:latitude":39.225719,
     "geom:longitude":9.127846,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, V. Goldoni 09131 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269682033,
-    "wof:lastmodified":1449036543,
+    "wof:lastmodified":1466291404,
     "wof:name":"Rv Di Rosanna Vidili",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [9.127846,39.225719,9.127846,39.225719],
+  "bbox": [
+    9.127846,
+    39.225719,
+    9.127846,
+    39.225719
+],
   "geometry": {"coordinates":[9.127846,39.225719],"type":"Point"}
 }

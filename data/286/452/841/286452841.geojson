@@ -2,13 +2,14 @@
   "id": 286452841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.859097,44.78685,10.859097,44.78685",
     "geom:latitude":44.78685,
     "geom:longitude":10.859097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Viale Commercio 41012 Carpi",
     "sg:city":"Carpi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286452841,
-    "wof:lastmodified":1449015855,
+    "wof:lastmodified":1466292159,
     "wof:name":"Artioli S.r.l",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.859097,44.78685,10.859097,44.78685],
+  "bbox": [
+    10.859097,
+    44.78685,
+    10.859097,
+    44.78685
+],
   "geometry": {"coordinates":[10.859097,44.78685],"type":"Point"}
 }

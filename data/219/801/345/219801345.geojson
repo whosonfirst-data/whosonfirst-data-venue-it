@@ -2,13 +2,14 @@
   "id": 219801345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.703759,43.541931,10.703759,43.541931",
     "geom:latitude":43.541931,
     "geom:longitude":10.703759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Salaiola 56030 Terricciola",
     "sg:city":"Terricciola",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219801345,
-    "wof:lastmodified":1449073307,
+    "wof:lastmodified":1466294292,
     "wof:name":"F.c.f. Tyres Snc Di Carrai Federico & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.703759,43.541931,10.703759,43.541931],
+  "bbox": [
+    10.703759,
+    43.541931,
+    10.703759,
+    43.541931
+],
   "geometry": {"coordinates":[10.703759,43.541931],"type":"Point"}
 }

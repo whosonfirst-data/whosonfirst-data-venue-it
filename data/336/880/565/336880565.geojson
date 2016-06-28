@@ -2,13 +2,14 @@
   "id": 336880565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.548708,38.0261,12.548708,38.0261",
     "geom:latitude":38.0261,
     "geom:longitude":12.548708,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91016 Erice",
     "sg:city":"Casa Santa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":336880565,
-    "wof:lastmodified":1448998025,
+    "wof:lastmodified":1466296837,
     "wof:name":"Zichichi Leonardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.548708,38.0261,12.548708,38.0261],
+  "bbox": [
+    12.548708,
+    38.0261,
+    12.548708,
+    38.0261
+],
   "geometry": {"coordinates":[12.548708,38.0261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336731351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.648909,41.573868,12.648909,41.573868",
     "geom:latitude":41.573868,
     "geom:longitude":12.648909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Delle Scienze 04011 Aprilia",
     "sg:city":"Aprilia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336731351,
-    "wof:lastmodified":1448997899,
+    "wof:lastmodified":1466295295,
     "wof:name":"O.m.a. Sistem Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.648909,41.573868,12.648909,41.573868],
+  "bbox": [
+    12.648909,
+    41.573868,
+    12.648909,
+    41.573868
+],
   "geometry": {"coordinates":[12.648909,41.573868],"type":"Point"}
 }

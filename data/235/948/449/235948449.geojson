@@ -2,13 +2,14 @@
   "id": 235948449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.206813,44.900864,8.206813,44.900864",
     "geom:latitude":44.900864,
     "geom:longitude":8.206813,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Iv Novembre 80 14049 Nizza Monferrato",
     "sg:city":"Nizza Monferrato",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235948449,
-    "wof:lastmodified":1449008529,
+    "wof:lastmodified":1466294925,
     "wof:name":"Guasti Clemente E Figli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "italian"
     ]
 },
-  "bbox": [8.206813,44.900864,8.206813,44.900864],
+  "bbox": [
+    8.206813,
+    44.900864,
+    8.206813,
+    44.900864
+],
   "geometry": {"coordinates":[8.206813,44.900864],"type":"Point"}
 }

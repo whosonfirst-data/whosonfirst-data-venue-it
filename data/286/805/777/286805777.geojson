@@ -2,13 +2,14 @@
   "id": 286805777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.228362,45.561314,10.228362,45.561314",
     "geom:latitude":45.561314,
     "geom:longitude":10.228362,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25123 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286805777,
-    "wof:lastmodified":1449016166,
+    "wof:lastmodified":1466296367,
     "wof:name":"Meggiorin Spa",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.228362,45.561314,10.228362,45.561314],
+  "bbox": [
+    10.228362,
+    45.561314,
+    10.228362,
+    45.561314
+],
   "geometry": {"coordinates":[10.228362,45.561314],"type":"Point"}
 }

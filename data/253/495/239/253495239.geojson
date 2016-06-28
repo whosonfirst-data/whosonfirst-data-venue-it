@@ -2,13 +2,14 @@
   "id": 253495239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.57049,43.530178,10.57049,43.530178",
     "geom:latitude":43.530178,
     "geom:longitude":10.57049,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56034 Casciana Terme",
     "sg:city":"Casciana Terme",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253495239,
-    "wof:lastmodified":1449064132,
+    "wof:lastmodified":1466294578,
     "wof:name":"Vitarelli Vetreria Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.57049,43.530178,10.57049,43.530178],
+  "bbox": [
+    10.57049,
+    43.530178,
+    10.57049,
+    43.530178
+],
   "geometry": {"coordinates":[10.57049,43.530178],"type":"Point"}
 }

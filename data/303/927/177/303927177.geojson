@@ -2,13 +2,14 @@
   "id": 303927177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.952552,37.983555,12.952552,37.983555",
     "geom:latitude":37.983555,
     "geom:longitude":12.952552,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91011 Alcamo",
     "sg:city":"Alcamo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303927177,
-    "wof:lastmodified":1449000313,
+    "wof:lastmodified":1466298154,
     "wof:name":"Con-plast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.952552,37.983555,12.952552,37.983555],
+  "bbox": [
+    12.952552,
+    37.983555,
+    12.952552,
+    37.983555
+],
   "geometry": {"coordinates":[12.952552,37.983555],"type":"Point"}
 }

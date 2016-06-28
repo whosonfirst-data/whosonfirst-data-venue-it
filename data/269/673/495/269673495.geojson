@@ -2,13 +2,14 @@
   "id": 269673495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.601851,42.553596,12.601851,42.553596",
     "geom:latitude":42.553596,
     "geom:longitude":12.601851,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"05100 Terni",
     "sg:city":"Terni",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269673495,
-    "wof:lastmodified":1449037081,
+    "wof:lastmodified":1466291260,
     "wof:name":"Tarquini Teloni Di Tarquini Alessia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "communication"
     ]
 },
-  "bbox": [12.601851,42.553596,12.601851,42.553596],
+  "bbox": [
+    12.601851,
+    42.553596,
+    12.601851,
+    42.553596
+],
   "geometry": {"coordinates":[12.601851,42.553596],"type":"Point"}
 }

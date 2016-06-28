@@ -2,13 +2,14 @@
   "id": 269982139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.398759,44.278778,7.398759,44.278778",
     "geom:latitude":44.278778,
     "geom:longitude":7.398759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 Valdieri",
     "sg:city":"Valdieri",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269982139,
-    "wof:lastmodified":1449036539,
+    "wof:lastmodified":1466295051,
     "wof:name":"Terme Reali Di Valdieri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.398759,44.278778,7.398759,44.278778],
+  "bbox": [
+    7.398759,
+    44.278778,
+    7.398759,
+    44.278778
+],
   "geometry": {"coordinates":[7.398759,44.278778],"type":"Point"}
 }

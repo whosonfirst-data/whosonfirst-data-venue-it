@@ -2,13 +2,14 @@
   "id": 202912657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.686699,45.105331,7.686699,45.105331",
     "geom:latitude":45.105331,
     "geom:longitude":7.686699,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202912657,
-    "wof:lastmodified":1449061376,
+    "wof:lastmodified":1466293351,
     "wof:name":"New Rubbertex S.r.l.",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.686699,45.105331,7.686699,45.105331],
+  "bbox": [
+    7.686699,
+    45.105331,
+    7.686699,
+    45.105331
+],
   "geometry": {"coordinates":[7.686699,45.105331],"type":"Point"}
 }

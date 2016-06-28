@@ -2,13 +2,14 @@
   "id": 236735265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.135433,46.678314,11.135433,46.678314",
     "geom:latitude":46.678314,
     "geom:longitude":11.135433,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Josef Weingartner 45 39022 Algund",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":236735265,
-    "wof:lastmodified":1449005157,
+    "wof:lastmodified":1466296397,
     "wof:name":"Reithmayer Helmuth & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lamp"
     ]
 },
-  "bbox": [11.135433,46.678314,11.135433,46.678314],
+  "bbox": [
+    11.135433,
+    46.678314,
+    11.135433,
+    46.678314
+],
   "geometry": {"coordinates":[11.135433,46.678314],"type":"Point"}
 }

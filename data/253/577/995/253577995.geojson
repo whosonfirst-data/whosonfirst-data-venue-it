@@ -2,13 +2,14 @@
   "id": 253577995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.506722,46.065483,11.506722,46.065483",
     "geom:latitude":46.065483,
     "geom:longitude":11.506722,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38050 Scurelle",
     "sg:city":"Scurelle",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253577995,
-    "wof:lastmodified":1449065888,
+    "wof:lastmodified":1466295670,
     "wof:name":"Supradiamant Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.506722,46.065483,11.506722,46.065483],
+  "bbox": [
+    11.506722,
+    46.065483,
+    11.506722,
+    46.065483
+],
   "geometry": {"coordinates":[11.506722,46.065483],"type":"Point"}
 }

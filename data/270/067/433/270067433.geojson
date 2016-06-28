@@ -2,13 +2,14 @@
   "id": 270067433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.878012,43.758926,10.878012,43.758926",
     "geom:latitude":43.758926,
     "geom:longitude":10.878012,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50050 Cerreto Guidi",
     "sg:city":"Cerreto Guidi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270067433,
-    "wof:lastmodified":1449008808,
+    "wof:lastmodified":1466289785,
     "wof:name":"Lapinselezione",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.878012,43.758926,10.878012,43.758926],
+  "bbox": [
+    10.878012,
+    43.758926,
+    10.878012,
+    43.758926
+],
   "geometry": {"coordinates":[10.878012,43.758926],"type":"Point"}
 }

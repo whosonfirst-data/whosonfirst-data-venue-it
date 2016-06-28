@@ -2,13 +2,14 @@
   "id": 202737959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.465032,37.311871,13.465032,37.311871",
     "geom:latitude":37.311871,
     "geom:longitude":13.465032,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92010 Realmonte",
     "sg:city":"Realmonte",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202737959,
-    "wof:lastmodified":1449060686,
+    "wof:lastmodified":1466291463,
     "wof:name":"Autopratica - Piccola Societa' Cooperativa Di Servizi A.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.465032,37.311871,13.465032,37.311871],
+  "bbox": [
+    13.465032,
+    37.311871,
+    13.465032,
+    37.311871
+],
   "geometry": {"coordinates":[13.465032,37.311871],"type":"Point"}
 }

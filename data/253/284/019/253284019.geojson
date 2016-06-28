@@ -2,13 +2,14 @@
   "id": 253284019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.139222,46.539356,12.139222,46.539356",
     "geom:latitude":46.539356,
     "geom:longitude":12.139222,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32043 Cortina D'ampezzo",
     "sg:classifiers":[],
     "sg:orig_category":"Ospedali E Servizi Sanitari",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253284019,
-    "wof:lastmodified":1449064650,
+    "wof:lastmodified":1466291996,
     "wof:name":"Perazzolo Maruska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.139222,46.539356,12.139222,46.539356],
+  "bbox": [
+    12.139222,
+    46.539356,
+    12.139222,
+    46.539356
+],
   "geometry": {"coordinates":[12.139222,46.539356],"type":"Point"}
 }

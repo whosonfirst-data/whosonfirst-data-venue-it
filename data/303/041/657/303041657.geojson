@@ -2,13 +2,14 @@
   "id": 303041657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.319054,41.626293,13.319054,41.626293",
     "geom:latitude":41.626293,
     "geom:longitude":13.319054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Selvotta 03100 Frosinone",
     "sg:city":"Frosinone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303041657,
-    "wof:lastmodified":1448999004,
+    "wof:lastmodified":1466290872,
     "wof:name":"Re.im.el. (s.r.l)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [13.319054,41.626293,13.319054,41.626293],
+  "bbox": [
+    13.319054,
+    41.626293,
+    13.319054,
+    41.626293
+],
   "geometry": {"coordinates":[13.319054,41.626293],"type":"Point"}
 }

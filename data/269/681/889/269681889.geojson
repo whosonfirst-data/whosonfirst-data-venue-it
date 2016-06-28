@@ -2,13 +2,14 @@
   "id": 269681889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.903131,42.91539,13.903131,42.91539",
     "geom:latitude":42.91539,
     "geom:longitude":13.903131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, V. Dei Laureati 63039 San Benedetto Del Tronto",
     "sg:city":"San Benedetto del Tronto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269681889,
-    "wof:lastmodified":1449037622,
+    "wof:lastmodified":1466291401,
     "wof:name":"Publipoint Di Di Michele Remo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [13.903131,42.91539,13.903131,42.91539],
+  "bbox": [
+    13.903131,
+    42.91539,
+    13.903131,
+    42.91539
+],
   "geometry": {"coordinates":[13.903131,42.91539],"type":"Point"}
 }

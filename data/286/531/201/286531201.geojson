@@ -2,13 +2,14 @@
   "id": 286531201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083531,45.415264,9.083531,45.415264",
     "geom:latitude":45.415264,
     "geom:longitude":9.083531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Castoldi 20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286531201,
-    "wof:lastmodified":1449015863,
+    "wof:lastmodified":1466293089,
     "wof:name":"Le Di Giorgi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.083531,45.415264,9.083531,45.415264],
+  "bbox": [
+    9.083531,
+    45.415264,
+    9.083531,
+    45.415264
+],
   "geometry": {"coordinates":[9.083531,45.415264],"type":"Point"}
 }

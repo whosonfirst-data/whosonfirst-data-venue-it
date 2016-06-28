@@ -2,13 +2,14 @@
   "id": 303862719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.021446,41.476719,13.021446,41.476719",
     "geom:latitude":41.476719,
     "geom:longitude":13.021446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04018 Sezze",
     "sg:city":"Sezze",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303862719,
-    "wof:lastmodified":1449000625,
+    "wof:lastmodified":1466297865,
     "wof:name":"Sementi R.u.d.i. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.021446,41.476719,13.021446,41.476719],
+  "bbox": [
+    13.021446,
+    41.476719,
+    13.021446,
+    41.476719
+],
   "geometry": {"coordinates":[13.021446,41.476719],"type":"Point"}
 }

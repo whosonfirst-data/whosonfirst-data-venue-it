@@ -2,13 +2,14 @@
   "id": 303477371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.333277,40.362644,17.333277,40.362644",
     "geom:latitude":40.362644,
     "geom:longitude":17.333277,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74100 Taranto",
     "sg:city":"Taranto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303477371,
-    "wof:lastmodified":1448998538,
+    "wof:lastmodified":1466296479,
     "wof:name":"Soico Sud S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.333277,40.362644,17.333277,40.362644],
+  "bbox": [
+    17.333277,
+    40.362644,
+    17.333277,
+    40.362644
+],
   "geometry": {"coordinates":[17.333277,40.362644],"type":"Point"}
 }

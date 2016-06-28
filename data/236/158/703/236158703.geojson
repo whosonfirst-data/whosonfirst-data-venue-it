@@ -2,13 +2,14 @@
   "id": 236158703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.494885,44.638798,7.494885,44.638798",
     "geom:latitude":44.638798,
     "geom:longitude":7.494885,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Trieste 12037 Saluzzo",
     "sg:city":"Saluzzo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236158703,
-    "wof:lastmodified":1449003930,
+    "wof:lastmodified":1466290457,
     "wof:name":"Ghione F.lli S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [7.494885,44.638798,7.494885,44.638798],
+  "bbox": [
+    7.494885,
+    44.638798,
+    7.494885,
+    44.638798
+],
   "geometry": {"coordinates":[7.494885,44.638798],"type":"Point"}
 }

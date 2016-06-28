@@ -2,13 +2,14 @@
   "id": 303624961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.047667,39.348129,16.047667,39.348129",
     "geom:latitude":39.348129,
     "geom:longitude":16.047667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87062 Cariati",
     "sg:city":"Cariati",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303624961,
-    "wof:lastmodified":1448999797,
+    "wof:lastmodified":1466297310,
     "wof:name":"La Tua Porta Dei F.lli Forciniti Di Forciniti Gaetano E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.047667,39.348129,16.047667,39.348129],
+  "bbox": [
+    16.047667,
+    39.348129,
+    16.047667,
+    39.348129
+],
   "geometry": {"coordinates":[16.047667,39.348129],"type":"Point"}
 }

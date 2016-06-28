@@ -2,13 +2,14 @@
   "id": 186299345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.325847,38.087677,13.325847,38.087677",
     "geom:latitude":38.087677,
     "geom:longitude":13.325847,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90126 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186299345,
-    "wof:lastmodified":1449051077,
+    "wof:lastmodified":1466290498,
     "wof:name":"N.i.si.d.a. Srl",
     "wof:parent_id":85904839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.325847,38.087677,13.325847,38.087677],
+  "bbox": [
+    13.325847,
+    38.087677,
+    13.325847,
+    38.087677
+],
   "geometry": {"coordinates":[13.325847,38.087677],"type":"Point"}
 }

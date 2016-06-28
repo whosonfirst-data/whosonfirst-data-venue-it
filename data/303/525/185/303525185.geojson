@@ -2,13 +2,14 @@
   "id": 303525185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.208795,45.464893,9.208795,45.464893",
     "geom:latitude":45.464893,
     "geom:longitude":9.208795,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Solaro",
     "sg:city":"Solaro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303525185,
-    "wof:lastmodified":1449000056,
+    "wof:lastmodified":1466296745,
     "wof:name":"Winkelmann Filtri Srl",
     "wof:parent_id":85796921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.208795,45.464893,9.208795,45.464893],
+  "bbox": [
+    9.208795,
+    45.464893,
+    9.208795,
+    45.464893
+],
   "geometry": {"coordinates":[9.208795,45.464893],"type":"Point"}
 }

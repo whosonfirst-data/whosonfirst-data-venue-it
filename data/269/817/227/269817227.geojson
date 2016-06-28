@@ -2,13 +2,14 @@
   "id": 269817227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.744008,43.807667,7.744008,43.807667",
     "geom:latitude":43.807667,
     "geom:longitude":7.744008,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18038 Sanremo",
     "sg:classifiers":[],
     "sg:orig_category":"Agricoltura, Orticoltura E Floricoltura. Articoli Da Regalo",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269817227,
-    "wof:lastmodified":1449038365,
+    "wof:lastmodified":1466293232,
     "wof:name":"Sistem Garden Di Scognamiglio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.744008,43.807667,7.744008,43.807667],
+  "bbox": [
+    7.744008,
+    43.807667,
+    7.744008,
+    43.807667
+],
   "geometry": {"coordinates":[7.744008,43.807667],"type":"Point"}
 }

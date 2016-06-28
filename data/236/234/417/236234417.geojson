@@ -2,13 +2,14 @@
   "id": 236234417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.205615,45.60466,9.205615,45.60466",
     "geom:latitude":45.60466,
     "geom:longitude":9.205615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Caravaggio 26 20033 Desio",
     "sg:city":"Desio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236234417,
-    "wof:lastmodified":1449005032,
+    "wof:lastmodified":1466291249,
     "wof:name":"Diemme Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.205615,45.60466,9.205615,45.60466],
+  "bbox": [
+    9.205615,
+    45.60466,
+    9.205615,
+    45.60466
+],
   "geometry": {"coordinates":[9.205615,45.60466],"type":"Point"}
 }

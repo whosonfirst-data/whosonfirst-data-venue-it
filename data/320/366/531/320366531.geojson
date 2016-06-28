@@ -2,13 +2,14 @@
   "id": 320366531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.135812,45.467533,9.135812,45.467533",
     "geom:latitude":45.467533,
     "geom:longitude":9.135812,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Inveruno",
     "sg:city":"Inveruno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320366531,
-    "wof:lastmodified":1449013982,
+    "wof:lastmodified":1466297148,
     "wof:name":"Mcr Srl",
     "wof:parent_id":85796899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.135812,45.467533,9.135812,45.467533],
+  "bbox": [
+    9.135812,
+    45.467533,
+    9.135812,
+    45.467533
+],
   "geometry": {"coordinates":[9.135812,45.467533],"type":"Point"}
 }

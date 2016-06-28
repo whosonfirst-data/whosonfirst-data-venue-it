@@ -2,13 +2,14 @@
   "id": 303119563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.735845,44.659824,7.735845,44.659824",
     "geom:latitude":44.659824,
     "geom:longitude":7.735845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12062 Cherasco",
     "sg:city":"Cherasco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303119563,
-    "wof:lastmodified":1448999863,
+    "wof:lastmodified":1466291898,
     "wof:name":"S.i.e.c.a.b. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.735845,44.659824,7.735845,44.659824],
+  "bbox": [
+    7.735845,
+    44.659824,
+    7.735845,
+    44.659824
+],
   "geometry": {"coordinates":[7.735845,44.659824],"type":"Point"}
 }

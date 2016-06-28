@@ -2,13 +2,14 @@
   "id": 303901419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.097986,37.540234,15.097986,37.540234",
     "geom:latitude":37.540234,
     "geom:longitude":15.097986,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95131 Tremestieri Etneo",
     "sg:classifiers":[],
     "sg:orig_category":"Articoli Medico-sanitari Ed Ortopedici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303901419,
-    "wof:lastmodified":1448999147,
+    "wof:lastmodified":1466298087,
     "wof:name":"Biotecnica Di Lo Presti Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.097986,37.540234,15.097986,37.540234],
+  "bbox": [
+    15.097986,
+    37.540234,
+    15.097986,
+    37.540234
+],
   "geometry": {"coordinates":[15.097986,37.540234],"type":"Point"}
 }

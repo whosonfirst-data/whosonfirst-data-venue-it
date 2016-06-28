@@ -2,13 +2,14 @@
   "id": 186578905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.303752,46.268627,12.303752,46.268627",
     "geom:latitude":46.268627,
     "geom:longitude":12.303752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Del Parco 32013 Longarone",
     "sg:city":"Longarone",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186578905,
-    "wof:lastmodified":1449051069,
+    "wof:lastmodified":1466293083,
     "wof:name":"Longarone Fiere Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.303752,46.268627,12.303752,46.268627],
+  "bbox": [
+    12.303752,
+    46.268627,
+    12.303752,
+    46.268627
+],
   "geometry": {"coordinates":[12.303752,46.268627],"type":"Point"}
 }

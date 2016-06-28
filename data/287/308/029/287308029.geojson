@@ -2,13 +2,14 @@
   "id": 287308029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.514634,38.018589,12.514634,38.018589",
     "geom:latitude":38.018589,
     "geom:longitude":12.514634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Km. 5.300, Contrada S. Cusumano 91016 Erice",
     "sg:city":"Erice",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287308029,
-    "wof:lastmodified":1449001608,
+    "wof:lastmodified":1466293630,
     "wof:name":"Layer Electronics S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.514634,38.018589,12.514634,38.018589],
+  "bbox": [
+    12.514634,
+    38.018589,
+    12.514634,
+    38.018589
+],
   "geometry": {"coordinates":[12.514634,38.018589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336806323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.725534,44.375694,11.725534,44.375694",
     "geom:latitude":44.375694,
     "geom:longitude":11.725534,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Piancastelli 40026 Imola",
     "sg:city":"Imola",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336806323,
-    "wof:lastmodified":1448996915,
+    "wof:lastmodified":1466296193,
     "wof:name":"W.m. Costruzioni Meccaniche S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.725534,44.375694,11.725534,44.375694],
+  "bbox": [
+    11.725534,
+    44.375694,
+    11.725534,
+    44.375694
+],
   "geometry": {"coordinates":[11.725534,44.375694],"type":"Point"}
 }

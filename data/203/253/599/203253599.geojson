@@ -2,13 +2,14 @@
   "id": 203253599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.609372,40.740585,14.609372,40.740585",
     "geom:latitude":40.740585,
     "geom:longitude":14.609372,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84016 Pagani",
     "sg:city":"Pagani",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203253599,
-    "wof:lastmodified":1449026628,
+    "wof:lastmodified":1466290394,
     "wof:name":"A.p.c. Gruppo Papa Charlie Pagani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.609372,40.740585,14.609372,40.740585],
+  "bbox": [
+    14.609372,
+    40.740585,
+    14.609372,
+    40.740585
+],
   "geometry": {"coordinates":[14.609372,40.740585],"type":"Point"}
 }

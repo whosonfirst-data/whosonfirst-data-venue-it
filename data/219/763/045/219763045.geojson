@@ -2,13 +2,14 @@
   "id": 219763045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.472173,43.689468,10.472173,43.689468",
     "geom:latitude":43.689468,
     "geom:longitude":10.472173,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2081, V. T. Romagnola56023 Navacchio",
     "sg:city":"Navacchio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219763045,
-    "wof:lastmodified":1449073904,
+    "wof:lastmodified":1466293909,
     "wof:name":"Onoranze Funebri Cascinesi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [10.472173,43.689468,10.472173,43.689468],
+  "bbox": [
+    10.472173,
+    43.689468,
+    10.472173,
+    43.689468
+],
   "geometry": {"coordinates":[10.472173,43.689468],"type":"Point"}
 }

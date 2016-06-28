@@ -2,13 +2,14 @@
   "id": 304059855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.358152,39.053886,16.358152,39.053886",
     "geom:latitude":39.053886,
     "geom:longitude":16.358152,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88041 Decollatura",
     "sg:city":"Decollatura",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304059855,
-    "wof:lastmodified":1449043717,
+    "wof:lastmodified":1466292979,
     "wof:name":"Autoreventina Di Gigliotti Pietro & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.358152,39.053886,16.358152,39.053886],
+  "bbox": [
+    16.358152,
+    39.053886,
+    16.358152,
+    39.053886
+],
   "geometry": {"coordinates":[16.358152,39.053886],"type":"Point"}
 }

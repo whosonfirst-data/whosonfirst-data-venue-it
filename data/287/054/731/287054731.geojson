@@ -2,13 +2,14 @@
   "id": 287054731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.085456,45.811966,9.085456,45.811966",
     "geom:latitude":45.811966,
     "geom:longitude":9.085456,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Largo Luchino Visconti 4 22012 Cernobbio",
     "sg:city":"Cernobbio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287054731,
-    "wof:lastmodified":1449001076,
+    "wof:lastmodified":1466290283,
     "wof:name":"Villa Erba Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fair"
     ]
 },
-  "bbox": [9.085456,45.811966,9.085456,45.811966],
+  "bbox": [
+    9.085456,
+    45.811966,
+    9.085456,
+    45.811966
+],
   "geometry": {"coordinates":[9.085456,45.811966],"type":"Point"}
 }

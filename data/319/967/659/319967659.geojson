@@ -2,13 +2,14 @@
   "id": 319967659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.307782,43.550282,10.307782,43.550282",
     "geom:latitude":43.550282,
     "geom:longitude":10.307782,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57036 Porto Azzurro",
     "sg:city":"Porto Azzurro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319967659,
-    "wof:lastmodified":1449024830,
+    "wof:lastmodified":1466294389,
     "wof:name":"Spazio Mare Di Gambalunghe Snc",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.307782,43.550282,10.307782,43.550282],
+  "bbox": [
+    10.307782,
+    43.550282,
+    10.307782,
+    43.550282
+],
   "geometry": {"coordinates":[10.307782,43.550282],"type":"Point"}
 }

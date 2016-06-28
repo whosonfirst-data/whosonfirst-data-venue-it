@@ -2,13 +2,14 @@
   "id": 186444733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.985332,45.613037,11.985332,45.613037",
     "geom:latitude":45.613037,
     "geom:longitude":11.985332,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pacinotti 27 35017 Piombino Dese",
     "sg:city":"Piombino Dese",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186444733,
-    "wof:lastmodified":1449052648,
+    "wof:lastmodified":1466291766,
     "wof:name":"Opes Save Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [11.985332,45.613037,11.985332,45.613037],
+  "bbox": [
+    11.985332,
+    45.613037,
+    11.985332,
+    45.613037
+],
   "geometry": {"coordinates":[11.985332,45.613037],"type":"Point"}
 }

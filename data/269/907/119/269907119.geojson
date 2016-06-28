@@ -2,13 +2,14 @@
   "id": 269907119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.039412,43.925148,11.039412,43.925148",
     "geom:latitude":43.925148,
     "geom:longitude":11.039412,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59013 Montemurlo",
     "sg:city":"Montemurlo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269907119,
-    "wof:lastmodified":1449038798,
+    "wof:lastmodified":1466294212,
     "wof:name":"Consorzio Oleario Chiantigiano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.039412,43.925148,11.039412,43.925148],
+  "bbox": [
+    11.039412,
+    43.925148,
+    11.039412,
+    43.925148
+],
   "geometry": {"coordinates":[11.039412,43.925148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320129693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.854377,45.112926,9.854377,45.112926",
     "geom:latitude":45.112926,
     "geom:longitude":9.854377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26843 Castelnuovo Bocca D'adda",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine Ed Impianti Per Edilizia E Lavori Pubblici",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320129693,
-    "wof:lastmodified":1449014244,
+    "wof:lastmodified":1466294974,
     "wof:name":"Trimmer Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.854377,45.112926,9.854377,45.112926],
+  "bbox": [
+    9.854377,
+    45.112926,
+    9.854377,
+    45.112926
+],
   "geometry": {"coordinates":[9.854377,45.112926],"type":"Point"}
 }

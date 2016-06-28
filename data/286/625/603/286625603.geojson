@@ -2,13 +2,14 @@
   "id": 286625603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.803284,45.348522,11.803284,45.348522",
     "geom:latitude":45.348522,
     "geom:longitude":11.803284,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Via Romana 35031 Abano Terme",
     "sg:city":"Abano Terme",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286625603,
-    "wof:lastmodified":1449018135,
+    "wof:lastmodified":1466294253,
     "wof:name":"Raffy Di Brasolin Elisabetta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.803284,45.348522,11.803284,45.348522],
+  "bbox": [
+    11.803284,
+    45.348522,
+    11.803284,
+    45.348522
+],
   "geometry": {"coordinates":[11.803284,45.348522],"type":"Point"}
 }

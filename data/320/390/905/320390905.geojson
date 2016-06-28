@@ -2,13 +2,14 @@
   "id": 320390905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.005374,43.785774,13.005374,43.785774",
     "geom:latitude":43.785774,
     "geom:longitude":13.005374,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61032 Fano",
     "sg:city":"Bellocchi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320390905,
-    "wof:lastmodified":1449015006,
+    "wof:lastmodified":1466297463,
     "wof:name":"Dual Tecnic Snc Di Mei Paolo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.005374,43.785774,13.005374,43.785774],
+  "bbox": [
+    13.005374,
+    43.785774,
+    13.005374,
+    43.785774
+],
   "geometry": {"coordinates":[13.005374,43.785774],"type":"Point"}
 }

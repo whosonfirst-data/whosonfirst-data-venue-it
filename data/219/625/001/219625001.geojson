@@ -2,13 +2,14 @@
   "id": 219625001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.361671,44.518898,11.361671,44.518898",
     "geom:latitude":44.518898,
     "geom:longitude":11.361671,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40128 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219625001,
-    "wof:lastmodified":1449073981,
+    "wof:lastmodified":1466292548,
     "wof:name":"Sprint Gas Spa",
     "wof:parent_id":85904571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.361671,44.518898,11.361671,44.518898],
+  "bbox": [
+    11.361671,
+    44.518898,
+    11.361671,
+    44.518898
+],
   "geometry": {"coordinates":[11.361671,44.518898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186509953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.33176,40.833115,14.33176,40.833115",
     "geom:latitude":40.833115,
     "geom:longitude":14.33176,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Via Giovanni Xxiii 80046 San Giorgio A Cremano",
     "sg:city":"San Giorgio a Cremano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186509953,
-    "wof:lastmodified":1449050383,
+    "wof:lastmodified":1466292392,
     "wof:name":"San Giorgio Solidale Spa",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [14.33176,40.833115,14.33176,40.833115],
+  "bbox": [
+    14.33176,
+    40.833115,
+    14.33176,
+    40.833115
+],
   "geometry": {"coordinates":[14.33176,40.833115],"type":"Point"}
 }

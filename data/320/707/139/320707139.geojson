@@ -2,13 +2,14 @@
   "id": 320707139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.413651,45.580997,9.413651,45.580997",
     "geom:latitude":45.580997,
     "geom:longitude":9.413651,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Cavenago Di Brianza",
     "sg:city":"Cavenago di Brianza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320707139,
-    "wof:lastmodified":1449014382,
+    "wof:lastmodified":1466298015,
     "wof:name":"Siemens Telematica S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.413651,45.580997,9.413651,45.580997],
+  "bbox": [
+    9.413651,
+    45.580997,
+    9.413651,
+    45.580997
+],
   "geometry": {"coordinates":[9.413651,45.580997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236408153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.739026,45.701294,9.739026,45.701294",
     "geom:latitude":45.701294,
     "geom:longitude":9.739026,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fermi 21 24066 Pedrengo",
     "sg:city":"Pedrengo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236408153,
-    "wof:lastmodified":1449001983,
+    "wof:lastmodified":1466293070,
     "wof:name":"Professional By Fama Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hair-care"
     ]
 },
-  "bbox": [9.739026,45.701294,9.739026,45.701294],
+  "bbox": [
+    9.739026,
+    45.701294,
+    9.739026,
+    45.701294
+],
   "geometry": {"coordinates":[9.739026,45.701294],"type":"Point"}
 }

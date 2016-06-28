@@ -2,13 +2,14 @@
   "id": 286295483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.282955,44.508739,11.282955,44.508739",
     "geom:latitude":44.508739,
     "geom:longitude":11.282955,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Fucini Renato 40033 Casalecchio Di Reno",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286295483,
-    "wof:lastmodified":1449016371,
+    "wof:lastmodified":1466289879,
     "wof:name":"Ghimas (s.p.a.)",
     "wof:parent_id":85904565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [11.282955,44.508739,11.282955,44.508739],
+  "bbox": [
+    11.282955,
+    44.508739,
+    11.282955,
+    44.508739
+],
   "geometry": {"coordinates":[11.282955,44.508739],"type":"Point"}
 }

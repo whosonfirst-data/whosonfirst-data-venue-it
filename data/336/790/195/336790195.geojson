@@ -2,13 +2,14 @@
   "id": 336790195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.950541,45.698364,9.950541,45.698364",
     "geom:latitude":45.698364,
     "geom:longitude":9.950541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46, Via Castello 24060 Adrara San Martino",
     "sg:city":"Adrara San Martino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336790195,
-    "wof:lastmodified":1448997784,
+    "wof:lastmodified":1466296003,
     "wof:name":"Tecnogomma International (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.950541,45.698364,9.950541,45.698364],
+  "bbox": [
+    9.950541,
+    45.698364,
+    9.950541,
+    45.698364
+],
   "geometry": {"coordinates":[9.950541,45.698364],"type":"Point"}
 }

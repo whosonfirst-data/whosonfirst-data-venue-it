@@ -2,13 +2,14 @@
   "id": 236524799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.713587,41.968636,12.713587,41.968636",
     "geom:latitude":41.968636,
     "geom:longitude":12.713587,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236524799,
-    "wof:lastmodified":1449001654,
+    "wof:lastmodified":1466294315,
     "wof:name":"White Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "facility"
     ]
 },
-  "bbox": [12.713587,41.968636,12.713587,41.968636],
+  "bbox": [
+    12.713587,
+    41.968636,
+    12.713587,
+    41.968636
+],
   "geometry": {"coordinates":[12.713587,41.968636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269640095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.584361,43.818668,7.584361,43.818668",
     "geom:latitude":43.818668,
     "geom:longitude":7.584361,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gallardi 204 18039 Ventimiglia",
     "sg:city":"Ventimiglia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269640095,
-    "wof:lastmodified":1449037181,
+    "wof:lastmodified":1466290824,
     "wof:name":"Coppo 1896 S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liqueur"
     ]
 },
-  "bbox": [7.584361,43.818668,7.584361,43.818668],
+  "bbox": [
+    7.584361,
+    43.818668,
+    7.584361,
+    43.818668
+],
   "geometry": {"coordinates":[7.584361,43.818668],"type":"Point"}
 }

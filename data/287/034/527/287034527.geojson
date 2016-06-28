@@ -2,13 +2,14 @@
   "id": 287034527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.686619,45.07056,7.686619,45.07056",
     "geom:latitude":45.07056,
     "geom:longitude":7.686619,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nomis Di Cossila Augusto 12 10137 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287034527,
-    "wof:lastmodified":1449000758,
+    "wof:lastmodified":1466290021,
     "wof:name":"Cct Trasducers Di Chiavirano Giuseppe",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "measurement"
     ]
 },
-  "bbox": [7.686619,45.07056,7.686619,45.07056],
+  "bbox": [
+    7.686619,
+    45.07056,
+    7.686619,
+    45.07056
+],
   "geometry": {"coordinates":[7.686619,45.07056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303589315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.654225,38.232662,15.654225,38.232662",
     "geom:latitude":38.232662,
     "geom:longitude":15.654225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"89022 Cittanova",
     "sg:city":"Cittanova",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303589315,
-    "wof:lastmodified":1448999428,
+    "wof:lastmodified":1466297148,
     "wof:name":"Centro Mobili Di Albanese Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.654225,38.232662,15.654225,38.232662],
+  "bbox": [
+    15.654225,
+    38.232662,
+    15.654225,
+    38.232662
+],
   "geometry": {"coordinates":[15.654225,38.232662],"type":"Point"}
 }

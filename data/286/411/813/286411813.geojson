@@ -2,13 +2,14 @@
   "id": 286411813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.234058,45.50061,9.234058,45.50061",
     "geom:latitude":45.50061,
     "geom:longitude":9.234058,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20091 Bresso",
     "sg:city":"Bresso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286411813,
-    "wof:lastmodified":1449015302,
+    "wof:lastmodified":1466291634,
     "wof:name":"Aspirimpianti Di Lattuada Bassano",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.234058,45.50061,9.234058,45.50061],
+  "bbox": [
+    9.234058,
+    45.50061,
+    9.234058,
+    45.50061
+],
   "geometry": {"coordinates":[9.234058,45.50061],"type":"Point"}
 }

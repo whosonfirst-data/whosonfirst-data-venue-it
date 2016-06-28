@@ -2,13 +2,14 @@
   "id": 286830645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.589779,37.655373,12.589779,37.655373",
     "geom:latitude":37.655373,
     "geom:longitude":12.589779,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91026 Mazara Del Vallo",
     "sg:city":"Mazara del Vallo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286830645,
-    "wof:lastmodified":1449015792,
+    "wof:lastmodified":1466296562,
     "wof:name":"Giammarinaro Anna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.589779,37.655373,12.589779,37.655373],
+  "bbox": [
+    12.589779,
+    37.655373,
+    12.589779,
+    37.655373
+],
   "geometry": {"coordinates":[12.589779,37.655373],"type":"Point"}
 }

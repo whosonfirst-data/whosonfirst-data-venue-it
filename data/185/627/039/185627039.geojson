@@ -2,13 +2,14 @@
   "id": 185627039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.094017,39.959988,18.094017,39.959988",
     "geom:latitude":39.959988,
     "geom:longitude":18.094017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Regina Margherita, 25; Racale; 73055",
     "sg:city":"Racale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185627039,
-    "wof:lastmodified":1449008255,
+    "wof:lastmodified":1466294317,
     "wof:name":"Banca Del Santo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.094017,39.959988,18.094017,39.959988],
+  "bbox": [
+    18.094017,
+    39.959988,
+    18.094017,
+    39.959988
+],
   "geometry": {"coordinates":[18.094017,39.959988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202409609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.054294,37.573799,15.054294,37.573799",
     "geom:latitude":37.573799,
     "geom:longitude":15.054294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95030 Mascalucia",
     "sg:city":"Mascalucia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202409609,
-    "wof:lastmodified":1449061153,
+    "wof:lastmodified":1466294912,
     "wof:name":"D'urso Daniela",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.054294,37.573799,15.054294,37.573799],
+  "bbox": [
+    15.054294,
+    37.573799,
+    15.054294,
+    37.573799
+],
   "geometry": {"coordinates":[15.054294,37.573799],"type":"Point"}
 }

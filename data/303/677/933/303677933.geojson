@@ -2,13 +2,14 @@
   "id": 303677933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.529042,41.889782,12.529042,41.889782",
     "geom:latitude":41.889782,
     "geom:longitude":12.529042,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00176 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303677933,
-    "wof:lastmodified":1448998997,
+    "wof:lastmodified":1466297447,
     "wof:name":"Castelli Forni",
     "wof:parent_id":85904931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.529042,41.889782,12.529042,41.889782],
+  "bbox": [
+    12.529042,
+    41.889782,
+    12.529042,
+    41.889782
+],
   "geometry": {"coordinates":[12.529042,41.889782],"type":"Point"}
 }

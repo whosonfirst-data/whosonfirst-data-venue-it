@@ -2,13 +2,14 @@
   "id": 269726629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.840816,44.111874,9.840816,44.111874",
     "geom:latitude":44.111874,
     "geom:longitude":9.840816,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19126 La Spezia",
     "sg:classifiers":[],
     "sg:orig_category":"Agenzie D'affari E Servizi Commerciali. Acqua, Luce, Gas E Societa' Di Esercizio Pubblico",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269726629,
-    "wof:lastmodified":1449037755,
+    "wof:lastmodified":1466292057,
     "wof:name":"I Fi R Casa Delle Aste S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.840816,44.111874,9.840816,44.111874],
+  "bbox": [
+    9.840816,
+    44.111874,
+    9.840816,
+    44.111874
+],
   "geometry": {"coordinates":[9.840816,44.111874],"type":"Point"}
 }

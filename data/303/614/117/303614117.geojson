@@ -2,13 +2,14 @@
   "id": 303614117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.203141,45.433544,9.203141,45.433544",
     "geom:latitude":45.433544,
     "geom:longitude":9.203141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20063 Cernusco Naviglio",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamenti - Vendita Al Dettaglio",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303614117,
-    "wof:lastmodified":1449000636,
+    "wof:lastmodified":1466297365,
     "wof:name":"Guzzi Arredamenti Snc",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.203141,45.433544,9.203141,45.433544],
+  "bbox": [
+    9.203141,
+    45.433544,
+    9.203141,
+    45.433544
+],
   "geometry": {"coordinates":[9.203141,45.433544],"type":"Point"}
 }

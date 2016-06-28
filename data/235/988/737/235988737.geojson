@@ -2,13 +2,14 @@
   "id": 235988737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.329054,45.899582,12.329054,45.899582",
     "geom:latitude":45.899582,
     "geom:longitude":12.329054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31020 San Vendemiano",
     "sg:city":"San Vendemiano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":235988737,
-    "wof:lastmodified":1449008381,
+    "wof:lastmodified":1466295853,
     "wof:name":"Pennellificio Gava & C. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.329054,45.899582,12.329054,45.899582],
+  "bbox": [
+    12.329054,
+    45.899582,
+    12.329054,
+    45.899582
+],
   "geometry": {"coordinates":[12.329054,45.899582],"type":"Point"}
 }

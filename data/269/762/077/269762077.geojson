@@ -2,13 +2,14 @@
   "id": 269762077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.679821,41.806904,12.679821,41.806904",
     "geom:latitude":41.806904,
     "geom:longitude":12.679821,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00044 Frascati",
     "sg:city":"Frascati",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269762077,
-    "wof:lastmodified":1449037859,
+    "wof:lastmodified":1466292561,
     "wof:name":"Raggi & Di Nunzio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.679821,41.806904,12.679821,41.806904],
+  "bbox": [
+    12.679821,
+    41.806904,
+    12.679821,
+    41.806904
+],
   "geometry": {"coordinates":[12.679821,41.806904],"type":"Point"}
 }

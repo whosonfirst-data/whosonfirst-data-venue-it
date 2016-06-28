@@ -2,13 +2,14 @@
   "id": 236639495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.622864,45.867466,12.622864,45.867466",
     "geom:latitude":45.867466,
     "geom:longitude":12.622864,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"110, Via Galoppat 33087 Pasiano Di Pordenone",
     "sg:city":"Pasiano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236639495,
-    "wof:lastmodified":1449005231,
+    "wof:lastmodified":1466295374,
     "wof:name":"Omniales S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.622864,45.867466,12.622864,45.867466],
+  "bbox": [
+    12.622864,
+    45.867466,
+    12.622864,
+    45.867466
+],
   "geometry": {"coordinates":[12.622864,45.867466],"type":"Point"}
 }

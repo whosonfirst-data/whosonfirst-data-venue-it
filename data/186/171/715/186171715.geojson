@@ -2,13 +2,14 @@
   "id": 186171715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.497712,41.92017,12.497712,41.92017",
     "geom:latitude":41.92017,
     "geom:longitude":12.497712,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Liegi 14, 00198 Rome, Rm",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186171715,
-    "wof:lastmodified":1449053043,
+    "wof:lastmodified":1466289409,
     "wof:name":"Nagrafin Investimenti Spa",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.497712,41.92017,12.497712,41.92017],
+  "bbox": [
+    12.497712,
+    41.92017,
+    12.497712,
+    41.92017
+],
   "geometry": {"coordinates":[12.497712,41.92017],"type":"Point"}
 }

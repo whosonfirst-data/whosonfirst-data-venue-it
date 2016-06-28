@@ -2,13 +2,14 @@
   "id": 319916161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.631943,43.796951,7.631943,43.796951",
     "geom:latitude":43.796951,
     "geom:longitude":7.631943,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18033 Camporosso",
     "sg:city":"Camporosso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319916161,
-    "wof:lastmodified":1449024511,
+    "wof:lastmodified":1466293769,
     "wof:name":"Autofficina Cassini Renato & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.631943,43.796951,7.631943,43.796951],
+  "bbox": [
+    7.631943,
+    43.796951,
+    7.631943,
+    43.796951
+],
   "geometry": {"coordinates":[7.631943,43.796951],"type":"Point"}
 }

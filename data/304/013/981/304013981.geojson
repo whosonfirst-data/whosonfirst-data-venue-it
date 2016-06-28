@@ -2,13 +2,14 @@
   "id": 304013981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.943652,45.362274,11.943652,45.362274",
     "geom:latitude":45.362274,
     "geom:longitude":11.943652,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35026 Conselve",
     "sg:city":"Conselve",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304013981,
-    "wof:lastmodified":1449044003,
+    "wof:lastmodified":1466292318,
     "wof:name":"Olmino Paolo Mac 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.943652,45.362274,11.943652,45.362274],
+  "bbox": [
+    11.943652,
+    45.362274,
+    11.943652,
+    45.362274
+],
   "geometry": {"coordinates":[11.943652,45.362274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169849841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.969536,45.489212,8.969536,45.489212",
     "geom:latitude":45.489212,
     "geom:longitude":8.969536,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via De Amicis 33; Sedriano; 20018",
     "sg:city":"Sedriano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169849841,
-    "wof:lastmodified":1449033297,
+    "wof:lastmodified":1466289233,
     "wof:name":"Banca Agricola Milanese Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.969536,45.489212,8.969536,45.489212],
+  "bbox": [
+    8.969536,
+    45.489212,
+    8.969536,
+    45.489212
+],
   "geometry": {"coordinates":[8.969536,45.489212],"type":"Point"}
 }

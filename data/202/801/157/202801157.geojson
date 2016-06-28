@@ -2,13 +2,14 @@
   "id": 202801157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.201937,45.590343,9.201937,45.590343",
     "geom:latitude":45.590343,
     "geom:longitude":9.201937,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20054 Nova Milanese",
     "sg:city":"Nova Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202801157,
-    "wof:lastmodified":1449062225,
+    "wof:lastmodified":1466292210,
     "wof:name":"Db Agenzia Di Moda E Spettacolo Di Stefano Scala",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.201937,45.590343,9.201937,45.590343],
+  "bbox": [
+    9.201937,
+    45.590343,
+    9.201937,
+    45.590343
+],
   "geometry": {"coordinates":[9.201937,45.590343],"type":"Point"}
 }

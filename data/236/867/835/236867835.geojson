@@ -2,13 +2,14 @@
   "id": 236867835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.277972,45.534607,9.277972,45.534607",
     "geom:latitude":45.534607,
     "geom:longitude":9.277972,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. D' Acquisto 8/10 20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236867835,
-    "wof:lastmodified":1449003011,
+    "wof:lastmodified":1466297047,
     "wof:name":"Cristalma S.n.c. Di Vincenzo & Michele Mastantuoni",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.277972,45.534607,9.277972,45.534607],
+  "bbox": [
+    9.277972,
+    45.534607,
+    9.277972,
+    45.534607
+],
   "geometry": {"coordinates":[9.277972,45.534607],"type":"Point"}
 }

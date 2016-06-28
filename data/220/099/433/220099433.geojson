@@ -2,13 +2,14 @@
   "id": 220099433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.224191,45.352695,9.224191,45.352695",
     "geom:latitude":45.352695,
     "geom:longitude":9.224191,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, V. Belgioioso 20085 Locate Triulzi",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220099433,
-    "wof:lastmodified":1449074574,
+    "wof:lastmodified":1466295952,
     "wof:name":"I.s.a.m. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [9.224191,45.352695,9.224191,45.352695],
+  "bbox": [
+    9.224191,
+    45.352695,
+    9.224191,
+    45.352695
+],
   "geometry": {"coordinates":[9.224191,45.352695],"type":"Point"}
 }

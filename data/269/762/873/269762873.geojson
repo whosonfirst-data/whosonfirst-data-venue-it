@@ -2,13 +2,14 @@
   "id": 269762873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.458046,38.087589,13.458046,38.087589",
     "geom:latitude":38.087589,
     "geom:longitude":13.458046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90010 Ficarazzi",
     "sg:city":"Ficarazzi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269762873,
-    "wof:lastmodified":1449037858,
+    "wof:lastmodified":1466292572,
     "wof:name":"Romano Nancy Agenzia Immobiliare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.458046,38.087589,13.458046,38.087589],
+  "bbox": [
+    13.458046,
+    38.087589,
+    13.458046,
+    38.087589
+],
   "geometry": {"coordinates":[13.458046,38.087589],"type":"Point"}
 }

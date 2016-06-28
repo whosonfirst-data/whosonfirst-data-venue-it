@@ -2,13 +2,14 @@
   "id": 186010025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.481329,41.899887,12.481329,41.899887",
     "geom:latitude":41.899887,
     "geom:longitude":12.481329,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marco Minghetti 17, 00187 Rome, Rm",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186010025,
-    "wof:lastmodified":1449052039,
+    "wof:lastmodified":1466296267,
     "wof:name":"Cassa Di Risparmio Di Roma Holding Spa",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.481329,41.899887,12.481329,41.899887],
+  "bbox": [
+    12.481329,
+    41.899887,
+    12.481329,
+    41.899887
+],
   "geometry": {"coordinates":[12.481329,41.899887],"type":"Point"}
 }

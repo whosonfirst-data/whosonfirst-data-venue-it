@@ -2,13 +2,14 @@
   "id": 236158265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.455163,46.325527,9.455163,46.325527",
     "geom:latitude":46.325527,
     "geom:longitude":9.455163,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Nazionale S. Croce 23020 Piuro",
     "sg:city":"Piuro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236158265,
-    "wof:lastmodified":1449003931,
+    "wof:lastmodified":1466290453,
     "wof:name":"Frisia S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [9.455163,46.325527,9.455163,46.325527],
+  "bbox": [
+    9.455163,
+    46.325527,
+    9.455163,
+    46.325527
+],
   "geometry": {"coordinates":[9.455163,46.325527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286372145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.29412,43.673958,13.29412,43.673958",
     "geom:latitude":43.673958,
     "geom:longitude":13.29412,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60017 Senigallia",
     "sg:classifiers":[
         {
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286372145,
-    "wof:lastmodified":1449016985,
+    "wof:lastmodified":1466291000,
     "wof:name":"Video 2000 Soluzioni Digitali Di Marzocca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "events"
     ]
 },
-  "bbox": [13.29412,43.673958,13.29412,43.673958],
+  "bbox": [
+    13.29412,
+    43.673958,
+    13.29412,
+    43.673958
+],
   "geometry": {"coordinates":[13.29412,43.673958],"type":"Point"}
 }

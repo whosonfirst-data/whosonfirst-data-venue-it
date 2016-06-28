@@ -2,13 +2,14 @@
   "id": 253718639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.763826,43.720539,10.763826,43.720539",
     "geom:latitude":43.720539,
     "geom:longitude":10.763826,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25/27, Via Emilia Romagna 56029 Santa Croce Sull'arno",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253718639,
-    "wof:lastmodified":1449063443,
+    "wof:lastmodified":1466296913,
     "wof:name":"Conceria Lloyd (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [10.763826,43.720539,10.763826,43.720539],
+  "bbox": [
+    10.763826,
+    43.720539,
+    10.763826,
+    43.720539
+],
   "geometry": {"coordinates":[10.763826,43.720539],"type":"Point"}
 }

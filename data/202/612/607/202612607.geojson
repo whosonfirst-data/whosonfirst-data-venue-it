@@ -2,13 +2,14 @@
   "id": 202612607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.749077,40.917877,14.749077,40.917877",
     "geom:latitude":40.917877,
     "geom:longitude":14.749077,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83013 Mercogliano",
     "sg:city":"Mercogliano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202612607,
-    "wof:lastmodified":1449061242,
+    "wof:lastmodified":1466290109,
     "wof:name":"Air Team Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.749077,40.917877,14.749077,40.917877],
+  "bbox": [
+    14.749077,
+    40.917877,
+    14.749077,
+    40.917877
+],
   "geometry": {"coordinates":[14.749077,40.917877],"type":"Point"}
 }

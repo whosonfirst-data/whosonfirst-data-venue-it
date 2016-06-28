@@ -2,13 +2,14 @@
   "id": 287097555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.711783,42.860195,13.711783,42.860195",
     "geom:latitude":42.860195,
     "geom:longitude":13.711783,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63030 Monsanpolo Del Tronto",
     "sg:classifiers":[],
     "sg:orig_category":"Trasporti E Spedizioni Merci",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287097555,
-    "wof:lastmodified":1449001016,
+    "wof:lastmodified":1466290880,
     "wof:name":"Cavalieri Trasporti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.711783,42.860195,13.711783,42.860195],
+  "bbox": [
+    13.711783,
+    42.860195,
+    13.711783,
+    42.860195
+],
   "geometry": {"coordinates":[13.711783,42.860195],"type":"Point"}
 }

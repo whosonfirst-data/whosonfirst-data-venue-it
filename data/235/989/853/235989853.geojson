@@ -2,13 +2,14 @@
   "id": 235989853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.077144,39.258072,9.077144,39.258072",
     "geom:latitude":39.258072,
     "geom:longitude":9.077144,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Betti 1 09030 Elmas",
     "sg:city":"Elmas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235989853,
-    "wof:lastmodified":1449008504,
+    "wof:lastmodified":1466295885,
     "wof:name":"Ftr S.r.l.",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "metal"
     ]
 },
-  "bbox": [9.077144,39.258072,9.077144,39.258072],
+  "bbox": [
+    9.077144,
+    39.258072,
+    9.077144,
+    39.258072
+],
   "geometry": {"coordinates":[9.077144,39.258072],"type":"Point"}
 }

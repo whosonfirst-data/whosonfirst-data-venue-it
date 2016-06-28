@@ -2,13 +2,14 @@
   "id": 202958803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.192801,45.462688,9.192801,45.462688",
     "geom:latitude":45.462688,
     "geom:longitude":9.192801,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":202958803,
-    "wof:lastmodified":1449062099,
+    "wof:lastmodified":1466293806,
     "wof:name":"Mazzieri Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.192801,45.462688,9.192801,45.462688],
+  "bbox": [
+    9.192801,
+    45.462688,
+    9.192801,
+    45.462688
+],
   "geometry": {"coordinates":[9.192801,45.462688],"type":"Point"}
 }

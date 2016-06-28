@@ -2,13 +2,14 @@
   "id": 202819511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.312534,45.970745,12.312534,45.970745",
     "geom:latitude":45.970745,
     "geom:longitude":12.312534,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31015 Conegliano",
     "sg:city":"Conegliano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202819511,
-    "wof:lastmodified":1449060712,
+    "wof:lastmodified":1466292404,
     "wof:name":"Coop. Servizi Il Delfino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.312534,45.970745,12.312534,45.970745],
+  "bbox": [
+    12.312534,
+    45.970745,
+    12.312534,
+    45.970745
+],
   "geometry": {"coordinates":[12.312534,45.970745],"type":"Point"}
 }

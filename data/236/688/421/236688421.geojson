@@ -2,13 +2,14 @@
   "id": 236688421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.121078,43.765404,11.121078,43.765404",
     "geom:latitude":43.765404,
     "geom:longitude":11.121078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50055 Lastra A Signa",
     "sg:city":"Lastra a Signa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236688421,
-    "wof:lastmodified":1449002772,
+    "wof:lastmodified":1466295853,
     "wof:name":"A.t.m. Galvanica & Pulimentatura",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.121078,43.765404,11.121078,43.765404],
+  "bbox": [
+    11.121078,
+    43.765404,
+    11.121078,
+    43.765404
+],
   "geometry": {"coordinates":[11.121078,43.765404],"type":"Point"}
 }

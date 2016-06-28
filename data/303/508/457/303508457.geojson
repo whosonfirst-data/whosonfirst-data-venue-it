@@ -2,13 +2,14 @@
   "id": 303508457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.777592,44.325161,11.777592,44.325161",
     "geom:latitude":44.325161,
     "geom:longitude":11.777592,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48014 Castel Bolognese",
     "sg:city":"Castel Bolognese",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303508457,
-    "wof:lastmodified":1448999491,
+    "wof:lastmodified":1466296504,
     "wof:name":"Lamec Snc Di Brini Alvaro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.777592,44.325161,11.777592,44.325161],
+  "bbox": [
+    11.777592,
+    44.325161,
+    11.777592,
+    44.325161
+],
   "geometry": {"coordinates":[11.777592,44.325161],"type":"Point"}
 }

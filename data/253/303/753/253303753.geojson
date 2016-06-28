@@ -2,13 +2,14 @@
   "id": 253303753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.826491,41.492149,13.826491,41.492149",
     "geom:latitude":41.492149,
     "geom:longitude":13.826491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03043 Cassino",
     "sg:city":"Cassino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253303753,
-    "wof:lastmodified":1449062843,
+    "wof:lastmodified":1466292260,
     "wof:name":"Molendini Domenico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.826491,41.492149,13.826491,41.492149],
+  "bbox": [
+    13.826491,
+    41.492149,
+    13.826491,
+    41.492149
+],
   "geometry": {"coordinates":[13.826491,41.492149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203215211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.880648,45.915699,10.880648,45.915699",
     "geom:latitude":45.915699,
     "geom:longitude":10.880648,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38066 Riva Del Garda",
     "sg:city":"Riva del Garda",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203215211,
-    "wof:lastmodified":1449026508,
+    "wof:lastmodified":1466290039,
     "wof:name":"Agenzia Garda Domus",
     "wof:parent_id":85900359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.880648,45.915699,10.880648,45.915699],
+  "bbox": [
+    10.880648,
+    45.915699,
+    10.880648,
+    45.915699
+],
   "geometry": {"coordinates":[10.880648,45.915699],"type":"Point"}
 }

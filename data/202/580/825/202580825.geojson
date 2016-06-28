@@ -2,13 +2,14 @@
   "id": 202580825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.346581,41.066326,14.346581,41.066326",
     "geom:latitude":41.066326,
     "geom:longitude":14.346581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81021 Arienzo",
     "sg:city":"Arienzo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202580825,
-    "wof:lastmodified":1449061796,
+    "wof:lastmodified":1466289736,
     "wof:name":"Saia Sud Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.346581,41.066326,14.346581,41.066326],
+  "bbox": [
+    14.346581,
+    41.066326,
+    14.346581,
+    41.066326
+],
   "geometry": {"coordinates":[14.346581,41.066326],"type":"Point"}
 }

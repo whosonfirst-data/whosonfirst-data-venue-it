@@ -2,13 +2,14 @@
   "id": 336788803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.859542,44.663021,7.859542,44.663021",
     "geom:latitude":44.663021,
     "geom:longitude":7.859542,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Via Alba Narzole 12055 Diano D'alba",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336788803,
-    "wof:lastmodified":1448997511,
+    "wof:lastmodified":1466295988,
     "wof:name":"Tecno Project S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.859542,44.663021,7.859542,44.663021],
+  "bbox": [
+    7.859542,
+    44.663021,
+    7.859542,
+    44.663021
+],
   "geometry": {"coordinates":[7.859542,44.663021],"type":"Point"}
 }

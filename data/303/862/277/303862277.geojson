@@ -2,13 +2,14 @@
   "id": 303862277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.143715,45.538849,9.143715,45.538849",
     "geom:latitude":45.538849,
     "geom:longitude":9.143715,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20026 Novate Milanese",
     "sg:city":"Novate Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303862277,
-    "wof:lastmodified":1449000626,
+    "wof:lastmodified":1466297860,
     "wof:name":"Saldini Remo",
     "wof:parent_id":85862707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.143715,45.538849,9.143715,45.538849],
+  "bbox": [
+    9.143715,
+    45.538849,
+    9.143715,
+    45.538849
+],
   "geometry": {"coordinates":[9.143715,45.538849],"type":"Point"}
 }

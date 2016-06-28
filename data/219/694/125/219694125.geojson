@@ -2,13 +2,14 @@
   "id": 219694125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.114874,37.533123,15.114874,37.533123",
     "geom:latitude":37.533123,
     "geom:longitude":15.114874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95126 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219694125,
-    "wof:lastmodified":1449071402,
+    "wof:lastmodified":1466293241,
     "wof:name":"Ristorante Nuovo K2 Dei Fratelli Alaimo Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.114874,37.533123,15.114874,37.533123],
+  "bbox": [
+    15.114874,
+    37.533123,
+    15.114874,
+    37.533123
+],
   "geometry": {"coordinates":[15.114874,37.533123],"type":"Point"}
 }

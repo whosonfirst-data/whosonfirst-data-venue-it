@@ -2,13 +2,14 @@
   "id": 236281957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.239779,44.547535,11.239779,44.547535",
     "geom:latitude":44.547535,
     "geom:longitude":11.239779,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40014 Crevalcore",
     "sg:city":"Crevalcore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236281957,
-    "wof:lastmodified":1449004644,
+    "wof:lastmodified":1466291753,
     "wof:name":"Cremonini Virgilio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.239779,44.547535,11.239779,44.547535],
+  "bbox": [
+    11.239779,
+    44.547535,
+    11.239779,
+    44.547535
+],
   "geometry": {"coordinates":[11.239779,44.547535],"type":"Point"}
 }

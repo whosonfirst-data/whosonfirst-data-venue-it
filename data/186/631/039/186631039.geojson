@@ -2,13 +2,14 @@
   "id": 186631039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.188279,46.117443,13.188279,46.117443",
     "geom:latitude":46.117443,
     "geom:longitude":13.188279,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33033 Codroipo",
     "sg:city":"Codroipo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186631039,
-    "wof:lastmodified":1449051209,
+    "wof:lastmodified":1466293589,
     "wof:name":"Accent On English Di Moletta Lisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "recruitment"
     ]
 },
-  "bbox": [13.188279,46.117443,13.188279,46.117443],
+  "bbox": [
+    13.188279,
+    46.117443,
+    13.188279,
+    46.117443
+],
   "geometry": {"coordinates":[13.188279,46.117443],"type":"Point"}
 }

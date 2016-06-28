@@ -2,13 +2,14 @@
   "id": 286273941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.253809,39.298264,16.253809,39.298264",
     "geom:latitude":39.298264,
     "geom:longitude":16.253809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Arende 87036 Rende",
     "sg:city":"Rende",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286273941,
-    "wof:lastmodified":1449016721,
+    "wof:lastmodified":1466289587,
     "wof:name":"Dodaro Fratelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [16.253809,39.298264,16.253809,39.298264],
+  "bbox": [
+    16.253809,
+    39.298264,
+    16.253809,
+    39.298264
+],
   "geometry": {"coordinates":[16.253809,39.298264],"type":"Point"}
 }

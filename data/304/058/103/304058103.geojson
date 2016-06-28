@@ -2,13 +2,14 @@
   "id": 304058103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.166812,45.39447,9.166812,45.39447",
     "geom:latitude":45.39447,
     "geom:longitude":9.166812,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20089 Rozzano",
     "sg:city":"Rozzano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304058103,
-    "wof:lastmodified":1449043634,
+    "wof:lastmodified":1466292954,
     "wof:name":"Aleant S.r.l.",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.166812,45.39447,9.166812,45.39447],
+  "bbox": [
+    9.166812,
+    45.39447,
+    9.166812,
+    45.39447
+],
   "geometry": {"coordinates":[9.166812,45.39447],"type":"Point"}
 }

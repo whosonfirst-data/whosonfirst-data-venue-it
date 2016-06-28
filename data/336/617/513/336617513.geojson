@@ -2,13 +2,14 @@
   "id": 336617513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.646634,38.094372,15.646634,38.094372",
     "geom:latitude":38.094372,
     "geom:longitude":15.646634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56, Vl. Europa 89133 Reggio Calabria",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336617513,
-    "wof:lastmodified":1448996949,
+    "wof:lastmodified":1466293943,
     "wof:name":"C.a.d.i Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mechanical"
     ]
 },
-  "bbox": [15.646634,38.094372,15.646634,38.094372],
+  "bbox": [
+    15.646634,
+    38.094372,
+    15.646634,
+    38.094372
+],
   "geometry": {"coordinates":[15.646634,38.094372],"type":"Point"}
 }

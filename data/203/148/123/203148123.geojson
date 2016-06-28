@@ -2,13 +2,14 @@
   "id": 203148123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.985874,41.547729,12.985874,41.547729",
     "geom:latitude":41.547729,
     "geom:longitude":12.985874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04100 Latina",
     "sg:city":"Latina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203148123,
-    "wof:lastmodified":1449026546,
+    "wof:lastmodified":1466289380,
     "wof:name":"Ecoclub Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.985874,41.547729,12.985874,41.547729],
+  "bbox": [
+    12.985874,
+    41.547729,
+    12.985874,
+    41.547729
+],
   "geometry": {"coordinates":[12.985874,41.547729],"type":"Point"}
 }

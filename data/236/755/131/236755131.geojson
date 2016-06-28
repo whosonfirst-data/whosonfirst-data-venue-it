@@ -2,13 +2,14 @@
   "id": 236755131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228981,45.555244,9.228981,45.555244",
     "geom:latitude":45.555244,
     "geom:longitude":9.228981,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236755131,
-    "wof:lastmodified":1449002399,
+    "wof:lastmodified":1466296493,
     "wof:name":"I.d.i. Sas",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.228981,45.555244,9.228981,45.555244],
+  "bbox": [
+    9.228981,
+    45.555244,
+    9.228981,
+    45.555244
+],
   "geometry": {"coordinates":[9.228981,45.555244],"type":"Point"}
 }

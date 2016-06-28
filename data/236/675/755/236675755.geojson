@@ -2,13 +2,14 @@
   "id": 236675755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.887698,45.508675,8.887698,45.508675",
     "geom:latitude":45.508675,
     "geom:longitude":8.887698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fratelli Cervi 20010 Ossona",
     "sg:city":"Ossona",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236675755,
-    "wof:lastmodified":1449003305,
+    "wof:lastmodified":1466295718,
     "wof:name":"Vignati",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [8.887698,45.508675,8.887698,45.508675],
+  "bbox": [
+    8.887698,
+    45.508675,
+    8.887698,
+    45.508675
+],
   "geometry": {"coordinates":[8.887698,45.508675],"type":"Point"}
 }

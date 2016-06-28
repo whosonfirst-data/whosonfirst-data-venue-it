@@ -2,13 +2,14 @@
   "id": 303330129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.362705,44.526054,11.362705,44.526054",
     "geom:latitude":44.526054,
     "geom:longitude":11.362705,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40128 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303330129,
-    "wof:lastmodified":1448999337,
+    "wof:lastmodified":1466294600,
     "wof:name":"C.s.a. Srl Consulenze E Servizi Ambientali",
     "wof:parent_id":85900353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.362705,44.526054,11.362705,44.526054],
+  "bbox": [
+    11.362705,
+    44.526054,
+    11.362705,
+    44.526054
+],
   "geometry": {"coordinates":[11.362705,44.526054],"type":"Point"}
 }

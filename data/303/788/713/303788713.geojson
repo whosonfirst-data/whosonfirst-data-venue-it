@@ -2,13 +2,14 @@
   "id": 303788713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.517616,45.530933,11.517616,45.530933",
     "geom:latitude":45.530933,
     "geom:longitude":11.517616,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36060 Molvena",
     "sg:city":"Molvena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303788713,
-    "wof:lastmodified":1448999381,
+    "wof:lastmodified":1466297792,
     "wof:name":"Nicolli Di Nicolli Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.517616,45.530933,11.517616,45.530933],
+  "bbox": [
+    11.517616,
+    45.530933,
+    11.517616,
+    45.530933
+],
   "geometry": {"coordinates":[11.517616,45.530933],"type":"Point"}
 }

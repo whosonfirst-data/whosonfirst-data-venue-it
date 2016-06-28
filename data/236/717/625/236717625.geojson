@@ -2,13 +2,14 @@
   "id": 236717625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.147004,43.776077,11.147004,43.776077",
     "geom:latitude":43.776077,
     "geom:longitude":11.147004,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Livatino 50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236717625,
-    "wof:lastmodified":1449001746,
+    "wof:lastmodified":1466296170,
     "wof:name":"Net Shop.it",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [11.147004,43.776077,11.147004,43.776077],
+  "bbox": [
+    11.147004,
+    43.776077,
+    11.147004,
+    43.776077
+],
   "geometry": {"coordinates":[11.147004,43.776077],"type":"Point"}
 }

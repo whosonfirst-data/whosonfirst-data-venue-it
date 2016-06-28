@@ -2,13 +2,14 @@
   "id": 320137539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.289316,40.956623,17.289316,40.956623",
     "geom:latitude":40.956623,
     "geom:longitude":17.289316,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70043 Monopoli",
     "sg:city":"Monopoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320137539,
-    "wof:lastmodified":1449014460,
+    "wof:lastmodified":1466295066,
     "wof:name":"Verdegiglio C.v.s.srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.289316,40.956623,17.289316,40.956623],
+  "bbox": [
+    17.289316,
+    40.956623,
+    17.289316,
+    40.956623
+],
   "geometry": {"coordinates":[17.289316,40.956623],"type":"Point"}
 }

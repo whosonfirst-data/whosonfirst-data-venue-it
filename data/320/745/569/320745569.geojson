@@ -2,13 +2,14 @@
   "id": 320745569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.185292,39.240269,9.185292,39.240269",
     "geom:latitude":39.240269,
     "geom:longitude":9.185292,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09018 Sarroch",
     "sg:city":"Sarroch",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320745569,
-    "wof:lastmodified":1449014796,
+    "wof:lastmodified":1466298075,
     "wof:name":"Gibbons Sarda Srl",
     "wof:parent_id":85862617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.185292,39.240269,9.185292,39.240269],
+  "bbox": [
+    9.185292,
+    39.240269,
+    9.185292,
+    39.240269
+],
   "geometry": {"coordinates":[9.185292,39.240269],"type":"Point"}
 }

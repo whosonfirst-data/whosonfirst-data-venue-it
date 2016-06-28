@@ -2,13 +2,14 @@
   "id": 269533303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.02804,43.540554,11.02804,43.540554",
     "geom:latitude":43.540554,
     "geom:longitude":11.02804,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Steccaia 53037 San Gimignano",
     "sg:city":"San Gimignano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269533303,
-    "wof:lastmodified":1449036116,
+    "wof:lastmodified":1466289515,
     "wof:name":"Calzaturificio Ribot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.02804,43.540554,11.02804,43.540554],
+  "bbox": [
+    11.02804,
+    43.540554,
+    11.02804,
+    43.540554
+],
   "geometry": {"coordinates":[11.02804,43.540554],"type":"Point"}
 }

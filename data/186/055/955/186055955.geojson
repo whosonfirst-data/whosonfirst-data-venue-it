@@ -2,13 +2,14 @@
   "id": 186055955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.220935,46.174202,11.220935,46.174202",
     "geom:latitude":46.174202,
     "geom:longitude":11.220935,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Genziane, 4/a; Cembra; 38034",
     "sg:city":"Cembra",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186055955,
-    "wof:lastmodified":1449051001,
+    "wof:lastmodified":1466295160,
     "wof:name":"Casse Rurale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.220935,46.174202,11.220935,46.174202],
+  "bbox": [
+    11.220935,
+    46.174202,
+    11.220935,
+    46.174202
+],
   "geometry": {"coordinates":[11.220935,46.174202],"type":"Point"}
 }

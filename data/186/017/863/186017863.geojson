@@ -2,13 +2,14 @@
   "id": 186017863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.386465,45.6777,13.386465,45.6777",
     "geom:latitude":45.6777,
     "geom:longitude":13.386465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Orseolo 1; Grado; 34073",
     "sg:city":"Grado",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186017863,
-    "wof:lastmodified":1449051798,
+    "wof:lastmodified":1466293943,
     "wof:name":"Cassa Di Risparmio Di Trieste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.386465,45.6777,13.386465,45.6777],
+  "bbox": [
+    13.386465,
+    45.6777,
+    13.386465,
+    45.6777
+],
   "geometry": {"coordinates":[13.386465,45.6777],"type":"Point"}
 }

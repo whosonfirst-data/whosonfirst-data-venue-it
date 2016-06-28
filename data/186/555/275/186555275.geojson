@@ -2,13 +2,14 @@
   "id": 186555275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.790392,44.657169,10.790392,44.657169",
     "geom:latitude":44.657169,
     "geom:longitude":10.790392,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via F. Brunelleschi 42048 Rubiera",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186555275,
-    "wof:lastmodified":1449052632,
+    "wof:lastmodified":1466292833,
     "wof:name":"Hotel La Corte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [10.790392,44.657169,10.790392,44.657169],
+  "bbox": [
+    10.790392,
+    44.657169,
+    10.790392,
+    44.657169
+],
   "geometry": {"coordinates":[10.790392,44.657169],"type":"Point"}
 }

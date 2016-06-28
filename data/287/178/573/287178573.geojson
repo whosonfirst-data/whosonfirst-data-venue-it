@@ -2,13 +2,14 @@
   "id": 287178573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.551963,41.865517,12.551963,41.865517",
     "geom:latitude":41.865517,
     "geom:longitude":12.551963,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Attio Labeone 35; Rome; 00175",
     "sg:classifiers":[
         {
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287178573,
-    "wof:lastmodified":1449001319,
+    "wof:lastmodified":1466291973,
     "wof:name":"Varm Viaggi & Turismo",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.551963,41.865517,12.551963,41.865517],
+  "bbox": [
+    12.551963,
+    41.865517,
+    12.551963,
+    41.865517
+],
   "geometry": {"coordinates":[12.551963,41.865517],"type":"Point"}
 }

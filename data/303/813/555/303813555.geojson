@@ -2,13 +2,14 @@
   "id": 303813555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.422606,44.497742,11.422606,44.497742",
     "geom:latitude":44.497742,
     "geom:longitude":11.422606,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Oberdan 4 40055 Villanova",
     "sg:city":"Villanova",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303813555,
-    "wof:lastmodified":1448998743,
+    "wof:lastmodified":1466297856,
     "wof:name":"Web Italia Srl",
     "wof:parent_id":85900453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "print"
     ]
 },
-  "bbox": [11.422606,44.497742,11.422606,44.497742],
+  "bbox": [
+    11.422606,
+    44.497742,
+    11.422606,
+    44.497742
+],
   "geometry": {"coordinates":[11.422606,44.497742],"type":"Point"}
 }

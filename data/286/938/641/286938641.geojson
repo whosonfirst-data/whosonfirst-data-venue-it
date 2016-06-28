@@ -2,13 +2,14 @@
   "id": 286938641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.309376,37.08503,14.309376,37.08503",
     "geom:latitude":37.08503,
     "geom:longitude":14.309376,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93012 Gela",
     "sg:city":"Gela",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286938641,
-    "wof:lastmodified":1449017374,
+    "wof:lastmodified":1466297362,
     "wof:name":"Varchi Mobili Art And Design Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.309376,37.08503,14.309376,37.08503],
+  "bbox": [
+    14.309376,
+    37.08503,
+    14.309376,
+    37.08503
+],
   "geometry": {"coordinates":[14.309376,37.08503],"type":"Point"}
 }

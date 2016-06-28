@@ -2,13 +2,14 @@
   "id": 336812083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.203513,45.680218,9.203513,45.680218",
     "geom:latitude":45.680218,
     "geom:longitude":9.203513,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, V. Virgilio 20034 Giussano",
     "sg:city":"Giussano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336812083,
-    "wof:lastmodified":1448996942,
+    "wof:lastmodified":1466296359,
     "wof:name":"Alma Snc",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.203513,45.680218,9.203513,45.680218],
+  "bbox": [
+    9.203513,
+    45.680218,
+    9.203513,
+    45.680218
+],
   "geometry": {"coordinates":[9.203513,45.680218],"type":"Point"}
 }

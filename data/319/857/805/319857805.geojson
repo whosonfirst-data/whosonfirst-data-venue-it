@@ -2,13 +2,14 @@
   "id": 319857805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.418087,44.626041,11.418087,44.626041",
     "geom:latitude":44.626041,
     "geom:longitude":11.418087,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Romagnoli 2 40010 Bentivoglio",
     "sg:city":"Bentivoglio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319857805,
-    "wof:lastmodified":1449024589,
+    "wof:lastmodified":1466292951,
     "wof:name":"Ima Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "metering"
     ]
 },
-  "bbox": [11.418087,44.626041,11.418087,44.626041],
+  "bbox": [
+    11.418087,
+    44.626041,
+    11.418087,
+    44.626041
+],
   "geometry": {"coordinates":[11.418087,44.626041],"type":"Point"}
 }

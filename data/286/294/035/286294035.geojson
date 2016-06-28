@@ -2,13 +2,14 @@
   "id": 286294035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.932571,42.515816,13.932571,42.515816",
     "geom:latitude":42.515816,
     "geom:longitude":13.932571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Contrada Cancelli 64035 Castilenti",
     "sg:city":"Castilenti",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286294035,
-    "wof:lastmodified":1449017283,
+    "wof:lastmodified":1466289860,
     "wof:name":"Eurofil S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [13.932571,42.515816,13.932571,42.515816],
+  "bbox": [
+    13.932571,
+    42.515816,
+    13.932571,
+    42.515816
+],
   "geometry": {"coordinates":[13.932571,42.515816],"type":"Point"}
 }

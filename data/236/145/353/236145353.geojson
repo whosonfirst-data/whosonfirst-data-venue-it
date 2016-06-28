@@ -2,13 +2,14 @@
   "id": 236145353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.180129,45.468315,11.180129,45.468315",
     "geom:latitude":45.468315,
     "geom:longitude":11.180129,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Restel Rosso 37031 Illasi",
     "sg:city":"Illasi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236145353,
-    "wof:lastmodified":1449002488,
+    "wof:lastmodified":1466290330,
     "wof:name":"Cantina Sociale Di Illasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [11.180129,45.468315,11.180129,45.468315],
+  "bbox": [
+    11.180129,
+    45.468315,
+    11.180129,
+    45.468315
+],
   "geometry": {"coordinates":[11.180129,45.468315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220157969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.354556,38.108341,13.354556,38.108341",
     "geom:latitude":38.108341,
     "geom:longitude":13.354556,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, C. Re Ruggero 90134 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220157969,
-    "wof:lastmodified":1449074762,
+    "wof:lastmodified":1466289146,
     "wof:name":"Cw Grafic",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "technology"
     ]
 },
-  "bbox": [13.354556,38.108341,13.354556,38.108341],
+  "bbox": [
+    13.354556,
+    38.108341,
+    13.354556,
+    38.108341
+],
   "geometry": {"coordinates":[13.354556,38.108341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253651435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.194358,45.771725,12.194358,45.771725",
     "geom:latitude":45.771725,
     "geom:longitude":12.194358,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31040 Giavera Del Montello",
     "sg:city":"Cusignana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253651435,
-    "wof:lastmodified":1449063403,
+    "wof:lastmodified":1466296375,
     "wof:name":"New Mec Snc Di Costalonga Lorenzo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.194358,45.771725,12.194358,45.771725],
+  "bbox": [
+    12.194358,
+    45.771725,
+    12.194358,
+    45.771725
+],
   "geometry": {"coordinates":[12.194358,45.771725],"type":"Point"}
 }

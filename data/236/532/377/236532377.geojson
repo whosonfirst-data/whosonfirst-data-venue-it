@@ -2,13 +2,14 @@
   "id": 236532377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.278004,45.722256,9.278004,45.722256",
     "geom:latitude":45.722256,
     "geom:longitude":9.278004,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Concordia 20055 Renate",
     "sg:city":"Renate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236532377,
-    "wof:lastmodified":1449002615,
+    "wof:lastmodified":1466294394,
     "wof:name":"Valli & Valli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.278004,45.722256,9.278004,45.722256],
+  "bbox": [
+    9.278004,
+    45.722256,
+    9.278004,
+    45.722256
+],
   "geometry": {"coordinates":[9.278004,45.722256],"type":"Point"}
 }

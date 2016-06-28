@@ -2,13 +2,14 @@
   "id": 304074755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.170554,45.540436,12.170554,45.540436",
     "geom:latitude":45.540436,
     "geom:longitude":12.170554,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Pertini 30030 Martellago",
     "sg:city":"Martellago",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304074755,
-    "wof:lastmodified":1449043900,
+    "wof:lastmodified":1466293182,
     "wof:name":"Ad.el. S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [12.170554,45.540436,12.170554,45.540436],
+  "bbox": [
+    12.170554,
+    45.540436,
+    12.170554,
+    45.540436
+],
   "geometry": {"coordinates":[12.170554,45.540436],"type":"Point"}
 }

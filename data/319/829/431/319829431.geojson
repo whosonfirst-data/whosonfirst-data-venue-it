@@ -2,13 +2,14 @@
   "id": 319829431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.92722,45.267864,11.92722,45.267864",
     "geom:latitude":45.267864,
     "geom:longitude":11.92722,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sabbioni 2 35024 Bovolenta",
     "sg:city":"Bovolenta",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":319829431,
-    "wof:lastmodified":1449024835,
+    "wof:lastmodified":1466292595,
     "wof:name":"Varem S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "autoclave"
     ]
 },
-  "bbox": [11.92722,45.267864,11.92722,45.267864],
+  "bbox": [
+    11.92722,
+    45.267864,
+    11.92722,
+    45.267864
+],
   "geometry": {"coordinates":[11.92722,45.267864],"type":"Point"}
 }

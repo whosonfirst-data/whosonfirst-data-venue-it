@@ -2,13 +2,14 @@
   "id": 287062019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.283672,40.90102,14.283672,40.90102",
     "geom:latitude":40.90102,
     "geom:longitude":14.283672,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55, Via De Gasperi Alcide 80133 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287062019,
-    "wof:lastmodified":1449001526,
+    "wof:lastmodified":1466290387,
     "wof:name":"Colasanti Srl",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [14.283672,40.90102,14.283672,40.90102],
+  "bbox": [
+    14.283672,
+    40.90102,
+    14.283672,
+    40.90102
+],
   "geometry": {"coordinates":[14.283672,40.90102],"type":"Point"}
 }

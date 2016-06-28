@@ -2,13 +2,14 @@
   "id": 286702705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.199944,45.480446,9.199944,45.480446",
     "geom:latitude":45.480446,
     "geom:longitude":9.199944,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Casati Felice 20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286702705,
-    "wof:lastmodified":1449016659,
+    "wof:lastmodified":1466295242,
     "wof:name":"Impresa Luigi Notari (s.p.a)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [9.199944,45.480446,9.199944,45.480446],
+  "bbox": [
+    9.199944,
+    45.480446,
+    9.199944,
+    45.480446
+],
   "geometry": {"coordinates":[9.199944,45.480446],"type":"Point"}
 }

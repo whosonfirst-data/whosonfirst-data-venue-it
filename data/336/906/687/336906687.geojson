@@ -2,13 +2,14 @@
   "id": 336906687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.225225,45.540085,9.225225,45.540085",
     "geom:latitude":45.540085,
     "geom:longitude":9.225225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336906687,
-    "wof:lastmodified":1448997352,
+    "wof:lastmodified":1466296996,
     "wof:name":"Cambiaghi Giovanni",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.225225,45.540085,9.225225,45.540085],
+  "bbox": [
+    9.225225,
+    45.540085,
+    9.225225,
+    45.540085
+],
   "geometry": {"coordinates":[9.225225,45.540085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236889569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.329548,44.807865,10.329548,44.807865",
     "geom:latitude":44.807865,
     "geom:longitude":10.329548,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28, Localita' Follo 43041 Bedonia",
     "sg:city":"Bedonia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236889569,
-    "wof:lastmodified":1449001633,
+    "wof:lastmodified":1466297148,
     "wof:name":"Taroglass (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.329548,44.807865,10.329548,44.807865],
+  "bbox": [
+    10.329548,
+    44.807865,
+    10.329548,
+    44.807865
+],
   "geometry": {"coordinates":[10.329548,44.807865],"type":"Point"}
 }

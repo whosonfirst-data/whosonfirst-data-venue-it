@@ -2,13 +2,14 @@
   "id": 286558385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.391033,37.494106,14.391033,37.494106",
     "geom:latitude":37.494106,
     "geom:longitude":14.391033,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via A. Volta 94019 Valguarnera Caropepe",
     "sg:city":"Valguarnera Caropepe",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286558385,
-    "wof:lastmodified":1449015984,
+    "wof:lastmodified":1466293412,
     "wof:name":"Marlet Creazioni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [14.391033,37.494106,14.391033,37.494106],
+  "bbox": [
+    14.391033,
+    37.494106,
+    14.391033,
+    37.494106
+],
   "geometry": {"coordinates":[14.391033,37.494106],"type":"Point"}
 }

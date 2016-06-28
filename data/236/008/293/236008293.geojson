@@ -2,13 +2,14 @@
   "id": 236008293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.024308,43.534412,13.024308,43.534412",
     "geom:latitude":43.534412,
     "geom:longitude":13.024308,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rinaldoni, 10/12 60030 Serra De' Conti",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236008293,
-    "wof:lastmodified":1449002524,
+    "wof:lastmodified":1466288968,
     "wof:name":"Ludabak Di Paradisi Sergio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "design"
     ]
 },
-  "bbox": [13.024308,43.534412,13.024308,43.534412],
+  "bbox": [
+    13.024308,
+    43.534412,
+    13.024308,
+    43.534412
+],
   "geometry": {"coordinates":[13.024308,43.534412],"type":"Point"}
 }

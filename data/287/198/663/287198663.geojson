@@ -2,13 +2,14 @@
   "id": 287198663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.435704,43.343174,13.435704,43.343174",
     "geom:latitude":43.343174,
     "geom:longitude":13.435704,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62010 Montecassiano",
     "sg:city":"Montecassiano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287198663,
-    "wof:lastmodified":1449000984,
+    "wof:lastmodified":1466292216,
     "wof:name":"Smorlesi Gaetana, Cecilia & C. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.435704,43.343174,13.435704,43.343174],
+  "bbox": [
+    13.435704,
+    43.343174,
+    13.435704,
+    43.343174
+],
   "geometry": {"coordinates":[13.435704,43.343174],"type":"Point"}
 }

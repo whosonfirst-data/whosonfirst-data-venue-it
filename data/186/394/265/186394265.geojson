@@ -2,13 +2,14 @@
   "id": 186394265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.744314,43.852276,10.744314,43.852276",
     "geom:latitude":43.852276,
     "geom:longitude":10.744314,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Camporcioni 62 51019 Ponte Buggianese",
     "sg:city":"Ponte Buggianese",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186394265,
-    "wof:lastmodified":1449050926,
+    "wof:lastmodified":1466291300,
     "wof:name":"Oran Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "blotting"
     ]
 },
-  "bbox": [10.744314,43.852276,10.744314,43.852276],
+  "bbox": [
+    10.744314,
+    43.852276,
+    10.744314,
+    43.852276
+],
   "geometry": {"coordinates":[10.744314,43.852276],"type":"Point"}
 }

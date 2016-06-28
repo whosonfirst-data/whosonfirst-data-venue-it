@@ -2,13 +2,14 @@
   "id": 303282185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.977651,44.719589,10.977651,44.719589",
     "geom:latitude":44.719589,
     "geom:longitude":10.977651,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41030 San Prospero Secchia",
     "sg:city":"San Prospero",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303282185,
-    "wof:lastmodified":1448999647,
+    "wof:lastmodified":1466294003,
     "wof:name":"S.p.eco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "machinery"
     ]
 },
-  "bbox": [10.977651,44.719589,10.977651,44.719589],
+  "bbox": [
+    10.977651,
+    44.719589,
+    10.977651,
+    44.719589
+],
   "geometry": {"coordinates":[10.977651,44.719589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270142125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.486636,45.455463,12.486636,45.455463",
     "geom:latitude":45.455463,
     "geom:longitude":12.486636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30010 Cavallino - Treporti",
     "sg:classifiers":[
         {
@@ -36,10 +37,11 @@
     "wof:geomhash":"29e77d5df0dcda5d6235aea56c2dd45f",
     "wof:hierarchy":[],
     "wof:id":270142125,
-    "wof:lastmodified":1449010576,
+    "wof:lastmodified":1466290680,
     "wof:name":"Multigest Snc Di Nardin Massimiliano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -47,6 +49,11 @@
         "facility"
     ]
 },
-  "bbox": [12.486636,45.455463,12.486636,45.455463],
+  "bbox": [
+    12.486636,
+    45.455463,
+    12.486636,
+    45.455463
+],
   "geometry": {"coordinates":[12.486636,45.455463],"type":"Point"}
 }

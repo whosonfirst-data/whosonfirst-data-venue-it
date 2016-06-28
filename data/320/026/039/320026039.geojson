@@ -2,13 +2,14 @@
   "id": 320026039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.710814,45.749134,11.710814,45.749134",
     "geom:latitude":45.749134,
     "geom:longitude":11.710814,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36061 Bassano Del Grappa",
     "sg:city":"Bassano del Grappa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320026039,
-    "wof:lastmodified":1449013461,
+    "wof:lastmodified":1466293707,
     "wof:name":"Edil Color Designer Di Bonamigo Silvano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.710814,45.749134,11.710814,45.749134],
+  "bbox": [
+    11.710814,
+    45.749134,
+    11.710814,
+    45.749134
+],
   "geometry": {"coordinates":[11.710814,45.749134],"type":"Point"}
 }

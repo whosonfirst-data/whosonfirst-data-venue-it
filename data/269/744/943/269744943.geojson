@@ -2,13 +2,14 @@
   "id": 269744943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.209494,42.470634,14.209494,42.470634",
     "geom:latitude":42.470634,
     "geom:longitude":14.209494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65122 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269744943,
-    "wof:lastmodified":1449037005,
+    "wof:lastmodified":1466292346,
     "wof:name":"Agenzia Viaggi E Turismo La Farfalla Di Ruggieri Elisabetta & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.209494,42.470634,14.209494,42.470634],
+  "bbox": [
+    14.209494,
+    42.470634,
+    14.209494,
+    42.470634
+],
   "geometry": {"coordinates":[14.209494,42.470634],"type":"Point"}
 }

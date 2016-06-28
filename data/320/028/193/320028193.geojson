@@ -2,13 +2,14 @@
   "id": 320028193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39563,45.664391,8.39563,45.664391",
     "geom:latitude":45.664391,
     "geom:longitude":8.39563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28010 Cavallirio",
     "sg:city":"Cavallirio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320028193,
-    "wof:lastmodified":1449013280,
+    "wof:lastmodified":1466293734,
     "wof:name":"Univer Italiana Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39563,45.664391,8.39563,45.664391],
+  "bbox": [
+    8.39563,
+    45.664391,
+    8.39563,
+    45.664391
+],
   "geometry": {"coordinates":[8.39563,45.664391],"type":"Point"}
 }

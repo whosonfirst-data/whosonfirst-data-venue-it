@@ -2,13 +2,14 @@
   "id": 236577739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.819793,43.861458,12.819793,43.861458",
     "geom:latitude":43.861458,
     "geom:longitude":12.819793,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2/8, Via Dell' Economia 61025 Montelabbate",
     "sg:city":"Montelabbate",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236577739,
-    "wof:lastmodified":1449005369,
+    "wof:lastmodified":1466294816,
     "wof:name":"Ernestomeda S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.819793,43.861458,12.819793,43.861458],
+  "bbox": [
+    12.819793,
+    43.861458,
+    12.819793,
+    43.861458
+],
   "geometry": {"coordinates":[12.819793,43.861458],"type":"Point"}
 }

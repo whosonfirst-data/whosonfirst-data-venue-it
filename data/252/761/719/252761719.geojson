@@ -2,13 +2,14 @@
   "id": 252761719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.802469,45.579254,8.802469,45.579254",
     "geom:latitude":45.579254,
     "geom:longitude":8.802469,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Magnago",
     "sg:city":"Magnago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252761719,
-    "wof:lastmodified":1449006244,
+    "wof:lastmodified":1466289477,
     "wof:name":"Afti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.802469,45.579254,8.802469,45.579254],
+  "bbox": [
+    8.802469,
+    45.579254,
+    8.802469,
+    45.579254
+],
   "geometry": {"coordinates":[8.802469,45.579254],"type":"Point"}
 }

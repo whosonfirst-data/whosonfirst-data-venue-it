@@ -2,13 +2,14 @@
   "id": 269952135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.275505,45.084267,10.275505,45.084267",
     "geom:latitude":45.084267,
     "geom:longitude":10.275505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26042 Cingia D\u00e8 Botti",
     "sg:classifiers":[],
     "sg:orig_category":"Alberghi E Strutture Extra Alberghiere. Ospedali E Servizi Sanitari",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269952135,
-    "wof:lastmodified":1449037936,
+    "wof:lastmodified":1466294728,
     "wof:name":"Ospedale E. Germani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.275505,45.084267,10.275505,45.084267],
+  "bbox": [
+    10.275505,
+    45.084267,
+    10.275505,
+    45.084267
+],
   "geometry": {"coordinates":[10.275505,45.084267],"type":"Point"}
 }

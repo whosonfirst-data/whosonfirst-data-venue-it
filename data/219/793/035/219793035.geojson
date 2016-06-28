@@ -2,13 +2,14 @@
   "id": 219793035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.576712,45.723297,8.576712,45.723297",
     "geom:latitude":45.723297,
     "geom:longitude":8.576712,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pascoli 16 28040 Dormelletto",
     "sg:city":"Dormelletto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219793035,
-    "wof:lastmodified":1449072322,
+    "wof:lastmodified":1466294207,
     "wof:name":"Manifattura Gomma Finnord S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "us"
     ]
 },
-  "bbox": [8.576712,45.723297,8.576712,45.723297],
+  "bbox": [
+    8.576712,
+    45.723297,
+    8.576712,
+    45.723297
+],
   "geometry": {"coordinates":[8.576712,45.723297],"type":"Point"}
 }

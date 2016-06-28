@@ -2,13 +2,14 @@
   "id": 269528115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.028017,45.757477,12.028017,45.757477",
     "geom:latitude":45.757477,
     "geom:longitude":12.028017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Picciol 31044 Montebelluna",
     "sg:city":"Montebelluna",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269528115,
-    "wof:lastmodified":1449036801,
+    "wof:lastmodified":1466289454,
     "wof:name":"Calzaturificio Marzia Sport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [12.028017,45.757477,12.028017,45.757477],
+  "bbox": [
+    12.028017,
+    45.757477,
+    12.028017,
+    45.757477
+],
   "geometry": {"coordinates":[12.028017,45.757477],"type":"Point"}
 }

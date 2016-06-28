@@ -2,13 +2,14 @@
   "id": 303722531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.999573,45.308193,11.999573,45.308193",
     "geom:latitude":45.308193,
     "geom:longitude":11.999573,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Brugine",
     "sg:city":"Brugine",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303722531,
-    "wof:lastmodified":1448998975,
+    "wof:lastmodified":1466297729,
     "wof:name":"Ci.se Elettronica Industriale Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.999573,45.308193,11.999573,45.308193],
+  "bbox": [
+    11.999573,
+    45.308193,
+    11.999573,
+    45.308193
+],
   "geometry": {"coordinates":[11.999573,45.308193],"type":"Point"}
 }

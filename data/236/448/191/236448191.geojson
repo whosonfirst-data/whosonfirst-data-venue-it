@@ -2,13 +2,14 @@
   "id": 236448191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.713771,45.691269,9.713771,45.691269",
     "geom:latitude":45.691269,
     "geom:longitude":9.713771,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Via Roma 24020 Gorle",
     "sg:city":"Gorle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236448191,
-    "wof:lastmodified":1449005059,
+    "wof:lastmodified":1466293508,
     "wof:name":"T.p. Italia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [9.713771,45.691269,9.713771,45.691269],
+  "bbox": [
+    9.713771,
+    45.691269,
+    9.713771,
+    45.691269
+],
   "geometry": {"coordinates":[9.713771,45.691269],"type":"Point"}
 }

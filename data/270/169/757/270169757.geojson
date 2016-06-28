@@ -2,13 +2,14 @@
   "id": 270169757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.161195,45.542854,9.161195,45.542854",
     "geom:latitude":45.542854,
     "geom:longitude":9.161195,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Po' 130 20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270169757,
-    "wof:lastmodified":1449010147,
+    "wof:lastmodified":1466291001,
     "wof:name":"Klimax System Srl",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "servicing"
     ]
 },
-  "bbox": [9.161195,45.542854,9.161195,45.542854],
+  "bbox": [
+    9.161195,
+    45.542854,
+    9.161195,
+    45.542854
+],
   "geometry": {"coordinates":[9.161195,45.542854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336686485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.747998,44.525944,10.747998,44.525944",
     "geom:latitude":44.525944,
     "geom:longitude":10.747998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Michelangelo 42014 Castellarano",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336686485,
-    "wof:lastmodified":1448997764,
+    "wof:lastmodified":1466294761,
     "wof:name":"Hydrodesign S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.747998,44.525944,10.747998,44.525944],
+  "bbox": [
+    10.747998,
+    44.525944,
+    10.747998,
+    44.525944
+],
   "geometry": {"coordinates":[10.747998,44.525944],"type":"Point"}
 }

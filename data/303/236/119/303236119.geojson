@@ -2,13 +2,14 @@
   "id": 303236119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.065928,45.55648,8.065928,45.55648",
     "geom:latitude":45.55648,
     "geom:longitude":8.065928,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Viale Roma 13900 Biella",
     "sg:city":"Biella",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303236119,
-    "wof:lastmodified":1448998381,
+    "wof:lastmodified":1466293428,
     "wof:name":"Cordar Societa' Per Il Servizio Idrico Integrato S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "energy"
     ]
 },
-  "bbox": [8.065928,45.55648,8.065928,45.55648],
+  "bbox": [
+    8.065928,
+    45.55648,
+    8.065928,
+    45.55648
+],
   "geometry": {"coordinates":[8.065928,45.55648],"type":"Point"}
 }

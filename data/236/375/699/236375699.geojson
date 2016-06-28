@@ -2,13 +2,14 @@
   "id": 236375699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.652618,45.066399,7.652618,45.066399",
     "geom:latitude":45.066399,
     "geom:longitude":7.652618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10138 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236375699,
-    "wof:lastmodified":1449001767,
+    "wof:lastmodified":1466292726,
     "wof:name":"Scambia Cose",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.652618,45.066399,7.652618,45.066399],
+  "bbox": [
+    7.652618,
+    45.066399,
+    7.652618,
+    45.066399
+],
   "geometry": {"coordinates":[7.652618,45.066399],"type":"Point"}
 }

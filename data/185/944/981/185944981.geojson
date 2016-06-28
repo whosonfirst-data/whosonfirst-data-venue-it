@@ -2,13 +2,14 @@
   "id": 185944981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.607134,43.439579,13.607134,43.439579",
     "geom:latitude":43.439579,
     "geom:longitude":13.607134,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Solari 21, 60025 Loreto, An",
     "sg:city":"Loreto",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185944981,
-    "wof:lastmodified":1449007439,
+    "wof:lastmodified":1466290414,
     "wof:name":"Carilo Cassa Di Risparmio Di Loreto Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.607134,43.439579,13.607134,43.439579],
+  "bbox": [
+    13.607134,
+    43.439579,
+    13.607134,
+    43.439579
+],
   "geometry": {"coordinates":[13.607134,43.439579],"type":"Point"}
 }

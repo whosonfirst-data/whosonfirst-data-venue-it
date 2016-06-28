@@ -2,13 +2,14 @@
   "id": 269781127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.21767,39.818634,16.21767,39.818634",
     "geom:latitude":39.818634,
     "geom:longitude":16.21767,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87012 Castrovillari",
     "sg:city":"Castrovillari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269781127,
-    "wof:lastmodified":1449036595,
+    "wof:lastmodified":1466292810,
     "wof:name":"Autolinee Santoro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.21767,39.818634,16.21767,39.818634],
+  "bbox": [
+    16.21767,
+    39.818634,
+    16.21767,
+    39.818634
+],
   "geometry": {"coordinates":[16.21767,39.818634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219734535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.876589,45.409569,11.876589,45.409569",
     "geom:latitude":45.409569,
     "geom:longitude":11.876589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via A. Palladio 35019 Tombolo",
     "sg:city":"Tombolo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219734535,
-    "wof:lastmodified":1449073468,
+    "wof:lastmodified":1466293623,
     "wof:name":"B.f.c. Autotrasporti (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [11.876589,45.409569,11.876589,45.409569],
+  "bbox": [
+    11.876589,
+    45.409569,
+    11.876589,
+    45.409569
+],
   "geometry": {"coordinates":[11.876589,45.409569],"type":"Point"}
 }

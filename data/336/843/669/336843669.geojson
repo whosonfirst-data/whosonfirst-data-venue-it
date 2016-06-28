@@ -2,13 +2,14 @@
   "id": 336843669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.411399,45.66486,9.411399,45.66486",
     "geom:latitude":45.66486,
     "geom:longitude":9.411399,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"75, Via Eligio Brigatti 20050 Ronco Briantino",
     "sg:city":"Ronco Briantino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336843669,
-    "wof:lastmodified":1448997022,
+    "wof:lastmodified":1466296728,
     "wof:name":"Soitaab Impianti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.411399,45.66486,9.411399,45.66486],
+  "bbox": [
+    9.411399,
+    45.66486,
+    9.411399,
+    45.66486
+],
   "geometry": {"coordinates":[9.411399,45.66486],"type":"Point"}
 }

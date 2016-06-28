@@ -2,13 +2,14 @@
   "id": 286713029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.172718,40.354366,18.172718,40.354366",
     "geom:latitude":40.354366,
     "geom:longitude":18.172718,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Umberto I 73010 Surbo",
     "sg:city":"Surbo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286713029,
-    "wof:lastmodified":1449017819,
+    "wof:lastmodified":1466295371,
     "wof:name":"Trio Costruzioni S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [18.172718,40.354366,18.172718,40.354366],
+  "bbox": [
+    18.172718,
+    40.354366,
+    18.172718,
+    40.354366
+],
   "geometry": {"coordinates":[18.172718,40.354366],"type":"Point"}
 }

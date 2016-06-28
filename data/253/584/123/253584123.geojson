@@ -2,13 +2,14 @@
   "id": 253584123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.027024,45.39822,11.027024,45.39822",
     "geom:latitude":45.39822,
     "geom:longitude":11.027024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Monti Berici 11 37057 San Giovanni Lupatoto",
     "sg:city":"San Giovanni Lupatoto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253584123,
-    "wof:lastmodified":1449063137,
+    "wof:lastmodified":1466295748,
     "wof:name":"Confezioni Vanny S.r.l.",
     "wof:parent_id":85905053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.027024,45.39822,11.027024,45.39822],
+  "bbox": [
+    11.027024,
+    45.39822,
+    11.027024,
+    45.39822
+],
   "geometry": {"coordinates":[11.027024,45.39822],"type":"Point"}
 }

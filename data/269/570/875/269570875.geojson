@@ -2,13 +2,14 @@
   "id": 269570875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.295022,37.560169,14.295022,37.560169",
     "geom:latitude":37.560169,
     "geom:longitude":14.295022,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94100 Enna",
     "sg:city":"Enna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269570875,
-    "wof:lastmodified":1449037567,
+    "wof:lastmodified":1466289972,
     "wof:name":"Biomasse Sicilia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.295022,37.560169,14.295022,37.560169],
+  "bbox": [
+    14.295022,
+    37.560169,
+    14.295022,
+    37.560169
+],
   "geometry": {"coordinates":[14.295022,37.560169],"type":"Point"}
 }

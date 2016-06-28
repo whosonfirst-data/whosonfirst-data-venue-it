@@ -2,13 +2,14 @@
   "id": 270014439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.395475,45.990757,9.395475,45.990757",
     "geom:latitude":45.990757,
     "geom:longitude":9.395475,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 43 23813 Cortenova",
     "sg:city":"Cortenova",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270014439,
-    "wof:lastmodified":1449009834,
+    "wof:lastmodified":1466289168,
     "wof:name":"Officine Binda & Galperti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "flange"
     ]
 },
-  "bbox": [9.395475,45.990757,9.395475,45.990757],
+  "bbox": [
+    9.395475,
+    45.990757,
+    9.395475,
+    45.990757
+],
   "geometry": {"coordinates":[9.395475,45.990757],"type":"Point"}
 }

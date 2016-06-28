@@ -2,13 +2,14 @@
   "id": 303704783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.99263,45.427532,10.99263,45.427532",
     "geom:latitude":45.427532,
     "geom:longitude":10.99263,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37135 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303704783,
-    "wof:lastmodified":1448998749,
+    "wof:lastmodified":1466297523,
     "wof:name":"La Tecnica S.r.l.",
     "wof:parent_id":85905041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.99263,45.427532,10.99263,45.427532],
+  "bbox": [
+    10.99263,
+    45.427532,
+    10.99263,
+    45.427532
+],
   "geometry": {"coordinates":[10.99263,45.427532],"type":"Point"}
 }

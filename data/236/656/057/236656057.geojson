@@ -2,13 +2,14 @@
   "id": 236656057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.093338,45.433353,9.093338,45.433353",
     "geom:latitude":45.433353,
     "geom:longitude":9.093338,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via De Gasperi 20094 Corsico",
     "sg:city":"Corsico",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236656057,
-    "wof:lastmodified":1449003874,
+    "wof:lastmodified":1466295535,
     "wof:name":"Sangiorgi S.p.a.",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.093338,45.433353,9.093338,45.433353],
+  "bbox": [
+    9.093338,
+    45.433353,
+    9.093338,
+    45.433353
+],
   "geometry": {"coordinates":[9.093338,45.433353],"type":"Point"}
 }

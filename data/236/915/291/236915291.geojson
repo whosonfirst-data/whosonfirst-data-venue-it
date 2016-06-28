@@ -2,13 +2,14 @@
   "id": 236915291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.163064,45.4571,9.163064,45.4571",
     "geom:latitude":45.4571,
     "geom:longitude":9.163064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Valparaiso 20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236915291,
-    "wof:lastmodified":1449005211,
+    "wof:lastmodified":1466297118,
     "wof:name":"Fontana Ing. G. E C S.a.s.",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "handling"
     ]
 },
-  "bbox": [9.163064,45.4571,9.163064,45.4571],
+  "bbox": [
+    9.163064,
+    45.4571,
+    9.163064,
+    45.4571
+],
   "geometry": {"coordinates":[9.163064,45.4571],"type":"Point"}
 }

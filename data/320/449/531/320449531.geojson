@@ -2,13 +2,14 @@
   "id": 320449531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.089522,45.509106,9.089522,45.509106",
     "geom:latitude":45.509106,
     "geom:longitude":9.089522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20015 Parabiago",
     "sg:city":"Parabiago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320449531,
-    "wof:lastmodified":1449014681,
+    "wof:lastmodified":1466297438,
     "wof:name":"Aldo Cozzi S.a.s. Di Cozzi Aldo & C.",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.089522,45.509106,9.089522,45.509106],
+  "bbox": [
+    9.089522,
+    45.509106,
+    9.089522,
+    45.509106
+],
   "geometry": {"coordinates":[9.089522,45.509106],"type":"Point"}
 }

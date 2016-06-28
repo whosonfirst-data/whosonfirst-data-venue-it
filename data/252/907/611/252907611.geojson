@@ -2,13 +2,14 @@
   "id": 252907611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.37246,42.13063,12.37246,42.13063",
     "geom:latitude":42.13063,
     "geom:longitude":12.37246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252907611,
-    "wof:lastmodified":1449006427,
+    "wof:lastmodified":1466291113,
     "wof:name":"Atelier Lucrezia Del Greco Di Francesca Verginelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.37246,42.13063,12.37246,42.13063],
+  "bbox": [
+    12.37246,
+    42.13063,
+    12.37246,
+    42.13063
+],
   "geometry": {"coordinates":[12.37246,42.13063],"type":"Point"}
 }

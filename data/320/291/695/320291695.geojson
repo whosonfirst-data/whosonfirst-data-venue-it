@@ -2,13 +2,14 @@
   "id": 320291695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.157873,45.571217,8.157873,45.571217",
     "geom:latitude":45.571217,
     "geom:longitude":8.157873,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13852 Cerreto Castello",
     "sg:city":"Cerreto Castello",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320291695,
-    "wof:lastmodified":1449012419,
+    "wof:lastmodified":1466296813,
     "wof:name":"Pizzato Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.157873,45.571217,8.157873,45.571217],
+  "bbox": [
+    8.157873,
+    45.571217,
+    8.157873,
+    45.571217
+],
   "geometry": {"coordinates":[8.157873,45.571217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203370465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.293677,37.059948,15.293677,37.059948",
     "geom:latitude":37.059948,
     "geom:longitude":15.293677,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"96100 Siracusa",
     "sg:city":"Siracusa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203370465,
-    "wof:lastmodified":1449025979,
+    "wof:lastmodified":1466291798,
     "wof:name":"Soprintendenza Archeologica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.293677,37.059948,15.293677,37.059948],
+  "bbox": [
+    15.293677,
+    37.059948,
+    15.293677,
+    37.059948
+],
   "geometry": {"coordinates":[15.293677,37.059948],"type":"Point"}
 }

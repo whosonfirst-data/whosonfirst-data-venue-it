@@ -2,13 +2,14 @@
   "id": 253316863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.188636,45.491379,9.188636,45.491379",
     "geom:latitude":45.491379,
     "geom:longitude":9.188636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20159 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253316863,
-    "wof:lastmodified":1449064848,
+    "wof:lastmodified":1466292418,
     "wof:name":"Azienda Sanitaria Locale Citta' Di Milano",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.188636,45.491379,9.188636,45.491379],
+  "bbox": [
+    9.188636,
+    45.491379,
+    9.188636,
+    45.491379
+],
   "geometry": {"coordinates":[9.188636,45.491379],"type":"Point"}
 }

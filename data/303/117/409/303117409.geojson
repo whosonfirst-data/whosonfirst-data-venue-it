@@ -2,13 +2,14 @@
   "id": 303117409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.658656,45.009926,7.658656,45.009926",
     "geom:latitude":45.009926,
     "geom:longitude":7.658656,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303117409,
-    "wof:lastmodified":1448999775,
+    "wof:lastmodified":1466291869,
     "wof:name":"Lab. T.r.e.",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.658656,45.009926,7.658656,45.009926],
+  "bbox": [
+    7.658656,
+    45.009926,
+    7.658656,
+    45.009926
+],
   "geometry": {"coordinates":[7.658656,45.009926],"type":"Point"}
 }

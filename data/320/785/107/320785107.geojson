@@ -2,13 +2,14 @@
   "id": 320785107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.625785,44.977859,7.625785,44.977859",
     "geom:latitude":44.977859,
     "geom:longitude":7.625785,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10060 Candiolo",
     "sg:city":"Candiolo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320785107,
-    "wof:lastmodified":1449014331,
+    "wof:lastmodified":1466298141,
     "wof:name":"C.i.p. (s.p.a.)",
     "wof:parent_id":85797003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.625785,44.977859,7.625785,44.977859],
+  "bbox": [
+    7.625785,
+    44.977859,
+    7.625785,
+    44.977859
+],
   "geometry": {"coordinates":[7.625785,44.977859],"type":"Point"}
 }

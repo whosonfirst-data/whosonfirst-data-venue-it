@@ -2,13 +2,14 @@
   "id": 219885089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.45165,41.820442,12.45165,41.820442",
     "geom:latitude":41.820442,
     "geom:longitude":12.45165,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00144 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219885089,
-    "wof:lastmodified":1449072252,
+    "wof:lastmodified":1466295125,
     "wof:name":"Tekne (s.p.a)",
     "wof:parent_id":85900349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.45165,41.820442,12.45165,41.820442],
+  "bbox": [
+    12.45165,
+    41.820442,
+    12.45165,
+    41.820442
+],
   "geometry": {"coordinates":[12.45165,41.820442],"type":"Point"}
 }

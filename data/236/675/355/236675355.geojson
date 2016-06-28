@@ -2,13 +2,14 @@
   "id": 236675355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.716055,43.833344,12.716055,43.833344",
     "geom:latitude":43.833344,
     "geom:longitude":12.716055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"100, Via Del Piano 61022 Colbordolo",
     "sg:city":"Colbordolo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236675355,
-    "wof:lastmodified":1449003305,
+    "wof:lastmodified":1466295714,
     "wof:name":"Verniciatura 3p S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.716055,43.833344,12.716055,43.833344],
+  "bbox": [
+    12.716055,
+    43.833344,
+    12.716055,
+    43.833344
+],
   "geometry": {"coordinates":[12.716055,43.833344],"type":"Point"}
 }

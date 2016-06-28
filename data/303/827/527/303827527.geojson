@@ -2,13 +2,14 @@
   "id": 303827527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.504077,41.825882,12.504077,41.825882",
     "geom:latitude":41.825882,
     "geom:longitude":12.504077,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303827527,
-    "wof:lastmodified":1448998997,
+    "wof:lastmodified":1466297894,
     "wof:name":"Istituto Nazionale D'archeologia E Storia Dell'arte",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.504077,41.825882,12.504077,41.825882],
+  "bbox": [
+    12.504077,
+    41.825882,
+    12.504077,
+    41.825882
+],
   "geometry": {"coordinates":[12.504077,41.825882],"type":"Point"}
 }

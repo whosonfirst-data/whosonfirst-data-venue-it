@@ -2,13 +2,14 @@
   "id": 202408951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.90938,44.563309,10.90938,44.563309",
     "geom:latitude":44.563309,
     "geom:longitude":10.90938,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202408951,
-    "wof:lastmodified":1449060409,
+    "wof:lastmodified":1466294912,
     "wof:name":"Circolo Famas Modena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.90938,44.563309,10.90938,44.563309],
+  "bbox": [
+    10.90938,
+    44.563309,
+    10.90938,
+    44.563309
+],
   "geometry": {"coordinates":[10.90938,44.563309],"type":"Point"}
 }

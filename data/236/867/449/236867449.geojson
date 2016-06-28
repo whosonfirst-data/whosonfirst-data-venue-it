@@ -2,13 +2,14 @@
   "id": 236867449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.510665,44.694901,10.510665,44.694901",
     "geom:latitude":44.694901,
     "geom:longitude":10.510665,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via N.sauro 58/a 42020 Barco",
     "sg:classifiers":[],
     "sg:orig_category":"Glass Wool Manufacturing Installations",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236867449,
-    "wof:lastmodified":1449003015,
+    "wof:lastmodified":1466297044,
     "wof:name":"Reverberi Ivo & Franco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.510665,44.694901,10.510665,44.694901],
+  "bbox": [
+    10.510665,
+    44.694901,
+    10.510665,
+    44.694901
+],
   "geometry": {"coordinates":[10.510665,44.694901],"type":"Point"}
 }

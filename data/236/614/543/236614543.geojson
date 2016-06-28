@@ -2,13 +2,14 @@
   "id": 236614543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.318868,38.115028,13.318868,38.115028",
     "geom:latitude":38.115028,
     "geom:longitude":13.318868,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39, Via Belvedere 90135 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236614543,
-    "wof:lastmodified":1449005360,
+    "wof:lastmodified":1466295149,
     "wof:name":"London Di Micale Marcello",
     "wof:parent_id":85904839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.318868,38.115028,13.318868,38.115028],
+  "bbox": [
+    13.318868,
+    38.115028,
+    13.318868,
+    38.115028
+],
   "geometry": {"coordinates":[13.318868,38.115028],"type":"Point"}
 }

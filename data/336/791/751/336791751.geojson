@@ -2,13 +2,14 @@
   "id": 336791751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.742022,45.043694,9.742022,45.043694",
     "geom:latitude":45.043694,
     "geom:longitude":9.742022,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"132, Viale Dell' Artigianato Le Mose 29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336791751,
-    "wof:lastmodified":1448997785,
+    "wof:lastmodified":1466296022,
     "wof:name":"Tecnopails (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.742022,45.043694,9.742022,45.043694],
+  "bbox": [
+    9.742022,
+    45.043694,
+    9.742022,
+    45.043694
+],
   "geometry": {"coordinates":[9.742022,45.043694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336960705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.107656,39.217815,9.107656,39.217815",
     "geom:latitude":39.217815,
     "geom:longitude":9.107656,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09048 Sinnai",
     "sg:city":"Sinnai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336960705,
-    "wof:lastmodified":1448997704,
+    "wof:lastmodified":1466297231,
     "wof:name":"Mariani Cristiano",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.107656,39.217815,9.107656,39.217815],
+  "bbox": [
+    9.107656,
+    39.217815,
+    9.107656,
+    39.217815
+],
   "geometry": {"coordinates":[9.107656,39.217815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185621653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.911417,42.549118,11.911417,42.549118",
     "geom:latitude":42.549118,
     "geom:longitude":11.911417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 41; Capodimonte",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185621653,
-    "wof:lastmodified":1449008031,
+    "wof:lastmodified":1466294103,
     "wof:name":"Banca Del Cimino Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.911417,42.549118,11.911417,42.549118],
+  "bbox": [
+    11.911417,
+    42.549118,
+    11.911417,
+    42.549118
+],
   "geometry": {"coordinates":[11.911417,42.549118],"type":"Point"}
 }

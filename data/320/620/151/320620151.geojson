@@ -2,13 +2,14 @@
   "id": 320620151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.209116,43.705177,13.209116,43.705177",
     "geom:latitude":43.705177,
     "geom:longitude":13.209116,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60019 Senigallia",
     "sg:city":"Senigallia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320620151,
-    "wof:lastmodified":1449014638,
+    "wof:lastmodified":1466297718,
     "wof:name":"Bigelli Marmi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "marble"
     ]
 },
-  "bbox": [13.209116,43.705177,13.209116,43.705177],
+  "bbox": [
+    13.209116,
+    43.705177,
+    13.209116,
+    43.705177
+],
   "geometry": {"coordinates":[13.209116,43.705177],"type":"Point"}
 }

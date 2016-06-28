@@ -2,13 +2,14 @@
   "id": 286711645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.115387,46.092094,11.115387,46.092094",
     "geom:latitude":46.092094,
     "geom:longitude":11.115387,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"316, Via Del Brennero 38100 Trento",
     "sg:city":"Trento",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286711645,
-    "wof:lastmodified":1449017580,
+    "wof:lastmodified":1466295354,
     "wof:name":"Stradasfalti (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [11.115387,46.092094,11.115387,46.092094],
+  "bbox": [
+    11.115387,
+    46.092094,
+    11.115387,
+    46.092094
+],
   "geometry": {"coordinates":[11.115387,46.092094],"type":"Point"}
 }

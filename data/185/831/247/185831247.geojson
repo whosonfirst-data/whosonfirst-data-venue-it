@@ -2,13 +2,14 @@
   "id": 185831247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.557402,38.185013,15.557402,38.185013",
     "geom:latitude":38.185013,
     "geom:longitude":15.557402,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nicola Fabrizi 24; Messina; 98123",
     "sg:city":"Messina",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185831247,
-    "wof:lastmodified":1449007557,
+    "wof:lastmodified":1466289484,
     "wof:name":"Banca Popolare Santa Venera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.557402,38.185013,15.557402,38.185013],
+  "bbox": [
+    15.557402,
+    38.185013,
+    15.557402,
+    38.185013
+],
   "geometry": {"coordinates":[15.557402,38.185013],"type":"Point"}
 }

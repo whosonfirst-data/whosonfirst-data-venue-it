@@ -2,13 +2,14 @@
   "id": 203019185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.244058,45.687584,12.244058,45.687584",
     "geom:latitude":45.687584,
     "geom:longitude":12.244058,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31030 Covolo Di Piave",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Agricoltura E Zootecnia. Servizi E Lavori Industria Chimica. Servizi Ausiliari Di Analisi, Controllo E Ricerca",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203019185,
-    "wof:lastmodified":1449026038,
+    "wof:lastmodified":1466294265,
     "wof:name":"Buratto Advanced Technology Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.244058,45.687584,12.244058,45.687584],
+  "bbox": [
+    12.244058,
+    45.687584,
+    12.244058,
+    45.687584
+],
   "geometry": {"coordinates":[12.244058,45.687584],"type":"Point"}
 }

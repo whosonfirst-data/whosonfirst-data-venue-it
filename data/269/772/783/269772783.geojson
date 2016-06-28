@@ -2,13 +2,14 @@
   "id": 269772783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.508414,43.616444,13.508414,43.616444",
     "geom:latitude":43.616444,
     "geom:longitude":13.508414,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60122 Ancona",
     "sg:city":"Ancona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269772783,
-    "wof:lastmodified":1449037215,
+    "wof:lastmodified":1466292705,
     "wof:name":"Archibugi Alessandro & Figlio Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.508414,43.616444,13.508414,43.616444],
+  "bbox": [
+    13.508414,
+    43.616444,
+    13.508414,
+    43.616444
+],
   "geometry": {"coordinates":[13.508414,43.616444],"type":"Point"}
 }

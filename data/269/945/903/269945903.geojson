@@ -2,13 +2,14 @@
   "id": 269945903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.116889,44.469223,9.116889,44.469223",
     "geom:latitude":44.469223,
     "geom:longitude":9.116889,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16022 Davagna",
     "sg:city":"Davagna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269945903,
-    "wof:lastmodified":1449036344,
+    "wof:lastmodified":1466294664,
     "wof:name":"Colonia Del Piccolo Cottolengo Di Genova",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.116889,44.469223,9.116889,44.469223],
+  "bbox": [
+    9.116889,
+    44.469223,
+    9.116889,
+    44.469223
+],
   "geometry": {"coordinates":[9.116889,44.469223],"type":"Point"}
 }

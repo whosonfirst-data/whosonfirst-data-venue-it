@@ -2,13 +2,14 @@
   "id": 336741783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.50585,45.730309,9.50585,45.730309",
     "geom:latitude":45.730309,
     "geom:longitude":9.50585,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"226, Via Convento 24030 Pontida",
     "sg:city":"Pontida",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336741783,
-    "wof:lastmodified":1448996970,
+    "wof:lastmodified":1466295414,
     "wof:name":"Officine Meccaniche Pontida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.50585,45.730309,9.50585,45.730309],
+  "bbox": [
+    9.50585,
+    45.730309,
+    9.50585,
+    45.730309
+],
   "geometry": {"coordinates":[9.50585,45.730309],"type":"Point"}
 }

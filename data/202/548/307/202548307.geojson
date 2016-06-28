@@ -2,13 +2,14 @@
   "id": 202548307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.820231,44.391563,11.820231,44.391563",
     "geom:latitude":44.391563,
     "geom:longitude":11.820231,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48010 Bagnara Di Romagna",
     "sg:city":"Bagnara di Romagna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202548307,
-    "wof:lastmodified":1449061842,
+    "wof:lastmodified":1466289415,
     "wof:name":"Ponzi Ingressi Automatici Infissi Metallici",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.820231,44.391563,11.820231,44.391563],
+  "bbox": [
+    11.820231,
+    44.391563,
+    11.820231,
+    44.391563
+],
   "geometry": {"coordinates":[11.820231,44.391563],"type":"Point"}
 }

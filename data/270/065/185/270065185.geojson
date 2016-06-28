@@ -2,13 +2,14 @@
   "id": 270065185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.861975,41.109039,16.861975,41.109039",
     "geom:latitude":41.109039,
     "geom:longitude":16.861975,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70031 Andria",
     "sg:city":"Andria",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270065185,
-    "wof:lastmodified":1449011105,
+    "wof:lastmodified":1466289758,
     "wof:name":"Guglielmi Riccardo",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.861975,41.109039,16.861975,41.109039],
+  "bbox": [
+    16.861975,
+    41.109039,
+    16.861975,
+    41.109039
+],
   "geometry": {"coordinates":[16.861975,41.109039],"type":"Point"}
 }

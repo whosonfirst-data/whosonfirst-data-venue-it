@@ -2,13 +2,14 @@
   "id": 236041919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.989666,43.813984,12.989666,43.813984",
     "geom:latitude":43.813984,
     "geom:longitude":12.989666,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Avogadro, 20 - Rosciano 61032 Fano",
     "sg:city":"Fano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236041919,
-    "wof:lastmodified":1449002715,
+    "wof:lastmodified":1466289318,
     "wof:name":"Mobilplast Line Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mannequin"
     ]
 },
-  "bbox": [12.989666,43.813984,12.989666,43.813984],
+  "bbox": [
+    12.989666,
+    43.813984,
+    12.989666,
+    43.813984
+],
   "geometry": {"coordinates":[12.989666,43.813984],"type":"Point"}
 }

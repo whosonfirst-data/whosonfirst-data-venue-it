@@ -2,13 +2,14 @@
   "id": 185601755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.558407,41.129398,16.558407,41.129398",
     "geom:latitude":41.129398,
     "geom:longitude":16.558407,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Lg. Plebiscito, 8; Terlizzi; 70038",
     "sg:city":"Terlizzi",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185601755,
-    "wof:lastmodified":1449007333,
+    "wof:lastmodified":1466288902,
     "wof:name":"Banca Cattolica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.558407,41.129398,16.558407,41.129398],
+  "bbox": [
+    16.558407,
+    41.129398,
+    16.558407,
+    41.129398
+],
   "geometry": {"coordinates":[16.558407,41.129398],"type":"Point"}
 }

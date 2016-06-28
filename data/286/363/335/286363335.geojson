@@ -2,13 +2,14 @@
   "id": 286363335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.126246,39.208622,9.126246,39.208622",
     "geom:latitude":39.208622,
     "geom:longitude":9.126246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09125 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286363335,
-    "wof:lastmodified":1449017747,
+    "wof:lastmodified":1466290886,
     "wof:name":"Medilent Di Medinas P. Snc",
     "wof:parent_id":85862617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.126246,39.208622,9.126246,39.208622],
+  "bbox": [
+    9.126246,
+    39.208622,
+    9.126246,
+    39.208622
+],
   "geometry": {"coordinates":[9.126246,39.208622],"type":"Point"}
 }

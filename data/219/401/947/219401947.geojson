@@ -2,13 +2,14 @@
   "id": 219401947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.085018,45.441177,12.085018,45.441177",
     "geom:latitude":45.441177,
     "geom:longitude":12.085018,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Molinella 68 30030 Cazzago Di Pianiga",
     "sg:city":"Cazzago",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219401947,
-    "wof:lastmodified":1449073389,
+    "wof:lastmodified":1466290361,
     "wof:name":"Co.ma.tess S.n.c. Dei F.lli Lazzarin Adriano Andrea & Giulio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "yarn"
     ]
 },
-  "bbox": [12.085018,45.441177,12.085018,45.441177],
+  "bbox": [
+    12.085018,
+    45.441177,
+    12.085018,
+    45.441177
+],
   "geometry": {"coordinates":[12.085018,45.441177],"type":"Point"}
 }

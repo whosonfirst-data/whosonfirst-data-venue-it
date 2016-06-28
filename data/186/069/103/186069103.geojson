@@ -2,13 +2,14 @@
   "id": 186069103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.848524,40.83046,14.848524,40.83046",
     "geom:latitude":40.83046,
     "geom:longitude":14.848524,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Felice De Stefano 25; Solofra; 83029",
     "sg:city":"Solofra",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186069103,
-    "wof:lastmodified":1449052065,
+    "wof:lastmodified":1466296320,
     "wof:name":"Credito Commerciale Tirreno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.848524,40.83046,14.848524,40.83046],
+  "bbox": [
+    14.848524,
+    40.83046,
+    14.848524,
+    40.83046
+],
   "geometry": {"coordinates":[14.848524,40.83046],"type":"Point"}
 }

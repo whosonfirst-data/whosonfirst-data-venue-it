@@ -2,13 +2,14 @@
   "id": 253089365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.482123,41.900082,12.482123,41.900082",
     "geom:latitude":41.900082,
     "geom:longitude":12.482123,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253089365,
-    "wof:lastmodified":1449063413,
+    "wof:lastmodified":1466289865,
     "wof:name":"Vigano' Fratelli",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.482123,41.900082,12.482123,41.900082],
+  "bbox": [
+    12.482123,
+    41.900082,
+    12.482123,
+    41.900082
+],
   "geometry": {"coordinates":[12.482123,41.900082],"type":"Point"}
 }

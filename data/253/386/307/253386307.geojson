@@ -2,13 +2,14 @@
   "id": 253386307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.234176,45.489994,9.234176,45.489994",
     "geom:latitude":45.489994,
     "geom:longitude":9.234176,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Pordenone 20132 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253386307,
-    "wof:lastmodified":1449064375,
+    "wof:lastmodified":1466293252,
     "wof:name":"Il Nuovo Supermercato Del Legnosrl",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [9.234176,45.489994,9.234176,45.489994],
+  "bbox": [
+    9.234176,
+    45.489994,
+    9.234176,
+    45.489994
+],
   "geometry": {"coordinates":[9.234176,45.489994],"type":"Point"}
 }

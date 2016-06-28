@@ -2,13 +2,14 @@
   "id": 236311015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.421935,46.053104,9.421935,46.053104",
     "geom:latitude":46.053104,
     "geom:longitude":9.421935,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23834 Premana",
     "sg:city":"Premana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236311015,
-    "wof:lastmodified":1449002260,
+    "wof:lastmodified":1466292052,
     "wof:name":"Gjdan Di Gianola Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.421935,46.053104,9.421935,46.053104],
+  "bbox": [
+    9.421935,
+    46.053104,
+    9.421935,
+    46.053104
+],
   "geometry": {"coordinates":[9.421935,46.053104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252886861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.974914,44.403442,8.974914,44.403442",
     "geom:latitude":44.403442,
     "geom:longitude":8.974914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16131 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252886861,
-    "wof:lastmodified":1449006020,
+    "wof:lastmodified":1466290884,
     "wof:name":"Inspira Cao Brasileira",
     "wof:parent_id":85796985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.974914,44.403442,8.974914,44.403442],
+  "bbox": [
+    8.974914,
+    44.403442,
+    8.974914,
+    44.403442
+],
   "geometry": {"coordinates":[8.974914,44.403442],"type":"Point"}
 }

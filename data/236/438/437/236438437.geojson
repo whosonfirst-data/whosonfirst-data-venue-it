@@ -2,13 +2,14 @@
   "id": 236438437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.49225,44.679329,11.49225,44.679329",
     "geom:latitude":44.679329,
     "geom:longitude":11.49225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, V. Del Palazzino 40051 Altedo",
     "sg:city":"Altedo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236438437,
-    "wof:lastmodified":1449002627,
+    "wof:lastmodified":1466293390,
     "wof:name":"Ga.ma Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instrument"
     ]
 },
-  "bbox": [11.49225,44.679329,11.49225,44.679329],
+  "bbox": [
+    11.49225,
+    44.679329,
+    11.49225,
+    44.679329
+],
   "geometry": {"coordinates":[11.49225,44.679329],"type":"Point"}
 }

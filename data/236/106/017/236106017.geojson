@@ -2,13 +2,14 @@
   "id": 236106017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.749331,45.017475,7.749331,45.017475",
     "geom:latitude":45.017475,
     "geom:longitude":7.749331,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10020 Pecetto Torinese",
     "sg:city":"Pecetto Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236106017,
-    "wof:lastmodified":1449001643,
+    "wof:lastmodified":1466289960,
     "wof:name":"Pasticceria Caffetteria Augusto",
     "wof:parent_id":85796977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.749331,45.017475,7.749331,45.017475],
+  "bbox": [
+    7.749331,
+    45.017475,
+    7.749331,
+    45.017475
+],
   "geometry": {"coordinates":[7.749331,45.017475],"type":"Point"}
 }

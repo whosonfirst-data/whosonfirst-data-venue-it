@@ -2,13 +2,14 @@
   "id": 202513807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.659397,45.64946,9.659397,45.64946",
     "geom:latitude":45.64946,
     "geom:longitude":9.659397,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24040 Stezzano",
     "sg:city":"Stezzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202513807,
-    "wof:lastmodified":1449061765,
+    "wof:lastmodified":1466289106,
     "wof:name":"Edil Vetraria Idraulica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.659397,45.64946,9.659397,45.64946],
+  "bbox": [
+    9.659397,
+    45.64946,
+    9.659397,
+    45.64946
+],
   "geometry": {"coordinates":[9.659397,45.64946],"type":"Point"}
 }

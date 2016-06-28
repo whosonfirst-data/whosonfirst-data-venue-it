@@ -2,13 +2,14 @@
   "id": 186548487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.875529,45.863911,10.875529,45.863911",
     "geom:latitude":45.863911,
     "geom:longitude":10.875529,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Corso Italia 37016 Garda",
     "sg:city":"Garda",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186548487,
-    "wof:lastmodified":1449052222,
+    "wof:lastmodified":1466292775,
     "wof:name":"Hotel Bisesti (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [10.875529,45.863911,10.875529,45.863911],
+  "bbox": [
+    10.875529,
+    45.863911,
+    10.875529,
+    45.863911
+],
   "geometry": {"coordinates":[10.875529,45.863911],"type":"Point"}
 }

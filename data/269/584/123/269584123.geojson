@@ -2,13 +2,14 @@
   "id": 269584123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.056003,45.602718,8.056003,45.602718",
     "geom:latitude":45.602718,
     "geom:longitude":8.056003,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13811 Andorno Micca",
     "sg:city":"Andorno Micca",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269584123,
-    "wof:lastmodified":1449036403,
+    "wof:lastmodified":1466290136,
     "wof:name":"Hobby Center Di T.r.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.056003,45.602718,8.056003,45.602718],
+  "bbox": [
+    8.056003,
+    45.602718,
+    8.056003,
+    45.602718
+],
   "geometry": {"coordinates":[8.056003,45.602718],"type":"Point"}
 }

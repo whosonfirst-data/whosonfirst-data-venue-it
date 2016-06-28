@@ -2,13 +2,14 @@
   "id": 236247937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.503804,42.151325,12.503804,42.151325",
     "geom:latitude":42.151325,
     "geom:longitude":12.503804,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00067 Morlupo",
     "sg:city":"Morlupo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236247937,
-    "wof:lastmodified":1449003604,
+    "wof:lastmodified":1466291395,
     "wof:name":"Art Glass Di Fattori Aldo Aldo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.503804,42.151325,12.503804,42.151325],
+  "bbox": [
+    12.503804,
+    42.151325,
+    12.503804,
+    42.151325
+],
   "geometry": {"coordinates":[12.503804,42.151325],"type":"Point"}
 }

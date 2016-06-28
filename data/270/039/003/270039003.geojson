@@ -2,13 +2,14 @@
   "id": 270039003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.952722,44.403355,8.952722,44.403355",
     "geom:latitude":44.403355,
     "geom:longitude":8.952722,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16129 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270039003,
-    "wof:lastmodified":1449010786,
+    "wof:lastmodified":1466289451,
     "wof:name":"Or.m.u. Snc",
     "wof:parent_id":85862649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.952722,44.403355,8.952722,44.403355],
+  "bbox": [
+    8.952722,
+    44.403355,
+    8.952722,
+    44.403355
+],
   "geometry": {"coordinates":[8.952722,44.403355],"type":"Point"}
 }

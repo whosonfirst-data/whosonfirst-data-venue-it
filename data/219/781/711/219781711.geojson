@@ -2,13 +2,14 @@
   "id": 219781711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.835899,43.459713,11.835899,43.459713",
     "geom:latitude":43.459713,
     "geom:longitude":11.835899,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piero Gobetti 64 52100 Arezzo",
     "sg:city":"Arezzo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219781711,
-    "wof:lastmodified":1449071057,
+    "wof:lastmodified":1466294095,
     "wof:name":"Caffe River Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roasted"
     ]
 },
-  "bbox": [11.835899,43.459713,11.835899,43.459713],
+  "bbox": [
+    11.835899,
+    43.459713,
+    11.835899,
+    43.459713
+],
   "geometry": {"coordinates":[11.835899,43.459713],"type":"Point"}
 }

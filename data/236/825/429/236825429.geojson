@@ -2,13 +2,14 @@
   "id": 236825429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.886862,44.122734,11.886862,44.122734",
     "geom:latitude":44.122734,
     "geom:longitude":11.886862,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47013 Dovadola",
     "sg:city":"Dovadola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236825429,
-    "wof:lastmodified":1449001775,
+    "wof:lastmodified":1466296679,
     "wof:name":"Savini Luigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.886862,44.122734,11.886862,44.122734],
+  "bbox": [
+    11.886862,
+    44.122734,
+    11.886862,
+    44.122734
+],
   "geometry": {"coordinates":[11.886862,44.122734],"type":"Point"}
 }

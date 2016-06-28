@@ -2,13 +2,14 @@
   "id": 320035811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.34235,46.704617,12.34235,46.704617",
     "geom:latitude":46.704617,
     "geom:longitude":12.34235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39030 Sesto",
     "sg:city":"Sesto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320035811,
-    "wof:lastmodified":1449014249,
+    "wof:lastmodified":1466293842,
     "wof:name":"Stauder Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.34235,46.704617,12.34235,46.704617],
+  "bbox": [
+    12.34235,
+    46.704617,
+    12.34235,
+    46.704617
+],
   "geometry": {"coordinates":[12.34235,46.704617],"type":"Point"}
 }

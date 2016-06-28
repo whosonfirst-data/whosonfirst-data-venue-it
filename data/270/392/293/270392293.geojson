@@ -2,13 +2,14 @@
   "id": 270392293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.770382,45.291771,9.770382,45.291771",
     "geom:latitude":45.291771,
     "geom:longitude":9.770382,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26012 Castelleone",
     "sg:city":"Castelleone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270392293,
-    "wof:lastmodified":1449010578,
+    "wof:lastmodified":1466293774,
     "wof:name":"Solarium Estetica Lusama Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.770382,45.291771,9.770382,45.291771],
+  "bbox": [
+    9.770382,
+    45.291771,
+    9.770382,
+    45.291771
+],
   "geometry": {"coordinates":[9.770382,45.291771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286995023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.088086,37.523521,15.088086,37.523521",
     "geom:latitude":37.523521,
     "geom:longitude":15.088086,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Torino 95045 Misterbianco",
     "sg:city":"Misterbianco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286995023,
-    "wof:lastmodified":1449017775,
+    "wof:lastmodified":1466297448,
     "wof:name":"Canto Salvatore",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [15.088086,37.523521,15.088086,37.523521],
+  "bbox": [
+    15.088086,
+    37.523521,
+    15.088086,
+    37.523521
+],
   "geometry": {"coordinates":[15.088086,37.523521],"type":"Point"}
 }

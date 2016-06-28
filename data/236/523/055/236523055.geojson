@@ -2,13 +2,14 @@
   "id": 236523055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.046875,43.131393,12.046875,43.131393",
     "geom:latitude":43.131393,
     "geom:longitude":12.046875,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06061 Castiglione Del Lago",
     "sg:city":"Castiglione del Lago",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236523055,
-    "wof:lastmodified":1449003569,
+    "wof:lastmodified":1466294298,
     "wof:name":"Residence Ranieri Di Mencaroni Vittoria Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "facility"
     ]
 },
-  "bbox": [12.046875,43.131393,12.046875,43.131393],
+  "bbox": [
+    12.046875,
+    43.131393,
+    12.046875,
+    43.131393
+],
   "geometry": {"coordinates":[12.046875,43.131393],"type":"Point"}
 }

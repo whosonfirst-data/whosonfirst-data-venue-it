@@ -2,13 +2,14 @@
   "id": 185668435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.672533,40.944633,15.672533,40.944633",
     "geom:latitude":40.944633,
     "geom:longitude":15.672533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Nazionale, 91; Barile; 85022",
     "sg:city":"Barile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185668435,
-    "wof:lastmodified":1449007716,
+    "wof:lastmodified":1466295240,
     "wof:name":"Banca Di Lucania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.672533,40.944633,15.672533,40.944633],
+  "bbox": [
+    15.672533,
+    40.944633,
+    15.672533,
+    40.944633
+],
   "geometry": {"coordinates":[15.672533,40.944633],"type":"Point"}
 }

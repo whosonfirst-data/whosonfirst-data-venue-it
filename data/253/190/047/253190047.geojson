@@ -2,13 +2,14 @@
   "id": 253190047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.674424,45.094482,7.674424,45.094482",
     "geom:latitude":45.094482,
     "geom:longitude":7.674424,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Stradella 74 10147 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253190047,
-    "wof:lastmodified":1449065601,
+    "wof:lastmodified":1466290887,
     "wof:name":"Francesco Boglione Snc",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wood"
     ]
 },
-  "bbox": [7.674424,45.094482,7.674424,45.094482],
+  "bbox": [
+    7.674424,
+    45.094482,
+    7.674424,
+    45.094482
+],
   "geometry": {"coordinates":[7.674424,45.094482],"type":"Point"}
 }

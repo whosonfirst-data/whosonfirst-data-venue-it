@@ -2,13 +2,14 @@
   "id": 320692079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.205583,43.828621,11.205583,43.828621",
     "geom:latitude":43.828621,
     "geom:longitude":11.205583,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50019 Sesto Fiorentino",
     "sg:city":"Sesto Fiorentino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320692079,
-    "wof:lastmodified":1449012250,
+    "wof:lastmodified":1466297991,
     "wof:name":"Guerani Andrea",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.205583,43.828621,11.205583,43.828621],
+  "bbox": [
+    11.205583,
+    43.828621,
+    11.205583,
+    43.828621
+],
   "geometry": {"coordinates":[11.205583,43.828621],"type":"Point"}
 }

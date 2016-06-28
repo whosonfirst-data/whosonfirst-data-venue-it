@@ -2,13 +2,14 @@
   "id": 186571469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.696866,45.245987,7.696866,45.245987",
     "geom:latitude":45.245987,
     "geom:longitude":7.696866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Viale Boscoverde 10040 Rivarossa",
     "sg:city":"Rivarossa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186571469,
-    "wof:lastmodified":1449052203,
+    "wof:lastmodified":1466292996,
     "wof:name":"Residence Boscoverde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [7.696866,45.245987,7.696866,45.245987],
+  "bbox": [
+    7.696866,
+    45.245987,
+    7.696866,
+    45.245987
+],
   "geometry": {"coordinates":[7.696866,45.245987],"type":"Point"}
 }

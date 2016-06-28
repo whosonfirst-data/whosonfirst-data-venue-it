@@ -2,13 +2,14 @@
   "id": 287232501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228714,45.529385,9.228714,45.529385",
     "geom:latitude":45.529385,
     "geom:longitude":9.228714,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97, Via Buozzi Bruno 20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287232501,
-    "wof:lastmodified":1449000942,
+    "wof:lastmodified":1466292701,
     "wof:name":"Ingel S.r.l.",
     "wof:parent_id":85862735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.228714,45.529385,9.228714,45.529385],
+  "bbox": [
+    9.228714,
+    45.529385,
+    9.228714,
+    45.529385
+],
   "geometry": {"coordinates":[9.228714,45.529385],"type":"Point"}
 }

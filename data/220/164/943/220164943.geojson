@@ -2,13 +2,14 @@
   "id": 220164943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.538417,45.068199,7.538417,45.068199",
     "geom:latitude":45.068199,
     "geom:longitude":7.538417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64/2, Via Macario Fratelli 10098 Rivoli",
     "sg:city":"Rivoli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220164943,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466289225,
     "wof:name":"Vela Informatics Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "technology"
     ]
 },
-  "bbox": [7.538417,45.068199,7.538417,45.068199],
+  "bbox": [
+    7.538417,
+    45.068199,
+    7.538417,
+    45.068199
+],
   "geometry": {"coordinates":[7.538417,45.068199],"type":"Point"}
 }

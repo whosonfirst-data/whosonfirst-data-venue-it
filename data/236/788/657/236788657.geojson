@@ -2,13 +2,14 @@
   "id": 236788657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.526389,45.575279,11.526389,45.575279",
     "geom:latitude":45.575279,
     "geom:longitude":11.526389,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"303, Strada Padana Verso Verona 36100 Vicenza",
     "sg:city":"Vicenza",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236788657,
-    "wof:lastmodified":1449003334,
+    "wof:lastmodified":1466296653,
     "wof:name":"Pubbli-citta'(s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.526389,45.575279,11.526389,45.575279],
+  "bbox": [
+    11.526389,
+    45.575279,
+    11.526389,
+    45.575279
+],
   "geometry": {"coordinates":[11.526389,45.575279],"type":"Point"}
 }

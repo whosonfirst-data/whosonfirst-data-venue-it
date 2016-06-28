@@ -2,13 +2,14 @@
   "id": 303502789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.660347,45.042747,7.660347,45.042747",
     "geom:latitude":45.042747,
     "geom:longitude":7.660347,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10134 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303502789,
-    "wof:lastmodified":1448999240,
+    "wof:lastmodified":1466296599,
     "wof:name":"Fluido Dinamica Torino (s.n.c.)",
     "wof:parent_id":85796879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.660347,45.042747,7.660347,45.042747],
+  "bbox": [
+    7.660347,
+    45.042747,
+    7.660347,
+    45.042747
+],
   "geometry": {"coordinates":[7.660347,45.042747],"type":"Point"}
 }

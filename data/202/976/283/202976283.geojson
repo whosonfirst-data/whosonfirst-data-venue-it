@@ -2,13 +2,14 @@
   "id": 202976283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.251725,45.523148,9.251725,45.523148",
     "geom:latitude":45.523148,
     "geom:longitude":9.251725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202976283,
-    "wof:lastmodified":1449061162,
+    "wof:lastmodified":1466293968,
     "wof:name":"Consorzio Sistema Bibliotecario Nord-ovest",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.251725,45.523148,9.251725,45.523148],
+  "bbox": [
+    9.251725,
+    45.523148,
+    9.251725,
+    45.523148
+],
   "geometry": {"coordinates":[9.251725,45.523148],"type":"Point"}
 }

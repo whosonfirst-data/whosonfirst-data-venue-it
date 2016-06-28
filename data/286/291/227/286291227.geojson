@@ -2,13 +2,14 @@
   "id": 286291227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.123796,39.238018,9.123796,39.238018",
     "geom:latitude":39.238018,
     "geom:longitude":9.123796,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5/7, Via Calamattia 09134 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286291227,
-    "wof:lastmodified":1449016094,
+    "wof:lastmodified":1466289820,
     "wof:name":"Brugnoli Dr. Augusto & C. S.r.l.",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.123796,39.238018,9.123796,39.238018],
+  "bbox": [
+    9.123796,
+    39.238018,
+    9.123796,
+    39.238018
+],
   "geometry": {"coordinates":[9.123796,39.238018],"type":"Point"}
 }

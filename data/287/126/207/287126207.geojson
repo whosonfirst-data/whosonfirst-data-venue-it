@@ -2,13 +2,14 @@
   "id": 287126207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.303743,45.439217,9.303743,45.439217",
     "geom:latitude":45.439217,
     "geom:longitude":9.303743,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20068 Peschiera Borromeo",
     "sg:city":"Peschiera Borromeo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287126207,
-    "wof:lastmodified":1449000995,
+    "wof:lastmodified":1466291280,
     "wof:name":"Morale Vincenzo Di Morale Oliviero",
     "wof:parent_id":85935827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.303743,45.439217,9.303743,45.439217],
+  "bbox": [
+    9.303743,
+    45.439217,
+    9.303743,
+    45.439217
+],
   "geometry": {"coordinates":[9.303743,45.439217],"type":"Point"}
 }

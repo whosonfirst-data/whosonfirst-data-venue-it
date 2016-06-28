@@ -2,13 +2,14 @@
   "id": 270421421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.777562,44.653923,10.777562,44.653923",
     "geom:latitude":44.653923,
     "geom:longitude":10.777562,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Volta 7 42013 Casalgrande",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270421421,
-    "wof:lastmodified":1449010218,
+    "wof:lastmodified":1466294156,
     "wof:name":"Ceramiche Epoca Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ceramic"
     ]
 },
-  "bbox": [10.777562,44.653923,10.777562,44.653923],
+  "bbox": [
+    10.777562,
+    44.653923,
+    10.777562,
+    44.653923
+],
   "geometry": {"coordinates":[10.777562,44.653923],"type":"Point"}
 }

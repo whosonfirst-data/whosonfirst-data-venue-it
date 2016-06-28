@@ -2,13 +2,14 @@
   "id": 203247559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.78809,45.687065,13.78809,45.687065",
     "geom:latitude":45.687065,
     "geom:longitude":13.78809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34016 Trieste",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Edilizia E Lavori Pubblici. Servizi E Lavori Per Ecologia E Smaltimento Rifiuti",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203247559,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466290338,
     "wof:name":"Danev Dragotin",
     "wof:parent_id":85904953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.78809,45.687065,13.78809,45.687065],
+  "bbox": [
+    13.78809,
+    45.687065,
+    13.78809,
+    45.687065
+],
   "geometry": {"coordinates":[13.78809,45.687065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220164691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.997757,45.133369,9.997757,45.133369",
     "geom:latitude":45.133369,
     "geom:longitude":9.997757,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Eridano 26100 Cremona",
     "sg:city":"Cremona",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220164691,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466289222,
     "wof:name":"Tecnicomp Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "technology"
     ]
 },
-  "bbox": [9.997757,45.133369,9.997757,45.133369],
+  "bbox": [
+    9.997757,
+    45.133369,
+    9.997757,
+    45.133369
+],
   "geometry": {"coordinates":[9.997757,45.133369],"type":"Point"}
 }

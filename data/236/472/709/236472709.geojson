@@ -2,13 +2,14 @@
   "id": 236472709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.721618,45.159462,7.721618,45.159462",
     "geom:latitude":45.159462,
     "geom:longitude":7.721618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Fornacino 87/c 10040 Leini'",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236472709,
-    "wof:lastmodified":1449001868,
+    "wof:lastmodified":1466293754,
     "wof:name":"Omnia Termoair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heater"
     ]
 },
-  "bbox": [7.721618,45.159462,7.721618,45.159462],
+  "bbox": [
+    7.721618,
+    45.159462,
+    7.721618,
+    45.159462
+],
   "geometry": {"coordinates":[7.721618,45.159462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219794455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.669843,44.991734,7.669843,44.991734",
     "geom:latitude":44.991734,
     "geom:longitude":7.669843,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Carignano, 46/10 10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219794455,
-    "wof:lastmodified":1449072090,
+    "wof:lastmodified":1466294222,
     "wof:name":"Bottino Girardi & C. Snc",
     "wof:parent_id":85797007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.669843,44.991734,7.669843,44.991734],
+  "bbox": [
+    7.669843,
+    44.991734,
+    7.669843,
+    44.991734
+],
   "geometry": {"coordinates":[7.669843,44.991734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269581567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.830914,40.917835,14.830914,40.917835",
     "geom:latitude":40.917835,
     "geom:longitude":14.830914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83042 Atripalda",
     "sg:city":"Atripalda",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269581567,
-    "wof:lastmodified":1449036658,
+    "wof:lastmodified":1466290105,
     "wof:name":"Fomus Sas Di Viscido Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.830914,40.917835,14.830914,40.917835],
+  "bbox": [
+    14.830914,
+    40.917835,
+    14.830914,
+    40.917835
+],
   "geometry": {"coordinates":[14.830914,40.917835],"type":"Point"}
 }

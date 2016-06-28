@@ -2,13 +2,14 @@
   "id": 269597843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.130711,45.467842,9.130711,45.467842",
     "geom:latitude":45.467842,
     "geom:longitude":9.130711,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20060 Mediglia",
     "sg:city":"Mediglia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269597843,
-    "wof:lastmodified":1449038918,
+    "wof:lastmodified":1466290295,
     "wof:name":"Timberhansa Di Christian Rabensteiner & C. (s.a.s.)",
     "wof:parent_id":85796899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.130711,45.467842,9.130711,45.467842],
+  "bbox": [
+    9.130711,
+    45.467842,
+    9.130711,
+    45.467842
+],
   "geometry": {"coordinates":[9.130711,45.467842],"type":"Point"}
 }

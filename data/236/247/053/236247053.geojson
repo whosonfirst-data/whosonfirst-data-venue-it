@@ -2,13 +2,14 @@
   "id": 236247053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.409667,41.961357,12.409667,41.961357",
     "geom:latitude":41.961357,
     "geom:longitude":12.409667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00135 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236247053,
-    "wof:lastmodified":1449003604,
+    "wof:lastmodified":1466291388,
     "wof:name":"Arredocucina Di Turini Cinzia & C. Snc",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.409667,41.961357,12.409667,41.961357],
+  "bbox": [
+    12.409667,
+    41.961357,
+    12.409667,
+    41.961357
+],
   "geometry": {"coordinates":[12.409667,41.961357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203004247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.048071,37.507347,15.048071,37.507347",
     "geom:latitude":37.507347,
     "geom:longitude":15.048071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95030 Pedara",
     "sg:city":"Pedara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203004247,
-    "wof:lastmodified":1449025607,
+    "wof:lastmodified":1466289569,
     "wof:name":"Sapienza Giovanni",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.048071,37.507347,15.048071,37.507347],
+  "bbox": [
+    15.048071,
+    37.507347,
+    15.048071,
+    37.507347
+],
   "geometry": {"coordinates":[15.048071,37.507347],"type":"Point"}
 }

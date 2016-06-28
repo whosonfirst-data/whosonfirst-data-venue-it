@@ -2,13 +2,14 @@
   "id": 219712101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.38788,43.106731,12.38788,43.106731",
     "geom:latitude":43.106731,
     "geom:longitude":12.38788,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06121 Perugia",
     "sg:city":"Perugia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219712101,
-    "wof:lastmodified":1449071901,
+    "wof:lastmodified":1466293410,
     "wof:name":"Sangallo Palace Hotel Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.38788,43.106731,12.38788,43.106731],
+  "bbox": [
+    12.38788,
+    43.106731,
+    12.38788,
+    43.106731
+],
   "geometry": {"coordinates":[12.38788,43.106731],"type":"Point"}
 }

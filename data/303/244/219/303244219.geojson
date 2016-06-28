@@ -2,13 +2,14 @@
   "id": 303244219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.294565,45.473476,10.294565,45.473476",
     "geom:latitude":45.473476,
     "geom:longitude":10.294565,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, V. G. Mameli 25014 Castenedolo",
     "sg:city":"Castenedolo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303244219,
-    "wof:lastmodified":1448999096,
+    "wof:lastmodified":1466293531,
     "wof:name":"Euro Diesel Di Ferrari Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [10.294565,45.473476,10.294565,45.473476],
+  "bbox": [
+    10.294565,
+    45.473476,
+    10.294565,
+    45.473476
+],
   "geometry": {"coordinates":[10.294565,45.473476],"type":"Point"}
 }

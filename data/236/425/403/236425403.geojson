@@ -2,13 +2,14 @@
   "id": 236425403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.549929,46.559643,12.549929,46.559643",
     "geom:latitude":46.559643,
     "geom:longitude":12.549929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"127, Via Dante Alighieri 32045 Santo Stefano Di Cadore",
     "sg:city":"Santo Stefano di Cadore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236425403,
-    "wof:lastmodified":1449002681,
+    "wof:lastmodified":1466293250,
     "wof:name":"Da Rin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [12.549929,46.559643,12.549929,46.559643],
+  "bbox": [
+    12.549929,
+    46.559643,
+    12.549929,
+    46.559643
+],
   "geometry": {"coordinates":[12.549929,46.559643],"type":"Point"}
 }

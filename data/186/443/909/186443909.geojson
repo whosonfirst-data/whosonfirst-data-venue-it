@@ -2,13 +2,14 @@
   "id": 186443909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.563658,45.728176,12.563658,45.728176",
     "geom:latitude":45.728176,
     "geom:longitude":12.563658,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Veneto 14 31040 Chiarano",
     "sg:city":"Chiarano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186443909,
-    "wof:lastmodified":1449052516,
+    "wof:lastmodified":1466291759,
     "wof:name":"Ampa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [12.563658,45.728176,12.563658,45.728176],
+  "bbox": [
+    12.563658,
+    45.728176,
+    12.563658,
+    45.728176
+],
   "geometry": {"coordinates":[12.563658,45.728176],"type":"Point"}
 }

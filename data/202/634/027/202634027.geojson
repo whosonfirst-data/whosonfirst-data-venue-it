@@ -2,13 +2,14 @@
   "id": 202634027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.15115,44.366539,9.15115,44.366539",
     "geom:latitude":44.366539,
     "geom:longitude":9.15115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16036 Recco",
     "sg:city":"Recco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202634027,
-    "wof:lastmodified":1449061337,
+    "wof:lastmodified":1466290339,
     "wof:name":"Vip Air International Aerotaxi Group Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.15115,44.366539,9.15115,44.366539],
+  "bbox": [
+    9.15115,
+    44.366539,
+    9.15115,
+    44.366539
+],
   "geometry": {"coordinates":[9.15115,44.366539],"type":"Point"}
 }

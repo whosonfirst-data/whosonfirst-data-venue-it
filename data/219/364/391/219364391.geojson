@@ -2,13 +2,14 @@
   "id": 219364391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.220359,45.517273,10.220359,45.517273",
     "geom:latitude":45.517273,
     "geom:longitude":10.220359,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25124 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219364391,
-    "wof:lastmodified":1449072361,
+    "wof:lastmodified":1466289958,
     "wof:name":"Elicar Snc",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.220359,45.517273,10.220359,45.517273],
+  "bbox": [
+    10.220359,
+    45.517273,
+    10.220359,
+    45.517273
+],
   "geometry": {"coordinates":[10.220359,45.517273],"type":"Point"}
 }

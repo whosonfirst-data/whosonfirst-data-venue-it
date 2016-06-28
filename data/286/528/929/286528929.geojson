@@ -2,13 +2,14 @@
   "id": 286528929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.120576,39.218391,9.120576,39.218391",
     "geom:latitude":39.218391,
     "geom:longitude":9.120576,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Alghero 09127 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286528929,
-    "wof:lastmodified":1449015972,
+    "wof:lastmodified":1466293058,
     "wof:name":"La Bottega Di V. Autiero & C. (s.n.c.)",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.120576,39.218391,9.120576,39.218391],
+  "bbox": [
+    9.120576,
+    39.218391,
+    9.120576,
+    39.218391
+],
   "geometry": {"coordinates":[9.120576,39.218391],"type":"Point"}
 }

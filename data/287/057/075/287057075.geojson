@@ -2,13 +2,14 @@
   "id": 287057075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.12676,45.410561,9.12676,45.410561",
     "geom:latitude":45.410561,
     "geom:longitude":9.12676,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Garibaldi 3 20090 Assago",
     "sg:city":"Assago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287057075,
-    "wof:lastmodified":1449001098,
+    "wof:lastmodified":1466290316,
     "wof:name":"Carlo Bezzi Spa",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transformer"
     ]
 },
-  "bbox": [9.12676,45.410561,9.12676,45.410561],
+  "bbox": [
+    9.12676,
+    45.410561,
+    9.12676,
+    45.410561
+],
   "geometry": {"coordinates":[9.12676,45.410561],"type":"Point"}
 }

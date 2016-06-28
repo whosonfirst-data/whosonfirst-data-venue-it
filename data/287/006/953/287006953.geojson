@@ -2,13 +2,14 @@
   "id": 287006953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.233291,41.59391,14.233291,41.59391",
     "geom:latitude":41.59391,
     "geom:longitude":14.233291,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Sturzo Don Luigi 86170 Isernia",
     "sg:city":"Isernia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287006953,
-    "wof:lastmodified":1449001377,
+    "wof:lastmodified":1466289701,
     "wof:name":"Exploit Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [14.233291,41.59391,14.233291,41.59391],
+  "bbox": [
+    14.233291,
+    41.59391,
+    14.233291,
+    41.59391
+],
   "geometry": {"coordinates":[14.233291,41.59391],"type":"Point"}
 }

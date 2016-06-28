@@ -2,13 +2,14 @@
   "id": 304052791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.870554,41.112652,16.870554,41.112652",
     "geom:latitude":41.112652,
     "geom:longitude":16.870554,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70124 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304052791,
-    "wof:lastmodified":1449043806,
+    "wof:lastmodified":1466292889,
     "wof:name":"Lo Cascio Vito - Mago Vito",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.870554,41.112652,16.870554,41.112652],
+  "bbox": [
+    16.870554,
+    41.112652,
+    16.870554,
+    41.112652
+],
   "geometry": {"coordinates":[16.870554,41.112652],"type":"Point"}
 }

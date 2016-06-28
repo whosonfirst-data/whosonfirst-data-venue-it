@@ -2,13 +2,14 @@
   "id": 253324659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.139993,45.533203,9.139993,45.533203",
     "geom:latitude":45.533203,
     "geom:longitude":9.139993,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20026 Novate Milanese",
     "sg:city":"Novate Milanese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253324659,
-    "wof:lastmodified":1449064541,
+    "wof:lastmodified":1466292545,
     "wof:name":"Avis",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.139993,45.533203,9.139993,45.533203],
+  "bbox": [
+    9.139993,
+    45.533203,
+    9.139993,
+    45.533203
+],
   "geometry": {"coordinates":[9.139993,45.533203],"type":"Point"}
 }

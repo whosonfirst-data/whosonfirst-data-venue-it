@@ -2,13 +2,14 @@
   "id": 236294609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.624106,45.68742,9.624106,45.68742",
     "geom:latitude":45.68742,
     "geom:longitude":9.624106,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24035 Curno",
     "sg:city":"Curno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236294609,
-    "wof:lastmodified":1449004106,
+    "wof:lastmodified":1466291885,
     "wof:name":"F.b. Arredamenti Di Ferrari Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.624106,45.68742,9.624106,45.68742],
+  "bbox": [
+    9.624106,
+    45.68742,
+    9.624106,
+    45.68742
+],
   "geometry": {"coordinates":[9.624106,45.68742],"type":"Point"}
 }

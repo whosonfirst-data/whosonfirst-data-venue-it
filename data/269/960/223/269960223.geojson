@@ -2,13 +2,14 @@
   "id": 269960223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.559977,40.7948,17.559977,40.7948",
     "geom:latitude":40.7948,
     "geom:longitude":17.559977,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72017 Ostuni",
     "sg:city":"Ostuni",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269960223,
-    "wof:lastmodified":1449037913,
+    "wof:lastmodified":1466294817,
     "wof:name":"Rosagest Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.559977,40.7948,17.559977,40.7948],
+  "bbox": [
+    17.559977,
+    40.7948,
+    17.559977,
+    40.7948
+],
   "geometry": {"coordinates":[17.559977,40.7948],"type":"Point"}
 }

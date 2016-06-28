@@ -2,13 +2,14 @@
   "id": 202789061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.215029,44.136326,12.215029,44.136326",
     "geom:latitude":44.136326,
     "geom:longitude":12.215029,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202789061,
-    "wof:lastmodified":1449061273,
+    "wof:lastmodified":1466292079,
     "wof:name":"Caffe' Concerto Strauss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "il"
     ]
 },
-  "bbox": [12.215029,44.136326,12.215029,44.136326],
+  "bbox": [
+    12.215029,
+    44.136326,
+    12.215029,
+    44.136326
+],
   "geometry": {"coordinates":[12.215029,44.136326],"type":"Point"}
 }

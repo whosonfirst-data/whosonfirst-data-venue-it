@@ -2,13 +2,14 @@
   "id": 219505269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.166289,46.140797,13.166289,46.140797",
     "geom:latitude":46.140797,
     "geom:longitude":13.166289,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33048 S. Giovanni Al Natisone",
     "sg:classifiers":[],
     "sg:orig_category":"Suites, Armchairs, Chairs And Tables",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219505269,
-    "wof:lastmodified":1449073336,
+    "wof:lastmodified":1466291443,
     "wof:name":"Co.s.ma Snc Di Calligaris E Gon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.166289,46.140797,13.166289,46.140797],
+  "bbox": [
+    13.166289,
+    46.140797,
+    13.166289,
+    46.140797
+],
   "geometry": {"coordinates":[13.166289,46.140797],"type":"Point"}
 }

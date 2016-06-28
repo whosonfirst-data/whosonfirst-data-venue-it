@@ -2,13 +2,14 @@
   "id": 303893305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.835748,45.613899,8.835748,45.613899",
     "geom:latitude":45.613899,
     "geom:longitude":8.835748,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21052 Busto Arsizio",
     "sg:city":"Busto Arsizio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303893305,
-    "wof:lastmodified":1449000103,
+    "wof:lastmodified":1466298051,
     "wof:name":"Pi.erre Sport Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.835748,45.613899,8.835748,45.613899],
+  "bbox": [
+    8.835748,
+    45.613899,
+    8.835748,
+    45.613899
+],
   "geometry": {"coordinates":[8.835748,45.613899],"type":"Point"}
 }

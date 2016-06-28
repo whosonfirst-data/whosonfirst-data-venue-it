@@ -2,13 +2,14 @@
   "id": 320633475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.528611,43.61813,10.528611,43.61813",
     "geom:latitude":43.61813,
     "geom:longitude":10.528611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56040 Cenaia",
     "sg:city":"Cenaia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320633475,
-    "wof:lastmodified":1449014931,
+    "wof:lastmodified":1466297862,
     "wof:name":"Arte Pietra Di Di Vita Gino Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.528611,43.61813,10.528611,43.61813],
+  "bbox": [
+    10.528611,
+    43.61813,
+    10.528611,
+    43.61813
+],
   "geometry": {"coordinates":[10.528611,43.61813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303575349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.049555,39.333797,16.049555,39.333797",
     "geom:latitude":39.333797,
     "geom:longitude":16.049555,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87027 Paola",
     "sg:city":"Fosse",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303575349,
-    "wof:lastmodified":1448998822,
+    "wof:lastmodified":1466297063,
     "wof:name":"Guglielmo Adelmo Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.049555,39.333797,16.049555,39.333797],
+  "bbox": [
+    16.049555,
+    39.333797,
+    16.049555,
+    39.333797
+],
   "geometry": {"coordinates":[16.049555,39.333797],"type":"Point"}
 }

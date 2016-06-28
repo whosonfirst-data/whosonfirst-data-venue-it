@@ -2,13 +2,14 @@
   "id": 336826153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.06046,45.18401,11.06046,45.18401",
     "geom:latitude":45.18401,
     "geom:longitude":11.06046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Molino Di Sopra 37054 Nogara",
     "sg:city":"Nogara",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336826153,
-    "wof:lastmodified":1448997716,
+    "wof:lastmodified":1466296454,
     "wof:name":"Fraste (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.06046,45.18401,11.06046,45.18401],
+  "bbox": [
+    11.06046,
+    45.18401,
+    11.06046,
+    45.18401
+],
   "geometry": {"coordinates":[11.06046,45.18401],"type":"Point"}
 }

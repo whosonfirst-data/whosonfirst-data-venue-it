@@ -2,13 +2,14 @@
   "id": 286266169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.272982,45.63895,9.272982,45.63895",
     "geom:latitude":45.63895,
     "geom:longitude":9.272982,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35, Via Vincenzo Bellini 20050 Macherio",
     "sg:city":"Macherio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286266169,
-    "wof:lastmodified":1449015247,
+    "wof:lastmodified":1466289482,
     "wof:name":"Sir Industriale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.272982,45.63895,9.272982,45.63895],
+  "bbox": [
+    9.272982,
+    45.63895,
+    9.272982,
+    45.63895
+],
   "geometry": {"coordinates":[9.272982,45.63895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220126333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.299923,43.95266,10.299923,43.95266",
     "geom:latitude":43.95266,
     "geom:longitude":10.299923,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55100 Lucca",
     "sg:city":"Lucca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220126333,
-    "wof:lastmodified":1449074332,
+    "wof:lastmodified":1466296169,
     "wof:name":"J & C. Comunicazione Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.299923,43.95266,10.299923,43.95266],
+  "bbox": [
+    10.299923,
+    43.95266,
+    10.299923,
+    43.95266
+],
   "geometry": {"coordinates":[10.299923,43.95266],"type":"Point"}
 }

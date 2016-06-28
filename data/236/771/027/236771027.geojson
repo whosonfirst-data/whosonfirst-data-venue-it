@@ -2,13 +2,14 @@
   "id": 236771027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.766331,45.563896,10.766331,45.563896",
     "geom:latitude":45.563896,
     "geom:longitude":10.766331,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 3/4 37010 Affi",
     "sg:city":"Affi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236771027,
-    "wof:lastmodified":1449003446,
+    "wof:lastmodified":1466296427,
     "wof:name":"Ar-ven S.n.c Di Franchetto Ezio E C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "item"
     ]
 },
-  "bbox": [10.766331,45.563896,10.766331,45.563896],
+  "bbox": [
+    10.766331,
+    45.563896,
+    10.766331,
+    45.563896
+],
   "geometry": {"coordinates":[10.766331,45.563896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219741791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.984031,43.853699,10.984031,43.853699",
     "geom:latitude":43.853699,
     "geom:longitude":10.984031,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giotto 51039 Quarrata",
     "sg:city":"Quarrata",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219741791,
-    "wof:lastmodified":1449070572,
+    "wof:lastmodified":1466293688,
     "wof:name":"Chiti Autotrasporti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [10.984031,43.853699,10.984031,43.853699],
+  "bbox": [
+    10.984031,
+    43.853699,
+    10.984031,
+    43.853699
+],
   "geometry": {"coordinates":[10.984031,43.853699],"type":"Point"}
 }

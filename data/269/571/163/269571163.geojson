@@ -2,13 +2,14 @@
   "id": 269571163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.506458,40.45015,17.506458,40.45015",
     "geom:latitude":40.45015,
     "geom:longitude":17.506458,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74020 San Marzano Di San Giuseppe",
     "sg:city":"San Marzano di San Giuseppe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269571163,
-    "wof:lastmodified":1449037749,
+    "wof:lastmodified":1466289975,
     "wof:name":"Agriproduction D'aversa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.506458,40.45015,17.506458,40.45015],
+  "bbox": [
+    17.506458,
+    40.45015,
+    17.506458,
+    40.45015
+],
   "geometry": {"coordinates":[17.506458,40.45015],"type":"Point"}
 }

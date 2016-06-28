@@ -2,13 +2,14 @@
   "id": 269810801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.485859,41.6716,12.485859,41.6716",
     "geom:latitude":41.6716,
     "geom:longitude":12.485859,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00040 Pomezia",
     "sg:city":"Pomezia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269810801,
-    "wof:lastmodified":1449036864,
+    "wof:lastmodified":1466293156,
     "wof:name":"Porcellini Silvana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.485859,41.6716,12.485859,41.6716],
+  "bbox": [
+    12.485859,
+    41.6716,
+    12.485859,
+    41.6716
+],
   "geometry": {"coordinates":[12.485859,41.6716],"type":"Point"}
 }

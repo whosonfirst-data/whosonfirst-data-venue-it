@@ -2,13 +2,14 @@
   "id": 286379903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.223715,45.505661,9.223715,45.505661",
     "geom:latitude":45.505661,
     "geom:longitude":9.223715,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286379903,
-    "wof:lastmodified":1449016899,
+    "wof:lastmodified":1466291142,
     "wof:name":"Studio Pv S.r.l.",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.223715,45.505661,9.223715,45.505661],
+  "bbox": [
+    9.223715,
+    45.505661,
+    9.223715,
+    45.505661
+],
   "geometry": {"coordinates":[9.223715,45.505661],"type":"Point"}
 }

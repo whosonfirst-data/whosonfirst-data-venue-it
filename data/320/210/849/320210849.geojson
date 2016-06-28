@@ -2,13 +2,14 @@
   "id": 320210849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.233035,40.845715,14.233035,40.845715",
     "geom:latitude":40.845715,
     "geom:longitude":14.233035,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80024 Cardito",
     "sg:city":"Cardito",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320210849,
-    "wof:lastmodified":1449012539,
+    "wof:lastmodified":1466295943,
     "wof:name":"Pro.fi.met.di Daidone Riccardo & C.sas",
     "wof:parent_id":85900505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.233035,40.845715,14.233035,40.845715],
+  "bbox": [
+    14.233035,
+    40.845715,
+    14.233035,
+    40.845715
+],
   "geometry": {"coordinates":[14.233035,40.845715],"type":"Point"}
 }

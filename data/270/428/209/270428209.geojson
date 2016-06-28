@@ -2,13 +2,14 @@
   "id": 270428209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.693768,40.706985,14.693768,40.706985",
     "geom:latitude":40.706985,
     "geom:longitude":14.693768,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84013 Cava De' Tirreni",
     "sg:classifiers":[],
     "sg:orig_category":"Ceramiche E Refrattari - Impianti, Macchine E Materiali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270428209,
-    "wof:lastmodified":1449010950,
+    "wof:lastmodified":1466294228,
     "wof:name":"Fidep Forni Sas De Tommaso Forni Elettrici Industriali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.693768,40.706985,14.693768,40.706985],
+  "bbox": [
+    14.693768,
+    40.706985,
+    14.693768,
+    40.706985
+],
   "geometry": {"coordinates":[14.693768,40.706985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286606255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.747111,45.312302,8.747111,45.312302",
     "geom:latitude":45.312302,
     "geom:longitude":8.747111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6/8, Via Giuseppe Ungaretti 27024 Cilavegna",
     "sg:city":"Cilavegna",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286606255,
-    "wof:lastmodified":1449015622,
+    "wof:lastmodified":1466294009,
     "wof:name":"A.m.p. Pisani (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [8.747111,45.312302,8.747111,45.312302],
+  "bbox": [
+    8.747111,
+    45.312302,
+    8.747111,
+    45.312302
+],
   "geometry": {"coordinates":[8.747111,45.312302],"type":"Point"}
 }

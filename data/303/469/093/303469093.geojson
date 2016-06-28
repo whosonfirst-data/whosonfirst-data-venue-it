@@ -2,13 +2,14 @@
   "id": 303469093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.859327,45.601227,13.859327,45.601227",
     "geom:latitude":45.601227,
     "geom:longitude":13.859327,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34018 S. Dorligo Valle",
     "sg:classifiers":[],
     "sg:orig_category":"Apparecchiature E Sistemi Per Magazzinaggio E Movimentazione",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303469093,
-    "wof:lastmodified":1449000628,
+    "wof:lastmodified":1466296295,
     "wof:name":"Mingot Snc Di Mingot & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.859327,45.601227,13.859327,45.601227],
+  "bbox": [
+    13.859327,
+    45.601227,
+    13.859327,
+    45.601227
+],
   "geometry": {"coordinates":[13.859327,45.601227],"type":"Point"}
 }

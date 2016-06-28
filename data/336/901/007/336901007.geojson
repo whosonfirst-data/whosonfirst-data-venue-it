@@ -2,13 +2,14 @@
   "id": 336901007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.46086,41.833183,12.46086,41.833183",
     "geom:latitude":41.833183,
     "geom:longitude":12.46086,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00144 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336901007,
-    "wof:lastmodified":1448997395,
+    "wof:lastmodified":1466296823,
     "wof:name":"Bolasco Paolo",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.46086,41.833183,12.46086,41.833183],
+  "bbox": [
+    12.46086,
+    41.833183,
+    12.46086,
+    41.833183
+],
   "geometry": {"coordinates":[12.46086,41.833183],"type":"Point"}
 }

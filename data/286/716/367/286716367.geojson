@@ -2,13 +2,14 @@
   "id": 286716367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.143844,46.621338,11.143844,46.621338",
     "geom:latitude":46.621338,
     "geom:longitude":11.143844,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Via Merano 39011 Lana",
     "sg:city":"Lana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286716367,
-    "wof:lastmodified":1449015588,
+    "wof:lastmodified":1466295411,
     "wof:name":"Poolshop (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [11.143844,46.621338,11.143844,46.621338],
+  "bbox": [
+    11.143844,
+    46.621338,
+    11.143844,
+    46.621338
+],
   "geometry": {"coordinates":[11.143844,46.621338],"type":"Point"}
 }

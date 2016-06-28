@@ -2,13 +2,14 @@
   "id": 186272483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.961805,45.615009,8.961805,45.615009",
     "geom:latitude":45.615009,
     "geom:longitude":8.961805,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Grigna,10/12 20027 Rescaldina",
     "sg:city":"Rescaldina",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186272483,
-    "wof:lastmodified":1449052850,
+    "wof:lastmodified":1466290256,
     "wof:name":"Landonio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bench"
     ]
 },
-  "bbox": [8.961805,45.615009,8.961805,45.615009],
+  "bbox": [
+    8.961805,
+    45.615009,
+    8.961805,
+    45.615009
+],
   "geometry": {"coordinates":[8.961805,45.615009],"type":"Point"}
 }

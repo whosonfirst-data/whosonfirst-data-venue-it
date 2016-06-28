@@ -2,13 +2,14 @@
   "id": 320170379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.285596,45.383781,9.285596,45.383781",
     "geom:latitude":45.383781,
     "geom:longitude":9.285596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320170379,
-    "wof:lastmodified":1449011587,
+    "wof:lastmodified":1466295446,
     "wof:name":"Agi Di Rando L. E M. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.285596,45.383781,9.285596,45.383781],
+  "bbox": [
+    9.285596,
+    45.383781,
+    9.285596,
+    45.383781
+],
   "geometry": {"coordinates":[9.285596,45.383781],"type":"Point"}
 }

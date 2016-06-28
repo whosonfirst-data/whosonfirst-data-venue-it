@@ -2,13 +2,14 @@
   "id": 320421751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.003908,41.01107,17.003908,41.01107",
     "geom:latitude":41.01107,
     "geom:longitude":17.003908,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70016 Noicattaro",
     "sg:city":"Noicattaro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320421751,
-    "wof:lastmodified":1449013629,
+    "wof:lastmodified":1466297460,
     "wof:name":"Settanni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.003908,41.01107,17.003908,41.01107],
+  "bbox": [
+    17.003908,
+    41.01107,
+    17.003908,
+    41.01107
+],
   "geometry": {"coordinates":[17.003908,41.01107],"type":"Point"}
 }

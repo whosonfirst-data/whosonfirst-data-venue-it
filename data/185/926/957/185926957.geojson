@@ -2,13 +2,14 @@
   "id": 185926957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.54166,39.878464,9.54166,39.878464",
     "geom:latitude":39.878464,
     "geom:longitude":9.54166,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 24; Lanusei",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185926957,
-    "wof:lastmodified":1449007150,
+    "wof:lastmodified":1466290243,
     "wof:name":"Banco Di Sardegna Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.54166,39.878464,9.54166,39.878464],
+  "bbox": [
+    9.54166,
+    39.878464,
+    9.54166,
+    39.878464
+],
   "geometry": {"coordinates":[9.54166,39.878464],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219738189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.75172,43.218822,11.75172,43.218822",
     "geom:latitude":43.218822,
     "geom:longitude":11.75172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Via Piave 53048 Sinalunga",
     "sg:city":"Sinalunga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219738189,
-    "wof:lastmodified":1449072989,
+    "wof:lastmodified":1466293657,
     "wof:name":"C.i.d.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [11.75172,43.218822,11.75172,43.218822],
+  "bbox": [
+    11.75172,
+    43.218822,
+    11.75172,
+    43.218822
+],
   "geometry": {"coordinates":[11.75172,43.218822],"type":"Point"}
 }

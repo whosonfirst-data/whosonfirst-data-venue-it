@@ -2,13 +2,14 @@
   "id": 320301087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.170771,45.566635,9.170771,45.566635",
     "geom:latitude":45.566635,
     "geom:longitude":9.170771,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20051 Limbiate",
     "sg:city":"Limbiate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320301087,
-    "wof:lastmodified":1449012219,
+    "wof:lastmodified":1466296987,
     "wof:name":"Icad Srl",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.170771,45.566635,9.170771,45.566635],
+  "bbox": [
+    9.170771,
+    45.566635,
+    9.170771,
+    45.566635
+],
   "geometry": {"coordinates":[9.170771,45.566635],"type":"Point"}
 }

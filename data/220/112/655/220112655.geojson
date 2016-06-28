@@ -2,13 +2,14 @@
   "id": 220112655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.765912,40.677956,14.765912,40.677956",
     "geom:latitude":40.677956,
     "geom:longitude":14.765912,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35, V. Nazionale - Loc. Costa 84085 Mercato San Severino",
     "sg:city":"Mercato San Severino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220112655,
-    "wof:lastmodified":1449074387,
+    "wof:lastmodified":1466296018,
     "wof:name":"Francesco Pergamo & Figli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [14.765912,40.677956,14.765912,40.677956],
+  "bbox": [
+    14.765912,
+    40.677956,
+    14.765912,
+    40.677956
+],
   "geometry": {"coordinates":[14.765912,40.677956],"type":"Point"}
 }

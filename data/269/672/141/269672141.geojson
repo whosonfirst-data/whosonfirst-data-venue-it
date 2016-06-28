@@ -2,13 +2,14 @@
   "id": 269672141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.895972,44.409107,8.895972,44.409107",
     "geom:latitude":44.409107,
     "geom:longitude":8.895972,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16149 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269672141,
-    "wof:lastmodified":1449036302,
+    "wof:lastmodified":1466291238,
     "wof:name":"L'alternativa Snc",
     "wof:parent_id":85796989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "communication"
     ]
 },
-  "bbox": [8.895972,44.409107,8.895972,44.409107],
+  "bbox": [
+    8.895972,
+    44.409107,
+    8.895972,
+    44.409107
+],
   "geometry": {"coordinates":[8.895972,44.409107],"type":"Point"}
 }

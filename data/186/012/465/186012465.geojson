@@ -2,13 +2,14 @@
   "id": 186012465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.84043,43.694065,10.84043,43.694065",
     "geom:latitude":43.694065,
     "geom:longitude":10.84043,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Marconi 22; S. Miniato; 56028",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186012465,
-    "wof:lastmodified":1449052752,
+    "wof:lastmodified":1466292157,
     "wof:name":"Cassa Di Risparmio Di S.miniato Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.84043,43.694065,10.84043,43.694065],
+  "bbox": [
+    10.84043,
+    43.694065,
+    10.84043,
+    43.694065
+],
   "geometry": {"coordinates":[10.84043,43.694065],"type":"Point"}
 }

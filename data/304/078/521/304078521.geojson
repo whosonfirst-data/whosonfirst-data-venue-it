@@ -2,13 +2,14 @@
   "id": 304078521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.046884,45.880917,13.046884,45.880917",
     "geom:latitude":45.880917,
     "geom:longitude":13.046884,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Vicolo Taglio 33050 Rivignano",
     "sg:city":"Rivignano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304078521,
-    "wof:lastmodified":1449044081,
+    "wof:lastmodified":1466293234,
     "wof:name":"Fri.el. Di Moratti Aldo & C Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [13.046884,45.880917,13.046884,45.880917],
+  "bbox": [
+    13.046884,
+    45.880917,
+    13.046884,
+    45.880917
+],
   "geometry": {"coordinates":[13.046884,45.880917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186377833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.213513,45.579239,10.213513,45.579239",
     "geom:latitude":45.579239,
     "geom:longitude":10.213513,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via De Gasperi 77 25030 Erbusco",
     "sg:city":"Erbusco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186377833,
-    "wof:lastmodified":1449051387,
+    "wof:lastmodified":1466291164,
     "wof:name":"D.z. Medicale S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "biomedical"
     ]
 },
-  "bbox": [10.213513,45.579239,10.213513,45.579239],
+  "bbox": [
+    10.213513,
+    45.579239,
+    10.213513,
+    45.579239
+],
   "geometry": {"coordinates":[10.213513,45.579239],"type":"Point"}
 }

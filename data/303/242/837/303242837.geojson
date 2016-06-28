@@ -2,13 +2,14 @@
   "id": 303242837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.225054,45.377834,9.225054,45.377834",
     "geom:latitude":45.377834,
     "geom:longitude":9.225054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Montale 20090 Opera",
     "sg:city":"Opera",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303242837,
-    "wof:lastmodified":1449000276,
+    "wof:lastmodified":1466293512,
     "wof:name":"As Nord (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [9.225054,45.377834,9.225054,45.377834],
+  "bbox": [
+    9.225054,
+    45.377834,
+    9.225054,
+    45.377834
+],
   "geometry": {"coordinates":[9.225054,45.377834],"type":"Point"}
 }

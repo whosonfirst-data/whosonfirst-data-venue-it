@@ -2,13 +2,14 @@
   "id": 219764859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.857208,45.278191,10.857208,45.278191",
     "geom:latitude":45.278191,
     "geom:longitude":10.857208,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Del Lavoro 37060 Nogarole Rocca",
     "sg:city":"Nogarole Rocca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219764859,
-    "wof:lastmodified":1449073748,
+    "wof:lastmodified":1466293928,
     "wof:name":"Papp Italia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [10.857208,45.278191,10.857208,45.278191],
+  "bbox": [
+    10.857208,
+    45.278191,
+    10.857208,
+    45.278191
+],
   "geometry": {"coordinates":[10.857208,45.278191],"type":"Point"}
 }

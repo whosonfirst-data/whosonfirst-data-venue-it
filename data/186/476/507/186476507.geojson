@@ -2,13 +2,14 @@
   "id": 186476507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.672301,45.134449,7.672301,45.134449",
     "geom:latitude":45.134449,
     "geom:longitude":7.672301,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"135/28, Strada Del Francese 10156 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186476507,
-    "wof:lastmodified":1449051457,
+    "wof:lastmodified":1466292057,
     "wof:name":"Unigriss Srl",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bread"
     ]
 },
-  "bbox": [7.672301,45.134449,7.672301,45.134449],
+  "bbox": [
+    7.672301,
+    45.134449,
+    7.672301,
+    45.134449
+],
   "geometry": {"coordinates":[7.672301,45.134449],"type":"Point"}
 }

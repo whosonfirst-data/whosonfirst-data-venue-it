@@ -2,13 +2,14 @@
   "id": 219510253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.900267,44.433949,8.900267,44.433949",
     "geom:latitude":44.433949,
     "geom:longitude":8.900267,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Borzoli 141r 16161 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219510253,
-    "wof:lastmodified":1449072515,
+    "wof:lastmodified":1466291487,
     "wof:name":"Cofarm Spa",
     "wof:parent_id":85796981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [8.900267,44.433949,8.900267,44.433949],
+  "bbox": [
+    8.900267,
+    44.433949,
+    8.900267,
+    44.433949
+],
   "geometry": {"coordinates":[8.900267,44.433949],"type":"Point"}
 }

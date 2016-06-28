@@ -2,13 +2,14 @@
   "id": 320233867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171746,45.416,9.171746,45.416",
     "geom:latitude":45.416,
     "geom:longitude":9.171746,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20143 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320233867,
-    "wof:lastmodified":1449015027,
+    "wof:lastmodified":1466296226,
     "wof:name":"Fomet (s.r.l.)",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171746,45.416,9.171746,45.416],
+  "bbox": [
+    9.171746,
+    45.416,
+    9.171746,
+    45.416
+],
   "geometry": {"coordinates":[9.171746,45.416],"type":"Point"}
 }

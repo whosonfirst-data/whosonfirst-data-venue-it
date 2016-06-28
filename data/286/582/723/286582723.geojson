@@ -2,13 +2,14 @@
   "id": 286582723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.231618,41.696369,14.231618,41.696369",
     "geom:latitude":41.696369,
     "geom:longitude":14.231618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88/90, Corso Garibaldi Giuseppe 86170 Isernia",
     "sg:city":"Isernia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286582723,
-    "wof:lastmodified":1449016769,
+    "wof:lastmodified":1466293711,
     "wof:name":"Russo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [14.231618,41.696369,14.231618,41.696369],
+  "bbox": [
+    14.231618,
+    41.696369,
+    14.231618,
+    41.696369
+],
   "geometry": {"coordinates":[14.231618,41.696369],"type":"Point"}
 }

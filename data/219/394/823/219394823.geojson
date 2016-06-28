@@ -2,13 +2,14 @@
   "id": 219394823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.448579,46.050262,11.448579,46.050262",
     "geom:latitude":46.050262,
     "geom:longitude":11.448579,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localit\u00e0 Puisle 4 38051 Borgo Valsugana",
     "sg:city":"Borgo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219394823,
-    "wof:lastmodified":1449071080,
+    "wof:lastmodified":1466290293,
     "wof:name":"Siderurgica Trentina Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "rod"
     ]
 },
-  "bbox": [11.448579,46.050262,11.448579,46.050262],
+  "bbox": [
+    11.448579,
+    46.050262,
+    11.448579,
+    46.050262
+],
   "geometry": {"coordinates":[11.448579,46.050262],"type":"Point"}
 }

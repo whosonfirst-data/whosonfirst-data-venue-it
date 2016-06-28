@@ -2,13 +2,14 @@
   "id": 286553459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.984684,43.908142,10.984684,43.908142",
     "geom:latitude":43.908142,
     "geom:longitude":10.984684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13/p, Via Nerucci Gherardo 51031 Agliana",
     "sg:city":"Agliana",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286553459,
-    "wof:lastmodified":1449015178,
+    "wof:lastmodified":1466293351,
     "wof:name":"Maglificio Tania Di Scuffi-frati E Pisaneschi S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.984684,43.908142,10.984684,43.908142],
+  "bbox": [
+    10.984684,
+    43.908142,
+    10.984684,
+    43.908142
+],
   "geometry": {"coordinates":[10.984684,43.908142],"type":"Point"}
 }

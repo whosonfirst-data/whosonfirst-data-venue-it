@@ -2,13 +2,14 @@
   "id": 336660931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.637567,45.53981,9.637567,45.53981",
     "geom:latitude":45.53981,
     "geom:longitude":9.637567,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Treviglio 24053 Brignano Gera D'adda",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336660931,
-    "wof:lastmodified":1448997909,
+    "wof:lastmodified":1466294460,
     "wof:name":"Exacta (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.637567,45.53981,9.637567,45.53981],
+  "bbox": [
+    9.637567,
+    45.53981,
+    9.637567,
+    45.53981
+],
   "geometry": {"coordinates":[9.637567,45.53981],"type":"Point"}
 }

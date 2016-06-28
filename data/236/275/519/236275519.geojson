@@ -2,13 +2,14 @@
   "id": 236275519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.186156,45.640079,9.186156,45.640079",
     "geom:latitude":45.640079,
     "geom:longitude":9.186156,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20031 Cesano Maderno",
     "sg:city":"Cesano Maderno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236275519,
-    "wof:lastmodified":1449002558,
+    "wof:lastmodified":1466291687,
     "wof:name":"Ciceri Tiziano Arredamenti",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.186156,45.640079,9.186156,45.640079],
+  "bbox": [
+    9.186156,
+    45.640079,
+    9.186156,
+    45.640079
+],
   "geometry": {"coordinates":[9.186156,45.640079],"type":"Point"}
 }

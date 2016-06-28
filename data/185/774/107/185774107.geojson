@@ -2,13 +2,14 @@
   "id": 185774107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.199699,37.730629,15.199699,37.730629",
     "geom:latitude":37.730629,
     "geom:longitude":15.199699,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Italia, 189; Riposto; 95018",
     "sg:city":"Riposto",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185774107,
-    "wof:lastmodified":1449007241,
+    "wof:lastmodified":1466289110,
     "wof:name":"Banca Popolare Di Belpasso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.199699,37.730629,15.199699,37.730629],
+  "bbox": [
+    15.199699,
+    37.730629,
+    15.199699,
+    37.730629
+],
   "geometry": {"coordinates":[15.199699,37.730629],"type":"Point"}
 }

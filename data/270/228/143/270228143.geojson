@@ -2,13 +2,14 @@
   "id": 270228143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.174641,45.668056,12.174641,45.668056",
     "geom:latitude":45.668056,
     "geom:longitude":12.174641,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brondi 9 31055 Quinto Di Treviso",
     "sg:city":"Quinto di Treviso",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270228143,
-    "wof:lastmodified":1449009386,
+    "wof:lastmodified":1466291763,
     "wof:name":"Mazzobel Angelo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supraregional"
     ]
 },
-  "bbox": [12.174641,45.668056,12.174641,45.668056],
+  "bbox": [
+    12.174641,
+    45.668056,
+    12.174641,
+    45.668056
+],
   "geometry": {"coordinates":[12.174641,45.668056],"type":"Point"}
 }

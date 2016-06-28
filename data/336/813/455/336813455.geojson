@@ -2,13 +2,14 @@
   "id": 336813455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.172957,43.758831,11.172957,43.758831",
     "geom:latitude":43.758831,
     "geom:longitude":11.172957,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Perosi Don Lorenzo 50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336813455,
-    "wof:lastmodified":1448997227,
+    "wof:lastmodified":1466296260,
     "wof:name":"B.m.v. (s.p.a.)",
     "wof:parent_id":85900321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.172957,43.758831,11.172957,43.758831],
+  "bbox": [
+    11.172957,
+    43.758831,
+    11.172957,
+    43.758831
+],
   "geometry": {"coordinates":[11.172957,43.758831],"type":"Point"}
 }

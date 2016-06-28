@@ -2,13 +2,14 @@
   "id": 269925851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.40061,40.927452,14.40061,40.927452",
     "geom:latitude":40.927452,
     "geom:longitude":14.40061,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ex Aeroporto 80038 Pomigliano D'arco",
     "sg:classifiers":[],
     "sg:orig_category":"Aircraft Parts, Components, Modules, And Construction Supplies",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269925851,
-    "wof:lastmodified":1449036173,
+    "wof:lastmodified":1466294443,
     "wof:name":"V. La Gatta Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.40061,40.927452,14.40061,40.927452],
+  "bbox": [
+    14.40061,
+    40.927452,
+    14.40061,
+    40.927452
+],
   "geometry": {"coordinates":[14.40061,40.927452],"type":"Point"}
 }

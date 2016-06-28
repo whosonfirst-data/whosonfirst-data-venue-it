@@ -2,13 +2,14 @@
   "id": 236407303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.728111,44.625309,10.728111,44.625309",
     "geom:latitude":44.625309,
     "geom:longitude":10.728111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Borsellino 1 42010 Arceto",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236407303,
-    "wof:lastmodified":1449003494,
+    "wof:lastmodified":1466293064,
     "wof:name":"Lory Line Di Casini Regnani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "ware"
     ]
 },
-  "bbox": [10.728111,44.625309,10.728111,44.625309],
+  "bbox": [
+    10.728111,
+    44.625309,
+    10.728111,
+    44.625309
+],
   "geometry": {"coordinates":[10.728111,44.625309],"type":"Point"}
 }

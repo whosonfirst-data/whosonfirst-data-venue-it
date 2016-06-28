@@ -2,13 +2,14 @@
   "id": 202386777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.239666,40.941093,14.239666,40.941093",
     "geom:latitude":40.941093,
     "geom:longitude":14.239666,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80029 Sant'antimo",
     "sg:classifiers":[],
     "sg:orig_category":"Scuole E Servizi Scolastici",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202386777,
-    "wof:lastmodified":1449061438,
+    "wof:lastmodified":1466294030,
     "wof:name":"Istituto Don Bosco Soc.coop. A R.l.",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.239666,40.941093,14.239666,40.941093],
+  "bbox": [
+    14.239666,
+    40.941093,
+    14.239666,
+    40.941093
+],
   "geometry": {"coordinates":[14.239666,40.941093],"type":"Point"}
 }

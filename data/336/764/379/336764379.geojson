@@ -2,13 +2,14 @@
   "id": 336764379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.779635,45.57597,8.779635,45.57597",
     "geom:latitude":45.57597,
     "geom:longitude":8.779635,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Viale Milano 20020 Vanzaghello",
     "sg:city":"Vanzaghello",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336764379,
-    "wof:lastmodified":1448997953,
+    "wof:lastmodified":1466295686,
     "wof:name":"Rostoni Macchine (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.779635,45.57597,8.779635,45.57597],
+  "bbox": [
+    8.779635,
+    45.57597,
+    8.779635,
+    45.57597
+],
   "geometry": {"coordinates":[8.779635,45.57597],"type":"Point"}
 }

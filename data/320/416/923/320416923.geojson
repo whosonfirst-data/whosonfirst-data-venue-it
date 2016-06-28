@@ -2,13 +2,14 @@
   "id": 320416923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.830171,45.637524,11.830171,45.637524",
     "geom:latitude":45.637524,
     "geom:longitude":11.830171,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35019 Tombolo",
     "sg:city":"Tombolo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320416923,
-    "wof:lastmodified":1449012934,
+    "wof:lastmodified":1466297356,
     "wof:name":"Padana Serre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.830171,45.637524,11.830171,45.637524],
+  "bbox": [
+    11.830171,
+    45.637524,
+    11.830171,
+    45.637524
+],
   "geometry": {"coordinates":[11.830171,45.637524],"type":"Point"}
 }

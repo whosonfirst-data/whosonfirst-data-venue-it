@@ -2,13 +2,14 @@
   "id": 303204759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.708249,44.70953,11.708249,44.70953",
     "geom:latitude":44.70953,
     "geom:longitude":11.708249,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44011 Argenta",
     "sg:city":"Argenta",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303204759,
-    "wof:lastmodified":1449000640,
+    "wof:lastmodified":1466293044,
     "wof:name":"Padana Advertising Di Bindini Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.708249,44.70953,11.708249,44.70953],
+  "bbox": [
+    11.708249,
+    44.70953,
+    11.708249,
+    44.70953
+],
   "geometry": {"coordinates":[11.708249,44.70953],"type":"Point"}
 }

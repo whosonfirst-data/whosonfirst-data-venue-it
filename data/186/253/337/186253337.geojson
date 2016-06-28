@@ -2,13 +2,14 @@
   "id": 186253337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655942,45.014183,7.655942,45.014183",
     "geom:latitude":45.014183,
     "geom:longitude":7.655942,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10127 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186253337,
-    "wof:lastmodified":1449052684,
+    "wof:lastmodified":1466290103,
     "wof:name":"Cosmo Accumulatori",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.655942,45.014183,7.655942,45.014183],
+  "bbox": [
+    7.655942,
+    45.014183,
+    7.655942,
+    45.014183
+],
   "geometry": {"coordinates":[7.655942,45.014183],"type":"Point"}
 }

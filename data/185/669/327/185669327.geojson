@@ -2,13 +2,14 @@
   "id": 185669327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.980624,40.003387,15.980624,40.003387",
     "geom:latitude":40.003387,
     "geom:longitude":15.980624,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma; Castelluccio Inferiore; 85040",
     "sg:city":"Castelluccio Inferiore",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185669327,
-    "wof:lastmodified":1449006788,
+    "wof:lastmodified":1466295239,
     "wof:name":"Banca Di Lucania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.980624,40.003387,15.980624,40.003387],
+  "bbox": [
+    15.980624,
+    40.003387,
+    15.980624,
+    40.003387
+],
   "geometry": {"coordinates":[15.980624,40.003387],"type":"Point"}
 }

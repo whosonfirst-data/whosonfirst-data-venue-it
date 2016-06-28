@@ -2,13 +2,14 @@
   "id": 287050425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.50997,41.918262,12.50997,41.918262",
     "geom:latitude":41.918262,
     "geom:longitude":12.50997,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287050425,
-    "wof:lastmodified":1449001162,
+    "wof:lastmodified":1466290221,
     "wof:name":"Sailing In Italy",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tourist"
     ]
 },
-  "bbox": [12.50997,41.918262,12.50997,41.918262],
+  "bbox": [
+    12.50997,
+    41.918262,
+    12.50997,
+    41.918262
+],
   "geometry": {"coordinates":[12.50997,41.918262],"type":"Point"}
 }

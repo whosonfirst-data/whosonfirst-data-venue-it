@@ -2,13 +2,14 @@
   "id": 219795369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.937346,45.610523,9.937346,45.610523",
     "geom:latitude":45.610523,
     "geom:longitude":9.937346,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marzaghette 2 25030 Adro",
     "sg:city":"Adro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219795369,
-    "wof:lastmodified":1449072476,
+    "wof:lastmodified":1466294231,
     "wof:name":"Parker Seals Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "seal"
     ]
 },
-  "bbox": [9.937346,45.610523,9.937346,45.610523],
+  "bbox": [
+    9.937346,
+    45.610523,
+    9.937346,
+    45.610523
+],
   "geometry": {"coordinates":[9.937346,45.610523],"type":"Point"}
 }

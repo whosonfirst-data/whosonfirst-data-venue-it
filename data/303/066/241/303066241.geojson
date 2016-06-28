@@ -2,13 +2,14 @@
   "id": 303066241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.269737,45.637177,10.269737,45.637177",
     "geom:latitude":45.637177,
     "geom:longitude":10.269737,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cefalonia 25065 Lumezzane",
     "sg:city":"Lumezzane",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303066241,
-    "wof:lastmodified":1448998828,
+    "wof:lastmodified":1466291192,
     "wof:name":"R.m. Moretti Di Moretti Roberto & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.269737,45.637177,10.269737,45.637177],
+  "bbox": [
+    10.269737,
+    45.637177,
+    10.269737,
+    45.637177
+],
   "geometry": {"coordinates":[10.269737,45.637177],"type":"Point"}
 }

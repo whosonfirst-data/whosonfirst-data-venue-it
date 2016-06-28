@@ -2,13 +2,14 @@
   "id": 236648749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.073031,45.477146,9.073031,45.477146",
     "geom:latitude":45.477146,
     "geom:longitude":9.073031,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Volta Alessandro 20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236648749,
-    "wof:lastmodified":1449002362,
+    "wof:lastmodified":1466295465,
     "wof:name":"Rapsel Spa",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.073031,45.477146,9.073031,45.477146],
+  "bbox": [
+    9.073031,
+    45.477146,
+    9.073031,
+    45.477146
+],
   "geometry": {"coordinates":[9.073031,45.477146],"type":"Point"}
 }

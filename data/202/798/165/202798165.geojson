@@ -2,13 +2,14 @@
   "id": 202798165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.328793,45.436279,12.328793,45.436279",
     "geom:latitude":45.436279,
     "geom:longitude":12.328793,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30125 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202798165,
-    "wof:lastmodified":1449060583,
+    "wof:lastmodified":1466292174,
     "wof:name":"Palazzo Pisani Moretta Srl",
     "wof:parent_id":85905017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.328793,45.436279,12.328793,45.436279],
+  "bbox": [
+    12.328793,
+    45.436279,
+    12.328793,
+    45.436279
+],
   "geometry": {"coordinates":[12.328793,45.436279],"type":"Point"}
 }

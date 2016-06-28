@@ -2,13 +2,14 @@
   "id": 303085451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.156563,45.185886,9.156563,45.185886",
     "geom:latitude":45.185886,
     "geom:longitude":9.156563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63, Via Scarabelli Giovanni 27058 Voghera",
     "sg:city":"Voghera",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303085451,
-    "wof:lastmodified":1448998726,
+    "wof:lastmodified":1466291455,
     "wof:name":"F.m.r. Consulting-financial And Mathematical Resea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "publishing"
     ]
 },
-  "bbox": [9.156563,45.185886,9.156563,45.185886],
+  "bbox": [
+    9.156563,
+    45.185886,
+    9.156563,
+    45.185886
+],
   "geometry": {"coordinates":[9.156563,45.185886],"type":"Point"}
 }

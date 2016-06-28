@@ -2,13 +2,14 @@
   "id": 185631839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.548468,41.128044,16.548468,41.128044",
     "geom:latitude":41.128044,
     "geom:longitude":16.548468,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piave, 39/41; Terlizzi; 70038",
     "sg:city":"Terlizzi",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185631839,
-    "wof:lastmodified":1449007103,
+    "wof:lastmodified":1466294392,
     "wof:name":"Banca Di Bisceglie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.548468,41.128044,16.548468,41.128044],
+  "bbox": [
+    16.548468,
+    41.128044,
+    16.548468,
+    41.128044
+],
   "geometry": {"coordinates":[16.548468,41.128044],"type":"Point"}
 }

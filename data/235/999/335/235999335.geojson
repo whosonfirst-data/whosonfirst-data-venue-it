@@ -2,13 +2,14 @@
   "id": 235999335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.154992,45.488316,9.154992,45.488316",
     "geom:latitude":45.488316,
     "geom:longitude":9.154992,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20149 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235999335,
-    "wof:lastmodified":1449008568,
+    "wof:lastmodified":1466296120,
     "wof:name":"Tecnoeco Srl",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.154992,45.488316,9.154992,45.488316],
+  "bbox": [
+    9.154992,
+    45.488316,
+    9.154992,
+    45.488316
+],
   "geometry": {"coordinates":[9.154992,45.488316],"type":"Point"}
 }

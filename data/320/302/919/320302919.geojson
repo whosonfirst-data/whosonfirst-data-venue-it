@@ -2,13 +2,14 @@
   "id": 320302919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.119866,45.540081,9.119866,45.540081",
     "geom:latitude":45.540081,
     "geom:longitude":9.119866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20021 Bollate",
     "sg:city":"Bollate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320302919,
-    "wof:lastmodified":1449012536,
+    "wof:lastmodified":1466296722,
     "wof:name":"R.p.i. Di Mario Bruschi E C. (s.a.s.)",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.119866,45.540081,9.119866,45.540081],
+  "bbox": [
+    9.119866,
+    45.540081,
+    9.119866,
+    45.540081
+],
   "geometry": {"coordinates":[9.119866,45.540081],"type":"Point"}
 }

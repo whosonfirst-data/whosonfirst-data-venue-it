@@ -2,13 +2,14 @@
   "id": 270326689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.803013,45.591908,13.803013,45.591908",
     "geom:latitude":45.591908,
     "geom:longitude":13.803013,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34015 Muggia",
     "sg:city":"Muggia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270326689,
-    "wof:lastmodified":1449009687,
+    "wof:lastmodified":1466292967,
     "wof:name":"Fedrigoni Cartiere S.p.a.",
     "wof:parent_id":85905007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.803013,45.591908,13.803013,45.591908],
+  "bbox": [
+    13.803013,
+    45.591908,
+    13.803013,
+    45.591908
+],
   "geometry": {"coordinates":[13.803013,45.591908],"type":"Point"}
 }

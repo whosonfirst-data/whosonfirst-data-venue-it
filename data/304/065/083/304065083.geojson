@@ -2,13 +2,14 @@
   "id": 304065083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.247084,41.287758,13.247084,41.287758",
     "geom:latitude":41.287758,
     "geom:longitude":13.247084,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04019 Terracina",
     "sg:city":"Terracina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304065083,
-    "wof:lastmodified":1449044156,
+    "wof:lastmodified":1466293050,
     "wof:name":"Menichetti Gianfranco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.247084,41.287758,13.247084,41.287758],
+  "bbox": [
+    13.247084,
+    41.287758,
+    13.247084,
+    41.287758
+],
   "geometry": {"coordinates":[13.247084,41.287758],"type":"Point"}
 }

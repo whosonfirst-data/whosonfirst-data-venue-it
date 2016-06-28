@@ -2,13 +2,14 @@
   "id": 287055955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.295024,43.165421,12.295024,43.165421",
     "geom:latitude":43.165421,
     "geom:longitude":12.295024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torquato Tasso 12 06073 Corciano",
     "sg:city":"Corciano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287055955,
-    "wof:lastmodified":1449000859,
+    "wof:lastmodified":1466290300,
     "wof:name":"S.i.s. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sign"
     ]
 },
-  "bbox": [12.295024,43.165421,12.295024,43.165421],
+  "bbox": [
+    12.295024,
+    43.165421,
+    12.295024,
+    43.165421
+],
   "geometry": {"coordinates":[12.295024,43.165421],"type":"Point"}
 }

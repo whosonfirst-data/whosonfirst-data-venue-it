@@ -2,13 +2,14 @@
   "id": 286768173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.52568,41.52634,13.52568,41.52634",
     "geom:latitude":41.52634,
     "geom:longitude":13.52568,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03024 Ceprano",
     "sg:city":"Ceprano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286768173,
-    "wof:lastmodified":1449016312,
+    "wof:lastmodified":1466296081,
     "wof:name":"I.s.a. Sas Di Incagnoli Salvatore & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.52568,41.52634,13.52568,41.52634],
+  "bbox": [
+    13.52568,
+    41.52634,
+    13.52568,
+    41.52634
+],
   "geometry": {"coordinates":[13.52568,41.52634],"type":"Point"}
 }

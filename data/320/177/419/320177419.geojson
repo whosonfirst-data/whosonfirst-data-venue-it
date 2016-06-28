@@ -2,13 +2,14 @@
   "id": 320177419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.840607,44.696598,10.840607,44.696598",
     "geom:latitude":44.696598,
     "geom:longitude":10.840607,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41011 Campogalliano",
     "sg:city":"Campogalliano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320177419,
-    "wof:lastmodified":1449014966,
+    "wof:lastmodified":1466295534,
     "wof:name":"Carbemilia Gas Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.840607,44.696598,10.840607,44.696598],
+  "bbox": [
+    10.840607,
+    44.696598,
+    10.840607,
+    44.696598
+],
   "geometry": {"coordinates":[10.840607,44.696598],"type":"Point"}
 }

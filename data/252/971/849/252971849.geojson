@@ -2,13 +2,14 @@
   "id": 252971849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.707431,45.554001,11.707431,45.554001",
     "geom:latitude":45.554001,
     "geom:longitude":11.707431,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Dandolo 35010 Gazzo",
     "sg:city":"Gazzo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252971849,
-    "wof:lastmodified":1449005972,
+    "wof:lastmodified":1466291775,
     "wof:name":"Argenteria Gava Di Gardin Giuseppe & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.707431,45.554001,11.707431,45.554001],
+  "bbox": [
+    11.707431,
+    45.554001,
+    11.707431,
+    45.554001
+],
   "geometry": {"coordinates":[11.707431,45.554001],"type":"Point"}
 }

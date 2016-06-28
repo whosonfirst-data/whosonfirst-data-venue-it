@@ -2,13 +2,14 @@
   "id": 336916677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.365801,43.31971,11.365801,43.31971",
     "geom:latitude":43.31971,
     "geom:longitude":11.365801,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53100 Siena",
     "sg:city":"Siena",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336916677,
-    "wof:lastmodified":1448997533,
+    "wof:lastmodified":1466296935,
     "wof:name":"Cepollaro Chiara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [11.365801,43.31971,11.365801,43.31971],
+  "bbox": [
+    11.365801,
+    43.31971,
+    11.365801,
+    43.31971
+],
   "geometry": {"coordinates":[11.365801,43.31971],"type":"Point"}
 }

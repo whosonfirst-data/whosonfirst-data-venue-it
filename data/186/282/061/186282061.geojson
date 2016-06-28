@@ -2,13 +2,14 @@
   "id": 186282061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.006947,42.344769,14.006947,42.344769",
     "geom:latitude":42.344769,
     "geom:longitude":14.006947,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65010 Nocciano",
     "sg:city":"Nocciano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186282061,
-    "wof:lastmodified":1449052047,
+    "wof:lastmodified":1466290338,
     "wof:name":"Bosco Nestore & C. Snc - Azienda Vinicola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.006947,42.344769,14.006947,42.344769],
+  "bbox": [
+    14.006947,
+    42.344769,
+    14.006947,
+    42.344769
+],
   "geometry": {"coordinates":[14.006947,42.344769],"type":"Point"}
 }

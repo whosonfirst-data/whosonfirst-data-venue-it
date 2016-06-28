@@ -2,13 +2,14 @@
   "id": 186438485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.131515,45.404312,9.131515,45.404312",
     "geom:latitude":45.404312,
     "geom:longitude":9.131515,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada 4 Palazzo A2 20090 Assago",
     "sg:city":"Assago",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186438485,
-    "wof:lastmodified":1449051296,
+    "wof:lastmodified":1466291715,
     "wof:name":"Simi Engineering Srl",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "sealing"
     ]
 },
-  "bbox": [9.131515,45.404312,9.131515,45.404312],
+  "bbox": [
+    9.131515,
+    45.404312,
+    9.131515,
+    45.404312
+],
   "geometry": {"coordinates":[9.131515,45.404312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236211045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.471624,44.431282,11.471624,44.431282",
     "geom:latitude":44.431282,
     "geom:longitude":11.471624,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40064 Ozzano Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Nautica. Automobili E Mezzi Di Trasporto",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236211045,
-    "wof:lastmodified":1449002290,
+    "wof:lastmodified":1466291010,
     "wof:name":"Nautica Pavani Di Pavani Germano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.471624,44.431282,11.471624,44.431282],
+  "bbox": [
+    11.471624,
+    44.431282,
+    11.471624,
+    44.431282
+],
   "geometry": {"coordinates":[11.471624,44.431282],"type":"Point"}
 }

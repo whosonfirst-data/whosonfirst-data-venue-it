@@ -2,13 +2,14 @@
   "id": 286814129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.117726,45.52182,9.117726,45.52182",
     "geom:latitude":45.52182,
     "geom:longitude":9.117726,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20021 Bollate",
     "sg:city":"Bollate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286814129,
-    "wof:lastmodified":1449015705,
+    "wof:lastmodified":1466296458,
     "wof:name":"Gueye Babacar",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.117726,45.52182,9.117726,45.52182],
+  "bbox": [
+    9.117726,
+    45.52182,
+    9.117726,
+    45.52182
+],
   "geometry": {"coordinates":[9.117726,45.52182],"type":"Point"}
 }

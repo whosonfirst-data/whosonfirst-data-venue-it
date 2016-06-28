@@ -2,13 +2,14 @@
   "id": 320323223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.531033,45.579647,9.531033,45.579647",
     "geom:latitude":45.579647,
     "geom:longitude":9.531033,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20069 Vaprio D'adda",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Industria Chimica. Vetro: Prodotti E Lavorazioni",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320323223,
-    "wof:lastmodified":1449011564,
+    "wof:lastmodified":1466296885,
     "wof:name":"Penati Soffieria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.531033,45.579647,9.531033,45.579647],
+  "bbox": [
+    9.531033,
+    45.579647,
+    9.531033,
+    45.579647
+],
   "geometry": {"coordinates":[9.531033,45.579647],"type":"Point"}
 }

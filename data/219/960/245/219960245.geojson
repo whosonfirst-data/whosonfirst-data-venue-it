@@ -2,13 +2,14 @@
   "id": 219960245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.198225,40.827354,14.198225,40.827354",
     "geom:latitude":40.827354,
     "geom:longitude":14.198225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80045 Pompei",
     "sg:city":"Pompei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219960245,
-    "wof:lastmodified":1449072940,
+    "wof:lastmodified":1466295917,
     "wof:name":"Coppola Vincenzo",
     "wof:parent_id":85904777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.198225,40.827354,14.198225,40.827354],
+  "bbox": [
+    14.198225,
+    40.827354,
+    14.198225,
+    40.827354
+],
   "geometry": {"coordinates":[14.198225,40.827354],"type":"Point"}
 }

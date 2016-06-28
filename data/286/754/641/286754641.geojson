@@ -2,13 +2,14 @@
   "id": 286754641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.46789,41.881596,12.46789,41.881596",
     "geom:latitude":41.881596,
     "geom:longitude":12.46789,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00153 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286754641,
-    "wof:lastmodified":1449017115,
+    "wof:lastmodified":1466295907,
     "wof:name":"Teatro Da Camera Di Roma",
     "wof:parent_id":85900443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "public"
     ]
 },
-  "bbox": [12.46789,41.881596,12.46789,41.881596],
+  "bbox": [
+    12.46789,
+    41.881596,
+    12.46789,
+    41.881596
+],
   "geometry": {"coordinates":[12.46789,41.881596],"type":"Point"}
 }

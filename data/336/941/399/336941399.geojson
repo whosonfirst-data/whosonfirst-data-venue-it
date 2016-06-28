@@ -2,13 +2,14 @@
   "id": 336941399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.204309,45.461803,9.204309,45.461803",
     "geom:latitude":45.461803,
     "geom:longitude":9.204309,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336941399,
-    "wof:lastmodified":1448997579,
+    "wof:lastmodified":1466297208,
     "wof:name":"Gambino Vincenzo",
     "wof:parent_id":85796921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.204309,45.461803,9.204309,45.461803],
+  "bbox": [
+    9.204309,
+    45.461803,
+    9.204309,
+    45.461803
+],
   "geometry": {"coordinates":[9.204309,45.461803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286342307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.482325,41.895466,12.482325,41.895466",
     "geom:latitude":41.895466,
     "geom:longitude":12.482325,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Cestari 35/36/37 00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286342307,
-    "wof:lastmodified":1449017877,
+    "wof:lastmodified":1466290588,
     "wof:name":"Arredamento Liturgico Srl",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [12.482325,41.895466,12.482325,41.895466],
+  "bbox": [
+    12.482325,
+    41.895466,
+    12.482325,
+    41.895466
+],
   "geometry": {"coordinates":[12.482325,41.895466],"type":"Point"}
 }

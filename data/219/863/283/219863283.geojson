@@ -2,13 +2,14 @@
   "id": 219863283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.420241,41.896614,12.420241,41.896614",
     "geom:latitude":41.896614,
     "geom:longitude":12.420241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00165 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219863283,
-    "wof:lastmodified":1449072825,
+    "wof:lastmodified":1466294870,
     "wof:name":"Centro Sportivo Aurelia Antica",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.420241,41.896614,12.420241,41.896614],
+  "bbox": [
+    12.420241,
+    41.896614,
+    12.420241,
+    41.896614
+],
   "geometry": {"coordinates":[12.420241,41.896614],"type":"Point"}
 }

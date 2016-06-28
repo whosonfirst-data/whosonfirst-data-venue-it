@@ -2,13 +2,14 @@
   "id": 252869353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.191998,45.55991,10.191998,45.55991",
     "geom:latitude":45.55991,
     "geom:longitude":10.191998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25127 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252869353,
-    "wof:lastmodified":1449006423,
+    "wof:lastmodified":1466290696,
     "wof:name":"Mattei Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.191998,45.55991,10.191998,45.55991],
+  "bbox": [
+    10.191998,
+    45.55991,
+    10.191998,
+    45.55991
+],
   "geometry": {"coordinates":[10.191998,45.55991],"type":"Point"}
 }

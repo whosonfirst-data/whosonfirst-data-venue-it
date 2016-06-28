@@ -2,13 +2,14 @@
   "id": 219412311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.061481,45.512276,9.061481,45.512276",
     "geom:latitude":45.512276,
     "geom:longitude":9.061481,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rho 9 20125 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219412311,
-    "wof:lastmodified":1449071115,
+    "wof:lastmodified":1466290460,
     "wof:name":"Lamina S.p.a. Laminatoi Milanesi Nastri",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "strip"
     ]
 },
-  "bbox": [9.061481,45.512276,9.061481,45.512276],
+  "bbox": [
+    9.061481,
+    45.512276,
+    9.061481,
+    45.512276
+],
   "geometry": {"coordinates":[9.061481,45.512276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219246351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.884189,45.320084,8.884189,45.320084",
     "geom:latitude":45.320084,
     "geom:longitude":8.884189,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Montebello 45 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219246351,
-    "wof:lastmodified":1449070625,
+    "wof:lastmodified":1466296032,
     "wof:name":"Falan Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shoe"
     ]
 },
-  "bbox": [8.884189,45.320084,8.884189,45.320084],
+  "bbox": [
+    8.884189,
+    45.320084,
+    8.884189,
+    45.320084
+],
   "geometry": {"coordinates":[8.884189,45.320084],"type":"Point"}
 }

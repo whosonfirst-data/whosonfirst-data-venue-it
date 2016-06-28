@@ -2,13 +2,14 @@
   "id": 219396021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.502308,45.019352,7.502308,45.019352",
     "geom:latitude":45.019352,
     "geom:longitude":7.502308,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Coazze 15 10040 Rivalta Di Torino",
     "sg:city":"Rivalta di Torino",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219396021,
-    "wof:lastmodified":1449072700,
+    "wof:lastmodified":1466290307,
     "wof:name":"F.i.m.i.t. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "working"
     ]
 },
-  "bbox": [7.502308,45.019352,7.502308,45.019352],
+  "bbox": [
+    7.502308,
+    45.019352,
+    7.502308,
+    45.019352
+],
   "geometry": {"coordinates":[7.502308,45.019352],"type":"Point"}
 }

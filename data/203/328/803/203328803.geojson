@@ -2,13 +2,14 @@
   "id": 203328803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.674252,44.606804,11.674252,44.606804",
     "geom:latitude":44.606804,
     "geom:longitude":11.674252,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40062 Molinella",
     "sg:city":"Molinella",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203328803,
-    "wof:lastmodified":1449026061,
+    "wof:lastmodified":1466291349,
     "wof:name":"Studio Bibliografico Dr. Paolo Rambaldi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.674252,44.606804,11.674252,44.606804],
+  "bbox": [
+    11.674252,
+    44.606804,
+    11.674252,
+    44.606804
+],
   "geometry": {"coordinates":[11.674252,44.606804],"type":"Point"}
 }

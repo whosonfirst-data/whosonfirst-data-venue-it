@@ -2,13 +2,14 @@
   "id": 219393407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.688466,45.658581,7.688466,45.658581",
     "geom:latitude":45.658581,
     "geom:longitude":7.688466,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Issogne 21 11029 Verres",
     "sg:city":"Verres",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219393407,
-    "wof:lastmodified":1449071503,
+    "wof:lastmodified":1466290277,
     "wof:name":"Veralco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "intermediate"
     ]
 },
-  "bbox": [7.688466,45.658581,7.688466,45.658581],
+  "bbox": [
+    7.688466,
+    45.658581,
+    7.688466,
+    45.658581
+],
   "geometry": {"coordinates":[7.688466,45.658581],"type":"Point"}
 }

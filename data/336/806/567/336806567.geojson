@@ -2,13 +2,14 @@
   "id": 336806567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.909557,45.674431,11.909557,45.674431",
     "geom:latitude":45.674431,
     "geom:longitude":11.909557,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, V. Circonvallazione Ovest 31033 Castelfranco Veneto",
     "sg:city":"Castelfranco Veneto",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336806567,
-    "wof:lastmodified":1448996918,
+    "wof:lastmodified":1466296196,
     "wof:name":"Walcam Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.909557,45.674431,11.909557,45.674431],
+  "bbox": [
+    11.909557,
+    45.674431,
+    11.909557,
+    45.674431
+],
   "geometry": {"coordinates":[11.909557,45.674431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236551375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.135625,45.149017,11.135625,45.149017",
     "geom:latitude":45.149017,
     "geom:longitude":11.135625,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, V. Molino Di Sopra 37054 Nogara",
     "sg:city":"Nogara",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236551375,
-    "wof:lastmodified":1449002173,
+    "wof:lastmodified":1466294576,
     "wof:name":"Bordini Sergio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.135625,45.149017,11.135625,45.149017],
+  "bbox": [
+    11.135625,
+    45.149017,
+    11.135625,
+    45.149017
+],
   "geometry": {"coordinates":[11.135625,45.149017],"type":"Point"}
 }

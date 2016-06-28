@@ -2,13 +2,14 @@
   "id": 219842331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.435027,46.893341,11.435027,46.893341",
     "geom:latitude":46.893341,
     "geom:longitude":11.435027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39049 Vipiteno",
     "sg:city":"Vipiteno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219842331,
-    "wof:lastmodified":1449070648,
+    "wof:lastmodified":1466294683,
     "wof:name":"Bonell Gottfried G\u00dcnther",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [11.435027,46.893341,11.435027,46.893341],
+  "bbox": [
+    11.435027,
+    46.893341,
+    11.435027,
+    46.893341
+],
   "geometry": {"coordinates":[11.435027,46.893341],"type":"Point"}
 }

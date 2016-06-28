@@ -2,13 +2,14 @@
   "id": 186387149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547111,44.388798,7.547111,44.388798",
     "geom:latitude":44.388798,
     "geom:longitude":7.547111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Vittorio Veneto 65 12030 Cavallermaggiore",
     "sg:city":"Cavallermaggiore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186387149,
-    "wof:lastmodified":1449052654,
+    "wof:lastmodified":1466291239,
     "wof:name":"Campiello Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit"
     ]
 },
-  "bbox": [7.547111,44.388798,7.547111,44.388798],
+  "bbox": [
+    7.547111,
+    44.388798,
+    7.547111,
+    44.388798
+],
   "geometry": {"coordinates":[7.547111,44.388798],"type":"Point"}
 }

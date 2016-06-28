@@ -2,13 +2,14 @@
   "id": 303894793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.356246,45.501915,10.356246,45.501915",
     "geom:latitude":45.501915,
     "geom:longitude":10.356246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25080 Prevalle",
     "sg:city":"Prevalle",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303894793,
-    "wof:lastmodified":1448999127,
+    "wof:lastmodified":1466298063,
     "wof:name":"Trofei Ronchi Di Ronchi Aldo & Ruggero",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.356246,45.501915,10.356246,45.501915],
+  "bbox": [
+    10.356246,
+    45.501915,
+    10.356246,
+    45.501915
+],
   "geometry": {"coordinates":[10.356246,45.501915],"type":"Point"}
 }

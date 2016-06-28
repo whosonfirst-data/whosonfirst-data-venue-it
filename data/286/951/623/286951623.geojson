@@ -2,13 +2,14 @@
   "id": 286951623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.164742,45.493359,9.164742,45.493359",
     "geom:latitude":45.493359,
     "geom:longitude":9.164742,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20155 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286951623,
-    "wof:lastmodified":1449015295,
+    "wof:lastmodified":1466297487,
     "wof:name":"Montini Prodotti Tessili (s.a.s.)",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.164742,45.493359,9.164742,45.493359],
+  "bbox": [
+    9.164742,
+    45.493359,
+    9.164742,
+    45.493359
+],
   "geometry": {"coordinates":[9.164742,45.493359],"type":"Point"}
 }

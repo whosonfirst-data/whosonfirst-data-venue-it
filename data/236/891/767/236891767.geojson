@@ -2,13 +2,14 @@
   "id": 236891767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.3569,45.453934,12.3569,45.453934",
     "geom:latitude":45.453934,
     "geom:longitude":12.3569,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"76, Fondamenta Navagero Andrea 30141 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236891767,
-    "wof:lastmodified":1449003677,
+    "wof:lastmodified":1466297160,
     "wof:name":"Vetreria Ducale S.n.c.",
     "wof:parent_id":85905023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.3569,45.453934,12.3569,45.453934],
+  "bbox": [
+    12.3569,
+    45.453934,
+    12.3569,
+    45.453934
+],
   "geometry": {"coordinates":[12.3569,45.453934],"type":"Point"}
 }

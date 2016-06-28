@@ -2,13 +2,14 @@
   "id": 219198441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.26181,40.848518,14.26181,40.848518",
     "geom:latitude":40.848518,
     "geom:longitude":14.26181,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80138 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219198441,
-    "wof:lastmodified":1449071665,
+    "wof:lastmodified":1466295194,
     "wof:name":"Amore & Amore",
     "wof:parent_id":85904825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.26181,40.848518,14.26181,40.848518],
+  "bbox": [
+    14.26181,
+    40.848518,
+    14.26181,
+    40.848518
+],
   "geometry": {"coordinates":[14.26181,40.848518],"type":"Point"}
 }

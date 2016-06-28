@@ -2,13 +2,14 @@
   "id": 253735755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.751011,45.312958,8.751011,45.312958",
     "geom:latitude":45.312958,
     "geom:longitude":8.751011,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Galileo Galilei 27024 Cilavegna",
     "sg:city":"Cilavegna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253735755,
-    "wof:lastmodified":1449065737,
+    "wof:lastmodified":1466296905,
     "wof:name":"Officina Meccanica S.i.co.mec.s.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [8.751011,45.312958,8.751011,45.312958],
+  "bbox": [
+    8.751011,
+    45.312958,
+    8.751011,
+    45.312958
+],
   "geometry": {"coordinates":[8.751011,45.312958],"type":"Point"}
 }

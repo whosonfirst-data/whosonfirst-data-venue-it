@@ -2,13 +2,14 @@
   "id": 219688919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.659407,41.770355,12.659407,41.770355",
     "geom:latitude":41.770355,
     "geom:longitude":12.659407,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00047 Marino",
     "sg:city":"Marino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219688919,
-    "wof:lastmodified":1449071704,
+    "wof:lastmodified":1466293178,
     "wof:name":"Ristorante 'l'antico Borgo' Di Paolo Fabbianesi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.659407,41.770355,12.659407,41.770355],
+  "bbox": [
+    12.659407,
+    41.770355,
+    12.659407,
+    41.770355
+],
   "geometry": {"coordinates":[12.659407,41.770355],"type":"Point"}
 }

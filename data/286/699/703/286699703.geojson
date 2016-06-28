@@ -2,13 +2,14 @@
   "id": 286699703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.46683,43.468376,13.46683,43.468376",
     "geom:latitude":43.468376,
     "geom:longitude":13.46683,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Tevere 60027 Osimo",
     "sg:city":"Osimo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286699703,
-    "wof:lastmodified":1449015573,
+    "wof:lastmodified":1466295205,
     "wof:name":"G.p. Fondazioni Speciali S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [13.46683,43.468376,13.46683,43.468376],
+  "bbox": [
+    13.46683,
+    43.468376,
+    13.46683,
+    43.468376
+],
   "geometry": {"coordinates":[13.46683,43.468376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320130803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.851999,45.467934,10.851999,45.467934",
     "geom:latitude":45.467934,
     "geom:longitude":10.851999,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37012 Bussolengo",
     "sg:city":"Bussolengo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320130803,
-    "wof:lastmodified":1449012563,
+    "wof:lastmodified":1466294986,
     "wof:name":"Veronesi Tecnologies & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.851999,45.467934,10.851999,45.467934],
+  "bbox": [
+    10.851999,
+    45.467934,
+    10.851999,
+    45.467934
+],
   "geometry": {"coordinates":[10.851999,45.467934],"type":"Point"}
 }

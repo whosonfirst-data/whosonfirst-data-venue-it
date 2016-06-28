@@ -2,13 +2,14 @@
   "id": 320146845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.213092,45.825497,7.213092,45.825497",
     "geom:latitude":45.825497,
     "geom:longitude":7.213092,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11014 Saint-oyen",
     "sg:city":"Saint-Oyen",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320146845,
-    "wof:lastmodified":1449012811,
+    "wof:lastmodified":1466295172,
     "wof:name":"Godioz Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.213092,45.825497,7.213092,45.825497],
+  "bbox": [
+    7.213092,
+    45.825497,
+    7.213092,
+    45.825497
+],
   "geometry": {"coordinates":[7.213092,45.825497],"type":"Point"}
 }

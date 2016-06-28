@@ -2,13 +2,14 @@
   "id": 270076111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.512724,43.989178,12.512724,43.989178",
     "geom:latitude":43.989178,
     "geom:longitude":12.512724,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47031 Repubblica Di San Marino",
     "sg:classifiers":[],
     "sg:orig_category":"Calzature, Pelletterie E Pelli",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270076111,
-    "wof:lastmodified":1449010534,
+    "wof:lastmodified":1466289889,
     "wof:name":"Unifur Di Pasquinelli Raimondo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.512724,43.989178,12.512724,43.989178],
+  "bbox": [
+    12.512724,
+    43.989178,
+    12.512724,
+    43.989178
+],
   "geometry": {"coordinates":[12.512724,43.989178],"type":"Point"}
 }

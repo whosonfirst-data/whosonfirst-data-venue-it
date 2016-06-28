@@ -2,13 +2,14 @@
   "id": 286271353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165533,45.665718,9.165533,45.665718",
     "geom:latitude":45.665718,
     "geom:longitude":9.165533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"99/101, Viale Brianza 20036 Meda",
     "sg:city":"Meda",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286271353,
-    "wof:lastmodified":1449016729,
+    "wof:lastmodified":1466289552,
     "wof:name":"Ambrogio Moro Spa",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.165533,45.665718,9.165533,45.665718],
+  "bbox": [
+    9.165533,
+    45.665718,
+    9.165533,
+    45.665718
+],
   "geometry": {"coordinates":[9.165533,45.665718],"type":"Point"}
 }

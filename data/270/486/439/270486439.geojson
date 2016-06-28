@@ -2,13 +2,14 @@
   "id": 270486439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.725604,45.687721,8.725604,45.687721",
     "geom:latitude":45.687721,
     "geom:longitude":8.725604,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 23 21010 Besnate",
     "sg:city":"Besnate",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270486439,
-    "wof:lastmodified":1449010014,
+    "wof:lastmodified":1466294890,
     "wof:name":"Saporiti Italia Gidatex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chair"
     ]
 },
-  "bbox": [8.725604,45.687721,8.725604,45.687721],
+  "bbox": [
+    8.725604,
+    45.687721,
+    8.725604,
+    45.687721
+],
   "geometry": {"coordinates":[8.725604,45.687721],"type":"Point"}
 }

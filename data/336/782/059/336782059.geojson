@@ -2,13 +2,14 @@
   "id": 336782059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.161473,45.784973,9.161473,45.784973",
     "geom:latitude":45.784973,
     "geom:longitude":9.161473,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Plinio 22030 Lipomo",
     "sg:city":"Lipomo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336782059,
-    "wof:lastmodified":1448996913,
+    "wof:lastmodified":1466295907,
     "wof:name":"Stamperia Alatex Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.161473,45.784973,9.161473,45.784973],
+  "bbox": [
+    9.161473,
+    45.784973,
+    9.161473,
+    45.784973
+],
   "geometry": {"coordinates":[9.161473,45.784973],"type":"Point"}
 }

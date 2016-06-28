@@ -2,13 +2,14 @@
   "id": 219352015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.112998,45.496536,12.112998,45.496536",
     "geom:latitude":45.496536,
     "geom:longitude":12.112998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30035 Mirano",
     "sg:city":"Mirano",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219352015,
-    "wof:lastmodified":1449072563,
+    "wof:lastmodified":1466289828,
     "wof:name":"Boldrin Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "il"
     ]
 },
-  "bbox": [12.112998,45.496536,12.112998,45.496536],
+  "bbox": [
+    12.112998,
+    45.496536,
+    12.112998,
+    45.496536
+],
   "geometry": {"coordinates":[12.112998,45.496536],"type":"Point"}
 }

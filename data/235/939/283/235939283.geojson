@@ -2,13 +2,14 @@
   "id": 235939283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.16398,45.528965,10.16398,45.528965",
     "geom:latitude":45.528965,
     "geom:longitude":10.16398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Emanuele Ii 25 25030 Roncadelle",
     "sg:city":"Roncadelle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235939283,
-    "wof:lastmodified":1449008352,
+    "wof:lastmodified":1466294543,
     "wof:name":"Barbi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "italian"
     ]
 },
-  "bbox": [10.16398,45.528965,10.16398,45.528965],
+  "bbox": [
+    10.16398,
+    45.528965,
+    10.16398,
+    45.528965
+],
   "geometry": {"coordinates":[10.16398,45.528965],"type":"Point"}
 }

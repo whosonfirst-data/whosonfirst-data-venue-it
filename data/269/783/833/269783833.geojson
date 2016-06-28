@@ -2,13 +2,14 @@
   "id": 269783833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.250507,43.772644,11.250507,43.772644",
     "geom:latitude":43.772644,
     "geom:longitude":11.250507,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269783833,
-    "wof:lastmodified":1449036213,
+    "wof:lastmodified":1466292839,
     "wof:name":"Biemme Viaggi E Crociere",
     "wof:parent_id":85904707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.250507,43.772644,11.250507,43.772644],
+  "bbox": [
+    11.250507,
+    43.772644,
+    11.250507,
+    43.772644
+],
   "geometry": {"coordinates":[11.250507,43.772644],"type":"Point"}
 }

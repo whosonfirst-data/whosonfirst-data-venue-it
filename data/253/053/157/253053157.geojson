@@ -2,13 +2,14 @@
   "id": 253053157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196947,45.467377,9.196947,45.467377",
     "geom:latitude":45.467377,
     "geom:longitude":9.196947,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253053157,
-    "wof:lastmodified":1449063371,
+    "wof:lastmodified":1466289474,
     "wof:name":"Re Ottavio Di Emanuele Coletto",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.196947,45.467377,9.196947,45.467377],
+  "bbox": [
+    9.196947,
+    45.467377,
+    9.196947,
+    45.467377
+],
   "geometry": {"coordinates":[9.196947,45.467377],"type":"Point"}
 }

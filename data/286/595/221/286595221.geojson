@@ -2,13 +2,14 @@
   "id": 286595221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.880527,45.655766,8.880527,45.655766",
     "geom:latitude":45.655766,
     "geom:longitude":8.880527,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48, Via Vignole 21058 Solbiate Olona",
     "sg:city":"Solbiate Olona",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286595221,
-    "wof:lastmodified":1449017808,
+    "wof:lastmodified":1466293863,
     "wof:name":"Tessilcompany (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.880527,45.655766,8.880527,45.655766],
+  "bbox": [
+    8.880527,
+    45.655766,
+    8.880527,
+    45.655766
+],
   "geometry": {"coordinates":[8.880527,45.655766],"type":"Point"}
 }

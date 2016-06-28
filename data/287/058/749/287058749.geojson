@@ -2,13 +2,14 @@
   "id": 287058749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.246882,46.06892,13.246882,46.06892",
     "geom:latitude":46.06892,
     "geom:longitude":13.246882,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Cividale 33100 Udine",
     "sg:city":"Udine",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287058749,
-    "wof:lastmodified":1449000790,
+    "wof:lastmodified":1466290338,
     "wof:name":"Aflor Service (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [13.246882,46.06892,13.246882,46.06892],
+  "bbox": [
+    13.246882,
+    46.06892,
+    13.246882,
+    46.06892
+],
   "geometry": {"coordinates":[13.246882,46.06892],"type":"Point"}
 }

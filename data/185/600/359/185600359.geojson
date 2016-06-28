@@ -2,13 +2,14 @@
   "id": 185600359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.617905,44.329594,7.617905,44.329594",
     "geom:latitude":44.329594,
     "geom:longitude":7.617905,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piave 18; Peveragno; 12016",
     "sg:city":"Peveragno",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185600359,
-    "wof:lastmodified":1449006757,
+    "wof:lastmodified":1466292093,
     "wof:name":"Banca Cassa Di Risparmio, Di Savigliano Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.617905,44.329594,7.617905,44.329594],
+  "bbox": [
+    7.617905,
+    44.329594,
+    7.617905,
+    44.329594
+],
   "geometry": {"coordinates":[7.617905,44.329594],"type":"Point"}
 }

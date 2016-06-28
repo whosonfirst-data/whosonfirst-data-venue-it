@@ -2,13 +2,14 @@
   "id": 320097071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.742682,45.141811,7.742682,45.141811",
     "geom:latitude":45.141811,
     "geom:longitude":7.742682,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10036 Settimo Torinese",
     "sg:city":"Settimo Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320097071,
-    "wof:lastmodified":1449012741,
+    "wof:lastmodified":1466294592,
     "wof:name":"Compagnia Generale Trattori S.p.a.",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.742682,45.141811,7.742682,45.141811],
+  "bbox": [
+    7.742682,
+    45.141811,
+    7.742682,
+    45.141811
+],
   "geometry": {"coordinates":[7.742682,45.141811],"type":"Point"}
 }

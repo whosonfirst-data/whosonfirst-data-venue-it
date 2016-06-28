@@ -2,13 +2,14 @@
   "id": 186048379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.750884,45.797962,10.750884,45.797962",
     "geom:latitude":45.797962,
     "geom:longitude":10.750884,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Iv Novembre, 100; Borgostollo; 25010",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186048379,
-    "wof:lastmodified":1449051329,
+    "wof:lastmodified":1466295036,
     "wof:name":"Cassa Rurale Ed Artigiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.750884,45.797962,10.750884,45.797962],
+  "bbox": [
+    10.750884,
+    45.797962,
+    10.750884,
+    45.797962
+],
   "geometry": {"coordinates":[10.750884,45.797962],"type":"Point"}
 }

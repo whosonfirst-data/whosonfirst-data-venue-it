@@ -2,13 +2,14 @@
   "id": 320323047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.384244,43.725128,10.384244,43.725128",
     "geom:latitude":43.725128,
     "geom:longitude":10.384244,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56122 Pisa",
     "sg:city":"Pisa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320323047,
-    "wof:lastmodified":1449011567,
+    "wof:lastmodified":1466297015,
     "wof:name":"Kimble Italiana S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.384244,43.725128,10.384244,43.725128],
+  "bbox": [
+    10.384244,
+    43.725128,
+    10.384244,
+    43.725128
+],
   "geometry": {"coordinates":[10.384244,43.725128],"type":"Point"}
 }

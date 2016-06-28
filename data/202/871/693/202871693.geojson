@@ -2,13 +2,14 @@
   "id": 202871693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.994475,44.905487,10.994475,44.905487",
     "geom:latitude":44.905487,
     "geom:longitude":10.994475,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41033 Concordia Sulla Secchia",
     "sg:city":"Concordia sulla Secchia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202871693,
-    "wof:lastmodified":1449060938,
+    "wof:lastmodified":1466292912,
     "wof:name":"Artepiega Di Cavallini Aimone (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.994475,44.905487,10.994475,44.905487],
+  "bbox": [
+    10.994475,
+    44.905487,
+    10.994475,
+    44.905487
+],
   "geometry": {"coordinates":[10.994475,44.905487],"type":"Point"}
 }

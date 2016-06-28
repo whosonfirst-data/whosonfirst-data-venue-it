@@ -2,13 +2,14 @@
   "id": 186532629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.934916,43.901306,12.934916,43.901306",
     "geom:latitude":43.901306,
     "geom:longitude":12.934916,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"158, Via Marina Ardizia 61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186532629,
-    "wof:lastmodified":1449051289,
+    "wof:lastmodified":1466292620,
     "wof:name":"Albergo Miramare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.934916,43.901306,12.934916,43.901306],
+  "bbox": [
+    12.934916,
+    43.901306,
+    12.934916,
+    43.901306
+],
   "geometry": {"coordinates":[12.934916,43.901306],"type":"Point"}
 }

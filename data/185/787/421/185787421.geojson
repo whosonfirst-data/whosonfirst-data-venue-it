@@ -2,13 +2,14 @@
   "id": 185787421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.914069,44.927097,9.914069,44.927097",
     "geom:latitude":44.927097,
     "geom:longitude":9.914069,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Scapuzzi 1; Fiorenzuola D'arda",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185787421,
-    "wof:lastmodified":1449007348,
+    "wof:lastmodified":1466289198,
     "wof:name":"Banca Popolare Di Cremona Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.914069,44.927097,9.914069,44.927097],
+  "bbox": [
+    9.914069,
+    44.927097,
+    9.914069,
+    44.927097
+],
   "geometry": {"coordinates":[9.914069,44.927097],"type":"Point"}
 }

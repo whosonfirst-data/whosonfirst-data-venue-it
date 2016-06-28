@@ -2,13 +2,14 @@
   "id": 270490735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.337425,45.433746,12.337425,45.433746",
     "geom:latitude":45.433746,
     "geom:longitude":12.337425,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"San Marco - Calle Larga Xxii Marzo, 2032; Venezia; 30124",
     "sg:city":"San Marco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270490735,
-    "wof:lastmodified":1449010847,
+    "wof:lastmodified":1466294944,
     "wof:name":"Venezia Chamber Of Commerce & Industry",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [12.337425,45.433746,12.337425,45.433746],
+  "bbox": [
+    12.337425,
+    45.433746,
+    12.337425,
+    45.433746
+],
   "geometry": {"coordinates":[12.337425,45.433746],"type":"Point"}
 }

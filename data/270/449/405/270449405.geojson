@@ -2,13 +2,14 @@
   "id": 270449405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.218261,45.48624,9.218261,45.48624",
     "geom:latitude":45.48624,
     "geom:longitude":9.218261,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Costa Andrea 2 20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270449405,
-    "wof:lastmodified":1449010926,
+    "wof:lastmodified":1466294471,
     "wof:name":"Atlas Trading Company Srl",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "processing"
     ]
 },
-  "bbox": [9.218261,45.48624,9.218261,45.48624],
+  "bbox": [
+    9.218261,
+    45.48624,
+    9.218261,
+    45.48624
+],
   "geometry": {"coordinates":[9.218261,45.48624],"type":"Point"}
 }

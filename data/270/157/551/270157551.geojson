@@ -2,13 +2,14 @@
   "id": 270157551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.933465,45.682091,11.933465,45.682091",
     "geom:latitude":45.682091,
     "geom:longitude":11.933465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31033 Castelfranco Veneto",
     "sg:city":"Castelfranco Veneto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270157551,
-    "wof:lastmodified":1449010739,
+    "wof:lastmodified":1466290864,
     "wof:name":"Bertoncello Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.933465,45.682091,11.933465,45.682091],
+  "bbox": [
+    11.933465,
+    45.682091,
+    11.933465,
+    45.682091
+],
   "geometry": {"coordinates":[11.933465,45.682091],"type":"Point"}
 }

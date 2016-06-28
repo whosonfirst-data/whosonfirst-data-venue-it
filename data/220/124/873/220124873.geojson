@@ -2,13 +2,14 @@
   "id": 220124873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.548337,41.861523,12.548337,41.861523",
     "geom:latitude":41.861523,
     "geom:longitude":12.548337,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00174 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220124873,
-    "wof:lastmodified":1449074824,
+    "wof:lastmodified":1466296169,
     "wof:name":"Fa.san. Production Sas",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.548337,41.861523,12.548337,41.861523],
+  "bbox": [
+    12.548337,
+    41.861523,
+    12.548337,
+    41.861523
+],
   "geometry": {"coordinates":[12.548337,41.861523],"type":"Point"}
 }

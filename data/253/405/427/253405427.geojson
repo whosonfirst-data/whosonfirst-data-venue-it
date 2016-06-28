@@ -2,13 +2,14 @@
   "id": 253405427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.594824,46.06995,12.594824,46.06995",
     "geom:latitude":46.06995,
     "geom:longitude":12.594824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"49, Via De Zan 33081 Aviano",
     "sg:city":"Aviano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253405427,
-    "wof:lastmodified":1449065540,
+    "wof:lastmodified":1466293467,
     "wof:name":"Tavian Girolamo Di Tavian Ulzio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.594824,46.06995,12.594824,46.06995],
+  "bbox": [
+    12.594824,
+    46.06995,
+    12.594824,
+    46.06995
+],
   "geometry": {"coordinates":[12.594824,46.06995],"type":"Point"}
 }

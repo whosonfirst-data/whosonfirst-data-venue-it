@@ -2,13 +2,14 @@
   "id": 186266137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.396585,43.716137,10.396585,43.716137",
     "geom:latitude":43.716137,
     "geom:longitude":10.396585,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sicilia, 53/55 56030 Perignano",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186266137,
-    "wof:lastmodified":1449050353,
+    "wof:lastmodified":1466290207,
     "wof:name":"Ferrettimobili Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedroom"
     ]
 },
-  "bbox": [10.396585,43.716137,10.396585,43.716137],
+  "bbox": [
+    10.396585,
+    43.716137,
+    10.396585,
+    43.716137
+],
   "geometry": {"coordinates":[10.396585,43.716137],"type":"Point"}
 }

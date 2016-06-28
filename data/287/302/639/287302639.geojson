@@ -2,13 +2,14 @@
   "id": 287302639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.836954,45.655682,8.836954,45.655682",
     "geom:latitude":45.655682,
     "geom:longitude":8.836954,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Calabria 21012 Cassano Magnago",
     "sg:city":"Cassano Magnago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287302639,
-    "wof:lastmodified":1449000956,
+    "wof:lastmodified":1466293569,
     "wof:name":"F.lli Vaser Snc Di Vaser Giovanni Alessandro E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [8.836954,45.655682,8.836954,45.655682],
+  "bbox": [
+    8.836954,
+    45.655682,
+    8.836954,
+    45.655682
+],
   "geometry": {"coordinates":[8.836954,45.655682],"type":"Point"}
 }

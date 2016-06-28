@@ -2,13 +2,14 @@
   "id": 186051215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.602157,45.083706,11.602157,45.083706",
     "geom:latitude":45.083706,
     "geom:longitude":11.602157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Sofia, 91; Lendinara; 45026",
     "sg:city":"Lendinara",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186051215,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466295085,
     "wof:name":"Cassa Rurale Ed Artigiana, Di Lendinara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.602157,45.083706,11.602157,45.083706],
+  "bbox": [
+    11.602157,
+    45.083706,
+    11.602157,
+    45.083706
+],
   "geometry": {"coordinates":[11.602157,45.083706],"type":"Point"}
 }

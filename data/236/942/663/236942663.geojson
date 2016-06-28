@@ -2,13 +2,14 @@
   "id": 236942663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.694167,43.318214,13.694167,43.318214",
     "geom:latitude":43.318214,
     "geom:longitude":13.694167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62012 Civitanova Marche",
     "sg:city":"Civitanova Marche",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236942663,
-    "wof:lastmodified":1449003100,
+    "wof:lastmodified":1466297316,
     "wof:name":"Traini & Torresi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [13.694167,43.318214,13.694167,43.318214],
+  "bbox": [
+    13.694167,
+    43.318214,
+    13.694167,
+    43.318214
+],
   "geometry": {"coordinates":[13.694167,43.318214],"type":"Point"}
 }

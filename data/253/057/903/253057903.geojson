@@ -2,13 +2,14 @@
   "id": 253057903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.334462,45.432541,12.334462,45.432541",
     "geom:latitude":45.432541,
     "geom:longitude":12.334462,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30124 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253057903,
-    "wof:lastmodified":1449064281,
+    "wof:lastmodified":1466289520,
     "wof:name":"Bona S.n.c.",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.334462,45.432541,12.334462,45.432541],
+  "bbox": [
+    12.334462,
+    45.432541,
+    12.334462,
+    45.432541
+],
   "geometry": {"coordinates":[12.334462,45.432541],"type":"Point"}
 }

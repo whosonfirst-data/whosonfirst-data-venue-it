@@ -2,13 +2,14 @@
   "id": 269662111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.906584,43.755516,10.906584,43.755516",
     "geom:latitude":43.755516,
     "geom:longitude":10.906584,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Provinciale Di Mercatale 195 50059 Vinci",
     "sg:city":"Vinci",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269662111,
-    "wof:lastmodified":1449037737,
+    "wof:lastmodified":1466291108,
     "wof:name":"Pizzo Etichette S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "label"
     ]
 },
-  "bbox": [10.906584,43.755516,10.906584,43.755516],
+  "bbox": [
+    10.906584,
+    43.755516,
+    10.906584,
+    43.755516
+],
   "geometry": {"coordinates":[10.906584,43.755516],"type":"Point"}
 }

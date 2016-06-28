@@ -2,13 +2,14 @@
   "id": 286605233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.776805,45.656998,13.776805,45.656998",
     "geom:latitude":45.656998,
     "geom:longitude":13.776805,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Piazza Di Scorcola 34134 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286605233,
-    "wof:lastmodified":1449016632,
+    "wof:lastmodified":1466293994,
     "wof:name":"Cadim (s.r.l.)",
     "wof:parent_id":85904971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [13.776805,45.656998,13.776805,45.656998],
+  "bbox": [
+    13.776805,
+    45.656998,
+    13.776805,
+    45.656998
+],
   "geometry": {"coordinates":[13.776805,45.656998],"type":"Point"}
 }

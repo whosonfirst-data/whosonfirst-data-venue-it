@@ -2,13 +2,14 @@
   "id": 202720889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.158818,45.493347,9.158818,45.493347",
     "geom:latitude":45.493347,
     "geom:longitude":9.158818,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20155 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202720889,
-    "wof:lastmodified":1449060713,
+    "wof:lastmodified":1466291286,
     "wof:name":"Csf Italia Snc",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.158818,45.493347,9.158818,45.493347],
+  "bbox": [
+    9.158818,
+    45.493347,
+    9.158818,
+    45.493347
+],
   "geometry": {"coordinates":[9.158818,45.493347],"type":"Point"}
 }

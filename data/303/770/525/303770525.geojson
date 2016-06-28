@@ -2,13 +2,14 @@
   "id": 303770525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.072936,45.458527,9.072936,45.458527",
     "geom:latitude":45.458527,
     "geom:longitude":9.072936,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303770525,
-    "wof:lastmodified":1449000614,
+    "wof:lastmodified":1466297662,
     "wof:name":"Braidlux Srl",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.072936,45.458527,9.072936,45.458527],
+  "bbox": [
+    9.072936,
+    45.458527,
+    9.072936,
+    45.458527
+],
   "geometry": {"coordinates":[9.072936,45.458527],"type":"Point"}
 }

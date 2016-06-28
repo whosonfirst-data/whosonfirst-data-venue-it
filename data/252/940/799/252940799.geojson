@@ -2,13 +2,14 @@
   "id": 252940799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.260269,44.318935,11.260269,44.318935",
     "geom:latitude":44.318935,
     "geom:longitude":11.260269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40040 Monzuno",
     "sg:classifiers":[],
     "sg:orig_category":"Zootecnia E Pesca, Allevamento Piccoli Animali. Animali Domestici",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252940799,
-    "wof:lastmodified":1449005697,
+    "wof:lastmodified":1466291446,
     "wof:name":"Allevamento Seminoles Di Casa Pizzoli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.260269,44.318935,11.260269,44.318935],
+  "bbox": [
+    11.260269,
+    44.318935,
+    11.260269,
+    44.318935
+],
   "geometry": {"coordinates":[11.260269,44.318935],"type":"Point"}
 }

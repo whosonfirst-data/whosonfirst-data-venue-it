@@ -2,13 +2,14 @@
   "id": 286718407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.390781,43.103508,12.390781,43.103508",
     "geom:latitude":43.103508,
     "geom:longitude":12.390781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06121 Perugia",
     "sg:city":"Perugia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286718407,
-    "wof:lastmodified":1449015805,
+    "wof:lastmodified":1466295437,
     "wof:name":"Fidimpresa Perugia - Cooperativa Artigiana Di Garnazia Soc.coop.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.390781,43.103508,12.390781,43.103508],
+  "bbox": [
+    12.390781,
+    43.103508,
+    12.390781,
+    43.103508
+],
   "geometry": {"coordinates":[12.390781,43.103508],"type":"Point"}
 }

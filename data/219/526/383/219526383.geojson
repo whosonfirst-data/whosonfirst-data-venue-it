@@ -2,13 +2,14 @@
   "id": 219526383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.558231,41.053833,14.558231,41.053833",
     "geom:latitude":41.053833,
     "geom:longitude":14.558231,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Caracciano 4 82011 Airola",
     "sg:city":"Airola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219526383,
-    "wof:lastmodified":1449071481,
+    "wof:lastmodified":1466291633,
     "wof:name":"Usag Tabacchi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "imported"
     ]
 },
-  "bbox": [14.558231,41.053833,14.558231,41.053833],
+  "bbox": [
+    14.558231,
+    41.053833,
+    14.558231,
+    41.053833
+],
   "geometry": {"coordinates":[14.558231,41.053833],"type":"Point"}
 }

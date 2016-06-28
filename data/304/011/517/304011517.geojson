@@ -2,13 +2,14 @@
   "id": 304011517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.041146,45.413261,9.041146,45.413261",
     "geom:latitude":45.413261,
     "geom:longitude":9.041146,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304011517,
-    "wof:lastmodified":1449044046,
+    "wof:lastmodified":1466292291,
     "wof:name":"Parka Air Sas",
     "wof:parent_id":85862759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.041146,45.413261,9.041146,45.413261],
+  "bbox": [
+    9.041146,
+    45.413261,
+    9.041146,
+    45.413261
+],
   "geometry": {"coordinates":[9.041146,45.413261],"type":"Point"}
 }

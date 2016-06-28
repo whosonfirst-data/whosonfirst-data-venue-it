@@ -2,13 +2,14 @@
   "id": 286510357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.084383,41.07703,16.084383,41.07703",
     "geom:latitude":41.07703,
     "geom:longitude":16.084383,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Martiri Via Fani 70055 Minervino Murge",
     "sg:city":"Minervino Murge",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286510357,
-    "wof:lastmodified":1449016974,
+    "wof:lastmodified":1466292832,
     "wof:name":"Fapel (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [16.084383,41.07703,16.084383,41.07703],
+  "bbox": [
+    16.084383,
+    41.07703,
+    16.084383,
+    41.07703
+],
   "geometry": {"coordinates":[16.084383,41.07703],"type":"Point"}
 }

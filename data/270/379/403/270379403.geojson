@@ -2,13 +2,14 @@
   "id": 270379403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.351902,41.640137,13.351902,41.640137",
     "geom:latitude":41.640137,
     "geom:longitude":13.351902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localit\u00e0 Fratta Rotonda 03012 Anagni",
     "sg:city":"Anagni",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270379403,
-    "wof:lastmodified":1449010071,
+    "wof:lastmodified":1466293622,
     "wof:name":"Videocolor Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "ray"
     ]
 },
-  "bbox": [13.351902,41.640137,13.351902,41.640137],
+  "bbox": [
+    13.351902,
+    41.640137,
+    13.351902,
+    41.640137
+],
   "geometry": {"coordinates":[13.351902,41.640137],"type":"Point"}
 }

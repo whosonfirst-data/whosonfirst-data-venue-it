@@ -2,13 +2,14 @@
   "id": 235970373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.366606,44.934116,10.366606,44.934116",
     "geom:latitude":44.934116,
     "geom:longitude":10.366606,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"142, Via Filippina 43052 Colorno",
     "sg:city":"Colorno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235970373,
-    "wof:lastmodified":1449008603,
+    "wof:lastmodified":1466295504,
     "wof:name":"Iniziativa Agricola Bosco Vescovado Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [10.366606,44.934116,10.366606,44.934116],
+  "bbox": [
+    10.366606,
+    44.934116,
+    10.366606,
+    44.934116
+],
   "geometry": {"coordinates":[10.366606,44.934116],"type":"Point"}
 }

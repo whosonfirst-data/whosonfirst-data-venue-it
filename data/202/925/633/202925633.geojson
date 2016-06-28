@@ -2,13 +2,14 @@
   "id": 202925633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.058468,45.564556,8.058468,45.564556",
     "geom:latitude":45.564556,
     "geom:longitude":8.058468,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13899 Pralungo",
     "sg:city":"Pralungo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202925633,
-    "wof:lastmodified":1449060135,
+    "wof:lastmodified":1466293474,
     "wof:name":"Ritorcitura Belvedere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.058468,45.564556,8.058468,45.564556],
+  "bbox": [
+    8.058468,
+    45.564556,
+    8.058468,
+    45.564556
+],
   "geometry": {"coordinates":[8.058468,45.564556],"type":"Point"}
 }

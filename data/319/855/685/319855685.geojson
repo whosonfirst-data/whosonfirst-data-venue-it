@@ -2,13 +2,14 @@
   "id": 319855685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.436846,43.668221,10.436846,43.668221",
     "geom:latitude":43.668221,
     "geom:longitude":10.436846,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56121 Pisa",
     "sg:city":"Pisa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319855685,
-    "wof:lastmodified":1449024664,
+    "wof:lastmodified":1466292925,
     "wof:name":"Compagnia Pisana Trasporti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.436846,43.668221,10.436846,43.668221],
+  "bbox": [
+    10.436846,
+    43.668221,
+    10.436846,
+    43.668221
+],
   "geometry": {"coordinates":[10.436846,43.668221],"type":"Point"}
 }

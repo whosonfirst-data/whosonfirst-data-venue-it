@@ -2,13 +2,14 @@
   "id": 219158115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.964885,37.98407,12.964885,37.98407",
     "geom:latitude":37.98407,
     "geom:longitude":12.964885,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91011 Alcamo",
     "sg:city":"Alcamo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219158115,
-    "wof:lastmodified":1449072737,
+    "wof:lastmodified":1466293418,
     "wof:name":"Murphy's Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.964885,37.98407,12.964885,37.98407],
+  "bbox": [
+    12.964885,
+    37.98407,
+    12.964885,
+    37.98407
+],
   "geometry": {"coordinates":[12.964885,37.98407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286944721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.550516,40.743187,17.550516,40.743187",
     "geom:latitude":40.743187,
     "geom:longitude":17.550516,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72017 Ostuni",
     "sg:city":"Ostuni",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286944721,
-    "wof:lastmodified":1449016662,
+    "wof:lastmodified":1466297281,
     "wof:name":"Elastici Messapia S.d.f.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.550516,40.743187,17.550516,40.743187],
+  "bbox": [
+    17.550516,
+    40.743187,
+    17.550516,
+    40.743187
+],
   "geometry": {"coordinates":[17.550516,40.743187],"type":"Point"}
 }

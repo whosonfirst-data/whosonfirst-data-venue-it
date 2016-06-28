@@ -2,13 +2,14 @@
   "id": 336961261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.278327,45.529739,9.278327,45.529739",
     "geom:latitude":45.529739,
     "geom:longitude":9.278327,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336961261,
-    "wof:lastmodified":1448997978,
+    "wof:lastmodified":1466297343,
     "wof:name":"Mariotti Libro Donatella",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.278327,45.529739,9.278327,45.529739],
+  "bbox": [
+    9.278327,
+    45.529739,
+    9.278327,
+    45.529739
+],
   "geometry": {"coordinates":[9.278327,45.529739],"type":"Point"}
 }

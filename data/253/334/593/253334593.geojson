@@ -2,13 +2,14 @@
   "id": 253334593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.674199,45.750443,11.674199,45.750443",
     "geom:latitude":45.750443,
     "geom:longitude":11.674199,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36061 Bassano Del Grappa",
     "sg:city":"Bassano del Grappa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253334593,
-    "wof:lastmodified":1449063678,
+    "wof:lastmodified":1466292673,
     "wof:name":"Spallinificio Farronato Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.674199,45.750443,11.674199,45.750443],
+  "bbox": [
+    11.674199,
+    45.750443,
+    11.674199,
+    45.750443
+],
   "geometry": {"coordinates":[11.674199,45.750443],"type":"Point"}
 }

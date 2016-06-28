@@ -2,13 +2,14 @@
   "id": 186348401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.195755,45.491703,9.195755,45.491703",
     "geom:latitude":45.491703,
     "geom:longitude":9.195755,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Pregnana Milanese",
     "sg:city":"Pregnana Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186348401,
-    "wof:lastmodified":1449050395,
+    "wof:lastmodified":1466290904,
     "wof:name":"Trapuntificio Tre C. & C. (s.n.c.)",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.195755,45.491703,9.195755,45.491703],
+  "bbox": [
+    9.195755,
+    45.491703,
+    9.195755,
+    45.491703
+],
   "geometry": {"coordinates":[9.195755,45.491703],"type":"Point"}
 }

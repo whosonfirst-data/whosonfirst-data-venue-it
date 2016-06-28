@@ -2,13 +2,14 @@
   "id": 220148711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.133571,45.164375,9.133571,45.164375",
     "geom:latitude":45.164375,
     "geom:longitude":9.133571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piemonte 18/20 27028 San Martino Siccomario",
     "sg:city":"San Martino Siccomario",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220148711,
-    "wof:lastmodified":1449074743,
+    "wof:lastmodified":1466289035,
     "wof:name":"Stigma Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "solution"
     ]
 },
-  "bbox": [9.133571,45.164375,9.133571,45.164375],
+  "bbox": [
+    9.133571,
+    45.164375,
+    9.133571,
+    45.164375
+],
   "geometry": {"coordinates":[9.133571,45.164375],"type":"Point"}
 }

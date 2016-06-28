@@ -2,13 +2,14 @@
   "id": 253381795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.798697,37.688782,12.798697,37.688782",
     "geom:latitude":37.688782,
     "geom:longitude":12.798697,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"175, Viale Roma 91022 Castelvetrano",
     "sg:city":"Castelvetrano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253381795,
-    "wof:lastmodified":1449063059,
+    "wof:lastmodified":1466293201,
     "wof:name":"Desi Immobiliare Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.798697,37.688782,12.798697,37.688782],
+  "bbox": [
+    12.798697,
+    37.688782,
+    12.798697,
+    37.688782
+],
   "geometry": {"coordinates":[12.798697,37.688782],"type":"Point"}
 }

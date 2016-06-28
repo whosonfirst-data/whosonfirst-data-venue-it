@@ -2,13 +2,14 @@
   "id": 185854991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604842,45.234135,7.604842,45.234135",
     "geom:latitude":45.234135,
     "geom:longitude":7.604842,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Siriaco 13; Cirie; 10073",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185854991,
-    "wof:lastmodified":1449008132,
+    "wof:lastmodified":1466289634,
     "wof:name":"Banca Sella Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604842,45.234135,7.604842,45.234135],
+  "bbox": [
+    7.604842,
+    45.234135,
+    7.604842,
+    45.234135
+],
   "geometry": {"coordinates":[7.604842,45.234135],"type":"Point"}
 }

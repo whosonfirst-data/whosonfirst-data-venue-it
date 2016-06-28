@@ -2,13 +2,14 @@
   "id": 270173567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.474531,45.127041,8.474531,45.127041",
     "geom:latitude":45.127041,
     "geom:longitude":8.474531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via E. Grandi 7 15033 Casale Monferrato",
     "sg:city":"Casale Monferrato",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270173567,
-    "wof:lastmodified":1449009106,
+    "wof:lastmodified":1466291046,
     "wof:name":"Cba S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "caramel"
     ]
 },
-  "bbox": [8.474531,45.127041,8.474531,45.127041],
+  "bbox": [
+    8.474531,
+    45.127041,
+    8.474531,
+    45.127041
+],
   "geometry": {"coordinates":[8.474531,45.127041],"type":"Point"}
 }

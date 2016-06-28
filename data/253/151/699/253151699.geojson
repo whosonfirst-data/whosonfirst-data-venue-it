@@ -2,13 +2,14 @@
   "id": 253151699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.09407,45.370872,11.09407,45.370872",
     "geom:latitude":45.370872,
     "geom:longitude":11.09407,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37059 Zevio",
     "sg:city":"Zevio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253151699,
-    "wof:lastmodified":1449062848,
+    "wof:lastmodified":1466290503,
     "wof:name":"Fonderia Bampa Giampietro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.09407,45.370872,11.09407,45.370872],
+  "bbox": [
+    11.09407,
+    45.370872,
+    11.09407,
+    45.370872
+],
   "geometry": {"coordinates":[11.09407,45.370872],"type":"Point"}
 }

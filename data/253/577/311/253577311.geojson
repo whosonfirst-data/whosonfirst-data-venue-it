@@ -2,13 +2,14 @@
   "id": 253577311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.637816,45.063278,7.637816,45.063278",
     "geom:latitude":45.063278,
     "geom:longitude":7.637816,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10141 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253577311,
-    "wof:lastmodified":1449065886,
+    "wof:lastmodified":1466295660,
     "wof:name":"Save Di Vernassa Franco",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.637816,45.063278,7.637816,45.063278],
+  "bbox": [
+    7.637816,
+    45.063278,
+    7.637816,
+    45.063278
+],
   "geometry": {"coordinates":[7.637816,45.063278],"type":"Point"}
 }

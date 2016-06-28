@@ -2,13 +2,14 @@
   "id": 336676387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.085802,45.583099,9.085802,45.583099",
     "geom:latitude":45.583099,
     "geom:longitude":9.085802,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58, V. Delle Groane 20024 Garbagnate Milanese",
     "sg:city":"Garbagnate Milanese",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336676387,
-    "wof:lastmodified":1448997618,
+    "wof:lastmodified":1466294642,
     "wof:name":"Garbaplast Srl",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.085802,45.583099,9.085802,45.583099],
+  "bbox": [
+    9.085802,
+    45.583099,
+    9.085802,
+    45.583099
+],
   "geometry": {"coordinates":[9.085802,45.583099],"type":"Point"}
 }

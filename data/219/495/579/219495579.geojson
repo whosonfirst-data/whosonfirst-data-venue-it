@@ -2,13 +2,14 @@
   "id": 219495579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.975072,44.557484,10.975072,44.557484",
     "geom:latitude":44.557484,
     "geom:longitude":10.975072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219495579,
-    "wof:lastmodified":1449071949,
+    "wof:lastmodified":1466291357,
     "wof:name":"Politecnica Societ\u00c0 Italiana D'ingegneria Soc. Coop. Al.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.975072,44.557484,10.975072,44.557484],
+  "bbox": [
+    10.975072,
+    44.557484,
+    10.975072,
+    44.557484
+],
   "geometry": {"coordinates":[10.975072,44.557484],"type":"Point"}
 }

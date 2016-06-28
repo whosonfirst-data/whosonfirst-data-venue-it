@@ -2,13 +2,14 @@
   "id": 269561125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.16399,43.563702,11.16399,43.563702",
     "geom:latitude":43.563702,
     "geom:longitude":11.16399,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell' Artigianato 35 50028 Tavarnelle Val Di Pesa",
     "sg:city":"Tavarnelle Val di Pesa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269561125,
-    "wof:lastmodified":1449037885,
+    "wof:lastmodified":1466289846,
     "wof:name":"Sorelle Vermigli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.16399,43.563702,11.16399,43.563702],
+  "bbox": [
+    11.16399,
+    43.563702,
+    11.16399,
+    43.563702
+],
   "geometry": {"coordinates":[11.16399,43.563702],"type":"Point"}
 }

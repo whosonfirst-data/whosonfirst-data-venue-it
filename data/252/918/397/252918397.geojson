@@ -2,13 +2,14 @@
   "id": 252918397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.035379,45.571712,10.035379,45.571712",
     "geom:latitude":45.571712,
     "geom:longitude":10.035379,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25046 Cazzago San Martino",
     "sg:city":"Cazzago San Martino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252918397,
-    "wof:lastmodified":1449006133,
+    "wof:lastmodified":1466291233,
     "wof:name":"Allevamento Avicolo Cadei Fabio E C. S.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.035379,45.571712,10.035379,45.571712],
+  "bbox": [
+    10.035379,
+    45.571712,
+    10.035379,
+    45.571712
+],
   "geometry": {"coordinates":[10.035379,45.571712],"type":"Point"}
 }

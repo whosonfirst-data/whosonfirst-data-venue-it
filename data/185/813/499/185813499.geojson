@@ -2,13 +2,14 @@
   "id": 185813499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.299356,45.497059,9.299356,45.497059",
     "geom:latitude":45.497059,
     "geom:longitude":9.299356,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cassanese 200/e; Segrate; 20090",
     "sg:city":"Segrate",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185813499,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1466289372,
     "wof:name":"Banca Popolare Di Sondrio Scarl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.299356,45.497059,9.299356,45.497059],
+  "bbox": [
+    9.299356,
+    45.497059,
+    9.299356,
+    45.497059
+],
   "geometry": {"coordinates":[9.299356,45.497059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252802511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.421727,41.912922,12.421727,41.912922",
     "geom:latitude":41.912922,
     "geom:longitude":12.421727,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00167 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252802511,
-    "wof:lastmodified":1449006307,
+    "wof:lastmodified":1466289951,
     "wof:name":"Tirelli Costumi S.p.a.",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.421727,41.912922,12.421727,41.912922],
+  "bbox": [
+    12.421727,
+    41.912922,
+    12.421727,
+    41.912922
+],
   "geometry": {"coordinates":[12.421727,41.912922],"type":"Point"}
 }

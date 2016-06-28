@@ -2,13 +2,14 @@
   "id": 286705145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.22566,40.85857,14.22566,40.85857",
     "geom:latitude":40.85857,
     "geom:longitude":14.22566,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"113, Via Castellino Pietro 80131 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286705145,
-    "wof:lastmodified":1449018097,
+    "wof:lastmodified":1466295272,
     "wof:name":"Metrosud Soc.consortile P.a.",
     "wof:parent_id":85904745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [14.22566,40.85857,14.22566,40.85857],
+  "bbox": [
+    14.22566,
+    40.85857,
+    14.22566,
+    40.85857
+],
   "geometry": {"coordinates":[14.22566,40.85857],"type":"Point"}
 }

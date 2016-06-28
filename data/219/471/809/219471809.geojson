@@ -2,13 +2,14 @@
   "id": 219471809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655042,45.085205,7.655042,45.085205",
     "geom:latitude":45.085205,
     "geom:longitude":7.655042,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10143 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219471809,
-    "wof:lastmodified":1449071805,
+    "wof:lastmodified":1466291118,
     "wof:name":"G.e.d.i. Srl",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.655042,45.085205,7.655042,45.085205],
+  "bbox": [
+    7.655042,
+    45.085205,
+    7.655042,
+    45.085205
+],
   "geometry": {"coordinates":[7.655042,45.085205],"type":"Point"}
 }

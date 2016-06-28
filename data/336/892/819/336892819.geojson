@@ -2,13 +2,14 @@
   "id": 336892819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.107734,45.449841,9.107734,45.449841",
     "geom:latitude":45.449841,
     "geom:longitude":9.107734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20094 Corsico",
     "sg:city":"Corsico",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336892819,
-    "wof:lastmodified":1448997096,
+    "wof:lastmodified":1466296911,
     "wof:name":"Anzalotta Sabino",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.107734,45.449841,9.107734,45.449841],
+  "bbox": [
+    9.107734,
+    45.449841,
+    9.107734,
+    45.449841
+],
   "geometry": {"coordinates":[9.107734,45.449841],"type":"Point"}
 }

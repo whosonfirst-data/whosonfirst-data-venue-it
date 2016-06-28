@@ -2,13 +2,14 @@
   "id": 336649417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.256902,43.768734,11.256902,43.768734",
     "geom:latitude":43.768734,
     "geom:longitude":11.256902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"170, Viale Kennedy John Fitzgerald 50038 Scarperia",
     "sg:city":"Scarperia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336649417,
-    "wof:lastmodified":1448997658,
+    "wof:lastmodified":1466294320,
     "wof:name":"Dori",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.256902,43.768734,11.256902,43.768734],
+  "bbox": [
+    11.256902,
+    43.768734,
+    11.256902,
+    43.768734
+],
   "geometry": {"coordinates":[11.256902,43.768734],"type":"Point"}
 }

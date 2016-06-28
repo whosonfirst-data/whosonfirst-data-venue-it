@@ -2,13 +2,14 @@
   "id": 253401871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.463635,45.714764,12.463635,45.714764",
     "geom:latitude":45.714764,
     "geom:longitude":12.463635,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Postumia 31047 Ponte Di Piave",
     "sg:city":"Ponte di Piave",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253401871,
-    "wof:lastmodified":1449065335,
+    "wof:lastmodified":1466293426,
     "wof:name":"Saviane Celeste S.a.s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.463635,45.714764,12.463635,45.714764],
+  "bbox": [
+    12.463635,
+    45.714764,
+    12.463635,
+    45.714764
+],
   "geometry": {"coordinates":[12.463635,45.714764],"type":"Point"}
 }

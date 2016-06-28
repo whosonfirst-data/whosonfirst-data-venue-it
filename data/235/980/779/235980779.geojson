@@ -2,13 +2,14 @@
   "id": 235980779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.410319,45.665066,9.410319,45.665066",
     "geom:latitude":45.665066,
     "geom:longitude":9.410319,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20050 Ronco Briantino",
     "sg:city":"Ronco Briantino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":235980779,
-    "wof:lastmodified":1449008299,
+    "wof:lastmodified":1466295702,
     "wof:name":"Sala Egidio Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.410319,45.665066,9.410319,45.665066],
+  "bbox": [
+    9.410319,
+    45.665066,
+    9.410319,
+    45.665066
+],
   "geometry": {"coordinates":[9.410319,45.665066],"type":"Point"}
 }

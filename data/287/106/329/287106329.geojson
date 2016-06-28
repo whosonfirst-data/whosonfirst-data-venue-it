@@ -2,13 +2,14 @@
   "id": 287106329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.277979,46.032417,8.277979,46.032417",
     "geom:latitude":46.032417,
     "geom:longitude":8.277979,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28805 Vogogna",
     "sg:city":"Vogogna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287106329,
-    "wof:lastmodified":1449000650,
+    "wof:lastmodified":1466291000,
     "wof:name":"Gae.tra Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.277979,46.032417,8.277979,46.032417],
+  "bbox": [
+    8.277979,
+    46.032417,
+    8.277979,
+    46.032417
+],
   "geometry": {"coordinates":[8.277979,46.032417],"type":"Point"}
 }

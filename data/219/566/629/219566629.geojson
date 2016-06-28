@@ -2,13 +2,14 @@
   "id": 219566629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.192107,44.161102,12.192107,44.161102",
     "geom:latitude":44.161102,
     "geom:longitude":12.192107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219566629,
-    "wof:lastmodified":1449070442,
+    "wof:lastmodified":1466291980,
     "wof:name":"Ristorante Castello Di Diegaro Di Valdimigli Valeria & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "restaurants"
     ]
 },
-  "bbox": [12.192107,44.161102,12.192107,44.161102],
+  "bbox": [
+    12.192107,
+    44.161102,
+    12.192107,
+    44.161102
+],
   "geometry": {"coordinates":[12.192107,44.161102],"type":"Point"}
 }

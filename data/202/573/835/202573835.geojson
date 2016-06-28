@@ -2,13 +2,14 @@
   "id": 202573835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.680844,42.828106,12.680844,42.828106",
     "geom:latitude":42.828106,
     "geom:longitude":12.680844,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06053 Deruta",
     "sg:city":"Deruta",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202573835,
-    "wof:lastmodified":1449061974,
+    "wof:lastmodified":1466289670,
     "wof:name":"Cutini Mario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.680844,42.828106,12.680844,42.828106],
+  "bbox": [
+    12.680844,
+    42.828106,
+    12.680844,
+    42.828106
+],
   "geometry": {"coordinates":[12.680844,42.828106],"type":"Point"}
 }

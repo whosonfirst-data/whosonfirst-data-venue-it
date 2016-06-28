@@ -2,13 +2,14 @@
   "id": 186509499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.622426,42.052467,12.622426,42.052467",
     "geom:latitude":42.052467,
     "geom:longitude":12.622426,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Saffi Aurelio 00015 Monterotondo",
     "sg:city":"Monterotondo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186509499,
-    "wof:lastmodified":1449050383,
+    "wof:lastmodified":1466292385,
     "wof:name":"Iskra Coop.soc.arl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [12.622426,42.052467,12.622426,42.052467],
+  "bbox": [
+    12.622426,
+    42.052467,
+    12.622426,
+    42.052467
+],
   "geometry": {"coordinates":[12.622426,42.052467],"type":"Point"}
 }

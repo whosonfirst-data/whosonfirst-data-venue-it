@@ -2,13 +2,14 @@
   "id": 270188135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.668874,45.036591,7.668874,45.036591",
     "geom:latitude":45.036591,
     "geom:longitude":7.668874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10126 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270188135,
-    "wof:lastmodified":1449009853,
+    "wof:lastmodified":1466291226,
     "wof:name":"Banchi Luigi",
     "wof:parent_id":85796879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.668874,45.036591,7.668874,45.036591],
+  "bbox": [
+    7.668874,
+    45.036591,
+    7.668874,
+    45.036591
+],
   "geometry": {"coordinates":[7.668874,45.036591],"type":"Point"}
 }

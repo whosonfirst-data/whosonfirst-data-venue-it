@@ -2,13 +2,14 @@
   "id": 203203531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.169295,45.455585,9.169295,45.455585",
     "geom:latitude":45.455585,
     "geom:longitude":9.169295,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203203531,
-    "wof:lastmodified":1449025751,
+    "wof:lastmodified":1466289900,
     "wof:name":"Dynameeting Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.169295,45.455585,9.169295,45.455585],
+  "bbox": [
+    9.169295,
+    45.455585,
+    9.169295,
+    45.455585
+],
   "geometry": {"coordinates":[9.169295,45.455585],"type":"Point"}
 }

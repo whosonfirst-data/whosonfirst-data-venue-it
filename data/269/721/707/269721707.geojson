@@ -2,13 +2,14 @@
   "id": 269721707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.71738,44.355137,11.71738,44.355137",
     "geom:latitude":44.355137,
     "geom:longitude":11.71738,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40026 Imola",
     "sg:city":"Imola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269721707,
-    "wof:lastmodified":1449038962,
+    "wof:lastmodified":1466291976,
     "wof:name":"Solo Affitti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.71738,44.355137,11.71738,44.355137],
+  "bbox": [
+    11.71738,
+    44.355137,
+    11.71738,
+    44.355137
+],
   "geometry": {"coordinates":[11.71738,44.355137],"type":"Point"}
 }

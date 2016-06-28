@@ -2,13 +2,14 @@
   "id": 286946999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.080343,45.810509,9.080343,45.810509",
     "geom:latitude":45.810509,
     "geom:longitude":9.080343,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22017 Menaggio",
     "sg:city":"Menaggio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286946999,
-    "wof:lastmodified":1449017749,
+    "wof:lastmodified":1466297299,
     "wof:name":"Gloria Maglieria Elastica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.080343,45.810509,9.080343,45.810509],
+  "bbox": [
+    9.080343,
+    45.810509,
+    9.080343,
+    45.810509
+],
   "geometry": {"coordinates":[9.080343,45.810509],"type":"Point"}
 }

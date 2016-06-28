@@ -2,13 +2,14 @@
   "id": 320079647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.412057,45.522594,9.412057,45.522594",
     "geom:latitude":45.522594,
     "geom:longitude":9.412057,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20064 Gorgonzola",
     "sg:city":"Gorgonzola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320079647,
-    "wof:lastmodified":1449014351,
+    "wof:lastmodified":1466294374,
     "wof:name":"D.m.g. Italia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.412057,45.522594,9.412057,45.522594],
+  "bbox": [
+    9.412057,
+    45.522594,
+    9.412057,
+    45.522594
+],
   "geometry": {"coordinates":[9.412057,45.522594],"type":"Point"}
 }

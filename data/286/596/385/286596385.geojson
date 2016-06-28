@@ -2,13 +2,14 @@
   "id": 286596385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.167151,42.351791,14.167151,42.351791",
     "geom:latitude":42.351791,
     "geom:longitude":14.167151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Contrada Montecalvo 66041 Atessa",
     "sg:city":"Atessa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286596385,
-    "wof:lastmodified":1449016702,
+    "wof:lastmodified":1466293878,
     "wof:name":"Tiesse - Piccola Societa' Cooperativa R.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [14.167151,42.351791,14.167151,42.351791],
+  "bbox": [
+    14.167151,
+    42.351791,
+    14.167151,
+    42.351791
+],
   "geometry": {"coordinates":[14.167151,42.351791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269663005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.210319,43.840897,11.210319,43.840897",
     "geom:latitude":43.840897,
     "geom:longitude":11.210319,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vivaldi 30 50041 Calenzano",
     "sg:city":"Calenzano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269663005,
-    "wof:lastmodified":1449038032,
+    "wof:lastmodified":1466291119,
     "wof:name":"Nuova Firenze Nastri Srl",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "also"
     ]
 },
-  "bbox": [11.210319,43.840897,11.210319,43.840897],
+  "bbox": [
+    11.210319,
+    43.840897,
+    11.210319,
+    43.840897
+],
   "geometry": {"coordinates":[11.210319,43.840897],"type":"Point"}
 }

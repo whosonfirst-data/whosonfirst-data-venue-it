@@ -2,13 +2,14 @@
   "id": 286458871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.893282,45.655937,8.893282,45.655937",
     "geom:latitude":45.655937,
     "geom:longitude":8.893282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"314, Via Enrico Mattei 21050 Gorla Maggiore",
     "sg:city":"Gorla Maggiore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286458871,
-    "wof:lastmodified":1449017277,
+    "wof:lastmodified":1466292224,
     "wof:name":"Blubay S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.893282,45.655937,8.893282,45.655937],
+  "bbox": [
+    8.893282,
+    45.655937,
+    8.893282,
+    45.655937
+],
   "geometry": {"coordinates":[8.893282,45.655937],"type":"Point"}
 }

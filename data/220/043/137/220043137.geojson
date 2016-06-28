@@ -2,13 +2,14 @@
   "id": 220043137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.872072,40.92889,14.872072,40.92889",
     "geom:latitude":40.92889,
     "geom:longitude":14.872072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83050 San Potito Ultra",
     "sg:city":"San Potito Ultra",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220043137,
-    "wof:lastmodified":1449074646,
+    "wof:lastmodified":1466295090,
     "wof:name":"Eco Global System Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.872072,40.92889,14.872072,40.92889],
+  "bbox": [
+    14.872072,
+    40.92889,
+    14.872072,
+    40.92889
+],
   "geometry": {"coordinates":[14.872072,40.92889],"type":"Point"}
 }

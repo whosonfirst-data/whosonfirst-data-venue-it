@@ -2,13 +2,14 @@
   "id": 270211969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.53897,38.165207,15.53897,38.165207",
     "geom:latitude":38.165207,
     "geom:longitude":15.53897,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98163 Messina",
     "sg:city":"Messina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270211969,
-    "wof:lastmodified":1449009225,
+    "wof:lastmodified":1466291580,
     "wof:name":"Ceraolo Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.53897,38.165207,15.53897,38.165207],
+  "bbox": [
+    15.53897,
+    38.165207,
+    15.53897,
+    38.165207
+],
   "geometry": {"coordinates":[15.53897,38.165207],"type":"Point"}
 }

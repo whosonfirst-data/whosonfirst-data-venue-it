@@ -2,13 +2,14 @@
   "id": 203086717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.510278,43.594444,13.510278,43.594444",
     "geom:latitude":43.594444,
     "geom:longitude":13.510278,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60020 Ancona",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Arredamento E Industria Del Legno. Servizi E Lavori Per Edilizia E Lavori Pubblici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203086717,
-    "wof:lastmodified":1449026250,
+    "wof:lastmodified":1466295959,
     "wof:name":"Belfiori Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.510278,43.594444,13.510278,43.594444],
+  "bbox": [
+    13.510278,
+    43.594444,
+    13.510278,
+    43.594444
+],
   "geometry": {"coordinates":[13.510278,43.594444],"type":"Point"}
 }

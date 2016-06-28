@@ -2,13 +2,14 @@
   "id": 286948751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.397454,45.72126,11.397454,45.72126",
     "geom:latitude":45.72126,
     "geom:longitude":11.397454,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36015 Schio",
     "sg:city":"Schio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286948751,
-    "wof:lastmodified":1449017519,
+    "wof:lastmodified":1466297485,
     "wof:name":"Lanificio Di Schio Sas Di Jonathan Antony Todhunter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.397454,45.72126,11.397454,45.72126],
+  "bbox": [
+    11.397454,
+    45.72126,
+    11.397454,
+    45.72126
+],
   "geometry": {"coordinates":[11.397454,45.72126],"type":"Point"}
 }

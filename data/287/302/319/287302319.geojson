@@ -2,13 +2,14 @@
   "id": 287302319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.671201,45.8927,8.671201,45.8927",
     "geom:latitude":45.8927,
     "geom:longitude":8.671201,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Giuseppe Garibaldi 21030 Brenta",
     "sg:city":"Brenta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287302319,
-    "wof:lastmodified":1449000954,
+    "wof:lastmodified":1466293566,
     "wof:name":"Europanel S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [8.671201,45.8927,8.671201,45.8927],
+  "bbox": [
+    8.671201,
+    45.8927,
+    8.671201,
+    45.8927
+],
   "geometry": {"coordinates":[8.671201,45.8927],"type":"Point"}
 }

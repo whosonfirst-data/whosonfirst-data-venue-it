@@ -2,13 +2,14 @@
   "id": 286384991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.251822,45.578678,9.251822,45.578678",
     "geom:latitude":45.578678,
     "geom:longitude":9.251822,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286384991,
-    "wof:lastmodified":1449015534,
+    "wof:lastmodified":1466291238,
     "wof:name":"Cine Project Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.251822,45.578678,9.251822,45.578678],
+  "bbox": [
+    9.251822,
+    45.578678,
+    9.251822,
+    45.578678
+],
   "geometry": {"coordinates":[9.251822,45.578678],"type":"Point"}
 }

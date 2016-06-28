@@ -2,13 +2,14 @@
   "id": 320739837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.339482,44.52161,11.339482,44.52161",
     "geom:latitude":44.52161,
     "geom:longitude":11.339482,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40129 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320739837,
-    "wof:lastmodified":1449012830,
+    "wof:lastmodified":1466298172,
     "wof:name":"Forn. As.a.r.i. Srl",
     "wof:parent_id":85904573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.339482,44.52161,11.339482,44.52161],
+  "bbox": [
+    11.339482,
+    44.52161,
+    11.339482,
+    44.52161
+],
   "geometry": {"coordinates":[11.339482,44.52161],"type":"Point"}
 }

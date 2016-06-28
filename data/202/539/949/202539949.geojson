@@ -2,13 +2,14 @@
   "id": 202539949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.224458,44.380314,12.224458,44.380314",
     "geom:latitude":44.380314,
     "geom:longitude":12.224458,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48100 Ravenna",
     "sg:city":"Ravenna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202539949,
-    "wof:lastmodified":1449062713,
+    "wof:lastmodified":1466289339,
     "wof:name":"Itescasa Di Gian Lorenzo Caionici",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.224458,44.380314,12.224458,44.380314],
+  "bbox": [
+    12.224458,
+    44.380314,
+    12.224458,
+    44.380314
+],
   "geometry": {"coordinates":[12.224458,44.380314],"type":"Point"}
 }

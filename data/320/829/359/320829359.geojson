@@ -2,13 +2,14 @@
   "id": 320829359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.162158,45.379581,9.162158,45.379581",
     "geom:latitude":45.379581,
     "geom:longitude":9.162158,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20089 Rozzano",
     "sg:city":"Rozzano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320829359,
-    "wof:lastmodified":1449014714,
+    "wof:lastmodified":1466298141,
     "wof:name":"Meriggi Magneto Mac",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.162158,45.379581,9.162158,45.379581],
+  "bbox": [
+    9.162158,
+    45.379581,
+    9.162158,
+    45.379581
+],
   "geometry": {"coordinates":[9.162158,45.379581],"type":"Point"}
 }

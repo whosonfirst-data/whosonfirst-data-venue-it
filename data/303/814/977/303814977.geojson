@@ -2,13 +2,14 @@
   "id": 303814977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.169143,45.486252,9.169143,45.486252",
     "geom:latitude":45.486252,
     "geom:longitude":9.169143,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20154 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303814977,
-    "wof:lastmodified":1448998567,
+    "wof:lastmodified":1466297859,
     "wof:name":"Bertrand Ennio",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.169143,45.486252,9.169143,45.486252],
+  "bbox": [
+    9.169143,
+    45.486252,
+    9.169143,
+    45.486252
+],
   "geometry": {"coordinates":[9.169143,45.486252],"type":"Point"}
 }

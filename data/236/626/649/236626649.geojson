@@ -2,13 +2,14 @@
   "id": 236626649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.659781,45.645718,9.659781,45.645718",
     "geom:latitude":45.645718,
     "geom:longitude":9.659781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Via Leonardo Da Vinci 24049 Verdello",
     "sg:city":"Verdello",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236626649,
-    "wof:lastmodified":1449005253,
+    "wof:lastmodified":1466295260,
     "wof:name":"Mobili Duzioni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.659781,45.645718,9.659781,45.645718],
+  "bbox": [
+    9.659781,
+    45.645718,
+    9.659781,
+    45.645718
+],
   "geometry": {"coordinates":[9.659781,45.645718],"type":"Point"}
 }

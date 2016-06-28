@@ -2,13 +2,14 @@
   "id": 320071927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.072904,45.755627,9.072904,45.755627",
     "geom:latitude":45.755627,
     "geom:longitude":9.072904,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Casnate Con Bernate",
     "sg:city":"Casnate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320071927,
-    "wof:lastmodified":1449013604,
+    "wof:lastmodified":1466294272,
     "wof:name":"Rainbow Air Cleaner Stefano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.072904,45.755627,9.072904,45.755627],
+  "bbox": [
+    9.072904,
+    45.755627,
+    9.072904,
+    45.755627
+],
   "geometry": {"coordinates":[9.072904,45.755627],"type":"Point"}
 }

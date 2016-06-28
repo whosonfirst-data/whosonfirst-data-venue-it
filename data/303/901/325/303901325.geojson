@@ -2,13 +2,14 @@
   "id": 303901325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.351059,44.538628,11.351059,44.538628",
     "geom:latitude":44.538628,
     "geom:longitude":11.351059,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40129 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303901325,
-    "wof:lastmodified":1448999145,
+    "wof:lastmodified":1466298087,
     "wof:name":"Cemar Snc",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.351059,44.538628,11.351059,44.538628],
+  "bbox": [
+    11.351059,
+    44.538628,
+    11.351059,
+    44.538628
+],
   "geometry": {"coordinates":[11.351059,44.538628],"type":"Point"}
 }

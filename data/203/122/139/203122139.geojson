@@ -2,13 +2,14 @@
   "id": 203122139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.229139,41.779289,12.229139,41.779289",
     "geom:latitude":41.779289,
     "geom:longitude":12.229139,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00054 Fiumicino",
     "sg:city":"Fiumicino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203122139,
-    "wof:lastmodified":1449026026,
+    "wof:lastmodified":1466289106,
     "wof:name":"Ama Azienda Municipale Ambiente",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.229139,41.779289,12.229139,41.779289],
+  "bbox": [
+    12.229139,
+    41.779289,
+    12.229139,
+    41.779289
+],
   "geometry": {"coordinates":[12.229139,41.779289],"type":"Point"}
 }

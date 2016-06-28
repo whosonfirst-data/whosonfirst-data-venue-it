@@ -2,13 +2,14 @@
   "id": 219486305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.240772,45.639992,12.240772,45.639992",
     "geom:latitude":45.639992,
     "geom:longitude":12.240772,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31022 Preganziol",
     "sg:city":"Preganziol",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219486305,
-    "wof:lastmodified":1449072340,
+    "wof:lastmodified":1466291274,
     "wof:name":"3r Ingegneria E Servizi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.240772,45.639992,12.240772,45.639992],
+  "bbox": [
+    12.240772,
+    45.639992,
+    12.240772,
+    45.639992
+],
   "geometry": {"coordinates":[12.240772,45.639992],"type":"Point"}
 }

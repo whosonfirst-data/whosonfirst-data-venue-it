@@ -2,13 +2,14 @@
   "id": 269721017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.202561,45.456367,9.202561,45.456367",
     "geom:latitude":45.456367,
     "geom:longitude":9.202561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269721017,
-    "wof:lastmodified":1449038959,
+    "wof:lastmodified":1466291967,
     "wof:name":"So.c.in. Trade Srl",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.202561,45.456367,9.202561,45.456367],
+  "bbox": [
+    9.202561,
+    45.456367,
+    9.202561,
+    45.456367
+],
   "geometry": {"coordinates":[9.202561,45.456367],"type":"Point"}
 }

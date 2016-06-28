@@ -2,13 +2,14 @@
   "id": 336913827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.332269,40.831318,14.332269,40.831318",
     "geom:latitude":40.831318,
     "geom:longitude":14.332269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80059 Torre Del Greco",
     "sg:city":"Torre del Greco",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336913827,
-    "wof:lastmodified":1448997367,
+    "wof:lastmodified":1466297041,
     "wof:name":"Centro Diagnostico Ianus S.n.c.",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [14.332269,40.831318,14.332269,40.831318],
+  "bbox": [
+    14.332269,
+    40.831318,
+    14.332269,
+    40.831318
+],
   "geometry": {"coordinates":[14.332269,40.831318],"type":"Point"}
 }

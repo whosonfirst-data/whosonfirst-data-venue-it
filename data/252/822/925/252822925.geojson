@@ -2,13 +2,14 @@
   "id": 252822925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.749076,42.870239,13.749076,42.870239",
     "geom:latitude":42.870239,
     "geom:longitude":13.749076,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63030 Colli Del Tronto",
     "sg:city":"Colli del Tronto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252822925,
-    "wof:lastmodified":1449006466,
+    "wof:lastmodified":1466290205,
     "wof:name":"Gad System Snc Di Luciani Sonia - Perazzoli Maria Vittoria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.749076,42.870239,13.749076,42.870239],
+  "bbox": [
+    13.749076,
+    42.870239,
+    13.749076,
+    42.870239
+],
   "geometry": {"coordinates":[13.749076,42.870239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203398867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.403991,46.047249,9.403991,46.047249",
     "geom:latitude":46.047249,
     "geom:longitude":9.403991,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23831 Casargo",
     "sg:city":"Casargo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203398867,
-    "wof:lastmodified":1449025084,
+    "wof:lastmodified":1466292080,
     "wof:name":"Rifugio Monte Basso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.403991,46.047249,9.403991,46.047249],
+  "bbox": [
+    9.403991,
+    46.047249,
+    9.403991,
+    46.047249
+],
   "geometry": {"coordinates":[9.403991,46.047249],"type":"Point"}
 }

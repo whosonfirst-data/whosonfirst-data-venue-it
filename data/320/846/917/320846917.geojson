@@ -2,13 +2,14 @@
   "id": 320846917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.58687,45.069675,7.58687,45.069675",
     "geom:latitude":45.069675,
     "geom:longitude":7.58687,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Via Vespucci Amerigo 10095 Grugliasco",
     "sg:city":"Grugliasco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320846917,
-    "wof:lastmodified":1449014129,
+    "wof:lastmodified":1466298290,
     "wof:name":"Decem Di Debernardi Pierino & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "measurement"
     ]
 },
-  "bbox": [7.58687,45.069675,7.58687,45.069675],
+  "bbox": [
+    7.58687,
+    45.069675,
+    7.58687,
+    45.069675
+],
   "geometry": {"coordinates":[7.58687,45.069675],"type":"Point"}
 }

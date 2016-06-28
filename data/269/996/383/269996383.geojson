@@ -2,13 +2,14 @@
   "id": 269996383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.9175,39.705944,8.9175,39.705944",
     "geom:latitude":39.705944,
     "geom:longitude":8.9175,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09020 Turri",
     "sg:classifiers":[],
     "sg:orig_category":"Alimentari - Vendita Al Dettaglio",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269996383,
-    "wof:lastmodified":1449036800,
+    "wof:lastmodified":1466295205,
     "wof:name":"Zafferano Di Turri Di Picchedda Elverio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.9175,39.705944,8.9175,39.705944],
+  "bbox": [
+    8.9175,
+    39.705944,
+    8.9175,
+    39.705944
+],
   "geometry": {"coordinates":[8.9175,39.705944],"type":"Point"}
 }

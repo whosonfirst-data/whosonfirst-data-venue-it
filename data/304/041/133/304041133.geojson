@@ -2,13 +2,14 @@
   "id": 304041133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.451312,41.777565,12.451312,41.777565",
     "geom:latitude":41.777565,
     "geom:longitude":12.451312,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00128 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304041133,
-    "wof:lastmodified":1449043768,
+    "wof:lastmodified":1466292713,
     "wof:name":"Associazione Casale Della Perna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.451312,41.777565,12.451312,41.777565],
+  "bbox": [
+    12.451312,
+    41.777565,
+    12.451312,
+    41.777565
+],
   "geometry": {"coordinates":[12.451312,41.777565],"type":"Point"}
 }

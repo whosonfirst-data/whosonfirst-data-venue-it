@@ -2,13 +2,14 @@
   "id": 202431277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.266905,40.399933,17.266905,40.399933",
     "geom:latitude":40.399933,
     "geom:longitude":17.266905,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74100 Lama",
     "sg:city":"Lama",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202431277,
-    "wof:lastmodified":1449060446,
+    "wof:lastmodified":1466295382,
     "wof:name":"Cooperativa Societa' Nuovi Orizzonti A R L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.266905,40.399933,17.266905,40.399933],
+  "bbox": [
+    17.266905,
+    40.399933,
+    17.266905,
+    40.399933
+],
   "geometry": {"coordinates":[17.266905,40.399933],"type":"Point"}
 }

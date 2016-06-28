@@ -2,13 +2,14 @@
   "id": 186344111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.878066,45.511715,8.878066,45.511715",
     "geom:latitude":45.511715,
     "geom:longitude":8.878066,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Casorezzo",
     "sg:city":"Casorezzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186344111,
-    "wof:lastmodified":1449050404,
+    "wof:lastmodified":1466290865,
     "wof:name":"Zucchi Vincenzo S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.878066,45.511715,8.878066,45.511715],
+  "bbox": [
+    8.878066,
+    45.511715,
+    8.878066,
+    45.511715
+],
   "geometry": {"coordinates":[8.878066,45.511715],"type":"Point"}
 }

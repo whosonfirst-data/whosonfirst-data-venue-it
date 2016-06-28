@@ -2,13 +2,14 @@
   "id": 269741941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.357471,43.787712,11.357471,43.787712",
     "geom:latitude":43.787712,
     "geom:longitude":11.357471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50014 Fiesole",
     "sg:city":"Fiesole",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269741941,
-    "wof:lastmodified":1449036261,
+    "wof:lastmodified":1466292304,
     "wof:name":"Bigi Ferruccio",
     "wof:parent_id":85904677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.357471,43.787712,11.357471,43.787712],
+  "bbox": [
+    11.357471,
+    43.787712,
+    11.357471,
+    43.787712
+],
   "geometry": {"coordinates":[11.357471,43.787712],"type":"Point"}
 }

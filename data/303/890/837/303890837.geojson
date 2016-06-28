@@ -2,13 +2,14 @@
   "id": 303890837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.950065,44.403214,8.950065,44.403214",
     "geom:latitude":44.403214,
     "geom:longitude":8.950065,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16129 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303890837,
-    "wof:lastmodified":1448998649,
+    "wof:lastmodified":1466298060,
     "wof:name":"I.f.a.p. General Trophy Srl",
     "wof:parent_id":85862649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.950065,44.403214,8.950065,44.403214],
+  "bbox": [
+    8.950065,
+    44.403214,
+    8.950065,
+    44.403214
+],
   "geometry": {"coordinates":[8.950065,44.403214],"type":"Point"}
 }

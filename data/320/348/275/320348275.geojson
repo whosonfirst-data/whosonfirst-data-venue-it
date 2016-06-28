@@ -2,13 +2,14 @@
   "id": 320348275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.095333,45.564999,8.095333,45.564999",
     "geom:latitude":45.564999,
     "geom:longitude":8.095333,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13856 Vigliano Biellese",
     "sg:city":"Vigliano Biellese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320348275,
-    "wof:lastmodified":1449011423,
+    "wof:lastmodified":1466297043,
     "wof:name":"Co.ri.tes. Di Rossi Manrico & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.095333,45.564999,8.095333,45.564999],
+  "bbox": [
+    8.095333,
+    45.564999,
+    8.095333,
+    45.564999
+],
   "geometry": {"coordinates":[8.095333,45.564999],"type":"Point"}
 }

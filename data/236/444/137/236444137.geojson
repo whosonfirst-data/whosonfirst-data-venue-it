@@ -2,13 +2,14 @@
   "id": 236444137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.329548,44.807865,10.329548,44.807865",
     "geom:latitude":44.807865,
     "geom:longitude":10.329548,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Cardano G. 43036 Fidenza",
     "sg:city":"Fidenza",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236444137,
-    "wof:lastmodified":1449004706,
+    "wof:lastmodified":1466293459,
     "wof:name":"O M N I A Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [10.329548,44.807865,10.329548,44.807865],
+  "bbox": [
+    10.329548,
+    44.807865,
+    10.329548,
+    44.807865
+],
   "geometry": {"coordinates":[10.329548,44.807865],"type":"Point"}
 }

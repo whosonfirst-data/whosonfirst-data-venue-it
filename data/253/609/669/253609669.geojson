@@ -2,13 +2,14 @@
   "id": 253609669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.797698,45.160366,10.797698,45.160366",
     "geom:latitude":45.160366,
     "geom:longitude":10.797698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Walter Tobagi, 17/19/21 46040 Casaloldo",
     "sg:city":"Casaloldo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253609669,
-    "wof:lastmodified":1449063932,
+    "wof:lastmodified":1466296057,
     "wof:name":"Calze Gt Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stocking"
     ]
 },
-  "bbox": [10.797698,45.160366,10.797698,45.160366],
+  "bbox": [
+    10.797698,
+    45.160366,
+    10.797698,
+    45.160366
+],
   "geometry": {"coordinates":[10.797698,45.160366],"type":"Point"}
 }

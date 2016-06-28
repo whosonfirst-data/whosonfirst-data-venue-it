@@ -2,13 +2,14 @@
   "id": 219841815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.924488,44.547882,10.924488,44.547882",
     "geom:latitude":44.547882,
     "geom:longitude":10.924488,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41051 Castelnuovo Rangone",
     "sg:city":"Castelnuovo Rangone",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219841815,
-    "wof:lastmodified":1449071135,
+    "wof:lastmodified":1466294676,
     "wof:name":"Barchemicals Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [10.924488,44.547882,10.924488,44.547882],
+  "bbox": [
+    10.924488,
+    44.547882,
+    10.924488,
+    44.547882
+],
   "geometry": {"coordinates":[10.924488,44.547882],"type":"Point"}
 }

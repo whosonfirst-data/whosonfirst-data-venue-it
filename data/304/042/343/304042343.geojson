@@ -2,13 +2,14 @@
   "id": 304042343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.753295,41.835308,12.753295,41.835308",
     "geom:latitude":41.835308,
     "geom:longitude":12.753295,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00192 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304042343,
-    "wof:lastmodified":1449044020,
+    "wof:lastmodified":1466292733,
     "wof:name":"Associazione Nazionale Arma Aeronautica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.753295,41.835308,12.753295,41.835308],
+  "bbox": [
+    12.753295,
+    41.835308,
+    12.753295,
+    41.835308
+],
   "geometry": {"coordinates":[12.753295,41.835308],"type":"Point"}
 }

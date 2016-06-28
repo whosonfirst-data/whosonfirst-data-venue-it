@@ -2,13 +2,14 @@
   "id": 236399647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.455428,45.67654,9.455428,45.67654",
     "geom:latitude":45.67654,
     "geom:longitude":9.455428,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23877 Paderno D'adda",
     "sg:classifiers":[],
     "sg:orig_category":"Non-classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236399647,
-    "wof:lastmodified":1449002113,
+    "wof:lastmodified":1466292977,
     "wof:name":"Villa Carlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.455428,45.67654,9.455428,45.67654],
+  "bbox": [
+    9.455428,
+    45.67654,
+    9.455428,
+    45.67654
+],
   "geometry": {"coordinates":[9.455428,45.67654],"type":"Point"}
 }

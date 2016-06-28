@@ -2,13 +2,14 @@
   "id": 203311121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.23248,44.895939,8.23248,44.895939",
     "geom:latitude":44.895939,
     "geom:longitude":8.23248,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14100 Asti",
     "sg:city":"Asti",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203311121,
-    "wof:lastmodified":1449025381,
+    "wof:lastmodified":1466291099,
     "wof:name":"Near Snc Di Salimbene Alessandra & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.23248,44.895939,8.23248,44.895939],
+  "bbox": [
+    8.23248,
+    44.895939,
+    8.23248,
+    44.895939
+],
   "geometry": {"coordinates":[8.23248,44.895939],"type":"Point"}
 }

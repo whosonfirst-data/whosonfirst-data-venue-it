@@ -2,13 +2,14 @@
   "id": 219983781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.524106,37.291077,13.524106,37.291077",
     "geom:latitude":37.291077,
     "geom:longitude":13.524106,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92014 Porto Empedocle",
     "sg:city":"Porto Empedocle",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219983781,
-    "wof:lastmodified":1449073623,
+    "wof:lastmodified":1466296182,
     "wof:name":"Mediterranea Impianti Snc Di Gino Grillo Alberto & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.524106,37.291077,13.524106,37.291077],
+  "bbox": [
+    13.524106,
+    37.291077,
+    13.524106,
+    37.291077
+],
   "geometry": {"coordinates":[13.524106,37.291077],"type":"Point"}
 }

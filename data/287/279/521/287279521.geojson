@@ -2,13 +2,14 @@
   "id": 287279521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.225272,41.238247,15.225272,41.238247",
     "geom:latitude":41.238247,
     "geom:longitude":15.225272,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nazionale 83030 Montaguto",
     "sg:city":"Montaguto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287279521,
-    "wof:lastmodified":1449001063,
+    "wof:lastmodified":1466293293,
     "wof:name":"Merisol Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [15.225272,41.238247,15.225272,41.238247],
+  "bbox": [
+    15.225272,
+    41.238247,
+    15.225272,
+    41.238247
+],
   "geometry": {"coordinates":[15.225272,41.238247],"type":"Point"}
 }

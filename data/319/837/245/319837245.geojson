@@ -2,13 +2,14 @@
   "id": 319837245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.654738,45.021843,7.654738,45.021843",
     "geom:latitude":45.021843,
     "geom:longitude":7.654738,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10127 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319837245,
-    "wof:lastmodified":1449024218,
+    "wof:lastmodified":1466292694,
     "wof:name":"Cierre 97 Srl",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.654738,45.021843,7.654738,45.021843],
+  "bbox": [
+    7.654738,
+    45.021843,
+    7.654738,
+    45.021843
+],
   "geometry": {"coordinates":[7.654738,45.021843],"type":"Point"}
 }

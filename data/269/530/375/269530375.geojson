@@ -2,13 +2,14 @@
   "id": 269530375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.302851,41.311581,16.302851,41.311581",
     "geom:latitude":41.311581,
     "geom:longitude":16.302851,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell' Industria 70051 Barletta",
     "sg:city":"Barletta",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269530375,
-    "wof:lastmodified":1449037413,
+    "wof:lastmodified":1466289481,
     "wof:name":"Calzaturificio New Gisab Di Buono Salvatore & C Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [16.302851,41.311581,16.302851,41.311581],
+  "bbox": [
+    16.302851,
+    41.311581,
+    16.302851,
+    41.311581
+],
   "geometry": {"coordinates":[16.302851,41.311581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220072903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.469807,41.900318,12.469807,41.900318",
     "geom:latitude":41.900318,
     "geom:longitude":12.469807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220072903,
-    "wof:lastmodified":1449074469,
+    "wof:lastmodified":1466295623,
     "wof:name":"M.d. Impianti Di Bisceglia Massimo Snc",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [12.469807,41.900318,12.469807,41.900318],
+  "bbox": [
+    12.469807,
+    41.900318,
+    12.469807,
+    41.900318
+],
   "geometry": {"coordinates":[12.469807,41.900318],"type":"Point"}
 }

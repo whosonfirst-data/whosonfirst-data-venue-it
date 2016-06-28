@@ -2,13 +2,14 @@
   "id": 185623585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.277333,44.477074,11.277333,44.477074",
     "geom:latitude":44.477074,
     "geom:longitude":11.277333,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 42; Casalecchio Di Reno; 40033",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185623585,
-    "wof:lastmodified":1449007729,
+    "wof:lastmodified":1466294197,
     "wof:name":"Banca Del Monte",
     "wof:parent_id":85904639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.277333,44.477074,11.277333,44.477074],
+  "bbox": [
+    11.277333,
+    44.477074,
+    11.277333,
+    44.477074
+],
   "geometry": {"coordinates":[11.277333,44.477074],"type":"Point"}
 }

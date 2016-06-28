@@ -2,13 +2,14 @@
   "id": 185665205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.338944,40.813972,14.338944,40.813972",
     "geom:latitude":40.813972,
     "geom:longitude":14.338944,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Umberto I 1, 80059 Torre Del Greco, Na",
     "sg:city":"Torre del Greco",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185665205,
-    "wof:lastmodified":1449007099,
+    "wof:lastmodified":1466295175,
     "wof:name":"Banca Di Credito Popolare Scrl",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.338944,40.813972,14.338944,40.813972],
+  "bbox": [
+    14.338944,
+    40.813972,
+    14.338944,
+    40.813972
+],
   "geometry": {"coordinates":[14.338944,40.813972],"type":"Point"}
 }

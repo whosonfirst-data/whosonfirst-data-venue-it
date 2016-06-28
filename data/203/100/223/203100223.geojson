@@ -2,13 +2,14 @@
   "id": 203100223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083647,45.776733,9.083647,45.776733",
     "geom:latitude":45.776733,
     "geom:longitude":9.083647,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22100 Albate",
     "sg:city":"Albate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203100223,
-    "wof:lastmodified":1449026363,
+    "wof:lastmodified":1466296242,
     "wof:name":"Pagnan Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.083647,45.776733,9.083647,45.776733],
+  "bbox": [
+    9.083647,
+    45.776733,
+    9.083647,
+    45.776733
+],
   "geometry": {"coordinates":[9.083647,45.776733],"type":"Point"}
 }

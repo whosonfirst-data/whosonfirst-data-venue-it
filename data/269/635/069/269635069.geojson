@@ -2,13 +2,14 @@
   "id": 269635069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.051576,45.759029,9.051576,45.759029",
     "geom:latitude":45.759029,
     "geom:longitude":9.051576,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 27 22070 Guanzate",
     "sg:city":"Guanzate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269635069,
-    "wof:lastmodified":1449037179,
+    "wof:lastmodified":1466290762,
     "wof:name":"Gidaltex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [9.051576,45.759029,9.051576,45.759029],
+  "bbox": [
+    9.051576,
+    45.759029,
+    9.051576,
+    45.759029
+],
   "geometry": {"coordinates":[9.051576,45.759029],"type":"Point"}
 }

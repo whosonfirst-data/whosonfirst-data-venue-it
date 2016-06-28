@@ -2,13 +2,14 @@
   "id": 236587609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.473455,45.712223,11.473455,45.712223",
     "geom:latitude":45.712223,
     "geom:longitude":11.473455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60, Via Del Costo 36010 Zane'",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236587609,
-    "wof:lastmodified":1449002644,
+    "wof:lastmodified":1466294905,
     "wof:name":"Fornasa Marmi (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.473455,45.712223,11.473455,45.712223],
+  "bbox": [
+    11.473455,
+    45.712223,
+    11.473455,
+    45.712223
+],
   "geometry": {"coordinates":[11.473455,45.712223],"type":"Point"}
 }

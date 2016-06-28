@@ -2,13 +2,14 @@
   "id": 303991831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.420509,42.983009,12.420509,42.983009",
     "geom:latitude":42.983009,
     "geom:longitude":12.420509,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Circonvallazione Nord 1 06053 Deruta",
     "sg:city":"Deruta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303991831,
-    "wof:lastmodified":1448998886,
+    "wof:lastmodified":1466298298,
     "wof:name":"Ars Artigiana Deruta Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artistic"
     ]
 },
-  "bbox": [12.420509,42.983009,12.420509,42.983009],
+  "bbox": [
+    12.420509,
+    42.983009,
+    12.420509,
+    42.983009
+],
   "geometry": {"coordinates":[12.420509,42.983009],"type":"Point"}
 }

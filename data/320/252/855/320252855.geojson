@@ -2,13 +2,14 @@
   "id": 320252855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.568067,43.879749,10.568067,43.879749",
     "geom:latitude":43.879749,
     "geom:longitude":10.568067,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55012 Marlia",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti E Forniture Per Industria Grafica, Cartaria E Cartotecnica",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320252855,
-    "wof:lastmodified":1449011741,
+    "wof:lastmodified":1466296393,
     "wof:name":"Officine Meccaniche Toschi S P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.568067,43.879749,10.568067,43.879749],
+  "bbox": [
+    10.568067,
+    43.879749,
+    10.568067,
+    43.879749
+],
   "geometry": {"coordinates":[10.568067,43.879749],"type":"Point"}
 }

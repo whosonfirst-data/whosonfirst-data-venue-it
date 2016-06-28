@@ -2,13 +2,14 @@
   "id": 286596571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.859556,44.789734,10.859556,44.789734",
     "geom:latitude":44.789734,
     "geom:longitude":10.859556,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Ricerca Scientifica 41012 Carpi",
     "sg:city":"Carpi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286596571,
-    "wof:lastmodified":1449016703,
+    "wof:lastmodified":1466293881,
     "wof:name":"Tiziana Style Di Tarabini Stefano E Gabriele S.n.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.859556,44.789734,10.859556,44.789734],
+  "bbox": [
+    10.859556,
+    44.789734,
+    10.859556,
+    44.789734
+],
   "geometry": {"coordinates":[10.859556,44.789734],"type":"Point"}
 }

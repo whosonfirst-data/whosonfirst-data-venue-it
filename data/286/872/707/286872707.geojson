@@ -2,13 +2,14 @@
   "id": 286872707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.362063,41.349075,13.362063,41.349075",
     "geom:latitude":41.349075,
     "geom:longitude":13.362063,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04100 Latina",
     "sg:city":"Latina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286872707,
-    "wof:lastmodified":1449015449,
+    "wof:lastmodified":1466296897,
     "wof:name":"E.t.i.r. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.362063,41.349075,13.362063,41.349075],
+  "bbox": [
+    13.362063,
+    41.349075,
+    13.362063,
+    41.349075
+],
   "geometry": {"coordinates":[13.362063,41.349075],"type":"Point"}
 }

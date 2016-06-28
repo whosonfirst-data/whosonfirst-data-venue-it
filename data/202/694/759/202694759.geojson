@@ -2,13 +2,14 @@
   "id": 202694759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.994434,40.495239,17.994434,40.495239",
     "geom:latitude":40.495239,
     "geom:longitude":17.994434,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72020 Cellino S. Marco",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Ausiliari Di Analisi, Controllo E Ricerca",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202694759,
-    "wof:lastmodified":1449060839,
+    "wof:lastmodified":1466291009,
     "wof:name":"Bioquality Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.994434,40.495239,17.994434,40.495239],
+  "bbox": [
+    17.994434,
+    40.495239,
+    17.994434,
+    40.495239
+],
   "geometry": {"coordinates":[17.994434,40.495239],"type":"Point"}
 }

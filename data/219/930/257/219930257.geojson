@@ -2,13 +2,14 @@
   "id": 219930257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.467714,41.869251,12.467714,41.869251",
     "geom:latitude":41.869251,
     "geom:longitude":12.467714,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00146 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219930257,
-    "wof:lastmodified":1449071524,
+    "wof:lastmodified":1466295604,
     "wof:name":"Harmonia Srl",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.467714,41.869251,12.467714,41.869251],
+  "bbox": [
+    12.467714,
+    41.869251,
+    12.467714,
+    41.869251
+],
   "geometry": {"coordinates":[12.467714,41.869251],"type":"Point"}
 }

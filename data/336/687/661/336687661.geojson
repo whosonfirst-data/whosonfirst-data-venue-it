@@ -2,13 +2,14 @@
   "id": 336687661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.356344,40.858387,14.356344,40.858387",
     "geom:latitude":40.858387,
     "geom:longitude":14.356344,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"100, Corso Riccardi Domenico 80040 Cercola",
     "sg:city":"Cercola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336687661,
-    "wof:lastmodified":1448997248,
+    "wof:lastmodified":1466294779,
     "wof:name":"I.s.i. S.r.l.",
     "wof:parent_id":85904813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [14.356344,40.858387,14.356344,40.858387],
+  "bbox": [
+    14.356344,
+    40.858387,
+    14.356344,
+    40.858387
+],
   "geometry": {"coordinates":[14.356344,40.858387],"type":"Point"}
 }

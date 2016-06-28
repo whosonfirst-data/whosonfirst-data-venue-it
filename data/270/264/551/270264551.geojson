@@ -2,13 +2,14 @@
   "id": 270264551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.866545,44.973766,8.866545,44.973766",
     "geom:latitude":44.973766,
     "geom:longitude":8.866545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15053 Castelnuovo Scrivia",
     "sg:city":"Castelnuovo Scrivia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270264551,
-    "wof:lastmodified":1449010253,
+    "wof:lastmodified":1466292167,
     "wof:name":"Acerbi Viberti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [8.866545,44.973766,8.866545,44.973766],
+  "bbox": [
+    8.866545,
+    44.973766,
+    8.866545,
+    44.973766
+],
   "geometry": {"coordinates":[8.866545,44.973766],"type":"Point"}
 }

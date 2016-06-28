@@ -2,13 +2,14 @@
   "id": 236173593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165351,39.566109,9.165351,39.566109",
     "geom:latitude":39.566109,
     "geom:longitude":9.165351,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Provinciale 09040 Senorbi'",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":236173593,
-    "wof:lastmodified":1449002156,
+    "wof:lastmodified":1466290601,
     "wof:name":"Trexenta Gross Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [9.165351,39.566109,9.165351,39.566109],
+  "bbox": [
+    9.165351,
+    39.566109,
+    9.165351,
+    39.566109
+],
   "geometry": {"coordinates":[9.165351,39.566109],"type":"Point"}
 }

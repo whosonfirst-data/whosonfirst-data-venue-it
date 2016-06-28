@@ -2,13 +2,14 @@
   "id": 252962431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.570239,44.994545,8.570239,44.994545",
     "geom:latitude":44.994545,
     "geom:longitude":8.570239,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15046 San Salvatore Monferrato",
     "sg:city":"San Salvatore Monferrato",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252962431,
-    "wof:lastmodified":1449006063,
+    "wof:lastmodified":1466291679,
     "wof:name":"Opg Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "silversmith"
     ]
 },
-  "bbox": [8.570239,44.994545,8.570239,44.994545],
+  "bbox": [
+    8.570239,
+    44.994545,
+    8.570239,
+    44.994545
+],
   "geometry": {"coordinates":[8.570239,44.994545],"type":"Point"}
 }

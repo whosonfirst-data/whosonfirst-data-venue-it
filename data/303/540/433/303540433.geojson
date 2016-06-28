@@ -2,13 +2,14 @@
   "id": 303540433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.490346,41.867805,12.490346,41.867805",
     "geom:latitude":41.867805,
     "geom:longitude":12.490346,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00154 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303540433,
-    "wof:lastmodified":1448999080,
+    "wof:lastmodified":1466296869,
     "wof:name":"De Santis Aldo",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.490346,41.867805,12.490346,41.867805],
+  "bbox": [
+    12.490346,
+    41.867805,
+    12.490346,
+    41.867805
+],
   "geometry": {"coordinates":[12.490346,41.867805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186512653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.2159,42.46299,14.2159,42.46299",
     "geom:latitude":42.46299,
     "geom:longitude":14.2159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Del Porto 65127 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186512653,
-    "wof:lastmodified":1449052305,
+    "wof:lastmodified":1466292417,
     "wof:name":"Unione Provinciale Artigiani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [14.2159,42.46299,14.2159,42.46299],
+  "bbox": [
+    14.2159,
+    42.46299,
+    14.2159,
+    42.46299
+],
   "geometry": {"coordinates":[14.2159,42.46299],"type":"Point"}
 }

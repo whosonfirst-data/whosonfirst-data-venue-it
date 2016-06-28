@@ -2,13 +2,14 @@
   "id": 169744099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.624698,44.835941,11.624698,44.835941",
     "geom:latitude":44.835941,
     "geom:longitude":11.624698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44100 Ferrara",
     "sg:city":"Ferrara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169744099,
-    "wof:lastmodified":1449033879,
+    "wof:lastmodified":1466295166,
     "wof:name":"Cassa Di Risparmio Di Ferrara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.624698,44.835941,11.624698,44.835941],
+  "bbox": [
+    11.624698,
+    44.835941,
+    11.624698,
+    44.835941
+],
   "geometry": {"coordinates":[11.624698,44.835941],"type":"Point"}
 }

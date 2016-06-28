@@ -2,13 +2,14 @@
   "id": 236922753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.253809,39.298264,16.253809,39.298264",
     "geom:latitude":39.298264,
     "geom:longitude":16.253809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53, Piazza Zumbini Bonaventura 87100 Cosenza",
     "sg:city":"Cosenza",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236922753,
-    "wof:lastmodified":1449001897,
+    "wof:lastmodified":1466297145,
     "wof:name":"Muglia Elevatori S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [16.253809,39.298264,16.253809,39.298264],
+  "bbox": [
+    16.253809,
+    39.298264,
+    16.253809,
+    39.298264
+],
   "geometry": {"coordinates":[16.253809,39.298264],"type":"Point"}
 }

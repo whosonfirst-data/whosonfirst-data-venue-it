@@ -2,13 +2,14 @@
   "id": 235948541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.412987,45.757881,12.412987,45.757881",
     "geom:latitude":45.757881,
     "geom:longitude":12.412987,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"P.zza Dei Caduti 3 31024 Roncadelle",
     "sg:city":"Roncadelle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235948541,
-    "wof:lastmodified":1449008526,
+    "wof:lastmodified":1466294927,
     "wof:name":"Italo Cescon Storia E Vini & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "italian"
     ]
 },
-  "bbox": [12.412987,45.757881,12.412987,45.757881],
+  "bbox": [
+    12.412987,
+    45.757881,
+    12.412987,
+    45.757881
+],
   "geometry": {"coordinates":[12.412987,45.757881],"type":"Point"}
 }

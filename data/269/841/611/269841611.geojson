@@ -2,13 +2,14 @@
   "id": 269841611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.163897,43.536877,12.163897,43.536877",
     "geom:latitude":43.536877,
     "geom:longitude":12.163897,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Po 06016 San Giustino",
     "sg:city":"San Giustino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269841611,
-    "wof:lastmodified":1449036654,
+    "wof:lastmodified":1466293503,
     "wof:name":"Moris Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.163897,43.536877,12.163897,43.536877],
+  "bbox": [
+    12.163897,
+    43.536877,
+    12.163897,
+    43.536877
+],
   "geometry": {"coordinates":[12.163897,43.536877],"type":"Point"}
 }

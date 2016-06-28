@@ -2,13 +2,14 @@
   "id": 186112797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189104,45.469231,9.189104,45.469231",
     "geom:latitude":45.469231,
     "geom:longitude":9.189104,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Monte Di Pieta 8, L-20121 Milan, Mi",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186112797,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466288919,
     "wof:name":"Intesabci E.lab Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.189104,45.469231,9.189104,45.469231],
+  "bbox": [
+    9.189104,
+    45.469231,
+    9.189104,
+    45.469231
+],
   "geometry": {"coordinates":[9.189104,45.469231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303457355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.304437,41.076065,14.304437,41.076065",
     "geom:latitude":41.076065,
     "geom:longitude":14.304437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81022 Casagiove",
     "sg:city":"Casagiove",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303457355,
-    "wof:lastmodified":1448999759,
+    "wof:lastmodified":1466296179,
     "wof:name":"D'agostino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.304437,41.076065,14.304437,41.076065],
+  "bbox": [
+    14.304437,
+    41.076065,
+    14.304437,
+    41.076065
+],
   "geometry": {"coordinates":[14.304437,41.076065],"type":"Point"}
 }

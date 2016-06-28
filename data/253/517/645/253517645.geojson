@@ -2,13 +2,14 @@
   "id": 253517645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.326861,41.068069,14.326861,41.068069",
     "geom:latitude":41.068069,
     "geom:longitude":14.326861,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81100 Caserta",
     "sg:city":"Caserta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253517645,
-    "wof:lastmodified":1449064511,
+    "wof:lastmodified":1466294847,
     "wof:name":"Istituto Di Vigilanza Soc.coop.r.l. Lavoro E Giustizia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.326861,41.068069,14.326861,41.068069],
+  "bbox": [
+    14.326861,
+    41.068069,
+    14.326861,
+    41.068069
+],
   "geometry": {"coordinates":[14.326861,41.068069],"type":"Point"}
 }

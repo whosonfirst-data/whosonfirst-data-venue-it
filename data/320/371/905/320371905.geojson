@@ -2,13 +2,14 @@
   "id": 320371905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.13515,45.527634,9.13515,45.527634",
     "geom:latitude":45.527634,
     "geom:longitude":9.13515,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20083 Gaggiano",
     "sg:city":"Gaggiano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320371905,
-    "wof:lastmodified":1449014135,
+    "wof:lastmodified":1466297179,
     "wof:name":"Paggi S.r.l.",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.13515,45.527634,9.13515,45.527634],
+  "bbox": [
+    9.13515,
+    45.527634,
+    9.13515,
+    45.527634
+],
   "geometry": {"coordinates":[9.13515,45.527634],"type":"Point"}
 }

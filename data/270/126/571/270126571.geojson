@@ -2,13 +2,14 @@
   "id": 270126571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.673365,40.770657,9.673365,40.770657",
     "geom:latitude":40.770657,
     "geom:longitude":9.673365,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"08020 San Teodoro",
     "sg:classifiers":[],
     "sg:orig_category":"Campeggio. Alberghi E Strutture Extra Alberghiere",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270126571,
-    "wof:lastmodified":1449009543,
+    "wof:lastmodified":1466290500,
     "wof:name":"Camping San Teodoro La Cinta Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.673365,40.770657,9.673365,40.770657],
+  "bbox": [
+    9.673365,
+    40.770657,
+    9.673365,
+    40.770657
+],
   "geometry": {"coordinates":[9.673365,40.770657],"type":"Point"}
 }

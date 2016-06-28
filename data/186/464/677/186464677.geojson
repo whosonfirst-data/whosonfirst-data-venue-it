@@ -2,13 +2,14 @@
   "id": 186464677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.373835,45.276569,11.373835,45.276569",
     "geom:latitude":45.276569,
     "geom:longitude":11.373835,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, V. Ferrata 37040 Caselle Di Pressana",
     "sg:city":"Caselle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186464677,
-    "wof:lastmodified":1449051105,
+    "wof:lastmodified":1466291950,
     "wof:name":"Granbon Di Zuffo Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bread"
     ]
 },
-  "bbox": [11.373835,45.276569,11.373835,45.276569],
+  "bbox": [
+    11.373835,
+    45.276569,
+    11.373835,
+    45.276569
+],
   "geometry": {"coordinates":[11.373835,45.276569],"type":"Point"}
 }

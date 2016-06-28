@@ -2,13 +2,14 @@
   "id": 202460883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.335898,44.938923,7.335898,44.938923",
     "geom:latitude":44.938923,
     "geom:longitude":7.335898,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10141 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202460883,
-    "wof:lastmodified":1449062508,
+    "wof:lastmodified":1466295753,
     "wof:name":"Associazione Culturale Il Gabbiano Livingstone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.335898,44.938923,7.335898,44.938923],
+  "bbox": [
+    7.335898,
+    44.938923,
+    7.335898,
+    44.938923
+],
   "geometry": {"coordinates":[7.335898,44.938923],"type":"Point"}
 }

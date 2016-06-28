@@ -2,13 +2,14 @@
   "id": 253729155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.423544,43.320042,13.423544,43.320042",
     "geom:latitude":43.320042,
     "geom:longitude":13.423544,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"123, Via Dell' Acquedotto 62100 Macerata",
     "sg:city":"Macerata",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253729155,
-    "wof:lastmodified":1449064313,
+    "wof:lastmodified":1466296868,
     "wof:name":"Tomaificio Hema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [13.423544,43.320042,13.423544,43.320042],
+  "bbox": [
+    13.423544,
+    43.320042,
+    13.423544,
+    43.320042
+],
   "geometry": {"coordinates":[13.423544,43.320042],"type":"Point"}
 }

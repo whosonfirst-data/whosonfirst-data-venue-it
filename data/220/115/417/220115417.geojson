@@ -2,13 +2,14 @@
   "id": 220115417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.892563,45.209251,11.892563,45.209251",
     "geom:latitude":45.209251,
     "geom:longitude":11.892563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Viale Dell' Industria 35026 Conselve",
     "sg:city":"Conselve",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220115417,
-    "wof:lastmodified":1449074051,
+    "wof:lastmodified":1466296073,
     "wof:name":"New Royal Plastic S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [11.892563,45.209251,11.892563,45.209251],
+  "bbox": [
+    11.892563,
+    45.209251,
+    11.892563,
+    45.209251
+],
   "geometry": {"coordinates":[11.892563,45.209251],"type":"Point"}
 }

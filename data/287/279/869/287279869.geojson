@@ -2,13 +2,14 @@
   "id": 287279869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.331981,46.08659,10.331981,46.08659",
     "geom:latitude":46.08659,
     "geom:longitude":10.331981,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localita' Saletto 25040 Berzo Demo",
     "sg:city":"Berzo Demo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287279869,
-    "wof:lastmodified":1449001063,
+    "wof:lastmodified":1466293297,
     "wof:name":"Motori Sommersi Riavvolgibili Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.331981,46.08659,10.331981,46.08659],
+  "bbox": [
+    10.331981,
+    46.08659,
+    10.331981,
+    46.08659
+],
   "geometry": {"coordinates":[10.331981,46.08659],"type":"Point"}
 }

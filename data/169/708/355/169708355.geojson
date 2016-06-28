@@ -2,13 +2,14 @@
   "id": 169708355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.094651,37.508995,15.094651,37.508995",
     "geom:latitude":37.508995,
     "geom:longitude":15.094651,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95131 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169708355,
-    "wof:lastmodified":1449033210,
+    "wof:lastmodified":1466292355,
     "wof:name":"Costa Ceramica Di Costa Anna",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.094651,37.508995,15.094651,37.508995],
+  "bbox": [
+    15.094651,
+    37.508995,
+    15.094651,
+    37.508995
+],
   "geometry": {"coordinates":[15.094651,37.508995],"type":"Point"}
 }

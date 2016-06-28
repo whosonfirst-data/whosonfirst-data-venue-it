@@ -2,13 +2,14 @@
   "id": 236241113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.656689,45.154175,7.656689,45.154175",
     "geom:latitude":45.154175,
     "geom:longitude":7.656689,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10072 Caselle Torinese",
     "sg:city":"Caselle Torinese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236241113,
-    "wof:lastmodified":1449005145,
+    "wof:lastmodified":1466291323,
     "wof:name":"Alfarano Mobili Di Detoni M. & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.656689,45.154175,7.656689,45.154175],
+  "bbox": [
+    7.656689,
+    45.154175,
+    7.656689,
+    45.154175
+],
   "geometry": {"coordinates":[7.656689,45.154175],"type":"Point"}
 }

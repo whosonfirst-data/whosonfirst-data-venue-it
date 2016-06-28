@@ -2,13 +2,14 @@
   "id": 320199133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.463097,45.021202,7.463097,45.021202",
     "geom:latitude":45.021202,
     "geom:longitude":7.463097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10138 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320199133,
-    "wof:lastmodified":1449011627,
+    "wof:lastmodified":1466295803,
     "wof:name":"Lamca Lmt (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.463097,45.021202,7.463097,45.021202],
+  "bbox": [
+    7.463097,
+    45.021202,
+    7.463097,
+    45.021202
+],
   "geometry": {"coordinates":[7.463097,45.021202],"type":"Point"}
 }

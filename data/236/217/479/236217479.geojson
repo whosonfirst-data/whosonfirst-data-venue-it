@@ -2,13 +2,14 @@
   "id": 236217479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.701291,44.512634,8.701291,44.512634",
     "geom:latitude":44.512634,
     "geom:longitude":8.701291,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16010 Rossiglione",
     "sg:city":"Rossiglione",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236217479,
-    "wof:lastmodified":1449005013,
+    "wof:lastmodified":1466291081,
     "wof:name":"Corderia E Stoppificio Di Minetti G. & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.701291,44.512634,8.701291,44.512634],
+  "bbox": [
+    8.701291,
+    44.512634,
+    8.701291,
+    44.512634
+],
   "geometry": {"coordinates":[8.701291,44.512634],"type":"Point"}
 }

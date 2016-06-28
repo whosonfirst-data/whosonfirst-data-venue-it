@@ -2,13 +2,14 @@
   "id": 236495221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.075521,43.847939,11.075521,43.847939",
     "geom:latitude":43.847939,
     "geom:longitude":11.075521,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Traversa Delle Fontanelle 19 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236495221,
-    "wof:lastmodified":1449003045,
+    "wof:lastmodified":1466294014,
     "wof:name":"Maglificio Stefan Trikot Di Giannerini Fausto E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.075521,43.847939,11.075521,43.847939],
+  "bbox": [
+    11.075521,
+    43.847939,
+    11.075521,
+    43.847939
+],
   "geometry": {"coordinates":[11.075521,43.847939],"type":"Point"}
 }

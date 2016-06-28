@@ -2,13 +2,14 @@
   "id": 186389311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.264027,45.860554,12.264027,45.860554",
     "geom:latitude":45.860554,
     "geom:longitude":12.264027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Conegliano 96 31058 Susegana",
     "sg:city":"Susegana",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186389311,
-    "wof:lastmodified":1449052459,
+    "wof:lastmodified":1466291260,
     "wof:name":"V.i.p. Veneta Industria Protezioni Solari Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "black-out"
     ]
 },
-  "bbox": [12.264027,45.860554,12.264027,45.860554],
+  "bbox": [
+    12.264027,
+    45.860554,
+    12.264027,
+    45.860554
+],
   "geometry": {"coordinates":[12.264027,45.860554],"type":"Point"}
 }

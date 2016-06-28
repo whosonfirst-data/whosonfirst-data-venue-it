@@ -2,13 +2,14 @@
   "id": 235933529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.698783,45.053345,9.698783,45.053345",
     "geom:latitude":45.053345,
     "geom:longitude":9.698783,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":235933529,
-    "wof:lastmodified":1449008328,
+    "wof:lastmodified":1466294344,
     "wof:name":"Studio Tecniche Naturali Olistiche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.698783,45.053345,9.698783,45.053345],
+  "bbox": [
+    9.698783,
+    45.053345,
+    9.698783,
+    45.053345
+],
   "geometry": {"coordinates":[9.698783,45.053345],"type":"Point"}
 }

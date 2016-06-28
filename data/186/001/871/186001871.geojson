@@ -2,13 +2,14 @@
   "id": 186001871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.388667,43.105961,12.388667,43.105961",
     "geom:latitude":43.105961,
     "geom:longitude":12.388667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Largo Cacciatori Delle; Perugia; 06100",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186001871,
-    "wof:lastmodified":1449051008,
+    "wof:lastmodified":1466294042,
     "wof:name":"Cassa Di Risparmio Di Perugia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.388667,43.105961,12.388667,43.105961],
+  "bbox": [
+    12.388667,
+    43.105961,
+    12.388667,
+    43.105961
+],
   "geometry": {"coordinates":[12.388667,43.105961],"type":"Point"}
 }

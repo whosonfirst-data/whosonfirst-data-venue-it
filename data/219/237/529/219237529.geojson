@@ -2,13 +2,14 @@
   "id": 219237529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.174292,45.66787,9.174292,45.66787",
     "geom:latitude":45.66787,
     "geom:longitude":9.174292,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Leonardo Da Vinci 51 22060 Cabiate",
     "sg:city":"Cabiate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219237529,
-    "wof:lastmodified":1449070455,
+    "wof:lastmodified":1466295914,
     "wof:name":"Scatolificio C4 S.r.l.",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shipping"
     ]
 },
-  "bbox": [9.174292,45.66787,9.174292,45.66787],
+  "bbox": [
+    9.174292,
+    45.66787,
+    9.174292,
+    45.66787
+],
   "geometry": {"coordinates":[9.174292,45.66787],"type":"Point"}
 }

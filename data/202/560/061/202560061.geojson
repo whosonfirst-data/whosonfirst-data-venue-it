@@ -2,13 +2,14 @@
   "id": 202560061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.822527,45.931107,8.822527,45.931107",
     "geom:latitude":45.931107,
     "geom:longitude":8.822527,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21030 Cugliate",
     "sg:city":"Cugliate",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202560061,
-    "wof:lastmodified":1449062059,
+    "wof:lastmodified":1466289527,
     "wof:name":"Nuova Ferpa Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.822527,45.931107,8.822527,45.931107],
+  "bbox": [
+    8.822527,
+    45.931107,
+    8.822527,
+    45.931107
+],
   "geometry": {"coordinates":[8.822527,45.931107],"type":"Point"}
 }

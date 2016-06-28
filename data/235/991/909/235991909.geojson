@@ -2,13 +2,14 @@
   "id": 235991909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.436601,44.50428,11.436601,44.50428",
     "geom:latitude":44.50428,
     "geom:longitude":11.436601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Verdi 23/25 40055 Castenaso",
     "sg:city":"Castenaso",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":235991909,
-    "wof:lastmodified":1449008360,
+    "wof:lastmodified":1466295927,
     "wof:name":"Ra.mo Srl",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.436601,44.50428,11.436601,44.50428],
+  "bbox": [
+    11.436601,
+    44.50428,
+    11.436601,
+    44.50428
+],
   "geometry": {"coordinates":[11.436601,44.50428],"type":"Point"}
 }

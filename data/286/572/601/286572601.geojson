@@ -2,13 +2,14 @@
   "id": 286572601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.780553,45.595776,8.780553,45.595776",
     "geom:latitude":45.595776,
     "geom:longitude":8.780553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"114, V. Giovanni Xxiii 21015 Lonate Pozzolo",
     "sg:city":"Lonate Pozzolo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286572601,
-    "wof:lastmodified":1449017005,
+    "wof:lastmodified":1466293583,
     "wof:name":"Pappa & Ciccia - Romatex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.780553,45.595776,8.780553,45.595776],
+  "bbox": [
+    8.780553,
+    45.595776,
+    8.780553,
+    45.595776
+],
   "geometry": {"coordinates":[8.780553,45.595776],"type":"Point"}
 }

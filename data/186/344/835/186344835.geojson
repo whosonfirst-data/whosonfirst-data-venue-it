@@ -2,13 +2,14 @@
   "id": 186344835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.63832,38.082397,15.63832,38.082397",
     "geom:latitude":38.082397,
     "geom:longitude":15.63832,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"89129 Reggio Calabria",
     "sg:classifiers":[],
     "sg:orig_category":"Biancheria, Telerie E Coperte. Arredo Camera Letto E Complementi",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186344835,
-    "wof:lastmodified":1449050402,
+    "wof:lastmodified":1466290871,
     "wof:name":"C.a.m. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.63832,38.082397,15.63832,38.082397],
+  "bbox": [
+    15.63832,
+    38.082397,
+    15.63832,
+    38.082397
+],
   "geometry": {"coordinates":[15.63832,38.082397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336680209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.256902,43.768734,11.256902,43.768734",
     "geom:latitude":43.768734,
     "geom:longitude":11.256902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Via Di Vittorio Giuseppe 50055 Lastra A Signa",
     "sg:city":"Lastra a Signa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336680209,
-    "wof:lastmodified":1448997688,
+    "wof:lastmodified":1466294683,
     "wof:name":"Gielle (s.n.c.)",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.256902,43.768734,11.256902,43.768734],
+  "bbox": [
+    11.256902,
+    43.768734,
+    11.256902,
+    43.768734
+],
   "geometry": {"coordinates":[11.256902,43.768734],"type":"Point"}
 }

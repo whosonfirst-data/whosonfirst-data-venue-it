@@ -2,13 +2,14 @@
   "id": 203257567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.129812,45.249317,9.129812,45.249317",
     "geom:latitude":45.249317,
     "geom:longitude":9.129812,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27012 Certosa Di Pavia",
     "sg:city":"Certosa di Pavia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203257567,
-    "wof:lastmodified":1449025467,
+    "wof:lastmodified":1466290427,
     "wof:name":"Gruppo Volontari Protezione Civile Certosa Di Pavia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.129812,45.249317,9.129812,45.249317],
+  "bbox": [
+    9.129812,
+    45.249317,
+    9.129812,
+    45.249317
+],
   "geometry": {"coordinates":[9.129812,45.249317],"type":"Point"}
 }

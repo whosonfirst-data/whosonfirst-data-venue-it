@@ -2,13 +2,14 @@
   "id": 220156091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.493914,45.672443,9.493914,45.672443",
     "geom:latitude":45.672443,
     "geom:longitude":9.493914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Europa 24030 Medolago",
     "sg:city":"Medolago",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220156091,
-    "wof:lastmodified":1449074198,
+    "wof:lastmodified":1466289122,
     "wof:name":"Pernice Informatica Di Fontana E Airoldi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "technology"
     ]
 },
-  "bbox": [9.493914,45.672443,9.493914,45.672443],
+  "bbox": [
+    9.493914,
+    45.672443,
+    9.493914,
+    45.672443
+],
   "geometry": {"coordinates":[9.493914,45.672443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270319027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.069239,45.842396,9.069239,45.842396",
     "geom:latitude":45.842396,
     "geom:longitude":9.069239,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Vertemate Con Minoprio",
     "sg:city":"Minoprio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270319027,
-    "wof:lastmodified":1449009639,
+    "wof:lastmodified":1466292862,
     "wof:name":"Supercard Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.069239,45.842396,9.069239,45.842396],
+  "bbox": [
+    9.069239,
+    45.842396,
+    9.069239,
+    45.842396
+],
   "geometry": {"coordinates":[9.069239,45.842396],"type":"Point"}
 }

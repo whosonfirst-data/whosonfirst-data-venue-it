@@ -2,13 +2,14 @@
   "id": 287026519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.912506,45.31863,11.912506,45.31863",
     "geom:latitude":45.31863,
     "geom:longitude":11.912506,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63, Via Umberto I 35122 Padova",
     "sg:city":"Padova",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287026519,
-    "wof:lastmodified":1449001193,
+    "wof:lastmodified":1466289924,
     "wof:name":"Tessuti D'arte Di Beccaro Florindo E C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.912506,45.31863,11.912506,45.31863],
+  "bbox": [
+    11.912506,
+    45.31863,
+    11.912506,
+    45.31863
+],
   "geometry": {"coordinates":[11.912506,45.31863],"type":"Point"}
 }

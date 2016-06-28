@@ -2,13 +2,14 @@
   "id": 320125105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.470747,41.889713,12.470747,41.889713",
     "geom:latitude":41.889713,
     "geom:longitude":12.470747,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00153 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320125105,
-    "wof:lastmodified":1449014833,
+    "wof:lastmodified":1466294920,
     "wof:name":"Soc. Lavorazione Artistica Marmi S.n.c.",
     "wof:parent_id":85900443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.470747,41.889713,12.470747,41.889713],
+  "bbox": [
+    12.470747,
+    41.889713,
+    12.470747,
+    41.889713
+],
   "geometry": {"coordinates":[12.470747,41.889713],"type":"Point"}
 }

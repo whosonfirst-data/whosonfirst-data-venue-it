@@ -2,13 +2,14 @@
   "id": 236613975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.169074,45.889927,12.169074,45.889927",
     "geom:latitude":45.889927,
     "geom:longitude":12.169074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Via Montello 31053 Pieve Di Soligo",
     "sg:city":"Pieve di Soligo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236613975,
-    "wof:lastmodified":1449003138,
+    "wof:lastmodified":1466295142,
     "wof:name":"Linea Tre (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.169074,45.889927,12.169074,45.889927],
+  "bbox": [
+    12.169074,
+    45.889927,
+    12.169074,
+    45.889927
+],
   "geometry": {"coordinates":[12.169074,45.889927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185992351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.910363,44.508579,11.910363,44.508579",
     "geom:latitude":44.508579,
     "geom:longitude":11.910363,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fiumazzo, 37; Lugo; 48022",
     "sg:city":"Lugo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185992351,
-    "wof:lastmodified":1449007373,
+    "wof:lastmodified":1466290720,
     "wof:name":"Cassa Di Risparmio Di Lugo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.910363,44.508579,11.910363,44.508579],
+  "bbox": [
+    11.910363,
+    44.508579,
+    11.910363,
+    44.508579
+],
   "geometry": {"coordinates":[11.910363,44.508579],"type":"Point"}
 }

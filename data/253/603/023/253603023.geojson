@@ -2,13 +2,14 @@
   "id": 253603023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.655044,45.96265,12.655044,45.96265",
     "geom:latitude":45.96265,
     "geom:longitude":12.655044,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Centro Commerciale Settore A 16 33170 Pordenone",
     "sg:city":"Pordenone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253603023,
-    "wof:lastmodified":1449065315,
+    "wof:lastmodified":1466295980,
     "wof:name":"Emmedi S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.655044,45.96265,12.655044,45.96265],
+  "bbox": [
+    12.655044,
+    45.96265,
+    12.655044,
+    45.96265
+],
   "geometry": {"coordinates":[12.655044,45.96265],"type":"Point"}
 }

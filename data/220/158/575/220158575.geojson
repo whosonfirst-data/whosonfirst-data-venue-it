@@ -2,13 +2,14 @@
   "id": 220158575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.224242,45.511482,9.224242,45.511482",
     "geom:latitude":45.511482,
     "geom:longitude":9.224242,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"257, Viale Monza 20126 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220158575,
-    "wof:lastmodified":1449074590,
+    "wof:lastmodified":1466289151,
     "wof:name":"Eds Italia Spa",
     "wof:parent_id":85862735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "technology"
     ]
 },
-  "bbox": [9.224242,45.511482,9.224242,45.511482],
+  "bbox": [
+    9.224242,
+    45.511482,
+    9.224242,
+    45.511482
+],
   "geometry": {"coordinates":[9.224242,45.511482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320178775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.803501,42.88826,13.803501,42.88826",
     "geom:latitude":42.88826,
     "geom:longitude":13.803501,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63030 Monsampolo Del Tronto",
     "sg:city":"Monsampolo del Tronto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320178775,
-    "wof:lastmodified":1449013944,
+    "wof:lastmodified":1466295550,
     "wof:name":"Centro Fom Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.803501,42.88826,13.803501,42.88826],
+  "bbox": [
+    13.803501,
+    42.88826,
+    13.803501,
+    42.88826
+],
   "geometry": {"coordinates":[13.803501,42.88826],"type":"Point"}
 }

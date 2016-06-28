@@ -2,13 +2,14 @@
   "id": 236753861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.705454,45.483639,11.705454,45.483639",
     "geom:latitude":45.483639,
     "geom:longitude":11.705454,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Serenissima, 8/1 36040 Grisignano Di Zocco",
     "sg:city":"Grisignano di Zocco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236753861,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466296495,
     "wof:name":"Chimento Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "jewellery"
     ]
 },
-  "bbox": [11.705454,45.483639,11.705454,45.483639],
+  "bbox": [
+    11.705454,
+    45.483639,
+    11.705454,
+    45.483639
+],
   "geometry": {"coordinates":[11.705454,45.483639],"type":"Point"}
 }

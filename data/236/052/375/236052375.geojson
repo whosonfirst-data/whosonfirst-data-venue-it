@@ -2,13 +2,14 @@
   "id": 236052375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.616924,44.485661,11.616924,44.485661",
     "geom:latitude":44.485661,
     "geom:longitude":11.616924,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Vitale Ovest 2901 40059 Villa Fontana",
     "sg:city":"Villa Fontana",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236052375,
-    "wof:lastmodified":1449003089,
+    "wof:lastmodified":1466289418,
     "wof:name":"Vps Group Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [11.616924,44.485661,11.616924,44.485661],
+  "bbox": [
+    11.616924,
+    44.485661,
+    11.616924,
+    44.485661
+],
   "geometry": {"coordinates":[11.616924,44.485661],"type":"Point"}
 }

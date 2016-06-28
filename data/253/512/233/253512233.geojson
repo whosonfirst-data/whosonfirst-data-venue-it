@@ -2,13 +2,14 @@
   "id": 253512233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.638114,45.667114,9.638114,45.667114",
     "geom:latitude":45.667114,
     "geom:longitude":9.638114,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24041 Brembate",
     "sg:city":"Brembate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253512233,
-    "wof:lastmodified":1449064981,
+    "wof:lastmodified":1466294785,
     "wof:name":"N.g. Videoclub Di Giorgio Carabelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.638114,45.667114,9.638114,45.667114],
+  "bbox": [
+    9.638114,
+    45.667114,
+    9.638114,
+    45.667114
+],
   "geometry": {"coordinates":[9.638114,45.667114],"type":"Point"}
 }

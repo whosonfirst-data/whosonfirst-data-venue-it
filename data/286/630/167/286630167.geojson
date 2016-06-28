@@ -2,13 +2,14 @@
   "id": 286630167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.813714,45.392075,11.813714,45.392075",
     "geom:latitude":45.392075,
     "geom:longitude":11.813714,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82/e, V. Padova 35030 Tencarola Di Selvazzano D.",
     "sg:city":"Tencarola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286630167,
-    "wof:lastmodified":1449016236,
+    "wof:lastmodified":1466294309,
     "wof:name":"Zuin R.g.z.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.813714,45.392075,11.813714,45.392075],
+  "bbox": [
+    11.813714,
+    45.392075,
+    11.813714,
+    45.392075
+],
   "geometry": {"coordinates":[11.813714,45.392075],"type":"Point"}
 }

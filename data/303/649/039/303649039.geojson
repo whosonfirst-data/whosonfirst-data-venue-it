@@ -2,13 +2,14 @@
   "id": 303649039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18967,45.457462,9.18967,45.457462",
     "geom:latitude":45.457462,
     "geom:longitude":9.18967,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303649039,
-    "wof:lastmodified":1448999784,
+    "wof:lastmodified":1466297432,
     "wof:name":"Venturini Dario E C. Snc",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18967,45.457462,9.18967,45.457462],
+  "bbox": [
+    9.18967,
+    45.457462,
+    9.18967,
+    45.457462
+],
   "geometry": {"coordinates":[9.18967,45.457462],"type":"Point"}
 }

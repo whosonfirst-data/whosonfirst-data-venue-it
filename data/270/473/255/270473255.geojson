@@ -2,13 +2,14 @@
   "id": 270473255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083867,45.413689,9.083867,45.413689",
     "geom:latitude":45.413689,
     "geom:longitude":9.083867,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95, Via S. Cristoforo 20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270473255,
-    "wof:lastmodified":1449009139,
+    "wof:lastmodified":1466294735,
     "wof:name":"Frau Alta Alimentazione S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cereal"
     ]
 },
-  "bbox": [9.083867,45.413689,9.083867,45.413689],
+  "bbox": [
+    9.083867,
+    45.413689,
+    9.083867,
+    45.413689
+],
   "geometry": {"coordinates":[9.083867,45.413689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286622015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.087532,45.802132,9.087532,45.802132",
     "geom:latitude":45.802132,
     "geom:longitude":9.087532,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, V. G. Cesare 22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286622015,
-    "wof:lastmodified":1449017586,
+    "wof:lastmodified":1466294205,
     "wof:name":"Mibla Srl Cravatte E Foulards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.087532,45.802132,9.087532,45.802132],
+  "bbox": [
+    9.087532,
+    45.802132,
+    9.087532,
+    45.802132
+],
   "geometry": {"coordinates":[9.087532,45.802132],"type":"Point"}
 }

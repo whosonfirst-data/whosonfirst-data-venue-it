@@ -2,13 +2,14 @@
   "id": 253638259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.245131,44.497417,11.245131,44.497417",
     "geom:latitude":44.497417,
     "geom:longitude":11.245131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253638259,
-    "wof:lastmodified":1449062983,
+    "wof:lastmodified":1466296444,
     "wof:name":"Bavieri Alfeo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.245131,44.497417,11.245131,44.497417],
+  "bbox": [
+    11.245131,
+    44.497417,
+    11.245131,
+    44.497417
+],
   "geometry": {"coordinates":[11.245131,44.497417],"type":"Point"}
 }

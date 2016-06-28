@@ -2,13 +2,14 @@
   "id": 304066615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.842023,45.158684,10.842023,45.158684",
     "geom:latitude":45.158684,
     "geom:longitude":10.842023,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46030 San Giorgio Di Mantova",
     "sg:city":"San Giorgio di Mantova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304066615,
-    "wof:lastmodified":1449043729,
+    "wof:lastmodified":1466293071,
     "wof:name":"Race Record Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.842023,45.158684,10.842023,45.158684],
+  "bbox": [
+    10.842023,
+    45.158684,
+    10.842023,
+    45.158684
+],
   "geometry": {"coordinates":[10.842023,45.158684],"type":"Point"}
 }

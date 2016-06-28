@@ -2,13 +2,14 @@
   "id": 253194995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.770578,45.866333,12.770578,45.866333",
     "geom:latitude":45.866333,
     "geom:longitude":12.770578,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mattei 24 33089 Villotta Di Chions",
     "sg:classifiers":[
         {
@@ -44,16 +45,22 @@
         }
     ],
     "wof:id":253194995,
-    "wof:lastmodified":1449065347,
+    "wof:lastmodified":1466290938,
     "wof:name":"Office & Co Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [12.770578,45.866333,12.770578,45.866333],
+  "bbox": [
+    12.770578,
+    45.866333,
+    12.770578,
+    45.866333
+],
   "geometry": {"coordinates":[12.770578,45.866333],"type":"Point"}
 }

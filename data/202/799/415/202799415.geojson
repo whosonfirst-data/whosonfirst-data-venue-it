@@ -2,13 +2,14 @@
   "id": 202799415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.243511,44.158367,12.243511,44.158367",
     "geom:latitude":44.158367,
     "geom:longitude":12.243511,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202799415,
-    "wof:lastmodified":1449062659,
+    "wof:lastmodified":1466292189,
     "wof:name":"Agenzia Teatrale Nova's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.243511,44.158367,12.243511,44.158367],
+  "bbox": [
+    12.243511,
+    44.158367,
+    12.243511,
+    44.158367
+],
   "geometry": {"coordinates":[12.243511,44.158367],"type":"Point"}
 }

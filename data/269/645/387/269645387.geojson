@@ -2,13 +2,14 @@
   "id": 269645387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.072241,45.868179,12.072241,45.868179",
     "geom:latitude":45.868179,
     "geom:longitude":12.072241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vidor 1 31010 Mosnigo",
     "sg:city":"Mosnigo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269645387,
-    "wof:lastmodified":1449036393,
+    "wof:lastmodified":1466290894,
     "wof:name":"Mobil Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [12.072241,45.868179,12.072241,45.868179],
+  "bbox": [
+    12.072241,
+    45.868179,
+    12.072241,
+    45.868179
+],
   "geometry": {"coordinates":[12.072241,45.868179],"type":"Point"}
 }

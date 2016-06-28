@@ -2,13 +2,14 @@
   "id": 320231125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.597305,45.009609,7.597305,45.009609",
     "geom:latitude":45.009609,
     "geom:longitude":7.597305,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10092 Borgaretto",
     "sg:city":"Borgaretto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320231125,
-    "wof:lastmodified":1449013167,
+    "wof:lastmodified":1466296194,
     "wof:name":"Vagnone & Boeri (s.r.l.)",
     "wof:parent_id":85796819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.597305,45.009609,7.597305,45.009609],
+  "bbox": [
+    7.597305,
+    45.009609,
+    7.597305,
+    45.009609
+],
   "geometry": {"coordinates":[7.597305,45.009609],"type":"Point"}
 }

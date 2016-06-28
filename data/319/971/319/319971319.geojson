@@ -2,13 +2,14 @@
   "id": 319971319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.198566,40.983028,14.198566,40.983028",
     "geom:latitude":40.983028,
     "geom:longitude":14.198566,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81031 Aversa",
     "sg:city":"Aversa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319971319,
-    "wof:lastmodified":1449024481,
+    "wof:lastmodified":1466294434,
     "wof:name":"Arpaia Carlo",
     "wof:parent_id":85900413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.198566,40.983028,14.198566,40.983028],
+  "bbox": [
+    14.198566,
+    40.983028,
+    14.198566,
+    40.983028
+],
   "geometry": {"coordinates":[14.198566,40.983028],"type":"Point"}
 }

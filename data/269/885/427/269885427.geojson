@@ -2,13 +2,14 @@
   "id": 269885427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.031663,45.830597,12.031663,45.830597",
     "geom:latitude":45.830597,
     "geom:longitude":12.031663,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Via Canapificio 31035 Crocetta Del Montello",
     "sg:city":"Crocetta del Montello",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269885427,
-    "wof:lastmodified":1449037411,
+    "wof:lastmodified":1466293975,
     "wof:name":"Pagnan (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [12.031663,45.830597,12.031663,45.830597],
+  "bbox": [
+    12.031663,
+    45.830597,
+    12.031663,
+    45.830597
+],
   "geometry": {"coordinates":[12.031663,45.830597],"type":"Point"}
 }

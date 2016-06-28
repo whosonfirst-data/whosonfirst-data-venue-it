@@ -2,13 +2,14 @@
   "id": 186426833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.730122,45.731266,9.730122,45.731266",
     "geom:latitude":45.731266,
     "geom:longitude":9.730122,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via 4 Novembre 24022 Alzano Lombardo",
     "sg:city":"Alzano Lombardo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186426833,
-    "wof:lastmodified":1449050972,
+    "wof:lastmodified":1466291602,
     "wof:name":"Cartiere Paolo Pigna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinding"
     ]
 },
-  "bbox": [9.730122,45.731266,9.730122,45.731266],
+  "bbox": [
+    9.730122,
+    45.731266,
+    9.730122,
+    45.731266
+],
   "geometry": {"coordinates":[9.730122,45.731266],"type":"Point"}
 }

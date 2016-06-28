@@ -2,13 +2,14 @@
   "id": 336723955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.197628,43.837143,11.197628,43.837143",
     "geom:latitude":43.837143,
     "geom:longitude":11.197628,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39, V. Querceto 50019 Sesto Fiorentino",
     "sg:city":"Querceto",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336723955,
-    "wof:lastmodified":1448997571,
+    "wof:lastmodified":1466295206,
     "wof:name":"Multipharma Di M. Senesi & C. Srl",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.197628,43.837143,11.197628,43.837143],
+  "bbox": [
+    11.197628,
+    43.837143,
+    11.197628,
+    43.837143
+],
   "geometry": {"coordinates":[11.197628,43.837143],"type":"Point"}
 }

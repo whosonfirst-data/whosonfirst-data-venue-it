@@ -2,13 +2,14 @@
   "id": 236944429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.823363,45.53801,11.823363,45.53801",
     "geom:latitude":45.53801,
     "geom:longitude":11.823363,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Palladio 7 35010 Campo San Martino",
     "sg:city":"Campo San Martino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236944429,
-    "wof:lastmodified":1449003278,
+    "wof:lastmodified":1466297324,
     "wof:name":"Mulmix Facco S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "silo"
     ]
 },
-  "bbox": [11.823363,45.53801,11.823363,45.53801],
+  "bbox": [
+    11.823363,
+    45.53801,
+    11.823363,
+    45.53801
+],
   "geometry": {"coordinates":[11.823363,45.53801],"type":"Point"}
 }

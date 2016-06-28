@@ -2,13 +2,14 @@
   "id": 236206855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.24331,43.862305,10.24331,43.862305",
     "geom:latitude":43.862305,
     "geom:longitude":10.24331,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55049 Viareggio",
     "sg:city":"Viareggio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236206855,
-    "wof:lastmodified":1449003981,
+    "wof:lastmodified":1466290970,
     "wof:name":"International Mackenzie Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.24331,43.862305,10.24331,43.862305],
+  "bbox": [
+    10.24331,
+    43.862305,
+    10.24331,
+    43.862305
+],
   "geometry": {"coordinates":[10.24331,43.862305],"type":"Point"}
 }

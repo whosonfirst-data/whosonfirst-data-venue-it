@@ -2,13 +2,14 @@
   "id": 253116213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.893596,45.506966,10.893596,45.506966",
     "geom:latitude":45.506966,
     "geom:longitude":10.893596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37029 San Pietro In Cariano",
     "sg:city":"San Pietro in Cariano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253116213,
-    "wof:lastmodified":1449063248,
+    "wof:lastmodified":1466290121,
     "wof:name":"A.g.i. Tecno Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.893596,45.506966,10.893596,45.506966],
+  "bbox": [
+    10.893596,
+    45.506966,
+    10.893596,
+    45.506966
+],
   "geometry": {"coordinates":[10.893596,45.506966],"type":"Point"}
 }

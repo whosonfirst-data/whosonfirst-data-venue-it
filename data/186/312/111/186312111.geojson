@@ -2,13 +2,14 @@
   "id": 186312111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.079436,45.81144,9.079436,45.81144",
     "geom:latitude":45.81144,
     "geom:longitude":9.079436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22012 Cernobbio",
     "sg:city":"Cernobbio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186312111,
-    "wof:lastmodified":1449051729,
+    "wof:lastmodified":1466290606,
     "wof:name":"Cooperativa Operaia Di Piazza S. Stefano E Olzino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.079436,45.81144,9.079436,45.81144],
+  "bbox": [
+    9.079436,
+    45.81144,
+    9.079436,
+    45.81144
+],
   "geometry": {"coordinates":[9.079436,45.81144],"type":"Point"}
 }

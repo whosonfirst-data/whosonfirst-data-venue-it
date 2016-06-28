@@ -2,13 +2,14 @@
   "id": 186255961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.127585,37.536533,15.127585,37.536533",
     "geom:latitude":37.536533,
     "geom:longitude":15.127585,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95121 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186255961,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1466290124,
     "wof:name":"Ru.di.car Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.127585,37.536533,15.127585,37.536533],
+  "bbox": [
+    15.127585,
+    37.536533,
+    15.127585,
+    37.536533
+],
   "geometry": {"coordinates":[15.127585,37.536533],"type":"Point"}
 }

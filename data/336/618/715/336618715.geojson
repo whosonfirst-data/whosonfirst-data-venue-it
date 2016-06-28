@@ -2,13 +2,14 @@
   "id": 336618715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.170394,45.545563,9.170394,45.545563",
     "geom:latitude":45.545563,
     "geom:longitude":9.170394,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Sauro Nazario 20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336618715,
-    "wof:lastmodified":1448997605,
+    "wof:lastmodified":1466293959,
     "wof:name":"C.i.p.e.r. Compagnia Italiana Programmazione Elettronica Ricerche",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.170394,45.545563,9.170394,45.545563],
+  "bbox": [
+    9.170394,
+    45.545563,
+    9.170394,
+    45.545563
+],
   "geometry": {"coordinates":[9.170394,45.545563],"type":"Point"}
 }

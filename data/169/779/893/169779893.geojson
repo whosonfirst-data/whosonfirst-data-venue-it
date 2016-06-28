@@ -2,13 +2,14 @@
   "id": 169779893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.825376,45.003212,7.825376,45.003212",
     "geom:latitude":45.003212,
     "geom:longitude":7.825376,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10023 Chieri",
     "sg:city":"Chieri",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169779893,
-    "wof:lastmodified":1449033199,
+    "wof:lastmodified":1466295828,
     "wof:name":"Uniriscossioni S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.825376,45.003212,7.825376,45.003212],
+  "bbox": [
+    7.825376,
+    45.003212,
+    7.825376,
+    45.003212
+],
   "geometry": {"coordinates":[7.825376,45.003212],"type":"Point"}
 }

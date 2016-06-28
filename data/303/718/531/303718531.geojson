@@ -2,13 +2,14 @@
   "id": 303718531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.439644,45.613396,9.439644,45.613396",
     "geom:latitude":45.613396,
     "geom:longitude":9.439644,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Bellusco",
     "sg:city":"Bellusco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303718531,
-    "wof:lastmodified":1448998642,
+    "wof:lastmodified":1466297638,
     "wof:name":"Radaelli Arnaldo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.439644,45.613396,9.439644,45.613396],
+  "bbox": [
+    9.439644,
+    45.613396,
+    9.439644,
+    45.613396
+],
   "geometry": {"coordinates":[9.439644,45.613396],"type":"Point"}
 }

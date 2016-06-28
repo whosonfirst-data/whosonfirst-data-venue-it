@@ -2,13 +2,14 @@
   "id": 303756521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.166698,45.491451,9.166698,45.491451",
     "geom:latitude":45.491451,
     "geom:longitude":9.166698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20155 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303756521,
-    "wof:lastmodified":1448999584,
+    "wof:lastmodified":1466297722,
     "wof:name":"Arredamenti Zappulla",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.166698,45.491451,9.166698,45.491451],
+  "bbox": [
+    9.166698,
+    45.491451,
+    9.166698,
+    45.491451
+],
   "geometry": {"coordinates":[9.166698,45.491451],"type":"Point"}
 }

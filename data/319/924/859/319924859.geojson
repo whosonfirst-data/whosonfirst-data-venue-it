@@ -2,13 +2,14 @@
   "id": 319924859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.681259,40.21574,16.681259,40.21574",
     "geom:latitude":40.21574,
     "geom:longitude":16.681259,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"75025 Policoro",
     "sg:city":"Policoro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319924859,
-    "wof:lastmodified":1449024302,
+    "wof:lastmodified":1466293877,
     "wof:name":"Centro Moto Vizziello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.681259,40.21574,16.681259,40.21574],
+  "bbox": [
+    16.681259,
+    40.21574,
+    16.681259,
+    40.21574
+],
   "geometry": {"coordinates":[16.681259,40.21574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269666525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.291379,44.48793,11.291379,44.48793",
     "geom:latitude":44.48793,
     "geom:longitude":11.291379,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40033 Casalecchio Di Reno",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269666525,
-    "wof:lastmodified":1449037021,
+    "wof:lastmodified":1466291165,
     "wof:name":"Globus P.s.o.",
     "wof:parent_id":85904625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "appraiser"
     ]
 },
-  "bbox": [11.291379,44.48793,11.291379,44.48793],
+  "bbox": [
+    11.291379,
+    44.48793,
+    11.291379,
+    44.48793
+],
   "geometry": {"coordinates":[11.291379,44.48793],"type":"Point"}
 }

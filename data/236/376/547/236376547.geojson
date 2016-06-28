@@ -2,13 +2,14 @@
   "id": 236376547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.976466,45.189098,7.976466,45.189098",
     "geom:latitude":45.189098,
     "geom:longitude":7.976466,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10038 Verolengo",
     "sg:city":"Verolengo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236376547,
-    "wof:lastmodified":1449002637,
+    "wof:lastmodified":1466292735,
     "wof:name":"Schittino Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.976466,45.189098,7.976466,45.189098],
+  "bbox": [
+    7.976466,
+    45.189098,
+    7.976466,
+    45.189098
+],
   "geometry": {"coordinates":[7.976466,45.189098],"type":"Point"}
 }

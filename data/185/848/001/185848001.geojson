@@ -2,13 +2,14 @@
   "id": 185848001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.494241,41.915592,12.494241,41.915592",
     "geom:latitude":41.915592,
     "geom:longitude":12.494241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ruggero Giovannelli 2/a; Roma; 00198",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185848001,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1466289588,
     "wof:name":"Banca Provinciale Lombarda",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.494241,41.915592,12.494241,41.915592],
+  "bbox": [
+    12.494241,
+    41.915592,
+    12.494241,
+    41.915592
+],
   "geometry": {"coordinates":[12.494241,41.915592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253172767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.121301,37.103283,15.121301,37.103283",
     "geom:latitude":37.103283,
     "geom:longitude":15.121301,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"96010 Palazzolo Acreide",
     "sg:city":"Palazzolo Acreide",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253172767,
-    "wof:lastmodified":1449064018,
+    "wof:lastmodified":1466290718,
     "wof:name":"Amodio Paolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.121301,37.103283,15.121301,37.103283],
+  "bbox": [
+    15.121301,
+    37.103283,
+    15.121301,
+    37.103283
+],
   "geometry": {"coordinates":[15.121301,37.103283],"type":"Point"}
 }

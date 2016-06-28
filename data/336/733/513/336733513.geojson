@@ -2,13 +2,14 @@
   "id": 336733513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.318075,45.495102,9.318075,45.495102",
     "geom:latitude":45.495102,
     "geom:longitude":9.318075,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Trieste 20096 Pioltello",
     "sg:city":"Pioltello",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336733513,
-    "wof:lastmodified":1448997081,
+    "wof:lastmodified":1466295319,
     "wof:name":"O.m.l. Officina Meccanica Leone (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.318075,45.495102,9.318075,45.495102],
+  "bbox": [
+    9.318075,
+    45.495102,
+    9.318075,
+    45.495102
+],
   "geometry": {"coordinates":[9.318075,45.495102],"type":"Point"}
 }

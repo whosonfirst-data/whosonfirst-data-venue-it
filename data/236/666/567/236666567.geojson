@@ -2,13 +2,14 @@
   "id": 236666567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.632847,45.87114,12.632847,45.87114",
     "geom:latitude":45.87114,
     "geom:longitude":12.632847,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Pradolino 33087 Pasiano Di Pordenone",
     "sg:city":"Pasiano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236666567,
-    "wof:lastmodified":1449002740,
+    "wof:lastmodified":1466295629,
     "wof:name":"T.m.c. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.632847,45.87114,12.632847,45.87114],
+  "bbox": [
+    12.632847,
+    45.87114,
+    12.632847,
+    45.87114
+],
   "geometry": {"coordinates":[12.632847,45.87114],"type":"Point"}
 }

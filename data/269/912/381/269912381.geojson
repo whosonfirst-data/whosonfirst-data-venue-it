@@ -2,13 +2,14 @@
   "id": 269912381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.461181,45.517982,11.461181,45.517982",
     "geom:latitude":45.517982,
     "geom:longitude":11.461181,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lago Maggiore 44 36077 Altavilla Vicentina",
     "sg:city":"Altavilla Vicentina",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269912381,
-    "wof:lastmodified":1449037322,
+    "wof:lastmodified":1466294265,
     "wof:name":"Power System S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air"
     ]
 },
-  "bbox": [11.461181,45.517982,11.461181,45.517982],
+  "bbox": [
+    11.461181,
+    45.517982,
+    11.461181,
+    45.517982
+],
   "geometry": {"coordinates":[11.461181,45.517982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186037593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.633832,46.016453,11.633832,46.016453",
     "geom:latitude":46.016453,
     "geom:longitude":11.633832,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Emanuele 144, 38055 Grigno, Tn",
     "sg:city":"Grigno",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186037593,
-    "wof:lastmodified":1449053073,
+    "wof:lastmodified":1466294795,
     "wof:name":"Cassa Rurale Della Bassa Valsugana-banca Di Credito Cooperativo Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.633832,46.016453,11.633832,46.016453],
+  "bbox": [
+    11.633832,
+    46.016453,
+    11.633832,
+    46.016453
+],
   "geometry": {"coordinates":[11.633832,46.016453],"type":"Point"}
 }

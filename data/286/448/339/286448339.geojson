@@ -2,13 +2,14 @@
   "id": 286448339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.381181,44.091774,12.381181,44.091774",
     "geom:latitude":44.091774,
     "geom:longitude":12.381181,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83, Via Emilia Ovest 47039 Savignano Sul Rubicone",
     "sg:city":"Savignano sul Rubicone",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286448339,
-    "wof:lastmodified":1449017949,
+    "wof:lastmodified":1466292104,
     "wof:name":"Alea Commerciale S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.381181,44.091774,12.381181,44.091774],
+  "bbox": [
+    12.381181,
+    44.091774,
+    12.381181,
+    44.091774
+],
   "geometry": {"coordinates":[12.381181,44.091774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270262021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.660135,44.597454,7.660135,44.597454",
     "geom:latitude":44.597454,
     "geom:longitude":7.660135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12040 Genola",
     "sg:city":"Genola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270262021,
-    "wof:lastmodified":1449010157,
+    "wof:lastmodified":1466292137,
     "wof:name":"Centro Infanzia E Giochi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.660135,44.597454,7.660135,44.597454],
+  "bbox": [
+    7.660135,
+    44.597454,
+    7.660135,
+    44.597454
+],
   "geometry": {"coordinates":[7.660135,44.597454],"type":"Point"}
 }

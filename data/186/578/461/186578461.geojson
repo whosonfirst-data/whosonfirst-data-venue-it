@@ -2,13 +2,14 @@
   "id": 186578461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.818643,45.311237,10.818643,45.311237",
     "geom:latitude":45.311237,
     "geom:longitude":10.818643,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64, Via Caterina Bon Brenzoni 37060 Mozzecane",
     "sg:city":"Mozzecane",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186578461,
-    "wof:lastmodified":1449051069,
+    "wof:lastmodified":1466293075,
     "wof:name":"Graziano E Loretta Di Rizzotti Graziano E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [10.818643,45.311237,10.818643,45.311237],
+  "bbox": [
+    10.818643,
+    45.311237,
+    10.818643,
+    45.311237
+],
   "geometry": {"coordinates":[10.818643,45.311237],"type":"Point"}
 }

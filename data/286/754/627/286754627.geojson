@@ -2,13 +2,14 @@
   "id": 286754627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.937915,44.410999,8.937915,44.410999",
     "geom:latitude":44.410999,
     "geom:longitude":8.937915,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16122 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":286754627,
-    "wof:lastmodified":1449017118,
+    "wof:lastmodified":1466295906,
     "wof:name":"Politeama Spa",
     "wof:parent_id":85796843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "public"
     ]
 },
-  "bbox": [8.937915,44.410999,8.937915,44.410999],
+  "bbox": [
+    8.937915,
+    44.410999,
+    8.937915,
+    44.410999
+],
   "geometry": {"coordinates":[8.937915,44.410999],"type":"Point"}
 }

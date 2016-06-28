@@ -2,13 +2,14 @@
   "id": 253729321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.779326,43.716259,10.779326,43.716259",
     "geom:latitude":43.716259,
     "geom:longitude":10.779326,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"68, Via Di Pelle 56029 Santa Croce Sull'arno",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253729321,
-    "wof:lastmodified":1449064311,
+    "wof:lastmodified":1466296869,
     "wof:name":"Conceria Antelope Tanning Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [10.779326,43.716259,10.779326,43.716259],
+  "bbox": [
+    10.779326,
+    43.716259,
+    10.779326,
+    43.716259
+],
   "geometry": {"coordinates":[10.779326,43.716259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253014883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.833736,45.662453,8.833736,45.662453",
     "geom:latitude":45.662453,
     "geom:longitude":8.833736,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21012 Cassano Magnago",
     "sg:city":"Cassano Magnago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253014883,
-    "wof:lastmodified":1449064272,
+    "wof:lastmodified":1466289068,
     "wof:name":"C.l. Di Luoni Roberto & Crespan Claudio (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.833736,45.662453,8.833736,45.662453],
+  "bbox": [
+    8.833736,
+    45.662453,
+    8.833736,
+    45.662453
+],
   "geometry": {"coordinates":[8.833736,45.662453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269831599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.239646,44.492302,11.239646,44.492302",
     "geom:latitude":44.492302,
     "geom:longitude":11.239646,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23/a, Via Lazio 40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269831599,
-    "wof:lastmodified":1449037552,
+    "wof:lastmodified":1466293393,
     "wof:name":"Campagnola (s.r.l.)",
     "wof:parent_id":85904641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.239646,44.492302,11.239646,44.492302],
+  "bbox": [
+    11.239646,
+    44.492302,
+    11.239646,
+    44.492302
+],
   "geometry": {"coordinates":[11.239646,44.492302],"type":"Point"}
 }

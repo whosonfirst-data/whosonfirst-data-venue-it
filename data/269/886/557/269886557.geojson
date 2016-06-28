@@ -2,13 +2,14 @@
   "id": 269886557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.699471,40.715595,14.699471,40.715595",
     "geom:latitude":40.715595,
     "geom:longitude":14.699471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Via Gaudio Maiori 84013 Cava De' Tirreni",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269886557,
-    "wof:lastmodified":1449037463,
+    "wof:lastmodified":1466293986,
     "wof:name":"S.a.i.p.a.n. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [14.699471,40.715595,14.699471,40.715595],
+  "bbox": [
+    14.699471,
+    40.715595,
+    14.699471,
+    40.715595
+],
   "geometry": {"coordinates":[14.699471,40.715595],"type":"Point"}
 }

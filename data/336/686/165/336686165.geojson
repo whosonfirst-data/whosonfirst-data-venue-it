@@ -2,13 +2,14 @@
   "id": 336686165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.416576,44.505478,11.416576,44.505478",
     "geom:latitude":44.505478,
     "geom:longitude":11.416576,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Del Litografo 40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336686165,
-    "wof:lastmodified":1448997766,
+    "wof:lastmodified":1466294759,
     "wof:name":"I.c.a. (s.p.a.)",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.416576,44.505478,11.416576,44.505478],
+  "bbox": [
+    11.416576,
+    44.505478,
+    11.416576,
+    44.505478
+],
   "geometry": {"coordinates":[11.416576,44.505478],"type":"Point"}
 }

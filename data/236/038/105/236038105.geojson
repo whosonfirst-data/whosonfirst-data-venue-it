@@ -2,13 +2,14 @@
   "id": 236038105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.353512,38.136837,13.353512,38.136837",
     "geom:latitude":38.136837,
     "geom:longitude":13.353512,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90143 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236038105,
-    "wof:lastmodified":1449003825,
+    "wof:lastmodified":1466289280,
     "wof:name":"Centro Servizi Ambientali Srl",
     "wof:parent_id":85904867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.353512,38.136837,13.353512,38.136837],
+  "bbox": [
+    13.353512,
+    38.136837,
+    13.353512,
+    38.136837
+],
   "geometry": {"coordinates":[13.353512,38.136837],"type":"Point"}
 }

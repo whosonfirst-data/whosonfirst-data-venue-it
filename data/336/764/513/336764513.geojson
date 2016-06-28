@@ -2,13 +2,14 @@
   "id": 336764513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.667099,44.37178,7.667099,44.37178",
     "geom:latitude":44.37178,
     "geom:longitude":7.667099,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63, Via Mondovi' 12040 Morozzo",
     "sg:city":"Morozzo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336764513,
-    "wof:lastmodified":1448997953,
+    "wof:lastmodified":1466295689,
     "wof:name":"Rosso Officine S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.667099,44.37178,7.667099,44.37178],
+  "bbox": [
+    7.667099,
+    44.37178,
+    7.667099,
+    44.37178
+],
   "geometry": {"coordinates":[7.667099,44.37178],"type":"Point"}
 }

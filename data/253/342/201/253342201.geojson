@@ -2,13 +2,14 @@
   "id": 253342201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.224992,45.603146,10.224992,45.603146",
     "geom:latitude":45.603146,
     "geom:longitude":10.224992,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Veneto 30 25069 Villa Carcina",
     "sg:city":"Carcina",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253342201,
-    "wof:lastmodified":1449065583,
+    "wof:lastmodified":1466292766,
     "wof:name":"Mtl Metalli Trafilati Laminati Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "welding"
     ]
 },
-  "bbox": [10.224992,45.603146,10.224992,45.603146],
+  "bbox": [
+    10.224992,
+    45.603146,
+    10.224992,
+    45.603146
+],
   "geometry": {"coordinates":[10.224992,45.603146],"type":"Point"}
 }

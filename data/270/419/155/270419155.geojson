@@ -2,13 +2,14 @@
   "id": 270419155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.740978,45.646339,11.740978,45.646339",
     "geom:latitude":45.646339,
     "geom:longitude":11.740978,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Brenta 105 36056 Tezze Sul Brenta",
     "sg:city":"Tezze sul Brenta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270419155,
-    "wof:lastmodified":1449011094,
+    "wof:lastmodified":1466294128,
     "wof:name":"Battocchio E Sartore Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "ceramic"
     ]
 },
-  "bbox": [11.740978,45.646339,11.740978,45.646339],
+  "bbox": [
+    11.740978,
+    45.646339,
+    11.740978,
+    45.646339
+],
   "geometry": {"coordinates":[11.740978,45.646339],"type":"Point"}
 }

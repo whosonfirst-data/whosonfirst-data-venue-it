@@ -2,13 +2,14 @@
   "id": 269623493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.176483,45.46804,9.176483,45.46804",
     "geom:latitude":45.46804,
     "geom:longitude":9.176483,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269623493,
-    "wof:lastmodified":1449037827,
+    "wof:lastmodified":1466290598,
     "wof:name":"Studio Carelli Di Andrea Carelli & C. S.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.176483,45.46804,9.176483,45.46804],
+  "bbox": [
+    9.176483,
+    45.46804,
+    9.176483,
+    45.46804
+],
   "geometry": {"coordinates":[9.176483,45.46804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253594309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.95124,43.53664,10.95124,43.53664",
     "geom:latitude":43.53664,
     "geom:longitude":10.95124,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Antonio Gramsci 123/d 50050 Gambassi Terme",
     "sg:city":"Gambassi Terme",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253594309,
-    "wof:lastmodified":1449063244,
+    "wof:lastmodified":1466295881,
     "wof:name":"Calzatrade Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.95124,43.53664,10.95124,43.53664],
+  "bbox": [
+    10.95124,
+    43.53664,
+    10.95124,
+    43.53664
+],
   "geometry": {"coordinates":[10.95124,43.53664],"type":"Point"}
 }

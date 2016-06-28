@@ -2,13 +2,14 @@
   "id": 320725553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.292561,44.522224,11.292561,44.522224",
     "geom:latitude":44.522224,
     "geom:longitude":11.292561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40132 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320725553,
-    "wof:lastmodified":1449012170,
+    "wof:lastmodified":1466298164,
     "wof:name":"Cave Nord",
     "wof:parent_id":85904643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.292561,44.522224,11.292561,44.522224],
+  "bbox": [
+    11.292561,
+    44.522224,
+    11.292561,
+    44.522224
+],
   "geometry": {"coordinates":[11.292561,44.522224],"type":"Point"}
 }

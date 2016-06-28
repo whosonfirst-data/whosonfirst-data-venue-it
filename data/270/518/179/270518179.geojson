@@ -2,13 +2,14 @@
   "id": 270518179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.929381,44.945152,7.929381,44.945152",
     "geom:latitude":44.945152,
     "geom:longitude":7.929381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Strada Per Poirino 14019 Villanova D'asti",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270518179,
-    "wof:lastmodified":1449010037,
+    "wof:lastmodified":1466295295,
     "wof:name":"Elastogran Italia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [7.929381,44.945152,7.929381,44.945152],
+  "bbox": [
+    7.929381,
+    44.945152,
+    7.929381,
+    44.945152
+],
   "geometry": {"coordinates":[7.929381,44.945152],"type":"Point"}
 }

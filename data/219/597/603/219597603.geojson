@@ -2,13 +2,14 @@
   "id": 219597603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.548258,41.775379,12.548258,41.775379",
     "geom:latitude":41.775379,
     "geom:longitude":12.548258,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00042 Anzio",
     "sg:city":"Anzio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219597603,
-    "wof:lastmodified":1449073866,
+    "wof:lastmodified":1466292269,
     "wof:name":"Franciosa Massimiliano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.548258,41.775379,12.548258,41.775379],
+  "bbox": [
+    12.548258,
+    41.775379,
+    12.548258,
+    41.775379
+],
   "geometry": {"coordinates":[12.548258,41.775379],"type":"Point"}
 }

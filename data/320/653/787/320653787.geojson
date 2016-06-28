@@ -2,13 +2,14 @@
   "id": 320653787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.125296,41.543724,14.125296,41.543724",
     "geom:latitude":41.543724,
     "geom:longitude":14.125296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86070 Montaquila",
     "sg:city":"Montaquila",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320653787,
-    "wof:lastmodified":1449011515,
+    "wof:lastmodified":1466297910,
     "wof:name":"Caschera Luigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.125296,41.543724,14.125296,41.543724],
+  "bbox": [
+    14.125296,
+    41.543724,
+    14.125296,
+    41.543724
+],
   "geometry": {"coordinates":[14.125296,41.543724],"type":"Point"}
 }

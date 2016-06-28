@@ -2,13 +2,14 @@
   "id": 253197473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.390071,45.852982,9.390071,45.852982",
     "geom:latitude":45.852982,
     "geom:longitude":9.390071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Volta 26/28 23879 Verderio Inferiore",
     "sg:city":"Verderio Inferiore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253197473,
-    "wof:lastmodified":1449065399,
+    "wof:lastmodified":1466290963,
     "wof:name":"Nuova Consul Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chair"
     ]
 },
-  "bbox": [9.390071,45.852982,9.390071,45.852982],
+  "bbox": [
+    9.390071,
+    45.852982,
+    9.390071,
+    45.852982
+],
   "geometry": {"coordinates":[9.390071,45.852982],"type":"Point"}
 }

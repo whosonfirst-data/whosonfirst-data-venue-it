@@ -2,13 +2,14 @@
   "id": 219826495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.110883,45.493534,12.110883,45.493534",
     "geom:latitude":45.493534,
     "geom:longitude":12.110883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30035 Mirano",
     "sg:city":"Mirano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219826495,
-    "wof:lastmodified":1449072963,
+    "wof:lastmodified":1466294539,
     "wof:name":"L'agordina Di Giuseppe Perale & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.110883,45.493534,12.110883,45.493534],
+  "bbox": [
+    12.110883,
+    45.493534,
+    12.110883,
+    45.493534
+],
   "geometry": {"coordinates":[12.110883,45.493534],"type":"Point"}
 }

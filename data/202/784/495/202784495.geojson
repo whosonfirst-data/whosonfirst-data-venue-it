@@ -2,13 +2,14 @@
   "id": 202784495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.946041,40.675972,14.946041,40.675972",
     "geom:latitude":40.675972,
     "geom:longitude":14.946041,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84090 Montecorvino Pugliano",
     "sg:city":"Montecorvino Pugliano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202784495,
-    "wof:lastmodified":1449061780,
+    "wof:lastmodified":1466292025,
     "wof:name":"Ristorante Le Parisien - Museo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.946041,40.675972,14.946041,40.675972],
+  "bbox": [
+    14.946041,
+    40.675972,
+    14.946041,
+    40.675972
+],
   "geometry": {"coordinates":[14.946041,40.675972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220137269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.439866,40.900757,15.439866,40.900757",
     "geom:latitude":40.900757,
     "geom:longitude":15.439866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83045 Calitri",
     "sg:city":"Calitri",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220137269,
-    "wof:lastmodified":1449074765,
+    "wof:lastmodified":1466288909,
     "wof:name":"Theatrical Computer Di Massimiliano Zarrilli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.439866,40.900757,15.439866,40.900757],
+  "bbox": [
+    15.439866,
+    40.900757,
+    15.439866,
+    40.900757
+],
   "geometry": {"coordinates":[15.439866,40.900757],"type":"Point"}
 }

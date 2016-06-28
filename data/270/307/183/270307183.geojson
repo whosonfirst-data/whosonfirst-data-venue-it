@@ -2,13 +2,14 @@
   "id": 270307183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.750845,45.008492,10.750845,45.008492",
     "geom:latitude":45.008492,
     "geom:longitude":10.750845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46029 Suzzara",
     "sg:city":"Suzzara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270307183,
-    "wof:lastmodified":1449009255,
+    "wof:lastmodified":1466292711,
     "wof:name":"Allpack Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.750845,45.008492,10.750845,45.008492],
+  "bbox": [
+    10.750845,
+    45.008492,
+    10.750845,
+    45.008492
+],
   "geometry": {"coordinates":[10.750845,45.008492],"type":"Point"}
 }

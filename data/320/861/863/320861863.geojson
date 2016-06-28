@@ -2,13 +2,14 @@
   "id": 320861863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.924895,46.171028,9.924895,46.171028",
     "geom:latitude":46.171028,
     "geom:longitude":9.924895,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lozzoni 5 23020 Poggiridenti",
     "sg:city":"Poggiridenti",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320861863,
-    "wof:lastmodified":1449014939,
+    "wof:lastmodified":1466298306,
     "wof:name":"Salumificio Mottolini Michele S.n.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sausage"
     ]
 },
-  "bbox": [9.924895,46.171028,9.924895,46.171028],
+  "bbox": [
+    9.924895,
+    46.171028,
+    9.924895,
+    46.171028
+],
   "geometry": {"coordinates":[9.924895,46.171028],"type":"Point"}
 }

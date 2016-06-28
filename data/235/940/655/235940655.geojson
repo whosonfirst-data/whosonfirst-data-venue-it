@@ -2,13 +2,14 @@
   "id": 235940655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.308051,45.471416,11.308051,45.471416",
     "geom:latitude":45.471416,
     "geom:longitude":11.308051,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Moschina 31 37030 Ronca'",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235940655,
-    "wof:lastmodified":1449008340,
+    "wof:lastmodified":1466294581,
     "wof:name":"Cantina Danese Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "italian"
     ]
 },
-  "bbox": [11.308051,45.471416,11.308051,45.471416],
+  "bbox": [
+    11.308051,
+    45.471416,
+    11.308051,
+    45.471416
+],
   "geometry": {"coordinates":[11.308051,45.471416],"type":"Point"}
 }

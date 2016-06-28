@@ -2,13 +2,14 @@
   "id": 185756501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.057893,45.909275,12.057893,45.909275",
     "geom:latitude":45.909275,
     "geom:longitude":12.057893,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Di Guia; Guia Di Valdobbiadene; 31040",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185756501,
-    "wof:lastmodified":1449007575,
+    "wof:lastmodified":1466288995,
     "wof:name":"Banca Popolare C.piva, Di Valdobbiadene Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.057893,45.909275,12.057893,45.909275],
+  "bbox": [
+    12.057893,
+    45.909275,
+    12.057893,
+    45.909275
+],
   "geometry": {"coordinates":[12.057893,45.909275],"type":"Point"}
 }

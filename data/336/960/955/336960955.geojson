@@ -2,13 +2,14 @@
   "id": 336960955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.263659,45.429562,9.263659,45.429562",
     "geom:latitude":45.429562,
     "geom:longitude":9.263659,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336960955,
-    "wof:lastmodified":1448997704,
+    "wof:lastmodified":1466297342,
     "wof:name":"Marin Fabio",
     "wof:parent_id":85862695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.263659,45.429562,9.263659,45.429562],
+  "bbox": [
+    9.263659,
+    45.429562,
+    9.263659,
+    45.429562
+],
   "geometry": {"coordinates":[9.263659,45.429562],"type":"Point"}
 }

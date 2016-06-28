@@ -2,13 +2,14 @@
   "id": 269858783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.704922,45.633564,12.704922,45.633564",
     "geom:latitude":45.633564,
     "geom:longitude":12.704922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30020 Quarto D'altino",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":269858783,
-    "wof:lastmodified":1449036386,
+    "wof:lastmodified":1466293687,
     "wof:name":"Azienda Agricola Biasuzzi Di G.biasuzzi E C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [12.704922,45.633564,12.704922,45.633564],
+  "bbox": [
+    12.704922,
+    45.633564,
+    12.704922,
+    45.633564
+],
   "geometry": {"coordinates":[12.704922,45.633564],"type":"Point"}
 }

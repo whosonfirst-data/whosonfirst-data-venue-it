@@ -2,13 +2,14 @@
   "id": 320703131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.166936,46.097771,12.166936,46.097771",
     "geom:latitude":46.097771,
     "geom:longitude":12.166936,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32020 Limana",
     "sg:city":"Limana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320703131,
-    "wof:lastmodified":1449012398,
+    "wof:lastmodified":1466298005,
     "wof:name":"Plastics Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.166936,46.097771,12.166936,46.097771],
+  "bbox": [
+    12.166936,
+    46.097771,
+    12.166936,
+    46.097771
+],
   "geometry": {"coordinates":[12.166936,46.097771],"type":"Point"}
 }

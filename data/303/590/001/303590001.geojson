@@ -2,13 +2,14 @@
   "id": 303590001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.480337,42.361649,12.480337,42.361649",
     "geom:latitude":42.361649,
     "geom:longitude":12.480337,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"02046 Magliano Sabina",
     "sg:city":"Magliano Sabina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303590001,
-    "wof:lastmodified":1448999575,
+    "wof:lastmodified":1466297027,
     "wof:name":"Marinucci Sergio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.480337,42.361649,12.480337,42.361649],
+  "bbox": [
+    12.480337,
+    42.361649,
+    12.480337,
+    42.361649
+],
   "geometry": {"coordinates":[12.480337,42.361649],"type":"Point"}
 }

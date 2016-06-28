@@ -2,13 +2,14 @@
   "id": 336619333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.520083,45.10223,7.520083,45.10223",
     "geom:latitude":45.10223,
     "geom:longitude":7.520083,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31/e, Via Monte Rosa 10091 Alpignano",
     "sg:city":"Alpignano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336619333,
-    "wof:lastmodified":1448997140,
+    "wof:lastmodified":1466293965,
     "wof:name":"C.l.f. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.520083,45.10223,7.520083,45.10223],
+  "bbox": [
+    7.520083,
+    45.10223,
+    7.520083,
+    45.10223
+],
   "geometry": {"coordinates":[7.520083,45.10223],"type":"Point"}
 }

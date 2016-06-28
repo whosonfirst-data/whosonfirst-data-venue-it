@@ -2,13 +2,14 @@
   "id": 303043271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.486008,41.851433,12.486008,41.851433",
     "geom:latitude":41.851433,
     "geom:longitude":12.486008,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"436, Via Colombo Cristoforo 00145 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303043271,
-    "wof:lastmodified":1448999946,
+    "wof:lastmodified":1466290893,
     "wof:name":"Sartem Impianti Srl",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.486008,41.851433,12.486008,41.851433],
+  "bbox": [
+    12.486008,
+    41.851433,
+    12.486008,
+    41.851433
+],
   "geometry": {"coordinates":[12.486008,41.851433],"type":"Point"}
 }

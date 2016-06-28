@@ -2,13 +2,14 @@
   "id": 236952067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.041605,44.053871,10.041605,44.053871",
     "geom:latitude":44.053871,
     "geom:longitude":10.041605,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"54033 Carrara",
     "sg:city":"Carrara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236952067,
-    "wof:lastmodified":1449004133,
+    "wof:lastmodified":1466297331,
     "wof:name":"Stonest Srl",
     "wof:parent_id":85900387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.041605,44.053871,10.041605,44.053871],
+  "bbox": [
+    10.041605,
+    44.053871,
+    10.041605,
+    44.053871
+],
   "geometry": {"coordinates":[10.041605,44.053871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185662691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.906879,44.376022,7.906879,44.376022",
     "geom:latitude":44.376022,
     "geom:longitude":7.906879,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nielli 92; S. Michele Mondovi; 12080",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185662691,
-    "wof:lastmodified":1449007674,
+    "wof:lastmodified":1466295135,
     "wof:name":"Banca Di Credito Cooperativo, Di Carru E Del Monregalese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.906879,44.376022,7.906879,44.376022],
+  "bbox": [
+    7.906879,
+    44.376022,
+    7.906879,
+    44.376022
+],
   "geometry": {"coordinates":[7.906879,44.376022],"type":"Point"}
 }

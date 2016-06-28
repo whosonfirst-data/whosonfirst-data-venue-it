@@ -2,13 +2,14 @@
   "id": 202673991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.59647,45.889465,12.59647,45.889465",
     "geom:latitude":45.889465,
     "geom:longitude":12.59647,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33170 Pordenone",
     "sg:city":"Pordenone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202673991,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466290789,
     "wof:name":"O.b. Service S.a.s. Di Oddi Antonio & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.59647,45.889465,12.59647,45.889465],
+  "bbox": [
+    12.59647,
+    45.889465,
+    12.59647,
+    45.889465
+],
   "geometry": {"coordinates":[12.59647,45.889465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269725553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.331525,45.437138,12.331525,45.437138",
     "geom:latitude":45.437138,
     "geom:longitude":12.331525,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30125 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269725553,
-    "wof:lastmodified":1449036728,
+    "wof:lastmodified":1466292042,
     "wof:name":"Christie's S.a.",
     "wof:parent_id":85905017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.331525,45.437138,12.331525,45.437138],
+  "bbox": [
+    12.331525,
+    45.437138,
+    12.331525,
+    45.437138
+],
   "geometry": {"coordinates":[12.331525,45.437138],"type":"Point"}
 }

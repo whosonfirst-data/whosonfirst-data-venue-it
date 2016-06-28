@@ -2,13 +2,14 @@
   "id": 185834369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.748822,45.178818,11.748822,45.178818",
     "geom:latitude":45.178818,
     "geom:longitude":11.748822,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Xx Settembre 15a; Solesino; 35047",
     "sg:city":"Solesino",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185834369,
-    "wof:lastmodified":1449006766,
+    "wof:lastmodified":1466289503,
     "wof:name":"Banca Popolare Veneta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.748822,45.178818,11.748822,45.178818],
+  "bbox": [
+    11.748822,
+    45.178818,
+    11.748822,
+    45.178818
+],
   "geometry": {"coordinates":[11.748822,45.178818],"type":"Point"}
 }

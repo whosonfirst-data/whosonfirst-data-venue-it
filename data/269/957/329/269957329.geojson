@@ -2,13 +2,14 @@
   "id": 269957329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.301504,45.267872,12.301504,45.267872",
     "geom:latitude":45.267872,
     "geom:longitude":12.301504,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30010 Venezia",
     "sg:classifiers":[],
     "sg:orig_category":"Alberghi E Strutture Extra Alberghiere. Ospedali E Servizi Sanitari",
@@ -26,14 +27,20 @@
     "wof:geomhash":"98d3d5fa88ea15e9ccc77858cfc83a9d",
     "wof:hierarchy":[],
     "wof:id":269957329,
-    "wof:lastmodified":1449038496,
+    "wof:lastmodified":1466294784,
     "wof:name":"Villaggio Marino Di Ca' Roman O.p.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.301504,45.267872,12.301504,45.267872],
+  "bbox": [
+    12.301504,
+    45.267872,
+    12.301504,
+    45.267872
+],
   "geometry": {"coordinates":[12.301504,45.267872],"type":"Point"}
 }

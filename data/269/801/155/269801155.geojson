@@ -2,13 +2,14 @@
   "id": 269801155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.960418,44.39814,8.960418,44.39814",
     "geom:latitude":44.39814,
     "geom:longitude":8.960418,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16145 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269801155,
-    "wof:lastmodified":1449038432,
+    "wof:lastmodified":1466293034,
     "wof:name":"Diadema Spa",
     "wof:parent_id":85862649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.960418,44.39814,8.960418,44.39814],
+  "bbox": [
+    8.960418,
+    44.39814,
+    8.960418,
+    44.39814
+],
   "geometry": {"coordinates":[8.960418,44.39814],"type":"Point"}
 }

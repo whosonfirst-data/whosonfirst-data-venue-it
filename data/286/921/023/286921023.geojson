@@ -2,13 +2,14 @@
   "id": 286921023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.365101,40.846695,14.365101,40.846695",
     "geom:latitude":40.846695,
     "geom:longitude":14.365101,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80040 San Sebastiano Al Vesuvio",
     "sg:city":"San Sebastiano al Vesuvio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286921023,
-    "wof:lastmodified":1449017080,
+    "wof:lastmodified":1466297313,
     "wof:name":"Ellezeta",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.365101,40.846695,14.365101,40.846695],
+  "bbox": [
+    14.365101,
+    40.846695,
+    14.365101,
+    40.846695
+],
   "geometry": {"coordinates":[14.365101,40.846695],"type":"Point"}
 }

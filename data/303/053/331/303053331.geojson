@@ -2,13 +2,14 @@
   "id": 303053331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.32472,45.887138,12.32472,45.887138",
     "geom:latitude":45.887138,
     "geom:longitude":12.32472,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Pio X 31020 San Vendemiano",
     "sg:city":"San Vendemiano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303053331,
-    "wof:lastmodified":1448998575,
+    "wof:lastmodified":1466291024,
     "wof:name":"Eurometalnova S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.32472,45.887138,12.32472,45.887138],
+  "bbox": [
+    12.32472,
+    45.887138,
+    12.32472,
+    45.887138
+],
   "geometry": {"coordinates":[12.32472,45.887138],"type":"Point"}
 }

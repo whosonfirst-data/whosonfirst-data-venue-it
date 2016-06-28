@@ -2,13 +2,14 @@
   "id": 236820153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.679416,44.839233,8.679416,44.839233",
     "geom:latitude":44.839233,
     "geom:longitude":8.679416,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15048 Valenza",
     "sg:city":"Valenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236820153,
-    "wof:lastmodified":1449003341,
+    "wof:lastmodified":1466296646,
     "wof:name":"Stanchi Bernardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.679416,44.839233,8.679416,44.839233],
+  "bbox": [
+    8.679416,
+    44.839233,
+    8.679416,
+    44.839233
+],
   "geometry": {"coordinates":[8.679416,44.839233],"type":"Point"}
 }

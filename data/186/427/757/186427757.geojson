@@ -2,13 +2,14 @@
   "id": 186427757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.57611,41.675713,13.57611,41.675713",
     "geom:latitude":41.675713,
     "geom:longitude":13.57611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Piscicelli 89/91 03036 Isola Del Liri E Superiore",
     "sg:city":"Isola del Liri",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186427757,
-    "wof:lastmodified":1449051187,
+    "wof:lastmodified":1466291613,
     "wof:name":"Centro Editoriale Valtortiano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.57611,41.675713,13.57611,41.675713],
+  "bbox": [
+    13.57611,
+    41.675713,
+    13.57611,
+    41.675713
+],
   "geometry": {"coordinates":[13.57611,41.675713],"type":"Point"}
 }

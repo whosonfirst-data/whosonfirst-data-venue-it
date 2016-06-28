@@ -2,13 +2,14 @@
   "id": 253755197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.819874,43.688396,10.819874,43.688396",
     "geom:latitude":43.688396,
     "geom:longitude":10.819874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Montanelli 56028 San Miniato",
     "sg:city":"San Miniato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253755197,
-    "wof:lastmodified":1449063651,
+    "wof:lastmodified":1466296988,
     "wof:name":"Guardolificio Biemme S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.819874,43.688396,10.819874,43.688396],
+  "bbox": [
+    10.819874,
+    43.688396,
+    10.819874,
+    43.688396
+],
   "geometry": {"coordinates":[10.819874,43.688396],"type":"Point"}
 }

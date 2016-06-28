@@ -2,13 +2,14 @@
   "id": 336784129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.631723,45.082748,7.631723,45.082748",
     "geom:latitude":45.082748,
     "geom:longitude":7.631723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Passaggio Privato Pianceri 10146 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336784129,
-    "wof:lastmodified":1448997652,
+    "wof:lastmodified":1466295932,
     "wof:name":"T.a.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.631723,45.082748,7.631723,45.082748],
+  "bbox": [
+    7.631723,
+    45.082748,
+    7.631723,
+    45.082748
+],
   "geometry": {"coordinates":[7.631723,45.082748],"type":"Point"}
 }

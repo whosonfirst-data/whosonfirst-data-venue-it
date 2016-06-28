@@ -2,13 +2,14 @@
   "id": 220187533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.572102,39.253468,8.572102,39.253468",
     "geom:latitude":39.253468,
     "geom:longitude":8.572102,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09013 Carbonia",
     "sg:city":"Carbonia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220187533,
-    "wof:lastmodified":1449074154,
+    "wof:lastmodified":1466289430,
     "wof:name":"Amaranto Ottavio E Lucrezio Sdf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.572102,39.253468,8.572102,39.253468],
+  "bbox": [
+    8.572102,
+    39.253468,
+    8.572102,
+    39.253468
+],
   "geometry": {"coordinates":[8.572102,39.253468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270013289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.958325,45.38271,11.958325,45.38271",
     "geom:latitude":45.38271,
     "geom:longitude":11.958325,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Veneto 48 35020 Saonara",
     "sg:city":"Saonara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270013289,
-    "wof:lastmodified":1449010322,
+    "wof:lastmodified":1466289155,
     "wof:name":"Italscale Fusalluminio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "casting"
     ]
 },
-  "bbox": [11.958325,45.38271,11.958325,45.38271],
+  "bbox": [
+    11.958325,
+    45.38271,
+    11.958325,
+    45.38271
+],
   "geometry": {"coordinates":[11.958325,45.38271],"type":"Point"}
 }

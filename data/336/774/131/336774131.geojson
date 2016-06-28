@@ -2,13 +2,14 @@
   "id": 336774131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.690624,44.484329,10.690624,44.484329",
     "geom:latitude":44.484329,
     "geom:longitude":10.690624,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Viale Della Repubblica 42014 Castellarano",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336774131,
-    "wof:lastmodified":1448997373,
+    "wof:lastmodified":1466295811,
     "wof:name":"Serk S.a.s. Di Borelli Daniele E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.690624,44.484329,10.690624,44.484329],
+  "bbox": [
+    10.690624,
+    44.484329,
+    10.690624,
+    44.484329
+],
   "geometry": {"coordinates":[10.690624,44.484329],"type":"Point"}
 }

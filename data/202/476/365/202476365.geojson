@@ -2,13 +2,14 @@
   "id": 202476365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.537955,44.368694,11.537955,44.368694",
     "geom:latitude":44.368694,
     "geom:longitude":11.537955,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40024 Castel San Pietro Terme",
     "sg:city":"Castel San Pietro Terme",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202476365,
-    "wof:lastmodified":1449061136,
+    "wof:lastmodified":1466295925,
     "wof:name":"Societa' Sportiva Moto Club Castel S. Pietro Terme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.537955,44.368694,11.537955,44.368694],
+  "bbox": [
+    11.537955,
+    44.368694,
+    11.537955,
+    44.368694
+],
   "geometry": {"coordinates":[11.537955,44.368694],"type":"Point"}
 }

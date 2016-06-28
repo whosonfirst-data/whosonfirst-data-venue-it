@@ -2,13 +2,14 @@
   "id": 269563777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.199837,45.530464,9.199837,45.530464",
     "geom:latitude":45.530464,
     "geom:longitude":9.199837,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Leopardi, 9/11 20091 Bresso",
     "sg:city":"Bresso",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269563777,
-    "wof:lastmodified":1449036184,
+    "wof:lastmodified":1466289882,
     "wof:name":"Colortex Industria Chimica Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pigment"
     ]
 },
-  "bbox": [9.199837,45.530464,9.199837,45.530464],
+  "bbox": [
+    9.199837,
+    45.530464,
+    9.199837,
+    45.530464
+],
   "geometry": {"coordinates":[9.199837,45.530464],"type":"Point"}
 }

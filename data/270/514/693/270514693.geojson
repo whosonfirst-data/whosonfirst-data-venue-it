@@ -2,13 +2,14 @@
   "id": 270514693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.950162,45.671093,9.950162,45.671093",
     "geom:latitude":45.671093,
     "geom:longitude":9.950162,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Suardo 24067 Sarnico",
     "sg:city":"Sarnico",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270514693,
-    "wof:lastmodified":1449009866,
+    "wof:lastmodified":1466295251,
     "wof:name":"Colorificio Sebino (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.950162,45.671093,9.950162,45.671093],
+  "bbox": [
+    9.950162,
+    45.671093,
+    9.950162,
+    45.671093
+],
   "geometry": {"coordinates":[9.950162,45.671093],"type":"Point"}
 }

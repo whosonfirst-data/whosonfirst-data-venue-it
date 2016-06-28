@@ -2,13 +2,14 @@
   "id": 303611165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.160207,37.084057,15.160207,37.084057",
     "geom:latitude":37.084057,
     "geom:longitude":15.160207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"96014 Floridia",
     "sg:city":"Floridia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303611165,
-    "wof:lastmodified":1449000050,
+    "wof:lastmodified":1466297245,
     "wof:name":"Eurostile By Umbre Daniele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.160207,37.084057,15.160207,37.084057],
+  "bbox": [
+    15.160207,
+    37.084057,
+    15.160207,
+    37.084057
+],
   "geometry": {"coordinates":[15.160207,37.084057],"type":"Point"}
 }

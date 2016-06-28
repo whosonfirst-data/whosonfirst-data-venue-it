@@ -2,13 +2,14 @@
   "id": 236782861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.5495,44.414974,7.5495,44.414974",
     "geom:latitude":44.414974,
     "geom:longitude":7.5495,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45, V. Valle Po - Madonna Dell'olmo 12100 Cuneo",
     "sg:city":"Cuneo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236782861,
-    "wof:lastmodified":1449001668,
+    "wof:lastmodified":1466296622,
     "wof:name":"C.p. Immobiliare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.5495,44.414974,7.5495,44.414974],
+  "bbox": [
+    7.5495,
+    44.414974,
+    7.5495,
+    44.414974
+],
   "geometry": {"coordinates":[7.5495,44.414974],"type":"Point"}
 }

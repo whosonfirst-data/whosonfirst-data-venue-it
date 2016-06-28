@@ -2,13 +2,14 @@
   "id": 169813095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.839695,43.481609,10.839695,43.481609",
     "geom:latitude":43.481609,
     "geom:longitude":10.839695,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Dei Valloni 56048 Volterra",
     "sg:city":"Volterra",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169813095,
-    "wof:lastmodified":1449033542,
+    "wof:lastmodified":1466296246,
     "wof:name":"Cassa Di Rsparmio Di Volterra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "institution"
     ]
 },
-  "bbox": [10.839695,43.481609,10.839695,43.481609],
+  "bbox": [
+    10.839695,
+    43.481609,
+    10.839695,
+    43.481609
+],
   "geometry": {"coordinates":[10.839695,43.481609],"type":"Point"}
 }

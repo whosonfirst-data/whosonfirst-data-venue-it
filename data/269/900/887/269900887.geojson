@@ -2,13 +2,14 @@
   "id": 269900887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.214094,42.464825,14.214094,42.464825",
     "geom:latitude":42.464825,
     "geom:longitude":14.214094,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Contrada S. Agnese 65013 Citta' Sant'angelo",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269900887,
-    "wof:lastmodified":1449037167,
+    "wof:lastmodified":1466294147,
     "wof:name":"Vivai Piante Martinelli G.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [14.214094,42.464825,14.214094,42.464825],
+  "bbox": [
+    14.214094,
+    42.464825,
+    14.214094,
+    42.464825
+],
   "geometry": {"coordinates":[14.214094,42.464825],"type":"Point"}
 }

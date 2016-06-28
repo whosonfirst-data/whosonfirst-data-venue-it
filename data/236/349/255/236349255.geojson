@@ -2,13 +2,14 @@
   "id": 236349255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.881308,44.654339,10.881308,44.654339",
     "geom:latitude":44.654339,
     "geom:longitude":10.881308,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236349255,
-    "wof:lastmodified":1449002788,
+    "wof:lastmodified":1466292440,
     "wof:name":"Modenflex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.881308,44.654339,10.881308,44.654339],
+  "bbox": [
+    10.881308,
+    44.654339,
+    10.881308,
+    44.654339
+],
   "geometry": {"coordinates":[10.881308,44.654339],"type":"Point"}
 }

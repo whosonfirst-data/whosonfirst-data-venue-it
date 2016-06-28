@@ -2,13 +2,14 @@
   "id": 236283857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.029358,46.104851,12.029358,46.104851",
     "geom:latitude":46.104851,
     "geom:longitude":12.029358,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32030 San Gregorio Nelle Alpi",
     "sg:city":"Paderno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236283857,
-    "wof:lastmodified":1449002457,
+    "wof:lastmodified":1466291771,
     "wof:name":"Dalla Rosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.029358,46.104851,12.029358,46.104851],
+  "bbox": [
+    12.029358,
+    46.104851,
+    12.029358,
+    46.104851
+],
   "geometry": {"coordinates":[12.029358,46.104851],"type":"Point"}
 }

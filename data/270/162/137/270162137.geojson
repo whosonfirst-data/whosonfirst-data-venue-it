@@ -2,13 +2,14 @@
   "id": 270162137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.467076,43.621082,11.467076,43.621082",
     "geom:latitude":43.621082,
     "geom:longitude":11.467076,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50063 Figline Valdarno",
     "sg:city":"Figline Valdarno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270162137,
-    "wof:lastmodified":1449010728,
+    "wof:lastmodified":1466290916,
     "wof:name":"Cantina La Colona Di Turrini Romolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.467076,43.621082,11.467076,43.621082],
+  "bbox": [
+    11.467076,
+    43.621082,
+    11.467076,
+    43.621082
+],
   "geometry": {"coordinates":[11.467076,43.621082],"type":"Point"}
 }

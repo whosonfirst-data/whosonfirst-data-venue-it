@@ -2,13 +2,14 @@
   "id": 303488461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.31284,40.854443,14.31284,40.854443",
     "geom:latitude":40.854443,
     "geom:longitude":14.31284,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80147 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303488461,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1466296536,
     "wof:name":"2m Aria Compressa Sas",
     "wof:parent_id":85904815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.31284,40.854443,14.31284,40.854443],
+  "bbox": [
+    14.31284,
+    40.854443,
+    14.31284,
+    40.854443
+],
   "geometry": {"coordinates":[14.31284,40.854443],"type":"Point"}
 }

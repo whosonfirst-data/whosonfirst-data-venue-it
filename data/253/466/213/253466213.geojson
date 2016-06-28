@@ -2,13 +2,14 @@
   "id": 253466213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.374489,45.744881,9.374489,45.744881",
     "geom:latitude":45.744881,
     "geom:longitude":9.374489,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lombardia 4 23888 Perego",
     "sg:city":"Perego",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253466213,
-    "wof:lastmodified":1449063693,
+    "wof:lastmodified":1466294214,
     "wof:name":"Plastecnic Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vas"
     ]
 },
-  "bbox": [9.374489,45.744881,9.374489,45.744881],
+  "bbox": [
+    9.374489,
+    45.744881,
+    9.374489,
+    45.744881
+],
   "geometry": {"coordinates":[9.374489,45.744881],"type":"Point"}
 }

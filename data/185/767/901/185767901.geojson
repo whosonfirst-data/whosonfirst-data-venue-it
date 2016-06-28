@@ -2,13 +2,14 @@
   "id": 185767901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.28494,40.904953,14.28494,40.904953",
     "geom:latitude":40.904953,
     "geom:longitude":14.28494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Principe; Casoria",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185767901,
-    "wof:lastmodified":1449007077,
+    "wof:lastmodified":1466289070,
     "wof:name":"Banca Popolare Dell'irpinia Scarl",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.28494,40.904953,14.28494,40.904953],
+  "bbox": [
+    14.28494,
+    40.904953,
+    14.28494,
+    40.904953
+],
   "geometry": {"coordinates":[14.28494,40.904953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202631969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.491888,41.904652,12.491888,41.904652",
     "geom:latitude":41.904652,
     "geom:longitude":12.491888,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202631969,
-    "wof:lastmodified":1449060896,
+    "wof:lastmodified":1466290315,
     "wof:name":"Thai Airways International",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.491888,41.904652,12.491888,41.904652],
+  "bbox": [
+    12.491888,
+    41.904652,
+    12.491888,
+    41.904652
+],
   "geometry": {"coordinates":[12.491888,41.904652],"type":"Point"}
 }

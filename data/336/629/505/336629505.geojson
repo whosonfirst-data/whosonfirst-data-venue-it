@@ -2,13 +2,14 @@
   "id": 336629505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.709262,44.835957,7.709262,44.835957",
     "geom:latitude":44.835957,
     "geom:longitude":7.709262,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Strada Degli Occhini 10022 Carmagnola",
     "sg:city":"Carmagnola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336629505,
-    "wof:lastmodified":1448997782,
+    "wof:lastmodified":1466294081,
     "wof:name":"Cemas Elettra (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.709262,44.835957,7.709262,44.835957],
+  "bbox": [
+    7.709262,
+    44.835957,
+    7.709262,
+    44.835957
+],
   "geometry": {"coordinates":[7.709262,44.835957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219322189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.469883,41.863716,12.469883,41.863716",
     "geom:latitude":41.863716,
     "geom:longitude":12.469883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00034 Colleferro",
     "sg:city":"Colleferro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219322189,
-    "wof:lastmodified":1449070342,
+    "wof:lastmodified":1466289526,
     "wof:name":"Bellugi Anna",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.469883,41.863716,12.469883,41.863716],
+  "bbox": [
+    12.469883,
+    41.863716,
+    12.469883,
+    41.863716
+],
   "geometry": {"coordinates":[12.469883,41.863716],"type":"Point"}
 }

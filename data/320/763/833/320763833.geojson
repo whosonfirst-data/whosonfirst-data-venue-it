@@ -2,13 +2,14 @@
   "id": 320763833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.205873,45.483009,9.205873,45.483009",
     "geom:latitude":45.483009,
     "geom:longitude":9.205873,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320763833,
-    "wof:lastmodified":1449014953,
+    "wof:lastmodified":1466298106,
     "wof:name":"Pumex (s.p.a.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.205873,45.483009,9.205873,45.483009],
+  "bbox": [
+    9.205873,
+    45.483009,
+    9.205873,
+    45.483009
+],
   "geometry": {"coordinates":[9.205873,45.483009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236011691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228826,45.471832,9.228826,45.471832",
     "geom:latitude":45.471832,
     "geom:longitude":9.228826,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sangallo 39 20133 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236011691,
-    "wof:lastmodified":1449004521,
+    "wof:lastmodified":1466289004,
     "wof:name":"H & S Time Srl",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "desk"
     ]
 },
-  "bbox": [9.228826,45.471832,9.228826,45.471832],
+  "bbox": [
+    9.228826,
+    45.471832,
+    9.228826,
+    45.471832
+],
   "geometry": {"coordinates":[9.228826,45.471832],"type":"Point"}
 }

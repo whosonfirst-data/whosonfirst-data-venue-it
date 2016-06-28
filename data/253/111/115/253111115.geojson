@@ -2,13 +2,14 @@
   "id": 253111115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.362351,45.662056,11.362351,45.662056",
     "geom:latitude":45.662056,
     "geom:longitude":11.362351,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36030 Monte Di Malo",
     "sg:city":"Monte di Malo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253111115,
-    "wof:lastmodified":1449065893,
+    "wof:lastmodified":1466290077,
     "wof:name":"Scame Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.362351,45.662056,11.362351,45.662056],
+  "bbox": [
+    11.362351,
+    45.662056,
+    11.362351,
+    45.662056
+],
   "geometry": {"coordinates":[11.362351,45.662056],"type":"Point"}
 }

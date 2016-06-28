@@ -2,13 +2,14 @@
   "id": 286799873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.933088,45.401257,8.933088,45.401257",
     "geom:latitude":45.401257,
     "geom:longitude":8.933088,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20154 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286799873,
-    "wof:lastmodified":1449018094,
+    "wof:lastmodified":1466296495,
     "wof:name":"Conte Luciano Electronic Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.933088,45.401257,8.933088,45.401257],
+  "bbox": [
+    8.933088,
+    45.401257,
+    8.933088,
+    45.401257
+],
   "geometry": {"coordinates":[8.933088,45.401257],"type":"Point"}
 }

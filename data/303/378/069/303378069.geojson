@@ -2,13 +2,14 @@
   "id": 303378069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.038279,45.189259,12.038279,45.189259",
     "geom:latitude":45.189259,
     "geom:longitude":12.038279,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62/64, Via Marconi 30010 Cona",
     "sg:city":"Cona",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303378069,
-    "wof:lastmodified":1448999768,
+    "wof:lastmodified":1466295165,
     "wof:name":"Giolo Giorgio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [12.038279,45.189259,12.038279,45.189259],
+  "bbox": [
+    12.038279,
+    45.189259,
+    12.038279,
+    45.189259
+],
   "geometry": {"coordinates":[12.038279,45.189259],"type":"Point"}
 }

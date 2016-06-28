@@ -2,13 +2,14 @@
   "id": 202760849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.387932,43.108002,12.387932,43.108002",
     "geom:latitude":43.108002,
     "geom:longitude":12.387932,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06121 Perugia",
     "sg:city":"Perugia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202760849,
-    "wof:lastmodified":1449062545,
+    "wof:lastmodified":1466291719,
     "wof:name":"Free Art Gallery Di Steri Emanuela",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.387932,43.108002,12.387932,43.108002],
+  "bbox": [
+    12.387932,
+    43.108002,
+    12.387932,
+    43.108002
+],
   "geometry": {"coordinates":[12.387932,43.108002],"type":"Point"}
 }

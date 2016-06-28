@@ -2,13 +2,14 @@
   "id": 269593647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.730354,45.733734,9.730354,45.733734",
     "geom:latitude":45.733734,
     "geom:longitude":9.730354,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24020 Pradalunga",
     "sg:city":"Pradalunga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269593647,
-    "wof:lastmodified":1449037713,
+    "wof:lastmodified":1466290244,
     "wof:name":"Rossi Fratelli (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.730354,45.733734,9.730354,45.733734],
+  "bbox": [
+    9.730354,
+    45.733734,
+    9.730354,
+    45.733734
+],
   "geometry": {"coordinates":[9.730354,45.733734],"type":"Point"}
 }

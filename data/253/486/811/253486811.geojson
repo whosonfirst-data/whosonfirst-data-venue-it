@@ -2,13 +2,14 @@
   "id": 253486811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.936134,41.072254,16.936134,41.072254",
     "geom:latitude":41.072254,
     "geom:longitude":16.936134,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70019 Triggiano",
     "sg:city":"Triggiano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253486811,
-    "wof:lastmodified":1449064477,
+    "wof:lastmodified":1466294470,
     "wof:name":"Ambulatorio Medico Veterinario Associato Dr. Tedesco & Dr. Romanelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.936134,41.072254,16.936134,41.072254],
+  "bbox": [
+    16.936134,
+    41.072254,
+    16.936134,
+    41.072254
+],
   "geometry": {"coordinates":[16.936134,41.072254],"type":"Point"}
 }

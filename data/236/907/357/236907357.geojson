@@ -2,13 +2,14 @@
   "id": 236907357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.364437,43.764492,10.364437,43.764492",
     "geom:latitude":43.764492,
     "geom:longitude":10.364437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35/a, Via Turati Filippo 56017 San Giuliano Terme",
     "sg:city":"San Giuliano Terme",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236907357,
-    "wof:lastmodified":1449004948,
+    "wof:lastmodified":1466297193,
     "wof:name":"Baglini Ascensori S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [10.364437,43.764492,10.364437,43.764492],
+  "bbox": [
+    10.364437,
+    43.764492,
+    10.364437,
+    43.764492
+],
   "geometry": {"coordinates":[10.364437,43.764492],"type":"Point"}
 }

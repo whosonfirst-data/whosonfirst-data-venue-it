@@ -2,13 +2,14 @@
   "id": 253420165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.863773,41.079147,16.863773,41.079147",
     "geom:latitude":41.079147,
     "geom:longitude":16.863773,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Petroni Giulio 8/i 8/l 70124 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253420165,
-    "wof:lastmodified":1449064243,
+    "wof:lastmodified":1466293629,
     "wof:name":"Maglificio Almy Srl",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "infant"
     ]
 },
-  "bbox": [16.863773,41.079147,16.863773,41.079147],
+  "bbox": [
+    16.863773,
+    41.079147,
+    16.863773,
+    41.079147
+],
   "geometry": {"coordinates":[16.863773,41.079147],"type":"Point"}
 }

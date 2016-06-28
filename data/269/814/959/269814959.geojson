@@ -2,13 +2,14 @@
   "id": 269814959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.163941,45.491642,12.163941,45.491642",
     "geom:latitude":45.491642,
     "geom:longitude":12.163941,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30038 Spinea",
     "sg:city":"Spinea",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269814959,
-    "wof:lastmodified":1449036577,
+    "wof:lastmodified":1466293205,
     "wof:name":"Boutique Del Fiore Di Busato Lionello & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.163941,45.491642,12.163941,45.491642],
+  "bbox": [
+    12.163941,
+    45.491642,
+    12.163941,
+    45.491642
+],
   "geometry": {"coordinates":[12.163941,45.491642],"type":"Point"}
 }

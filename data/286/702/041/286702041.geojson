@@ -2,13 +2,14 @@
   "id": 286702041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.109228,39.215458,9.109228,39.215458",
     "geom:latitude":39.215458,
     "geom:longitude":9.109228,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Sauro Nazario 09123 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286702041,
-    "wof:lastmodified":1449016654,
+    "wof:lastmodified":1466295234,
     "wof:name":"Impresa Di Costruzioni Ing. Raffaello Pellegrini S.r.l.",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [9.109228,39.215458,9.109228,39.215458],
+  "bbox": [
+    9.109228,
+    39.215458,
+    9.109228,
+    39.215458
+],
   "geometry": {"coordinates":[9.109228,39.215458],"type":"Point"}
 }

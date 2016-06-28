@@ -2,13 +2,14 @@
   "id": 253035461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.91479,45.31123,11.91479,45.31123",
     "geom:latitude":45.31123,
     "geom:longitude":11.91479,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Casalserugo",
     "sg:city":"Casalserugo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253035461,
-    "wof:lastmodified":1449065196,
+    "wof:lastmodified":1466289286,
     "wof:name":"S.m.p. Selle S.a.s. Di Martino Schiavon & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.91479,45.31123,11.91479,45.31123],
+  "bbox": [
+    11.91479,
+    45.31123,
+    11.91479,
+    45.31123
+],
   "geometry": {"coordinates":[11.91479,45.31123],"type":"Point"}
 }

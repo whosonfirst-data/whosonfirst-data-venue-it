@@ -2,13 +2,14 @@
   "id": 336683701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.669952,45.694904,9.669952,45.694904",
     "geom:latitude":45.694904,
     "geom:longitude":9.669952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. G. Marconi 24060 Credaro",
     "sg:city":"Credaro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336683701,
-    "wof:lastmodified":1448997336,
+    "wof:lastmodified":1466294726,
     "wof:name":"Guarnitex Di Valoti Ippolito & C. Snc",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.669952,45.694904,9.669952,45.694904],
+  "bbox": [
+    9.669952,
+    45.694904,
+    9.669952,
+    45.694904
+],
   "geometry": {"coordinates":[9.669952,45.694904],"type":"Point"}
 }

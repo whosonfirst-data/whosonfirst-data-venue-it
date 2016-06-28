@@ -2,13 +2,14 @@
   "id": 235948391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.462989,45.516754,9.462989,45.516754",
     "geom:latitude":45.516754,
     "geom:longitude":9.462989,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Volterra 12 20060 Pozzuolo Martesana",
     "sg:city":"Pozzuolo Martesana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235948391,
-    "wof:lastmodified":1449008526,
+    "wof:lastmodified":1466294924,
     "wof:name":"Giustivini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "italian"
     ]
 },
-  "bbox": [9.462989,45.516754,9.462989,45.516754],
+  "bbox": [
+    9.462989,
+    45.516754,
+    9.462989,
+    45.516754
+],
   "geometry": {"coordinates":[9.462989,45.516754],"type":"Point"}
 }

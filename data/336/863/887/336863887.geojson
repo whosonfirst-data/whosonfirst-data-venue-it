@@ -2,13 +2,14 @@
   "id": 336863887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.727534,45.717648,9.727534,45.717648",
     "geom:latitude":45.717648,
     "geom:longitude":9.727534,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24020 Villa Di Serio",
     "sg:city":"Villa di Serio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336863887,
-    "wof:lastmodified":1448997673,
+    "wof:lastmodified":1466296542,
     "wof:name":"Carpenteria San Fermo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.727534,45.717648,9.727534,45.717648],
+  "bbox": [
+    9.727534,
+    45.717648,
+    9.727534,
+    45.717648
+],
   "geometry": {"coordinates":[9.727534,45.717648],"type":"Point"}
 }

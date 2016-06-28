@@ -2,13 +2,14 @@
   "id": 336936247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.686001,45.058372,7.686001,45.058372",
     "geom:latitude":45.058372,
     "geom:longitude":7.686001,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10125 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336936247,
-    "wof:lastmodified":1448997295,
+    "wof:lastmodified":1466297167,
     "wof:name":"Ferraris Roberto",
     "wof:parent_id":85796951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [7.686001,45.058372,7.686001,45.058372],
+  "bbox": [
+    7.686001,
+    45.058372,
+    7.686001,
+    45.058372
+],
   "geometry": {"coordinates":[7.686001,45.058372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253409725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.324167,46.012169,13.324167,46.012169",
     "geom:latitude":46.012169,
     "geom:longitude":13.324167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nazionale 20 33042 Buttrio",
     "sg:city":"Buttrio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253409725,
-    "wof:lastmodified":1449064042,
+    "wof:lastmodified":1466293511,
     "wof:name":"Zorzenone Ugo (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [13.324167,46.012169,13.324167,46.012169],
+  "bbox": [
+    13.324167,
+    46.012169,
+    13.324167,
+    46.012169
+],
   "geometry": {"coordinates":[13.324167,46.012169],"type":"Point"}
 }

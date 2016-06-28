@@ -2,13 +2,14 @@
   "id": 320649477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.323284,45.444878,12.323284,45.444878",
     "geom:latitude":45.444878,
     "geom:longitude":12.323284,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30121 Venezia",
     "sg:city":"Cannaregio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320649477,
-    "wof:lastmodified":1449013819,
+    "wof:lastmodified":1466297792,
     "wof:name":"Orsoni Angelo",
     "wof:parent_id":85905013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.323284,45.444878,12.323284,45.444878],
+  "bbox": [
+    12.323284,
+    45.444878,
+    12.323284,
+    45.444878
+],
   "geometry": {"coordinates":[12.323284,45.444878],"type":"Point"}
 }

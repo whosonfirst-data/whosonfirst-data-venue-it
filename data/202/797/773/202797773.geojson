@@ -2,13 +2,14 @@
   "id": 202797773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.633237,45.73243,8.633237,45.73243",
     "geom:latitude":45.73243,
     "geom:longitude":8.633237,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21018 Sesto Calende",
     "sg:city":"Sesto Calende",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202797773,
-    "wof:lastmodified":1449062395,
+    "wof:lastmodified":1466292169,
     "wof:name":"I Giardini Di Mandorlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.633237,45.73243,8.633237,45.73243],
+  "bbox": [
+    8.633237,
+    45.73243,
+    8.633237,
+    45.73243
+],
   "geometry": {"coordinates":[8.633237,45.73243],"type":"Point"}
 }

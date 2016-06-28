@@ -2,13 +2,14 @@
   "id": 287129837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.456169,41.847404,12.456169,41.847404",
     "geom:latitude":41.847404,
     "geom:longitude":12.456169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00149 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287129837,
-    "wof:lastmodified":1449001379,
+    "wof:lastmodified":1466291326,
     "wof:name":"Soc.coop. Samarcanda",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.456169,41.847404,12.456169,41.847404],
+  "bbox": [
+    12.456169,
+    41.847404,
+    12.456169,
+    41.847404
+],
   "geometry": {"coordinates":[12.456169,41.847404],"type":"Point"}
 }

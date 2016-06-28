@@ -2,13 +2,14 @@
   "id": 186001705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.244741,43.776119,11.244741,43.776119",
     "geom:latitude":43.776119,
     "geom:longitude":11.244741,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Scala 85; Florence; 50123",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186001705,
-    "wof:lastmodified":1449051008,
+    "wof:lastmodified":1466294041,
     "wof:name":"Cassa Di Risparmio Di Pisa Spa",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.244741,43.776119,11.244741,43.776119],
+  "bbox": [
+    11.244741,
+    43.776119,
+    11.244741,
+    43.776119
+],
   "geometry": {"coordinates":[11.244741,43.776119],"type":"Point"}
 }

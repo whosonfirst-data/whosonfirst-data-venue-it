@@ -2,13 +2,14 @@
   "id": 269830789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.374765,45.127979,10.374765,45.127979",
     "geom:latitude":45.127979,
     "geom:longitude":10.374765,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60, Via Giacomo Matteotti 26034 Piadena",
     "sg:city":"Piadena",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269830789,
-    "wof:lastmodified":1449036662,
+    "wof:lastmodified":1466293383,
     "wof:name":"Bianchi (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.374765,45.127979,10.374765,45.127979],
+  "bbox": [
+    10.374765,
+    45.127979,
+    10.374765,
+    45.127979
+],
   "geometry": {"coordinates":[10.374765,45.127979],"type":"Point"}
 }

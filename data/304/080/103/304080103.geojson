@@ -2,13 +2,14 @@
   "id": 304080103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.223172,45.541996,9.223172,45.541996",
     "geom:latitude":45.541996,
     "geom:longitude":9.223172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"116, Viale Dei Partigiani 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":304080103,
-    "wof:lastmodified":1449044150,
+    "wof:lastmodified":1466293257,
     "wof:name":"Munter Elettronica Di M.munter",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [9.223172,45.541996,9.223172,45.541996],
+  "bbox": [
+    9.223172,
+    45.541996,
+    9.223172,
+    45.541996
+],
   "geometry": {"coordinates":[9.223172,45.541996],"type":"Point"}
 }

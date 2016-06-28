@@ -2,13 +2,14 @@
   "id": 236558147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.412501,44.601707,10.412501,44.601707",
     "geom:latitude":44.601707,
     "geom:longitude":10.412501,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"304, Via Val D'enza Nord 42026 Canossa",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236558147,
-    "wof:lastmodified":1449002360,
+    "wof:lastmodified":1466294640,
     "wof:name":"Castagnetti E C. Sas Di Castagnetti Amos Ed Ezio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [10.412501,44.601707,10.412501,44.601707],
+  "bbox": [
+    10.412501,
+    44.601707,
+    10.412501,
+    44.601707
+],
   "geometry": {"coordinates":[10.412501,44.601707],"type":"Point"}
 }

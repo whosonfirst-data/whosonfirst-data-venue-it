@@ -2,13 +2,14 @@
   "id": 286908287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.335471,43.074436,12.335471,43.074436",
     "geom:latitude":43.074436,
     "geom:longitude":12.335471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06100 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Termotecnica E Riscaldamento, Apparecchiature E Servizi. Prodotti Vari In Metallo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":286908287,
-    "wof:lastmodified":1449016856,
+    "wof:lastmodified":1466297338,
     "wof:name":"C.g.a. Impianti Di Ceglioni Stefano & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.335471,43.074436,12.335471,43.074436],
+  "bbox": [
+    12.335471,
+    43.074436,
+    12.335471,
+    43.074436
+],
   "geometry": {"coordinates":[12.335471,43.074436],"type":"Point"}
 }

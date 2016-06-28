@@ -2,13 +2,14 @@
   "id": 186224997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.669952,45.694904,9.669952,45.694904",
     "geom:latitude":45.694904,
     "geom:longitude":9.669952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Statale Cremasca 4/a 24040 Fornovo San Giovanni",
     "sg:city":"Fornovo San Giovanni",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186224997,
-    "wof:lastmodified":1449052321,
+    "wof:lastmodified":1466289866,
     "wof:name":"Tecnoalloy Srl",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [9.669952,45.694904,9.669952,45.694904],
+  "bbox": [
+    9.669952,
+    45.694904,
+    9.669952,
+    45.694904
+],
   "geometry": {"coordinates":[9.669952,45.694904],"type":"Point"}
 }

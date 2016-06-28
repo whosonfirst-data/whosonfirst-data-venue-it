@@ -2,13 +2,14 @@
   "id": 269489031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.305264,44.691765,11.305264,44.691765",
     "geom:latitude":44.691765,
     "geom:longitude":11.305264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Via Provinciale Nord 40050 Castello D'argile",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":269489031,
-    "wof:lastmodified":1449037445,
+    "wof:lastmodified":1466289001,
     "wof:name":"Mac Shoes Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.305264,44.691765,11.305264,44.691765],
+  "bbox": [
+    11.305264,
+    44.691765,
+    11.305264,
+    44.691765
+],
   "geometry": {"coordinates":[11.305264,44.691765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186558937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.069637,42.739304,12.069637,42.739304",
     "geom:latitude":42.739304,
     "geom:longitude":12.069637,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Ranieri 05018 Orvieto",
     "sg:city":"Orvieto",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186558937,
-    "wof:lastmodified":1449051114,
+    "wof:lastmodified":1466292868,
     "wof:name":"Hotel Palazzo Piccolomini Di Ago Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.069637,42.739304,12.069637,42.739304],
+  "bbox": [
+    12.069637,
+    42.739304,
+    12.069637,
+    42.739304
+],
   "geometry": {"coordinates":[12.069637,42.739304],"type":"Point"}
 }

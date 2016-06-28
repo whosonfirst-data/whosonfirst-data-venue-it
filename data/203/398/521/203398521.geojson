@@ -2,13 +2,14 @@
   "id": 203398521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.14625,45.652874,8.14625,45.652874",
     "geom:latitude":45.652874,
     "geom:longitude":8.14625,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13815 Rosazza",
     "sg:city":"Rosazza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203398521,
-    "wof:lastmodified":1449025085,
+    "wof:lastmodified":1466292077,
     "wof:name":"Rifugio Madonna Della Neve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.14625,45.652874,8.14625,45.652874],
+  "bbox": [
+    8.14625,
+    45.652874,
+    8.14625,
+    45.652874
+],
   "geometry": {"coordinates":[8.14625,45.652874],"type":"Point"}
 }

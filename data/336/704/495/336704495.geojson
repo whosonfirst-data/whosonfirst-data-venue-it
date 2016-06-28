@@ -2,13 +2,14 @@
   "id": 336704495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.29492,44.823208,10.29492,44.823208",
     "geom:latitude":44.823208,
     "geom:longitude":10.29492,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5/c, Via Londra 43100 Parma",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336704495,
-    "wof:lastmodified":1448997230,
+    "wof:lastmodified":1466294977,
     "wof:name":"London Pack (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.29492,44.823208,10.29492,44.823208],
+  "bbox": [
+    10.29492,
+    44.823208,
+    10.29492,
+    44.823208
+],
   "geometry": {"coordinates":[10.29492,44.823208],"type":"Point"}
 }

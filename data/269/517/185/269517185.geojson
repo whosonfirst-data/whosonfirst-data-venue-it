@@ -2,13 +2,14 @@
   "id": 269517185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.752479,43.236687,13.752479,43.236687",
     "geom:latitude":43.236687,
     "geom:longitude":13.752479,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Consorzio 63018 Porto Sant'elpidio",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":269517185,
-    "wof:lastmodified":1449037499,
+    "wof:lastmodified":1466289335,
     "wof:name":"Calzaturificio De Florio Fratelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.752479,43.236687,13.752479,43.236687],
+  "bbox": [
+    13.752479,
+    43.236687,
+    13.752479,
+    43.236687
+],
   "geometry": {"coordinates":[13.752479,43.236687],"type":"Point"}
 }

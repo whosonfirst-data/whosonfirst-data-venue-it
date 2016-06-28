@@ -2,13 +2,14 @@
   "id": 203168819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.227074,46.73772,12.227074,46.73772",
     "geom:latitude":46.73772,
     "geom:longitude":12.227074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39034 Dobbiaco",
     "sg:city":"Dobbiaco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203168819,
-    "wof:lastmodified":1449025926,
+    "wof:lastmodified":1466289569,
     "wof:name":"Mair Wolfgang Herbert & Co. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.227074,46.73772,12.227074,46.73772],
+  "bbox": [
+    12.227074,
+    46.73772,
+    12.227074,
+    46.73772
+],
   "geometry": {"coordinates":[12.227074,46.73772],"type":"Point"}
 }

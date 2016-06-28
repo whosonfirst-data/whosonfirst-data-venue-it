@@ -2,13 +2,14 @@
   "id": 270019749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.081414,45.929028,11.081414,45.929028",
     "geom:latitude":45.929028,
     "geom:longitude":11.081414,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brennero 45 39040 Varna",
     "sg:city":"Varna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270019749,
-    "wof:lastmodified":1449010060,
+    "wof:lastmodified":1466289230,
     "wof:name":"Kaser Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "window"
     ]
 },
-  "bbox": [11.081414,45.929028,11.081414,45.929028],
+  "bbox": [
+    11.081414,
+    45.929028,
+    11.081414,
+    45.929028
+],
   "geometry": {"coordinates":[11.081414,45.929028],"type":"Point"}
 }

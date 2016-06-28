@@ -2,13 +2,14 @@
   "id": 253388903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.884961,45.31282,8.884961,45.31282",
     "geom:latitude":45.31282,
     "geom:longitude":8.884961,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Martiri Delle Foibe 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253388903,
-    "wof:lastmodified":1449062933,
+    "wof:lastmodified":1466293281,
     "wof:name":"L'impero Del Legno Di Meneghetti Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [8.884961,45.31282,8.884961,45.31282],
+  "bbox": [
+    8.884961,
+    45.31282,
+    8.884961,
+    45.31282
+],
   "geometry": {"coordinates":[8.884961,45.31282],"type":"Point"}
 }

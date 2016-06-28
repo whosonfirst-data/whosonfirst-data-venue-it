@@ -2,13 +2,14 @@
   "id": 219682847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.283698,44.514523,11.283698,44.514523",
     "geom:latitude":44.514523,
     "geom:longitude":11.283698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40132 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219682847,
-    "wof:lastmodified":1449071005,
+    "wof:lastmodified":1466293115,
     "wof:name":"Risi Car Snc",
     "wof:parent_id":85904565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.283698,44.514523,11.283698,44.514523],
+  "bbox": [
+    11.283698,
+    44.514523,
+    11.283698,
+    44.514523
+],
   "geometry": {"coordinates":[11.283698,44.514523],"type":"Point"}
 }

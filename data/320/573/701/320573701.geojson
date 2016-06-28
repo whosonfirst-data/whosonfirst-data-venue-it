@@ -2,13 +2,14 @@
   "id": 320573701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.062755,45.358067,11.062755,45.358067",
     "geom:latitude":45.358067,
     "geom:longitude":11.062755,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37059 Zevio",
     "sg:city":"Campagnola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320573701,
-    "wof:lastmodified":1449014013,
+    "wof:lastmodified":1466297738,
     "wof:name":"Mozzo Prefabbricati Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.062755,45.358067,11.062755,45.358067],
+  "bbox": [
+    11.062755,
+    45.358067,
+    11.062755,
+    45.358067
+],
   "geometry": {"coordinates":[11.062755,45.358067],"type":"Point"}
 }

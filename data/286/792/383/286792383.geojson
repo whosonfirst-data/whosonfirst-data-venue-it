@@ -2,13 +2,14 @@
   "id": 286792383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.264071,41.306641,16.264071,41.306641",
     "geom:latitude":41.306641,
     "geom:longitude":16.264071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28, V. Delle Mimose 70051 Barletta",
     "sg:city":"Barletta",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286792383,
-    "wof:lastmodified":1449015802,
+    "wof:lastmodified":1466296308,
     "wof:name":"Tecnotel Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [16.264071,41.306641,16.264071,41.306641],
+  "bbox": [
+    16.264071,
+    41.306641,
+    16.264071,
+    41.306641
+],
   "geometry": {"coordinates":[16.264071,41.306641],"type":"Point"}
 }

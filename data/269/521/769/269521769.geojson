@@ -2,13 +2,14 @@
   "id": 269521769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.59811,43.64257,10.59811,43.64257",
     "geom:latitude":43.64257,
     "geom:longitude":10.59811,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Lombardia 56025 Pontedera",
     "sg:city":"Pontedera",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269521769,
-    "wof:lastmodified":1449038842,
+    "wof:lastmodified":1466289385,
     "wof:name":"Calzaturificio G.b.c. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.59811,43.64257,10.59811,43.64257],
+  "bbox": [
+    10.59811,
+    43.64257,
+    10.59811,
+    43.64257
+],
   "geometry": {"coordinates":[10.59811,43.64257],"type":"Point"}
 }

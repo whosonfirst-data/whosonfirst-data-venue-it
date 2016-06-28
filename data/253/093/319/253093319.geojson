@@ -2,13 +2,14 @@
   "id": 253093319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574853,45.01709,7.574853,45.01709",
     "geom:latitude":45.01709,
     "geom:longitude":7.574853,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fermi Enrico 6/a 10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253093319,
-    "wof:lastmodified":1449062829,
+    "wof:lastmodified":1466289902,
     "wof:name":"Industrial Technology Center I.t.c S.r.l",
     "wof:parent_id":85796819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [7.574853,45.01709,7.574853,45.01709],
+  "bbox": [
+    7.574853,
+    45.01709,
+    7.574853,
+    45.01709
+],
   "geometry": {"coordinates":[7.574853,45.01709],"type":"Point"}
 }

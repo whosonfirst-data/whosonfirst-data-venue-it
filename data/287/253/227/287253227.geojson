@@ -2,13 +2,14 @@
   "id": 287253227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.364635,40.850887,14.364635,40.850887",
     "geom:latitude":40.850887,
     "geom:longitude":14.364635,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Valente 80040 Cercola",
     "sg:city":"Cercola",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287253227,
-    "wof:lastmodified":1449001468,
+    "wof:lastmodified":1466292970,
     "wof:name":"Elet (s.a.s.)",
     "wof:parent_id":85904813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "electronic"
     ]
 },
-  "bbox": [14.364635,40.850887,14.364635,40.850887],
+  "bbox": [
+    14.364635,
+    40.850887,
+    14.364635,
+    40.850887
+],
   "geometry": {"coordinates":[14.364635,40.850887],"type":"Point"}
 }

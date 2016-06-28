@@ -2,13 +2,14 @@
   "id": 219548737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.991878,43.64465,11.991878,43.64465",
     "geom:latitude":43.64465,
     "geom:longitude":11.991878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52033 Caprese Michelangelo",
     "sg:city":"Caprese Michelangelo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219548737,
-    "wof:lastmodified":1449072831,
+    "wof:lastmodified":1466291835,
     "wof:name":"Agriturismo Selvadonica Di Baldini Paola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.991878,43.64465,11.991878,43.64465],
+  "bbox": [
+    11.991878,
+    43.64465,
+    11.991878,
+    43.64465
+],
   "geometry": {"coordinates":[11.991878,43.64465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252957383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.850427,45.82172,9.850427,45.82172",
     "geom:latitude":45.82172,
     "geom:longitude":9.850427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Case Sparse 4 24020 Colzate",
     "sg:city":"Colzate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252957383,
-    "wof:lastmodified":1449006353,
+    "wof:lastmodified":1466291631,
     "wof:name":"Somet S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.850427,45.82172,9.850427,45.82172],
+  "bbox": [
+    9.850427,
+    45.82172,
+    9.850427,
+    45.82172
+],
   "geometry": {"coordinates":[9.850427,45.82172],"type":"Point"}
 }

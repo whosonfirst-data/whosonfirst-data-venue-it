@@ -2,13 +2,14 @@
   "id": 320529855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.679252,45.697247,9.679252,45.697247",
     "geom:latitude":45.697247,
     "geom:longitude":9.679252,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Madonna Della Neve 41 24121 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320529855,
-    "wof:lastmodified":1449012889,
+    "wof:lastmodified":1466297657,
     "wof:name":"Allgaier Mogensen Italia Srl",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machining"
     ]
 },
-  "bbox": [9.679252,45.697247,9.679252,45.697247],
+  "bbox": [
+    9.679252,
+    45.697247,
+    9.679252,
+    45.697247
+],
   "geometry": {"coordinates":[9.679252,45.697247],"type":"Point"}
 }

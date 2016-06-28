@@ -2,13 +2,14 @@
   "id": 303800335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.086558,37.513805,15.086558,37.513805",
     "geom:latitude":37.513805,
     "geom:longitude":15.086558,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95128 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303800335,
-    "wof:lastmodified":1448998313,
+    "wof:lastmodified":1466297716,
     "wof:name":"Musmeci Pasquale",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.086558,37.513805,15.086558,37.513805],
+  "bbox": [
+    15.086558,
+    37.513805,
+    15.086558,
+    37.513805
+],
   "geometry": {"coordinates":[15.086558,37.513805],"type":"Point"}
 }

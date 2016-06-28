@@ -2,13 +2,14 @@
   "id": 202493903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.125937,41.056679,15.125937,41.056679",
     "geom:latitude":41.056679,
     "geom:longitude":15.125937,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Valle 83040 Flumeri",
     "sg:city":"Flumeri",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202493903,
-    "wof:lastmodified":1449060912,
+    "wof:lastmodified":1466288909,
     "wof:name":"C.m.t. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sea"
     ]
 },
-  "bbox": [15.125937,41.056679,15.125937,41.056679],
+  "bbox": [
+    15.125937,
+    41.056679,
+    15.125937,
+    41.056679
+],
   "geometry": {"coordinates":[15.125937,41.056679],"type":"Point"}
 }

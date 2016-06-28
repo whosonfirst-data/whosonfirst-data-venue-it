@@ -2,13 +2,14 @@
   "id": 303960883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.850901,41.085991,16.850901,41.085991",
     "geom:latitude":41.085991,
     "geom:longitude":16.850901,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70122 Carbonara",
     "sg:classifiers":[],
     "sg:orig_category":"Articoli Pulizia. Carta, Cartone E Prodotti Primari. Prodotti Cosmetici E Da Toeletta",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303960883,
-    "wof:lastmodified":1448999877,
+    "wof:lastmodified":1466298227,
     "wof:name":"Rubino Antonio",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.850901,41.085991,16.850901,41.085991],
+  "bbox": [
+    16.850901,
+    41.085991,
+    16.850901,
+    41.085991
+],
   "geometry": {"coordinates":[16.850901,41.085991],"type":"Point"}
 }

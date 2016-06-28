@@ -2,13 +2,14 @@
   "id": 186095693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.216824,45.441582,9.216824,45.441582",
     "geom:latitude":45.441582,
     "geom:longitude":9.216824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Brenta 18; Milano; 20139",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186095693,
-    "wof:lastmodified":1449051729,
+    "wof:lastmodified":1466296035,
     "wof:name":"Credito Lombardo",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.216824,45.441582,9.216824,45.441582],
+  "bbox": [
+    9.216824,
+    45.441582,
+    9.216824,
+    45.441582
+],
   "geometry": {"coordinates":[9.216824,45.441582],"type":"Point"}
 }

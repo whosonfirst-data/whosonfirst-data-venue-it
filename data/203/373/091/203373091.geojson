@@ -2,13 +2,14 @@
   "id": 203373091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.800982,45.703175,8.800982,45.703175",
     "geom:latitude":45.703175,
     "geom:longitude":8.800982,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21040 Jerago Con Orago",
     "sg:city":"Jerago con Orago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203373091,
-    "wof:lastmodified":1449025905,
+    "wof:lastmodified":1466291825,
     "wof:name":"Techmed Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.800982,45.703175,8.800982,45.703175],
+  "bbox": [
+    8.800982,
+    45.703175,
+    8.800982,
+    45.703175
+],
   "geometry": {"coordinates":[8.800982,45.703175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253501293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.182134,41.522919,13.182134,41.522919",
     "geom:latitude":41.522919,
     "geom:longitude":13.182134,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04010 Maenza",
     "sg:city":"Maenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253501293,
-    "wof:lastmodified":1449065830,
+    "wof:lastmodified":1466294650,
     "wof:name":"Vecciarelli Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.182134,41.522919,13.182134,41.522919],
+  "bbox": [
+    13.182134,
+    41.522919,
+    13.182134,
+    41.522919
+],
   "geometry": {"coordinates":[13.182134,41.522919],"type":"Point"}
 }

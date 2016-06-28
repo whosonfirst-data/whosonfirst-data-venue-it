@@ -2,13 +2,14 @@
   "id": 286580345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.516852,45.595398,11.516852,45.595398",
     "geom:latitude":45.595398,
     "geom:longitude":11.516852,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Via Ca' Risorta 36030 Caldogno",
     "sg:city":"Caldogno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286580345,
-    "wof:lastmodified":1449017170,
+    "wof:lastmodified":1466293680,
     "wof:name":"Renato Menegatti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.516852,45.595398,11.516852,45.595398],
+  "bbox": [
+    11.516852,
+    45.595398,
+    11.516852,
+    45.595398
+],
   "geometry": {"coordinates":[11.516852,45.595398],"type":"Point"}
 }

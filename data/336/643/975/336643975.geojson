@@ -2,13 +2,14 @@
   "id": 336643975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.409017,45.647251,9.409017,45.647251",
     "geom:latitude":45.647251,
     "geom:longitude":9.409017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Montello 20044 Bernareggio",
     "sg:city":"Bernareggio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336643975,
-    "wof:lastmodified":1448997880,
+    "wof:lastmodified":1466294256,
     "wof:name":"Cucchi Sergio Snc & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.409017,45.647251,9.409017,45.647251],
+  "bbox": [
+    9.409017,
+    45.647251,
+    9.409017,
+    45.647251
+],
   "geometry": {"coordinates":[9.409017,45.647251],"type":"Point"}
 }

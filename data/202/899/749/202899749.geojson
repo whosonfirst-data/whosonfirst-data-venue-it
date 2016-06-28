@@ -2,13 +2,14 @@
   "id": 202899749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.223858,45.377831,9.223858,45.377831",
     "geom:latitude":45.377831,
     "geom:longitude":9.223858,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Opera",
     "sg:city":"Opera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202899749,
-    "wof:lastmodified":1449062515,
+    "wof:lastmodified":1466293206,
     "wof:name":"Kannegiesser Passat Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.223858,45.377831,9.223858,45.377831],
+  "bbox": [
+    9.223858,
+    45.377831,
+    9.223858,
+    45.377831
+],
   "geometry": {"coordinates":[9.223858,45.377831],"type":"Point"}
 }

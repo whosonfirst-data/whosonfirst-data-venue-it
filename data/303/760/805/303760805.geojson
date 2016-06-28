@@ -2,13 +2,14 @@
   "id": 303760805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.184145,45.458035,9.184145,45.458035",
     "geom:latitude":45.458035,
     "geom:longitude":9.184145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303760805,
-    "wof:lastmodified":1449000473,
+    "wof:lastmodified":1466297656,
     "wof:name":"Mdf Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.184145,45.458035,9.184145,45.458035],
+  "bbox": [
+    9.184145,
+    45.458035,
+    9.184145,
+    45.458035
+],
   "geometry": {"coordinates":[9.184145,45.458035],"type":"Point"}
 }

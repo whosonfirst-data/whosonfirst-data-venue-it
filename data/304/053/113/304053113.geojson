@@ -2,13 +2,14 @@
   "id": 304053113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.20163,45.515171,10.20163,45.515171",
     "geom:latitude":45.515171,
     "geom:longitude":10.20163,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25124 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":304053113,
-    "wof:lastmodified":1449043673,
+    "wof:lastmodified":1466292892,
     "wof:name":"Marzia Nicotri",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.20163,45.515171,10.20163,45.515171],
+  "bbox": [
+    10.20163,
+    45.515171,
+    10.20163,
+    45.515171
+],
   "geometry": {"coordinates":[10.20163,45.515171],"type":"Point"}
 }

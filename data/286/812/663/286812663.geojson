@@ -2,13 +2,14 @@
   "id": 286812663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.14553,45.448208,9.14553,45.448208",
     "geom:latitude":45.448208,
     "geom:longitude":9.14553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286812663,
-    "wof:lastmodified":1449015238,
+    "wof:lastmodified":1466296452,
     "wof:name":"Videotecnica Snc",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.14553,45.448208,9.14553,45.448208],
+  "bbox": [
+    9.14553,
+    45.448208,
+    9.14553,
+    45.448208
+],
   "geometry": {"coordinates":[9.14553,45.448208],"type":"Point"}
 }

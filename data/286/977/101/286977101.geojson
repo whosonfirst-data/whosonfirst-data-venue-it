@@ -2,13 +2,14 @@
   "id": 286977101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.424867,42.993374,12.424867,42.993374",
     "geom:latitude":42.993374,
     "geom:longitude":12.424867,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06059 Todi",
     "sg:city":"Todi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286977101,
-    "wof:lastmodified":1449018159,
+    "wof:lastmodified":1466297483,
     "wof:name":"Centro Servizi Sas Di Bertini B. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.424867,42.993374,12.424867,42.993374],
+  "bbox": [
+    12.424867,
+    42.993374,
+    12.424867,
+    42.993374
+],
   "geometry": {"coordinates":[12.424867,42.993374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252838645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.719391,45.765415,11.719391,45.765415",
     "geom:latitude":45.765415,
     "geom:longitude":11.719391,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36060 Romano D'ezzelino",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Esterno, Maglierie E Pelliccerie. Sport - Articoli E Forniture",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252838645,
-    "wof:lastmodified":1449005531,
+    "wof:lastmodified":1466290382,
     "wof:name":"Campagnolo Fratelli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.719391,45.765415,11.719391,45.765415],
+  "bbox": [
+    11.719391,
+    45.765415,
+    11.719391,
+    45.765415
+],
   "geometry": {"coordinates":[11.719391,45.765415],"type":"Point"}
 }

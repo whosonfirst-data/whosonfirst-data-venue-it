@@ -2,13 +2,14 @@
   "id": 319994481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.213179,45.472805,9.213179,45.472805",
     "geom:latitude":45.472805,
     "geom:longitude":9.213179,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319994481,
-    "wof:lastmodified":1449024137,
+    "wof:lastmodified":1466294747,
     "wof:name":"Giambrocono Ing. A. & C. S.r.l.",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.213179,45.472805,9.213179,45.472805],
+  "bbox": [
+    9.213179,
+    45.472805,
+    9.213179,
+    45.472805
+],
   "geometry": {"coordinates":[9.213179,45.472805],"type":"Point"}
 }

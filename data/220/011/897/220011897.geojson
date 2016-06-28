@@ -2,13 +2,14 @@
   "id": 220011897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.226447,45.545998,10.226447,45.545998",
     "geom:latitude":45.545998,
     "geom:longitude":10.226447,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25018 Montichiari",
     "sg:city":"Montichiari",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220011897,
-    "wof:lastmodified":1449074704,
+    "wof:lastmodified":1466294175,
     "wof:name":"Imperadori Coperture Impermeabili Di Imperadori Giorgio & Stefano Snc",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.226447,45.545998,10.226447,45.545998],
+  "bbox": [
+    10.226447,
+    45.545998,
+    10.226447,
+    45.545998
+],
   "geometry": {"coordinates":[10.226447,45.545998],"type":"Point"}
 }

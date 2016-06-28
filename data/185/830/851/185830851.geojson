@@ -2,13 +2,14 @@
   "id": 185830851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.586082,37.308704,13.586082,37.308704",
     "geom:latitude":37.308704,
     "geom:longitude":13.586082,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Della Vittoria 5; Agrigento; 92100",
     "sg:city":"Agrigento",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185830851,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466289482,
     "wof:name":"Banca Popolare Sant'angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.586082,37.308704,13.586082,37.308704],
+  "bbox": [
+    13.586082,
+    37.308704,
+    13.586082,
+    37.308704
+],
   "geometry": {"coordinates":[13.586082,37.308704],"type":"Point"}
 }

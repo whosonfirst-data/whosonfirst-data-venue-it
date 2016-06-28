@@ -2,13 +2,14 @@
   "id": 236040293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61436,44.908974,8.61436,44.908974",
     "geom:latitude":44.908974,
     "geom:longitude":8.61436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15067 Novi Ligure",
     "sg:city":"Novi Ligure",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236040293,
-    "wof:lastmodified":1449005132,
+    "wof:lastmodified":1466289303,
     "wof:name":"Azienda C.i.a. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.61436,44.908974,8.61436,44.908974],
+  "bbox": [
+    8.61436,
+    44.908974,
+    8.61436,
+    44.908974
+],
   "geometry": {"coordinates":[8.61436,44.908974],"type":"Point"}
 }

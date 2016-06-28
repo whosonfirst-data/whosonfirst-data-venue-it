@@ -2,13 +2,14 @@
   "id": 236432193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.061639,44.86702,11.061639,44.86702",
     "geom:latitude":44.86702,
     "geom:longitude":11.061639,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Carreri 41037 Mirandola",
     "sg:city":"Mirandola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236432193,
-    "wof:lastmodified":1449001632,
+    "wof:lastmodified":1466293310,
     "wof:name":"Haemotronic Advanced Medical Technologies S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "instrument"
     ]
 },
-  "bbox": [11.061639,44.86702,11.061639,44.86702],
+  "bbox": [
+    11.061639,
+    44.86702,
+    11.061639,
+    44.86702
+],
   "geometry": {"coordinates":[11.061639,44.86702],"type":"Point"}
 }

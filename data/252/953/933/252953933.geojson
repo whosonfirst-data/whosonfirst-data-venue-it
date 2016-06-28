@@ -2,13 +2,14 @@
   "id": 252953933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.291862,43.771545,10.291862,43.771545",
     "geom:latitude":43.771545,
     "geom:longitude":10.291862,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56019 Vecchiano",
     "sg:city":"Vecchiano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252953933,
-    "wof:lastmodified":1449006138,
+    "wof:lastmodified":1466291591,
     "wof:name":"Centro Ippico Pineta Salviati",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.291862,43.771545,10.291862,43.771545],
+  "bbox": [
+    10.291862,
+    43.771545,
+    10.291862,
+    43.771545
+],
   "geometry": {"coordinates":[10.291862,43.771545],"type":"Point"}
 }

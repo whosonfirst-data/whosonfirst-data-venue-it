@@ -2,13 +2,14 @@
   "id": 253544659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.410314,44.474976,11.410314,44.474976",
     "geom:latitude":44.474976,
     "geom:longitude":11.410314,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253544659,
-    "wof:lastmodified":1449065799,
+    "wof:lastmodified":1466295200,
     "wof:name":"F.e.r. Menetti (s.n.c.)",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.410314,44.474976,11.410314,44.474976],
+  "bbox": [
+    11.410314,
+    44.474976,
+    11.410314,
+    44.474976
+],
   "geometry": {"coordinates":[11.410314,44.474976],"type":"Point"}
 }

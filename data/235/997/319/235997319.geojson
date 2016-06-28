@@ -2,13 +2,14 @@
   "id": 235997319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.490196,45.813362,12.490196,45.813362",
     "geom:latitude":45.813362,
     "geom:longitude":12.490196,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31043 Fontanelle",
     "sg:city":"Fontanelle",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":235997319,
-    "wof:lastmodified":1449008538,
+    "wof:lastmodified":1466296094,
     "wof:name":"Studio Dentistico Palermo Dott.ssa Sonia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.490196,45.813362,12.490196,45.813362],
+  "bbox": [
+    12.490196,
+    45.813362,
+    12.490196,
+    45.813362
+],
   "geometry": {"coordinates":[12.490196,45.813362],"type":"Point"}
 }

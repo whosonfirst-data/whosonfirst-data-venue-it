@@ -2,13 +2,14 @@
   "id": 269680643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.193939,45.488636,9.193939,45.488636",
     "geom:latitude":45.488636,
     "geom:longitude":9.193939,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Rosellini Ippolito 20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269680643,
-    "wof:lastmodified":1449037824,
+    "wof:lastmodified":1466291381,
     "wof:name":"Pressing (s.n.c.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [9.193939,45.488636,9.193939,45.488636],
+  "bbox": [
+    9.193939,
+    45.488636,
+    9.193939,
+    45.488636
+],
   "geometry": {"coordinates":[9.193939,45.488636],"type":"Point"}
 }

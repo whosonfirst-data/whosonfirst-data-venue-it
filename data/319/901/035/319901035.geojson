@@ -2,13 +2,14 @@
   "id": 319901035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.092586,45.419086,11.092586,45.419086",
     "geom:latitude":45.419086,
     "geom:longitude":11.092586,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell' Industria, 6/8 37050 Vago",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319901035,
-    "wof:lastmodified":1449024416,
+    "wof:lastmodified":1466293573,
     "wof:name":"Victor Spa",
     "wof:parent_id":85905053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.092586,45.419086,11.092586,45.419086],
+  "bbox": [
+    11.092586,
+    45.419086,
+    11.092586,
+    45.419086
+],
   "geometry": {"coordinates":[11.092586,45.419086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236697043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.322067,45.364296,9.322067,45.364296",
     "geom:latitude":45.364296,
     "geom:longitude":9.322067,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Emilia 20077 Melegnano",
     "sg:city":"Melegnano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236697043,
-    "wof:lastmodified":1449003788,
+    "wof:lastmodified":1466295951,
     "wof:name":"Benzoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [9.322067,45.364296,9.322067,45.364296],
+  "bbox": [
+    9.322067,
+    45.364296,
+    9.322067,
+    45.364296
+],
   "geometry": {"coordinates":[9.322067,45.364296],"type":"Point"}
 }

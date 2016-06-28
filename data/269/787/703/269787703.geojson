@@ -2,13 +2,14 @@
   "id": 269787703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.257689,44.784882,10.257689,44.784882",
     "geom:latitude":44.784882,
     "geom:longitude":10.257689,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43100 Parma",
     "sg:city":"Parma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269787703,
-    "wof:lastmodified":1449037224,
+    "wof:lastmodified":1466292891,
     "wof:name":"Bertoli Omogeneizzatori Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.257689,44.784882,10.257689,44.784882],
+  "bbox": [
+    10.257689,
+    44.784882,
+    10.257689,
+    44.784882
+],
   "geometry": {"coordinates":[10.257689,44.784882],"type":"Point"}
 }

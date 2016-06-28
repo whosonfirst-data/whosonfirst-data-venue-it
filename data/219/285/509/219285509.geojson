@@ -2,13 +2,14 @@
   "id": 219285509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.750058,45.442554,9.750058,45.442554",
     "geom:latitude":45.442554,
     "geom:longitude":9.750058,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Provinciale 12. 3 26010 Camisano",
     "sg:city":"Camisano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219285509,
-    "wof:lastmodified":1449070466,
+    "wof:lastmodified":1466289151,
     "wof:name":"Dominoni Snc Di Dominoni Massimo & C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.750058,45.442554,9.750058,45.442554],
+  "bbox": [
+    9.750058,
+    45.442554,
+    9.750058,
+    45.442554
+],
   "geometry": {"coordinates":[9.750058,45.442554],"type":"Point"}
 }

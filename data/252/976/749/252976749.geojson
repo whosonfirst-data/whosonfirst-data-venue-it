@@ -2,13 +2,14 @@
   "id": 252976749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.044617,45.440094,12.044617,45.440094",
     "geom:latitude":45.440094,
     "geom:longitude":12.044617,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57/c, Via Rivale 30036 Santa Maria Di Sala",
     "sg:city":"Santa Maria di Sala",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252976749,
-    "wof:lastmodified":1449005855,
+    "wof:lastmodified":1466291823,
     "wof:name":"C.d.d. S.n.c. Di Palluan Gustavo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [12.044617,45.440094,12.044617,45.440094],
+  "bbox": [
+    12.044617,
+    45.440094,
+    12.044617,
+    45.440094
+],
   "geometry": {"coordinates":[12.044617,45.440094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286616031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.431012,45.754864,9.431012,45.754864",
     "geom:latitude":45.754864,
     "geom:longitude":9.431012,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, V. Del Donatore 23881 Airuno",
     "sg:city":"Airuno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286616031,
-    "wof:lastmodified":1449017342,
+    "wof:lastmodified":1466294133,
     "wof:name":"Fumagalli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.431012,45.754864,9.431012,45.754864],
+  "bbox": [
+    9.431012,
+    45.754864,
+    9.431012,
+    45.754864
+],
   "geometry": {"coordinates":[9.431012,45.754864],"type":"Point"}
 }

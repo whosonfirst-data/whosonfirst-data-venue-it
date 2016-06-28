@@ -2,13 +2,14 @@
   "id": 269538437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.06288,43.74197,11.06288,43.74197",
     "geom:latitude":43.74197,
     "geom:longitude":11.06288,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Poggio Alla Malva 50055 Lastra A Signa",
     "sg:city":"Lastra a Signa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269538437,
-    "wof:lastmodified":1449036433,
+    "wof:lastmodified":1466289571,
     "wof:name":"Caparrini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.06288,43.74197,11.06288,43.74197],
+  "bbox": [
+    11.06288,
+    43.74197,
+    11.06288,
+    43.74197
+],
   "geometry": {"coordinates":[11.06288,43.74197],"type":"Point"}
 }

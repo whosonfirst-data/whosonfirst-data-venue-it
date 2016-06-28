@@ -2,13 +2,14 @@
   "id": 320290327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.32296,44.7756,10.32296,44.7756",
     "geom:latitude":44.7756,
     "geom:longitude":10.32296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43100 Parma",
     "sg:city":"Parma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320290327,
-    "wof:lastmodified":1449012861,
+    "wof:lastmodified":1466296808,
     "wof:name":"Nuova S.a.r.a. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.32296,44.7756,10.32296,44.7756],
+  "bbox": [
+    10.32296,
+    44.7756,
+    10.32296,
+    44.7756
+],
   "geometry": {"coordinates":[10.32296,44.7756],"type":"Point"}
 }

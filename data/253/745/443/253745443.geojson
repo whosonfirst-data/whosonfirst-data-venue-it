@@ -2,13 +2,14 @@
   "id": 253745443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.585494,43.872673,10.585494,43.872673",
     "geom:latitude":43.872673,
     "geom:longitude":10.585494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Gheghi 55012 Capannori",
     "sg:city":"Capannori",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253745443,
-    "wof:lastmodified":1449065667,
+    "wof:lastmodified":1466297075,
     "wof:name":"Cesari",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.585494,43.872673,10.585494,43.872673],
+  "bbox": [
+    10.585494,
+    43.872673,
+    10.585494,
+    43.872673
+],
   "geometry": {"coordinates":[10.585494,43.872673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319834433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.222303,43.924477,10.222303,43.924477",
     "geom:latitude":43.924477,
     "geom:longitude":10.222303,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55045 Pietrasanta",
     "sg:city":"Pietrasanta",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319834433,
-    "wof:lastmodified":1449024178,
+    "wof:lastmodified":1466292657,
     "wof:name":"Autosporting Di Macchiarini Orlandi Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.222303,43.924477,10.222303,43.924477],
+  "bbox": [
+    10.222303,
+    43.924477,
+    10.222303,
+    43.924477
+],
   "geometry": {"coordinates":[10.222303,43.924477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269933261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.349572,37.925068,15.349572,37.925068",
     "geom:latitude":37.925068,
     "geom:longitude":15.349572,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98030 Sant'alessio Siculo",
     "sg:classifiers":[],
     "sg:orig_category":"Alberghi E Strutture Extra Alberghiere",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269933261,
-    "wof:lastmodified":1449036633,
+    "wof:lastmodified":1466294528,
     "wof:name":"Hotel Kennedy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.349572,37.925068,15.349572,37.925068],
+  "bbox": [
+    15.349572,
+    37.925068,
+    15.349572,
+    37.925068
+],
   "geometry": {"coordinates":[15.349572,37.925068],"type":"Point"}
 }

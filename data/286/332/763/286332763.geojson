@@ -2,13 +2,14 @@
   "id": 286332763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.323137,41.305798,16.323137,41.305798",
     "geom:latitude":41.305798,
     "geom:longitude":16.323137,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Dell'unione Europea 42 70051 Barletta",
     "sg:city":"Barletta",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286332763,
-    "wof:lastmodified":1449016821,
+    "wof:lastmodified":1466290471,
     "wof:name":"Calzaturificio Unicap S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "children's"
     ]
 },
-  "bbox": [16.323137,41.305798,16.323137,41.305798],
+  "bbox": [
+    16.323137,
+    41.305798,
+    16.323137,
+    41.305798
+],
   "geometry": {"coordinates":[16.323137,41.305798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253588595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.41848,44.099365,12.41848,44.099365",
     "geom:latitude":44.099365,
     "geom:longitude":12.41848,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rio Salto 1 47030 San Mauro Pascoli",
     "sg:city":"San Mauro Pascoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253588595,
-    "wof:lastmodified":1449065187,
+    "wof:lastmodified":1466295810,
     "wof:name":"Baldinini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.41848,44.099365,12.41848,44.099365],
+  "bbox": [
+    12.41848,
+    44.099365,
+    12.41848,
+    44.099365
+],
   "geometry": {"coordinates":[12.41848,44.099365],"type":"Point"}
 }

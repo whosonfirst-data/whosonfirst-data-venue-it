@@ -2,13 +2,14 @@
   "id": 320488501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.491698,45.698418,11.491698,45.698418",
     "geom:latitude":45.698418,
     "geom:longitude":11.491698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36016 Thiene",
     "sg:city":"Thiene",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320488501,
-    "wof:lastmodified":1449014873,
+    "wof:lastmodified":1466297567,
     "wof:name":"Sperotto Giuseppe & Figli (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.491698,45.698418,11.491698,45.698418],
+  "bbox": [
+    11.491698,
+    45.698418,
+    11.491698,
+    45.698418
+],
   "geometry": {"coordinates":[11.491698,45.698418],"type":"Point"}
 }

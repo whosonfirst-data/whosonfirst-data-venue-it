@@ -2,13 +2,14 @@
   "id": 303392053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.313817,45.017994,11.313817,45.017994",
     "geom:latitude":45.017994,
     "geom:longitude":11.313817,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45035 Castelmassa",
     "sg:city":"Castelmassa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303392053,
-    "wof:lastmodified":1449000079,
+    "wof:lastmodified":1466295339,
     "wof:name":"Buzzola Gianfranco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.313817,45.017994,11.313817,45.017994],
+  "bbox": [
+    11.313817,
+    45.017994,
+    11.313817,
+    45.017994
+],
   "geometry": {"coordinates":[11.313817,45.017994],"type":"Point"}
 }

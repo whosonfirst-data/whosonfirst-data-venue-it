@@ -2,13 +2,14 @@
   "id": 236665667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.863459,43.880985,12.863459,43.880985",
     "geom:latitude":43.880985,
     "geom:longitude":12.863459,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Via Brigata Garibaldi 61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236665667,
-    "wof:lastmodified":1449002497,
+    "wof:lastmodified":1466295621,
     "wof:name":"Supermobil 2 (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.863459,43.880985,12.863459,43.880985],
+  "bbox": [
+    12.863459,
+    43.880985,
+    12.863459,
+    43.880985
+],
   "geometry": {"coordinates":[12.863459,43.880985],"type":"Point"}
 }

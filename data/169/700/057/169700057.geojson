@@ -2,13 +2,14 @@
   "id": 169700057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.268953,45.525219,9.268953,45.525219",
     "geom:latitude":45.525219,
     "geom:longitude":9.268953,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Liguria 36 20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169700057,
-    "wof:lastmodified":1449035669,
+    "wof:lastmodified":1466296248,
     "wof:name":"Stevenazzi Packaging Srl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sealing"
     ]
 },
-  "bbox": [9.268953,45.525219,9.268953,45.525219],
+  "bbox": [
+    9.268953,
+    45.525219,
+    9.268953,
+    45.525219
+],
   "geometry": {"coordinates":[9.268953,45.525219],"type":"Point"}
 }

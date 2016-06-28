@@ -2,13 +2,14 @@
   "id": 253181659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.747519,45.118061,7.747519,45.118061",
     "geom:latitude":45.118061,
     "geom:longitude":7.747519,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Umbria 6 10099 San Mauro Torinese",
     "sg:city":"San Mauro Torinese",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253181659,
-    "wof:lastmodified":1449064621,
+    "wof:lastmodified":1466290801,
     "wof:name":"Specchidea Srl",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mirror"
     ]
 },
-  "bbox": [7.747519,45.118061,7.747519,45.118061],
+  "bbox": [
+    7.747519,
+    45.118061,
+    7.747519,
+    45.118061
+],
   "geometry": {"coordinates":[7.747519,45.118061],"type":"Point"}
 }

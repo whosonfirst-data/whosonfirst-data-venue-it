@@ -2,13 +2,14 @@
   "id": 269517023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.569702,43.868538,10.569702,43.868538",
     "geom:latitude":43.868538,
     "geom:longitude":10.569702,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58, Via Dei Bocchi 55012 Capannori",
     "sg:city":"Capannori",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269517023,
-    "wof:lastmodified":1449037501,
+    "wof:lastmodified":1466289334,
     "wof:name":"Calzaturificio Dama (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.569702,43.868538,10.569702,43.868538],
+  "bbox": [
+    10.569702,
+    43.868538,
+    10.569702,
+    43.868538
+],
   "geometry": {"coordinates":[10.569702,43.868538],"type":"Point"}
 }

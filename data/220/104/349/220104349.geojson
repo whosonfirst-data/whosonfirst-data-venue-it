@@ -2,13 +2,14 @@
   "id": 220104349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.117268,45.525005,9.117268,45.525005",
     "geom:latitude":45.525005,
     "geom:longitude":9.117268,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Via Primo Maggio 20021 Bollate",
     "sg:city":"Bollate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220104349,
-    "wof:lastmodified":1449074366,
+    "wof:lastmodified":1466295968,
     "wof:name":"Pitteri E Violini (s.p.a.)",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [9.117268,45.525005,9.117268,45.525005],
+  "bbox": [
+    9.117268,
+    45.525005,
+    9.117268,
+    45.525005
+],
   "geometry": {"coordinates":[9.117268,45.525005],"type":"Point"}
 }

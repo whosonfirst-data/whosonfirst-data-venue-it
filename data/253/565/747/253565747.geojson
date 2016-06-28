@@ -2,13 +2,14 @@
   "id": 253565747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.089929,37.511295,15.089929,37.511295",
     "geom:latitude":37.511295,
     "geom:longitude":15.089929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95030 Catania",
     "sg:classifiers":[],
     "sg:orig_category":"Utensili Meccanici E Materiali",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253565747,
-    "wof:lastmodified":1449065524,
+    "wof:lastmodified":1466295497,
     "wof:name":"Terranova Srl",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.089929,37.511295,15.089929,37.511295],
+  "bbox": [
+    15.089929,
+    37.511295,
+    15.089929,
+    37.511295
+],
   "geometry": {"coordinates":[15.089929,37.511295],"type":"Point"}
 }

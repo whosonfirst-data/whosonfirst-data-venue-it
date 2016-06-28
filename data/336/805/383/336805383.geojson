@@ -2,13 +2,14 @@
   "id": 336805383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.138865,43.474148,11.138865,43.474148",
     "geom:latitude":43.474148,
     "geom:longitude":11.138865,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"147, Via Pisana 53036 Poggibonsi",
     "sg:city":"Poggibonsi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336805383,
-    "wof:lastmodified":1448997298,
+    "wof:lastmodified":1466296182,
     "wof:name":"Vitap Costruzioni Meccaniche Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.138865,43.474148,11.138865,43.474148],
+  "bbox": [
+    11.138865,
+    43.474148,
+    11.138865,
+    43.474148
+],
   "geometry": {"coordinates":[11.138865,43.474148],"type":"Point"}
 }

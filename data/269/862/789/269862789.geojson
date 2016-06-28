@@ -2,13 +2,14 @@
   "id": 269862789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.325258,45.350555,12.325258,45.350555",
     "geom:latitude":45.350555,
     "geom:longitude":12.325258,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"130, Strada Della Droma 30126 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -35,16 +36,22 @@
     "wof:geomhash":"a2edecdcde6ff0ecff1b750f7f2b38c6",
     "wof:hierarchy":[],
     "wof:id":269862789,
-    "wof:lastmodified":1449039053,
+    "wof:lastmodified":1466293733,
     "wof:name":"Mitilpesca (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [12.325258,45.350555,12.325258,45.350555],
+  "bbox": [
+    12.325258,
+    45.350555,
+    12.325258,
+    45.350555
+],
   "geometry": {"coordinates":[12.325258,45.350555],"type":"Point"}
 }

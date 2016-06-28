@@ -2,13 +2,14 @@
   "id": 220103255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.695677,45.70364,9.695677,45.70364",
     "geom:latitude":45.70364,
     "geom:longitude":9.695677,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Dei Bersaglieri 24124 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220103255,
-    "wof:lastmodified":1449074544,
+    "wof:lastmodified":1466295962,
     "wof:name":"Oberti (s.p.a.)",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [9.695677,45.70364,9.695677,45.70364],
+  "bbox": [
+    9.695677,
+    45.70364,
+    9.695677,
+    45.70364
+],
   "geometry": {"coordinates":[9.695677,45.70364],"type":"Point"}
 }

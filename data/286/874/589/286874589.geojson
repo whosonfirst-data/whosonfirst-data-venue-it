@@ -2,13 +2,14 @@
   "id": 286874589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.97574,45.411457,10.97574,45.411457",
     "geom:latitude":45.411457,
     "geom:longitude":10.97574,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37045 Legnago",
     "sg:city":"Legnago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286874589,
-    "wof:lastmodified":1449017904,
+    "wof:lastmodified":1466296916,
     "wof:name":"Fa.re.l. Bruciatori Facchini Renato",
     "wof:parent_id":85905039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.97574,45.411457,10.97574,45.411457],
+  "bbox": [
+    10.97574,
+    45.411457,
+    10.97574,
+    45.411457
+],
   "geometry": {"coordinates":[10.97574,45.411457],"type":"Point"}
 }

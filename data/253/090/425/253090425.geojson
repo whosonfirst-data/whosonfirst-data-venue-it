@@ -2,13 +2,14 @@
   "id": 253090425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.894301,44.43623,11.894301,44.43623",
     "geom:latitude":44.43623,
     "geom:longitude":11.894301,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Morgagni 19 48022 Lugo",
     "sg:city":"Lugo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253090425,
-    "wof:lastmodified":1449065165,
+    "wof:lastmodified":1466289875,
     "wof:name":"Fme Elettronica Di Meatta Mario & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.894301,44.43623,11.894301,44.43623],
+  "bbox": [
+    11.894301,
+    44.43623,
+    11.894301,
+    44.43623
+],
   "geometry": {"coordinates":[11.894301,44.43623],"type":"Point"}
 }

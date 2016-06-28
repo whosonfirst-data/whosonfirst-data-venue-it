@@ -2,13 +2,14 @@
   "id": 303962331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.233589,45.536961,10.233589,45.536961",
     "geom:latitude":45.536961,
     "geom:longitude":10.233589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25018 Montichiari",
     "sg:city":"Montichiari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303962331,
-    "wof:lastmodified":1448999560,
+    "wof:lastmodified":1466298228,
     "wof:name":"Nuova Sisal Dei F.lli Rocca Snc",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.233589,45.536961,10.233589,45.536961],
+  "bbox": [
+    10.233589,
+    45.536961,
+    10.233589,
+    45.536961
+],
   "geometry": {"coordinates":[10.233589,45.536961],"type":"Point"}
 }

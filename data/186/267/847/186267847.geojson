@@ -2,13 +2,14 @@
   "id": 186267847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.209793,45.715496,12.209793,45.715496",
     "geom:latitude":45.715496,
     "geom:longitude":12.209793,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 315 31043 Fontanelle",
     "sg:city":"Fontanelle",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186267847,
-    "wof:lastmodified":1449052780,
+    "wof:lastmodified":1466290218,
     "wof:name":"Mobil Record - S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedroom"
     ]
 },
-  "bbox": [12.209793,45.715496,12.209793,45.715496],
+  "bbox": [
+    12.209793,
+    45.715496,
+    12.209793,
+    45.715496
+],
   "geometry": {"coordinates":[12.209793,45.715496],"type":"Point"}
 }

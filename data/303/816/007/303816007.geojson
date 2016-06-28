@@ -2,13 +2,14 @@
   "id": 303816007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.674006,44.912178,7.674006,44.912178",
     "geom:latitude":44.912178,
     "geom:longitude":7.674006,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10041 Carignano",
     "sg:city":"Carignano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303816007,
-    "wof:lastmodified":1448999547,
+    "wof:lastmodified":1466297850,
     "wof:name":"Busso Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.674006,44.912178,7.674006,44.912178],
+  "bbox": [
+    7.674006,
+    44.912178,
+    7.674006,
+    44.912178
+],
   "geometry": {"coordinates":[7.674006,44.912178],"type":"Point"}
 }

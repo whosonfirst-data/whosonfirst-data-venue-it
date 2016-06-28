@@ -2,13 +2,14 @@
   "id": 269586147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.62675,41.03928,14.62675,41.03928",
     "geom:latitude":41.03928,
     "geom:longitude":14.62675,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83012 Cervinara",
     "sg:city":"Cervinara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269586147,
-    "wof:lastmodified":1449038680,
+    "wof:lastmodified":1466290158,
     "wof:name":"La Legnoplasta Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.62675,41.03928,14.62675,41.03928],
+  "bbox": [
+    14.62675,
+    41.03928,
+    14.62675,
+    41.03928
+],
   "geometry": {"coordinates":[14.62675,41.03928],"type":"Point"}
 }

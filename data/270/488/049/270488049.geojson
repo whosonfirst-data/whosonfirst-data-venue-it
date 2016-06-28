@@ -2,13 +2,14 @@
   "id": 270488049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.218407,46.140858,12.218407,46.140858",
     "geom:latitude":46.140858,
     "geom:longitude":12.218407,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza S. Stefano 15; Belluno; 32100",
     "sg:city":"Belluno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270488049,
-    "wof:lastmodified":1449011079,
+    "wof:lastmodified":1466294910,
     "wof:name":"Belluno Cci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "commerce"
     ]
 },
-  "bbox": [12.218407,46.140858,12.218407,46.140858],
+  "bbox": [
+    12.218407,
+    46.140858,
+    12.218407,
+    46.140858
+],
   "geometry": {"coordinates":[12.218407,46.140858],"type":"Point"}
 }

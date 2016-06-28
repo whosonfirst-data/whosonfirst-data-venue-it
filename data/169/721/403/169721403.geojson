@@ -2,13 +2,14 @@
   "id": 169721403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.321754,40.75523,17.321754,40.75523",
     "geom:latitude":40.75523,
     "geom:longitude":17.321754,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Madonna Della Catena 76 70010 Locorotondo",
     "sg:city":"Locorotondo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169721403,
-    "wof:lastmodified":1449035960,
+    "wof:lastmodified":1466294371,
     "wof:name":"Sant'elena Service Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bakery"
     ]
 },
-  "bbox": [17.321754,40.75523,17.321754,40.75523],
+  "bbox": [
+    17.321754,
+    40.75523,
+    17.321754,
+    40.75523
+],
   "geometry": {"coordinates":[17.321754,40.75523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320447543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.883886,45.424904,11.883886,45.424904",
     "geom:latitude":45.424904,
     "geom:longitude":11.883886,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Marsango",
     "sg:city":"Marsango",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320447543,
-    "wof:lastmodified":1449013890,
+    "wof:lastmodified":1466297505,
     "wof:name":"Mulmix Facco (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.883886,45.424904,11.883886,45.424904],
+  "bbox": [
+    11.883886,
+    45.424904,
+    11.883886,
+    45.424904
+],
   "geometry": {"coordinates":[11.883886,45.424904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286989881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.646688,45.647144,9.646688,45.647144",
     "geom:latitude":45.647144,
     "geom:longitude":9.646688,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Silvio Pellico 20 24040 Stezzano",
     "sg:city":"Stezzano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286989881,
-    "wof:lastmodified":1449017336,
+    "wof:lastmodified":1466297586,
     "wof:name":"Erhardt + Leimer Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "machine"
     ]
 },
-  "bbox": [9.646688,45.647144,9.646688,45.647144],
+  "bbox": [
+    9.646688,
+    45.647144,
+    9.646688,
+    45.647144
+],
   "geometry": {"coordinates":[9.646688,45.647144],"type":"Point"}
 }

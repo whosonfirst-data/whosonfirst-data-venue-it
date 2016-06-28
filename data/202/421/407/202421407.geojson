@@ -2,13 +2,14 @@
   "id": 202421407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.44056,41.776463,12.44056,41.776463",
     "geom:latitude":41.776463,
     "geom:longitude":12.44056,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00185 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202421407,
-    "wof:lastmodified":1449061697,
+    "wof:lastmodified":1466295167,
     "wof:name":"Istituto Carlo Amore Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.44056,41.776463,12.44056,41.776463],
+  "bbox": [
+    12.44056,
+    41.776463,
+    12.44056,
+    41.776463
+],
   "geometry": {"coordinates":[12.44056,41.776463],"type":"Point"}
 }

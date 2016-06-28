@@ -2,13 +2,14 @@
   "id": 336791451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.871764,45.786728,8.871764,45.786728",
     "geom:latitude":45.786728,
     "geom:longitude":8.871764,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28, Via Piave 21046 Malnate",
     "sg:city":"Malnate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336791451,
-    "wof:lastmodified":1448997786,
+    "wof:lastmodified":1466296019,
     "wof:name":"Tecnomeccanica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.871764,45.786728,8.871764,45.786728],
+  "bbox": [
+    8.871764,
+    45.786728,
+    8.871764,
+    45.786728
+],
   "geometry": {"coordinates":[8.871764,45.786728],"type":"Point"}
 }

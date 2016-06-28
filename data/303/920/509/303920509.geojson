@@ -2,13 +2,14 @@
   "id": 303920509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.226615,45.54567,9.226615,45.54567",
     "geom:latitude":45.54567,
     "geom:longitude":9.226615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303920509,
-    "wof:lastmodified":1449000006,
+    "wof:lastmodified":1466298140,
     "wof:name":"Bi-effe Di Beretta Aldo & C. Snc",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.226615,45.54567,9.226615,45.54567],
+  "bbox": [
+    9.226615,
+    45.54567,
+    9.226615,
+    45.54567
+],
   "geometry": {"coordinates":[9.226615,45.54567],"type":"Point"}
 }

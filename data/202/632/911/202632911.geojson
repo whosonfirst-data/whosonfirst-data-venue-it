@@ -2,13 +2,14 @@
   "id": 202632911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.491414,41.905632,12.491414,41.905632",
     "geom:latitude":41.905632,
     "geom:longitude":12.491414,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202632911,
-    "wof:lastmodified":1449061707,
+    "wof:lastmodified":1466290326,
     "wof:name":"U.s. Airways",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.491414,41.905632,12.491414,41.905632],
+  "bbox": [
+    12.491414,
+    41.905632,
+    12.491414,
+    41.905632
+],
   "geometry": {"coordinates":[12.491414,41.905632],"type":"Point"}
 }

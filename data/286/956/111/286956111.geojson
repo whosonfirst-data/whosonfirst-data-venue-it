@@ -2,13 +2,14 @@
   "id": 286956111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.118459,45.705948,8.118459,45.705948",
     "geom:latitude":45.705948,
     "geom:longitude":8.118459,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13833 Portula",
     "sg:city":"Portula",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286956111,
-    "wof:lastmodified":1449015657,
+    "wof:lastmodified":1466297418,
     "wof:name":"Tessitura Automatica La Fornace S.n.c. Di Scaglia Rat Giacomo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.118459,45.705948,8.118459,45.705948],
+  "bbox": [
+    8.118459,
+    45.705948,
+    8.118459,
+    45.705948
+],
   "geometry": {"coordinates":[8.118459,45.705948],"type":"Point"}
 }

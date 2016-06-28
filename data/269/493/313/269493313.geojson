@@ -2,13 +2,14 @@
   "id": 269493313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.185577,45.653996,9.185577,45.653996",
     "geom:latitude":45.653996,
     "geom:longitude":9.185577,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"208, V. Cadore 20038 Seregno",
     "sg:city":"Seregno",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269493313,
-    "wof:lastmodified":1449036907,
+    "wof:lastmodified":1466289056,
     "wof:name":"Pbs Leather Manifacture",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [9.185577,45.653996,9.185577,45.653996],
+  "bbox": [
+    9.185577,
+    45.653996,
+    9.185577,
+    45.653996
+],
   "geometry": {"coordinates":[9.185577,45.653996],"type":"Point"}
 }

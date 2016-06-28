@@ -2,13 +2,14 @@
   "id": 303613149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.063399,44.864605,10.063399,44.864605",
     "geom:latitude":44.864605,
     "geom:longitude":10.063399,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43036 Fidenza",
     "sg:city":"Fidenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303613149,
-    "wof:lastmodified":1448999257,
+    "wof:lastmodified":1466297256,
     "wof:name":"Mainardi Stefano Stili Di Marmo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.063399,44.864605,10.063399,44.864605],
+  "bbox": [
+    10.063399,
+    44.864605,
+    10.063399,
+    44.864605
+],
   "geometry": {"coordinates":[10.063399,44.864605],"type":"Point"}
 }

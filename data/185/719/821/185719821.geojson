@@ -2,13 +2,14 @@
   "id": 185719821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.659009,46.37569,11.659009,46.37569",
     "geom:latitude":46.37569,
     "geom:longitude":11.659009,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lungo Avisio 7; Moena; 38035",
     "sg:city":"Moena",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185719821,
-    "wof:lastmodified":1449006808,
+    "wof:lastmodified":1466296004,
     "wof:name":"Banca Di Trento E Bolzano Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.659009,46.37569,11.659009,46.37569],
+  "bbox": [
+    11.659009,
+    46.37569,
+    11.659009,
+    46.37569
+],
   "geometry": {"coordinates":[11.659009,46.37569],"type":"Point"}
 }

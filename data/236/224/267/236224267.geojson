@@ -2,13 +2,14 @@
   "id": 236224267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.40838,38.086281,13.40838,38.086281",
     "geom:latitude":38.086281,
     "geom:longitude":13.40838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90135 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236224267,
-    "wof:lastmodified":1449004179,
+    "wof:lastmodified":1466291148,
     "wof:name":"Evola Motori Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.40838,38.086281,13.40838,38.086281],
+  "bbox": [
+    13.40838,
+    38.086281,
+    13.40838,
+    38.086281
+],
   "geometry": {"coordinates":[13.40838,38.086281],"type":"Point"}
 }

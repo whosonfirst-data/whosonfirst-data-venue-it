@@ -2,13 +2,14 @@
   "id": 270045041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.294739,45.441364,9.294739,45.441364",
     "geom:latitude":45.441364,
     "geom:longitude":9.294739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20068 Peschiera Borromeo",
     "sg:city":"Peschiera Borromeo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270045041,
-    "wof:lastmodified":1449010807,
+    "wof:lastmodified":1466289529,
     "wof:name":"Bono Energia Spa",
     "wof:parent_id":85935827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.294739,45.441364,9.294739,45.441364],
+  "bbox": [
+    9.294739,
+    45.441364,
+    9.294739,
+    45.441364
+],
   "geometry": {"coordinates":[9.294739,45.441364],"type":"Point"}
 }

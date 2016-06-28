@@ -2,13 +2,14 @@
   "id": 236306269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.217268,45.829906,9.217268,45.829906",
     "geom:latitude":45.829906,
     "geom:longitude":9.217268,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22037 Ponte Lambro",
     "sg:city":"Ponte Lambro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236306269,
-    "wof:lastmodified":1449005068,
+    "wof:lastmodified":1466292004,
     "wof:name":"Galli Pietro & Figlio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.217268,45.829906,9.217268,45.829906],
+  "bbox": [
+    9.217268,
+    45.829906,
+    9.217268,
+    45.829906
+],
   "geometry": {"coordinates":[9.217268,45.829906],"type":"Point"}
 }

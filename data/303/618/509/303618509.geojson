@@ -2,13 +2,14 @@
   "id": 303618509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.175243,45.484516,10.175243,45.484516",
     "geom:latitude":45.484516,
     "geom:longitude":10.175243,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25020 Poncarale",
     "sg:city":"Poncarale",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303618509,
-    "wof:lastmodified":1448999641,
+    "wof:lastmodified":1466297177,
     "wof:name":"Ancilla Scalvini Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.175243,45.484516,10.175243,45.484516],
+  "bbox": [
+    10.175243,
+    45.484516,
+    10.175243,
+    45.484516
+],
   "geometry": {"coordinates":[10.175243,45.484516],"type":"Point"}
 }

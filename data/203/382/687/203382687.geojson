@@ -2,13 +2,14 @@
   "id": 203382687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.868553,45.480274,8.868553,45.480274",
     "geom:latitude":45.480274,
     "geom:longitude":8.868553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Marcallo Con Casone",
     "sg:city":"Casone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203382687,
-    "wof:lastmodified":1449025415,
+    "wof:lastmodified":1466291944,
     "wof:name":"Cooperativa Sociale Massimo Ventura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.868553,45.480274,8.868553,45.480274],
+  "bbox": [
+    8.868553,
+    45.480274,
+    8.868553,
+    45.480274
+],
   "geometry": {"coordinates":[8.868553,45.480274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253119001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.409184,45.829781,9.409184,45.829781",
     "geom:latitude":45.829781,
     "geom:longitude":9.409184,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23900 Lecco",
     "sg:city":"Lecco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253119001,
-    "wof:lastmodified":1449064946,
+    "wof:lastmodified":1466290148,
     "wof:name":"T.m.i. Trafileria Manzoni Italo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.409184,45.829781,9.409184,45.829781],
+  "bbox": [
+    9.409184,
+    45.829781,
+    9.409184,
+    45.829781
+],
   "geometry": {"coordinates":[9.409184,45.829781],"type":"Point"}
 }

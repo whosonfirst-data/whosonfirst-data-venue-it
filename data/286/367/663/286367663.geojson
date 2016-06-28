@@ -2,13 +2,14 @@
   "id": 286367663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.32608,43.559517,10.32608,43.559517",
     "geom:latitude":43.559517,
     "geom:longitude":10.32608,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57023 Cecina",
     "sg:city":"Cecina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286367663,
-    "wof:lastmodified":1449016930,
+    "wof:lastmodified":1466290944,
     "wof:name":"Liberati Alessandro",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.32608,43.559517,10.32608,43.559517],
+  "bbox": [
+    10.32608,
+    43.559517,
+    10.32608,
+    43.559517
+],
   "geometry": {"coordinates":[10.32608,43.559517],"type":"Point"}
 }

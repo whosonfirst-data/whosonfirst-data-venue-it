@@ -2,13 +2,14 @@
   "id": 319928545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.661227,41.392479,15.661227,41.392479",
     "geom:latitude":41.392479,
     "geom:longitude":15.661227,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71100 Foggia",
     "sg:city":"Foggia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319928545,
-    "wof:lastmodified":1449024769,
+    "wof:lastmodified":1466293926,
     "wof:name":"Divisione Aeronautica Foggia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.661227,41.392479,15.661227,41.392479],
+  "bbox": [
+    15.661227,
+    41.392479,
+    15.661227,
+    41.392479
+],
   "geometry": {"coordinates":[15.661227,41.392479],"type":"Point"}
 }

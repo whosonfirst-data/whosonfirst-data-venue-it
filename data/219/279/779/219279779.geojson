@@ -2,13 +2,14 @@
   "id": 219279779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.770226,45.775093,8.770226,45.775093",
     "geom:latitude":45.775093,
     "geom:longitude":8.770226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via C. Colombo 5 21041 Albizzate",
     "sg:city":"Albizzate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219279779,
-    "wof:lastmodified":1449072019,
+    "wof:lastmodified":1466289100,
     "wof:name":"Vibram Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.770226,45.775093,8.770226,45.775093],
+  "bbox": [
+    8.770226,
+    45.775093,
+    8.770226,
+    45.775093
+],
   "geometry": {"coordinates":[8.770226,45.775093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219744647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.250265,46.040302,13.250265,46.040302",
     "geom:latitude":46.040302,
     "geom:longitude":13.250265,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Via Longarone 33100 Udine",
     "sg:city":"Udine",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219744647,
-    "wof:lastmodified":1449071663,
+    "wof:lastmodified":1466293713,
     "wof:name":"Cooperativa Friulana Caricatori E Scaricatori Udin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [13.250265,46.040302,13.250265,46.040302],
+  "bbox": [
+    13.250265,
+    46.040302,
+    13.250265,
+    46.040302
+],
   "geometry": {"coordinates":[13.250265,46.040302],"type":"Point"}
 }

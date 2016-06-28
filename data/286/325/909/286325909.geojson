@@ -2,13 +2,14 @@
   "id": 286325909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.279796,45.416111,9.279796,45.416111",
     "geom:latitude":45.416111,
     "geom:longitude":9.279796,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286325909,
-    "wof:lastmodified":1449016340,
+    "wof:lastmodified":1466290375,
     "wof:name":"Peja Romeo",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.279796,45.416111,9.279796,45.416111],
+  "bbox": [
+    9.279796,
+    45.416111,
+    9.279796,
+    45.416111
+],
   "geometry": {"coordinates":[9.279796,45.416111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303056195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.262647,45.472713,10.262647,45.472713",
     "geom:latitude":45.472713,
     "geom:longitude":10.262647,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"103, Via Monte Pasubio 25014 Castenedolo",
     "sg:city":"Castenedolo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303056195,
-    "wof:lastmodified":1448998814,
+    "wof:lastmodified":1466291059,
     "wof:name":"Nuova Feder (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.262647,45.472713,10.262647,45.472713],
+  "bbox": [
+    10.262647,
+    45.472713,
+    10.262647,
+    45.472713
+],
   "geometry": {"coordinates":[10.262647,45.472713],"type":"Point"}
 }

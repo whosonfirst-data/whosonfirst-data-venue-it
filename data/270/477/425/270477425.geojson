@@ -2,13 +2,14 @@
   "id": 270477425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.66364,45.691505,9.66364,45.691505",
     "geom:latitude":45.691505,
     "geom:longitude":9.66364,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24122 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270477425,
-    "wof:lastmodified":1449009055,
+    "wof:lastmodified":1466294784,
     "wof:name":"Argenta Srl",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.66364,45.691505,9.66364,45.691505],
+  "bbox": [
+    9.66364,
+    45.691505,
+    9.66364,
+    45.691505
+],
   "geometry": {"coordinates":[9.66364,45.691505],"type":"Point"}
 }

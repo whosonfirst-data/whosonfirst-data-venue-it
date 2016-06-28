@@ -2,13 +2,14 @@
   "id": 286710519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.811779,46.002831,11.811779,46.002831",
     "geom:latitude":46.002831,
     "geom:longitude":11.811779,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97, Via Fenadora 32030 Fonzaso",
     "sg:city":"Fonzaso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286710519,
-    "wof:lastmodified":1449015359,
+    "wof:lastmodified":1466295340,
     "wof:name":"Sici (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [11.811779,46.002831,11.811779,46.002831],
+  "bbox": [
+    11.811779,
+    46.002831,
+    11.811779,
+    46.002831
+],
   "geometry": {"coordinates":[11.811779,46.002831],"type":"Point"}
 }

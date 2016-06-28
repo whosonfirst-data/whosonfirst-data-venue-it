@@ -2,13 +2,14 @@
   "id": 320084221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.697958,45.091164,7.697958,45.091164",
     "geom:latitude":45.091164,
     "geom:longitude":7.697958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10154 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320084221,
-    "wof:lastmodified":1449011646,
+    "wof:lastmodified":1466294437,
     "wof:name":"Perocchio Roberto & C. (s.a.s.)",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.697958,45.091164,7.697958,45.091164],
+  "bbox": [
+    7.697958,
+    45.091164,
+    7.697958,
+    45.091164
+],
   "geometry": {"coordinates":[7.697958,45.091164],"type":"Point"}
 }

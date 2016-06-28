@@ -2,13 +2,14 @@
   "id": 236437613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.071596,45.428452,9.071596,45.428452",
     "geom:latitude":45.428452,
     "geom:longitude":9.071596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Goldoni 20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236437613,
-    "wof:lastmodified":1449004147,
+    "wof:lastmodified":1466293382,
     "wof:name":"F.a.s.e.t. (s.p.a.)",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instrument"
     ]
 },
-  "bbox": [9.071596,45.428452,9.071596,45.428452],
+  "bbox": [
+    9.071596,
+    45.428452,
+    9.071596,
+    45.428452
+],
   "geometry": {"coordinates":[9.071596,45.428452],"type":"Point"}
 }

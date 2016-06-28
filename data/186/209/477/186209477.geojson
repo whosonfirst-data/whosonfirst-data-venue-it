@@ -2,13 +2,14 @@
   "id": 186209477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.355365,46.499443,11.355365,46.499443",
     "geom:latitude":46.499443,
     "geom:longitude":11.355365,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Del Grano 2; Bolzano; 39100",
     "sg:city":"Bolzano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186209477,
-    "wof:lastmodified":1449052733,
+    "wof:lastmodified":1466289731,
     "wof:name":"S\u00fcdtiroler Volksbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.355365,46.499443,11.355365,46.499443],
+  "bbox": [
+    11.355365,
+    46.499443,
+    11.355365,
+    46.499443
+],
   "geometry": {"coordinates":[11.355365,46.499443],"type":"Point"}
 }

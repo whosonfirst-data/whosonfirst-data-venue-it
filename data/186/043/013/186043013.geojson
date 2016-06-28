@@ -2,13 +2,14 @@
   "id": 186043013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.049582,46.336666,11.049582,46.336666",
     "geom:latitude":46.336666,
     "geom:longitude":11.049582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Carlo Antonio Pilati 15, 38010 Tassullo, Tn",
     "sg:city":"Tassullo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186043013,
-    "wof:lastmodified":1449052351,
+    "wof:lastmodified":1466294898,
     "wof:name":"Cassa Rurale Di Tassullo E Nanno-banca Di Credito Cooperativo Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.049582,46.336666,11.049582,46.336666],
+  "bbox": [
+    11.049582,
+    46.336666,
+    11.049582,
+    46.336666
+],
   "geometry": {"coordinates":[11.049582,46.336666],"type":"Point"}
 }

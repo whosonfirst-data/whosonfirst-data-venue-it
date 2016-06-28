@@ -2,13 +2,14 @@
   "id": 320704003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.009518,45.522781,9.009518,45.522781",
     "geom:latitude":45.522781,
     "geom:longitude":9.009518,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Pregnana Milanese",
     "sg:city":"Pregnana Milanese",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320704003,
-    "wof:lastmodified":1449012242,
+    "wof:lastmodified":1466298125,
     "wof:name":"Regazzetti Innocente & C. Sas",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.009518,45.522781,9.009518,45.522781],
+  "bbox": [
+    9.009518,
+    45.522781,
+    9.009518,
+    45.522781
+],
   "geometry": {"coordinates":[9.009518,45.522781],"type":"Point"}
 }

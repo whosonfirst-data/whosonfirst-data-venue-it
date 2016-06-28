@@ -2,13 +2,14 @@
   "id": 169803643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.489328,45.181499,9.489328,45.181499",
     "geom:latitude":45.181499,
     "geom:longitude":9.489328,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58, Via Giuseppe Monti 20078 San Colombano Al Lambro",
     "sg:city":"San Colombano al Lambro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169803643,
-    "wof:lastmodified":1449036009,
+    "wof:lastmodified":1466296069,
     "wof:name":"Banca Centropadana Credito Cooperativo S.c.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [9.489328,45.181499,9.489328,45.181499],
+  "bbox": [
+    9.489328,
+    45.181499,
+    9.489328,
+    45.181499
+],
   "geometry": {"coordinates":[9.489328,45.181499],"type":"Point"}
 }

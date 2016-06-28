@@ -2,13 +2,14 @@
   "id": 269782039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.209278,40.907398,14.209278,40.907398",
     "geom:latitude":40.907398,
     "geom:longitude":14.209278,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80123 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269782039,
-    "wof:lastmodified":1449036137,
+    "wof:lastmodified":1466292819,
     "wof:name":"Posillipo Travel Sas",
     "wof:parent_id":85900399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.209278,40.907398,14.209278,40.907398],
+  "bbox": [
+    14.209278,
+    40.907398,
+    14.209278,
+    40.907398
+],
   "geometry": {"coordinates":[14.209278,40.907398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303038953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.275547,39.812252,9.275547,39.812252",
     "geom:latitude":39.812252,
     "geom:longitude":9.275547,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Piemonte 08030 Sadali",
     "sg:city":"Sadali",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303038953,
-    "wof:lastmodified":1448999684,
+    "wof:lastmodified":1466290835,
     "wof:name":"Mura Salvatore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.275547,39.812252,9.275547,39.812252],
+  "bbox": [
+    9.275547,
+    39.812252,
+    9.275547,
+    39.812252
+],
   "geometry": {"coordinates":[9.275547,39.812252],"type":"Point"}
 }

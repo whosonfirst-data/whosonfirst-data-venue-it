@@ -2,13 +2,14 @@
   "id": 236415263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.005997,45.483479,9.005997,45.483479",
     "geom:latitude":45.483479,
     "geom:longitude":9.005997,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Busnago",
     "sg:city":"Busnago",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236415263,
-    "wof:lastmodified":1449004141,
+    "wof:lastmodified":1466293144,
     "wof:name":"C.i.m.a. Divisione C.i.d.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.005997,45.483479,9.005997,45.483479],
+  "bbox": [
+    9.005997,
+    45.483479,
+    9.005997,
+    45.483479
+],
   "geometry": {"coordinates":[9.005997,45.483479],"type":"Point"}
 }

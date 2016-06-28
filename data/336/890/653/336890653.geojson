@@ -2,13 +2,14 @@
   "id": 336890653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.260954,40.462421,17.260954,40.462421",
     "geom:latitude":40.462421,
     "geom:longitude":17.260954,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74100 Taranto",
     "sg:city":"Taranto",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336890653,
-    "wof:lastmodified":1448997190,
+    "wof:lastmodified":1466296900,
     "wof:name":"Albano Stefano",
     "wof:parent_id":85900341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [17.260954,40.462421,17.260954,40.462421],
+  "bbox": [
+    17.260954,
+    40.462421,
+    17.260954,
+    40.462421
+],
   "geometry": {"coordinates":[17.260954,40.462421],"type":"Point"}
 }

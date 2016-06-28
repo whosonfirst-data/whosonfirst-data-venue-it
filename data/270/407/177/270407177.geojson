@@ -2,13 +2,14 @@
   "id": 270407177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.829074,41.499672,12.829074,41.499672",
     "geom:latitude":41.499672,
     "geom:longitude":12.829074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04100 Latina",
     "sg:city":"Latina",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270407177,
-    "wof:lastmodified":1449010006,
+    "wof:lastmodified":1466293972,
     "wof:name":"Montanari Adriano Underskin Ink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.829074,41.499672,12.829074,41.499672],
+  "bbox": [
+    12.829074,
+    41.499672,
+    12.829074,
+    41.499672
+],
   "geometry": {"coordinates":[12.829074,41.499672],"type":"Point"}
 }

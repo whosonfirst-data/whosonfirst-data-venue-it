@@ -2,13 +2,14 @@
   "id": 203128887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.25499,43.782372,11.25499,43.782372",
     "geom:latitude":43.782372,
     "geom:longitude":11.25499,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50100 Firenze",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Ecologia E Smaltimento Rifiuti. Arte Ed Artigianato Artistico. Servizi Ausiliari Di Sorveglianza, Manutenzione E Pulizia",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203128887,
-    "wof:lastmodified":1449025651,
+    "wof:lastmodified":1466289186,
     "wof:name":"Lombardini Vittorio",
     "wof:parent_id":85904687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.25499,43.782372,11.25499,43.782372],
+  "bbox": [
+    11.25499,
+    43.782372,
+    11.25499,
+    43.782372
+],
   "geometry": {"coordinates":[11.25499,43.782372],"type":"Point"}
 }

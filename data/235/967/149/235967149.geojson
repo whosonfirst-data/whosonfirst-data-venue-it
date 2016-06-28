@@ -2,13 +2,14 @@
   "id": 235967149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.735644,44.775997,7.735644,44.775997",
     "geom:latitude":44.775997,
     "geom:longitude":7.735644,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Strada Bussolino 12030 Caramagna Piemonte",
     "sg:city":"Caramagna Piemonte",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235967149,
-    "wof:lastmodified":1449008591,
+    "wof:lastmodified":1466295407,
     "wof:name":"Fattorie Osella (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [7.735644,44.775997,7.735644,44.775997],
+  "bbox": [
+    7.735644,
+    44.775997,
+    7.735644,
+    44.775997
+],
   "geometry": {"coordinates":[7.735644,44.775997],"type":"Point"}
 }

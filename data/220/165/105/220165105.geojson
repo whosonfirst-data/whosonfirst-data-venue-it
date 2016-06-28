@@ -2,13 +2,14 @@
   "id": 220165105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.422141,44.506054,11.422141,44.506054",
     "geom:latitude":44.506054,
     "geom:longitude":11.422141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Vetraio 7 40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220165105,
-    "wof:lastmodified":1449074881,
+    "wof:lastmodified":1466289227,
     "wof:name":"Prastel Spa",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "infrared"
     ]
 },
-  "bbox": [11.422141,44.506054,11.422141,44.506054],
+  "bbox": [
+    11.422141,
+    44.506054,
+    11.422141,
+    44.506054
+],
   "geometry": {"coordinates":[11.422141,44.506054],"type":"Point"}
 }

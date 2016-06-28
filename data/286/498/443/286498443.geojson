@@ -2,13 +2,14 @@
   "id": 286498443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.289059,40.948051,17.289059,40.948051",
     "geom:latitude":40.948051,
     "geom:longitude":17.289059,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Gandhi 70043 Monopoli",
     "sg:city":"Monopoli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286498443,
-    "wof:lastmodified":1449017416,
+    "wof:lastmodified":1466292689,
     "wof:name":"D'arienzo Domenica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [17.289059,40.948051,17.289059,40.948051],
+  "bbox": [
+    17.289059,
+    40.948051,
+    17.289059,
+    40.948051
+],
   "geometry": {"coordinates":[17.289059,40.948051],"type":"Point"}
 }

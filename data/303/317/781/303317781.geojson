@@ -2,13 +2,14 @@
   "id": 303317781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.666604,45.698372,9.666604,45.698372",
     "geom:latitude":45.698372,
     "geom:longitude":9.666604,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brigata Lupi 4 24122 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303317781,
-    "wof:lastmodified":1448999236,
+    "wof:lastmodified":1466294438,
     "wof:name":"Nui Srl",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "export"
     ]
 },
-  "bbox": [9.666604,45.698372,9.666604,45.698372],
+  "bbox": [
+    9.666604,
+    45.698372,
+    9.666604,
+    45.698372
+],
   "geometry": {"coordinates":[9.666604,45.698372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304079475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.820302,40.921459,14.820302,40.921459",
     "geom:latitude":40.921459,
     "geom:longitude":14.820302,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Liguorini 83100 Avellino",
     "sg:city":"Avellino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304079475,
-    "wof:lastmodified":1449044063,
+    "wof:lastmodified":1466293249,
     "wof:name":"Italdata S P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [14.820302,40.921459,14.820302,40.921459],
+  "bbox": [
+    14.820302,
+    40.921459,
+    14.820302,
+    40.921459
+],
   "geometry": {"coordinates":[14.820302,40.921459],"type":"Point"}
 }

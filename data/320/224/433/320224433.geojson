@@ -2,13 +2,14 @@
   "id": 320224433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.847667,41.208149,14.847667,41.208149",
     "geom:latitude":41.208149,
     "geom:longitude":14.847667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82100 Benevento",
     "sg:city":"Benevento",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320224433,
-    "wof:lastmodified":1449013983,
+    "wof:lastmodified":1466296109,
     "wof:name":"Trotta Riccardo Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.847667,41.208149,14.847667,41.208149],
+  "bbox": [
+    14.847667,
+    41.208149,
+    14.847667,
+    41.208149
+],
   "geometry": {"coordinates":[14.847667,41.208149],"type":"Point"}
 }

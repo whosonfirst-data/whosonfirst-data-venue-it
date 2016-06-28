@@ -2,13 +2,14 @@
   "id": 303426509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.869333,46.171261,9.869333,46.171261",
     "geom:latitude":46.171261,
     "geom:longitude":9.869333,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Statale Stelvio 45 23030 Chiuro",
     "sg:city":"Chiuro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303426509,
-    "wof:lastmodified":1448998635,
+    "wof:lastmodified":1466295765,
     "wof:name":"Mobilificio Botacchi Di Botacchi Gianantonio & Sergio Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [9.869333,46.171261,9.869333,46.171261],
+  "bbox": [
+    9.869333,
+    46.171261,
+    9.869333,
+    46.171261
+],
   "geometry": {"coordinates":[9.869333,46.171261],"type":"Point"}
 }

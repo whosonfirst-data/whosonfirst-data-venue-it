@@ -2,13 +2,14 @@
   "id": 270353599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.570994,45.245483,7.570994,45.245483",
     "geom:latitude":45.245483,
     "geom:longitude":7.570994,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10076 Nole",
     "sg:city":"Nole",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270353599,
-    "wof:lastmodified":1449009305,
+    "wof:lastmodified":1466293304,
     "wof:name":"Bertino Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.570994,45.245483,7.570994,45.245483],
+  "bbox": [
+    7.570994,
+    45.245483,
+    7.570994,
+    45.245483
+],
   "geometry": {"coordinates":[7.570994,45.245483],"type":"Point"}
 }

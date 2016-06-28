@@ -2,13 +2,14 @@
   "id": 186253819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.04403,43.882168,11.04403,43.882168",
     "geom:latitude":43.882168,
     "geom:longitude":11.04403,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sila 40 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186253819,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466290107,
     "wof:name":"Toscoquattro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bathroom"
     ]
 },
-  "bbox": [11.04403,43.882168,11.04403,43.882168],
+  "bbox": [
+    11.04403,
+    43.882168,
+    11.04403,
+    43.882168
+],
   "geometry": {"coordinates":[11.04403,43.882168],"type":"Point"}
 }

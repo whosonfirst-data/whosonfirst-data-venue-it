@@ -2,13 +2,14 @@
   "id": 287309575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.242103,45.407551,11.242103,45.407551",
     "geom:latitude":45.407551,
     "geom:longitude":11.242103,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Corso Unione Sovietica 37038 Soave",
     "sg:city":"Soave",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287309575,
-    "wof:lastmodified":1449000852,
+    "wof:lastmodified":1466293646,
     "wof:name":"Midac S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.242103,45.407551,11.242103,45.407551],
+  "bbox": [
+    11.242103,
+    45.407551,
+    11.242103,
+    45.407551
+],
   "geometry": {"coordinates":[11.242103,45.407551],"type":"Point"}
 }

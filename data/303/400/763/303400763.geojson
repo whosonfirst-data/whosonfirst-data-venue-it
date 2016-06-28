@@ -2,13 +2,14 @@
   "id": 303400763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.241447,40.935978,14.241447,40.935978",
     "geom:latitude":40.935978,
     "geom:longitude":14.241447,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80129 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303400763,
-    "wof:lastmodified":1448998361,
+    "wof:lastmodified":1466295440,
     "wof:name":"Tecnotre Di Ricciardi Raffaele",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.241447,40.935978,14.241447,40.935978],
+  "bbox": [
+    14.241447,
+    40.935978,
+    14.241447,
+    40.935978
+],
   "geometry": {"coordinates":[14.241447,40.935978],"type":"Point"}
 }

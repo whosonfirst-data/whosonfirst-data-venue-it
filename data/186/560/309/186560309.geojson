@@ -2,13 +2,14 @@
   "id": 186560309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.177367,45.456676,9.177367,45.456676",
     "geom:latitude":45.456676,
     "geom:longitude":9.177367,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Conca Del Naviglio 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186560309,
-    "wof:lastmodified":1449052375,
+    "wof:lastmodified":1466292882,
     "wof:name":"Hotel Relais Mercure Milano",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [9.177367,45.456676,9.177367,45.456676],
+  "bbox": [
+    9.177367,
+    45.456676,
+    9.177367,
+    45.456676
+],
   "geometry": {"coordinates":[9.177367,45.456676],"type":"Point"}
 }

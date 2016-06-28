@@ -2,13 +2,14 @@
   "id": 269889429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.62044,44.837894,11.62044,44.837894",
     "geom:latitude":44.837894,
     "geom:longitude":11.62044,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Garibaldi Anita 44042 Cento",
     "sg:city":"Cento",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269889429,
-    "wof:lastmodified":1449036104,
+    "wof:lastmodified":1466294016,
     "wof:name":"A.p.a. Eurocav Soc.coop.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [11.62044,44.837894,11.62044,44.837894],
+  "bbox": [
+    11.62044,
+    44.837894,
+    11.62044,
+    44.837894
+],
   "geometry": {"coordinates":[11.62044,44.837894],"type":"Point"}
 }

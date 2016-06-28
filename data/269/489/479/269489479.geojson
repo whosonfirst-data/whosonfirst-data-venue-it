@@ -2,13 +2,14 @@
   "id": 269489479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196768,45.470261,9.196768,45.470261",
     "geom:latitude":45.470261,
     "geom:longitude":9.196768,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Della Spiga 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269489479,
-    "wof:lastmodified":1449037446,
+    "wof:lastmodified":1466289005,
     "wof:name":"Marianelli Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [9.196768,45.470261,9.196768,45.470261],
+  "bbox": [
+    9.196768,
+    45.470261,
+    9.196768,
+    45.470261
+],
   "geometry": {"coordinates":[9.196768,45.470261],"type":"Point"}
 }

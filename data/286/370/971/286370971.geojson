@@ -2,13 +2,14 @@
   "id": 286370971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.180058,40.944027,14.180058,40.944027",
     "geom:latitude":40.944027,
     "geom:longitude":14.180058,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80014 Giugliano In Campania",
     "sg:city":"Giugliano in Campania",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286370971,
-    "wof:lastmodified":1449016785,
+    "wof:lastmodified":1466290984,
     "wof:name":"Velluto Blu Di Conforto Angelo & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.180058,40.944027,14.180058,40.944027],
+  "bbox": [
+    14.180058,
+    40.944027,
+    14.180058,
+    40.944027
+],
   "geometry": {"coordinates":[14.180058,40.944027],"type":"Point"}
 }

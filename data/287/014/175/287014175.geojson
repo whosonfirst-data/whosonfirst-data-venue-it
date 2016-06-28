@@ -2,13 +2,14 @@
   "id": 287014175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.312167,45.156654,9.312167,45.156654",
     "geom:latitude":45.156654,
     "geom:longitude":9.312167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Trieste 27011 Belgioioso",
     "sg:city":"Belgioioso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287014175,
-    "wof:lastmodified":1449001093,
+    "wof:lastmodified":1466289781,
     "wof:name":"Intimoda Line Di Grugni Sandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [9.312167,45.156654,9.312167,45.156654],
+  "bbox": [
+    9.312167,
+    45.156654,
+    9.312167,
+    45.156654
+],
   "geometry": {"coordinates":[9.312167,45.156654],"type":"Point"}
 }

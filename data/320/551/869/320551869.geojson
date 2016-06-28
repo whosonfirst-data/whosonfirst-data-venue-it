@@ -2,13 +2,14 @@
   "id": 320551869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.253445,44.450401,12.253445,44.450401",
     "geom:latitude":44.450401,
     "geom:longitude":12.253445,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48100 Ravenna",
     "sg:city":"Ravenna",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320551869,
-    "wof:lastmodified":1449012015,
+    "wof:lastmodified":1466297800,
     "wof:name":"Co.m.i.c. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.253445,44.450401,12.253445,44.450401],
+  "bbox": [
+    12.253445,
+    44.450401,
+    12.253445,
+    44.450401
+],
   "geometry": {"coordinates":[12.253445,44.450401],"type":"Point"}
 }

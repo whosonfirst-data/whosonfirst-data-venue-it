@@ -2,13 +2,14 @@
   "id": 303597373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.134671,45.255611,11.134671,45.255611",
     "geom:latitude":45.255611,
     "geom:longitude":11.134671,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37051 Bovolone",
     "sg:city":"Bovolone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303597373,
-    "wof:lastmodified":1449000533,
+    "wof:lastmodified":1466297058,
     "wof:name":"Tarocco Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.134671,45.255611,11.134671,45.255611],
+  "bbox": [
+    11.134671,
+    45.255611,
+    11.134671,
+    45.255611
+],
   "geometry": {"coordinates":[11.134671,45.255611],"type":"Point"}
 }

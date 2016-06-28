@@ -2,13 +2,14 @@
   "id": 186488765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.147249,45.491131,9.147249,45.491131",
     "geom:latitude":45.491131,
     "geom:longitude":9.147249,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20149 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186488765,
-    "wof:lastmodified":1449052973,
+    "wof:lastmodified":1466292175,
     "wof:name":"C.p.s. Di Cesare & Luigi Guffanti Snc",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.147249,45.491131,9.147249,45.491131],
+  "bbox": [
+    9.147249,
+    45.491131,
+    9.147249,
+    45.491131
+],
   "geometry": {"coordinates":[9.147249,45.491131],"type":"Point"}
 }

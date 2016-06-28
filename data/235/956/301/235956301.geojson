@@ -2,13 +2,14 @@
   "id": 235956301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.00296,40.919933,17.00296,40.919933",
     "geom:latitude":40.919933,
     "geom:longitude":17.00296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95, Via Casamassima 70010 Turi",
     "sg:city":"Casamassima",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":235956301,
-    "wof:lastmodified":1449008315,
+    "wof:lastmodified":1466295186,
     "wof:name":"Arre' Formaggi (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [17.00296,40.919933,17.00296,40.919933],
+  "bbox": [
+    17.00296,
+    40.919933,
+    17.00296,
+    40.919933
+],
   "geometry": {"coordinates":[17.00296,40.919933],"type":"Point"}
 }

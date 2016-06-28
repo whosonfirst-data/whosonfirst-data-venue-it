@@ -2,13 +2,14 @@
   "id": 219797679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.839084,45.357407,11.839084,45.357407",
     "geom:latitude":45.357407,
     "geom:longitude":11.839084,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Albignasego",
     "sg:city":"Albignasego",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219797679,
-    "wof:lastmodified":1449073572,
+    "wof:lastmodified":1466294253,
     "wof:name":"V.i.g. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [11.839084,45.357407,11.839084,45.357407],
+  "bbox": [
+    11.839084,
+    45.357407,
+    11.839084,
+    45.357407
+],
   "geometry": {"coordinates":[11.839084,45.357407],"type":"Point"}
 }

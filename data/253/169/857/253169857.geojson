@@ -2,13 +2,14 @@
   "id": 253169857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.365648,42.866741,12.365648,42.866741",
     "geom:latitude":42.866741,
     "geom:longitude":12.365648,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06100 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Acquari Ornamentali Ed Accessori",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":253169857,
-    "wof:lastmodified":1449064639,
+    "wof:lastmodified":1466290688,
     "wof:name":"Pennicchi Enzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.365648,42.866741,12.365648,42.866741],
+  "bbox": [
+    12.365648,
+    42.866741,
+    12.365648,
+    42.866741
+],
   "geometry": {"coordinates":[12.365648,42.866741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185979855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.338672,44.118332,12.338672,44.118332",
     "geom:latitude":44.118332,
     "geom:longitude":12.338672,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Mazzini 121; Gambettola; 47035",
     "sg:city":"Gambettola",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185979855,
-    "wof:lastmodified":1449007734,
+    "wof:lastmodified":1466290631,
     "wof:name":"Cassa Di Risparmio Di Cesena Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.338672,44.118332,12.338672,44.118332],
+  "bbox": [
+    12.338672,
+    44.118332,
+    12.338672,
+    44.118332
+],
   "geometry": {"coordinates":[12.338672,44.118332],"type":"Point"}
 }

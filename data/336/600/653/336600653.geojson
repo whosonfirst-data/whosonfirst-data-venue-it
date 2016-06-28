@@ -2,13 +2,14 @@
   "id": 336600653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.898918,43.690525,10.898918,43.690525",
     "geom:latitude":43.690525,
     "geom:longitude":10.898918,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Medaglie D'oro Della Resistenza 50053 Empoli",
     "sg:city":"Empoli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336600653,
-    "wof:lastmodified":1448997032,
+    "wof:lastmodified":1466293739,
     "wof:name":"Antonini Fosco & Figli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.898918,43.690525,10.898918,43.690525],
+  "bbox": [
+    10.898918,
+    43.690525,
+    10.898918,
+    43.690525
+],
   "geometry": {"coordinates":[10.898918,43.690525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202605865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189357,45.46064,9.189357,45.46064",
     "geom:latitude":45.46064,
     "geom:longitude":9.189357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202605865,
-    "wof:lastmodified":1449061370,
+    "wof:lastmodified":1466290038,
     "wof:name":"Armec - Rappresentanze Marittime Srl",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.189357,45.46064,9.189357,45.46064],
+  "bbox": [
+    9.189357,
+    45.46064,
+    9.189357,
+    45.46064
+],
   "geometry": {"coordinates":[9.189357,45.46064],"type":"Point"}
 }

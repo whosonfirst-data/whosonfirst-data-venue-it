@@ -2,13 +2,14 @@
   "id": 269516371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.006319,45.255554,11.006319,45.255554",
     "geom:latitude":45.255554,
     "geom:longitude":11.006319,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Caduti Sul Lavoro 37063 Isola Della Scala",
     "sg:city":"Isola della Scala",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269516371,
-    "wof:lastmodified":1449036607,
+    "wof:lastmodified":1466289326,
     "wof:name":"Calzaturificio Crimor (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.006319,45.255554,11.006319,45.255554],
+  "bbox": [
+    11.006319,
+    45.255554,
+    11.006319,
+    45.255554
+],
   "geometry": {"coordinates":[11.006319,45.255554],"type":"Point"}
 }

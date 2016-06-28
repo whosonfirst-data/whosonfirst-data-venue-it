@@ -2,13 +2,14 @@
   "id": 336874037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.855018,45.323441,8.855018,45.323441",
     "geom:latitude":45.323441,
     "geom:longitude":8.855018,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brenta 5 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336874037,
-    "wof:lastmodified":1448997944,
+    "wof:lastmodified":1466296619,
     "wof:name":"Bosino Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.855018,45.323441,8.855018,45.323441],
+  "bbox": [
+    8.855018,
+    45.323441,
+    8.855018,
+    45.323441
+],
   "geometry": {"coordinates":[8.855018,45.323441],"type":"Point"}
 }

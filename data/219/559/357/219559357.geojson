@@ -2,13 +2,14 @@
   "id": 219559357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.295667,37.077858,15.295667,37.077858",
     "geom:latitude":37.077858,
     "geom:longitude":15.295667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"96100 Siracusa",
     "sg:city":"Siracusa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219559357,
-    "wof:lastmodified":1449073162,
+    "wof:lastmodified":1466291923,
     "wof:name":"Giudice Cav. Roberto - Ristorante Jonico 'a Rutta 'e Ci\u00c1uli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "restaurants"
     ]
 },
-  "bbox": [15.295667,37.077858,15.295667,37.077858],
+  "bbox": [
+    15.295667,
+    37.077858,
+    15.295667,
+    37.077858
+],
   "geometry": {"coordinates":[15.295667,37.077858],"type":"Point"}
 }

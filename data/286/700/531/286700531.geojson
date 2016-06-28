@@ -2,13 +2,14 @@
   "id": 286700531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.054092,45.773277,9.054092,45.773277",
     "geom:latitude":45.773277,
     "geom:longitude":9.054092,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Madonna 22070 Grandate",
     "sg:city":"Grandate",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286700531,
-    "wof:lastmodified":1449017839,
+    "wof:lastmodified":1466295215,
     "wof:name":"Gini Giuseppe (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [9.054092,45.773277,9.054092,45.773277],
+  "bbox": [
+    9.054092,
+    45.773277,
+    9.054092,
+    45.773277
+],
   "geometry": {"coordinates":[9.054092,45.773277],"type":"Point"}
 }

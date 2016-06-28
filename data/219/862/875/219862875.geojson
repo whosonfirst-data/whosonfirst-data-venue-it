@@ -2,13 +2,14 @@
   "id": 219862875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.161758,45.445721,9.161758,45.445721",
     "geom:latitude":45.445721,
     "geom:longitude":9.161758,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Cesate",
     "sg:city":"Cesate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219862875,
-    "wof:lastmodified":1449074017,
+    "wof:lastmodified":1466294863,
     "wof:name":"Labella Stefano",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.161758,45.445721,9.161758,45.445721],
+  "bbox": [
+    9.161758,
+    45.445721,
+    9.161758,
+    45.445721
+],
   "geometry": {"coordinates":[9.161758,45.445721],"type":"Point"}
 }

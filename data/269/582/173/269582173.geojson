@@ -2,13 +2,14 @@
   "id": 269582173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.704409,40.571369,17.704409,40.571369",
     "geom:latitude":40.571369,
     "geom:longitude":17.704409,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72022 Latiano",
     "sg:city":"Latiano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269582173,
-    "wof:lastmodified":1449037426,
+    "wof:lastmodified":1466290113,
     "wof:name":"Fratelli Crocifisso E Cosimo Madaghiele Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.704409,40.571369,17.704409,40.571369],
+  "bbox": [
+    17.704409,
+    40.571369,
+    17.704409,
+    40.571369
+],
   "geometry": {"coordinates":[17.704409,40.571369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186061571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.491095,41.904896,12.491095,41.904896",
     "geom:latitude":41.904896,
     "geom:longitude":12.491095,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Di S. Nicola Da; Roma",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186061571,
-    "wof:lastmodified":1449052296,
+    "wof:lastmodified":1466295316,
     "wof:name":"Crediop Spa",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.491095,41.904896,12.491095,41.904896],
+  "bbox": [
+    12.491095,
+    41.904896,
+    12.491095,
+    41.904896
+],
   "geometry": {"coordinates":[12.491095,41.904896],"type":"Point"}
 }

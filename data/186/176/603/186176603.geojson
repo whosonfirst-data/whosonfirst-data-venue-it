@@ -2,13 +2,14 @@
   "id": 186176603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.358005,46.496716,11.358005,46.496716",
     "geom:latitude":46.496716,
     "geom:longitude":11.358005,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Unterv\u00f6ls; V\u00f6ls; 39020",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186176603,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1466289456,
     "wof:name":"Raiffeisen Zentralkasse, V\u00f6ls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.358005,46.496716,11.358005,46.496716],
+  "bbox": [
+    11.358005,
+    46.496716,
+    11.358005,
+    46.496716
+],
   "geometry": {"coordinates":[11.358005,46.496716],"type":"Point"}
 }

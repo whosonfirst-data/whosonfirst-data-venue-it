@@ -2,13 +2,14 @@
   "id": 253474841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.486326,44.068729,12.486326,44.068729",
     "geom:latitude":44.068729,
     "geom:longitude":12.486326,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"290, V. Emilia - S. Giustina Di Rimini 47900 Rimini",
     "sg:city":"Rimini",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253474841,
-    "wof:lastmodified":1449062948,
+    "wof:lastmodified":1466294318,
     "wof:name":"Nanni Imballaggi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "transport"
     ]
 },
-  "bbox": [12.486326,44.068729,12.486326,44.068729],
+  "bbox": [
+    12.486326,
+    44.068729,
+    12.486326,
+    44.068729
+],
   "geometry": {"coordinates":[12.486326,44.068729],"type":"Point"}
 }

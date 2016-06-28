@@ -2,13 +2,14 @@
   "id": 287224787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.40204,45.6483,9.40204,45.6483",
     "geom:latitude":45.6483,
     "geom:longitude":9.40204,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Obizzone Da Bernareggio 36 20044 Bernareggio",
     "sg:city":"Bernareggio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287224787,
-    "wof:lastmodified":1449001326,
+    "wof:lastmodified":1466292592,
     "wof:name":"Cantu' Egizio Manifattura S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "elastic"
     ]
 },
-  "bbox": [9.40204,45.6483,9.40204,45.6483],
+  "bbox": [
+    9.40204,
+    45.6483,
+    9.40204,
+    45.6483
+],
   "geometry": {"coordinates":[9.40204,45.6483],"type":"Point"}
 }

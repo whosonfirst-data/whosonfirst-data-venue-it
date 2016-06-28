@@ -2,13 +2,14 @@
   "id": 202496565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.759215,45.645462,13.759215,45.645462",
     "geom:latitude":45.645462,
     "geom:longitude":13.759215,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Riva Grumula 34123 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202496565,
-    "wof:lastmodified":1449062277,
+    "wof:lastmodified":1466296252,
     "wof:name":"Martinoli Mario F. Succ. S.r.l.",
     "wof:parent_id":85900447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sea"
     ]
 },
-  "bbox": [13.759215,45.645462,13.759215,45.645462],
+  "bbox": [
+    13.759215,
+    45.645462,
+    13.759215,
+    45.645462
+],
   "geometry": {"coordinates":[13.759215,45.645462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286695553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.751204,44.742554,11.751204,44.742554",
     "geom:latitude":44.742554,
     "geom:longitude":11.751204,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Piazza Mazzini Giuseppe 44011 Argenta",
     "sg:city":"Argenta",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286695553,
-    "wof:lastmodified":1449016292,
+    "wof:lastmodified":1466295154,
     "wof:name":"Cooperativa Costruttori S R L S.c.arl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [11.751204,44.742554,11.751204,44.742554],
+  "bbox": [
+    11.751204,
+    44.742554,
+    11.751204,
+    44.742554
+],
   "geometry": {"coordinates":[11.751204,44.742554],"type":"Point"}
 }

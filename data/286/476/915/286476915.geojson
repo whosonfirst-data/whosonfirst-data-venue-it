@@ -2,13 +2,14 @@
   "id": 286476915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.955276,43.696712,10.955276,43.696712",
     "geom:latitude":43.696712,
     "geom:longitude":10.955276,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"209, Via Orme 50025 Montespertoli",
     "sg:city":"Montespertoli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286476915,
-    "wof:lastmodified":1449016369,
+    "wof:lastmodified":1466292441,
     "wof:name":"Compagnia Delle Pelli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.955276,43.696712,10.955276,43.696712],
+  "bbox": [
+    10.955276,
+    43.696712,
+    10.955276,
+    43.696712
+],
   "geometry": {"coordinates":[10.955276,43.696712],"type":"Point"}
 }

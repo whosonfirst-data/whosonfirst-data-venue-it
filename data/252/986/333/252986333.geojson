@@ -2,13 +2,14 @@
   "id": 252986333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.63819,45.015007,8.63819,45.015007",
     "geom:latitude":45.015007,
     "geom:longitude":8.63819,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Vl. Manzoni 15048 Valenza",
     "sg:city":"Valenza",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252986333,
-    "wof:lastmodified":1449006296,
+    "wof:lastmodified":1466291921,
     "wof:name":"I Gioielli Di Flora Creazioni Esclusive Di Litta Mauro & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [8.63819,45.015007,8.63819,45.015007],
+  "bbox": [
+    8.63819,
+    45.015007,
+    8.63819,
+    45.015007
+],
   "geometry": {"coordinates":[8.63819,45.015007],"type":"Point"}
 }

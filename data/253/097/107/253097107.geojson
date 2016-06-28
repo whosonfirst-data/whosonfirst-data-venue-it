@@ -2,13 +2,14 @@
   "id": 253097107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.2799,45.527004,9.2799,45.527004",
     "geom:latitude":45.527004,
     "geom:longitude":9.2799,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Santa Margherita 123 20047 Brugherio",
     "sg:city":"Brugherio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253097107,
-    "wof:lastmodified":1449063989,
+    "wof:lastmodified":1466289942,
     "wof:name":"Ape Automazione Srl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.2799,45.527004,9.2799,45.527004],
+  "bbox": [
+    9.2799,
+    45.527004,
+    9.2799,
+    45.527004
+],
   "geometry": {"coordinates":[9.2799,45.527004],"type":"Point"}
 }

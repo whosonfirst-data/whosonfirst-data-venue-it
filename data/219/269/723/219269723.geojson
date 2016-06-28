@@ -2,13 +2,14 @@
   "id": 219269723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.152575,43.772675,11.152575,43.772675",
     "geom:latitude":43.772675,
     "geom:longitude":11.152575,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Pratoni, 9/23 50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219269723,
-    "wof:lastmodified":1449072605,
+    "wof:lastmodified":1466288993,
     "wof:name":"Messeri - Sas",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "item"
     ]
 },
-  "bbox": [11.152575,43.772675,11.152575,43.772675],
+  "bbox": [
+    11.152575,
+    43.772675,
+    11.152575,
+    43.772675
+],
   "geometry": {"coordinates":[11.152575,43.772675],"type":"Point"}
 }

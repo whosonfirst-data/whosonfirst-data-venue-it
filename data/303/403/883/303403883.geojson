@@ -2,13 +2,14 @@
   "id": 303403883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.436081,41.997795,13.436081,41.997795",
     "geom:latitude":41.997795,
     "geom:longitude":13.436081,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67051 Avezzano",
     "sg:classifiers":[],
     "sg:orig_category":"Antifurto",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303403883,
-    "wof:lastmodified":1449000219,
+    "wof:lastmodified":1466295480,
     "wof:name":"Metropol Istituto Di Sorveglianza Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.436081,41.997795,13.436081,41.997795],
+  "bbox": [
+    13.436081,
+    41.997795,
+    13.436081,
+    41.997795
+],
   "geometry": {"coordinates":[13.436081,41.997795],"type":"Point"}
 }

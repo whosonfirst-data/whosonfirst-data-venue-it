@@ -2,13 +2,14 @@
   "id": 220030237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.523623,39.111198,8.523623,39.111198",
     "geom:latitude":39.111198,
     "geom:longitude":8.523623,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09010 San Giovanni Suergiu",
     "sg:classifiers":[],
     "sg:orig_category":"Imprese Di Costruzioni Civili Ed Industriali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220030237,
-    "wof:lastmodified":1449074323,
+    "wof:lastmodified":1466294784,
     "wof:name":"Sel.com.costruzioni Di Carboni Gianni Gianni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.523623,39.111198,8.523623,39.111198],
+  "bbox": [
+    8.523623,
+    39.111198,
+    8.523623,
+    39.111198
+],
   "geometry": {"coordinates":[8.523623,39.111198],"type":"Point"}
 }

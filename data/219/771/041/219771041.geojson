@@ -2,13 +2,14 @@
   "id": 219771041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.096596,45.441242,9.096596,45.441242",
     "geom:latitude":45.441242,
     "geom:longitude":9.096596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, V. Milano 20090 Cesano Boscone",
     "sg:city":"Cesano Boscone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219771041,
-    "wof:lastmodified":1449072291,
+    "wof:lastmodified":1466293988,
     "wof:name":"Scatto Traslochi Snc",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "road"
     ]
 },
-  "bbox": [9.096596,45.441242,9.096596,45.441242],
+  "bbox": [
+    9.096596,
+    45.441242,
+    9.096596,
+    45.441242
+],
   "geometry": {"coordinates":[9.096596,45.441242],"type":"Point"}
 }

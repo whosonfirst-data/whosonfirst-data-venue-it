@@ -2,13 +2,14 @@
   "id": 287271407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.362181,44.810371,10.362181,44.810371",
     "geom:latitude":44.810371,
     "geom:longitude":10.362181,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93, V. Mantova 43100 Parma",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287271407,
-    "wof:lastmodified":1449001132,
+    "wof:lastmodified":1466293191,
     "wof:name":"El.pro.m. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.362181,44.810371,10.362181,44.810371],
+  "bbox": [
+    10.362181,
+    44.810371,
+    10.362181,
+    44.810371
+],
   "geometry": {"coordinates":[10.362181,44.810371],"type":"Point"}
 }

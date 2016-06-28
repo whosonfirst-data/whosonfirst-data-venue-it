@@ -2,13 +2,14 @@
   "id": 320613533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.332093,45.615002,11.332093,45.615002",
     "geom:latitude":45.615002,
     "geom:longitude":11.332093,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Maglio Di Sopra , 19/21 36073 Cornedo Vicentino",
     "sg:city":"Cornedo Vicentino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320613533,
-    "wof:lastmodified":1449012993,
+    "wof:lastmodified":1466297827,
     "wof:name":"Marmi 3 Esse Di Pasetto Maria & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "marble"
     ]
 },
-  "bbox": [11.332093,45.615002,11.332093,45.615002],
+  "bbox": [
+    11.332093,
+    45.615002,
+    11.332093,
+    45.615002
+],
   "geometry": {"coordinates":[11.332093,45.615002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270318543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.115243,45.53413,9.115243,45.53413",
     "geom:latitude":45.53413,
     "geom:longitude":9.115243,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20021 Bollate",
     "sg:city":"Bollate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270318543,
-    "wof:lastmodified":1449009156,
+    "wof:lastmodified":1466292856,
     "wof:name":"Satec Srl",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.115243,45.53413,9.115243,45.53413],
+  "bbox": [
+    9.115243,
+    45.53413,
+    9.115243,
+    45.53413
+],
   "geometry": {"coordinates":[9.115243,45.53413],"type":"Point"}
 }

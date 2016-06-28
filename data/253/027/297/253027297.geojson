@@ -2,13 +2,14 @@
   "id": 253027297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.841619,45.411221,11.841619,45.411221",
     "geom:latitude":45.411221,
     "geom:longitude":11.841619,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35030 Rubano",
     "sg:city":"Rubano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253027297,
-    "wof:lastmodified":1449063366,
+    "wof:lastmodified":1466289198,
     "wof:name":"Plastar Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.841619,45.411221,11.841619,45.411221],
+  "bbox": [
+    11.841619,
+    45.411221,
+    11.841619,
+    45.411221
+],
   "geometry": {"coordinates":[11.841619,45.411221],"type":"Point"}
 }

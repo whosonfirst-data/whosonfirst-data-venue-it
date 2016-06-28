@@ -2,13 +2,14 @@
   "id": 185625565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.379131,44.118275,11.379131,44.118275",
     "geom:latitude":44.118275,
     "geom:longitude":11.379131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Villani 13, 50033 Firenzuola, Fi",
     "sg:city":"Firenzuola",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185625565,
-    "wof:lastmodified":1449008242,
+    "wof:lastmodified":1466294273,
     "wof:name":"Banca Del Mugello Credito Cooperativo Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.379131,44.118275,11.379131,44.118275],
+  "bbox": [
+    11.379131,
+    44.118275,
+    11.379131,
+    44.118275
+],
   "geometry": {"coordinates":[11.379131,44.118275],"type":"Point"}
 }

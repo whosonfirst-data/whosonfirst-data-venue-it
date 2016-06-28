@@ -2,13 +2,14 @@
   "id": 270290423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.800962,45.494076,10.800962,45.494076",
     "geom:latitude":45.494076,
     "geom:longitude":10.800962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37010 Pastrengo",
     "sg:city":"Pastrengo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270290423,
-    "wof:lastmodified":1449009687,
+    "wof:lastmodified":1466292485,
     "wof:name":"Smurfit Packaging Italia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.800962,45.494076,10.800962,45.494076],
+  "bbox": [
+    10.800962,
+    45.494076,
+    10.800962,
+    45.494076
+],
   "geometry": {"coordinates":[10.800962,45.494076],"type":"Point"}
 }

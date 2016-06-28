@@ -2,13 +2,14 @@
   "id": 236317971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.114841,45.551849,10.114841,45.551849",
     "geom:latitude":45.551849,
     "geom:longitude":10.114841,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25045 Castegnato",
     "sg:city":"Castegnato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236317971,
-    "wof:lastmodified":1449003104,
+    "wof:lastmodified":1466292122,
     "wof:name":"Il Mercatino Dell'usato 'la Serenissima' Di Galli Graziella E C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.114841,45.551849,10.114841,45.551849],
+  "bbox": [
+    10.114841,
+    45.551849,
+    10.114841,
+    45.551849
+],
   "geometry": {"coordinates":[10.114841,45.551849],"type":"Point"}
 }

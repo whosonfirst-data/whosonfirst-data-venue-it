@@ -2,13 +2,14 @@
   "id": 253201857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.803463,45.689388,9.803463,45.689388",
     "geom:latitude":45.689388,
     "geom:longitude":9.803463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24060 San Paolo D'argon",
     "sg:classifiers":[],
     "sg:orig_category":"Officine Meccaniche",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253201857,
-    "wof:lastmodified":1449065378,
+    "wof:lastmodified":1466291003,
     "wof:name":"O.3.m. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.803463,45.689388,9.803463,45.689388],
+  "bbox": [
+    9.803463,
+    45.689388,
+    9.803463,
+    45.689388
+],
   "geometry": {"coordinates":[9.803463,45.689388],"type":"Point"}
 }

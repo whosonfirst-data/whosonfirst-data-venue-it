@@ -2,13 +2,14 @@
   "id": 252967025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.469876,45.679184,11.469876,45.679184",
     "geom:latitude":45.679184,
     "geom:longitude":11.469876,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell'astronautica 12 36016 Thiene",
     "sg:city":"Thiene",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252967025,
-    "wof:lastmodified":1449006432,
+    "wof:lastmodified":1466291728,
     "wof:name":"Daisy Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.469876,45.679184,11.469876,45.679184],
+  "bbox": [
+    11.469876,
+    45.679184,
+    11.469876,
+    45.679184
+],
   "geometry": {"coordinates":[11.469876,45.679184],"type":"Point"}
 }

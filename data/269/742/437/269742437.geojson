@@ -2,13 +2,14 @@
   "id": 269742437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.969066,44.405029,8.969066,44.405029",
     "geom:latitude":44.405029,
     "geom:longitude":8.969066,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16131 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269742437,
-    "wof:lastmodified":1449036308,
+    "wof:lastmodified":1466292311,
     "wof:name":"B.m.a. Di Giorgio Tani",
     "wof:parent_id":85862645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.969066,44.405029,8.969066,44.405029],
+  "bbox": [
+    8.969066,
+    44.405029,
+    8.969066,
+    44.405029
+],
   "geometry": {"coordinates":[8.969066,44.405029],"type":"Point"}
 }

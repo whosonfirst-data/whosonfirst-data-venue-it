@@ -2,13 +2,14 @@
   "id": 186055629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.886,45.918995,10.886,45.918995",
     "geom:latitude":45.918995,
     "geom:longitude":10.886,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Marchetti, 6; Arco; 38062",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186055629,
-    "wof:lastmodified":1449051000,
+    "wof:lastmodified":1466295158,
     "wof:name":"Casse Rurali Di Arco",
     "wof:parent_id":85900359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.886,45.918995,10.886,45.918995],
+  "bbox": [
+    10.886,
+    45.918995,
+    10.886,
+    45.918995
+],
   "geometry": {"coordinates":[10.886,45.918995],"type":"Point"}
 }

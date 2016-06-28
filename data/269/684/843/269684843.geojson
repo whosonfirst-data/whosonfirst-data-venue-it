@@ -2,13 +2,14 @@
   "id": 269684843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.156653,45.467911,9.156653,45.467911",
     "geom:latitude":45.467911,
     "geom:longitude":9.156653,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Piazza Wagner Riccardo 20145 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269684843,
-    "wof:lastmodified":1449036746,
+    "wof:lastmodified":1466291452,
     "wof:name":"Media & Service International (s.r.l.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [9.156653,45.467911,9.156653,45.467911],
+  "bbox": [
+    9.156653,
+    45.467911,
+    9.156653,
+    45.467911
+],
   "geometry": {"coordinates":[9.156653,45.467911],"type":"Point"}
 }

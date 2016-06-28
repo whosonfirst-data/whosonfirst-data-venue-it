@@ -2,13 +2,14 @@
   "id": 320580211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.327353,44.808823,10.327353,44.808823",
     "geom:latitude":44.808823,
     "geom:longitude":10.327353,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43052 Colorno",
     "sg:city":"Colorno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320580211,
-    "wof:lastmodified":1449013784,
+    "wof:lastmodified":1466297740,
     "wof:name":"Prefabbricati Parma Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.327353,44.808823,10.327353,44.808823],
+  "bbox": [
+    10.327353,
+    44.808823,
+    10.327353,
+    44.808823
+],
   "geometry": {"coordinates":[10.327353,44.808823],"type":"Point"}
 }

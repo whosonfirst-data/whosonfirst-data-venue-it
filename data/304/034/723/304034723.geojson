@@ -2,13 +2,14 @@
   "id": 304034723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.903307,45.324089,11.903307,45.324089",
     "geom:latitude":45.324089,
     "geom:longitude":11.903307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35139 Padova",
     "sg:city":"Padova",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304034723,
-    "wof:lastmodified":1449043626,
+    "wof:lastmodified":1466292625,
     "wof:name":"A.i.s.p.a.l. (lingua E Cultura Spagnola E Portoghese)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.903307,45.324089,11.903307,45.324089],
+  "bbox": [
+    11.903307,
+    45.324089,
+    11.903307,
+    45.324089
+],
   "geometry": {"coordinates":[11.903307,45.324089],"type":"Point"}
 }

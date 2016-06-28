@@ -2,13 +2,14 @@
   "id": 203201495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.760665,46.309719,10.760665,46.309719",
     "geom:latitude":46.309719,
     "geom:longitude":10.760665,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38020 Pellizzano",
     "sg:city":"Pellizzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203201495,
-    "wof:lastmodified":1449026608,
+    "wof:lastmodified":1466289879,
     "wof:name":"Adonaj 2 R Snc Di Ruffini Roberto & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.760665,46.309719,10.760665,46.309719],
+  "bbox": [
+    10.760665,
+    46.309719,
+    10.760665,
+    46.309719
+],
   "geometry": {"coordinates":[10.760665,46.309719],"type":"Point"}
 }

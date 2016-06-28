@@ -2,13 +2,14 @@
   "id": 287210231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171116,45.458805,9.171116,45.458805",
     "geom:latitude":45.458805,
     "geom:longitude":9.171116,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287210231,
-    "wof:lastmodified":1449000957,
+    "wof:lastmodified":1466292386,
     "wof:name":"Iperspazio Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171116,45.458805,9.171116,45.458805],
+  "bbox": [
+    9.171116,
+    45.458805,
+    9.171116,
+    45.458805
+],
   "geometry": {"coordinates":[9.171116,45.458805],"type":"Point"}
 }

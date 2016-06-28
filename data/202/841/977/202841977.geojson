@@ -2,13 +2,14 @@
   "id": 202841977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.036697,38.895,-77.036697,38.895",
     "geom:latitude":38.895,
     "geom:longitude":-77.036697,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20073 Codogno",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Industria Chimica. Trattamenti Termici E Superficiali Metalli, Galvanotecnica",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202841977,
-    "wof:lastmodified":1449060651,
+    "wof:lastmodified":1466292629,
     "wof:name":"L.g.c. Snc",
     "wof:parent_id":85838397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.036697,38.895,-77.036697,38.895],
+  "bbox": [
+    -77.036697,
+    38.895,
+    -77.036697,
+    38.895
+],
   "geometry": {"coordinates":[-77.036697,38.895],"type":"Point"}
 }

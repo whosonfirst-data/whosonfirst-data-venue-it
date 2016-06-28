@@ -2,13 +2,14 @@
   "id": 235976023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.621852,45.406078,9.621852,45.406078",
     "geom:latitude":45.406078,
     "geom:longitude":9.621852,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Viale Alcide De Gasperi 26017 Trescore Cremasco",
     "sg:city":"Trescore Cremasco",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235976023,
-    "wof:lastmodified":1449008398,
+    "wof:lastmodified":1466296326,
     "wof:name":"Pozzali Industrie Alimentari (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [9.621852,45.406078,9.621852,45.406078],
+  "bbox": [
+    9.621852,
+    45.406078,
+    9.621852,
+    45.406078
+],
   "geometry": {"coordinates":[9.621852,45.406078],"type":"Point"}
 }

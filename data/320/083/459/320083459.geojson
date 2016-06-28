@@ -2,13 +2,14 @@
   "id": 320083459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.617934,44.900726,8.617934,44.900726",
     "geom:latitude":44.900726,
     "geom:longitude":8.617934,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15100 Alessandria",
     "sg:city":"Alessandria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320083459,
-    "wof:lastmodified":1449013030,
+    "wof:lastmodified":1466294425,
     "wof:name":"Max Kober (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.617934,44.900726,8.617934,44.900726],
+  "bbox": [
+    8.617934,
+    44.900726,
+    8.617934,
+    44.900726
+],
   "geometry": {"coordinates":[8.617934,44.900726],"type":"Point"}
 }

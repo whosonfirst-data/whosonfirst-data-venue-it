@@ -2,13 +2,14 @@
   "id": 287075525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.456262,43.300747,13.456262,43.300747",
     "geom:latitude":43.300747,
     "geom:longitude":13.456262,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Zona Ind. A 62012 Civitanova Marche",
     "sg:city":"Civitanova Marche",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287075525,
-    "wof:lastmodified":1449001156,
+    "wof:lastmodified":1466290599,
     "wof:name":"Trans Word Shipping S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [13.456262,43.300747,13.456262,43.300747],
+  "bbox": [
+    13.456262,
+    43.300747,
+    13.456262,
+    43.300747
+],
   "geometry": {"coordinates":[13.456262,43.300747],"type":"Point"}
 }

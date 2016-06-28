@@ -2,13 +2,14 @@
   "id": 319896519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.615947,45.645271,9.615947,45.645271",
     "geom:latitude":45.645271,
     "geom:longitude":9.615947,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24044 Dalmine",
     "sg:city":"Dalmine",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319896519,
-    "wof:lastmodified":1449024362,
+    "wof:lastmodified":1466293518,
     "wof:name":"Minipack - Torre Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.615947,45.645271,9.615947,45.645271],
+  "bbox": [
+    9.615947,
+    45.645271,
+    9.615947,
+    45.645271
+],
   "geometry": {"coordinates":[9.615947,45.645271],"type":"Point"}
 }

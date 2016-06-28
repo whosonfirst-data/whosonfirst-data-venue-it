@@ -2,13 +2,14 @@
   "id": 219440501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.015553,42.043144,13.015553,42.043144",
     "geom:latitude":42.043144,
     "geom:longitude":13.015553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00023 Arsoli",
     "sg:city":"Arsoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219440501,
-    "wof:lastmodified":1449071642,
+    "wof:lastmodified":1466290764,
     "wof:name":"Crisci Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.015553,42.043144,13.015553,42.043144],
+  "bbox": [
+    13.015553,
+    42.043144,
+    13.015553,
+    42.043144
+],
   "geometry": {"coordinates":[13.015553,42.043144],"type":"Point"}
 }

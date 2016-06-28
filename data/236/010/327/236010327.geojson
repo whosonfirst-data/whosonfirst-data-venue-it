@@ -2,13 +2,14 @@
   "id": 236010327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62579,45.080112,7.62579,45.080112",
     "geom:latitude":45.080112,
     "geom:longitude":7.62579,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10146 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236010327,
-    "wof:lastmodified":1449003758,
+    "wof:lastmodified":1466288990,
     "wof:name":"D & D Image Corporation Di Vulpio Donato",
     "wof:parent_id":85859509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [7.62579,45.080112,7.62579,45.080112],
+  "bbox": [
+    7.62579,
+    45.080112,
+    7.62579,
+    45.080112
+],
   "geometry": {"coordinates":[7.62579,45.080112],"type":"Point"}
 }

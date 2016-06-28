@@ -2,13 +2,14 @@
   "id": 303688379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.510129,41.544685,13.510129,41.544685",
     "geom:latitude":41.544685,
     "geom:longitude":13.510129,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03026 Pofi",
     "sg:city":"Pofi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303688379,
-    "wof:lastmodified":1448999030,
+    "wof:lastmodified":1466297561,
     "wof:name":"S.m.c. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.510129,41.544685,13.510129,41.544685],
+  "bbox": [
+    13.510129,
+    41.544685,
+    13.510129,
+    41.544685
+],
   "geometry": {"coordinates":[13.510129,41.544685],"type":"Point"}
 }

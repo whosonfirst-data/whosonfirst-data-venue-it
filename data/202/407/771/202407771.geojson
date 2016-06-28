@@ -2,13 +2,14 @@
   "id": 202407771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.697608,45.089985,7.697608,45.089985",
     "geom:latitude":45.089985,
     "geom:longitude":7.697608,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10154 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202407771,
-    "wof:lastmodified":1449061514,
+    "wof:lastmodified":1466294875,
     "wof:name":"Cappa Daniela",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.697608,45.089985,7.697608,45.089985],
+  "bbox": [
+    7.697608,
+    45.089985,
+    7.697608,
+    45.089985
+],
   "geometry": {"coordinates":[7.697608,45.089985],"type":"Point"}
 }

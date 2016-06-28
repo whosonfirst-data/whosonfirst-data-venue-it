@@ -2,13 +2,14 @@
   "id": 286437865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.161906,42.413677,14.161906,42.413677",
     "geom:latitude":42.413677,
     "geom:longitude":14.161906,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66020 S. Giovanni Teatino",
     "sg:classifiers":[],
     "sg:orig_category":"Climatizzazione E Condizionamento, Apparecchiature E Servizi. Elettrotecnica Professionale E Di Consumo",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286437865,
-    "wof:lastmodified":1449017311,
+    "wof:lastmodified":1466291975,
     "wof:name":"Florindi Arreda Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.161906,42.413677,14.161906,42.413677],
+  "bbox": [
+    14.161906,
+    42.413677,
+    14.161906,
+    42.413677
+],
   "geometry": {"coordinates":[14.161906,42.413677],"type":"Point"}
 }

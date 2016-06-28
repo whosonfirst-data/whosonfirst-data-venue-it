@@ -2,13 +2,14 @@
   "id": 320451947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.594307,42.575836,-82.594307,42.575836",
     "geom:latitude":42.575836,
     "geom:longitude":-82.594307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48028 Voltana",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Industria Alimentare E Bevande",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320451947,
-    "wof:lastmodified":1449012882,
+    "wof:lastmodified":1466297524,
     "wof:name":"Baroncini Edmondo Di Baroncini Serafino & C. (s.n.c.)",
     "wof:parent_id":85842569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.594307,42.575836,-82.594307,42.575836],
+  "bbox": [
+    -82.594307,
+    42.575836,
+    -82.594307,
+    42.575836
+],
   "geometry": {"coordinates":[-82.594307,42.575836],"type":"Point"}
 }

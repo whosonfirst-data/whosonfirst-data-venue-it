@@ -2,13 +2,14 @@
   "id": 203116705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.889294,42.918339,13.889294,42.918339",
     "geom:latitude":42.918339,
     "geom:longitude":13.889294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63039 San Benedetto Del Tronto",
     "sg:city":"San Benedetto del Tronto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203116705,
-    "wof:lastmodified":1449025213,
+    "wof:lastmodified":1466289054,
     "wof:name":"Co.ge.im. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.889294,42.918339,13.889294,42.918339],
+  "bbox": [
+    13.889294,
+    42.918339,
+    13.889294,
+    42.918339
+],
   "geometry": {"coordinates":[13.889294,42.918339],"type":"Point"}
 }

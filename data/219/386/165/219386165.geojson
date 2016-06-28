@@ -2,13 +2,14 @@
   "id": 219386165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.186145,43.538624,12.186145,43.538624",
     "geom:latitude":43.538624,
     "geom:longitude":12.186145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06016 San Giustino",
     "sg:city":"San Giustino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219386165,
-    "wof:lastmodified":1449072238,
+    "wof:lastmodified":1466290195,
     "wof:name":"Cms Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.186145,43.538624,12.186145,43.538624],
+  "bbox": [
+    12.186145,
+    43.538624,
+    12.186145,
+    43.538624
+],
   "geometry": {"coordinates":[12.186145,43.538624],"type":"Point"}
 }

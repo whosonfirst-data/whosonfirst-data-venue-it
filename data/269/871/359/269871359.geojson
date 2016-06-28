@@ -2,13 +2,14 @@
   "id": 269871359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.641843,39.875763,8.641843,39.875763",
     "geom:latitude":39.875763,
     "geom:longitude":8.641843,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Piazza Italia 09092 Arborea",
     "sg:city":"Arborea",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269871359,
-    "wof:lastmodified":1449036926,
+    "wof:lastmodified":1466293829,
     "wof:name":"Societa' Bonifiche Sarde (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [8.641843,39.875763,8.641843,39.875763],
+  "bbox": [
+    8.641843,
+    39.875763,
+    8.641843,
+    39.875763
+],
   "geometry": {"coordinates":[8.641843,39.875763],"type":"Point"}
 }

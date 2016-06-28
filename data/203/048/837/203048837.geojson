@@ -2,13 +2,14 @@
   "id": 203048837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.230824,46.004177,13.230824,46.004177",
     "geom:latitude":46.004177,
     "geom:longitude":13.230824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33050 Pozzuolo Del Friuli",
     "sg:city":"Pozzuolo del Friuli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203048837,
-    "wof:lastmodified":1449025583,
+    "wof:lastmodified":1466295130,
     "wof:name":"Graficad Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.230824,46.004177,13.230824,46.004177],
+  "bbox": [
+    13.230824,
+    46.004177,
+    13.230824,
+    46.004177
+],
   "geometry": {"coordinates":[13.230824,46.004177],"type":"Point"}
 }

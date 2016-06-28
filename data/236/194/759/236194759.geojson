@@ -2,13 +2,14 @@
   "id": 236194759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.207305,45.474594,9.207305,45.474594",
     "geom:latitude":45.474594,
     "geom:longitude":9.207305,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20030 Seveso",
     "sg:city":"Seveso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236194759,
-    "wof:lastmodified":1449004672,
+    "wof:lastmodified":1466290821,
     "wof:name":"Peppo Sub - Gorla Silvia",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.207305,45.474594,9.207305,45.474594],
+  "bbox": [
+    9.207305,
+    45.474594,
+    9.207305,
+    45.474594
+],
   "geometry": {"coordinates":[9.207305,45.474594],"type":"Point"}
 }

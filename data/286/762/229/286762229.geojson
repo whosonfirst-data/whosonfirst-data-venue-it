@@ -2,13 +2,14 @@
   "id": 286762229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.390733,45.996265,13.390733,45.996265",
     "geom:latitude":45.996265,
     "geom:longitude":13.390733,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cividale 45 33044 Manzano",
     "sg:city":"Manzano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286762229,
-    "wof:lastmodified":1449017264,
+    "wof:lastmodified":1466296008,
     "wof:name":"S.i.c.e.a. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "table"
     ]
 },
-  "bbox": [13.390733,45.996265,13.390733,45.996265],
+  "bbox": [
+    13.390733,
+    45.996265,
+    13.390733,
+    45.996265
+],
   "geometry": {"coordinates":[13.390733,45.996265],"type":"Point"}
 }

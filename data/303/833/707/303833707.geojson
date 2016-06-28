@@ -2,13 +2,14 @@
   "id": 303833707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.787295,45.772945,8.787295,45.772945",
     "geom:latitude":45.772945,
     "geom:longitude":8.787295,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21022 Azzate",
     "sg:city":"Azzate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303833707,
-    "wof:lastmodified":1448998434,
+    "wof:lastmodified":1466297899,
     "wof:name":"Arti Grafiche Tibiletti Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.787295,45.772945,8.787295,45.772945],
+  "bbox": [
+    8.787295,
+    45.772945,
+    8.787295,
+    45.772945
+],
   "geometry": {"coordinates":[8.787295,45.772945],"type":"Point"}
 }

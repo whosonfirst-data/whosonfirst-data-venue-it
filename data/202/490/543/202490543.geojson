@@ -2,13 +2,14 @@
   "id": 202490543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.702097,41.173946,16.702097,41.173946",
     "geom:latitude":41.173946,
     "geom:longitude":16.702097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70054 Giovinazzo",
     "sg:city":"Giovinazzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202490543,
-    "wof:lastmodified":1449062387,
+    "wof:lastmodified":1466296235,
     "wof:name":"Bonvino Vito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.702097,41.173946,16.702097,41.173946],
+  "bbox": [
+    16.702097,
+    41.173946,
+    16.702097,
+    41.173946
+],
   "geometry": {"coordinates":[16.702097,41.173946],"type":"Point"}
 }

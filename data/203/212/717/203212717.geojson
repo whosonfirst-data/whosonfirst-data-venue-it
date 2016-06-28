@@ -2,13 +2,14 @@
   "id": 203212717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.318796,45.451305,12.318796,45.451305",
     "geom:latitude":45.451305,
     "geom:longitude":12.318796,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30121 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203212717,
-    "wof:lastmodified":1449026200,
+    "wof:lastmodified":1466290010,
     "wof:name":"Metropolis Spa - Gruppo Fs",
     "wof:parent_id":85905013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.318796,45.451305,12.318796,45.451305],
+  "bbox": [
+    12.318796,
+    45.451305,
+    12.318796,
+    45.451305
+],
   "geometry": {"coordinates":[12.318796,45.451305],"type":"Point"}
 }

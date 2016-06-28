@@ -2,13 +2,14 @@
   "id": 253349673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.555161,45.785385,12.555161,45.785385",
     "geom:latitude":45.785385,
     "geom:longitude":12.555161,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"49, Via Postumia Centro 31040 Gorgo Al Monticano",
     "sg:city":"Gorgo al Monticano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253349673,
-    "wof:lastmodified":1449063955,
+    "wof:lastmodified":1466292847,
     "wof:name":"Alta S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [12.555161,45.785385,12.555161,45.785385],
+  "bbox": [
+    12.555161,
+    45.785385,
+    12.555161,
+    45.785385
+],
   "geometry": {"coordinates":[12.555161,45.785385],"type":"Point"}
 }

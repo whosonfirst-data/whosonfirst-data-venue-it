@@ -2,13 +2,14 @@
   "id": 253626589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.078274,43.900497,11.078274,43.900497",
     "geom:latitude":43.900497,
     "geom:longitude":11.078274,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59100 Prato",
     "sg:city":"Narnali",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253626589,
-    "wof:lastmodified":1449065809,
+    "wof:lastmodified":1466296267,
     "wof:name":"Lanificio Bartolini Sestilio Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.078274,43.900497,11.078274,43.900497],
+  "bbox": [
+    11.078274,
+    43.900497,
+    11.078274,
+    43.900497
+],
   "geometry": {"coordinates":[11.078274,43.900497],"type":"Point"}
 }

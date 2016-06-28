@@ -2,13 +2,14 @@
   "id": 320176385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.590398,45.373867,9.590398,45.373867",
     "geom:latitude":45.373867,
     "geom:longitude":9.590398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26010 Vaiano Cremasco",
     "sg:city":"Vaiano Cremasco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320176385,
-    "wof:lastmodified":1449013707,
+    "wof:lastmodified":1466295520,
     "wof:name":"C.m.r. Di Ce' Ettore (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.590398,45.373867,9.590398,45.373867],
+  "bbox": [
+    9.590398,
+    45.373867,
+    9.590398,
+    45.373867
+],
   "geometry": {"coordinates":[9.590398,45.373867],"type":"Point"}
 }

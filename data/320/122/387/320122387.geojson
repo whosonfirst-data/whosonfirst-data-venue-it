@@ -2,13 +2,14 @@
   "id": 320122387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.636133,45.168049,7.636133,45.168049",
     "geom:latitude":45.168049,
     "geom:longitude":7.636133,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10072 Caselle Torinese",
     "sg:city":"Caselle Torinese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320122387,
-    "wof:lastmodified":1449013378,
+    "wof:lastmodified":1466294883,
     "wof:name":"Rm. Gru S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.636133,45.168049,7.636133,45.168049],
+  "bbox": [
+    7.636133,
+    45.168049,
+    7.636133,
+    45.168049
+],
   "geometry": {"coordinates":[7.636133,45.168049],"type":"Point"}
 }

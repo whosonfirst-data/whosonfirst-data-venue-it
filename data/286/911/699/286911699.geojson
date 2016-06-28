@@ -2,13 +2,14 @@
   "id": 286911699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.185728,42.487942,14.185728,42.487942",
     "geom:latitude":42.487942,
     "geom:longitude":14.185728,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65123 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286911699,
-    "wof:lastmodified":1449017628,
+    "wof:lastmodified":1466297144,
     "wof:name":"Il Mio Tecnico I.m.t. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.185728,42.487942,14.185728,42.487942],
+  "bbox": [
+    14.185728,
+    42.487942,
+    14.185728,
+    42.487942
+],
   "geometry": {"coordinates":[14.185728,42.487942],"type":"Point"}
 }

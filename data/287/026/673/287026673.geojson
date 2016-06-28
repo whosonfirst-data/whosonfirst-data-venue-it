@@ -2,13 +2,14 @@
   "id": 287026673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.07934,43.873207,11.07934,43.873207",
     "geom:latitude":43.873207,
     "geom:longitude":11.07934,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Via Dei Pioppi 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287026673,
-    "wof:lastmodified":1449001192,
+    "wof:lastmodified":1466289926,
     "wof:name":"Texmoda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.07934,43.873207,11.07934,43.873207],
+  "bbox": [
+    11.07934,
+    43.873207,
+    11.07934,
+    43.873207
+],
   "geometry": {"coordinates":[11.07934,43.873207],"type":"Point"}
 }

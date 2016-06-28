@@ -2,13 +2,14 @@
   "id": 236509655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.25491,43.770248,11.25491,43.770248",
     "geom:latitude":43.770248,
     "geom:longitude":11.25491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Porta Rossa 9 50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236509655,
-    "wof:lastmodified":1449001779,
+    "wof:lastmodified":1466294168,
     "wof:name":"Lito Terrazzi Srl",
     "wof:parent_id":85904707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hot-film"
     ]
 },
-  "bbox": [11.25491,43.770248,11.25491,43.770248],
+  "bbox": [
+    11.25491,
+    43.770248,
+    11.25491,
+    43.770248
+],
   "geometry": {"coordinates":[11.25491,43.770248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270073999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.153892,45.589317,10.153892,45.589317",
     "geom:latitude":45.589317,
     "geom:longitude":10.153892,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25050 Rodengo Saiano",
     "sg:classifiers":[],
     "sg:orig_category":"Calzature, Pelletterie E Pelli",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270073999,
-    "wof:lastmodified":1449008985,
+    "wof:lastmodified":1466289867,
     "wof:name":"Scaratti Gianluigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.153892,45.589317,10.153892,45.589317],
+  "bbox": [
+    10.153892,
+    45.589317,
+    10.153892,
+    45.589317
+],
   "geometry": {"coordinates":[10.153892,45.589317],"type":"Point"}
 }

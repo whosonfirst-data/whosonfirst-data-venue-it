@@ -2,13 +2,14 @@
   "id": 253250537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.849329,41.102955,16.849329,41.102955",
     "geom:latitude":41.102955,
     "geom:longitude":16.849329,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70124 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253250537,
-    "wof:lastmodified":1449064510,
+    "wof:lastmodified":1466291574,
     "wof:name":"Casa Di Cura Torrebella",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.849329,41.102955,16.849329,41.102955],
+  "bbox": [
+    16.849329,
+    41.102955,
+    16.849329,
+    41.102955
+],
   "geometry": {"coordinates":[16.849329,41.102955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286637761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.827972,42.098301,13.827972,42.098301",
     "geom:latitude":42.098301,
     "geom:longitude":13.827972,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67027 Raiano",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286637761,
-    "wof:lastmodified":1449015171,
+    "wof:lastmodified":1466294400,
     "wof:name":"Little Africa Of Tulliani Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [13.827972,42.098301,13.827972,42.098301],
+  "bbox": [
+    13.827972,
+    42.098301,
+    13.827972,
+    42.098301
+],
   "geometry": {"coordinates":[13.827972,42.098301],"type":"Point"}
 }

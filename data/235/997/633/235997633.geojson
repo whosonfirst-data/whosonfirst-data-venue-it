@@ -2,13 +2,14 @@
   "id": 235997633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.02809,44.912247,8.02809,44.912247",
     "geom:latitude":44.912247,
     "geom:longitude":8.02809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada S. Rocco 28 14018 Villafranca D'asti",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235997633,
-    "wof:lastmodified":1449008542,
+    "wof:lastmodified":1466296098,
     "wof:name":"Nobil Metal Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentistry"
     ]
 },
-  "bbox": [8.02809,44.912247,8.02809,44.912247],
+  "bbox": [
+    8.02809,
+    44.912247,
+    8.02809,
+    44.912247
+],
   "geometry": {"coordinates":[8.02809,44.912247],"type":"Point"}
 }

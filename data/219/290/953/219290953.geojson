@@ -2,13 +2,14 @@
   "id": 219290953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.329548,44.807865,10.329548,44.807865",
     "geom:latitude":44.807865,
     "geom:longitude":10.329548,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nicola Bettoli 5 43038 Sala Baganza",
     "sg:city":"Sala Baganza",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219290953,
-    "wof:lastmodified":1449071906,
+    "wof:lastmodified":1466289208,
     "wof:name":"Etecno 1 S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "spare"
     ]
 },
-  "bbox": [10.329548,44.807865,10.329548,44.807865],
+  "bbox": [
+    10.329548,
+    44.807865,
+    10.329548,
+    44.807865
+],
   "geometry": {"coordinates":[10.329548,44.807865],"type":"Point"}
 }

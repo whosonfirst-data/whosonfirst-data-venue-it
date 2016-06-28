@@ -2,13 +2,14 @@
   "id": 336746213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.729594,45.651608,9.729594,45.651608",
     "geom:latitude":45.651608,
     "geom:longitude":9.729594,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Via Lungo Serio 24050 Grassobbio",
     "sg:city":"Grassobbio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336746213,
-    "wof:lastmodified":1448996908,
+    "wof:lastmodified":1466295469,
     "wof:name":"Otefal S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.729594,45.651608,9.729594,45.651608],
+  "bbox": [
+    9.729594,
+    45.651608,
+    9.729594,
+    45.651608
+],
   "geometry": {"coordinates":[9.729594,45.651608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269708705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.30067,43.777184,11.30067,43.777184",
     "geom:latitude":43.777184,
     "geom:longitude":11.30067,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50135 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269708705,
-    "wof:lastmodified":1449036525,
+    "wof:lastmodified":1466291774,
     "wof:name":"Flo.me.co.",
     "wof:parent_id":85904655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.30067,43.777184,11.30067,43.777184],
+  "bbox": [
+    11.30067,
+    43.777184,
+    11.30067,
+    43.777184
+],
   "geometry": {"coordinates":[11.30067,43.777184],"type":"Point"}
 }

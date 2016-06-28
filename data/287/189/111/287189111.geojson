@@ -2,13 +2,14 @@
   "id": 287189111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.520237,44.433193,11.520237,44.433193",
     "geom:latitude":44.433193,
     "geom:longitude":11.520237,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Friuli, 1/3 40060 Osteria Grande",
     "sg:city":"Osteria Grande",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287189111,
-    "wof:lastmodified":1449001307,
+    "wof:lastmodified":1466292103,
     "wof:name":"Ilpo Divisione Integrali Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "easy"
     ]
 },
-  "bbox": [11.520237,44.433193,11.520237,44.433193],
+  "bbox": [
+    11.520237,
+    44.433193,
+    11.520237,
+    44.433193
+],
   "geometry": {"coordinates":[11.520237,44.433193],"type":"Point"}
 }

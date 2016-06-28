@@ -2,13 +2,14 @@
   "id": 253523561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.579253,42.853371,13.579253,42.853371",
     "geom:latitude":42.853371,
     "geom:longitude":13.579253,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63014 Montegranaro",
     "sg:city":"Montegranaro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253523561,
-    "wof:lastmodified":1449064535,
+    "wof:lastmodified":1466294916,
     "wof:name":"Calzaturificio Almas Di Testatonda Eraldo Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "costume"
     ]
 },
-  "bbox": [13.579253,42.853371,13.579253,42.853371],
+  "bbox": [
+    13.579253,
+    42.853371,
+    13.579253,
+    42.853371
+],
   "geometry": {"coordinates":[13.579253,42.853371],"type":"Point"}
 }

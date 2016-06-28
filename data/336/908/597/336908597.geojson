@@ -2,13 +2,14 @@
   "id": 336908597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.331337,45.825966,13.331337,45.825966",
     "geom:latitude":45.825966,
     "geom:longitude":13.331337,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33052 Cervignano Del Friuli",
     "sg:city":"Cervignano del Friuli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336908597,
-    "wof:lastmodified":1448997550,
+    "wof:lastmodified":1466297126,
     "wof:name":"Capone Dr. Massimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [13.331337,45.825966,13.331337,45.825966],
+  "bbox": [
+    13.331337,
+    45.825966,
+    13.331337,
+    45.825966
+],
   "geometry": {"coordinates":[13.331337,45.825966],"type":"Point"}
 }

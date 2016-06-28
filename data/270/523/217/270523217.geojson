@@ -2,13 +2,14 @@
   "id": 270523217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.15084,45.574875,9.15084,45.574875",
     "geom:latitude":45.574875,
     "geom:longitude":9.15084,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Via Magretti 20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270523217,
-    "wof:lastmodified":1449010067,
+    "wof:lastmodified":1466295351,
     "wof:name":"Hichem Srl",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.15084,45.574875,9.15084,45.574875],
+  "bbox": [
+    9.15084,
+    45.574875,
+    9.15084,
+    45.574875
+],
   "geometry": {"coordinates":[9.15084,45.574875],"type":"Point"}
 }

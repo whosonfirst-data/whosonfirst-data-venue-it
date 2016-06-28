@@ -2,13 +2,14 @@
   "id": 253584833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.250108,40.928349,14.250108,40.928349",
     "geom:latitude":40.928349,
     "geom:longitude":14.250108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marinaro 47 80025 Casandrino",
     "sg:city":"Casandrino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253584833,
-    "wof:lastmodified":1449063137,
+    "wof:lastmodified":1466295759,
     "wof:name":"D.a. Srl",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dress"
     ]
 },
-  "bbox": [14.250108,40.928349,14.250108,40.928349],
+  "bbox": [
+    14.250108,
+    40.928349,
+    14.250108,
+    40.928349
+],
   "geometry": {"coordinates":[14.250108,40.928349],"type":"Point"}
 }

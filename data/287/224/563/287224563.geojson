@@ -2,13 +2,14 @@
   "id": 287224563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.955616,45.351402,11.955616,45.351402",
     "geom:latitude":45.351402,
     "geom:longitude":11.955616,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Dell' Industria,16/ 18/ 20 35028 Piove Di Sacco",
     "sg:city":"Piove di Sacco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287224563,
-    "wof:lastmodified":1449001325,
+    "wof:lastmodified":1466292590,
     "wof:name":"Corafil Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elastic"
     ]
 },
-  "bbox": [11.955616,45.351402,11.955616,45.351402],
+  "bbox": [
+    11.955616,
+    45.351402,
+    11.955616,
+    45.351402
+],
   "geometry": {"coordinates":[11.955616,45.351402],"type":"Point"}
 }

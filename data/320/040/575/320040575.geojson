@@ -2,13 +2,14 @@
   "id": 320040575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.373414,43.540184,13.373414,43.540184",
     "geom:latitude":43.540184,
     "geom:longitude":13.373414,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60020 Agugliano",
     "sg:city":"Agugliano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320040575,
-    "wof:lastmodified":1449014856,
+    "wof:lastmodified":1466293899,
     "wof:name":"Dierre Di Gatti & Catalani Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.373414,43.540184,13.373414,43.540184],
+  "bbox": [
+    13.373414,
+    43.540184,
+    13.373414,
+    43.540184
+],
   "geometry": {"coordinates":[13.373414,43.540184],"type":"Point"}
 }

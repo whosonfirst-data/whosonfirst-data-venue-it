@@ -2,13 +2,14 @@
   "id": 303486175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.396122,45.975975,13.396122,45.975975",
     "geom:latitude":45.975975,
     "geom:longitude":13.396122,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33048 San Giovanni Natisone",
     "sg:classifiers":[],
     "sg:orig_category":"Apparecchiature E Sistemi Per Magazzinaggio E Movimentazione. Servizi Di Magazzinaggio E Movimentazione",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303486175,
-    "wof:lastmodified":1448999484,
+    "wof:lastmodified":1466296362,
     "wof:name":"Car-express Di Cantarutti Sandra & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.396122,45.975975,13.396122,45.975975],
+  "bbox": [
+    13.396122,
+    45.975975,
+    13.396122,
+    45.975975
+],
   "geometry": {"coordinates":[13.396122,45.975975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269723203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228837,45.487923,9.228837,45.487923",
     "geom:latitude":45.487923,
     "geom:longitude":9.228837,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269723203,
-    "wof:lastmodified":1449037550,
+    "wof:lastmodified":1466292001,
     "wof:name":"Trade Marketing S.r.l.",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.228837,45.487923,9.228837,45.487923],
+  "bbox": [
+    9.228837,
+    45.487923,
+    9.228837,
+    45.487923
+],
   "geometry": {"coordinates":[9.228837,45.487923],"type":"Point"}
 }

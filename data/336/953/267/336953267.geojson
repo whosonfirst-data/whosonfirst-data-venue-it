@@ -2,13 +2,14 @@
   "id": 336953267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.438993,41.868732,12.438993,41.868732",
     "geom:latitude":41.868732,
     "geom:longitude":12.438993,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00151 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336953267,
-    "wof:lastmodified":1448997673,
+    "wof:lastmodified":1466297271,
     "wof:name":"Lentini Massimo",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.438993,41.868732,12.438993,41.868732],
+  "bbox": [
+    12.438993,
+    41.868732,
+    12.438993,
+    41.868732
+],
   "geometry": {"coordinates":[12.438993,41.868732],"type":"Point"}
 }

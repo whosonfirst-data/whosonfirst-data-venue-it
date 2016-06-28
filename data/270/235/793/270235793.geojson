@@ -2,13 +2,14 @@
   "id": 270235793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.28588,45.684937,12.28588,45.684937",
     "geom:latitude":45.684937,
     "geom:longitude":12.28588,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31030 Carbonera",
     "sg:city":"Carbonera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270235793,
-    "wof:lastmodified":1449009060,
+    "wof:lastmodified":1466291844,
     "wof:name":"Cavarzerani Engineering Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.28588,45.684937,12.28588,45.684937],
+  "bbox": [
+    12.28588,
+    45.684937,
+    12.28588,
+    45.684937
+],
   "geometry": {"coordinates":[12.28588,45.684937],"type":"Point"}
 }

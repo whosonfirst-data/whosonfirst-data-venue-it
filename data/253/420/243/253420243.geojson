@@ -2,13 +2,14 @@
   "id": 253420243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.517776,40.77071,14.517776,40.77071",
     "geom:latitude":40.77071,
     "geom:longitude":14.517776,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Aquino 133 84018 Scafati",
     "sg:city":"Scafati",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253420243,
-    "wof:lastmodified":1449064238,
+    "wof:lastmodified":1466293630,
     "wof:name":"Centro Guanti Sud Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "glove"
     ]
 },
-  "bbox": [14.517776,40.77071,14.517776,40.77071],
+  "bbox": [
+    14.517776,
+    40.77071,
+    14.517776,
+    40.77071
+],
   "geometry": {"coordinates":[14.517776,40.77071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303256653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.485417,43.01368,12.485417,43.01368",
     "geom:latitude":43.01368,
     "geom:longitude":12.485417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06080 Bettona",
     "sg:classifiers":[],
     "sg:orig_category":"Enoteche E Vendita Vini",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303256653,
-    "wof:lastmodified":1448999979,
+    "wof:lastmodified":1466293694,
     "wof:name":"Cantina Soc.coop.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.485417,43.01368,12.485417,43.01368],
+  "bbox": [
+    12.485417,
+    43.01368,
+    12.485417,
+    43.01368
+],
   "geometry": {"coordinates":[12.485417,43.01368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319854437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.810444,43.688148,12.810444,43.688148",
     "geom:latitude":43.688148,
     "geom:longitude":12.810444,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61034 Fossombrone",
     "sg:city":"Fossombrone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319854437,
-    "wof:lastmodified":1449024850,
+    "wof:lastmodified":1466292912,
     "wof:name":"Baldelli Autolinee Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.810444,43.688148,12.810444,43.688148],
+  "bbox": [
+    12.810444,
+    43.688148,
+    12.810444,
+    43.688148
+],
   "geometry": {"coordinates":[12.810444,43.688148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304070225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.249615,40.148136,18.249615,40.148136",
     "geom:latitude":40.148136,
     "geom:longitude":18.249615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73022 Corigliano D'otranto",
     "sg:classifiers":[],
     "sg:orig_category":"Attrezzature Meccaniche",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304070225,
-    "wof:lastmodified":1449043836,
+    "wof:lastmodified":1466293119,
     "wof:name":"Vergallo Macchine Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.249615,40.148136,18.249615,40.148136],
+  "bbox": [
+    18.249615,
+    40.148136,
+    18.249615,
+    40.148136
+],
   "geometry": {"coordinates":[18.249615,40.148136],"type":"Point"}
 }

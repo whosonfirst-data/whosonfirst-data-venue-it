@@ -2,13 +2,14 @@
   "id": 219626737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.583004,45.075863,7.583004,45.075863",
     "geom:latitude":45.075863,
     "geom:longitude":7.583004,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10093 Collegno",
     "sg:city":"Collegno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219626737,
-    "wof:lastmodified":1449073919,
+    "wof:lastmodified":1466292563,
     "wof:name":"Ricamificio Malu' Snc",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.583004,45.075863,7.583004,45.075863],
+  "bbox": [
+    7.583004,
+    45.075863,
+    7.583004,
+    45.075863
+],
   "geometry": {"coordinates":[7.583004,45.075863],"type":"Point"}
 }

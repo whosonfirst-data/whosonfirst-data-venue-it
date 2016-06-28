@@ -2,13 +2,14 @@
   "id": 236608357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.598753,45.073505,7.598753,45.073505",
     "geom:latitude":45.073505,
     "geom:longitude":7.598753,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65, Corso Francia 10093 Collegno",
     "sg:city":"Collegno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236608357,
-    "wof:lastmodified":1449002997,
+    "wof:lastmodified":1466295094,
     "wof:name":"La Bottega Dei Fiori (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [7.598753,45.073505,7.598753,45.073505],
+  "bbox": [
+    7.598753,
+    45.073505,
+    7.598753,
+    45.073505
+],
   "geometry": {"coordinates":[7.598753,45.073505],"type":"Point"}
 }

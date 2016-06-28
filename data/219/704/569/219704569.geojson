@@ -2,13 +2,14 @@
   "id": 219704569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.343527,44.311646,12.343527,44.311646",
     "geom:latitude":44.311646,
     "geom:longitude":12.343527,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48100 Ravenna",
     "sg:city":"Lido di Savio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219704569,
-    "wof:lastmodified":1449071321,
+    "wof:lastmodified":1466293338,
     "wof:name":"Hotel Souvenir - Ma.sa. Di Spera Antonio & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.343527,44.311646,12.343527,44.311646],
+  "bbox": [
+    12.343527,
+    44.311646,
+    12.343527,
+    44.311646
+],
   "geometry": {"coordinates":[12.343527,44.311646],"type":"Point"}
 }

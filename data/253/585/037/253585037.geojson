@@ -2,13 +2,14 @@
   "id": 253585037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.482939,40.629292,14.482939,40.629292",
     "geom:latitude":40.629292,
     "geom:longitude":14.482939,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pasitea 323 84017 Positano",
     "sg:city":"Positano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253585037,
-    "wof:lastmodified":1449064810,
+    "wof:lastmodified":1466295762,
     "wof:name":"Calu' S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dress"
     ]
 },
-  "bbox": [14.482939,40.629292,14.482939,40.629292],
+  "bbox": [
+    14.482939,
+    40.629292,
+    14.482939,
+    40.629292
+],
   "geometry": {"coordinates":[14.482939,40.629292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287152995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.226629,45.47937,9.226629,45.47937",
     "geom:latitude":45.47937,
     "geom:longitude":9.226629,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Roncello",
     "sg:city":"Roncello",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287152995,
-    "wof:lastmodified":1449001351,
+    "wof:lastmodified":1466291622,
     "wof:name":"Metalvuoto Pack Spa",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.226629,45.47937,9.226629,45.47937],
+  "bbox": [
+    9.226629,
+    45.47937,
+    9.226629,
+    45.47937
+],
   "geometry": {"coordinates":[9.226629,45.47937],"type":"Point"}
 }

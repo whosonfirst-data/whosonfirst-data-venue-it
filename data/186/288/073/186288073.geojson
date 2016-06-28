@@ -2,13 +2,14 @@
   "id": 186288073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.923767,42.7467,13.923767,42.7467",
     "geom:latitude":42.7467,
     "geom:longitude":13.923767,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64021 Giulianova",
     "sg:city":"Giulianova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186288073,
-    "wof:lastmodified":1449050527,
+    "wof:lastmodified":1466290395,
     "wof:name":"Dario D'angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.923767,42.7467,13.923767,42.7467],
+  "bbox": [
+    13.923767,
+    42.7467,
+    13.923767,
+    42.7467
+],
   "geometry": {"coordinates":[13.923767,42.7467],"type":"Point"}
 }

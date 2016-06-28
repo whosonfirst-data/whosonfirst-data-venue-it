@@ -2,13 +2,14 @@
   "id": 270227267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.718691,44.502781,8.718691,44.502781",
     "geom:latitude":44.502781,
     "geom:longitude":8.718691,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Romitorio 125 16010 Masone",
     "sg:city":"Masone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270227267,
-    "wof:lastmodified":1449009154,
+    "wof:lastmodified":1466291751,
     "wof:name":"Francesco Baretto Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supraregional"
     ]
 },
-  "bbox": [8.718691,44.502781,8.718691,44.502781],
+  "bbox": [
+    8.718691,
+    44.502781,
+    8.718691,
+    44.502781
+],
   "geometry": {"coordinates":[8.718691,44.502781],"type":"Point"}
 }

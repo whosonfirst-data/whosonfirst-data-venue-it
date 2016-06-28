@@ -2,13 +2,14 @@
   "id": 252997499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.641898,45.014847,8.641898,45.014847",
     "geom:latitude":45.014847,
     "geom:longitude":8.641898,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Largo Costituzione Della Repubblica 15048 Valenza",
     "sg:city":"Valenza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252997499,
-    "wof:lastmodified":1449006322,
+    "wof:lastmodified":1466292033,
     "wof:name":"Raselli Franco S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [8.641898,45.014847,8.641898,45.014847],
+  "bbox": [
+    8.641898,
+    45.014847,
+    8.641898,
+    45.014847
+],
   "geometry": {"coordinates":[8.641898,45.014847],"type":"Point"}
 }

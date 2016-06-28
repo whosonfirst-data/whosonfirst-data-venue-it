@@ -2,13 +2,14 @@
   "id": 186515053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.173349,45.469009,9.173349,45.469009",
     "geom:latitude":45.469009,
     "geom:longitude":9.173349,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Leopardi Giacomo 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186515053,
-    "wof:lastmodified":1449051022,
+    "wof:lastmodified":1466292441,
     "wof:name":"Inlingua Business Center Leopardi Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [9.173349,45.469009,9.173349,45.469009],
+  "bbox": [
+    9.173349,
+    45.469009,
+    9.173349,
+    45.469009
+],
   "geometry": {"coordinates":[9.173349,45.469009],"type":"Point"}
 }

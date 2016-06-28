@@ -2,13 +2,14 @@
   "id": 219388817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.274365,40.919872,14.274365,40.919872",
     "geom:latitude":40.919872,
     "geom:longitude":14.274365,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"C.so Salvatore D' Amato, 71/73 80022 Arzano",
     "sg:city":"Arzano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219388817,
-    "wof:lastmodified":1449070504,
+    "wof:lastmodified":1466290222,
     "wof:name":"Rotomeccanica Incisioni Spa",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.274365,40.919872,14.274365,40.919872],
+  "bbox": [
+    14.274365,
+    40.919872,
+    14.274365,
+    40.919872
+],
   "geometry": {"coordinates":[14.274365,40.919872],"type":"Point"}
 }

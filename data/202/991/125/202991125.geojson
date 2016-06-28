@@ -2,13 +2,14 @@
   "id": 202991125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.304752,44.569912,11.304752,44.569912",
     "geom:latitude":44.569912,
     "geom:longitude":11.304752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40012 Longara",
     "sg:city":"Longara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202991125,
-    "wof:lastmodified":1449060907,
+    "wof:lastmodified":1466294082,
     "wof:name":"Veronesi Paolino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.304752,44.569912,11.304752,44.569912],
+  "bbox": [
+    11.304752,
+    44.569912,
+    11.304752,
+    44.569912
+],
   "geometry": {"coordinates":[11.304752,44.569912],"type":"Point"}
 }

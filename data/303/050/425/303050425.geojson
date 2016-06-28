@@ -2,13 +2,14 @@
   "id": 303050425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.514294,45.358032,11.514294,45.358032",
     "geom:latitude":45.358032,
     "geom:longitude":11.514294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Circonvallazione 36040 Sossano",
     "sg:city":"Sossano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303050425,
-    "wof:lastmodified":1448999468,
+    "wof:lastmodified":1466290985,
     "wof:name":"Aba Profili Di Tognoni Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.514294,45.358032,11.514294,45.358032],
+  "bbox": [
+    11.514294,
+    45.358032,
+    11.514294,
+    45.358032
+],
   "geometry": {"coordinates":[11.514294,45.358032],"type":"Point"}
 }

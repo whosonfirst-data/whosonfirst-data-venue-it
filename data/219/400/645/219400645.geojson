@@ -2,13 +2,14 @@
   "id": 219400645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.891984,44.882286,10.891984,44.882286",
     "geom:latitude":44.882286,
     "geom:longitude":10.891984,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41016 Novi Di Modena",
     "sg:city":"Novi di Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219400645,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466290351,
     "wof:name":"Stireria Biemme Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.891984,44.882286,10.891984,44.882286],
+  "bbox": [
+    10.891984,
+    44.882286,
+    10.891984,
+    44.882286
+],
   "geometry": {"coordinates":[10.891984,44.882286],"type":"Point"}
 }

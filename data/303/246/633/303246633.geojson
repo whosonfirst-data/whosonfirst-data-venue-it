@@ -2,13 +2,14 @@
   "id": 303246633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.587491,45.05204,7.587491,45.05204",
     "geom:latitude":45.05204,
     "geom:longitude":7.587491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"127, Corso Allamano Canonico Giuseppe 10098 Rivoli",
     "sg:city":"Rivoli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303246633,
-    "wof:lastmodified":1448998287,
+    "wof:lastmodified":1466293565,
     "wof:name":"Licat (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [7.587491,45.05204,7.587491,45.05204],
+  "bbox": [
+    7.587491,
+    45.05204,
+    7.587491,
+    45.05204
+],
   "geometry": {"coordinates":[7.587491,45.05204],"type":"Point"}
 }

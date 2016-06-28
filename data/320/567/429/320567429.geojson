@@ -2,13 +2,14 @@
   "id": 320567429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.562161,45.584728,9.562161,45.584728",
     "geom:latitude":45.584728,
     "geom:longitude":9.562161,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24046 Osio Sotto",
     "sg:city":"Osio Sotto",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320567429,
-    "wof:lastmodified":1449014997,
+    "wof:lastmodified":1466297648,
     "wof:name":"L'arte Funeraria Monumenti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.562161,45.584728,9.562161,45.584728],
+  "bbox": [
+    9.562161,
+    45.584728,
+    9.562161,
+    45.584728
+],
   "geometry": {"coordinates":[9.562161,45.584728],"type":"Point"}
 }

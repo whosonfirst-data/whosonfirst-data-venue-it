@@ -2,13 +2,14 @@
   "id": 219215035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.276228,44.397907,8.276228,44.397907",
     "geom:latitude":44.397907,
     "geom:longitude":8.276228,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17014 Cairo Montenotte",
     "sg:city":"Cairo Montenotte",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219215035,
-    "wof:lastmodified":1449073313,
+    "wof:lastmodified":1466296320,
     "wof:name":"Pianeta Ragazzi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.276228,44.397907,8.276228,44.397907],
+  "bbox": [
+    8.276228,
+    44.397907,
+    8.276228,
+    44.397907
+],
   "geometry": {"coordinates":[8.276228,44.397907],"type":"Point"}
 }

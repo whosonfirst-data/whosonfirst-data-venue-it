@@ -2,13 +2,14 @@
   "id": 236619223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.177175,45.547115,10.177175,45.547115",
     "geom:latitude":45.547115,
     "geom:longitude":10.177175,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Badia 25060 Cellatica",
     "sg:city":"Cellatica",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236619223,
-    "wof:lastmodified":1449002119,
+    "wof:lastmodified":1466295189,
     "wof:name":"Marinoni Di Marinoni A. E C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [10.177175,45.547115,10.177175,45.547115],
+  "bbox": [
+    10.177175,
+    45.547115,
+    10.177175,
+    45.547115
+],
   "geometry": {"coordinates":[10.177175,45.547115],"type":"Point"}
 }

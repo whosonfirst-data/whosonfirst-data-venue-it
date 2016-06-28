@@ -2,13 +2,14 @@
   "id": 186322695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.378105,40.904522,14.378105,40.904522",
     "geom:latitude":40.904522,
     "geom:longitude":14.378105,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80038 Pomigliano D'arco",
     "sg:classifiers":[],
     "sg:orig_category":"Bevande, Vini E Liquori. Servizi E Lavori Per Industria Alimentare E Bevande",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186322695,
-    "wof:lastmodified":1449050216,
+    "wof:lastmodified":1466290684,
     "wof:name":"Distillerie Romano & C. S.a.s.",
     "wof:parent_id":85904803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.378105,40.904522,14.378105,40.904522],
+  "bbox": [
+    14.378105,
+    40.904522,
+    14.378105,
+    40.904522
+],
   "geometry": {"coordinates":[14.378105,40.904522],"type":"Point"}
 }

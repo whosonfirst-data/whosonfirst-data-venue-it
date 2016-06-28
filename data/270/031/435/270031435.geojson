@@ -2,13 +2,14 @@
   "id": 270031435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.159122,45.545933,9.159122,45.545933",
     "geom:latitude":45.545933,
     "geom:longitude":9.159122,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270031435,
-    "wof:lastmodified":1449009549,
+    "wof:lastmodified":1466289362,
     "wof:name":"M.g. Di Menab\u00d2 Guerrino",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.159122,45.545933,9.159122,45.545933],
+  "bbox": [
+    9.159122,
+    45.545933,
+    9.159122,
+    45.545933
+],
   "geometry": {"coordinates":[9.159122,45.545933],"type":"Point"}
 }

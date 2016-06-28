@@ -2,13 +2,14 @@
   "id": 219351117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.212565,45.505871,12.212565,45.505871",
     "geom:latitude":45.505871,
     "geom:longitude":12.212565,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30174 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219351117,
-    "wof:lastmodified":1449073380,
+    "wof:lastmodified":1466289817,
     "wof:name":"Aqualand Due S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "il"
     ]
 },
-  "bbox": [12.212565,45.505871,12.212565,45.505871],
+  "bbox": [
+    12.212565,
+    45.505871,
+    12.212565,
+    45.505871
+],
   "geometry": {"coordinates":[12.212565,45.505871],"type":"Point"}
 }

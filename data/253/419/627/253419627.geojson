@@ -2,13 +2,14 @@
   "id": 253419627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.849822,45.593246,8.849822,45.593246",
     "geom:latitude":45.593246,
     "geom:longitude":8.849822,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bovio 23 21052 Busto Arsizio",
     "sg:city":"Busto Arsizio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253419627,
-    "wof:lastmodified":1449065754,
+    "wof:lastmodified":1466293623,
     "wof:name":"Flem Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "knitted"
     ]
 },
-  "bbox": [8.849822,45.593246,8.849822,45.593246],
+  "bbox": [
+    8.849822,
+    45.593246,
+    8.849822,
+    45.593246
+],
   "geometry": {"coordinates":[8.849822,45.593246],"type":"Point"}
 }

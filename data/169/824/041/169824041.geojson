@@ -2,13 +2,14 @@
   "id": 169824041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.194003,45.476551,9.194003,45.476551",
     "geom:latitude":45.476551,
     "geom:longitude":9.194003,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, V. Manigli 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169824041,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1466289004,
     "wof:name":"Studio Associato L.c.a.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [9.194003,45.476551,9.194003,45.476551],
+  "bbox": [
+    9.194003,
+    45.476551,
+    9.194003,
+    45.476551
+],
   "geometry": {"coordinates":[9.194003,45.476551],"type":"Point"}
 }

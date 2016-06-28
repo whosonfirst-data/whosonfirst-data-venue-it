@@ -2,13 +2,14 @@
   "id": 270142283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.278638,40.864918,14.278638,40.864918",
     "geom:latitude":40.864918,
     "geom:longitude":14.278638,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80141 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270142283,
-    "wof:lastmodified":1449010574,
+    "wof:lastmodified":1466290682,
     "wof:name":"Pelletteria Serretiello Claudio",
     "wof:parent_id":85904837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.278638,40.864918,14.278638,40.864918],
+  "bbox": [
+    14.278638,
+    40.864918,
+    14.278638,
+    40.864918
+],
   "geometry": {"coordinates":[14.278638,40.864918],"type":"Point"}
 }

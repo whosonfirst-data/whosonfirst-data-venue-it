@@ -2,13 +2,14 @@
   "id": 202431275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.516816,41.875332,12.516816,41.875332",
     "geom:latitude":41.875332,
     "geom:longitude":12.516816,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00179 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202431275,
-    "wof:lastmodified":1449060451,
+    "wof:lastmodified":1466295381,
     "wof:name":"Di.li.eu. Diffusione Lingue Europee Snc Di Quaranta Francesca",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.516816,41.875332,12.516816,41.875332],
+  "bbox": [
+    12.516816,
+    41.875332,
+    12.516816,
+    41.875332
+],
   "geometry": {"coordinates":[12.516816,41.875332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270110157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.284684,45.496082,9.284684,45.496082",
     "geom:latitude":45.496082,
     "geom:longitude":9.284684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Segrate",
     "sg:city":"Segrate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270110157,
-    "wof:lastmodified":1449009438,
+    "wof:lastmodified":1466290313,
     "wof:name":"Angelicchio Michele",
     "wof:parent_id":85796853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.284684,45.496082,9.284684,45.496082],
+  "bbox": [
+    9.284684,
+    45.496082,
+    9.284684,
+    45.496082
+],
   "geometry": {"coordinates":[9.284684,45.496082],"type":"Point"}
 }

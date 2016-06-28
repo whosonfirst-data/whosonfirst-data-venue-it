@@ -2,13 +2,14 @@
   "id": 286340063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.089046,45.430836,9.089046,45.430836",
     "geom:latitude":45.430836,
     "geom:longitude":9.089046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Cesano Boscone",
     "sg:city":"Cesano Boscone",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286340063,
-    "wof:lastmodified":1449017456,
+    "wof:lastmodified":1466290558,
     "wof:name":"Ykk Italia Spa",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.089046,45.430836,9.089046,45.430836],
+  "bbox": [
+    9.089046,
+    45.430836,
+    9.089046,
+    45.430836
+],
   "geometry": {"coordinates":[9.089046,45.430836],"type":"Point"}
 }

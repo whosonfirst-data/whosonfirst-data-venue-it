@@ -2,13 +2,14 @@
   "id": 202585989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.174241,44.070332,8.174241,44.070332",
     "geom:latitude":44.070332,
     "geom:longitude":8.174241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17031 Albenga",
     "sg:city":"Albenga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202585989,
-    "wof:lastmodified":1449061778,
+    "wof:lastmodified":1466289782,
     "wof:name":"Agricontrol Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.174241,44.070332,8.174241,44.070332],
+  "bbox": [
+    8.174241,
+    44.070332,
+    8.174241,
+    44.070332
+],
   "geometry": {"coordinates":[8.174241,44.070332],"type":"Point"}
 }

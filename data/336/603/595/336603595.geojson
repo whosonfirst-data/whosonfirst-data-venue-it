@@ -2,13 +2,14 @@
   "id": 336603595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.646373,45.750477,7.646373,45.750477",
     "geom:latitude":45.750477,
     "geom:longitude":7.646373,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Vuillerminaz 11027 Saint-vincent",
     "sg:city":"Saint-Vincent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336603595,
-    "wof:lastmodified":1448997873,
+    "wof:lastmodified":1466293775,
     "wof:name":"Attrezzature Alberghiere Di Torretta Carlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.646373,45.750477,7.646373,45.750477],
+  "bbox": [
+    7.646373,
+    45.750477,
+    7.646373,
+    45.750477
+],
   "geometry": {"coordinates":[7.646373,45.750477],"type":"Point"}
 }

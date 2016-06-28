@@ -2,13 +2,14 @@
   "id": 286839767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.759151,45.134975,9.759151,45.134975",
     "geom:latitude":45.134975,
     "geom:longitude":9.759151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26846 Corno Giovine",
     "sg:city":"Corno Giovine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286839767,
-    "wof:lastmodified":1449016968,
+    "wof:lastmodified":1466296638,
     "wof:name":"Tansini Ernesto Snc Di Tansini Aurelio E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.759151,45.134975,9.759151,45.134975],
+  "bbox": [
+    9.759151,
+    45.134975,
+    9.759151,
+    45.134975
+],
   "geometry": {"coordinates":[9.759151,45.134975],"type":"Point"}
 }

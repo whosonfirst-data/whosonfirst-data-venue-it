@@ -2,13 +2,14 @@
   "id": 303484655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.008988,37.415855,15.008988,37.415855",
     "geom:latitude":37.415855,
     "geom:longitude":15.008988,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95121 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303484655,
-    "wof:lastmodified":1449000424,
+    "wof:lastmodified":1466296512,
     "wof:name":"Tricomi Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.008988,37.415855,15.008988,37.415855],
+  "bbox": [
+    15.008988,
+    37.415855,
+    15.008988,
+    37.415855
+],
   "geometry": {"coordinates":[15.008988,37.415855],"type":"Point"}
 }

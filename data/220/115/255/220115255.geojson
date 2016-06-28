@@ -2,13 +2,14 @@
   "id": 220115255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.416998,45.230312,10.416998,45.230312",
     "geom:latitude":45.230312,
     "geom:longitude":10.416998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Via Brescia 46041 Asola",
     "sg:city":"Asola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220115255,
-    "wof:lastmodified":1449074051,
+    "wof:lastmodified":1466296072,
     "wof:name":"Mte (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [10.416998,45.230312,10.416998,45.230312],
+  "bbox": [
+    10.416998,
+    45.230312,
+    10.416998,
+    45.230312
+],
   "geometry": {"coordinates":[10.416998,45.230312],"type":"Point"}
 }

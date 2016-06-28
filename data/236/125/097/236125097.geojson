@@ -2,13 +2,14 @@
   "id": 236125097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.151567,45.482761,10.151567,45.482761",
     "geom:latitude":45.482761,
     "geom:longitude":10.151567,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via E. Fermi 17 25020 Flero",
     "sg:city":"Flero",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236125097,
-    "wof:lastmodified":1449005108,
+    "wof:lastmodified":1466290143,
     "wof:name":"Gulliver Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dough"
     ]
 },
-  "bbox": [10.151567,45.482761,10.151567,45.482761],
+  "bbox": [
+    10.151567,
+    45.482761,
+    10.151567,
+    45.482761
+],
   "geometry": {"coordinates":[10.151567,45.482761],"type":"Point"}
 }

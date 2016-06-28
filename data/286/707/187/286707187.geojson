@@ -2,13 +2,14 @@
   "id": 286707187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172655,45.469574,9.172655,45.469574",
     "geom:latitude":45.469574,
     "geom:longitude":9.172655,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Leopardi Giacomo 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286707187,
-    "wof:lastmodified":1449017649,
+    "wof:lastmodified":1466295296,
     "wof:name":"Petrorep Italiana (s.p.a.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [9.172655,45.469574,9.172655,45.469574],
+  "bbox": [
+    9.172655,
+    45.469574,
+    9.172655,
+    45.469574
+],
   "geometry": {"coordinates":[9.172655,45.469574],"type":"Point"}
 }

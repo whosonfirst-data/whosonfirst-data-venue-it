@@ -2,13 +2,14 @@
   "id": 287157325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.685541,41.65929,12.685541,41.65929",
     "geom:latitude":41.65929,
     "geom:longitude":12.685541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00041 Albano Laziale",
     "sg:city":"Albano Laziale",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287157325,
-    "wof:lastmodified":1449001449,
+    "wof:lastmodified":1466291674,
     "wof:name":"P.g.m. Snc Fratelli Ignoto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.685541,41.65929,12.685541,41.65929],
+  "bbox": [
+    12.685541,
+    41.65929,
+    12.685541,
+    41.65929
+],
   "geometry": {"coordinates":[12.685541,41.65929],"type":"Point"}
 }

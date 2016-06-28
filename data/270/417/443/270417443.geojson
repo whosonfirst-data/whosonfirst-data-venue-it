@@ -2,13 +2,14 @@
   "id": 270417443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.812707,44.874043,10.812707,44.874043",
     "geom:latitude":44.874043,
     "geom:longitude":10.812707,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trento 22/24 42042 Fabbrico",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270417443,
-    "wof:lastmodified":1449009647,
+    "wof:lastmodified":1466294107,
     "wof:name":"A. Rovatti & Figli Pompe Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "centrifugal"
     ]
 },
-  "bbox": [10.812707,44.874043,10.812707,44.874043],
+  "bbox": [
+    10.812707,
+    44.874043,
+    10.812707,
+    44.874043
+],
   "geometry": {"coordinates":[10.812707,44.874043],"type":"Point"}
 }

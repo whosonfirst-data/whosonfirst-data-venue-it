@@ -2,13 +2,14 @@
   "id": 220127217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.8845,38.114483,14.8845,38.114483",
     "geom:latitude":38.114483,
     "geom:longitude":14.8845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98060 Sant'angelo Di Brolo",
     "sg:classifiers":[],
     "sg:orig_category":"Informatica - Consulenza E Servizi. Editoria",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220127217,
-    "wof:lastmodified":1449074813,
+    "wof:lastmodified":1466296203,
     "wof:name":"R.s.a. Sas Di Capizzi F. Furnari C. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.8845,38.114483,14.8845,38.114483],
+  "bbox": [
+    14.8845,
+    38.114483,
+    14.8845,
+    38.114483
+],
   "geometry": {"coordinates":[14.8845,38.114483],"type":"Point"}
 }

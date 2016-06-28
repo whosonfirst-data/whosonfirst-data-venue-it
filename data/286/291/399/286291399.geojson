@@ -2,13 +2,14 @@
   "id": 286291399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172624,45.537575,9.172624,45.537575",
     "geom:latitude":45.537575,
     "geom:longitude":9.172624,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Giotto 20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286291399,
-    "wof:lastmodified":1449016091,
+    "wof:lastmodified":1466289823,
     "wof:name":"Byk Gulden Italia S P A",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.172624,45.537575,9.172624,45.537575],
+  "bbox": [
+    9.172624,
+    45.537575,
+    9.172624,
+    45.537575
+],
   "geometry": {"coordinates":[9.172624,45.537575],"type":"Point"}
 }

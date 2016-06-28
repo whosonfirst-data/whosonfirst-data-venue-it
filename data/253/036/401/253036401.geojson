@@ -2,13 +2,14 @@
   "id": 253036401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.238332,40.889206,14.238332,40.889206",
     "geom:latitude":40.889206,
     "geom:longitude":14.238332,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80145 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253036401,
-    "wof:lastmodified":1449063468,
+    "wof:lastmodified":1466289295,
     "wof:name":"Alen 2 Di Bianco Rosa",
     "wof:parent_id":85900415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.238332,40.889206,14.238332,40.889206],
+  "bbox": [
+    14.238332,
+    40.889206,
+    14.238332,
+    40.889206
+],
   "geometry": {"coordinates":[14.238332,40.889206],"type":"Point"}
 }

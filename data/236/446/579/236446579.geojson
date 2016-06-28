@@ -2,13 +2,14 @@
   "id": 236446579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.264495,44.540363,11.264495,44.540363",
     "geom:latitude":44.540363,
     "geom:longitude":11.264495,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19, V. Turrini 40012 Calderara Di Reno",
     "sg:city":"Calderara di Reno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236446579,
-    "wof:lastmodified":1449004910,
+    "wof:lastmodified":1466293489,
     "wof:name":"Servizi Ospedalieri Spa",
     "wof:parent_id":85904561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [11.264495,44.540363,11.264495,44.540363],
+  "bbox": [
+    11.264495,
+    44.540363,
+    11.264495,
+    44.540363
+],
   "geometry": {"coordinates":[11.264495,44.540363],"type":"Point"}
 }

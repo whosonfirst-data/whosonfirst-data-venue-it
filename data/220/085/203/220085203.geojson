@@ -2,13 +2,14 @@
   "id": 220085203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.833807,44.457706,11.833807,44.457706",
     "geom:latitude":44.457706,
     "geom:longitude":11.833807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Damano 1 48024 Massa Lombarda",
     "sg:city":"Massa Lombarda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220085203,
-    "wof:lastmodified":1449074235,
+    "wof:lastmodified":1466295703,
     "wof:name":"Nespak Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "industrial"
     ]
 },
-  "bbox": [11.833807,44.457706,11.833807,44.457706],
+  "bbox": [
+    11.833807,
+    44.457706,
+    11.833807,
+    44.457706
+],
   "geometry": {"coordinates":[11.833807,44.457706],"type":"Point"}
 }

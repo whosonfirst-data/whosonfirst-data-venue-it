@@ -2,13 +2,14 @@
   "id": 286747603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.564936,44.692242,10.564936,44.692242",
     "geom:latitude":44.692242,
     "geom:longitude":10.564936,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via C. Teggi 20 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":286747603,
-    "wof:lastmodified":1449015700,
+    "wof:lastmodified":1466295818,
     "wof:name":"Figliola Giuseppe & Figli Snc Di Figliola Leonardo Ed Angela",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crucifix"
     ]
 },
-  "bbox": [10.564936,44.692242,10.564936,44.692242],
+  "bbox": [
+    10.564936,
+    44.692242,
+    10.564936,
+    44.692242
+],
   "geometry": {"coordinates":[10.564936,44.692242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336945329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.75636,41.792469,12.75636,41.792469",
     "geom:latitude":41.792469,
     "geom:longitude":12.75636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00040 Rocca Priora",
     "sg:city":"Rocca Priora",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336945329,
-    "wof:lastmodified":1448997020,
+    "wof:lastmodified":1466297222,
     "wof:name":"Giovannetti Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.75636,41.792469,12.75636,41.792469],
+  "bbox": [
+    12.75636,
+    41.792469,
+    12.75636,
+    41.792469
+],
   "geometry": {"coordinates":[12.75636,41.792469],"type":"Point"}
 }

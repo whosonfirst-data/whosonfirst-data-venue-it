@@ -2,13 +2,14 @@
   "id": 203199319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.538319,45.611706,9.538319,45.611706",
     "geom:latitude":45.611706,
     "geom:longitude":9.538319,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24042 Capriate San Gervasio",
     "sg:city":"Capriate San Gervasio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203199319,
-    "wof:lastmodified":1449025130,
+    "wof:lastmodified":1466289856,
     "wof:name":"Zonca Di Zonca Armando",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.538319,45.611706,9.538319,45.611706],
+  "bbox": [
+    9.538319,
+    45.611706,
+    9.538319,
+    45.611706
+],
   "geometry": {"coordinates":[9.538319,45.611706],"type":"Point"}
 }

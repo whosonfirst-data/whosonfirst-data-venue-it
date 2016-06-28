@@ -2,13 +2,14 @@
   "id": 202875743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.229906,45.484447,9.229906,45.484447",
     "geom:latitude":45.484447,
     "geom:longitude":9.229906,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202875743,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466292954,
     "wof:name":"Borghi Sara",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.229906,45.484447,9.229906,45.484447],
+  "bbox": [
+    9.229906,
+    45.484447,
+    9.229906,
+    45.484447
+],
   "geometry": {"coordinates":[9.229906,45.484447],"type":"Point"}
 }

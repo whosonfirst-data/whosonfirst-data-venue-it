@@ -2,13 +2,14 @@
   "id": 236222381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.001153,45.112705,10.001153,45.112705",
     "geom:latitude":45.112705,
     "geom:longitude":10.001153,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29010 Castelvetro Piacentino",
     "sg:city":"Castelvetro Piacentino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236222381,
-    "wof:lastmodified":1449003938,
+    "wof:lastmodified":1466291132,
     "wof:name":"C.n. Sas Di Arfini Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.001153,45.112705,10.001153,45.112705],
+  "bbox": [
+    10.001153,
+    45.112705,
+    10.001153,
+    45.112705
+],
   "geometry": {"coordinates":[10.001153,45.112705],"type":"Point"}
 }

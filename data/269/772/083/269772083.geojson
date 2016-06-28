@@ -2,13 +2,14 @@
   "id": 269772083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083626,45.447403,9.083626,45.447403",
     "geom:latitude":45.447403,
     "geom:longitude":9.083626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Cesano Boscone",
     "sg:city":"Cesano Boscone",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269772083,
-    "wof:lastmodified":1449037216,
+    "wof:lastmodified":1466292694,
     "wof:name":"Punto Snai Ippica Ovest",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.083626,45.447403,9.083626,45.447403],
+  "bbox": [
+    9.083626,
+    45.447403,
+    9.083626,
+    45.447403
+],
   "geometry": {"coordinates":[9.083626,45.447403],"type":"Point"}
 }

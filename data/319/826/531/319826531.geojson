@@ -2,13 +2,14 @@
   "id": 319826531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.374834,41.165894,14.374834,41.165894",
     "geom:latitude":41.165894,
     "geom:longitude":14.374834,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81013 Caiazzo",
     "sg:city":"Caiazzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319826531,
-    "wof:lastmodified":1449024653,
+    "wof:lastmodified":1466292562,
     "wof:name":"Veicar Autoveicoli Industriali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.374834,41.165894,14.374834,41.165894],
+  "bbox": [
+    14.374834,
+    41.165894,
+    14.374834,
+    41.165894
+],
   "geometry": {"coordinates":[14.374834,41.165894],"type":"Point"}
 }

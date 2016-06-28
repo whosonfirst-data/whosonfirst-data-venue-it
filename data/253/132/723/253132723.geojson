@@ -2,13 +2,14 @@
   "id": 253132723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189762,45.53289,9.189762,45.53289",
     "geom:latitude":45.53289,
     "geom:longitude":9.189762,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20091 Bresso",
     "sg:city":"Bresso",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253132723,
-    "wof:lastmodified":1449064264,
+    "wof:lastmodified":1466290302,
     "wof:name":"Fongaltogi Di Lanzani Alberto & C. S.n.c.",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.189762,45.53289,9.189762,45.53289],
+  "bbox": [
+    9.189762,
+    45.53289,
+    9.189762,
+    45.53289
+],
   "geometry": {"coordinates":[9.189762,45.53289],"type":"Point"}
 }

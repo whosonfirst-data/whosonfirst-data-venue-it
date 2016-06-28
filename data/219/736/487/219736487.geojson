@@ -2,13 +2,14 @@
   "id": 219736487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.903784,45.373096,10.903784,45.373096",
     "geom:latitude":45.373096,
     "geom:longitude":10.903784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67, Via Dosdega' 37069 Villafranca Di Verona",
     "sg:city":"Villafranca di Verona",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219736487,
-    "wof:lastmodified":1449073868,
+    "wof:lastmodified":1466293640,
     "wof:name":"Boccagni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [10.903784,45.373096,10.903784,45.373096],
+  "bbox": [
+    10.903784,
+    45.373096,
+    10.903784,
+    45.373096
+],
   "geometry": {"coordinates":[10.903784,45.373096],"type":"Point"}
 }

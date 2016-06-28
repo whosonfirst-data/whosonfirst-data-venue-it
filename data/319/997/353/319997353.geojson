@@ -2,13 +2,14 @@
   "id": 319997353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.447904,42.105335,12.447904,42.105335",
     "geom:latitude":42.105335,
     "geom:longitude":12.447904,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319997353,
-    "wof:lastmodified":1449024748,
+    "wof:lastmodified":1466294796,
     "wof:name":"Studio Ing. Ivo Jacobacci & C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.447904,42.105335,12.447904,42.105335],
+  "bbox": [
+    12.447904,
+    42.105335,
+    12.447904,
+    42.105335
+],
   "geometry": {"coordinates":[12.447904,42.105335],"type":"Point"}
 }

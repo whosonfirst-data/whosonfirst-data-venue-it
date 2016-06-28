@@ -2,13 +2,14 @@
   "id": 303730703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18151,45.460911,9.18151,45.460911",
     "geom:latitude":45.460911,
     "geom:longitude":9.18151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303730703,
-    "wof:lastmodified":1449000166,
+    "wof:lastmodified":1466297763,
     "wof:name":"Sanitermica Milanese",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18151,45.460911,9.18151,45.460911],
+  "bbox": [
+    9.18151,
+    45.460911,
+    9.18151,
+    45.460911
+],
   "geometry": {"coordinates":[9.18151,45.460911],"type":"Point"}
 }

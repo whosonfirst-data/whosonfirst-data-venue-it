@@ -2,13 +2,14 @@
   "id": 303302983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.65852,45.150887,7.65852,45.150887",
     "geom:latitude":45.150887,
     "geom:longitude":7.65852,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10071 Borgaro Torinese",
     "sg:city":"Borgaro Torinese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303302983,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1466294258,
     "wof:name":"Linea In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.65852,45.150887,7.65852,45.150887],
+  "bbox": [
+    7.65852,
+    45.150887,
+    7.65852,
+    45.150887
+],
   "geometry": {"coordinates":[7.65852,45.150887],"type":"Point"}
 }

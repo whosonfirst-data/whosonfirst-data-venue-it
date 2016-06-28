@@ -2,13 +2,14 @@
   "id": 236013487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.62889,45.115471,7.62889,45.115471",
     "geom:latitude":45.115471,
     "geom:longitude":7.62889,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10078 Venaria",
     "sg:classifiers":[],
     "sg:orig_category":"Detergenti Industriali",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236013487,
-    "wof:lastmodified":1449003967,
+    "wof:lastmodified":1466289021,
     "wof:name":"Sicly Snc Di Putrino G.l. & C.",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.62889,45.115471,7.62889,45.115471],
+  "bbox": [
+    7.62889,
+    45.115471,
+    7.62889,
+    45.115471
+],
   "geometry": {"coordinates":[7.62889,45.115471],"type":"Point"}
 }

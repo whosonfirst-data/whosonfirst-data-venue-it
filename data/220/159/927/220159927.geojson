@@ -2,13 +2,14 @@
   "id": 220159927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.9845,45.436741,10.9845,45.436741",
     "geom:latitude":45.436741,
     "geom:longitude":10.9845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Carmelitani Scalzi 37122 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220159927,
-    "wof:lastmodified":1449074132,
+    "wof:lastmodified":1466289167,
     "wof:name":"Inforpragma (s.r.l.)",
     "wof:parent_id":85905043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "technology"
     ]
 },
-  "bbox": [10.9845,45.436741,10.9845,45.436741],
+  "bbox": [
+    10.9845,
+    45.436741,
+    10.9845,
+    45.436741
+],
   "geometry": {"coordinates":[10.9845,45.436741],"type":"Point"}
 }

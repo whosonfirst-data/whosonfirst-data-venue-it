@@ -2,13 +2,14 @@
   "id": 303746287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.447502,43.159302,-76.447502,43.159302",
     "geom:latitude":43.159302,
     "geom:longitude":-76.447502,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13137 Genova",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Camera Letto E Complementi",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303746287,
-    "wof:lastmodified":1448998093,
+    "wof:lastmodified":1466297692,
     "wof:name":"Materese Di Materese Raffaele E Franca Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.447502,43.159302,-76.447502,43.159302],
+  "bbox": [
+    -76.447502,
+    43.159302,
+    -76.447502,
+    43.159302
+],
   "geometry": {"coordinates":[-76.447502,43.159302],"type":"Point"}
 }

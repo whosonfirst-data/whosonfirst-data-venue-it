@@ -2,13 +2,14 @@
   "id": 185980909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.037337,44.69976,8.037337,44.69976",
     "geom:latitude":44.69976,
     "geom:longitude":8.037337,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"P V Veneto 5; Alba; 12051",
     "sg:city":"Alba",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185980909,
-    "wof:lastmodified":1449006713,
+    "wof:lastmodified":1466290638,
     "wof:name":"Cassa Di Risparmio Di Cuneo Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.037337,44.69976,8.037337,44.69976],
+  "bbox": [
+    8.037337,
+    44.69976,
+    8.037337,
+    44.69976
+],
   "geometry": {"coordinates":[8.037337,44.69976],"type":"Point"}
 }

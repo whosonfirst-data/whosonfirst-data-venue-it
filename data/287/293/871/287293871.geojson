@@ -2,13 +2,14 @@
   "id": 287293871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.863062,43.471203,11.863062,43.471203",
     "geom:latitude":43.471203,
     "geom:longitude":11.863062,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84, Via Le Ville 52028 Terranuova Bracciolini",
     "sg:city":"Terranuova Bracciolini",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287293871,
-    "wof:lastmodified":1449000837,
+    "wof:lastmodified":1466293464,
     "wof:name":"Cabling Di Vichi Erica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.863062,43.471203,11.863062,43.471203],
+  "bbox": [
+    11.863062,
+    43.471203,
+    11.863062,
+    43.471203
+],
   "geometry": {"coordinates":[11.863062,43.471203],"type":"Point"}
 }

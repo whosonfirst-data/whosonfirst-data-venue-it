@@ -2,13 +2,14 @@
   "id": 303509355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.174741,45.376785,9.174741,45.376785",
     "geom:latitude":45.376785,
     "geom:longitude":9.174741,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Pieve Emanuele",
     "sg:city":"Pieve Emanuele",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303509355,
-    "wof:lastmodified":1448998217,
+    "wof:lastmodified":1466296511,
     "wof:name":"M.s.a. Di Colli Silvano E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.174741,45.376785,9.174741,45.376785],
+  "bbox": [
+    9.174741,
+    45.376785,
+    9.174741,
+    45.376785
+],
   "geometry": {"coordinates":[9.174741,45.376785],"type":"Point"}
 }

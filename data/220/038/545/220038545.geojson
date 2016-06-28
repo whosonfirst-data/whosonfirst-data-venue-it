@@ -2,13 +2,14 @@
   "id": 220038545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.307821,43.059982,12.307821,43.059982",
     "geom:latitude":43.059982,
     "geom:longitude":12.307821,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06034 Foligno",
     "sg:city":"Foligno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220038545,
-    "wof:lastmodified":1449074568,
+    "wof:lastmodified":1466295018,
     "wof:name":"Colombo Centro Costruzioni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.307821,43.059982,12.307821,43.059982],
+  "bbox": [
+    12.307821,
+    43.059982,
+    12.307821,
+    43.059982
+],
   "geometry": {"coordinates":[12.307821,43.059982],"type":"Point"}
 }

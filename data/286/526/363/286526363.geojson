@@ -2,13 +2,14 @@
   "id": 286526363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.705891,42.823635,13.705891,42.823635",
     "geom:latitude":42.823635,
     "geom:longitude":13.705891,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Abruzzi 64016 Sant'egidio Alla Vibrata",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":286526363,
-    "wof:lastmodified":1449016092,
+    "wof:lastmodified":1466293024,
     "wof:name":"Italian Clothing Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [13.705891,42.823635,13.705891,42.823635],
+  "bbox": [
+    13.705891,
+    42.823635,
+    13.705891,
+    42.823635
+],
   "geometry": {"coordinates":[13.705891,42.823635],"type":"Point"}
 }

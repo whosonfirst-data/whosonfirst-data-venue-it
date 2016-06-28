@@ -2,13 +2,14 @@
   "id": 202941751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.045113,45.559654,8.045113,45.559654",
     "geom:latitude":45.559654,
     "geom:longitude":8.045113,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13900 Biella",
     "sg:city":"Biella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202941751,
-    "wof:lastmodified":1449061631,
+    "wof:lastmodified":1466293645,
     "wof:name":"Varale Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.045113,45.559654,8.045113,45.559654],
+  "bbox": [
+    8.045113,
+    45.559654,
+    8.045113,
+    45.559654
+],
   "geometry": {"coordinates":[8.045113,45.559654],"type":"Point"}
 }

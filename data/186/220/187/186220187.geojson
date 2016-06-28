@@ -2,13 +2,14 @@
   "id": 186220187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.530383,45.302185,8.530383,45.302185",
     "geom:latitude":45.302185,
     "geom:longitude":8.530383,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27030 Palestro",
     "sg:city":"Palestro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186220187,
-    "wof:lastmodified":1449052940,
+    "wof:lastmodified":1466289829,
     "wof:name":"Pasticceria Gelateria Caffetteria Delizie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "e"
     ]
 },
-  "bbox": [8.530383,45.302185,8.530383,45.302185],
+  "bbox": [
+    8.530383,
+    45.302185,
+    8.530383,
+    45.302185
+],
   "geometry": {"coordinates":[8.530383,45.302185],"type":"Point"}
 }

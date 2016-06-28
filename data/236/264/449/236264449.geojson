@@ -2,13 +2,14 @@
   "id": 236264449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.936198,45.454601,10.936198,45.454601",
     "geom:latitude":45.454601,
     "geom:longitude":10.936198,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37056 Salizzole",
     "sg:city":"Bionde",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236264449,
-    "wof:lastmodified":1449003867,
+    "wof:lastmodified":1466291571,
     "wof:name":"Campi Martino",
     "wof:parent_id":85905029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.936198,45.454601,10.936198,45.454601],
+  "bbox": [
+    10.936198,
+    45.454601,
+    10.936198,
+    45.454601
+],
   "geometry": {"coordinates":[10.936198,45.454601],"type":"Point"}
 }

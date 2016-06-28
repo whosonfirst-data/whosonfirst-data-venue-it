@@ -2,13 +2,14 @@
   "id": 269729755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.164396,45.460411,9.164396,45.460411",
     "geom:latitude":45.460411,
     "geom:longitude":9.164396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269729755,
-    "wof:lastmodified":1449037350,
+    "wof:lastmodified":1466292115,
     "wof:name":"Elcam Data (s.n.c.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.164396,45.460411,9.164396,45.460411],
+  "bbox": [
+    9.164396,
+    45.460411,
+    9.164396,
+    45.460411
+],
   "geometry": {"coordinates":[9.164396,45.460411],"type":"Point"}
 }

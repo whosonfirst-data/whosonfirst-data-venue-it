@@ -2,13 +2,14 @@
   "id": 203190045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.877428,44.530643,10.877428,44.530643",
     "geom:latitude":44.530643,
     "geom:longitude":10.877428,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41053 Maranello",
     "sg:city":"Maranello",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203190045,
-    "wof:lastmodified":1449026756,
+    "wof:lastmodified":1466289767,
     "wof:name":"Mec Art Srl Unipersonale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.877428,44.530643,10.877428,44.530643],
+  "bbox": [
+    10.877428,
+    44.530643,
+    10.877428,
+    44.530643
+],
   "geometry": {"coordinates":[10.877428,44.530643],"type":"Point"}
 }

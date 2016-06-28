@@ -2,13 +2,14 @@
   "id": 236244515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.756205,45.545303,12.756205,45.545303",
     "geom:latitude":45.545303,
     "geom:longitude":12.756205,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236244515,
-    "wof:lastmodified":1449002873,
+    "wof:lastmodified":1466291360,
     "wof:name":"Antichit\u00c0 Giglio & C. Snc Di Lino Giglio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.756205,45.545303,12.756205,45.545303],
+  "bbox": [
+    12.756205,
+    45.545303,
+    12.756205,
+    45.545303
+],
   "geometry": {"coordinates":[12.756205,45.545303],"type":"Point"}
 }

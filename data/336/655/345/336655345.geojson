@@ -2,13 +2,14 @@
   "id": 336655345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.31396,45.728203,9.31396,45.728203",
     "geom:latitude":45.728203,
     "geom:longitude":9.31396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Leonardo Da Vinci 23891 Barzano'",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336655345,
-    "wof:lastmodified":1448997555,
+    "wof:lastmodified":1466294392,
     "wof:name":"Emme-elle Di Canzi E C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.31396,45.728203,9.31396,45.728203],
+  "bbox": [
+    9.31396,
+    45.728203,
+    9.31396,
+    45.728203
+],
   "geometry": {"coordinates":[9.31396,45.728203],"type":"Point"}
 }

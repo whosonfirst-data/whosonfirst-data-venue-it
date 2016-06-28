@@ -2,13 +2,14 @@
   "id": 253083637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.181739,45.474834,9.181739,45.474834",
     "geom:latitude":45.474834,
     "geom:longitude":9.181739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20025 Legnano",
     "sg:city":"Legnano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253083637,
-    "wof:lastmodified":1449064226,
+    "wof:lastmodified":1466289801,
     "wof:name":"Gulden Sartorio Graziella",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.181739,45.474834,9.181739,45.474834],
+  "bbox": [
+    9.181739,
+    45.474834,
+    9.181739,
+    45.474834
+],
   "geometry": {"coordinates":[9.181739,45.474834],"type":"Point"}
 }

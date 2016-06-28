@@ -2,13 +2,14 @@
   "id": 320502053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80832,45.695118,8.80832,45.695118",
     "geom:latitude":45.695118,
     "geom:longitude":8.80832,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21044 Cavaria Con Premezzo",
     "sg:city":"Cavaria con Premezzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320502053,
-    "wof:lastmodified":1449012963,
+    "wof:lastmodified":1466297601,
     "wof:name":"Idea Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.80832,45.695118,8.80832,45.695118],
+  "bbox": [
+    8.80832,
+    45.695118,
+    8.80832,
+    45.695118
+],
   "geometry": {"coordinates":[8.80832,45.695118],"type":"Point"}
 }

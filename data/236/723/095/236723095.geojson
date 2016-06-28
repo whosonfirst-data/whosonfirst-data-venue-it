@@ -2,13 +2,14 @@
   "id": 236723095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.649666,43.686661,12.649666,43.686661",
     "geom:latitude":43.686661,
     "geom:longitude":12.649666,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Metauro 61033 Fermignano",
     "sg:city":"Fermignano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236723095,
-    "wof:lastmodified":1449003602,
+    "wof:lastmodified":1466296230,
     "wof:name":"Schulze Pollmann S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [12.649666,43.686661,12.649666,43.686661],
+  "bbox": [
+    12.649666,
+    43.686661,
+    12.649666,
+    43.686661
+],
   "geometry": {"coordinates":[12.649666,43.686661],"type":"Point"}
 }

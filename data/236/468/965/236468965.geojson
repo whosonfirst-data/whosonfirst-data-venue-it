@@ -2,13 +2,14 @@
   "id": 236468965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.911659,45.480141,10.911659,45.480141",
     "geom:latitude":45.480141,
     "geom:longitude":10.911659,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Volta 16 37020 Negarine",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236468965,
-    "wof:lastmodified":1449004122,
+    "wof:lastmodified":1466293714,
     "wof:name":"C.z. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mechanic"
     ]
 },
-  "bbox": [10.911659,45.480141,10.911659,45.480141],
+  "bbox": [
+    10.911659,
+    45.480141,
+    10.911659,
+    45.480141
+],
   "geometry": {"coordinates":[10.911659,45.480141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252784033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.074922,45.531128,8.074922,45.531128",
     "geom:latitude":45.531128,
     "geom:longitude":8.074922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13871 Benna",
     "sg:city":"Benna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252784033,
-    "wof:lastmodified":1449006124,
+    "wof:lastmodified":1466289729,
     "wof:name":"Ippoclan Grup Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.074922,45.531128,8.074922,45.531128],
+  "bbox": [
+    8.074922,
+    45.531128,
+    8.074922,
+    45.531128
+],
   "geometry": {"coordinates":[8.074922,45.531128],"type":"Point"}
 }

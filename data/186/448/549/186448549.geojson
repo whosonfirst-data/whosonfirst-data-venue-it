@@ -2,13 +2,14 @@
   "id": 186448549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.089147,45.553223,9.089147,45.553223",
     "geom:latitude":45.553223,
     "geom:longitude":9.089147,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Arese",
     "sg:city":"Arese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186448549,
-    "wof:lastmodified":1449052911,
+    "wof:lastmodified":1466291800,
     "wof:name":"Tecnobox Prefabbricati Snc",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.089147,45.553223,9.089147,45.553223],
+  "bbox": [
+    9.089147,
+    45.553223,
+    9.089147,
+    45.553223
+],
   "geometry": {"coordinates":[9.089147,45.553223],"type":"Point"}
 }

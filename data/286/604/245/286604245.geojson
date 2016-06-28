@@ -2,13 +2,14 @@
   "id": 286604245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.377306,39.979828,18.377306,39.979828",
     "geom:latitude":39.979828,
     "geom:longitude":18.377306,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Toma 73032 Andrano",
     "sg:city":"Andrano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286604245,
-    "wof:lastmodified":1449017758,
+    "wof:lastmodified":1466293980,
     "wof:name":"Zefiro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [18.377306,39.979828,18.377306,39.979828],
+  "bbox": [
+    18.377306,
+    39.979828,
+    18.377306,
+    39.979828
+],
   "geometry": {"coordinates":[18.377306,39.979828],"type":"Point"}
 }

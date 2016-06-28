@@ -2,13 +2,14 @@
   "id": 220104871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.679599,45.090202,7.679599,45.090202",
     "geom:latitude":45.090202,
     "geom:longitude":7.679599,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Corso Vigevano 10155 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220104871,
-    "wof:lastmodified":1449074366,
+    "wof:lastmodified":1466295973,
     "wof:name":"Ruspa - Auto S.r.l.",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [7.679599,45.090202,7.679599,45.090202],
+  "bbox": [
+    7.679599,
+    45.090202,
+    7.679599,
+    45.090202
+],
   "geometry": {"coordinates":[7.679599,45.090202],"type":"Point"}
 }

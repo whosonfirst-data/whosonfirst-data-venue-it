@@ -2,13 +2,14 @@
   "id": 185941105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196034,45.478199,9.196034,45.478199",
     "geom:latitude":45.478199,
     "geom:longitude":9.196034,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Della Repubblica 7; Milano; 20121",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185941105,
-    "wof:lastmodified":1449007570,
+    "wof:lastmodified":1466290365,
     "wof:name":"Banque Populaire, De La Cote D'azur",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.196034,45.478199,9.196034,45.478199],
+  "bbox": [
+    9.196034,
+    45.478199,
+    9.196034,
+    45.478199
+],
   "geometry": {"coordinates":[9.196034,45.478199],"type":"Point"}
 }

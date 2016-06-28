@@ -2,13 +2,14 @@
   "id": 236147309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.616951,44.913216,8.616951,44.913216",
     "geom:latitude":44.913216,
     "geom:longitude":8.616951,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Iv Novembre 15011 Acqui Terme",
     "sg:city":"Acqui Terme",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236147309,
-    "wof:lastmodified":1449004808,
+    "wof:lastmodified":1466290347,
     "wof:name":"Cantina Viticoltori Dell'acquese (soc.coop.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [8.616951,44.913216,8.616951,44.913216],
+  "bbox": [
+    8.616951,
+    44.913216,
+    8.616951,
+    44.913216
+],
   "geometry": {"coordinates":[8.616951,44.913216],"type":"Point"}
 }

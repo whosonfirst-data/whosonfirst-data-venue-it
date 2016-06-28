@@ -2,13 +2,14 @@
   "id": 252719027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.324089,41.050949,14.324089,41.050949",
     "geom:latitude":41.050949,
     "geom:longitude":14.324089,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81020 S.nicola La Strada",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento - Vendita Al Dettaglio",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252719027,
-    "wof:lastmodified":1449005542,
+    "wof:lastmodified":1466289024,
     "wof:name":"Piccirillo Sara - Sara Fashion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.324089,41.050949,14.324089,41.050949],
+  "bbox": [
+    14.324089,
+    41.050949,
+    14.324089,
+    41.050949
+],
   "geometry": {"coordinates":[14.324089,41.050949],"type":"Point"}
 }

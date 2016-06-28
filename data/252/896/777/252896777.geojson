@@ -2,13 +2,14 @@
   "id": 252896777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.012984,45.140617,10.012984,45.140617",
     "geom:latitude":45.140617,
     "geom:longitude":10.012984,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26040 Gussola",
     "sg:city":"Gussola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252896777,
-    "wof:lastmodified":1449005806,
+    "wof:lastmodified":1466290992,
     "wof:name":"Scaglia Carlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.012984,45.140617,10.012984,45.140617],
+  "bbox": [
+    10.012984,
+    45.140617,
+    10.012984,
+    45.140617
+],
   "geometry": {"coordinates":[10.012984,45.140617],"type":"Point"}
 }

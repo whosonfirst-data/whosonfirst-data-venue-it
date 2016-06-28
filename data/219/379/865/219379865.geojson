@@ -2,13 +2,14 @@
   "id": 219379865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.242072,45.666286,12.242072,45.666286",
     "geom:latitude":45.666286,
     "geom:longitude":12.242072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31020 S.polo Di Piave",
     "sg:classifiers":[],
     "sg:orig_category":"Stampaggio Materie Plastiche",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219379865,
-    "wof:lastmodified":1449072435,
+    "wof:lastmodified":1466290131,
     "wof:name":"Gamma Plast Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.242072,45.666286,12.242072,45.666286],
+  "bbox": [
+    12.242072,
+    45.666286,
+    12.242072,
+    45.666286
+],
   "geometry": {"coordinates":[12.242072,45.666286],"type":"Point"}
 }

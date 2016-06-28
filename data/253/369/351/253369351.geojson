@@ -2,13 +2,14 @@
   "id": 253369351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.565459,45.139576,7.565459,45.139576",
     "geom:latitude":45.139576,
     "geom:longitude":7.565459,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada San Gillio 17 10040 Druento",
     "sg:city":"Druento",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253369351,
-    "wof:lastmodified":1449065653,
+    "wof:lastmodified":1466293060,
     "wof:name":"Elettronica Cavallo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "machinery"
     ]
 },
-  "bbox": [7.565459,45.139576,7.565459,45.139576],
+  "bbox": [
+    7.565459,
+    45.139576,
+    7.565459,
+    45.139576
+],
   "geometry": {"coordinates":[7.565459,45.139576],"type":"Point"}
 }

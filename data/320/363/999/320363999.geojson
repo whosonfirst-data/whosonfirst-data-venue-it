@@ -2,13 +2,14 @@
   "id": 320363999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.996017,45.415462,11.996017,45.415462",
     "geom:latitude":45.415462,
     "geom:longitude":11.996017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30032 Fiesso D'artico",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Abbigliamento E Pelletterie",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320363999,
-    "wof:lastmodified":1449014511,
+    "wof:lastmodified":1466297142,
     "wof:name":"Lorenzi & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.996017,45.415462,11.996017,45.415462],
+  "bbox": [
+    11.996017,
+    45.415462,
+    11.996017,
+    45.415462
+],
   "geometry": {"coordinates":[11.996017,45.415462],"type":"Point"}
 }

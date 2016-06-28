@@ -2,13 +2,14 @@
   "id": 286858241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.636099,41.484756,12.636099,41.484756",
     "geom:latitude":41.484756,
     "geom:longitude":12.636099,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00042 Anzio",
     "sg:city":"Anzio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286858241,
-    "wof:lastmodified":1449015475,
+    "wof:lastmodified":1466296789,
     "wof:name":"Aloisi Paolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.636099,41.484756,12.636099,41.484756],
+  "bbox": [
+    12.636099,
+    41.484756,
+    12.636099,
+    41.484756
+],
   "geometry": {"coordinates":[12.636099,41.484756],"type":"Point"}
 }

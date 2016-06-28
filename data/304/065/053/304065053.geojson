@@ -2,13 +2,14 @@
   "id": 304065053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.087912,40.337925,18.087912,40.337925",
     "geom:latitude":40.337925,
     "geom:longitude":18.087912,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73057 Taviano",
     "sg:city":"Taviano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304065053,
-    "wof:lastmodified":1449044156,
+    "wof:lastmodified":1466293049,
     "wof:name":"Mefil Di Meleleo Filippo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.087912,40.337925,18.087912,40.337925],
+  "bbox": [
+    18.087912,
+    40.337925,
+    18.087912,
+    40.337925
+],
   "geometry": {"coordinates":[18.087912,40.337925],"type":"Point"}
 }

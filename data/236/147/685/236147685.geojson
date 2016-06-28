@@ -2,13 +2,14 @@
   "id": 236147685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.66913,41.964825,12.66913,41.964825",
     "geom:latitude":41.964825,
     "geom:longitude":12.66913,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, V. Germania 00010 Setteville Di Guidonia",
     "sg:city":"Setteville",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236147685,
-    "wof:lastmodified":1449004812,
+    "wof:lastmodified":1466290351,
     "wof:name":"Cantine Casal Bianco Di V. Rossi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [12.66913,41.964825,12.66913,41.964825],
+  "bbox": [
+    12.66913,
+    41.964825,
+    12.66913,
+    41.964825
+],
   "geometry": {"coordinates":[12.66913,41.964825],"type":"Point"}
 }

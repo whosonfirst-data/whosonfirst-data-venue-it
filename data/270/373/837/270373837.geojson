@@ -2,13 +2,14 @@
   "id": 270373837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.869946,42.420734,11.869946,42.420734",
     "geom:latitude":42.420734,
     "geom:longitude":11.869946,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01017 Tuscania",
     "sg:city":"Tuscania",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270373837,
-    "wof:lastmodified":1449009897,
+    "wof:lastmodified":1466293556,
     "wof:name":"Porta Major Di Piantamore Giorgio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.869946,42.420734,11.869946,42.420734],
+  "bbox": [
+    11.869946,
+    42.420734,
+    11.869946,
+    42.420734
+],
   "geometry": {"coordinates":[11.869946,42.420734],"type":"Point"}
 }

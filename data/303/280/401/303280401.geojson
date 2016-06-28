@@ -2,13 +2,14 @@
   "id": 303280401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.197008,45.988834,13.197008,45.988834",
     "geom:latitude":45.988834,
     "geom:longitude":13.197008,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Castelli 17 33050 Pozzuolo Del Friuli",
     "sg:city":"Pozzuolo del Friuli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303280401,
-    "wof:lastmodified":1448999319,
+    "wof:lastmodified":1466293986,
     "wof:name":"De Cecco & C Di Dececco Carloalberto & Marino Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental"
     ]
 },
-  "bbox": [13.197008,45.988834,13.197008,45.988834],
+  "bbox": [
+    13.197008,
+    45.988834,
+    13.197008,
+    45.988834
+],
   "geometry": {"coordinates":[13.197008,45.988834],"type":"Point"}
 }

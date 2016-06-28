@@ -2,13 +2,14 @@
   "id": 252713271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.283016,41.235317,16.283016,41.235317",
     "geom:latitude":41.235317,
     "geom:longitude":16.283016,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70031 Andria",
     "sg:city":"Andria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252713271,
-    "wof:lastmodified":1449006410,
+    "wof:lastmodified":1466288966,
     "wof:name":"Addario Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.283016,41.235317,16.283016,41.235317],
+  "bbox": [
+    16.283016,
+    41.235317,
+    16.283016,
+    41.235317
+],
   "geometry": {"coordinates":[16.283016,41.235317],"type":"Point"}
 }

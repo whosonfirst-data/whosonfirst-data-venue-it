@@ -2,13 +2,14 @@
   "id": 336725173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.87756,45.363907,7.87756,45.363907",
     "geom:latitude":45.363907,
     "geom:longitude":7.87756,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nazionale 68 10010 Mercenasco",
     "sg:city":"Mercenasco",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336725173,
-    "wof:lastmodified":1448997211,
+    "wof:lastmodified":1466295221,
     "wof:name":"Nanchino Automazioni Industriali Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.87756,45.363907,7.87756,45.363907],
+  "bbox": [
+    7.87756,
+    45.363907,
+    7.87756,
+    45.363907
+],
   "geometry": {"coordinates":[7.87756,45.363907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270448629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.130688,45.796928,9.130688,45.796928",
     "geom:latitude":45.796928,
     "geom:longitude":9.130688,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22038 Tavernerio",
     "sg:city":"Tavernerio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270448629,
-    "wof:lastmodified":1449011011,
+    "wof:lastmodified":1466294460,
     "wof:name":"Keramo Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.130688,45.796928,9.130688,45.796928],
+  "bbox": [
+    9.130688,
+    45.796928,
+    9.130688,
+    45.796928
+],
   "geometry": {"coordinates":[9.130688,45.796928],"type":"Point"}
 }

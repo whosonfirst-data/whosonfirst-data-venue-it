@@ -2,13 +2,14 @@
   "id": 185630839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.667159,45.697311,9.667159,45.697311",
     "geom:latitude":45.697311,
     "geom:longitude":9.667159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Vittorio Emanuele Ii 12, 24100 Bergamo, Bg",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185630839,
-    "wof:lastmodified":1449007163,
+    "wof:lastmodified":1466294361,
     "wof:name":"Banca Di Bergamo Spa",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.667159,45.697311,9.667159,45.697311],
+  "bbox": [
+    9.667159,
+    45.697311,
+    9.667159,
+    45.697311
+],
   "geometry": {"coordinates":[9.667159,45.697311],"type":"Point"}
 }

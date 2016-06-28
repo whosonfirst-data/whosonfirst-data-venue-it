@@ -2,13 +2,14 @@
   "id": 303103699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.122867,39.229214,9.122867,39.229214",
     "geom:latitude":39.229214,
     "geom:longitude":9.122867,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09131 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303103699,
-    "wof:lastmodified":1448999646,
+    "wof:lastmodified":1466291692,
     "wof:name":"A.p.service S.n.c.",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.122867,39.229214,9.122867,39.229214],
+  "bbox": [
+    9.122867,
+    39.229214,
+    9.122867,
+    39.229214
+],
   "geometry": {"coordinates":[9.122867,39.229214],"type":"Point"}
 }

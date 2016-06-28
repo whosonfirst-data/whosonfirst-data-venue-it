@@ -2,13 +2,14 @@
   "id": 286907335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.542683,41.876892,12.542683,41.876892",
     "geom:latitude":41.876892,
     "geom:longitude":12.542683,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00177 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286907335,
-    "wof:lastmodified":1449017866,
+    "wof:lastmodified":1466297227,
     "wof:name":"Al.catal Srl",
     "wof:parent_id":85904935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.542683,41.876892,12.542683,41.876892],
+  "bbox": [
+    12.542683,
+    41.876892,
+    12.542683,
+    41.876892
+],
   "geometry": {"coordinates":[12.542683,41.876892],"type":"Point"}
 }

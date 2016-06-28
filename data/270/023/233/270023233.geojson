@@ -2,13 +2,14 @@
   "id": 270023233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.276939,44.631306,11.276939,44.631306",
     "geom:latitude":44.631306,
     "geom:longitude":11.276939,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40010 Sala Bolognese",
     "sg:city":"Padulle",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270023233,
-    "wof:lastmodified":1449010860,
+    "wof:lastmodified":1466289269,
     "wof:name":"C. E. Elettra Di Crivellaro Emanuele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.276939,44.631306,11.276939,44.631306],
+  "bbox": [
+    11.276939,
+    44.631306,
+    11.276939,
+    44.631306
+],
   "geometry": {"coordinates":[11.276939,44.631306],"type":"Point"}
 }

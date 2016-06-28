@@ -2,13 +2,14 @@
   "id": 320528867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.649907,44.731277,10.649907,44.731277",
     "geom:latitude":44.731277,
     "geom:longitude":10.649907,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via R. Sanzio 2 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320528867,
-    "wof:lastmodified":1449012255,
+    "wof:lastmodified":1466297653,
     "wof:name":"Cuccolini Srl",
     "wof:parent_id":85904891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clay"
     ]
 },
-  "bbox": [10.649907,44.731277,10.649907,44.731277],
+  "bbox": [
+    10.649907,
+    44.731277,
+    10.649907,
+    44.731277
+],
   "geometry": {"coordinates":[10.649907,44.731277],"type":"Point"}
 }

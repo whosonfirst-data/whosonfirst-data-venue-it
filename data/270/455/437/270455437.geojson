@@ -2,13 +2,14 @@
   "id": 270455437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.526305,43.851166,10.526305,43.851166",
     "geom:latitude":43.851166,
     "geom:longitude":10.526305,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"188, Via Vecchia Pesciatina 55100 Lucca",
     "sg:city":"Lucca",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270455437,
-    "wof:lastmodified":1449010679,
+    "wof:lastmodified":1466294535,
     "wof:name":"Bianucci Di Bianucci S. & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramic"
     ]
 },
-  "bbox": [10.526305,43.851166,10.526305,43.851166],
+  "bbox": [
+    10.526305,
+    43.851166,
+    10.526305,
+    43.851166
+],
   "geometry": {"coordinates":[10.526305,43.851166],"type":"Point"}
 }

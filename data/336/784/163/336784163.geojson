@@ -2,13 +2,14 @@
   "id": 336784163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.635643,44.978195,7.635643,44.978195",
     "geom:latitude":44.978195,
     "geom:longitude":7.635643,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, V. Pisacane 10042 Nichelino",
     "sg:city":"Nichelino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336784163,
-    "wof:lastmodified":1448997652,
+    "wof:lastmodified":1466295933,
     "wof:name":"T.g. Filter Srl",
     "wof:parent_id":85797003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.635643,44.978195,7.635643,44.978195],
+  "bbox": [
+    7.635643,
+    44.978195,
+    7.635643,
+    44.978195
+],
   "geometry": {"coordinates":[7.635643,44.978195],"type":"Point"}
 }

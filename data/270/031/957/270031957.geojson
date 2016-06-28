@@ -2,13 +2,14 @@
   "id": 270031957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.119933,45.141689,9.119933,45.141689",
     "geom:latitude":45.141689,
     "geom:longitude":9.119933,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27051 Cava Manara",
     "sg:city":"Cava Manara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270031957,
-    "wof:lastmodified":1449009549,
+    "wof:lastmodified":1466289368,
     "wof:name":"Moka Sir's Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.119933,45.141689,9.119933,45.141689],
+  "bbox": [
+    9.119933,
+    45.141689,
+    9.119933,
+    45.141689
+],
   "geometry": {"coordinates":[9.119933,45.141689],"type":"Point"}
 }

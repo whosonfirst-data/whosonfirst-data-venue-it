@@ -2,13 +2,14 @@
   "id": 286478993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.978579,43.876678,10.978579,43.876678",
     "geom:latitude":43.876678,
     "geom:longitude":10.978579,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"165, Via Statale 51039 Quarrata",
     "sg:city":"Quarrata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286478993,
-    "wof:lastmodified":1449015256,
+    "wof:lastmodified":1466292463,
     "wof:name":"Confezioni Alba Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.978579,43.876678,10.978579,43.876678],
+  "bbox": [
+    10.978579,
+    43.876678,
+    10.978579,
+    43.876678
+],
   "geometry": {"coordinates":[10.978579,43.876678],"type":"Point"}
 }

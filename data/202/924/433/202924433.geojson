@@ -2,13 +2,14 @@
   "id": 202924433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.080184,45.603802,8.080184,45.603802",
     "geom:latitude":45.603802,
     "geom:longitude":8.080184,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13836 Cossato",
     "sg:city":"Cossato",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202924433,
-    "wof:lastmodified":1449060826,
+    "wof:lastmodified":1466293464,
     "wof:name":"Rammendo San Marco (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.080184,45.603802,8.080184,45.603802],
+  "bbox": [
+    8.080184,
+    45.603802,
+    8.080184,
+    45.603802
+],
   "geometry": {"coordinates":[8.080184,45.603802],"type":"Point"}
 }

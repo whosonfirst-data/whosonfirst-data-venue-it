@@ -2,13 +2,14 @@
   "id": 185753645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.04048,43.889526,8.04048,43.889526",
     "geom:latitude":43.889526,
     "geom:longitude":8.04048,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bonfante 18; Imperia",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185753645,
-    "wof:lastmodified":1449006791,
+    "wof:lastmodified":1466296255,
     "wof:name":"Banca Passadore & C Spa",
     "wof:parent_id":85796911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.04048,43.889526,8.04048,43.889526],
+  "bbox": [
+    8.04048,
+    43.889526,
+    8.04048,
+    43.889526
+],
   "geometry": {"coordinates":[8.04048,43.889526],"type":"Point"}
 }

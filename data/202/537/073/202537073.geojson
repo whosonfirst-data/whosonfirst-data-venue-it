@@ -2,13 +2,14 @@
   "id": 202537073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.038616,40.435642,18.038616,40.435642",
     "geom:latitude":40.435642,
     "geom:longitude":18.038616,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73018 Squinzano",
     "sg:city":"Squinzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202537073,
-    "wof:lastmodified":1449060740,
+    "wof:lastmodified":1466289315,
     "wof:name":"Giannone Massimiliano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.038616,40.435642,18.038616,40.435642],
+  "bbox": [
+    18.038616,
+    40.435642,
+    18.038616,
+    40.435642
+],
   "geometry": {"coordinates":[18.038616,40.435642],"type":"Point"}
 }

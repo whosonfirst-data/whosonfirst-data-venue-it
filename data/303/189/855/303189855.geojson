@@ -2,13 +2,14 @@
   "id": 303189855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.641396,45.000469,7.641396,45.000469",
     "geom:latitude":45.000469,
     "geom:longitude":7.641396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10042 Nichelino",
     "sg:city":"Nichelino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303189855,
-    "wof:lastmodified":1448999846,
+    "wof:lastmodified":1466292823,
     "wof:name":"De.sa",
     "wof:parent_id":85796889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.641396,45.000469,7.641396,45.000469],
+  "bbox": [
+    7.641396,
+    45.000469,
+    7.641396,
+    45.000469
+],
   "geometry": {"coordinates":[7.641396,45.000469],"type":"Point"}
 }

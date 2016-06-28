@@ -2,13 +2,14 @@
   "id": 236958593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.731603,45.736835,9.731603,45.736835",
     "geom:latitude":45.736835,
     "geom:longitude":9.731603,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Provinciale 59 24022 Alzano Lombardo",
     "sg:city":"Alzano Lombardo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236958593,
-    "wof:lastmodified":1449004370,
+    "wof:lastmodified":1466297352,
     "wof:name":"Scarpellini Asv Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.731603,45.736835,9.731603,45.736835],
+  "bbox": [
+    9.731603,
+    45.736835,
+    9.731603,
+    45.736835
+],
   "geometry": {"coordinates":[9.731603,45.736835],"type":"Point"}
 }

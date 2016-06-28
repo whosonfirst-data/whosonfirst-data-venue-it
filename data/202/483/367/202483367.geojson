@@ -2,13 +2,14 @@
   "id": 202483367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.412732,45.358242,9.412732,45.358242",
     "geom:latitude":45.358242,
     "geom:longitude":9.412732,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26837 Mulazzano",
     "sg:city":"Mulazzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202483367,
-    "wof:lastmodified":1449062120,
+    "wof:lastmodified":1466296104,
     "wof:name":"Scuola Materna Parrocchiale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.412732,45.358242,9.412732,45.358242],
+  "bbox": [
+    9.412732,
+    45.358242,
+    9.412732,
+    45.358242
+],
   "geometry": {"coordinates":[9.412732,45.358242],"type":"Point"}
 }

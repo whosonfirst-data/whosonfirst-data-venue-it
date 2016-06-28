@@ -2,13 +2,14 @@
   "id": 236666703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.090543,45.740383,9.090543,45.740383",
     "geom:latitude":45.740383,
     "geom:longitude":9.090543,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Leopardi 22060 Figino Serenza",
     "sg:city":"Figino Serenza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236666703,
-    "wof:lastmodified":1449002737,
+    "wof:lastmodified":1466295631,
     "wof:name":"Tagliabue (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.090543,45.740383,9.090543,45.740383],
+  "bbox": [
+    9.090543,
+    45.740383,
+    9.090543,
+    45.740383
+],
   "geometry": {"coordinates":[9.090543,45.740383],"type":"Point"}
 }

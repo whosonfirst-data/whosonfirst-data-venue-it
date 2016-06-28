@@ -2,13 +2,14 @@
   "id": 220135723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.496332,41.865501,12.496332,41.865501",
     "geom:latitude":41.865501,
     "geom:longitude":12.496332,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00147 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220135723,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466296236,
     "wof:name":"Siaed Srl",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.496332,41.865501,12.496332,41.865501],
+  "bbox": [
+    12.496332,
+    41.865501,
+    12.496332,
+    41.865501
+],
   "geometry": {"coordinates":[12.496332,41.865501],"type":"Point"}
 }

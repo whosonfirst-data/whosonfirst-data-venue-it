@@ -2,13 +2,14 @@
   "id": 303619943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.745705,43.695026,10.745705,43.695026",
     "geom:latitude":43.695026,
     "geom:longitude":10.745705,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56022 Castelfranco Di Sotto",
     "sg:city":"Castelfranco di Sotto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303619943,
-    "wof:lastmodified":1448998556,
+    "wof:lastmodified":1466297293,
     "wof:name":"Trasparenze Di Angelica Lami",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.745705,43.695026,10.745705,43.695026],
+  "bbox": [
+    10.745705,
+    43.695026,
+    10.745705,
+    43.695026
+],
   "geometry": {"coordinates":[10.745705,43.695026],"type":"Point"}
 }

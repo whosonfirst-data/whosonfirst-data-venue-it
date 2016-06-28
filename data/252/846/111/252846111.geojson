@@ -2,13 +2,14 @@
   "id": 252846111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.425153,38.233734,15.425153,38.233734",
     "geom:latitude":38.233734,
     "geom:longitude":15.425153,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98040 Olivarella - San Filippo Del Mela",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento In Pelle - Produzione E Ingrosso",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252846111,
-    "wof:lastmodified":1449006270,
+    "wof:lastmodified":1466290456,
     "wof:name":"Crupi Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.425153,38.233734,15.425153,38.233734],
+  "bbox": [
+    15.425153,
+    38.233734,
+    15.425153,
+    38.233734
+],
   "geometry": {"coordinates":[15.425153,38.233734],"type":"Point"}
 }

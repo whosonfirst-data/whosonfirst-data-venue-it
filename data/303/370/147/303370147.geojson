@@ -2,13 +2,14 @@
   "id": 303370147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.628471,37.356991,13.628471,37.356991",
     "geom:latitude":37.356991,
     "geom:longitude":13.628471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Via A. 92021 Aragona",
     "sg:city":"Aragona",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303370147,
-    "wof:lastmodified":1448999453,
+    "wof:lastmodified":1466295076,
     "wof:name":"Mangimificio S.antonio Di Galluzzo Mose' E C S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [13.628471,37.356991,13.628471,37.356991],
+  "bbox": [
+    13.628471,
+    37.356991,
+    13.628471,
+    37.356991
+],
   "geometry": {"coordinates":[13.628471,37.356991],"type":"Point"}
 }

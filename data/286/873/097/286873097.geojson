@@ -2,13 +2,14 @@
   "id": 286873097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.22905,45.520042,9.22905,45.520042",
     "geom:latitude":45.520042,
     "geom:longitude":9.22905,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20083 Bonirola Di Gaggiano",
     "sg:city":"Gaggiano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286873097,
-    "wof:lastmodified":1449015782,
+    "wof:lastmodified":1466296902,
     "wof:name":"Elettrofiume Di Milesi Carolina",
     "wof:parent_id":85862735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.22905,45.520042,9.22905,45.520042],
+  "bbox": [
+    9.22905,
+    45.520042,
+    9.22905,
+    45.520042
+],
   "geometry": {"coordinates":[9.22905,45.520042],"type":"Point"}
 }

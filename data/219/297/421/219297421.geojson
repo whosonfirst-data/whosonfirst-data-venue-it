@@ -2,13 +2,14 @@
   "id": 219297421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.613441,45.428875,9.613441,45.428875",
     "geom:latitude":45.428875,
     "geom:longitude":9.613441,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vailate, 79 - Pieranica 26017 Pieranica",
     "sg:city":"Pieranica",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219297421,
-    "wof:lastmodified":1449072629,
+    "wof:lastmodified":1466289275,
     "wof:name":"Ipcochemicals Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [9.613441,45.428875,9.613441,45.428875],
+  "bbox": [
+    9.613441,
+    45.428875,
+    9.613441,
+    45.428875
+],
   "geometry": {"coordinates":[9.613441,45.428875],"type":"Point"}
 }

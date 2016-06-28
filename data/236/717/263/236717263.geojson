@@ -2,13 +2,14 @@
   "id": 236717263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.180054,45.222664,11.180054,45.222664",
     "geom:latitude":45.222664,
     "geom:longitude":11.180054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Giorgione 37053 Cerea",
     "sg:city":"Cerea",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236717263,
-    "wof:lastmodified":1449001746,
+    "wof:lastmodified":1466296163,
     "wof:name":"Modenese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [11.180054,45.222664,11.180054,45.222664],
+  "bbox": [
+    11.180054,
+    45.222664,
+    11.180054,
+    45.222664
+],
   "geometry": {"coordinates":[11.180054,45.222664],"type":"Point"}
 }

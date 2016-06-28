@@ -2,13 +2,14 @@
   "id": 320852397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.162172,45.42757,9.162172,45.42757",
     "geom:latitude":45.42757,
     "geom:longitude":9.162172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, V. Del Mare20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320852397,
-    "wof:lastmodified":1449014337,
+    "wof:lastmodified":1466298252,
     "wof:name":"Opto Lab Srl",
     "wof:parent_id":85862731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "measurement"
     ]
 },
-  "bbox": [9.162172,45.42757,9.162172,45.42757],
+  "bbox": [
+    9.162172,
+    45.42757,
+    9.162172,
+    45.42757
+],
   "geometry": {"coordinates":[9.162172,45.42757],"type":"Point"}
 }

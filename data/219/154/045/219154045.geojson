@@ -2,13 +2,14 @@
   "id": 219154045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.922962,40.619038,17.922962,40.619038",
     "geom:latitude":40.619038,
     "geom:longitude":17.922962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72015 Fasano",
     "sg:city":"Fasano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219154045,
-    "wof:lastmodified":1449073974,
+    "wof:lastmodified":1466289607,
     "wof:name":"Hotel Express By Holiday Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.922962,40.619038,17.922962,40.619038],
+  "bbox": [
+    17.922962,
+    40.619038,
+    17.922962,
+    40.619038
+],
   "geometry": {"coordinates":[17.922962,40.619038],"type":"Point"}
 }

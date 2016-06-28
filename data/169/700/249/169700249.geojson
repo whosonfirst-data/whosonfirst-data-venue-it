@@ -2,13 +2,14 @@
   "id": 169700249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.9037,41.467598,12.9037,41.467598",
     "geom:latitude":41.467598,
     "geom:longitude":12.9037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nettunense Km 23,400 04011 Aprilia",
     "sg:city":"Aprilia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169700249,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1466288901,
     "wof:name":"Fito Formula Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bactericide"
     ]
 },
-  "bbox": [12.9037,41.467598,12.9037,41.467598],
+  "bbox": [
+    12.9037,
+    41.467598,
+    12.9037,
+    41.467598
+],
   "geometry": {"coordinates":[12.9037,41.467598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320852795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.378897,45.552444,9.378897,45.552444",
     "geom:latitude":45.552444,
     "geom:longitude":9.378897,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Sette Martiri 20060 Pessano Con Bornago",
     "sg:city":"Ornago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320852795,
-    "wof:lastmodified":1449014336,
+    "wof:lastmodified":1466298195,
     "wof:name":"Omet Di Ceresa S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "measurement"
     ]
 },
-  "bbox": [9.378897,45.552444,9.378897,45.552444],
+  "bbox": [
+    9.378897,
+    45.552444,
+    9.378897,
+    45.552444
+],
   "geometry": {"coordinates":[9.378897,45.552444],"type":"Point"}
 }

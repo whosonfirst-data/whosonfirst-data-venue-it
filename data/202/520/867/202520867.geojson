@@ -2,13 +2,14 @@
   "id": 202520867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.333281,43.974503,11.333281,43.974503",
     "geom:latitude":43.974503,
     "geom:longitude":11.333281,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50038 Scarperia",
     "sg:city":"Scarperia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202520867,
-    "wof:lastmodified":1449060942,
+    "wof:lastmodified":1466289174,
     "wof:name":"Bi.esse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.333281,43.974503,11.333281,43.974503],
+  "bbox": [
+    11.333281,
+    43.974503,
+    11.333281,
+    43.974503
+],
   "geometry": {"coordinates":[11.333281,43.974503],"type":"Point"}
 }

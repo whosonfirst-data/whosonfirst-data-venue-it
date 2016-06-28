@@ -2,13 +2,14 @@
   "id": 286306197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.29267,46.119446,8.29267,46.119446",
     "geom:latitude":46.119446,
     "geom:longitude":8.29267,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28845 Domodossola",
     "sg:city":"Domodossola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286306197,
-    "wof:lastmodified":1449017958,
+    "wof:lastmodified":1466290032,
     "wof:name":"Prima Infanzia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "secondary"
     ]
 },
-  "bbox": [8.29267,46.119446,8.29267,46.119446],
+  "bbox": [
+    8.29267,
+    46.119446,
+    8.29267,
+    46.119446
+],
   "geometry": {"coordinates":[8.29267,46.119446],"type":"Point"}
 }

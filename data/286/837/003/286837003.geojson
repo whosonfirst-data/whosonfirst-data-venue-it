@@ -2,13 +2,14 @@
   "id": 286837003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.448137,40.397671,17.448137,40.397671",
     "geom:latitude":40.397671,
     "geom:longitude":17.448137,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74018 Palagianello",
     "sg:city":"Palagianello",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286837003,
-    "wof:lastmodified":1449015627,
+    "wof:lastmodified":1466296916,
     "wof:name":"Balestra Pubblicita' Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.448137,40.397671,17.448137,40.397671],
+  "bbox": [
+    17.448137,
+    40.397671,
+    17.448137,
+    40.397671
+],
   "geometry": {"coordinates":[17.448137,40.397671],"type":"Point"}
 }

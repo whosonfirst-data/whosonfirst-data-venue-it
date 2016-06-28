@@ -2,13 +2,14 @@
   "id": 253031987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.265759,40.873257,14.265759,40.873257",
     "geom:latitude":40.873257,
     "geom:longitude":14.265759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80141 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253031987,
-    "wof:lastmodified":1449063930,
+    "wof:lastmodified":1466289249,
     "wof:name":"Centanni Maurizio",
     "wof:parent_id":85904753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.265759,40.873257,14.265759,40.873257],
+  "bbox": [
+    14.265759,
+    40.873257,
+    14.265759,
+    40.873257
+],
   "geometry": {"coordinates":[14.265759,40.873257],"type":"Point"}
 }

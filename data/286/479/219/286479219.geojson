@@ -2,13 +2,14 @@
   "id": 286479219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.72915,43.298019,13.72915,43.298019",
     "geom:latitude":43.298019,
     "geom:longitude":13.72915,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66, Via Adua 62012 Civitanova Marche",
     "sg:city":"Civitanova Marche",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286479219,
-    "wof:lastmodified":1449017197,
+    "wof:lastmodified":1466292466,
     "wof:name":"Confezioni Alva S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [13.72915,43.298019,13.72915,43.298019],
+  "bbox": [
+    13.72915,
+    43.298019,
+    13.72915,
+    43.298019
+],
   "geometry": {"coordinates":[13.72915,43.298019],"type":"Point"}
 }

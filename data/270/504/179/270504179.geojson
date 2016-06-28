@@ -2,13 +2,14 @@
   "id": 270504179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.297995,44.488708,11.297995,44.488708",
     "geom:latitude":44.488708,
     "geom:longitude":11.297995,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Lippo Di Dalmasio 40135 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270504179,
-    "wof:lastmodified":1449009073,
+    "wof:lastmodified":1466295107,
     "wof:name":"Ergon International Trading Srl",
     "wof:parent_id":85904627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [11.297995,44.488708,11.297995,44.488708],
+  "bbox": [
+    11.297995,
+    44.488708,
+    11.297995,
+    44.488708
+],
   "geometry": {"coordinates":[11.297995,44.488708],"type":"Point"}
 }

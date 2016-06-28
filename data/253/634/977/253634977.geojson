@@ -2,13 +2,14 @@
   "id": 253634977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.673534,45.316826,10.673534,45.316826",
     "geom:latitude":45.316826,
     "geom:longitude":10.673534,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46049 Volta Mantovana",
     "sg:city":"Volta Mantovana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253634977,
-    "wof:lastmodified":1449064236,
+    "wof:lastmodified":1466296426,
     "wof:name":"Lavanderia Vega Snc Di Fracasso A. & G.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.673534,45.316826,10.673534,45.316826],
+  "bbox": [
+    10.673534,
+    45.316826,
+    10.673534,
+    45.316826
+],
   "geometry": {"coordinates":[10.673534,45.316826],"type":"Point"}
 }

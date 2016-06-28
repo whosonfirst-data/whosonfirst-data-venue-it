@@ -2,13 +2,14 @@
   "id": 236256249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.250614,45.187294,11.250614,45.187294",
     "geom:latitude":45.187294,
     "geom:longitude":11.250614,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37053 Cerea",
     "sg:city":"Cerea",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236256249,
-    "wof:lastmodified":1449004293,
+    "wof:lastmodified":1466291483,
     "wof:name":"Beta Mobili Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.250614,45.187294,11.250614,45.187294],
+  "bbox": [
+    11.250614,
+    45.187294,
+    11.250614,
+    45.187294
+],
   "geometry": {"coordinates":[11.250614,45.187294],"type":"Point"}
 }

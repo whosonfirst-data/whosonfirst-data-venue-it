@@ -2,13 +2,14 @@
   "id": 320095561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.143373,45.662872,9.143373,45.662872",
     "geom:latitude":45.662872,
     "geom:longitude":9.143373,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20036 Meda",
     "sg:city":"Meda",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320095561,
-    "wof:lastmodified":1449013157,
+    "wof:lastmodified":1466294572,
     "wof:name":"Cave Rocca Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.143373,45.662872,9.143373,45.662872],
+  "bbox": [
+    9.143373,
+    45.662872,
+    9.143373,
+    45.662872
+],
   "geometry": {"coordinates":[9.143373,45.662872],"type":"Point"}
 }

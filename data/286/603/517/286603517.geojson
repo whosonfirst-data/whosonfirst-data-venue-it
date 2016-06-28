@@ -2,13 +2,14 @@
   "id": 286603517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.92522,44.647079,10.92522,44.647079",
     "geom:latitude":44.647079,
     "geom:longitude":10.92522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Pellico 41037 Mirandola",
     "sg:city":"Mirandola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286603517,
-    "wof:lastmodified":1449017653,
+    "wof:lastmodified":1466293971,
     "wof:name":"Zaccarelli Enzo & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.92522,44.647079,10.92522,44.647079],
+  "bbox": [
+    10.92522,
+    44.647079,
+    10.92522,
+    44.647079
+],
   "geometry": {"coordinates":[10.92522,44.647079],"type":"Point"}
 }

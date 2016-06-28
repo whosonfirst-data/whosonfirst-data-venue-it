@@ -2,13 +2,14 @@
   "id": 236434461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.357777,38.142056,13.357777,38.142056",
     "geom:latitude":38.142056,
     "geom:longitude":13.357777,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"199, V. Montepellegrino",
     "sg:city":"Montepellegrino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236434461,
-    "wof:lastmodified":1449002212,
+    "wof:lastmodified":1466293340,
     "wof:name":"Bss Di Marcello Guccione",
     "wof:parent_id":85904867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instrument"
     ]
 },
-  "bbox": [13.357777,38.142056,13.357777,38.142056],
+  "bbox": [
+    13.357777,
+    38.142056,
+    13.357777,
+    38.142056
+],
   "geometry": {"coordinates":[13.357777,38.142056],"type":"Point"}
 }

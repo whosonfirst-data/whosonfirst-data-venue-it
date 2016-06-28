@@ -2,13 +2,14 @@
   "id": 303741543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.006577,45.480545,12.006577,45.480545",
     "geom:latitude":45.480545,
     "geom:longitude":12.006577,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30036 Santa Maria Di Sala",
     "sg:city":"Santa Maria di Sala",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303741543,
-    "wof:lastmodified":1448998250,
+    "wof:lastmodified":1466297695,
     "wof:name":"Dormiflex Lady Linea Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.006577,45.480545,12.006577,45.480545],
+  "bbox": [
+    12.006577,
+    45.480545,
+    12.006577,
+    45.480545
+],
   "geometry": {"coordinates":[12.006577,45.480545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336715531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.310577,45.733749,12.310577,45.733749",
     "geom:latitude":45.733749,
     "geom:longitude":12.310577,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via G. Galilei 31048 San Biagio Di Callalta",
     "sg:city":"San Biagio di Callalta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336715531,
-    "wof:lastmodified":1448997813,
+    "wof:lastmodified":1466295110,
     "wof:name":"Meccanica Master Snc Di Vergottini Marco Roberto & Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.310577,45.733749,12.310577,45.733749],
+  "bbox": [
+    12.310577,
+    45.733749,
+    12.310577,
+    45.733749
+],
   "geometry": {"coordinates":[12.310577,45.733749],"type":"Point"}
 }

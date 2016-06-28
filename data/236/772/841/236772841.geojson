@@ -2,13 +2,14 @@
   "id": 236772841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.922998,44.67141,7.922998,44.67141",
     "geom:latitude":44.67141,
     "geom:longitude":7.922998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Annunziata 17 12064 La Morra",
     "sg:city":"La Morra",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236772841,
-    "wof:lastmodified":1449003069,
+    "wof:lastmodified":1466296441,
     "wof:name":"Sole Di San Martino Di Veglio E C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "item"
     ]
 },
-  "bbox": [7.922998,44.67141,7.922998,44.67141],
+  "bbox": [
+    7.922998,
+    44.67141,
+    7.922998,
+    44.67141
+],
   "geometry": {"coordinates":[7.922998,44.67141],"type":"Point"}
 }

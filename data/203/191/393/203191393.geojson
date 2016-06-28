@@ -2,13 +2,14 @@
   "id": 203191393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.053545,45.619873,8.053545,45.619873",
     "geom:latitude":45.619873,
     "geom:longitude":8.053545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13811 Tavigliano",
     "sg:city":"Tavigliano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203191393,
-    "wof:lastmodified":1449026083,
+    "wof:lastmodified":1466289779,
     "wof:name":"Nelva Enzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.053545,45.619873,8.053545,45.619873],
+  "bbox": [
+    8.053545,
+    45.619873,
+    8.053545,
+    45.619873
+],
   "geometry": {"coordinates":[8.053545,45.619873],"type":"Point"}
 }

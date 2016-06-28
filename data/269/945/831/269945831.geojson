@@ -2,13 +2,14 @@
   "id": 269945831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.217567,40.934742,17.217567,40.934742",
     "geom:latitude":40.934742,
     "geom:longitude":17.217567,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70043 Monopoli",
     "sg:city":"Cozzana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269945831,
-    "wof:lastmodified":1449036353,
+    "wof:lastmodified":1466294663,
     "wof:name":"Colonia Climatica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.217567,40.934742,17.217567,40.934742],
+  "bbox": [
+    17.217567,
+    40.934742,
+    17.217567,
+    40.934742
+],
   "geometry": {"coordinates":[17.217567,40.934742],"type":"Point"}
 }

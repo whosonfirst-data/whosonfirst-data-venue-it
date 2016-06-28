@@ -2,13 +2,14 @@
   "id": 220096847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.321605,40.898869,14.321605,40.898869",
     "geom:latitude":40.898869,
     "geom:longitude":14.321605,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Via Capri 80026 Casoria",
     "sg:city":"Casoria",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220096847,
-    "wof:lastmodified":1449074276,
+    "wof:lastmodified":1466295913,
     "wof:name":"F.b.s. (s.p.a.)",
     "wof:parent_id":85904801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [14.321605,40.898869,14.321605,40.898869],
+  "bbox": [
+    14.321605,
+    40.898869,
+    14.321605,
+    40.898869
+],
   "geometry": {"coordinates":[14.321605,40.898869],"type":"Point"}
 }

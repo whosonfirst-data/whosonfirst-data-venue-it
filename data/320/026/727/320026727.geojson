@@ -2,13 +2,14 @@
   "id": 320026727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.320526,44.497162,11.320526,44.497162",
     "geom:latitude":44.497162,
     "geom:longitude":11.320526,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40131 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320026727,
-    "wof:lastmodified":1449013456,
+    "wof:lastmodified":1466293717,
     "wof:name":"Nuova Colormax Srl",
     "wof:parent_id":85904593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.320526,44.497162,11.320526,44.497162],
+  "bbox": [
+    11.320526,
+    44.497162,
+    11.320526,
+    44.497162
+],
   "geometry": {"coordinates":[11.320526,44.497162],"type":"Point"}
 }

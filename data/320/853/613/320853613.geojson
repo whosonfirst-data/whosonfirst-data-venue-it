@@ -2,13 +2,14 @@
   "id": 320853613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.038548,45.526299,9.038548,45.526299",
     "geom:latitude":45.526299,
     "geom:longitude":9.038548,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"77, Viale Italia 20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320853613,
-    "wof:lastmodified":1449012776,
+    "wof:lastmodified":1466298299,
     "wof:name":"Saes Getters S.p.a.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "measurement"
     ]
 },
-  "bbox": [9.038548,45.526299,9.038548,45.526299],
+  "bbox": [
+    9.038548,
+    45.526299,
+    9.038548,
+    45.526299
+],
   "geometry": {"coordinates":[9.038548,45.526299],"type":"Point"}
 }

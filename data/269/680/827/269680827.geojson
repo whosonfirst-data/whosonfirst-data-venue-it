@@ -2,13 +2,14 @@
   "id": 269680827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.537372,45.618896,12.537372,45.618896",
     "geom:latitude":45.618896,
     "geom:longitude":12.537372,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41, Via Industrie 30024 Musile Di Piave",
     "sg:city":"Musile di Piave",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269680827,
-    "wof:lastmodified":1449037824,
+    "wof:lastmodified":1466291384,
     "wof:name":"Personal Time Promotion S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [12.537372,45.618896,12.537372,45.618896],
+  "bbox": [
+    12.537372,
+    45.618896,
+    12.537372,
+    45.618896
+],
   "geometry": {"coordinates":[12.537372,45.618896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320118297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.285615,45.482059,10.285615,45.482059",
     "geom:latitude":45.482059,
     "geom:longitude":10.285615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25014 Castenedolo",
     "sg:city":"Castenedolo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320118297,
-    "wof:lastmodified":1449014254,
+    "wof:lastmodified":1466294837,
     "wof:name":"Officine F.lli Venturelli (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.285615,45.482059,10.285615,45.482059],
+  "bbox": [
+    10.285615,
+    45.482059,
+    10.285615,
+    45.482059
+],
   "geometry": {"coordinates":[10.285615,45.482059],"type":"Point"}
 }

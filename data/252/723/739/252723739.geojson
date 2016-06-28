@@ -2,13 +2,14 @@
   "id": 252723739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.279297,40.892002,14.279297,40.892002",
     "geom:latitude":40.892002,
     "geom:longitude":14.279297,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80144 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252723739,
-    "wof:lastmodified":1449006056,
+    "wof:lastmodified":1466289076,
     "wof:name":"Kemi Sposa Di Minichino Carlo",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.279297,40.892002,14.279297,40.892002],
+  "bbox": [
+    14.279297,
+    40.892002,
+    14.279297,
+    40.892002
+],
   "geometry": {"coordinates":[14.279297,40.892002],"type":"Point"}
 }

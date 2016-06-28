@@ -2,13 +2,14 @@
   "id": 304063385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.225597,45.565487,10.225597,45.565487",
     "geom:latitude":45.565487,
     "geom:longitude":10.225597,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25128 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304063385,
-    "wof:lastmodified":1449043614,
+    "wof:lastmodified":1466293027,
     "wof:name":"Folt Car (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.225597,45.565487,10.225597,45.565487],
+  "bbox": [
+    10.225597,
+    45.565487,
+    10.225597,
+    45.565487
+],
   "geometry": {"coordinates":[10.225597,45.565487],"type":"Point"}
 }

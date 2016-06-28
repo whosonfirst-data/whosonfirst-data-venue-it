@@ -2,13 +2,14 @@
   "id": 236129469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.985064,40.98391,13.985064,40.98391",
     "geom:latitude":40.98391,
     "geom:longitude":13.985064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nuoro 81030 Castel Volturno",
     "sg:city":"Castel Volturno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236129469,
-    "wof:lastmodified":1449004483,
+    "wof:lastmodified":1466290183,
     "wof:name":"Grieco Sas Di Assunta Grieco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "glasses"
     ]
 },
-  "bbox": [13.985064,40.98391,13.985064,40.98391],
+  "bbox": [
+    13.985064,
+    40.98391,
+    13.985064,
+    40.98391
+],
   "geometry": {"coordinates":[13.985064,40.98391],"type":"Point"}
 }

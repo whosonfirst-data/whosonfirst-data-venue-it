@@ -2,13 +2,14 @@
   "id": 203254933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.392398,45.113407,7.392398,45.113407",
     "geom:latitude":45.113407,
     "geom:longitude":7.392398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 Almese",
     "sg:city":"Almese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203254933,
-    "wof:lastmodified":1449026283,
+    "wof:lastmodified":1466290405,
     "wof:name":"Associazione Volontari Antincendi Boschivi Di Almese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.392398,45.113407,7.392398,45.113407],
+  "bbox": [
+    7.392398,
+    45.113407,
+    7.392398,
+    45.113407
+],
   "geometry": {"coordinates":[7.392398,45.113407],"type":"Point"}
 }

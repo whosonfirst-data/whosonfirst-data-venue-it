@@ -2,13 +2,14 @@
   "id": 286710383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.628589,44.697163,10.628589,44.697163",
     "geom:latitude":44.697163,
     "geom:longitude":10.628589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Guido Da Castello 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286710383,
-    "wof:lastmodified":1449015358,
+    "wof:lastmodified":1466295339,
     "wof:name":"Societa' Cattolica Di Re Costruzioni Edili E Strad",
     "wof:parent_id":85904881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [10.628589,44.697163,10.628589,44.697163],
+  "bbox": [
+    10.628589,
+    44.697163,
+    10.628589,
+    44.697163
+],
   "geometry": {"coordinates":[10.628589,44.697163],"type":"Point"}
 }

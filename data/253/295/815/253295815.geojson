@@ -2,13 +2,14 @@
   "id": 253295815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.031425,40.425018,18.031425,40.425018",
     "geom:latitude":40.425018,
     "geom:longitude":18.031425,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73019 Trepuzzi",
     "sg:city":"Trepuzzi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253295815,
-    "wof:lastmodified":1449064026,
+    "wof:lastmodified":1466292157,
     "wof:name":"Villa Iris I. D. & A. Ss. Di Ruggeri A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.031425,40.425018,18.031425,40.425018],
+  "bbox": [
+    18.031425,
+    40.425018,
+    18.031425,
+    40.425018
+],
   "geometry": {"coordinates":[18.031425,40.425018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219762217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.628581,40.879658,14.628581,40.879658",
     "geom:latitude":40.879658,
     "geom:longitude":14.628581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Del Balzo 83023 Lauro",
     "sg:city":"Lauro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219762217,
-    "wof:lastmodified":1449072891,
+    "wof:lastmodified":1466293904,
     "wof:name":"O'paraviso Sas Di Manzi Carmela & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [14.628581,40.879658,14.628581,40.879658],
+  "bbox": [
+    14.628581,
+    40.879658,
+    14.628581,
+    40.879658
+],
   "geometry": {"coordinates":[14.628581,40.879658],"type":"Point"}
 }

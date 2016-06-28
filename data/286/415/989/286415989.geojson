@@ -2,13 +2,14 @@
   "id": 286415989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.5339,41.464977,15.5339,41.464977",
     "geom:latitude":41.464977,
     "geom:longitude":15.5339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71100 Foggia",
     "sg:city":"Foggia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286415989,
-    "wof:lastmodified":1449017308,
+    "wof:lastmodified":1466291690,
     "wof:name":"Edil Termogas Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.5339,41.464977,15.5339,41.464977],
+  "bbox": [
+    15.5339,
+    41.464977,
+    15.5339,
+    41.464977
+],
   "geometry": {"coordinates":[15.5339,41.464977],"type":"Point"}
 }

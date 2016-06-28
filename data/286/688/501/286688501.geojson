@@ -2,13 +2,14 @@
   "id": 286688501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.849228,45.680618,11.849228,45.680618",
     "geom:latitude":45.680618,
     "geom:longitude":11.849228,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31030 Castello Di Godego",
     "sg:city":"Castello di Godego",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286688501,
-    "wof:lastmodified":1449016281,
+    "wof:lastmodified":1466295071,
     "wof:name":"Gazzola Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.849228,45.680618,11.849228,45.680618],
+  "bbox": [
+    11.849228,
+    45.680618,
+    11.849228,
+    45.680618
+],
   "geometry": {"coordinates":[11.849228,45.680618],"type":"Point"}
 }

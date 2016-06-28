@@ -2,13 +2,14 @@
   "id": 303128179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.884594,41.093781,16.884594,41.093781",
     "geom:latitude":41.093781,
     "geom:longitude":16.884594,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70125 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303128179,
-    "wof:lastmodified":1448999077,
+    "wof:lastmodified":1466292021,
     "wof:name":"Sancineti Alessandro",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.884594,41.093781,16.884594,41.093781],
+  "bbox": [
+    16.884594,
+    41.093781,
+    16.884594,
+    41.093781
+],
   "geometry": {"coordinates":[16.884594,41.093781],"type":"Point"}
 }

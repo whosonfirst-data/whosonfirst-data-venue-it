@@ -2,13 +2,14 @@
   "id": 270176627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.618443,45.749569,7.618443,45.749569",
     "geom:latitude":45.749569,
     "geom:longitude":7.618443,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Stazione 22/b 11024 Chatillon",
     "sg:city":"Chatillon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270176627,
-    "wof:lastmodified":1449010267,
+    "wof:lastmodified":1466291082,
     "wof:name":"M.d.m. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "rivets"
     ]
 },
-  "bbox": [7.618443,45.749569,7.618443,45.749569],
+  "bbox": [
+    7.618443,
+    45.749569,
+    7.618443,
+    45.749569
+],
   "geometry": {"coordinates":[7.618443,45.749569],"type":"Point"}
 }

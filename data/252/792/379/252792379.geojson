@@ -2,13 +2,14 @@
   "id": 252792379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.502247,44.036812,10.502247,44.036812",
     "geom:latitude":44.036812,
     "geom:longitude":10.502247,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55025 Coreglia Antelminelli",
     "sg:city":"Coreglia Antelminelli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252792379,
-    "wof:lastmodified":1449005654,
+    "wof:lastmodified":1466289816,
     "wof:name":"Simani Industrie Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.502247,44.036812,10.502247,44.036812],
+  "bbox": [
+    10.502247,
+    44.036812,
+    10.502247,
+    44.036812
+],
   "geometry": {"coordinates":[10.502247,44.036812],"type":"Point"}
 }

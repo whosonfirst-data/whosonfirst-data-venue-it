@@ -2,13 +2,14 @@
   "id": 219274347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.092255,45.510517,9.092255,45.510517",
     "geom:latitude":45.510517,
     "geom:longitude":9.092255,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gramsci, 14/34 20016 Pero",
     "sg:city":"Pero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219274347,
-    "wof:lastmodified":1449070824,
+    "wof:lastmodified":1466289038,
     "wof:name":"Filpac Srl",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.092255,45.510517,9.092255,45.510517],
+  "bbox": [
+    9.092255,
+    45.510517,
+    9.092255,
+    45.510517
+],
   "geometry": {"coordinates":[9.092255,45.510517],"type":"Point"}
 }

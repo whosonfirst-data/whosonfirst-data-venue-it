@@ -2,13 +2,14 @@
   "id": 304069619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.790119,44.656864,10.790119,44.656864",
     "geom:latitude":44.656864,
     "geom:longitude":10.790119,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42048 Rubiera",
     "sg:classifiers":[],
     "sg:orig_category":"Attrezzature Meccaniche",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304069619,
-    "wof:lastmodified":1449043972,
+    "wof:lastmodified":1466293113,
     "wof:name":"Barbieri & C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.790119,44.656864,10.790119,44.656864],
+  "bbox": [
+    10.790119,
+    44.656864,
+    10.790119,
+    44.656864
+],
   "geometry": {"coordinates":[10.790119,44.656864],"type":"Point"}
 }

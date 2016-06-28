@@ -2,13 +2,14 @@
   "id": 270332609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.779249,45.141235,7.779249,45.141235",
     "geom:latitude":45.141235,
     "geom:longitude":7.779249,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10036 Settimo Torinese",
     "sg:city":"Settimo Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270332609,
-    "wof:lastmodified":1449010006,
+    "wof:lastmodified":1466293040,
     "wof:name":"Anna Talarico Snc Di Talarico Anna & C.",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.779249,45.141235,7.779249,45.141235],
+  "bbox": [
+    7.779249,
+    45.141235,
+    7.779249,
+    45.141235
+],
   "geometry": {"coordinates":[7.779249,45.141235],"type":"Point"}
 }

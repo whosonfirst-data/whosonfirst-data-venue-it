@@ -2,13 +2,14 @@
   "id": 270036047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.967204,42.508926,13.967204,42.508926",
     "geom:latitude":42.508926,
     "geom:longitude":13.967204,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65010 Elice",
     "sg:city":"Elice",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270036047,
-    "wof:lastmodified":1449009168,
+    "wof:lastmodified":1466289414,
     "wof:name":"Inerti Valfino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.967204,42.508926,13.967204,42.508926],
+  "bbox": [
+    13.967204,
+    42.508926,
+    13.967204,
+    42.508926
+],
   "geometry": {"coordinates":[13.967204,42.508926],"type":"Point"}
 }

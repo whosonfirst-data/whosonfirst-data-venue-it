@@ -2,13 +2,14 @@
   "id": 236647963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.432614,38.19529,15.432614,38.19529",
     "geom:latitude":38.19529,
     "geom:longitude":15.432614,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Roma 98047 Saponara",
     "sg:city":"Saponara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236647963,
-    "wof:lastmodified":1449003162,
+    "wof:lastmodified":1466295458,
     "wof:name":"Progetto Verde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [15.432614,38.19529,15.432614,38.19529],
+  "bbox": [
+    15.432614,
+    38.19529,
+    15.432614,
+    38.19529
+],
   "geometry": {"coordinates":[15.432614,38.19529],"type":"Point"}
 }

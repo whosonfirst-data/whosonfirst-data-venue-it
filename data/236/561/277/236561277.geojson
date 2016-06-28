@@ -2,13 +2,14 @@
   "id": 236561277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.217005,45.565136,9.217005,45.565136",
     "geom:latitude":45.565136,
     "geom:longitude":9.217005,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Monte Grappa 20035 Lissone",
     "sg:city":"Lissone",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236561277,
-    "wof:lastmodified":1449004092,
+    "wof:lastmodified":1466294668,
     "wof:name":"Citterio Salotti (s.n.c.)",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.217005,45.565136,9.217005,45.565136],
+  "bbox": [
+    9.217005,
+    45.565136,
+    9.217005,
+    45.565136
+],
   "geometry": {"coordinates":[9.217005,45.565136],"type":"Point"}
 }

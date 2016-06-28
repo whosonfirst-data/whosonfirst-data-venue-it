@@ -2,13 +2,14 @@
   "id": 287258945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.645397,44.950054,7.645397,44.950054",
     "geom:latitude":44.950054,
     "geom:longitude":7.645397,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Oitana 2/6 10048 Vinovo",
     "sg:city":"Vinovo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287258945,
-    "wof:lastmodified":1449001364,
+    "wof:lastmodified":1466293037,
     "wof:name":"Elma Srl",
     "wof:parent_id":85797015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.645397,44.950054,7.645397,44.950054],
+  "bbox": [
+    7.645397,
+    44.950054,
+    7.645397,
+    44.950054
+],
   "geometry": {"coordinates":[7.645397,44.950054],"type":"Point"}
 }

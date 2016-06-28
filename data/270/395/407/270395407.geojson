@@ -2,13 +2,14 @@
   "id": 270395407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.713685,45.039268,9.713685,45.039268",
     "geom:latitude":45.039268,
     "geom:longitude":9.713685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270395407,
-    "wof:lastmodified":1449010720,
+    "wof:lastmodified":1466293812,
     "wof:name":"Astorri Snc Di Astorri Anna Maria E Monica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.713685,45.039268,9.713685,45.039268],
+  "bbox": [
+    9.713685,
+    45.039268,
+    9.713685,
+    45.039268
+],
   "geometry": {"coordinates":[9.713685,45.039268],"type":"Point"}
 }

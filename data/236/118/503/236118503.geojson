@@ -2,13 +2,14 @@
   "id": 236118503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.797698,45.160366,10.797698,45.160366",
     "geom:latitude":45.160366,
     "geom:longitude":10.797698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Brigoni 19/21 46046 Medole",
     "sg:city":"Medole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236118503,
-    "wof:lastmodified":1449004492,
+    "wof:lastmodified":1466290079,
     "wof:name":"Ipa Impiallacciature Placaggio Ed A Ffini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "panel"
     ]
 },
-  "bbox": [10.797698,45.160366,10.797698,45.160366],
+  "bbox": [
+    10.797698,
+    45.160366,
+    10.797698,
+    45.160366
+],
   "geometry": {"coordinates":[10.797698,45.160366],"type":"Point"}
 }

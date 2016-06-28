@@ -2,13 +2,14 @@
   "id": 286333585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.59315,43.88039,10.59315,43.88039",
     "geom:latitude":43.88039,
     "geom:longitude":10.59315,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nuova 38 55018 Segromigno In Monte",
     "sg:city":"Segromigno in Monte",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286333585,
-    "wof:lastmodified":1449017883,
+    "wof:lastmodified":1466290479,
     "wof:name":"Import-export Fox Di Cintolesi Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "children's"
     ]
 },
-  "bbox": [10.59315,43.88039,10.59315,43.88039],
+  "bbox": [
+    10.59315,
+    43.88039,
+    10.59315,
+    43.88039
+],
   "geometry": {"coordinates":[10.59315,43.88039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303060265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.204213,45.601669,9.204213,45.601669",
     "geom:latitude":45.601669,
     "geom:longitude":9.204213,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Viale Degli Artigiani 20033 Desio",
     "sg:city":"Desio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303060265,
-    "wof:lastmodified":1449000341,
+    "wof:lastmodified":1466291115,
     "wof:name":"Contardi Lighting Systems Snc Di Carcano A. E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.204213,45.601669,9.204213,45.601669],
+  "bbox": [
+    9.204213,
+    45.601669,
+    9.204213,
+    45.601669
+],
   "geometry": {"coordinates":[9.204213,45.601669],"type":"Point"}
 }

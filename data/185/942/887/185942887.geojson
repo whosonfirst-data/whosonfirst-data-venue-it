@@ -2,13 +2,14 @@
   "id": 185942887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.495595,45.311214,9.495595,45.311214",
     "geom:latitude":45.311214,
     "geom:longitude":9.495595,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Popenghi Lombordo 13, Lodi, Lo",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185942887,
-    "wof:lastmodified":1449007357,
+    "wof:lastmodified":1466290388,
     "wof:name":"Bipielle Partecipazioni Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.495595,45.311214,9.495595,45.311214],
+  "bbox": [
+    9.495595,
+    45.311214,
+    9.495595,
+    45.311214
+],
   "geometry": {"coordinates":[9.495595,45.311214],"type":"Point"}
 }

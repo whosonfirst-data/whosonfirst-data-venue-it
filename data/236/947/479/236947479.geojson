@@ -2,13 +2,14 @@
   "id": 236947479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.64273,46.162983,9.64273,46.162983",
     "geom:latitude":46.162983,
     "geom:longitude":9.64273,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 70 23011 Ardenno",
     "sg:city":"Ardenno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236947479,
-    "wof:lastmodified":1449004151,
+    "wof:lastmodified":1466297323,
     "wof:name":"Rossi Graniti Snc Di Rossi Valter & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.64273,46.162983,9.64273,46.162983],
+  "bbox": [
+    9.64273,
+    46.162983,
+    9.64273,
+    46.162983
+],
   "geometry": {"coordinates":[9.64273,46.162983],"type":"Point"}
 }

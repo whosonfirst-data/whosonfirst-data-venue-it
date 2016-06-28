@@ -2,13 +2,14 @@
   "id": 236646419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.174486,45.67474,9.174486,45.67474",
     "geom:latitude":45.67474,
     "geom:longitude":9.174486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"107, Viale Repubblica 22060 Cabiate",
     "sg:city":"Cabiate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236646419,
-    "wof:lastmodified":1449001619,
+    "wof:lastmodified":1466295443,
     "wof:name":"Pozzoli (s.r.l.)",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.174486,45.67474,9.174486,45.67474],
+  "bbox": [
+    9.174486,
+    45.67474,
+    9.174486,
+    45.67474
+],
   "geometry": {"coordinates":[9.174486,45.67474],"type":"Point"}
 }

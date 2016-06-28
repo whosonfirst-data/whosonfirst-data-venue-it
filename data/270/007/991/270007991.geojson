@@ -2,13 +2,14 @@
   "id": 270007991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.298555,39.859486,18.298555,39.859486",
     "geom:latitude":39.859486,
     "geom:longitude":18.298555,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73050 Secl\u00ec",
     "sg:classifiers":[],
     "sg:orig_category":"Alluminio E Leghe",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270007991,
-    "wof:lastmodified":1449010647,
+    "wof:lastmodified":1466289093,
     "wof:name":"Escelsior Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.298555,39.859486,18.298555,39.859486],
+  "bbox": [
+    18.298555,
+    39.859486,
+    18.298555,
+    39.859486
+],
   "geometry": {"coordinates":[18.298555,39.859486],"type":"Point"}
 }

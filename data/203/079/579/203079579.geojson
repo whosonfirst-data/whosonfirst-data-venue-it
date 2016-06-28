@@ -2,13 +2,14 @@
   "id": 203079579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.370547,40.788258,14.370547,40.788258",
     "geom:latitude":40.788258,
     "geom:longitude":14.370547,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80059 Torre Del Greco",
     "sg:city":"Torre del Greco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203079579,
-    "wof:lastmodified":1449026529,
+    "wof:lastmodified":1466295834,
     "wof:name":"Porzio Margherita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.370547,40.788258,14.370547,40.788258],
+  "bbox": [
+    14.370547,
+    40.788258,
+    14.370547,
+    40.788258
+],
   "geometry": {"coordinates":[14.370547,40.788258],"type":"Point"}
 }

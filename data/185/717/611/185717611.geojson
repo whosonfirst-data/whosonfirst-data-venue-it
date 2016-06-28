@@ -2,13 +2,14 @@
   "id": 185717611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.247763,45.665157,12.247763,45.665157",
     "geom:latitude":45.665157,
     "geom:longitude":12.247763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Filodrammactici 4; Treviso",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185717611,
-    "wof:lastmodified":1449006623,
+    "wof:lastmodified":1466295934,
     "wof:name":"Banca Di Trento E Bolzano Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.247763,45.665157,12.247763,45.665157],
+  "bbox": [
+    12.247763,
+    45.665157,
+    12.247763,
+    45.665157
+],
   "geometry": {"coordinates":[12.247763,45.665157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186527379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.147895,45.472073,9.147895,45.472073",
     "geom:latitude":45.472073,
     "geom:longitude":9.147895,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41, Via Domenichino 20149 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186527379,
-    "wof:lastmodified":1449052454,
+    "wof:lastmodified":1466292568,
     "wof:name":"Albergo Hotel Domenichino Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [9.147895,45.472073,9.147895,45.472073],
+  "bbox": [
+    9.147895,
+    45.472073,
+    9.147895,
+    45.472073
+],
   "geometry": {"coordinates":[9.147895,45.472073],"type":"Point"}
 }

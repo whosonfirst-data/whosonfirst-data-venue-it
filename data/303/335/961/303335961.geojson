@@ -2,13 +2,14 @@
   "id": 303335961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.067842,37.494087,14.067842,37.494087",
     "geom:latitude":37.494087,
     "geom:longitude":14.067842,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93015 Niscemi",
     "sg:city":"Niscemi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303335961,
-    "wof:lastmodified":1448999731,
+    "wof:lastmodified":1466294681,
     "wof:name":"Sicilpiano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.067842,37.494087,14.067842,37.494087],
+  "bbox": [
+    14.067842,
+    37.494087,
+    14.067842,
+    37.494087
+],
   "geometry": {"coordinates":[14.067842,37.494087],"type":"Point"}
 }

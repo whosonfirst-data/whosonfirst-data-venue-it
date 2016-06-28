@@ -2,13 +2,14 @@
   "id": 219790745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.842027,45.814335,8.842027,45.814335",
     "geom:latitude":45.814335,
     "geom:longitude":8.842027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Salvore 48 21100 Varese",
     "sg:city":"Varese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219790745,
-    "wof:lastmodified":1449073110,
+    "wof:lastmodified":1466294184,
     "wof:name":"Ernesto Vaj & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.842027,45.814335,8.842027,45.814335],
+  "bbox": [
+    8.842027,
+    45.814335,
+    8.842027,
+    45.814335
+],
   "geometry": {"coordinates":[8.842027,45.814335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253703327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.191214,40.96402,14.191214,40.96402",
     "geom:latitude":40.96402,
     "geom:longitude":14.191214,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81030 Lusciano",
     "sg:city":"Lusciano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253703327,
-    "wof:lastmodified":1449063712,
+    "wof:lastmodified":1466296674,
     "wof:name":"Serr. All. 91 Sas",
     "wof:parent_id":85900413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.191214,40.96402,14.191214,40.96402],
+  "bbox": [
+    14.191214,
+    40.96402,
+    14.191214,
+    40.96402
+],
   "geometry": {"coordinates":[14.191214,40.96402],"type":"Point"}
 }

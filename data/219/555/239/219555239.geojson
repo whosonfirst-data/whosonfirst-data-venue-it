@@ -2,13 +2,14 @@
   "id": 219555239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.84215,45.838028,11.84215,45.838028",
     "geom:latitude":45.838028,
     "geom:longitude":11.84215,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31017 Crespano Del Grappa",
     "sg:city":"Crespano del Grappa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219555239,
-    "wof:lastmodified":1449073406,
+    "wof:lastmodified":1466291888,
     "wof:name":"Agriturismo 'val De Roa' Di Tedesco Gianna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "restaurants"
     ]
 },
-  "bbox": [11.84215,45.838028,11.84215,45.838028],
+  "bbox": [
+    11.84215,
+    45.838028,
+    11.84215,
+    45.838028
+],
   "geometry": {"coordinates":[11.84215,45.838028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269639047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.805893,45.768475,8.805893,45.768475",
     "geom:latitude":45.768475,
     "geom:longitude":8.805893,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Campo Di Maggio 28 21020 Brunello",
     "sg:city":"Brunello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269639047,
-    "wof:lastmodified":1449038951,
+    "wof:lastmodified":1466290809,
     "wof:name":"Brunello Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [8.805893,45.768475,8.805893,45.768475],
+  "bbox": [
+    8.805893,
+    45.768475,
+    8.805893,
+    45.768475
+],
   "geometry": {"coordinates":[8.805893,45.768475],"type":"Point"}
 }

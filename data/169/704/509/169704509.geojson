@@ -2,13 +2,14 @@
   "id": 169704509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.896222,45.592358,9.896222,45.592358",
     "geom:latitude":45.592358,
     "geom:longitude":9.896222,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25037 Pontoglio",
     "sg:city":"Pontoglio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169704509,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466288982,
     "wof:name":"Ceramiche Faglia Di Faglia V. & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.896222,45.592358,9.896222,45.592358],
+  "bbox": [
+    9.896222,
+    45.592358,
+    9.896222,
+    45.592358
+],
   "geometry": {"coordinates":[9.896222,45.592358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236104467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.470767,44.379501,7.470767,44.379501",
     "geom:latitude":44.379501,
     "geom:longitude":7.470767,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 Cervasca",
     "sg:city":"Cervasca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236104467,
-    "wof:lastmodified":1449002928,
+    "wof:lastmodified":1466289945,
     "wof:name":"Bramardi Snc Di Luciano Massimo E Beccaria Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.470767,44.379501,7.470767,44.379501],
+  "bbox": [
+    7.470767,
+    44.379501,
+    7.470767,
+    44.379501
+],
   "geometry": {"coordinates":[7.470767,44.379501],"type":"Point"}
 }

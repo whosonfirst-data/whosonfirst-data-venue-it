@@ -2,13 +2,14 @@
   "id": 320617403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.208789,43.985321,10.208789,43.985321",
     "geom:latitude":43.985321,
     "geom:longitude":10.208789,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Strettoia 72 55047 Ripa",
     "sg:city":"Ripa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320617403,
-    "wof:lastmodified":1449011391,
+    "wof:lastmodified":1466297826,
     "wof:name":"S.m. Italia Di Salvatori Lorenzo E C. - S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "marble"
     ]
 },
-  "bbox": [10.208789,43.985321,10.208789,43.985321],
+  "bbox": [
+    10.208789,
+    43.985321,
+    10.208789,
+    43.985321
+],
   "geometry": {"coordinates":[10.208789,43.985321],"type":"Point"}
 }

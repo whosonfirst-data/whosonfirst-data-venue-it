@@ -2,13 +2,14 @@
   "id": 253400899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.224209,44.775116,8.224209,44.775116",
     "geom:latitude":44.775116,
     "geom:longitude":8.224209,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87, Via Asti 14053 Canelli",
     "sg:city":"Canelli",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253400899,
-    "wof:lastmodified":1449063096,
+    "wof:lastmodified":1466293416,
     "wof:name":"S.i.p.a. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [8.224209,44.775116,8.224209,44.775116],
+  "bbox": [
+    8.224209,
+    44.775116,
+    8.224209,
+    44.775116
+],
   "geometry": {"coordinates":[8.224209,44.775116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202626655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.900495,42.551323,11.900495,42.551323",
     "geom:latitude":42.551323,
     "geom:longitude":11.900495,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01010 Capodimonte",
     "sg:city":"Capodimonte",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202626655,
-    "wof:lastmodified":1449062648,
+    "wof:lastmodified":1466290259,
     "wof:name":"Navigazione La Bussola Di Checquolo Stefano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.900495,42.551323,11.900495,42.551323],
+  "bbox": [
+    11.900495,
+    42.551323,
+    11.900495,
+    42.551323
+],
   "geometry": {"coordinates":[11.900495,42.551323],"type":"Point"}
 }

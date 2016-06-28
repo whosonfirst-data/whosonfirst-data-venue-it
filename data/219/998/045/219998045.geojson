@@ -2,13 +2,14 @@
   "id": 219998045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.641246,40.641647,15.641246,40.641647",
     "geom:latitude":40.641647,
     "geom:longitude":15.641246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85055 Picerno",
     "sg:city":"Picerno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219998045,
-    "wof:lastmodified":1449071565,
+    "wof:lastmodified":1466296276,
     "wof:name":"Co.ge.f. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.641246,40.641647,15.641246,40.641647],
+  "bbox": [
+    15.641246,
+    40.641647,
+    15.641246,
+    40.641647
+],
   "geometry": {"coordinates":[15.641246,40.641647],"type":"Point"}
 }

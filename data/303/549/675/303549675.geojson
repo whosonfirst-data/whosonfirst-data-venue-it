@@ -2,13 +2,14 @@
   "id": 303549675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.667131,45.05843,9.667131,45.05843",
     "geom:latitude":45.05843,
     "geom:longitude":9.667131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303549675,
-    "wof:lastmodified":1448998785,
+    "wof:lastmodified":1466296779,
     "wof:name":"C.r.t. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.667131,45.05843,9.667131,45.05843],
+  "bbox": [
+    9.667131,
+    45.05843,
+    9.667131,
+    45.05843
+],
   "geometry": {"coordinates":[9.667131,45.05843],"type":"Point"}
 }

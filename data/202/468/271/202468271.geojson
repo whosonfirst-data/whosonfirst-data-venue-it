@@ -2,13 +2,14 @@
   "id": 202468271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.202614,40.908752,14.202614,40.908752",
     "geom:latitude":40.908752,
     "geom:longitude":14.202614,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80129 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202468271,
-    "wof:lastmodified":1449061916,
+    "wof:lastmodified":1466295806,
     "wof:name":"I Chiostri Srl",
     "wof:parent_id":85900399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.202614,40.908752,14.202614,40.908752],
+  "bbox": [
+    14.202614,
+    40.908752,
+    14.202614,
+    40.908752
+],
   "geometry": {"coordinates":[14.202614,40.908752],"type":"Point"}
 }

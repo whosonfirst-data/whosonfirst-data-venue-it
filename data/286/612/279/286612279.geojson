@@ -2,13 +2,14 @@
   "id": 286612279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.253557,43.782932,11.253557,43.782932",
     "geom:latitude":43.782932,
     "geom:longitude":11.253557,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"96, Via Lorenzo Il Magnifico 50129 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286612279,
-    "wof:lastmodified":1449016488,
+    "wof:lastmodified":1466294084,
     "wof:name":"Cravattificio Princeps Alexander",
     "wof:parent_id":85904689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.253557,43.782932,11.253557,43.782932],
+  "bbox": [
+    11.253557,
+    43.782932,
+    11.253557,
+    43.782932
+],
   "geometry": {"coordinates":[11.253557,43.782932],"type":"Point"}
 }

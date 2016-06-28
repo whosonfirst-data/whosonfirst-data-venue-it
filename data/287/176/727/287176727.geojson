@@ -2,13 +2,14 @@
   "id": 287176727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.556646,38.190144,15.556646,38.190144",
     "geom:latitude":38.190144,
     "geom:longitude":15.556646,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Garibaldi 106/a; Messina; 98122",
     "sg:city":"Messina",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287176727,
-    "wof:lastmodified":1449001265,
+    "wof:lastmodified":1466291945,
     "wof:name":"Lisciotto Viaggi S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.556646,38.190144,15.556646,38.190144],
+  "bbox": [
+    15.556646,
+    38.190144,
+    15.556646,
+    38.190144
+],
   "geometry": {"coordinates":[15.556646,38.190144],"type":"Point"}
 }

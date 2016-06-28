@@ -2,13 +2,14 @@
   "id": 253432939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.326239,45.685658,8.326239,45.685658",
     "geom:latitude":45.685658,
     "geom:longitude":8.326239,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Arturo Biella 1 28075 Grignasco",
     "sg:city":"Grignasco",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253432939,
-    "wof:lastmodified":1449062771,
+    "wof:lastmodified":1466293779,
     "wof:name":"Za-ve-ro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [8.326239,45.685658,8.326239,45.685658],
+  "bbox": [
+    8.326239,
+    45.685658,
+    8.326239,
+    45.685658
+],
   "geometry": {"coordinates":[8.326239,45.685658],"type":"Point"}
 }

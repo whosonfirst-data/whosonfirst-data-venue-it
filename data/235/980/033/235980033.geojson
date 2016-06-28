@@ -2,13 +2,14 @@
   "id": 235980033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.280169,45.773521,9.280169,45.773521",
     "geom:latitude":45.773521,
     "geom:longitude":9.280169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ai Campi 4 23849 Rogeno",
     "sg:city":"Rogeno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":235980033,
-    "wof:lastmodified":1449008300,
+    "wof:lastmodified":1466296328,
     "wof:name":"Faser Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.280169,45.773521,9.280169,45.773521],
+  "bbox": [
+    9.280169,
+    45.773521,
+    9.280169,
+    45.773521
+],
   "geometry": {"coordinates":[9.280169,45.773521],"type":"Point"}
 }

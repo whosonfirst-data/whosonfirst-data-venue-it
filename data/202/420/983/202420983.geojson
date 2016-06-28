@@ -2,13 +2,14 @@
   "id": 202420983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.600095,45.434235,8.600095,45.434235",
     "geom:latitude":45.434235,
     "geom:longitude":8.600095,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202420983,
-    "wof:lastmodified":1449061345,
+    "wof:lastmodified":1466295113,
     "wof:name":"Giorgetti Massimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.600095,45.434235,8.600095,45.434235],
+  "bbox": [
+    8.600095,
+    45.434235,
+    8.600095,
+    45.434235
+],
   "geometry": {"coordinates":[8.600095,45.434235],"type":"Point"}
 }

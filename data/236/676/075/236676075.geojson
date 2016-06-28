@@ -2,13 +2,14 @@
   "id": 236676075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.371282,45.664055,9.371282,45.664055",
     "geom:latitude":45.664055,
     "geom:longitude":9.371282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Via Magenta 23871 Lomagna",
     "sg:city":"Lomagna",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236676075,
-    "wof:lastmodified":1449003832,
+    "wof:lastmodified":1466295720,
     "wof:name":"Viscoret (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.371282,45.664055,9.371282,45.664055],
+  "bbox": [
+    9.371282,
+    45.664055,
+    9.371282,
+    45.664055
+],
   "geometry": {"coordinates":[9.371282,45.664055],"type":"Point"}
 }

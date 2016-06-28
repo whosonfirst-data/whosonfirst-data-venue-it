@@ -2,13 +2,14 @@
   "id": 253605209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.114964,43.768982,11.114964,43.768982",
     "geom:latitude":43.768982,
     "geom:longitude":11.114964,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Palmiro Togliatti 23 50058 Signa",
     "sg:city":"Signa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253605209,
-    "wof:lastmodified":1449064255,
+    "wof:lastmodified":1466296006,
     "wof:name":"Maros Srl",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.114964,43.768982,11.114964,43.768982],
+  "bbox": [
+    11.114964,
+    43.768982,
+    11.114964,
+    43.768982
+],
   "geometry": {"coordinates":[11.114964,43.768982],"type":"Point"}
 }

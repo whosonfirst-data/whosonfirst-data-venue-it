@@ -2,13 +2,14 @@
   "id": 202516449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.23,45.542267,9.23,45.542267",
     "geom:latitude":45.542267,
     "geom:longitude":9.23,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202516449,
-    "wof:lastmodified":1449060600,
+    "wof:lastmodified":1466289132,
     "wof:name":"Ambienti Interni Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.23,45.542267,9.23,45.542267],
+  "bbox": [
+    9.23,
+    45.542267,
+    9.23,
+    45.542267
+],
   "geometry": {"coordinates":[9.23,45.542267],"type":"Point"}
 }

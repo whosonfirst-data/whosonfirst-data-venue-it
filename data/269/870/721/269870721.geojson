@@ -2,13 +2,14 @@
   "id": 269870721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.869291,41.126053,16.869291,41.126053",
     "geom:latitude":41.126053,
     "geom:longitude":16.869291,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Elia 70033 Corato",
     "sg:city":"Corato",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269870721,
-    "wof:lastmodified":1449036787,
+    "wof:lastmodified":1466293822,
     "wof:name":"Semolifici Andriesi Srl",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [16.869291,41.126053,16.869291,41.126053],
+  "bbox": [
+    16.869291,
+    41.126053,
+    16.869291,
+    41.126053
+],
   "geometry": {"coordinates":[16.869291,41.126053],"type":"Point"}
 }

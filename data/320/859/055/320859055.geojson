@@ -2,13 +2,14 @@
   "id": 320859055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.188141,45.463688,9.188141,45.463688",
     "geom:latitude":45.463688,
     "geom:longitude":9.188141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavour, 18 - Binzago 20031 Cesano Maderno",
     "sg:city":"Binzago",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320859055,
-    "wof:lastmodified":1449013936,
+    "wof:lastmodified":1466298305,
     "wof:name":"Salumificio Rho Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.188141,45.463688,9.188141,45.463688],
+  "bbox": [
+    9.188141,
+    45.463688,
+    9.188141,
+    45.463688
+],
   "geometry": {"coordinates":[9.188141,45.463688],"type":"Point"}
 }

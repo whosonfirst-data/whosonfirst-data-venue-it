@@ -2,13 +2,14 @@
   "id": 320537365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.440354,41.855011,12.440354,41.855011",
     "geom:latitude":41.855011,
     "geom:longitude":12.440354,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Portuense 195 00149 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320537365,
-    "wof:lastmodified":1449012173,
+    "wof:lastmodified":1466297665,
     "wof:name":"Indio Impresa Individuale",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "make-up"
     ]
 },
-  "bbox": [12.440354,41.855011,12.440354,41.855011],
+  "bbox": [
+    12.440354,
+    41.855011,
+    12.440354,
+    41.855011
+],
   "geometry": {"coordinates":[12.440354,41.855011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236448813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.772674,45.130756,10.772674,45.130756",
     "geom:latitude":45.130756,
     "geom:longitude":10.772674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lombardi Riccardo 46010 Curtatone",
     "sg:city":"Curtatone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236448813,
-    "wof:lastmodified":1449005059,
+    "wof:lastmodified":1466293515,
     "wof:name":"Tognazzoni (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [10.772674,45.130756,10.772674,45.130756],
+  "bbox": [
+    10.772674,
+    45.130756,
+    10.772674,
+    45.130756
+],
   "geometry": {"coordinates":[10.772674,45.130756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253178785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.535295,45.005138,7.535295,45.005138",
     "geom:latitude":45.005138,
     "geom:longitude":7.535295,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10043 Orbassano",
     "sg:city":"Orbassano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253178785,
-    "wof:lastmodified":1449064959,
+    "wof:lastmodified":1466290775,
     "wof:name":"Impresa Sirio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.535295,45.005138,7.535295,45.005138],
+  "bbox": [
+    7.535295,
+    45.005138,
+    7.535295,
+    45.005138
+],
   "geometry": {"coordinates":[7.535295,45.005138],"type":"Point"}
 }

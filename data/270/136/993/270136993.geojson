@@ -2,13 +2,14 @@
   "id": 270136993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.159049,45.141865,8.159049,45.141865",
     "geom:latitude":45.141865,
     "geom:longitude":8.159049,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15020 Villamiroglio",
     "sg:city":"Villamiroglio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270136993,
-    "wof:lastmodified":1449011096,
+    "wof:lastmodified":1466290624,
     "wof:name":"S.i.s.t.e.m.a Di Salmin Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.159049,45.141865,8.159049,45.141865],
+  "bbox": [
+    8.159049,
+    45.141865,
+    8.159049,
+    45.141865
+],
   "geometry": {"coordinates":[8.159049,45.141865],"type":"Point"}
 }

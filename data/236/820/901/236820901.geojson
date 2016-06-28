@@ -2,13 +2,14 @@
   "id": 236820901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.21851,45.492516,9.21851,45.492516",
     "geom:latitude":45.492516,
     "geom:longitude":9.21851,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236820901,
-    "wof:lastmodified":1449003339,
+    "wof:lastmodified":1466296649,
     "wof:name":"Uslengo Guido",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.21851,45.492516,9.21851,45.492516],
+  "bbox": [
+    9.21851,
+    45.492516,
+    9.21851,
+    45.492516
+],
   "geometry": {"coordinates":[9.21851,45.492516],"type":"Point"}
 }

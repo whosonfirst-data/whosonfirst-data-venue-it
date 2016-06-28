@@ -2,13 +2,14 @@
   "id": 202958565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.294909,45.93396,10.294909,45.93396",
     "geom:latitude":45.93396,
     "geom:longitude":10.294909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25040 Bienno",
     "sg:city":"Bienno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202958565,
-    "wof:lastmodified":1449062099,
+    "wof:lastmodified":1466293802,
     "wof:name":"L'arte Del Cucito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.294909,45.93396,10.294909,45.93396],
+  "bbox": [
+    10.294909,
+    45.93396,
+    10.294909,
+    45.93396
+],
   "geometry": {"coordinates":[10.294909,45.93396],"type":"Point"}
 }

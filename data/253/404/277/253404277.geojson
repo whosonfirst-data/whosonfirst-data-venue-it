@@ -2,13 +2,14 @@
   "id": 253404277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.476141,45.828075,12.476141,45.828075",
     "geom:latitude":45.828075,
     "geom:longitude":12.476141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Via Delle Industrie 31043 Fontanelle",
     "sg:city":"Fontanelle",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253404277,
-    "wof:lastmodified":1449064803,
+    "wof:lastmodified":1466293453,
     "wof:name":"Sovepan (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.476141,45.828075,12.476141,45.828075],
+  "bbox": [
+    12.476141,
+    45.828075,
+    12.476141,
+    45.828075
+],
   "geometry": {"coordinates":[12.476141,45.828075],"type":"Point"}
 }

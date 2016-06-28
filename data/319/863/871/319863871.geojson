@@ -2,13 +2,14 @@
   "id": 319863871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.30878,45.527946,10.30878,45.527946",
     "geom:latitude":45.527946,
     "geom:longitude":10.30878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giulio Pastore 11/15 25082 Botticino Sera",
     "sg:city":"Botticino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319863871,
-    "wof:lastmodified":1449024613,
+    "wof:lastmodified":1466293029,
     "wof:name":"Autotex Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "automation"
     ]
 },
-  "bbox": [10.30878,45.527946,10.30878,45.527946],
+  "bbox": [
+    10.30878,
+    45.527946,
+    10.30878,
+    45.527946
+],
   "geometry": {"coordinates":[10.30878,45.527946],"type":"Point"}
 }

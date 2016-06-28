@@ -2,13 +2,14 @@
   "id": 186409777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.250107,41.745926,12.250107,41.745926",
     "geom:latitude":41.745926,
     "geom:longitude":12.250107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Via Odino Giovanni Carlo 00054 Fiumicino",
     "sg:city":"Fiumicino",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186409777,
-    "wof:lastmodified":1449051478,
+    "wof:lastmodified":1466291442,
     "wof:name":"Costruzioni Navali Navarcantieri Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.250107,41.745926,12.250107,41.745926],
+  "bbox": [
+    12.250107,
+    41.745926,
+    12.250107,
+    41.745926
+],
   "geometry": {"coordinates":[12.250107,41.745926],"type":"Point"}
 }

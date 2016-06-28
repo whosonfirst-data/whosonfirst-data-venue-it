@@ -2,13 +2,14 @@
   "id": 185725519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.11496,42.422325,12.11496,42.422325",
     "geom:latitude":42.422325,
     "geom:longitude":12.11496,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Genova 52; Viterbo; 01100",
     "sg:city":"Viterbo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185725519,
-    "wof:lastmodified":1449007007,
+    "wof:lastmodified":1466296136,
     "wof:name":"Banca Nazionale Del Lavore Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.11496,42.422325,12.11496,42.422325],
+  "bbox": [
+    12.11496,
+    42.422325,
+    12.11496,
+    42.422325
+],
   "geometry": {"coordinates":[12.11496,42.422325],"type":"Point"}
 }

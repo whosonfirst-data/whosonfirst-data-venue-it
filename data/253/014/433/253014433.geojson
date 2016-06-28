@@ -2,13 +2,14 @@
   "id": 253014433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.322905,42.814384,10.322905,42.814384",
     "geom:latitude":42.814384,
     "geom:longitude":10.322905,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57037 Portoferraio",
     "sg:city":"Portoferraio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253014433,
-    "wof:lastmodified":1449064272,
+    "wof:lastmodified":1466289064,
     "wof:name":"Brandi Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.322905,42.814384,10.322905,42.814384],
+  "bbox": [
+    10.322905,
+    42.814384,
+    10.322905,
+    42.814384
+],
   "geometry": {"coordinates":[10.322905,42.814384],"type":"Point"}
 }

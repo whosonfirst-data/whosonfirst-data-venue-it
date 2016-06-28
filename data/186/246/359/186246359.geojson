@@ -2,13 +2,14 @@
   "id": 186246359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.726064,43.94558,12.726064,43.94558",
     "geom:latitude":43.94558,
     "geom:longitude":12.726064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Robinie 5 47842 San Giovanni In Marignano",
     "sg:city":"San Giovanni in Marignano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186246359,
-    "wof:lastmodified":1449050433,
+    "wof:lastmodified":1466290050,
     "wof:name":"Velmar Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "costume"
     ]
 },
-  "bbox": [12.726064,43.94558,12.726064,43.94558],
+  "bbox": [
+    12.726064,
+    43.94558,
+    12.726064,
+    43.94558
+],
   "geometry": {"coordinates":[12.726064,43.94558],"type":"Point"}
 }

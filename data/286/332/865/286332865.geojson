@@ -2,13 +2,14 @@
   "id": 286332865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.667824,43.178944,13.667824,43.178944",
     "geom:latitude":43.178944,
     "geom:longitude":13.667824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tevere 2 63023 Fermo",
     "sg:city":"Fermo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286332865,
-    "wof:lastmodified":1449016815,
+    "wof:lastmodified":1466290472,
     "wof:name":"Ciao Bimbi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "children's"
     ]
 },
-  "bbox": [13.667824,43.178944,13.667824,43.178944],
+  "bbox": [
+    13.667824,
+    43.178944,
+    13.667824,
+    43.178944
+],
   "geometry": {"coordinates":[13.667824,43.178944],"type":"Point"}
 }

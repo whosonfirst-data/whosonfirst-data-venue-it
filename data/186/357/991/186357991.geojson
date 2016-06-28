@@ -2,13 +2,14 @@
   "id": 186357991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.352674,38.115868,13.352674,38.115868",
     "geom:latitude":38.115868,
     "geom:longitude":13.352674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90134 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186357991,
-    "wof:lastmodified":1449052686,
+    "wof:lastmodified":1466290986,
     "wof:name":"Cannatella Massimo",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.352674,38.115868,13.352674,38.115868],
+  "bbox": [
+    13.352674,
+    38.115868,
+    13.352674,
+    38.115868
+],
   "geometry": {"coordinates":[13.352674,38.115868],"type":"Point"}
 }

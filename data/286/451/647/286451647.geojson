@@ -2,13 +2,14 @@
   "id": 286451647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.48853,45.614353,8.48853,45.614353",
     "geom:latitude":45.614353,
     "geom:longitude":8.48853,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81, Via Roma 28010 Cavaglio D'agogna",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286451647,
-    "wof:lastmodified":1449016474,
+    "wof:lastmodified":1466292143,
     "wof:name":"Aquamarine S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.48853,45.614353,8.48853,45.614353],
+  "bbox": [
+    8.48853,
+    45.614353,
+    8.48853,
+    45.614353
+],
   "geometry": {"coordinates":[8.48853,45.614353],"type":"Point"}
 }

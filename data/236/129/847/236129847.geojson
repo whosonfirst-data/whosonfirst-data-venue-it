@@ -2,13 +2,14 @@
   "id": 236129847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.122337,43.769711,11.122337,43.769711",
     "geom:latitude":43.769711,
     "geom:longitude":11.122337,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50055 Lastra A Signa",
     "sg:city":"Lastra a Signa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236129847,
-    "wof:lastmodified":1449004481,
+    "wof:lastmodified":1466290186,
     "wof:name":"Cantine Bellosguardo Snc",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "drinks"
     ]
 },
-  "bbox": [11.122337,43.769711,11.122337,43.769711],
+  "bbox": [
+    11.122337,
+    43.769711,
+    11.122337,
+    43.769711
+],
   "geometry": {"coordinates":[11.122337,43.769711],"type":"Point"}
 }

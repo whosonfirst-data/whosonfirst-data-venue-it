@@ -2,13 +2,14 @@
   "id": 219313711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.897053,44.46154,8.897053,44.46154",
     "geom:latitude":44.46154,
     "geom:longitude":8.897053,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16163 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219313711,
-    "wof:lastmodified":1449070474,
+    "wof:lastmodified":1466289443,
     "wof:name":"Gondrand Spa - Filiale Genova",
     "wof:parent_id":85796981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.897053,44.46154,8.897053,44.46154],
+  "bbox": [
+    8.897053,
+    44.46154,
+    8.897053,
+    44.46154
+],
   "geometry": {"coordinates":[8.897053,44.46154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287189205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.86871,43.706627,12.86871,43.706627",
     "geom:latitude":43.706627,
     "geom:longitude":12.86871,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ripatonda 14 61040 Sant'ippolito",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287189205,
-    "wof:lastmodified":1449001305,
+    "wof:lastmodified":1466292104,
     "wof:name":"Manifatture Del Metauro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "easy"
     ]
 },
-  "bbox": [12.86871,43.706627,12.86871,43.706627],
+  "bbox": [
+    12.86871,
+    43.706627,
+    12.86871,
+    43.706627
+],
   "geometry": {"coordinates":[12.86871,43.706627],"type":"Point"}
 }

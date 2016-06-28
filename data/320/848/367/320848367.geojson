@@ -2,13 +2,14 @@
   "id": 320848367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.108361,45.703121,10.108361,45.703121",
     "geom:latitude":45.703121,
     "geom:longitude":10.108361,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Provinciale 25057 Sale Marasino",
     "sg:city":"Sale Marasino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320848367,
-    "wof:lastmodified":1449011779,
+    "wof:lastmodified":1466298291,
     "wof:name":"Euroswitch (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "measurement"
     ]
 },
-  "bbox": [10.108361,45.703121,10.108361,45.703121],
+  "bbox": [
+    10.108361,
+    45.703121,
+    10.108361,
+    45.703121
+],
   "geometry": {"coordinates":[10.108361,45.703121],"type":"Point"}
 }

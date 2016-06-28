@@ -2,13 +2,14 @@
   "id": 270080985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.095674,37.517864,15.095674,37.517864",
     "geom:latitude":37.517864,
     "geom:longitude":15.095674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95127 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270080985,
-    "wof:lastmodified":1449011071,
+    "wof:lastmodified":1466289973,
     "wof:name":"Adriano Srl",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.095674,37.517864,15.095674,37.517864],
+  "bbox": [
+    15.095674,
+    37.517864,
+    15.095674,
+    37.517864
+],
   "geometry": {"coordinates":[15.095674,37.517864],"type":"Point"}
 }

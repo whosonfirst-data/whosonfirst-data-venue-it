@@ -2,13 +2,14 @@
   "id": 220026099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.269017,45.529533,9.269017,45.529533",
     "geom:latitude":45.529533,
     "geom:longitude":9.269017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220026099,
-    "wof:lastmodified":1449074518,
+    "wof:lastmodified":1466296298,
     "wof:name":"Ronchi Srl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.269017,45.529533,9.269017,45.529533],
+  "bbox": [
+    9.269017,
+    45.529533,
+    9.269017,
+    45.529533
+],
   "geometry": {"coordinates":[9.269017,45.529533],"type":"Point"}
 }

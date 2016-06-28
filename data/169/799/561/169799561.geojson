@@ -2,13 +2,14 @@
   "id": 169799561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.139956,43.773342,11.139956,43.773342",
     "geom:latitude":43.773342,
     "geom:longitude":11.139956,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50018 Scandicci",
     "sg:city":"Badia a settimo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169799561,
-    "wof:lastmodified":1449035989,
+    "wof:lastmodified":1466296063,
     "wof:name":"Insegne Balocco Di Balocco Antonio & C. Sas",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.139956,43.773342,11.139956,43.773342],
+  "bbox": [
+    11.139956,
+    43.773342,
+    11.139956,
+    43.773342
+],
   "geometry": {"coordinates":[11.139956,43.773342],"type":"Point"}
 }

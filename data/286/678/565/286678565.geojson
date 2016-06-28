@@ -2,13 +2,14 @@
   "id": 286678565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.38986,37.442551,13.38986,37.442551",
     "geom:latitude":37.442551,
     "geom:longitude":13.38986,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92100 Agrigento",
     "sg:city":"Agrigento",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286678565,
-    "wof:lastmodified":1449016615,
+    "wof:lastmodified":1466294943,
     "wof:name":"Maugeri Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "compressori"
     ]
 },
-  "bbox": [13.38986,37.442551,13.38986,37.442551],
+  "bbox": [
+    13.38986,
+    37.442551,
+    13.38986,
+    37.442551
+],
   "geometry": {"coordinates":[13.38986,37.442551],"type":"Point"}
 }

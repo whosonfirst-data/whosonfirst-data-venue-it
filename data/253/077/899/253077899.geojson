@@ -2,13 +2,14 @@
   "id": 253077899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.530396,40.803913,14.530396,40.803913",
     "geom:latitude":40.803913,
     "geom:longitude":14.530396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80040 Poggiomarino",
     "sg:city":"Poggiomarino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253077899,
-    "wof:lastmodified":1449063286,
+    "wof:lastmodified":1466289736,
     "wof:name":"Ricamificio Duesse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.530396,40.803913,14.530396,40.803913],
+  "bbox": [
+    14.530396,
+    40.803913,
+    14.530396,
+    40.803913
+],
   "geometry": {"coordinates":[14.530396,40.803913],"type":"Point"}
 }

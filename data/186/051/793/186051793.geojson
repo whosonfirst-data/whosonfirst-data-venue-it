@@ -2,13 +2,14 @@
   "id": 186051793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.20049,43.927414,10.20049,43.927414",
     "geom:latitude":43.927414,
     "geom:longitude":10.20049,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Donizetti 11; Marina Di Pietrasanta; 55044",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186051793,
-    "wof:lastmodified":1449052023,
+    "wof:lastmodified":1466295090,
     "wof:name":"Cassa Rurale Ed Artigiana, Di Pietrasanta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.20049,43.927414,10.20049,43.927414],
+  "bbox": [
+    10.20049,
+    43.927414,
+    10.20049,
+    43.927414
+],
   "geometry": {"coordinates":[10.20049,43.927414],"type":"Point"}
 }

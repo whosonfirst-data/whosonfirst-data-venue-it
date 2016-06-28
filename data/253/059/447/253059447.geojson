@@ -2,13 +2,14 @@
   "id": 253059447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.340446,38.116734,13.340446,38.116734",
     "geom:latitude":38.116734,
     "geom:longitude":13.340446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90135 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253059447,
-    "wof:lastmodified":1449063626,
+    "wof:lastmodified":1466289538,
     "wof:name":"Naccari Umberto",
     "wof:parent_id":85904875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.340446,38.116734,13.340446,38.116734],
+  "bbox": [
+    13.340446,
+    38.116734,
+    13.340446,
+    38.116734
+],
   "geometry": {"coordinates":[13.340446,38.116734],"type":"Point"}
 }

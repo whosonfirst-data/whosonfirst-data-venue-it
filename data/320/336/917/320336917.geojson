@@ -2,13 +2,14 @@
   "id": 320336917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.299411,45.501167,9.299411,45.501167",
     "geom:latitude":45.501167,
     "geom:longitude":9.299411,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Segrate",
     "sg:city":"Segrate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320336917,
-    "wof:lastmodified":1449011190,
+    "wof:lastmodified":1466296973,
     "wof:name":"Abritex (s.n.c.)",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.299411,45.501167,9.299411,45.501167],
+  "bbox": [
+    9.299411,
+    45.501167,
+    9.299411,
+    45.501167
+],
   "geometry": {"coordinates":[9.299411,45.501167],"type":"Point"}
 }

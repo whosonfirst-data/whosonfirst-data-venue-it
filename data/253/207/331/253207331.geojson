@@ -2,13 +2,14 @@
   "id": 253207331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.02652,40.668304,15.02652,40.668304",
     "geom:latitude":40.668304,
     "geom:longitude":15.02652,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84062 Olevano Sul Tusciano",
     "sg:city":"Olevano sul Tusciano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253207331,
-    "wof:lastmodified":1449064905,
+    "wof:lastmodified":1466291052,
     "wof:name":"Drupe Nobile Del Tusciano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.02652,40.668304,15.02652,40.668304],
+  "bbox": [
+    15.02652,
+    40.668304,
+    15.02652,
+    40.668304
+],
   "geometry": {"coordinates":[15.02652,40.668304],"type":"Point"}
 }

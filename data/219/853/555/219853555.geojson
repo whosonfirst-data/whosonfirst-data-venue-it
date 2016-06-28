@@ -2,13 +2,14 @@
   "id": 219853555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.683999,46.175266,9.683999,46.175266",
     "geom:latitude":46.175266,
     "geom:longitude":9.683999,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23010 Buglio In Monte",
     "sg:city":"Buglio in Monte",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219853555,
-    "wof:lastmodified":1449071814,
+    "wof:lastmodified":1466296300,
     "wof:name":"Sacif Impianti S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [9.683999,46.175266,9.683999,46.175266],
+  "bbox": [
+    9.683999,
+    46.175266,
+    9.683999,
+    46.175266
+],
   "geometry": {"coordinates":[9.683999,46.175266],"type":"Point"}
 }

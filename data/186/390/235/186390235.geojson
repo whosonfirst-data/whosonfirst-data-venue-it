@@ -2,13 +2,14 @@
   "id": 186390235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.227086,44.489136,11.227086,44.489136",
     "geom:latitude":44.489136,
     "geom:longitude":11.227086,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rigosa 10 40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186390235,
-    "wof:lastmodified":1449053054,
+    "wof:lastmodified":1466291267,
     "wof:name":"Siderurgica Emiliana Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "blank"
     ]
 },
-  "bbox": [11.227086,44.489136,11.227086,44.489136],
+  "bbox": [
+    11.227086,
+    44.489136,
+    11.227086,
+    44.489136
+],
   "geometry": {"coordinates":[11.227086,44.489136],"type":"Point"}
 }

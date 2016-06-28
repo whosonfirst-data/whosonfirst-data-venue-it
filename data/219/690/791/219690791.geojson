@@ -2,13 +2,14 @@
   "id": 219690791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.275053,43.022591,11.275053,43.022591",
     "geom:latitude":43.022591,
     "geom:longitude":11.275053,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58045 Civitella Paganico",
     "sg:city":"Civitella Paganico",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219690791,
-    "wof:lastmodified":1449072243,
+    "wof:lastmodified":1466293200,
     "wof:name":"Albergo La Pace Di Smile Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.275053,43.022591,11.275053,43.022591],
+  "bbox": [
+    11.275053,
+    43.022591,
+    11.275053,
+    43.022591
+],
   "geometry": {"coordinates":[11.275053,43.022591],"type":"Point"}
 }

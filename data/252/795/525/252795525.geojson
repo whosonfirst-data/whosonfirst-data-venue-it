@@ -2,13 +2,14 @@
   "id": 252795525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.824358,45.819679,8.824358,45.819679",
     "geom:latitude":45.819679,
     "geom:longitude":8.824358,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21100 Varese",
     "sg:city":"Varese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252795525,
-    "wof:lastmodified":1449006071,
+    "wof:lastmodified":1466289855,
     "wof:name":"Goblin Di Lorenzo Marchetti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.824358,45.819679,8.824358,45.819679],
+  "bbox": [
+    8.824358,
+    45.819679,
+    8.824358,
+    45.819679
+],
   "geometry": {"coordinates":[8.824358,45.819679],"type":"Point"}
 }

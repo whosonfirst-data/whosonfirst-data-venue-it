@@ -2,13 +2,14 @@
   "id": 269684071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.344748,44.496792,11.344748,44.496792",
     "geom:latitude":44.496792,
     "geom:longitude":11.344748,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Goito 40126 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269684071,
-    "wof:lastmodified":1449036751,
+    "wof:lastmodified":1466291438,
     "wof:name":"Angelini S.r.l.",
     "wof:parent_id":85900451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [11.344748,44.496792,11.344748,44.496792],
+  "bbox": [
+    11.344748,
+    44.496792,
+    11.344748,
+    44.496792
+],
   "geometry": {"coordinates":[11.344748,44.496792],"type":"Point"}
 }

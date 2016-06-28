@@ -2,13 +2,14 @@
   "id": 203130365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.76979,45.649525,13.76979,45.649525",
     "geom:latitude":45.649525,
     "geom:longitude":13.76979,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34121 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203130365,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466289207,
     "wof:name":"Rigatteria S.a.s.",
     "wof:parent_id":85904965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.76979,45.649525,13.76979,45.649525],
+  "bbox": [
+    13.76979,
+    45.649525,
+    13.76979,
+    45.649525
+],
   "geometry": {"coordinates":[13.76979,45.649525],"type":"Point"}
 }

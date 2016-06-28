@@ -2,13 +2,14 @@
   "id": 220090913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.878117,42.949505,13.878117,42.949505",
     "geom:latitude":42.949505,
     "geom:longitude":13.878117,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, V. G. Di Vittorio",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220090913,
-    "wof:lastmodified":1449074674,
+    "wof:lastmodified":1466295794,
     "wof:name":"A.r.a. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [13.878117,42.949505,13.878117,42.949505],
+  "bbox": [
+    13.878117,
+    42.949505,
+    13.878117,
+    42.949505
+],
   "geometry": {"coordinates":[13.878117,42.949505],"type":"Point"}
 }

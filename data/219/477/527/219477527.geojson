@@ -2,13 +2,14 @@
   "id": 219477527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.084953,45.784035,9.084953,45.784035",
     "geom:latitude":45.784035,
     "geom:longitude":9.084953,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Capiago Intimiano",
     "sg:city":"Capiago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219477527,
-    "wof:lastmodified":1449070997,
+    "wof:lastmodified":1466291180,
     "wof:name":"De Martin Fabbro Giancarlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.084953,45.784035,9.084953,45.784035],
+  "bbox": [
+    9.084953,
+    45.784035,
+    9.084953,
+    45.784035
+],
   "geometry": {"coordinates":[9.084953,45.784035],"type":"Point"}
 }

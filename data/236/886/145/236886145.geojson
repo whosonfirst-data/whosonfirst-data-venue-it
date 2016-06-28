@@ -2,13 +2,14 @@
   "id": 236886145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.188207,44.900757,8.188207,44.900757",
     "geom:latitude":44.900757,
     "geom:longitude":8.188207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Strada Falletti 14100 Asti",
     "sg:city":"Asti",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236886145,
-    "wof:lastmodified":1449003485,
+    "wof:lastmodified":1466297130,
     "wof:name":"R.b. Glass S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.188207,44.900757,8.188207,44.900757],
+  "bbox": [
+    8.188207,
+    44.900757,
+    8.188207,
+    44.900757
+],
   "geometry": {"coordinates":[8.188207,44.900757],"type":"Point"}
 }

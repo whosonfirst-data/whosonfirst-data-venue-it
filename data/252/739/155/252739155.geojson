@@ -2,13 +2,14 @@
   "id": 252739155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.252097,43.774475,11.252097,43.774475",
     "geom:latitude":43.774475,
     "geom:longitude":11.252097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252739155,
-    "wof:lastmodified":1449005867,
+    "wof:lastmodified":1466289242,
     "wof:name":"Casa Dell'impermeabile S.a.s.",
     "wof:parent_id":85904707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.252097,43.774475,11.252097,43.774475],
+  "bbox": [
+    11.252097,
+    43.774475,
+    11.252097,
+    43.774475
+],
   "geometry": {"coordinates":[11.252097,43.774475],"type":"Point"}
 }

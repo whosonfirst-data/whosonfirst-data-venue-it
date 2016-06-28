@@ -2,13 +2,14 @@
   "id": 336937075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.737204,40.780647,14.737204,40.780647",
     "geom:latitude":40.780647,
     "geom:longitude":14.737204,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84100 Salerno",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":336937075,
-    "wof:lastmodified":1448997157,
+    "wof:lastmodified":1466297052,
     "wof:name":"Fertilitas Medicina Della Riproduzione - Day Surgery Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [14.737204,40.780647,14.737204,40.780647],
+  "bbox": [
+    14.737204,
+    40.780647,
+    14.737204,
+    40.780647
+],
   "geometry": {"coordinates":[14.737204,40.780647],"type":"Point"}
 }

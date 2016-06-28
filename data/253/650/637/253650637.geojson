@@ -2,13 +2,14 @@
   "id": 253650637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.265883,44.490482,11.265883,44.490482",
     "geom:latitude":44.490482,
     "geom:longitude":11.265883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40033 Casalecchio Di Reno",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253650637,
-    "wof:lastmodified":1449064612,
+    "wof:lastmodified":1466296366,
     "wof:name":"Montex Service Snc",
     "wof:parent_id":85904641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.265883,44.490482,11.265883,44.490482],
+  "bbox": [
+    11.265883,
+    44.490482,
+    11.265883,
+    44.490482
+],
   "geometry": {"coordinates":[11.265883,44.490482],"type":"Point"}
 }

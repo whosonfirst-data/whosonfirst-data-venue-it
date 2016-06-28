@@ -2,13 +2,14 @@
   "id": 203405003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.12098,45.426392,9.12098,45.426392",
     "geom:latitude":45.426392,
     "geom:longitude":9.12098,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Buccinasco",
     "sg:city":"Buccinasco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203405003,
-    "wof:lastmodified":1449026698,
+    "wof:lastmodified":1466292136,
     "wof:name":"C.r.a.c.",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.12098,45.426392,9.12098,45.426392],
+  "bbox": [
+    9.12098,
+    45.426392,
+    9.12098,
+    45.426392
+],
   "geometry": {"coordinates":[9.12098,45.426392],"type":"Point"}
 }

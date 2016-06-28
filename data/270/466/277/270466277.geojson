@@ -2,13 +2,14 @@
   "id": 270466277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.186438,43.237431,13.186438,43.237431",
     "geom:latitude":43.237431,
     "geom:longitude":13.186438,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Del Glorioso 62027 San Severino Marche",
     "sg:city":"San Severino Marche",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270466277,
-    "wof:lastmodified":1449009339,
+    "wof:lastmodified":1466294655,
     "wof:name":"Soverchia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramic"
     ]
 },
-  "bbox": [13.186438,43.237431,13.186438,43.237431],
+  "bbox": [
+    13.186438,
+    43.237431,
+    13.186438,
+    43.237431
+],
   "geometry": {"coordinates":[13.186438,43.237431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336899267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.030503,45.500454,9.030503,45.500454",
     "geom:latitude":45.500454,
     "geom:longitude":9.030503,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Cavenago Di Brianza",
     "sg:city":"Cavenago di Brianza",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336899267,
-    "wof:lastmodified":1448997949,
+    "wof:lastmodified":1466296950,
     "wof:name":"Besana Dr. Lucio",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.030503,45.500454,9.030503,45.500454],
+  "bbox": [
+    9.030503,
+    45.500454,
+    9.030503,
+    45.500454
+],
   "geometry": {"coordinates":[9.030503,45.500454],"type":"Point"}
 }

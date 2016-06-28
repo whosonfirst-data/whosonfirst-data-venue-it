@@ -2,13 +2,14 @@
   "id": 203301353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172903,45.459972,9.172903,45.459972",
     "geom:latitude":45.459972,
     "geom:longitude":9.172903,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203301353,
-    "wof:lastmodified":1449025401,
+    "wof:lastmodified":1466290955,
     "wof:name":"Entres Franco",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.172903,45.459972,9.172903,45.459972],
+  "bbox": [
+    9.172903,
+    45.459972,
+    9.172903,
+    45.459972
+],
   "geometry": {"coordinates":[9.172903,45.459972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236888393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.349666,44.535992,11.349666,44.535992",
     "geom:latitude":44.535992,
     "geom:longitude":11.349666,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74/5, Via Dell' Arcoveggio 40129 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236888393,
-    "wof:lastmodified":1449003755,
+    "wof:lastmodified":1466297024,
     "wof:name":"Soffieria Casirati",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.349666,44.535992,11.349666,44.535992],
+  "bbox": [
+    11.349666,
+    44.535992,
+    11.349666,
+    44.535992
+],
   "geometry": {"coordinates":[11.349666,44.535992],"type":"Point"}
 }

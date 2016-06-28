@@ -2,13 +2,14 @@
   "id": 220083287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.537906,41.432995,15.537906,41.432995",
     "geom:latitude":41.432995,
     "geom:longitude":15.537906,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Statale 16 Km 84,300 Casella P 71100 Foggia",
     "sg:city":"Foggia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220083287,
-    "wof:lastmodified":1449074401,
+    "wof:lastmodified":1466295692,
     "wof:name":"Industria Grafica Editoriale Gercap Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "industrial"
     ]
 },
-  "bbox": [15.537906,41.432995,15.537906,41.432995],
+  "bbox": [
+    15.537906,
+    41.432995,
+    15.537906,
+    41.432995
+],
   "geometry": {"coordinates":[15.537906,41.432995],"type":"Point"}
 }

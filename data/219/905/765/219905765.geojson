@@ -2,13 +2,14 @@
   "id": 219905765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.758611,46.131279,10.758611,46.131279",
     "geom:latitude":46.131279,
     "geom:longitude":10.758611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38080 Caderzone",
     "sg:city":"Caderzone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219905765,
-    "wof:lastmodified":1449071765,
+    "wof:lastmodified":1466295353,
     "wof:name":"Vidi Emilio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.758611,46.131279,10.758611,46.131279],
+  "bbox": [
+    10.758611,
+    46.131279,
+    10.758611,
+    46.131279
+],
   "geometry": {"coordinates":[10.758611,46.131279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236611345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.50404,45.184055,11.50404,45.184055",
     "geom:latitude":45.184055,
     "geom:longitude":11.50404,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"190, Via Veneto 35040 Casale Di Scodosia",
     "sg:city":"Casale di Scodosia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236611345,
-    "wof:lastmodified":1449004407,
+    "wof:lastmodified":1466295119,
     "wof:name":"Lazzari Fratelli Di Lazzari Eugenio E Mario (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.50404,45.184055,11.50404,45.184055],
+  "bbox": [
+    11.50404,
+    45.184055,
+    11.50404,
+    45.184055
+],
   "geometry": {"coordinates":[11.50404,45.184055],"type":"Point"}
 }

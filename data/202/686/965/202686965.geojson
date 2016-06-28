@@ -2,13 +2,14 @@
   "id": 202686965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.400229,45.418007,9.400229,45.418007",
     "geom:latitude":45.418007,
     "geom:longitude":9.400229,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20067 Paullo",
     "sg:city":"Paullo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202686965,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466290928,
     "wof:name":"Casa Cantoniera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.400229,45.418007,9.400229,45.418007],
+  "bbox": [
+    9.400229,
+    45.418007,
+    9.400229,
+    45.418007
+],
   "geometry": {"coordinates":[9.400229,45.418007],"type":"Point"}
 }

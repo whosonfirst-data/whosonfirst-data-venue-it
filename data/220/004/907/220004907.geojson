@@ -2,13 +2,14 @@
   "id": 220004907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.678437,45.020447,9.678437,45.020447",
     "geom:latitude":45.020447,
     "geom:longitude":9.678437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220004907,
-    "wof:lastmodified":1449074322,
+    "wof:lastmodified":1466293404,
     "wof:name":"Epedil-pali Di Mazzocchi Giovanni & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.678437,45.020447,9.678437,45.020447],
+  "bbox": [
+    9.678437,
+    45.020447,
+    9.678437,
+    45.020447
+],
   "geometry": {"coordinates":[9.678437,45.020447],"type":"Point"}
 }

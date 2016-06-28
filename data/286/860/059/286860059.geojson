@@ -2,13 +2,14 @@
   "id": 286860059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.633821,45.126534,7.633821,45.126534",
     "geom:latitude":45.126534,
     "geom:longitude":7.633821,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10078 Venaria",
     "sg:classifiers":[],
     "sg:orig_category":"Termotecnica E Riscaldamento, Apparecchiature E Servizi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286860059,
-    "wof:lastmodified":1449016494,
+    "wof:lastmodified":1466296813,
     "wof:name":"Bagetto Francesco",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.633821,45.126534,7.633821,45.126534],
+  "bbox": [
+    7.633821,
+    45.126534,
+    7.633821,
+    45.126534
+],
   "geometry": {"coordinates":[7.633821,45.126534],"type":"Point"}
 }

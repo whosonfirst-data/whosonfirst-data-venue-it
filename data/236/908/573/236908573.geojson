@@ -2,13 +2,14 @@
   "id": 236908573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.582527,45.709644,9.582527,45.709644",
     "geom:latitude":45.709644,
     "geom:longitude":9.582527,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Terzi Di Sant'agata 24030 Brembate Di Sopra",
     "sg:city":"Brembate di Sopra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236908573,
-    "wof:lastmodified":1449003536,
+    "wof:lastmodified":1466297201,
     "wof:name":"Bremi Ascensori S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [9.582527,45.709644,9.582527,45.709644],
+  "bbox": [
+    9.582527,
+    45.709644,
+    9.582527,
+    45.709644
+],
   "geometry": {"coordinates":[9.582527,45.709644],"type":"Point"}
 }

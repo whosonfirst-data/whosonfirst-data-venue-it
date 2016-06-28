@@ -2,13 +2,14 @@
   "id": 303796995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.432806,43.612335,13.432806,43.612335",
     "geom:latitude":43.612335,
     "geom:longitude":13.432806,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60020 Ancona",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Cucina Ed Elettrodomestici. Elettrodomestici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303796995,
-    "wof:lastmodified":1448999277,
+    "wof:lastmodified":1466297815,
     "wof:name":"Testaferri Mauro - Center Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.432806,43.612335,13.432806,43.612335],
+  "bbox": [
+    13.432806,
+    43.612335,
+    13.432806,
+    43.612335
+],
   "geometry": {"coordinates":[13.432806,43.612335],"type":"Point"}
 }

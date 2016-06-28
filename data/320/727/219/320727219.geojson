@@ -2,13 +2,14 @@
   "id": 320727219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.833138,44.582958,10.833138,44.582958",
     "geom:latitude":44.582958,
     "geom:longitude":10.833138,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41049 Sassuolo",
     "sg:city":"Sassuolo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320727219,
-    "wof:lastmodified":1449011821,
+    "wof:lastmodified":1466298043,
     "wof:name":"Ceramat (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.833138,44.582958,10.833138,44.582958],
+  "bbox": [
+    10.833138,
+    44.582958,
+    10.833138,
+    44.582958
+],
   "geometry": {"coordinates":[10.833138,44.582958],"type":"Point"}
 }

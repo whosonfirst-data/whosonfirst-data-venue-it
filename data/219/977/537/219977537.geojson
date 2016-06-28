@@ -2,13 +2,14 @@
   "id": 219977537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.362487,46.497124,11.362487,46.497124",
     "geom:latitude":46.497124,
     "geom:longitude":11.362487,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39100 Bolzano",
     "sg:city":"Bolzano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219977537,
-    "wof:lastmodified":1449074013,
+    "wof:lastmodified":1466296113,
     "wof:name":"Tecom Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.362487,46.497124,11.362487,46.497124],
+  "bbox": [
+    11.362487,
+    46.497124,
+    11.362487,
+    46.497124
+],
   "geometry": {"coordinates":[11.362487,46.497124],"type":"Point"}
 }

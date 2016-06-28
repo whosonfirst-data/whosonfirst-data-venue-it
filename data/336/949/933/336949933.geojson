@@ -2,13 +2,14 @@
   "id": 336949933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.483326,41.822598,12.483326,41.822598",
     "geom:latitude":41.822598,
     "geom:longitude":12.483326,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00184 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336949933,
-    "wof:lastmodified":1448997600,
+    "wof:lastmodified":1466297145,
     "wof:name":"Istituto Skinner Formazione E Ricerca Srl",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.483326,41.822598,12.483326,41.822598],
+  "bbox": [
+    12.483326,
+    41.822598,
+    12.483326,
+    41.822598
+],
   "geometry": {"coordinates":[12.483326,41.822598],"type":"Point"}
 }

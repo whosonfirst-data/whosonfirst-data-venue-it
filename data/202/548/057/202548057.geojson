@@ -2,13 +2,14 @@
   "id": 202548057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.971667,45.308552,7.971667,45.308552",
     "geom:latitude":45.308552,
     "geom:longitude":7.971667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 Villareggia",
     "sg:city":"Villareggia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202548057,
-    "wof:lastmodified":1449061844,
+    "wof:lastmodified":1466289413,
     "wof:name":"Pissardo Serramenti Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.971667,45.308552,7.971667,45.308552],
+  "bbox": [
+    7.971667,
+    45.308552,
+    7.971667,
+    45.308552
+],
   "geometry": {"coordinates":[7.971667,45.308552],"type":"Point"}
 }

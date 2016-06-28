@@ -2,13 +2,14 @@
   "id": 320098277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.205942,40.992184,14.205942,40.992184",
     "geom:latitude":40.992184,
     "geom:longitude":14.205942,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81030 Teverola",
     "sg:city":"Teverola",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320098277,
-    "wof:lastmodified":1449014567,
+    "wof:lastmodified":1466294607,
     "wof:name":"D'angelo Trivellazioni Di D'angelo Ferdinando",
     "wof:parent_id":85900413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.205942,40.992184,14.205942,40.992184],
+  "bbox": [
+    14.205942,
+    40.992184,
+    14.205942,
+    40.992184
+],
   "geometry": {"coordinates":[14.205942,40.992184],"type":"Point"}
 }

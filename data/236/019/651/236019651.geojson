@@ -2,13 +2,14 @@
   "id": 236019651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.899774,45.718208,9.899774,45.718208",
     "geom:latitude":45.718208,
     "geom:longitude":9.899774,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localit\u00e0 S. Martino 5 24060 Foresto Sparso",
     "sg:city":"Foresto Sparso",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236019651,
-    "wof:lastmodified":1449003556,
+    "wof:lastmodified":1466289084,
     "wof:name":"Marloc Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tech"
     ]
 },
-  "bbox": [9.899774,45.718208,9.899774,45.718208],
+  "bbox": [
+    9.899774,
+    45.718208,
+    9.899774,
+    45.718208
+],
   "geometry": {"coordinates":[9.899774,45.718208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219264081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.754486,46.006481,9.754486,46.006481",
     "geom:latitude":46.006481,
     "geom:longitude":9.754486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lumisera 2 24010 Branzi",
     "sg:city":"Branzi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219264081,
-    "wof:lastmodified":1449072675,
+    "wof:lastmodified":1466288937,
     "wof:name":"Cooperativa S. Pantaleone Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "flooring"
     ]
 },
-  "bbox": [9.754486,46.006481,9.754486,46.006481],
+  "bbox": [
+    9.754486,
+    46.006481,
+    9.754486,
+    46.006481
+],
   "geometry": {"coordinates":[9.754486,46.006481],"type":"Point"}
 }

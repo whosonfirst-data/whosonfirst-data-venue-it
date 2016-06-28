@@ -2,13 +2,14 @@
   "id": 236032637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.829557,45.590542,9.829557,45.590542",
     "geom:latitude":45.590542,
     "geom:longitude":9.829557,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24050 Palosco",
     "sg:city":"Palosco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236032637,
-    "wof:lastmodified":1449003226,
+    "wof:lastmodified":1466289225,
     "wof:name":"Lorenz Di Leporati G. & G. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.829557,45.590542,9.829557,45.590542],
+  "bbox": [
+    9.829557,
+    45.590542,
+    9.829557,
+    45.590542
+],
   "geometry": {"coordinates":[9.829557,45.590542],"type":"Point"}
 }

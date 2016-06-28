@@ -2,13 +2,14 @@
   "id": 287005633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.988253,45.755035,11.988253,45.755035",
     "geom:latitude":45.755035,
     "geom:longitude":11.988253,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"78, Via Piave 31030 Altivole",
     "sg:city":"Altivole",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287005633,
-    "wof:lastmodified":1449001513,
+    "wof:lastmodified":1466289685,
     "wof:name":"Donnidea S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.988253,45.755035,11.988253,45.755035],
+  "bbox": [
+    11.988253,
+    45.755035,
+    11.988253,
+    45.755035
+],
   "geometry": {"coordinates":[11.988253,45.755035],"type":"Point"}
 }

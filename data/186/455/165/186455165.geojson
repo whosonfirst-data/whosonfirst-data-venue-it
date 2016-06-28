@@ -2,13 +2,14 @@
   "id": 186455165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228958,45.555386,9.228958,45.555386",
     "geom:latitude":45.555386,
     "geom:longitude":9.228958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Telemaco Signorini , 5/7 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186455165,
-    "wof:lastmodified":1449052576,
+    "wof:lastmodified":1466291860,
     "wof:name":"Dickmann Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brazing"
     ]
 },
-  "bbox": [9.228958,45.555386,9.228958,45.555386],
+  "bbox": [
+    9.228958,
+    45.555386,
+    9.228958,
+    45.555386
+],
   "geometry": {"coordinates":[9.228958,45.555386],"type":"Point"}
 }

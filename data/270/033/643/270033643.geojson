@@ -2,13 +2,14 @@
   "id": 270033643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.820315,44.726025,7.820315,44.726025",
     "geom:latitude":44.726025,
     "geom:longitude":7.820315,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Don Orione 136 12042 Bra",
     "sg:city":"Bra",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270033643,
-    "wof:lastmodified":1449009136,
+    "wof:lastmodified":1466289389,
     "wof:name":"Caffe' Ghigo Di Riccardo Ghigo E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caffeine"
     ]
 },
-  "bbox": [7.820315,44.726025,7.820315,44.726025],
+  "bbox": [
+    7.820315,
+    44.726025,
+    7.820315,
+    44.726025
+],
   "geometry": {"coordinates":[7.820315,44.726025],"type":"Point"}
 }

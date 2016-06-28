@@ -2,13 +2,14 @@
   "id": 320434815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.620435,44.524071,8.620435,44.524071",
     "geom:latitude":44.524071,
     "geom:longitude":8.620435,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16010 Tiglieto",
     "sg:city":"Tiglieto",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320434815,
-    "wof:lastmodified":1449012067,
+    "wof:lastmodified":1466297548,
     "wof:name":"Pesce Lino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.620435,44.524071,8.620435,44.524071],
+  "bbox": [
+    8.620435,
+    44.524071,
+    8.620435,
+    44.524071
+],
   "geometry": {"coordinates":[8.620435,44.524071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186171947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.683293,45.053596,7.683293,45.053596",
     "geom:latitude":45.053596,
     "geom:longitude":7.683293,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Campana 36, Turin, To",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186171947,
-    "wof:lastmodified":1449053041,
+    "wof:lastmodified":1466289413,
     "wof:name":"Nhs Nuova Holding Sanpaolo Imi Spa",
     "wof:parent_id":85796951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.683293,45.053596,7.683293,45.053596],
+  "bbox": [
+    7.683293,
+    45.053596,
+    7.683293,
+    45.053596
+],
   "geometry": {"coordinates":[7.683293,45.053596],"type":"Point"}
 }

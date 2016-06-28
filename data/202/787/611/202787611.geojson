@@ -2,13 +2,14 @@
   "id": 202787611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.311393,38.133842,13.311393,38.133842",
     "geom:latitude":38.133842,
     "geom:longitude":13.311393,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90145 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202787611,
-    "wof:lastmodified":1449061279,
+    "wof:lastmodified":1466292066,
     "wof:name":"Associazione Musicale Orchestra Da Camera Gli Armonici",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "il"
     ]
 },
-  "bbox": [13.311393,38.133842,13.311393,38.133842],
+  "bbox": [
+    13.311393,
+    38.133842,
+    13.311393,
+    38.133842
+],
   "geometry": {"coordinates":[13.311393,38.133842],"type":"Point"}
 }

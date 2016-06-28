@@ -2,13 +2,14 @@
   "id": 269821607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.586903,42.854126,13.586903,42.854126",
     "geom:latitude":42.854126,
     "geom:longitude":13.586903,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V.le Indipendenza 2 63100 Ascoli Piceno",
     "sg:city":"Ascoli Piceno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269821607,
-    "wof:lastmodified":1449037441,
+    "wof:lastmodified":1466293283,
     "wof:name":"Consorzio Agrario Prov. Di Ascoli Piceno Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [13.586903,42.854126,13.586903,42.854126],
+  "bbox": [
+    13.586903,
+    42.854126,
+    13.586903,
+    42.854126
+],
   "geometry": {"coordinates":[13.586903,42.854126],"type":"Point"}
 }

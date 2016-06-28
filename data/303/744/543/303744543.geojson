@@ -2,13 +2,14 @@
   "id": 303744543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.342319,46.490051,11.342319,46.490051",
     "geom:latitude":46.490051,
     "geom:longitude":11.342319,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39012 Merano",
     "sg:city":"Merano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303744543,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1466297694,
     "wof:name":"Lindig Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.342319,46.490051,11.342319,46.490051],
+  "bbox": [
+    11.342319,
+    46.490051,
+    11.342319,
+    46.490051
+],
   "geometry": {"coordinates":[11.342319,46.490051],"type":"Point"}
 }

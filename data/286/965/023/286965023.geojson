@@ -2,13 +2,14 @@
   "id": 286965023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.332406,45.753792,9.332406,45.753792",
     "geom:latitude":45.753792,
     "geom:longitude":9.332406,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23890 Bevera",
     "sg:classifiers":[],
     "sg:orig_category":"Tessuti E Stoffe. Filati E Materie Prime Tessili",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":286965023,
-    "wof:lastmodified":1449017243,
+    "wof:lastmodified":1466297351,
     "wof:name":"Pozzi Arturo (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.332406,45.753792,9.332406,45.753792],
+  "bbox": [
+    9.332406,
+    45.753792,
+    9.332406,
+    45.753792
+],
   "geometry": {"coordinates":[9.332406,45.753792],"type":"Point"}
 }

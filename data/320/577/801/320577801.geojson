@@ -2,13 +2,14 @@
   "id": 320577801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.38759,39.07502,16.38759,39.07502",
     "geom:latitude":39.07502,
     "geom:longitude":16.38759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88049 Soveria Mannelli",
     "sg:city":"Soveria Mannelli",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320577801,
-    "wof:lastmodified":1449015076,
+    "wof:lastmodified":1466297747,
     "wof:name":"Pensabene Gianluca Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.38759,39.07502,16.38759,39.07502],
+  "bbox": [
+    16.38759,
+    39.07502,
+    16.38759,
+    39.07502
+],
   "geometry": {"coordinates":[16.38759,39.07502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236634985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.861516,43.136696,11.861516,43.136696",
     "geom:latitude":43.136696,
     "geom:longitude":11.861516,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Milazzo 53045 Montepulciano",
     "sg:city":"Montepulciano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236634985,
-    "wof:lastmodified":1449003183,
+    "wof:lastmodified":1466295333,
     "wof:name":"Neri Iorio E. Ivano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.861516,43.136696,11.861516,43.136696],
+  "bbox": [
+    11.861516,
+    43.136696,
+    11.861516,
+    43.136696
+],
   "geometry": {"coordinates":[11.861516,43.136696],"type":"Point"}
 }

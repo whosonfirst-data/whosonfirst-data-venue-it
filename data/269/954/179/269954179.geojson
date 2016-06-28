@@ -2,13 +2,14 @@
   "id": 269954179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.808232,44.278492,9.808232,44.278492",
     "geom:latitude":44.278492,
     "geom:longitude":9.808232,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19020 Rocchetta Vara",
     "sg:classifiers":[],
     "sg:orig_category":"Alberghi E Strutture Extra Alberghiere. Ospedali E Servizi Sanitari",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269954179,
-    "wof:lastmodified":1449038575,
+    "wof:lastmodified":1466294750,
     "wof:name":"Sorriso Francescano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.808232,44.278492,9.808232,44.278492],
+  "bbox": [
+    9.808232,
+    44.278492,
+    9.808232,
+    44.278492
+],
   "geometry": {"coordinates":[9.808232,44.278492],"type":"Point"}
 }

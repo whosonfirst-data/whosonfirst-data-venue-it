@@ -2,13 +2,14 @@
   "id": 253584689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.172867,43.761036,11.172867,43.761036",
     "geom:latitude":43.761036,
     "geom:longitude":11.172867,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ponchielli 70/c 50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253584689,
-    "wof:lastmodified":1449063139,
+    "wof:lastmodified":1466295758,
     "wof:name":"Cipriani Srl",
     "wof:parent_id":85900321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dress"
     ]
 },
-  "bbox": [11.172867,43.761036,11.172867,43.761036],
+  "bbox": [
+    11.172867,
+    43.761036,
+    11.172867,
+    43.761036
+],
   "geometry": {"coordinates":[11.172867,43.761036],"type":"Point"}
 }

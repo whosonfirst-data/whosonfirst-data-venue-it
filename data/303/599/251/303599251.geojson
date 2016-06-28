@@ -2,13 +2,14 @@
   "id": 303599251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.097827,43.845581,11.097827,43.845581",
     "geom:latitude":43.845581,
     "geom:longitude":11.097827,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59100 Prato",
     "sg:city":"Mezzana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303599251,
-    "wof:lastmodified":1448999254,
+    "wof:lastmodified":1466297072,
     "wof:name":"F.m. Arredamenti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.097827,43.845581,11.097827,43.845581],
+  "bbox": [
+    11.097827,
+    43.845581,
+    11.097827,
+    43.845581
+],
   "geometry": {"coordinates":[11.097827,43.845581],"type":"Point"}
 }

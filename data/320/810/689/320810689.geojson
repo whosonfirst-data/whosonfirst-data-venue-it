@@ -2,13 +2,14 @@
   "id": 320810689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.00868,45.414845,11.00868,45.414845",
     "geom:latitude":45.414845,
     "geom:longitude":11.00868,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37134 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320810689,
-    "wof:lastmodified":1449012352,
+    "wof:lastmodified":1466298248,
     "wof:name":"Ortolani Adelino Srl",
     "wof:parent_id":85905041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.00868,45.414845,11.00868,45.414845],
+  "bbox": [
+    11.00868,
+    45.414845,
+    11.00868,
+    45.414845
+],
   "geometry": {"coordinates":[11.00868,45.414845],"type":"Point"}
 }

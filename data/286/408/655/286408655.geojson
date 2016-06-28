@@ -2,13 +2,14 @@
   "id": 286408655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.413606,41.902924,12.413606,41.902924",
     "geom:latitude":41.902924,
     "geom:longitude":12.413606,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00167 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286408655,
-    "wof:lastmodified":1449015534,
+    "wof:lastmodified":1466291590,
     "wof:name":"Squarcia Fulvio",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning"
     ]
 },
-  "bbox": [12.413606,41.902924,12.413606,41.902924],
+  "bbox": [
+    12.413606,
+    41.902924,
+    12.413606,
+    41.902924
+],
   "geometry": {"coordinates":[12.413606,41.902924],"type":"Point"}
 }

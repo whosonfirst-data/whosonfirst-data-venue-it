@@ -2,13 +2,14 @@
   "id": 253282577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.900579,42.058468,11.900579,42.058468",
     "geom:latitude":42.058468,
     "geom:longitude":11.900579,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00058 Santa Marinella",
     "sg:city":"Santa Marinella",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253282577,
-    "wof:lastmodified":1449064668,
+    "wof:lastmodified":1466291981,
     "wof:name":"Ospedale Pediatrico Bambino Gesu\u2019 -sede Santa Marinella- Centralino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.900579,42.058468,11.900579,42.058468],
+  "bbox": [
+    11.900579,
+    42.058468,
+    11.900579,
+    42.058468
+],
   "geometry": {"coordinates":[11.900579,42.058468],"type":"Point"}
 }

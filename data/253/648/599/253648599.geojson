@@ -2,13 +2,14 @@
   "id": 253648599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.61724,45.070896,7.61724,45.070896",
     "geom:latitude":45.070896,
     "geom:longitude":7.61724,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10142 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253648599,
-    "wof:lastmodified":1449063622,
+    "wof:lastmodified":1466296522,
     "wof:name":"M.g.",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.61724,45.070896,7.61724,45.070896],
+  "bbox": [
+    7.61724,
+    45.070896,
+    7.61724,
+    45.070896
+],
   "geometry": {"coordinates":[7.61724,45.070896],"type":"Point"}
 }

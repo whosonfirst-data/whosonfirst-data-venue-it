@@ -2,13 +2,14 @@
   "id": 320415945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.66946,41.061317,15.66946,41.061317",
     "geom:latitude":41.061317,
     "geom:longitude":15.66946,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85025 Melfi",
     "sg:city":"Melfi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320415945,
-    "wof:lastmodified":1449013947,
+    "wof:lastmodified":1466297441,
     "wof:name":"O.m.p. Pettorruso & C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.66946,41.061317,15.66946,41.061317],
+  "bbox": [
+    15.66946,
+    41.061317,
+    15.66946,
+    41.061317
+],
   "geometry": {"coordinates":[15.66946,41.061317],"type":"Point"}
 }

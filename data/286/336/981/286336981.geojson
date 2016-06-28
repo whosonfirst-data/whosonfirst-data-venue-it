@@ -2,13 +2,14 @@
   "id": 286336981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.194582,45.471844,9.194582,45.471844",
     "geom:latitude":45.471844,
     "geom:longitude":9.194582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Manzoni Alessandro 45 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286336981,
-    "wof:lastmodified":1449015103,
+    "wof:lastmodified":1466290519,
     "wof:name":"Sobimil Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "underwear"
     ]
 },
-  "bbox": [9.194582,45.471844,9.194582,45.471844],
+  "bbox": [
+    9.194582,
+    45.471844,
+    9.194582,
+    45.471844
+],
   "geometry": {"coordinates":[9.194582,45.471844],"type":"Point"}
 }

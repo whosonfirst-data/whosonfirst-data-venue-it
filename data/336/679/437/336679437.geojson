@@ -2,13 +2,14 @@
   "id": 336679437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.814502,44.810753,10.814502,44.810753",
     "geom:latitude":44.810753,
     "geom:longitude":10.814502,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Filippo Turati 42010 Rio Saliceto",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336679437,
-    "wof:lastmodified":1448997623,
+    "wof:lastmodified":1466294675,
     "wof:name":"Gge (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.814502,44.810753,10.814502,44.810753],
+  "bbox": [
+    10.814502,
+    44.810753,
+    10.814502,
+    44.810753
+],
   "geometry": {"coordinates":[10.814502,44.810753],"type":"Point"}
 }

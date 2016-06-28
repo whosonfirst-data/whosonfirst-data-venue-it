@@ -2,13 +2,14 @@
   "id": 303376183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.596333,39.905273,8.596333,39.905273",
     "geom:latitude":39.905273,
     "geom:longitude":8.596333,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localita' Cirras 09170 Oristano",
     "sg:city":"Oristano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303376183,
-    "wof:lastmodified":1448998952,
+    "wof:lastmodified":1466295142,
     "wof:name":"Silos E Mangimi Martini (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [8.596333,39.905273,8.596333,39.905273],
+  "bbox": [
+    8.596333,
+    39.905273,
+    8.596333,
+    39.905273
+],
   "geometry": {"coordinates":[8.596333,39.905273],"type":"Point"}
 }

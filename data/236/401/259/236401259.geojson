@@ -2,13 +2,14 @@
   "id": 236401259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.662323,45.075977,7.662323,45.075977",
     "geom:latitude":45.075977,
     "geom:longitude":7.662323,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10138 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236401259,
-    "wof:lastmodified":1449004657,
+    "wof:lastmodified":1466292993,
     "wof:name":"Zammarchi Franca",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.662323,45.075977,7.662323,45.075977],
+  "bbox": [
+    7.662323,
+    45.075977,
+    7.662323,
+    45.075977
+],
   "geometry": {"coordinates":[7.662323,45.075977],"type":"Point"}
 }

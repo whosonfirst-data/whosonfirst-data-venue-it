@@ -2,13 +2,14 @@
   "id": 202498055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.323621,45.430477,12.323621,45.430477",
     "geom:latitude":45.430477,
     "geom:longitude":12.323621,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1826/a, Dorsoduro Punto Franco 30123 Venezia",
     "sg:city":"Dorsoduro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202498055,
-    "wof:lastmodified":1449062042,
+    "wof:lastmodified":1466288954,
     "wof:name":"Provveditoria Marittima Andrea Sonino (s.r.l.)",
     "wof:parent_id":85905019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sea"
     ]
 },
-  "bbox": [12.323621,45.430477,12.323621,45.430477],
+  "bbox": [
+    12.323621,
+    45.430477,
+    12.323621,
+    45.430477
+],
   "geometry": {"coordinates":[12.323621,45.430477],"type":"Point"}
 }

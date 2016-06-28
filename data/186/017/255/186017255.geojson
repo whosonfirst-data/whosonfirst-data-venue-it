@@ -2,13 +2,14 @@
   "id": 186017255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.864855,44.897415,8.864855,44.897415",
     "geom:latitude":44.897415,
     "geom:longitude":8.864855,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"C Leoniero 6; Tortona; 15057",
     "sg:city":"Tortona",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186017255,
-    "wof:lastmodified":1449051796,
+    "wof:lastmodified":1466293938,
     "wof:name":"Cassa Di Risparmio Di Tortona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.864855,44.897415,8.864855,44.897415],
+  "bbox": [
+    8.864855,
+    44.897415,
+    8.864855,
+    44.897415
+],
   "geometry": {"coordinates":[8.864855,44.897415],"type":"Point"}
 }

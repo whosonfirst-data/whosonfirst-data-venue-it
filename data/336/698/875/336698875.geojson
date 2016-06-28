@@ -2,13 +2,14 @@
   "id": 336698875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.275959,45.575687,10.275959,45.575687",
     "geom:latitude":45.575687,
     "geom:longitude":10.275959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48, Via Brolo 25075 Nave",
     "sg:city":"Nave",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336698875,
-    "wof:lastmodified":1448997947,
+    "wof:lastmodified":1466294912,
     "wof:name":"L.m.l. Di Liberini Amilcare & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.275959,45.575687,10.275959,45.575687],
+  "bbox": [
+    10.275959,
+    45.575687,
+    10.275959,
+    45.575687
+],
   "geometry": {"coordinates":[10.275959,45.575687],"type":"Point"}
 }

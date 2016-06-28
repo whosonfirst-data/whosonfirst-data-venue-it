@@ -2,13 +2,14 @@
   "id": 319820025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.800834,45.589252,7.800834,45.589252",
     "geom:latitude":45.589252,
     "geom:longitude":7.800834,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11026 Pont-saint-martin",
     "sg:city":"Pont-Saint-Martin",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319820025,
-    "wof:lastmodified":1449024492,
+    "wof:lastmodified":1466292480,
     "wof:name":"Apar Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.800834,45.589252,7.800834,45.589252],
+  "bbox": [
+    7.800834,
+    45.589252,
+    7.800834,
+    45.589252
+],
   "geometry": {"coordinates":[7.800834,45.589252],"type":"Point"}
 }

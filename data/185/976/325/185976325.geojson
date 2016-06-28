@@ -2,13 +2,14 @@
   "id": 185976325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.391286,45.074734,8.391286,45.074734",
     "geom:latitude":45.074734,
     "geom:longitude":8.391286,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dante Barbano; Cellamonte; 15034",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185976325,
-    "wof:lastmodified":1449007268,
+    "wof:lastmodified":1466290607,
     "wof:name":"Cassa Di Risparmio Di Alessandria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.391286,45.074734,8.391286,45.074734],
+  "bbox": [
+    8.391286,
+    45.074734,
+    8.391286,
+    45.074734
+],
   "geometry": {"coordinates":[8.391286,45.074734],"type":"Point"}
 }

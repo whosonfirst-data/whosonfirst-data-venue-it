@@ -2,13 +2,14 @@
   "id": 269637839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.770787,45.654491,8.770787,45.654491",
     "geom:latitude":45.654491,
     "geom:longitude":8.770787,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giovanni Xxiii 60 21010 Cardano Al Campo",
     "sg:city":"Cardano al Campo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269637839,
-    "wof:lastmodified":1449036155,
+    "wof:lastmodified":1466290795,
     "wof:name":"Confezioni Olimpia Sas Di Remo Mazzetti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [8.770787,45.654491,8.770787,45.654491],
+  "bbox": [
+    8.770787,
+    45.654491,
+    8.770787,
+    45.654491
+],
   "geometry": {"coordinates":[8.770787,45.654491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270052517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.337374,43.222855,13.337374,43.222855",
     "geom:latitude":43.222855,
     "geom:longitude":13.337374,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62029 Tolentino",
     "sg:city":"Tolentino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270052517,
-    "wof:lastmodified":1449009738,
+    "wof:lastmodified":1466289613,
     "wof:name":"Ales Pelletterie Di Tiberi Sauro & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.337374,43.222855,13.337374,43.222855],
+  "bbox": [
+    13.337374,
+    43.222855,
+    13.337374,
+    43.222855
+],
   "geometry": {"coordinates":[13.337374,43.222855],"type":"Point"}
 }

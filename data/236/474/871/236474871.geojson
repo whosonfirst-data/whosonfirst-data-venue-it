@@ -2,13 +2,14 @@
   "id": 236474871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.389306,40.91164,14.389306,40.91164",
     "geom:latitude":40.91164,
     "geom:longitude":14.389306,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80038 Pomigliano D'arco",
     "sg:classifiers":[],
     "sg:orig_category":"Hobbistica",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236474871,
-    "wof:lastmodified":1449001781,
+    "wof:lastmodified":1466293782,
     "wof:name":"Arnone Collezionismo E Antichita'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.389306,40.91164,14.389306,40.91164],
+  "bbox": [
+    14.389306,
+    40.91164,
+    14.389306,
+    40.91164
+],
   "geometry": {"coordinates":[14.389306,40.91164],"type":"Point"}
 }

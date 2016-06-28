@@ -2,13 +2,14 @@
   "id": 286838765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.871677,45.173199,10.871677,45.173199",
     "geom:latitude":45.173199,
     "geom:longitude":10.871677,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46030 San Giorgio Di Mantova",
     "sg:city":"San Giorgio di Mantova",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286838765,
-    "wof:lastmodified":1449015524,
+    "wof:lastmodified":1466296629,
     "wof:name":"Piccinato Pubblicit\u00c0 Di Alberto Piccinato & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.871677,45.173199,10.871677,45.173199],
+  "bbox": [
+    10.871677,
+    45.173199,
+    10.871677,
+    45.173199
+],
   "geometry": {"coordinates":[10.871677,45.173199],"type":"Point"}
 }

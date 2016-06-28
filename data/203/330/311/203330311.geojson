@@ -2,13 +2,14 @@
   "id": 203330311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.567871,45.061771,7.567871,45.061771",
     "geom:latitude":45.061771,
     "geom:longitude":7.567871,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10126 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203330311,
-    "wof:lastmodified":1449025878,
+    "wof:lastmodified":1466291368,
     "wof:name":"Aberdeen School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.567871,45.061771,7.567871,45.061771],
+  "bbox": [
+    7.567871,
+    45.061771,
+    7.567871,
+    45.061771
+],
   "geometry": {"coordinates":[7.567871,45.061771],"type":"Point"}
 }

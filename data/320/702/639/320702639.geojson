@@ -2,13 +2,14 @@
   "id": 320702639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.361971,45.107864,9.361971,45.107864",
     "geom:latitude":45.107864,
     "geom:longitude":9.361971,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27010 San Zenone Al Po",
     "sg:city":"San Zenone al Po",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320702639,
-    "wof:lastmodified":1449013132,
+    "wof:lastmodified":1466298009,
     "wof:name":"Pianariva Di Brambilla Bruno Eugenio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.361971,45.107864,9.361971,45.107864],
+  "bbox": [
+    9.361971,
+    45.107864,
+    9.361971,
+    45.107864
+],
   "geometry": {"coordinates":[9.361971,45.107864],"type":"Point"}
 }

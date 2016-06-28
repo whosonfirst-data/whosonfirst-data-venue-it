@@ -2,13 +2,14 @@
   "id": 320738869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.577352,41.038128,14.577352,41.038128",
     "geom:latitude":41.038128,
     "geom:longitude":14.577352,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82011 Paolisi",
     "sg:city":"Paolisi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320738869,
-    "wof:lastmodified":1449013996,
+    "wof:lastmodified":1466298070,
     "wof:name":"Falzarano Pasquale Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.577352,41.038128,14.577352,41.038128],
+  "bbox": [
+    14.577352,
+    41.038128,
+    14.577352,
+    41.038128
+],
   "geometry": {"coordinates":[14.577352,41.038128],"type":"Point"}
 }

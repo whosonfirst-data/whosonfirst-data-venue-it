@@ -2,13 +2,14 @@
   "id": 252767933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.208433,46.145657,12.208433,46.145657",
     "geom:latitude":46.145657,
     "geom:longitude":12.208433,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32100 Belluno",
     "sg:city":"Belluno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252767933,
-    "wof:lastmodified":1449005730,
+    "wof:lastmodified":1466289548,
     "wof:name":"Il Ventaglio Di Fanelli A. G. & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.208433,46.145657,12.208433,46.145657],
+  "bbox": [
+    12.208433,
+    46.145657,
+    12.208433,
+    46.145657
+],
   "geometry": {"coordinates":[12.208433,46.145657],"type":"Point"}
 }

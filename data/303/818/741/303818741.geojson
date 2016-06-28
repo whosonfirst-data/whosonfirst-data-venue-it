@@ -2,13 +2,14 @@
   "id": 303818741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.43349,43.612602,13.43349,43.612602",
     "geom:latitude":43.612602,
     "geom:longitude":13.43349,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60020 Ancona",
     "sg:classifiers":[],
     "sg:orig_category":"Arte Ed Artigianato Artistico",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303818741,
-    "wof:lastmodified":1448999306,
+    "wof:lastmodified":1466297868,
     "wof:name":"Fonderia Paoletti Mario & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.43349,43.612602,13.43349,43.612602],
+  "bbox": [
+    13.43349,
+    43.612602,
+    13.43349,
+    43.612602
+],
   "geometry": {"coordinates":[13.43349,43.612602],"type":"Point"}
 }

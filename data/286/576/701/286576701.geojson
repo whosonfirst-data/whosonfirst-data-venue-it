@@ -2,13 +2,14 @@
   "id": 286576701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.46558,43.969975,12.46558,43.969975",
     "geom:latitude":43.969975,
     "geom:longitude":12.46558,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6/a, Strada Dell' Assenzio 47031 Repubblica Di San Marino",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":286576701,
-    "wof:lastmodified":1449017449,
+    "wof:lastmodified":1466293636,
     "wof:name":"Ponte & Mellini S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.46558,43.969975,12.46558,43.969975],
+  "bbox": [
+    12.46558,
+    43.969975,
+    12.46558,
+    43.969975
+],
   "geometry": {"coordinates":[12.46558,43.969975],"type":"Point"}
 }

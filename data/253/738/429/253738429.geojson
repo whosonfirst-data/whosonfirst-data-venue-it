@@ -2,13 +2,14 @@
   "id": 253738429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.679034,43.19294,13.679034,43.19294",
     "geom:latitude":43.19294,
     "geom:longitude":13.679034,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Viale Del Lavoro 63015 Monte Urano",
     "sg:city":"Monte Urano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253738429,
-    "wof:lastmodified":1449065002,
+    "wof:lastmodified":1466296912,
     "wof:name":"Solflex Di Vittori Nicola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.679034,43.19294,13.679034,43.19294],
+  "bbox": [
+    13.679034,
+    43.19294,
+    13.679034,
+    43.19294
+],
   "geometry": {"coordinates":[13.679034,43.19294],"type":"Point"}
 }

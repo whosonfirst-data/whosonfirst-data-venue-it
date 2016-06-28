@@ -2,13 +2,14 @@
   "id": 186445085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.254394,45.870609,12.254394,45.870609",
     "geom:latitude":45.870609,
     "geom:longitude":12.254394,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Crevada 9/c 31020 San Pietro Di Feletto",
     "sg:city":"San Pietro di Feletto",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186445085,
-    "wof:lastmodified":1449050690,
+    "wof:lastmodified":1466291770,
     "wof:name":"Sitapan Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [12.254394,45.870609,12.254394,45.870609],
+  "bbox": [
+    12.254394,
+    45.870609,
+    12.254394,
+    45.870609
+],
   "geometry": {"coordinates":[12.254394,45.870609],"type":"Point"}
 }

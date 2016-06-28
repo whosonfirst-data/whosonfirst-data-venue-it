@@ -2,13 +2,14 @@
   "id": 253641795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.198786,45.45092,9.198786,45.45092",
     "geom:latitude":45.45092,
     "geom:longitude":9.198786,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20135 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253641795,
-    "wof:lastmodified":1449065054,
+    "wof:lastmodified":1466296465,
     "wof:name":"Coltellerie Italiane Zoppis",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.198786,45.45092,9.198786,45.45092],
+  "bbox": [
+    9.198786,
+    45.45092,
+    9.198786,
+    45.45092
+],
   "geometry": {"coordinates":[9.198786,45.45092],"type":"Point"}
 }

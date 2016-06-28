@@ -2,13 +2,14 @@
   "id": 186547625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.935242,42.819714,13.935242,42.819714",
     "geom:latitude":42.819714,
     "geom:longitude":13.935242,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Reno 64011 Alba Adriatica",
     "sg:city":"Alba Adriatica",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186547625,
-    "wof:lastmodified":1449050516,
+    "wof:lastmodified":1466292767,
     "wof:name":"Hotel Astor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [13.935242,42.819714,13.935242,42.819714],
+  "bbox": [
+    13.935242,
+    42.819714,
+    13.935242,
+    42.819714
+],
   "geometry": {"coordinates":[13.935242,42.819714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203194015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.008069,45.518143,8.008069,45.518143",
     "geom:latitude":45.518143,
     "geom:longitude":8.008069,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13884 Sala Biellese",
     "sg:city":"Sala Biellese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203194015,
-    "wof:lastmodified":1449026580,
+    "wof:lastmodified":1466289804,
     "wof:name":"Raimondo Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.008069,45.518143,8.008069,45.518143],
+  "bbox": [
+    8.008069,
+    45.518143,
+    8.008069,
+    45.518143
+],
   "geometry": {"coordinates":[8.008069,45.518143],"type":"Point"}
 }

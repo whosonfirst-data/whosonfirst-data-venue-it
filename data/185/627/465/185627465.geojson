@@ -2,13 +2,14 @@
   "id": 185627465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.684581,45.64056,9.684581,45.64056",
     "geom:latitude":45.64056,
     "geom:longitude":9.684581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 30/32, 24050 Zanica, Bg",
     "sg:city":"Zanica",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185627465,
-    "wof:lastmodified":1449008253,
+    "wof:lastmodified":1466294321,
     "wof:name":"Banca Della Bergamasca-credito Cooperativo Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.684581,45.64056,9.684581,45.64056],
+  "bbox": [
+    9.684581,
+    45.64056,
+    9.684581,
+    45.64056
+],
   "geometry": {"coordinates":[9.684581,45.64056],"type":"Point"}
 }

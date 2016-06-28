@@ -2,13 +2,14 @@
   "id": 286922235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.875792,45.404068,11.875792,45.404068",
     "geom:latitude":45.404068,
     "geom:longitude":11.875792,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Arzergrande",
     "sg:city":"Arzergrande",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286922235,
-    "wof:lastmodified":1449015450,
+    "wof:lastmodified":1466297319,
     "wof:name":"Foggiato Alessandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.875792,45.404068,11.875792,45.404068],
+  "bbox": [
+    11.875792,
+    45.404068,
+    11.875792,
+    45.404068
+],
   "geometry": {"coordinates":[11.875792,45.404068],"type":"Point"}
 }

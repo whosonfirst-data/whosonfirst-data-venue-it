@@ -2,13 +2,14 @@
   "id": 320451823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.095819,39.270271,9.095819,39.270271",
     "geom:latitude":39.270271,
     "geom:longitude":9.095819,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09121 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320451823,
-    "wof:lastmodified":1449012882,
+    "wof:lastmodified":1466297523,
     "wof:name":"Axor Srl Impianti, Trasformazioni, Ricambi Per Pastifici",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.095819,39.270271,9.095819,39.270271],
+  "bbox": [
+    9.095819,
+    39.270271,
+    9.095819,
+    39.270271
+],
   "geometry": {"coordinates":[9.095819,39.270271],"type":"Point"}
 }

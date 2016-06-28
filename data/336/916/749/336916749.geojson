@@ -2,13 +2,14 @@
   "id": 336916749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.184914,45.459068,9.184914,45.459068",
     "geom:latitude":45.459068,
     "geom:longitude":9.184914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336916749,
-    "wof:lastmodified":1448997534,
+    "wof:lastmodified":1466297058,
     "wof:name":"Cesarani Antonio",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.184914,45.459068,9.184914,45.459068],
+  "bbox": [
+    9.184914,
+    45.459068,
+    9.184914,
+    45.459068
+],
   "geometry": {"coordinates":[9.184914,45.459068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320741165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.524819,44.401699,7.524819,44.401699",
     "geom:latitude":44.401699,
     "geom:longitude":7.524819,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12051 Mussotto",
     "sg:city":"Mussotto",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320741165,
-    "wof:lastmodified":1449011453,
+    "wof:lastmodified":1466298065,
     "wof:name":"Fornace Eugenio Casetta & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.524819,44.401699,7.524819,44.401699],
+  "bbox": [
+    7.524819,
+    44.401699,
+    7.524819,
+    44.401699
+],
   "geometry": {"coordinates":[7.524819,44.401699],"type":"Point"}
 }

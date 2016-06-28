@@ -2,13 +2,14 @@
   "id": 186224207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.792232,42.144196,11.792232,42.144196",
     "geom:latitude":42.144196,
     "geom:longitude":11.792232,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01016 Tarquinia",
     "sg:city":"Tarquinia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186224207,
-    "wof:lastmodified":1449052321,
+    "wof:lastmodified":1466289860,
     "wof:name":"Ristorante Er Corsaro Di Paoletti Egidio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "e"
     ]
 },
-  "bbox": [11.792232,42.144196,11.792232,42.144196],
+  "bbox": [
+    11.792232,
+    42.144196,
+    11.792232,
+    42.144196
+],
   "geometry": {"coordinates":[11.792232,42.144196],"type":"Point"}
 }

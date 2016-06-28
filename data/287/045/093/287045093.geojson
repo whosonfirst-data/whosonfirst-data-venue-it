@@ -2,13 +2,14 @@
   "id": 287045093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.246785,44.918884,7.246785,44.918884",
     "geom:latitude":44.918884,
     "geom:longitude":7.246785,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10060 S.secondo Di Pinerolo",
     "sg:classifiers":[],
     "sg:orig_category":"Tornerie Metalli",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287045093,
-    "wof:lastmodified":1449001472,
+    "wof:lastmodified":1466290152,
     "wof:name":"Ci.erre Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.246785,44.918884,7.246785,44.918884],
+  "bbox": [
+    7.246785,
+    44.918884,
+    7.246785,
+    44.918884
+],
   "geometry": {"coordinates":[7.246785,44.918884],"type":"Point"}
 }

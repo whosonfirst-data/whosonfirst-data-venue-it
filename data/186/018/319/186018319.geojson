@@ -2,13 +2,14 @@
   "id": 186018319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.01545,46.406116,13.01545,46.406116",
     "geom:latitude":46.406116,
     "geom:longitude":13.01545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza 20 Steembre 13; Tomezzo; 33028",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186018319,
-    "wof:lastmodified":1449051714,
+    "wof:lastmodified":1466293990,
     "wof:name":"Cassa Di Risparmio Di Udine, E Pordenone Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.01545,46.406116,13.01545,46.406116],
+  "bbox": [
+    13.01545,
+    46.406116,
+    13.01545,
+    46.406116
+],
   "geometry": {"coordinates":[13.01545,46.406116],"type":"Point"}
 }

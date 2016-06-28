@@ -2,13 +2,14 @@
   "id": 286280201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.669952,45.694904,9.669952,45.694904",
     "geom:latitude":45.694904,
     "geom:longitude":9.669952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Statale N. 11 24040 Isso",
     "sg:city":"Isso",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286280201,
-    "wof:lastmodified":1449016635,
+    "wof:lastmodified":1466289669,
     "wof:name":"Archimica S.p.a.",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.669952,45.694904,9.669952,45.694904],
+  "bbox": [
+    9.669952,
+    45.694904,
+    9.669952,
+    45.694904
+],
   "geometry": {"coordinates":[9.669952,45.694904],"type":"Point"}
 }

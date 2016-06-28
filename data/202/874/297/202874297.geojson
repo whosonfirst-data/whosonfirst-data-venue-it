@@ -2,13 +2,14 @@
   "id": 202874297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171509,45.495811,9.171509,45.495811",
     "geom:latitude":45.495811,
     "geom:longitude":9.171509,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20158 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202874297,
-    "wof:lastmodified":1449062485,
+    "wof:lastmodified":1466292939,
     "wof:name":"Bertoni Adele",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171509,45.495811,9.171509,45.495811],
+  "bbox": [
+    9.171509,
+    45.495811,
+    9.171509,
+    45.495811
+],
   "geometry": {"coordinates":[9.171509,45.495811],"type":"Point"}
 }

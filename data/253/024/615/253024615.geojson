@@ -2,13 +2,14 @@
   "id": 253024615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.340363,41.076122,14.340363,41.076122",
     "geom:latitude":41.076122,
     "geom:longitude":14.340363,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81100 Caserta",
     "sg:city":"Caserta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253024615,
-    "wof:lastmodified":1449064242,
+    "wof:lastmodified":1466289169,
     "wof:name":"Manzi Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.340363,41.076122,14.340363,41.076122],
+  "bbox": [
+    14.340363,
+    41.076122,
+    14.340363,
+    41.076122
+],
   "geometry": {"coordinates":[14.340363,41.076122],"type":"Point"}
 }

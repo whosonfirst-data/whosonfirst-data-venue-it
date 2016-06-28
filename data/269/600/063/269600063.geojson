@@ -2,13 +2,14 @@
   "id": 269600063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.914875,46.786701,11.914875,46.786701",
     "geom:latitude":46.786701,
     "geom:longitude":11.914875,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39030 San Lorenzo Di Sebato",
     "sg:city":"San Lorenzo di Sebato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269600063,
-    "wof:lastmodified":1449036368,
+    "wof:lastmodified":1466290322,
     "wof:name":"Volgger Holz S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.914875,46.786701,11.914875,46.786701],
+  "bbox": [
+    11.914875,
+    46.786701,
+    11.914875,
+    46.786701
+],
   "geometry": {"coordinates":[11.914875,46.786701],"type":"Point"}
 }

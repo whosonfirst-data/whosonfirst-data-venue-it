@@ -2,13 +2,14 @@
   "id": 236120901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.861179,42.403057,12.861179,42.403057",
     "geom:latitude":42.403057,
     "geom:longitude":12.861179,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Salaria Km 92,200 02010 Santa Rufina",
     "sg:city":"Santa Rufina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236120901,
-    "wof:lastmodified":1449004675,
+    "wof:lastmodified":1466290100,
     "wof:name":"Seko Bono Exacta Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.861179,42.403057,12.861179,42.403057],
+  "bbox": [
+    12.861179,
+    42.403057,
+    12.861179,
+    42.403057
+],
   "geometry": {"coordinates":[12.861179,42.403057],"type":"Point"}
 }

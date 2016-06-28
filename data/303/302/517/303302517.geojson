@@ -2,13 +2,14 @@
   "id": 303302517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.226584,45.666115,12.226584,45.666115",
     "geom:latitude":45.666115,
     "geom:longitude":12.226584,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31100 Treviso",
     "sg:city":"Treviso",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303302517,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1466294253,
     "wof:name":"Play Sun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.226584,45.666115,12.226584,45.666115],
+  "bbox": [
+    12.226584,
+    45.666115,
+    12.226584,
+    45.666115
+],
   "geometry": {"coordinates":[12.226584,45.666115],"type":"Point"}
 }

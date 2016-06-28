@@ -2,13 +2,14 @@
   "id": 186470403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.700696,45.107891,7.700696,45.107891",
     "geom:latitude":45.107891,
     "geom:longitude":7.700696,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Vistrorio 10155 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186470403,
-    "wof:lastmodified":1449051046,
+    "wof:lastmodified":1466292000,
     "wof:name":"Panificio Birolo De Vitali & E C. Snc",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bread"
     ]
 },
-  "bbox": [7.700696,45.107891,7.700696,45.107891],
+  "bbox": [
+    7.700696,
+    45.107891,
+    7.700696,
+    45.107891
+],
   "geometry": {"coordinates":[7.700696,45.107891],"type":"Point"}
 }

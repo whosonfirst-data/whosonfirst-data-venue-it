@@ -2,13 +2,14 @@
   "id": 336723565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.677333,43.179108,13.677333,43.179108",
     "geom:latitude":43.179108,
     "geom:longitude":13.677333,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Garda 63015 Monte Urano",
     "sg:city":"Monte Urano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336723565,
-    "wof:lastmodified":1448997570,
+    "wof:lastmodified":1466295201,
     "wof:name":"Motor's House S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [13.677333,43.179108,13.677333,43.179108],
+  "bbox": [
+    13.677333,
+    43.179108,
+    13.677333,
+    43.179108
+],
   "geometry": {"coordinates":[13.677333,43.179108],"type":"Point"}
 }

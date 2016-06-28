@@ -2,13 +2,14 @@
   "id": 287281091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.235834,45.584587,9.235834,45.584587",
     "geom:latitude":45.584587,
     "geom:longitude":9.235834,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Via Pavia 20053 Muggio'",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287281091,
-    "wof:lastmodified":1449001434,
+    "wof:lastmodified":1466293313,
     "wof:name":"Oeg Officina Elettromeccanica Gottifredi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.235834,45.584587,9.235834,45.584587],
+  "bbox": [
+    9.235834,
+    45.584587,
+    9.235834,
+    45.584587
+],
   "geometry": {"coordinates":[9.235834,45.584587],"type":"Point"}
 }

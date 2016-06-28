@@ -2,13 +2,14 @@
   "id": 253066969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.811109,45.657829,8.811109,45.657829",
     "geom:latitude":45.657829,
     "geom:longitude":8.811109,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21013 Gallarate",
     "sg:city":"Gallarate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253066969,
-    "wof:lastmodified":1449063672,
+    "wof:lastmodified":1466289622,
     "wof:name":"M.a.p. Snc Di Franco Nannini & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.811109,45.657829,8.811109,45.657829],
+  "bbox": [
+    8.811109,
+    45.657829,
+    8.811109,
+    45.657829
+],
   "geometry": {"coordinates":[8.811109,45.657829],"type":"Point"}
 }

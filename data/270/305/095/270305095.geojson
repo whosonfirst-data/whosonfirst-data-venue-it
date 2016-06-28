@@ -2,13 +2,14 @@
   "id": 270305095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.359038,43.094009,12.359038,43.094009",
     "geom:latitude":43.094009,
     "geom:longitude":12.359038,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06012 Citta'dicastello",
     "sg:classifiers":[],
     "sg:orig_category":"Cartotecnica E Servizi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270305095,
-    "wof:lastmodified":1449009006,
+    "wof:lastmodified":1466292685,
     "wof:name":"Deko Italia Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.359038,43.094009,12.359038,43.094009],
+  "bbox": [
+    12.359038,
+    43.094009,
+    12.359038,
+    43.094009
+],
   "geometry": {"coordinates":[12.359038,43.094009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287014695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.350467,45.81469,12.350467,45.81469",
     "geom:latitude":45.81469,
     "geom:longitude":12.350467,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Strada Vecchia 31028 Vazzola",
     "sg:city":"Vazzola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287014695,
-    "wof:lastmodified":1449001093,
+    "wof:lastmodified":1466289788,
     "wof:name":"Isanna (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [12.350467,45.81469,12.350467,45.81469],
+  "bbox": [
+    12.350467,
+    45.81469,
+    12.350467,
+    45.81469
+],
   "geometry": {"coordinates":[12.350467,45.81469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236665821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.766294,40.895706,16.766294,40.895706",
     "geom:latitude":40.895706,
     "geom:longitude":16.766294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fornace 70020 Cassano Delle Murge",
     "sg:city":"Cassano delle Murge",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236665821,
-    "wof:lastmodified":1449002495,
+    "wof:lastmodified":1466295623,
     "wof:name":"Suprema Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [16.766294,40.895706,16.766294,40.895706],
+  "bbox": [
+    16.766294,
+    40.895706,
+    16.766294,
+    40.895706
+],
   "geometry": {"coordinates":[16.766294,40.895706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286274225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.716007,45.138519,9.716007,45.138519",
     "geom:latitude":45.138519,
     "geom:longitude":9.716007,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8/10, Via Milano 26848 San Fiorano",
     "sg:city":"San Fiorano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286274225,
-    "wof:lastmodified":1449015526,
+    "wof:lastmodified":1466289589,
     "wof:name":"Eridana Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.716007,45.138519,9.716007,45.138519],
+  "bbox": [
+    9.716007,
+    45.138519,
+    9.716007,
+    45.138519
+],
   "geometry": {"coordinates":[9.716007,45.138519],"type":"Point"}
 }

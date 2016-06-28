@@ -2,13 +2,14 @@
   "id": 287123717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.14542,45.496834,12.14542,45.496834",
     "geom:latitude":45.496834,
     "geom:longitude":12.14542,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30038 Spinea",
     "sg:city":"Spinea",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287123717,
-    "wof:lastmodified":1449000912,
+    "wof:lastmodified":1466291243,
     "wof:name":"Trasporto Carni Di Babato & Favero (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.14542,45.496834,12.14542,45.496834],
+  "bbox": [
+    12.14542,
+    45.496834,
+    12.14542,
+    45.496834
+],
   "geometry": {"coordinates":[12.14542,45.496834],"type":"Point"}
 }

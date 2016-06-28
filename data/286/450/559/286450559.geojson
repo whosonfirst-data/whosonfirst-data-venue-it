@@ -2,13 +2,14 @@
   "id": 286450559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.186207,45.477112,9.186207,45.477112",
     "geom:latitude":45.477112,
     "geom:longitude":9.186207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Lovanio 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286450559,
-    "wof:lastmodified":1449017659,
+    "wof:lastmodified":1466292130,
     "wof:name":"Ansteffan (s.r.l.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.186207,45.477112,9.186207,45.477112],
+  "bbox": [
+    9.186207,
+    45.477112,
+    9.186207,
+    45.477112
+],
   "geometry": {"coordinates":[9.186207,45.477112],"type":"Point"}
 }

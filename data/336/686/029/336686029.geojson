@@ -2,13 +2,14 @@
   "id": 336686029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.210151,44.31142,9.210151,44.31142",
     "geom:latitude":44.31142,
     "geom:longitude":9.210151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Paraggi A Monte 16038 Santa Margherita Ligure",
     "sg:city":"Paraggi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336686029,
-    "wof:lastmodified":1448997764,
+    "wof:lastmodified":1466294757,
     "wof:name":"Hotel Paraggi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.210151,44.31142,9.210151,44.31142],
+  "bbox": [
+    9.210151,
+    44.31142,
+    9.210151,
+    44.31142
+],
   "geometry": {"coordinates":[9.210151,44.31142],"type":"Point"}
 }

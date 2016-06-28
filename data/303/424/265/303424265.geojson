@@ -2,13 +2,14 @@
   "id": 303424265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.68108,45.971607,12.68108,45.971607",
     "geom:latitude":45.971607,
     "geom:longitude":12.68108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piave 86 33080 Fiume Veneto",
     "sg:city":"Fiume Veneto",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303424265,
-    "wof:lastmodified":1449000412,
+    "wof:lastmodified":1466295743,
     "wof:name":"Muzzin Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furniture"
     ]
 },
-  "bbox": [12.68108,45.971607,12.68108,45.971607],
+  "bbox": [
+    12.68108,
+    45.971607,
+    12.68108,
+    45.971607
+],
   "geometry": {"coordinates":[12.68108,45.971607],"type":"Point"}
 }

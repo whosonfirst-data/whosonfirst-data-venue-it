@@ -2,13 +2,14 @@
   "id": 336642809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.14971,45.494091,12.14971,45.494091",
     "geom:latitude":45.494091,
     "geom:longitude":12.14971,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Via Monte Grappa 30030 Salzano",
     "sg:city":"Salzano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336642809,
-    "wof:lastmodified":1448996985,
+    "wof:lastmodified":1466294243,
     "wof:name":"Costruzioni Meccaniche Mion & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.14971,45.494091,12.14971,45.494091],
+  "bbox": [
+    12.14971,
+    45.494091,
+    12.14971,
+    45.494091
+],
   "geometry": {"coordinates":[12.14971,45.494091],"type":"Point"}
 }

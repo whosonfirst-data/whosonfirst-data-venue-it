@@ -2,13 +2,14 @@
   "id": 319967021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.796242,45.639641,13.796242,45.639641",
     "geom:latitude":45.639641,
     "geom:longitude":13.796242,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34139 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319967021,
-    "wof:lastmodified":1449024834,
+    "wof:lastmodified":1466294380,
     "wof:name":"Automobile Club Trieste",
     "wof:parent_id":85904987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.796242,45.639641,13.796242,45.639641],
+  "bbox": [
+    13.796242,
+    45.639641,
+    13.796242,
+    45.639641
+],
   "geometry": {"coordinates":[13.796242,45.639641],"type":"Point"}
 }

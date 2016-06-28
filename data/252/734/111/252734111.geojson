@@ -2,13 +2,14 @@
   "id": 252734111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.844357,40.830994,14.844357,40.830994",
     "geom:latitude":40.830994,
     "geom:longitude":14.844357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83029 Solofra",
     "sg:city":"Solofra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252734111,
-    "wof:lastmodified":1449006380,
+    "wof:lastmodified":1466289186,
     "wof:name":"Lettieri Giustina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.844357,40.830994,14.844357,40.830994],
+  "bbox": [
+    14.844357,
+    40.830994,
+    14.844357,
+    40.830994
+],
   "geometry": {"coordinates":[14.844357,40.830994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203286713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.677117,40.922398,15.677117,40.922398",
     "geom:latitude":40.922398,
     "geom:longitude":15.677117,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85028 Rionero In Vulture",
     "sg:city":"Rionero in Vulture",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203286713,
-    "wof:lastmodified":1449025414,
+    "wof:lastmodified":1466290741,
     "wof:name":"L.s. Sas Di L. Lamorgese & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.677117,40.922398,15.677117,40.922398],
+  "bbox": [
+    15.677117,
+    40.922398,
+    15.677117,
+    40.922398
+],
   "geometry": {"coordinates":[15.677117,40.922398],"type":"Point"}
 }

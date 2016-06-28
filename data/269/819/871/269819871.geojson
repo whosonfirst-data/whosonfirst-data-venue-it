@@ -2,13 +2,14 @@
   "id": 269819871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.959365,44.400021,8.959365,44.400021",
     "geom:latitude":44.400021,
     "geom:longitude":8.959365,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16145 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269819871,
-    "wof:lastmodified":1449036709,
+    "wof:lastmodified":1466293264,
     "wof:name":"Giorgia Di Campigli",
     "wof:parent_id":85862649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.959365,44.400021,8.959365,44.400021],
+  "bbox": [
+    8.959365,
+    44.400021,
+    8.959365,
+    44.400021
+],
   "geometry": {"coordinates":[8.959365,44.400021],"type":"Point"}
 }

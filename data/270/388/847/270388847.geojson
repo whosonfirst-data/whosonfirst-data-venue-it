@@ -2,13 +2,14 @@
   "id": 270388847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.182229,45.527462,10.182229,45.527462",
     "geom:latitude":45.527462,
     "geom:longitude":10.182229,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25050 Corte Franca",
     "sg:classifiers":[],
     "sg:orig_category":"Cemento E Calcestruzzo - Manufatti",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270388847,
-    "wof:lastmodified":1449008765,
+    "wof:lastmodified":1466293734,
     "wof:name":"L'edile Srl",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.182229,45.527462,10.182229,45.527462],
+  "bbox": [
+    10.182229,
+    45.527462,
+    10.182229,
+    45.527462
+],
   "geometry": {"coordinates":[10.182229,45.527462],"type":"Point"}
 }

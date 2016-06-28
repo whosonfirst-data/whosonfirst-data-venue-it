@@ -2,13 +2,14 @@
   "id": 286668667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18615,45.477432,9.18615,45.477432",
     "geom:latitude":45.477432,
     "geom:longitude":9.18615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Della Moscova 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286668667,
-    "wof:lastmodified":1449017238,
+    "wof:lastmodified":1466294777,
     "wof:name":"Agenzia Bip 2 (s.a.s.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "medium"
     ]
 },
-  "bbox": [9.18615,45.477432,9.18615,45.477432],
+  "bbox": [
+    9.18615,
+    45.477432,
+    9.18615,
+    45.477432
+],
   "geometry": {"coordinates":[9.18615,45.477432],"type":"Point"}
 }

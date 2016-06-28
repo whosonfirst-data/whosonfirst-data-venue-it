@@ -2,13 +2,14 @@
   "id": 236661827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.444148,45.988297,13.444148,45.988297",
     "geom:latitude":45.988297,
     "geom:longitude":13.444148,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Quattroventi 33040 Corno Di Rosazzo",
     "sg:city":"Corno di Rosazzo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236661827,
-    "wof:lastmodified":1449004812,
+    "wof:lastmodified":1466295584,
     "wof:name":"Sodalse Legno S.n.c. Di Dalmasson Evelino & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.444148,45.988297,13.444148,45.988297],
+  "bbox": [
+    13.444148,
+    45.988297,
+    13.444148,
+    45.988297
+],
   "geometry": {"coordinates":[13.444148,45.988297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286555171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.143517,45.44762,9.143517,45.44762",
     "geom:latitude":45.44762,
     "geom:longitude":9.143517,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Pogliaghi Lodovico 20146 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286555171,
-    "wof:lastmodified":1449017688,
+    "wof:lastmodified":1466293372,
     "wof:name":"Manifattura Fraizzoli E C. S.r.l.",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.143517,45.44762,9.143517,45.44762],
+  "bbox": [
+    9.143517,
+    45.44762,
+    9.143517,
+    45.44762
+],
   "geometry": {"coordinates":[9.143517,45.44762],"type":"Point"}
 }

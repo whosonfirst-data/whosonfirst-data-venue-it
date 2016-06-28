@@ -2,13 +2,14 @@
   "id": 286527551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.80391,45.581684,8.80391,45.581684",
     "geom:latitude":45.581684,
     "geom:longitude":8.80391,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Pace 20020 Magnago",
     "sg:city":"Magnago",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286527551,
-    "wof:lastmodified":1449017522,
+    "wof:lastmodified":1466293039,
     "wof:name":"Jowa (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.80391,45.581684,8.80391,45.581684],
+  "bbox": [
+    8.80391,
+    45.581684,
+    8.80391,
+    45.581684
+],
   "geometry": {"coordinates":[8.80391,45.581684],"type":"Point"}
 }

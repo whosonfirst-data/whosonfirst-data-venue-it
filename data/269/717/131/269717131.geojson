@@ -2,13 +2,14 @@
   "id": 269717131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.026434,45.130943,10.026434,45.130943",
     "geom:latitude":45.130943,
     "geom:longitude":10.026434,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26100 Cremona",
     "sg:city":"Cremona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269717131,
-    "wof:lastmodified":1449036202,
+    "wof:lastmodified":1466291909,
     "wof:name":"Pec - Pronto Emergenza Casa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.026434,45.130943,10.026434,45.130943],
+  "bbox": [
+    10.026434,
+    45.130943,
+    10.026434,
+    45.130943
+],
   "geometry": {"coordinates":[10.026434,45.130943],"type":"Point"}
 }

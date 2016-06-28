@@ -2,13 +2,14 @@
   "id": 219909841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.360051,41.880581,12.360051,41.880581",
     "geom:latitude":41.880581,
     "geom:longitude":12.360051,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00133 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219909841,
-    "wof:lastmodified":1449073057,
+    "wof:lastmodified":1466295395,
     "wof:name":"Elettronica Futura Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.360051,41.880581,12.360051,41.880581],
+  "bbox": [
+    12.360051,
+    41.880581,
+    12.360051,
+    41.880581
+],
   "geometry": {"coordinates":[12.360051,41.880581],"type":"Point"}
 }

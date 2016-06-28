@@ -2,13 +2,14 @@
   "id": 269887607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.728503,36.925911,14.728503,36.925911",
     "geom:latitude":36.925911,
     "geom:longitude":14.728503,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Pezza Di Rizzo 97011 Acate",
     "sg:city":"Acate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269887607,
-    "wof:lastmodified":1449038353,
+    "wof:lastmodified":1466293995,
     "wof:name":"Siriac (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [14.728503,36.925911,14.728503,36.925911],
+  "bbox": [
+    14.728503,
+    36.925911,
+    14.728503,
+    36.925911
+],
   "geometry": {"coordinates":[14.728503,36.925911],"type":"Point"}
 }

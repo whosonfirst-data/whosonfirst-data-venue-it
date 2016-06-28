@@ -2,13 +2,14 @@
   "id": 203312163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.194981,45.472153,9.194981,45.472153",
     "geom:latitude":45.472153,
     "geom:longitude":9.194981,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203312163,
-    "wof:lastmodified":1449025890,
+    "wof:lastmodified":1466291116,
     "wof:name":"Studio 4b Sas",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.194981,45.472153,9.194981,45.472153],
+  "bbox": [
+    9.194981,
+    45.472153,
+    9.194981,
+    45.472153
+],
   "geometry": {"coordinates":[9.194981,45.472153],"type":"Point"}
 }

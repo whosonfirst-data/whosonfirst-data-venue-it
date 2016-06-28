@@ -2,13 +2,14 @@
   "id": 219241797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.342313,44.402195,11.342313,44.402195",
     "geom:latitude":44.402195,
     "geom:longitude":11.342313,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Allende, 40 - Pian Di Macina 40065 Pianoro",
     "sg:city":"Pianoro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219241797,
-    "wof:lastmodified":1449073820,
+    "wof:lastmodified":1466295991,
     "wof:name":"Imca Di Trentini Andrea & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.342313,44.402195,11.342313,44.402195],
+  "bbox": [
+    11.342313,
+    44.402195,
+    11.342313,
+    44.402195
+],
   "geometry": {"coordinates":[11.342313,44.402195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236020701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.650431,43.690216,12.650431,43.690216",
     "geom:latitude":43.690216,
     "geom:longitude":12.650431,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Carotti 11 61033 Fermignano",
     "sg:city":"Fermignano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236020701,
-    "wof:lastmodified":1449003142,
+    "wof:lastmodified":1466289095,
     "wof:name":"Safer Plast Di Damiani Domenico E Paoloni Gianfranco Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "casting"
     ]
 },
-  "bbox": [12.650431,43.690216,12.650431,43.690216],
+  "bbox": [
+    12.650431,
+    43.690216,
+    12.650431,
+    43.690216
+],
   "geometry": {"coordinates":[12.650431,43.690216],"type":"Point"}
 }

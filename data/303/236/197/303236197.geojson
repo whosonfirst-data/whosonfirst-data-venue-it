@@ -2,13 +2,14 @@
   "id": 303236197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.826055,40.922146,14.826055,40.922146",
     "geom:latitude":40.922146,
     "geom:longitude":14.826055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41, Corso Europa 83100 Avellino",
     "sg:city":"Avellino",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303236197,
-    "wof:lastmodified":1448998382,
+    "wof:lastmodified":1466293429,
     "wof:name":"Consorzio Interprovinciale Alto Calore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "energy"
     ]
 },
-  "bbox": [14.826055,40.922146,14.826055,40.922146],
+  "bbox": [
+    14.826055,
+    40.922146,
+    14.826055,
+    40.922146
+],
   "geometry": {"coordinates":[14.826055,40.922146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253263261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.186848,40.894463,14.186848,40.894463",
     "geom:latitude":40.894463,
     "geom:longitude":14.186848,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80016 Marano Di Napoli",
     "sg:city":"Marano di Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253263261,
-    "wof:lastmodified":1449065705,
+    "wof:lastmodified":1466291731,
     "wof:name":"Di Criscio Maria Maddalena",
     "wof:parent_id":85900399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.186848,40.894463,14.186848,40.894463],
+  "bbox": [
+    14.186848,
+    40.894463,
+    14.186848,
+    40.894463
+],
   "geometry": {"coordinates":[14.186848,40.894463],"type":"Point"}
 }

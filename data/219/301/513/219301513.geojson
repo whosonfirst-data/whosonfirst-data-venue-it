@@ -2,13 +2,14 @@
   "id": 219301513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.066168,37.467422,15.066168,37.467422",
     "geom:latitude":37.467422,
     "geom:longitude":15.066168,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Bomacerol 3 95121 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219301513,
-    "wof:lastmodified":1449071298,
+    "wof:lastmodified":1466289317,
     "wof:name":"Fmc Packaging Machinery Spa",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "special"
     ]
 },
-  "bbox": [15.066168,37.467422,15.066168,37.467422],
+  "bbox": [
+    15.066168,
+    37.467422,
+    15.066168,
+    37.467422
+],
   "geometry": {"coordinates":[15.066168,37.467422],"type":"Point"}
 }

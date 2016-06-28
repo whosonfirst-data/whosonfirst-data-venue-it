@@ -2,13 +2,14 @@
   "id": 202393443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.881142,42.950981,13.881142,42.950981",
     "geom:latitude":42.950981,
     "geom:longitude":13.881142,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63039 San Benedetto Del Tronto",
     "sg:city":"San Benedetto del Tronto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202393443,
-    "wof:lastmodified":1449060903,
+    "wof:lastmodified":1466294332,
     "wof:name":"Laboratorio Teatrale Re Nudo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.881142,42.950981,13.881142,42.950981],
+  "bbox": [
+    13.881142,
+    42.950981,
+    13.881142,
+    42.950981
+],
   "geometry": {"coordinates":[13.881142,42.950981],"type":"Point"}
 }

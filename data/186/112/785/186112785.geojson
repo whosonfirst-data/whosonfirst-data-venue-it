@@ -2,13 +2,14 @@
   "id": 186112785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.189301,45.465275,9.189301,45.465275",
     "geom:latitude":45.465275,
     "geom:longitude":9.189301,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Silvio Pellico 4, L-20121 Milan, Mi",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186112785,
-    "wof:lastmodified":1449051609,
+    "wof:lastmodified":1466288918,
     "wof:name":"Intesa Leasing Spa",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.189301,45.465275,9.189301,45.465275],
+  "bbox": [
+    9.189301,
+    45.465275,
+    9.189301,
+    45.465275
+],
   "geometry": {"coordinates":[9.189301,45.465275],"type":"Point"}
 }

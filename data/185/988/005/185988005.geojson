@@ -2,13 +2,14 @@
   "id": 185988005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.785916,43.229576,12.785916,43.229576",
     "geom:latitude":43.229576,
     "geom:longitude":12.785916,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Matteotti; Gualdo Tadino; 06023",
     "sg:city":"Gualdo Tadino",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185988005,
-    "wof:lastmodified":1449007147,
+    "wof:lastmodified":1466290684,
     "wof:name":"Cassa Di Risparmio Di Foligno Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.785916,43.229576,12.785916,43.229576],
+  "bbox": [
+    12.785916,
+    43.229576,
+    12.785916,
+    43.229576
+],
   "geometry": {"coordinates":[12.785916,43.229576],"type":"Point"}
 }

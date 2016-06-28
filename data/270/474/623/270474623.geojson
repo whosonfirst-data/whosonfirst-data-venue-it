@@ -2,13 +2,14 @@
   "id": 270474623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.94464,45.129452,7.94464,45.129452",
     "geom:latitude":45.129452,
     "geom:longitude":7.94464,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Leona 10020 Casalborgone",
     "sg:city":"Casalborgone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270474623,
-    "wof:lastmodified":1449008785,
+    "wof:lastmodified":1466294750,
     "wof:name":"Molino Di Casalborgone (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cereal"
     ]
 },
-  "bbox": [7.94464,45.129452,7.94464,45.129452],
+  "bbox": [
+    7.94464,
+    45.129452,
+    7.94464,
+    45.129452
+],
   "geometry": {"coordinates":[7.94464,45.129452],"type":"Point"}
 }

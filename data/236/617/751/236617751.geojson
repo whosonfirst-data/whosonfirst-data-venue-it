@@ -2,13 +2,14 @@
   "id": 236617751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.093363,43.876266,11.093363,43.876266",
     "geom:latitude":43.876266,
     "geom:longitude":11.093363,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, V. Roma 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236617751,
-    "wof:lastmodified":1449001763,
+    "wof:lastmodified":1466295178,
     "wof:name":"Magniflex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.093363,43.876266,11.093363,43.876266],
+  "bbox": [
+    11.093363,
+    43.876266,
+    11.093363,
+    43.876266
+],
   "geometry": {"coordinates":[11.093363,43.876266],"type":"Point"}
 }

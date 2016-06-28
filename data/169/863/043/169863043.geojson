@@ -2,13 +2,14 @@
   "id": 169863043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.122571,46.068485,11.122571,46.068485",
     "geom:latitude":46.068485,
     "geom:longitude":11.122571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Oss Mazzurana 63, 38100 Trento, Tn",
     "sg:city":"Trento",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169863043,
-    "wof:lastmodified":1449034970,
+    "wof:lastmodified":1466289311,
     "wof:name":"Banca Calderari Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.122571,46.068485,11.122571,46.068485],
+  "bbox": [
+    11.122571,
+    46.068485,
+    11.122571,
+    46.068485
+],
   "geometry": {"coordinates":[11.122571,46.068485],"type":"Point"}
 }

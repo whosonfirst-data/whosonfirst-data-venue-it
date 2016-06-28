@@ -2,13 +2,14 @@
   "id": 252995053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.768141,45.768818,11.768141,45.768818",
     "geom:latitude":45.768818,
     "geom:longitude":11.768141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Via Ferrarin 36022 Cassola",
     "sg:city":"Cassola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252995053,
-    "wof:lastmodified":1449006392,
+    "wof:lastmodified":1466292009,
     "wof:name":"Orouno Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.768141,45.768818,11.768141,45.768818],
+  "bbox": [
+    11.768141,
+    45.768818,
+    11.768141,
+    45.768818
+],
   "geometry": {"coordinates":[11.768141,45.768818],"type":"Point"}
 }

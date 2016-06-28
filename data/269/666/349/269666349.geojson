@@ -2,13 +2,14 @@
   "id": 269666349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.35227,41.630337,13.35227,41.630337",
     "geom:latitude":41.630337,
     "geom:longitude":13.35227,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03023 Ceccano",
     "sg:city":"Ceccano",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269666349,
-    "wof:lastmodified":1449037021,
+    "wof:lastmodified":1466291162,
     "wof:name":"D'avelli Raffaele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "appraiser"
     ]
 },
-  "bbox": [13.35227,41.630337,13.35227,41.630337],
+  "bbox": [
+    13.35227,
+    41.630337,
+    13.35227,
+    41.630337
+],
   "geometry": {"coordinates":[13.35227,41.630337],"type":"Point"}
 }

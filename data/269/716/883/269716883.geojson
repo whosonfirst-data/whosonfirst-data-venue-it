@@ -2,13 +2,14 @@
   "id": 269716883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.603925,44.900303,8.603925,44.900303",
     "geom:latitude":44.900303,
     "geom:longitude":8.603925,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15100 Alessandria",
     "sg:city":"Alessandria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269716883,
-    "wof:lastmodified":1449036476,
+    "wof:lastmodified":1466291905,
     "wof:name":"Pec - Pronto Emergenza Casa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.603925,44.900303,8.603925,44.900303],
+  "bbox": [
+    8.603925,
+    44.900303,
+    8.603925,
+    44.900303
+],
   "geometry": {"coordinates":[8.603925,44.900303],"type":"Point"}
 }

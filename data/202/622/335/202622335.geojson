@@ -2,13 +2,14 @@
   "id": 202622335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.238077,45.635681,12.238077,45.635681",
     "geom:latitude":45.635681,
     "geom:longitude":12.238077,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31032 Casale Sul Sile",
     "sg:city":"Casale sul Sile",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202622335,
-    "wof:lastmodified":1449062207,
+    "wof:lastmodified":1466290209,
     "wof:name":"Fratelli Stefanato Di Stefanato Leodamante & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.238077,45.635681,12.238077,45.635681],
+  "bbox": [
+    12.238077,
+    45.635681,
+    12.238077,
+    45.635681
+],
   "geometry": {"coordinates":[12.238077,45.635681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236152697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.226253,42.671623,12.226253,42.671623",
     "geom:latitude":42.671623,
     "geom:longitude":12.226253,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Vocabolo Cardeto 05018 Orvieto",
     "sg:city":"Orvieto",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236152697,
-    "wof:lastmodified":1449004332,
+    "wof:lastmodified":1466290400,
     "wof:name":"Cooperativa Viti Vinicola (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [12.226253,42.671623,12.226253,42.671623],
+  "bbox": [
+    12.226253,
+    42.671623,
+    12.226253,
+    42.671623
+],
   "geometry": {"coordinates":[12.226253,42.671623],"type":"Point"}
 }

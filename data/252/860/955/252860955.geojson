@@ -2,13 +2,14 @@
   "id": 252860955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.18637,45.554981,10.18637,45.554981",
     "geom:latitude":45.554981,
     "geom:longitude":10.18637,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25022 Borgo San Giacomo",
     "sg:city":"Borgo San Giacomo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252860955,
-    "wof:lastmodified":1449005894,
+    "wof:lastmodified":1466290603,
     "wof:name":"Calzificio Bulla Paolo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.18637,45.554981,10.18637,45.554981],
+  "bbox": [
+    10.18637,
+    45.554981,
+    10.18637,
+    45.554981
+],
   "geometry": {"coordinates":[10.18637,45.554981],"type":"Point"}
 }

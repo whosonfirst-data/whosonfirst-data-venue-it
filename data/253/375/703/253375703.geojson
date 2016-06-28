@@ -2,13 +2,14 @@
   "id": 253375703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.920127,43.925766,10.920127,43.925766",
     "geom:latitude":43.925766,
     "geom:longitude":10.920127,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"176/8, Via Fiorentina 51100 Pistoia",
     "sg:city":"Pistoia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253375703,
-    "wof:lastmodified":1449062925,
+    "wof:lastmodified":1466293128,
     "wof:name":"Bolognini Imballaggi Industrii Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [10.920127,43.925766,10.920127,43.925766],
+  "bbox": [
+    10.920127,
+    43.925766,
+    10.920127,
+    43.925766
+],
   "geometry": {"coordinates":[10.920127,43.925766],"type":"Point"}
 }

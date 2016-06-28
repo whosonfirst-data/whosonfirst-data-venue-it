@@ -2,13 +2,14 @@
   "id": 219364275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.940602,45.482571,10.940602,45.482571",
     "geom:latitude":45.482571,
     "geom:longitude":10.940602,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37020 Arbizzano",
     "sg:classifiers":[],
     "sg:orig_category":"Sport And Leisure, Services. Tourism, Services. Motor Vehicles, Auxiliary Services. Transport, Auxiliary Services",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219364275,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466289957,
     "wof:name":"Dalla Val Snc Di Dalla Val Moreno & C.",
     "wof:parent_id":85905029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.940602,45.482571,10.940602,45.482571],
+  "bbox": [
+    10.940602,
+    45.482571,
+    10.940602,
+    45.482571
+],
   "geometry": {"coordinates":[10.940602,45.482571],"type":"Point"}
 }

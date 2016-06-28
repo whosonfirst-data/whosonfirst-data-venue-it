@@ -2,13 +2,14 @@
   "id": 220060475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.011885,44.999912,9.011885,44.999912",
     "geom:latitude":44.999912,
     "geom:longitude":9.011885,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27058 Voghera",
     "sg:city":"Voghera",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220060475,
-    "wof:lastmodified":1449074804,
+    "wof:lastmodified":1466295398,
     "wof:name":"Gardella Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.011885,44.999912,9.011885,44.999912],
+  "bbox": [
+    9.011885,
+    44.999912,
+    9.011885,
+    44.999912
+],
   "geometry": {"coordinates":[9.011885,44.999912],"type":"Point"}
 }

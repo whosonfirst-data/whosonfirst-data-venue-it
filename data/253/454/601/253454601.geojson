@@ -2,13 +2,14 @@
   "id": 253454601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.367645,41.917267,12.367645,41.917267",
     "geom:latitude":41.917267,
     "geom:longitude":12.367645,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00166 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253454601,
-    "wof:lastmodified":1449065504,
+    "wof:lastmodified":1466294063,
     "wof:name":"C.b.f. Di Claudio Benedetti & C. Sas",
     "wof:parent_id":85900497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.367645,41.917267,12.367645,41.917267],
+  "bbox": [
+    12.367645,
+    41.917267,
+    12.367645,
+    41.917267
+],
   "geometry": {"coordinates":[12.367645,41.917267],"type":"Point"}
 }

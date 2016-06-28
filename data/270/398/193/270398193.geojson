@@ -2,13 +2,14 @@
   "id": 270398193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.49338,45.731201,8.49338,45.731201",
     "geom:latitude":45.731201,
     "geom:longitude":8.49338,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28040 Paruzzaro",
     "sg:city":"Paruzzaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270398193,
-    "wof:lastmodified":1449008843,
+    "wof:lastmodified":1466293849,
     "wof:name":"Centro Benessere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.49338,45.731201,8.49338,45.731201],
+  "bbox": [
+    8.49338,
+    45.731201,
+    8.49338,
+    45.731201
+],
   "geometry": {"coordinates":[8.49338,45.731201],"type":"Point"}
 }

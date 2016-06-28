@@ -2,13 +2,14 @@
   "id": 286835135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.61602,42.581005,12.61602,42.581005",
     "geom:latitude":42.581005,
     "geom:longitude":12.61602,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"05100 Terni",
     "sg:city":"Terni",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286835135,
-    "wof:lastmodified":1449015590,
+    "wof:lastmodified":1466296608,
     "wof:name":"Mariani Mario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.61602,42.581005,12.61602,42.581005],
+  "bbox": [
+    12.61602,
+    42.581005,
+    12.61602,
+    42.581005
+],
   "geometry": {"coordinates":[12.61602,42.581005],"type":"Point"}
 }

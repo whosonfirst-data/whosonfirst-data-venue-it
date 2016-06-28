@@ -2,13 +2,14 @@
   "id": 236560117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.174663,45.209599,11.174663,45.209599",
     "geom:latitude":45.209599,
     "geom:longitude":11.174663,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Cadabese 37053 Cerea",
     "sg:city":"Cerea",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236560117,
-    "wof:lastmodified":1449004307,
+    "wof:lastmodified":1466294657,
     "wof:name":"Cerea Tavoli S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.174663,45.209599,11.174663,45.209599],
+  "bbox": [
+    11.174663,
+    45.209599,
+    11.174663,
+    45.209599
+],
   "geometry": {"coordinates":[11.174663,45.209599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185622779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.330856,44.801643,10.330856,44.801643",
     "geom:latitude":44.801643,
     "geom:longitude":10.330856,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"P.ze J.sanvitale 1; Parma; 43100",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185622779,
-    "wof:lastmodified":1449007934,
+    "wof:lastmodified":1466294138,
     "wof:name":"Banca Del Monte Di Parma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.330856,44.801643,10.330856,44.801643],
+  "bbox": [
+    10.330856,
+    44.801643,
+    10.330856,
+    44.801643
+],
   "geometry": {"coordinates":[10.330856,44.801643],"type":"Point"}
 }

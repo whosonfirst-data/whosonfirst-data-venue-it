@@ -2,13 +2,14 @@
   "id": 336808303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.247735,44.907459,7.247735,44.907459",
     "geom:latitude":44.907459,
     "geom:longitude":7.247735,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Incerti 10069 Villar Perosa",
     "sg:city":"Villar Perosa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336808303,
-    "wof:lastmodified":1448996961,
+    "wof:lastmodified":1466296217,
     "wof:name":"Zaniboni Vittorio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.247735,44.907459,7.247735,44.907459],
+  "bbox": [
+    7.247735,
+    44.907459,
+    7.247735,
+    44.907459
+],
   "geometry": {"coordinates":[7.247735,44.907459],"type":"Point"}
 }

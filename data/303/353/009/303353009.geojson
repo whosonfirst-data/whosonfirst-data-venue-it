@@ -2,13 +2,14 @@
   "id": 303353009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.695315,45.642635,9.695315,45.642635",
     "geom:latitude":45.642635,
     "geom:longitude":9.695315,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Michelangelo Buonarroti 3 24059 Urgnano",
     "sg:city":"Urgnano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303353009,
-    "wof:lastmodified":1448998818,
+    "wof:lastmodified":1466294879,
     "wof:name":"Conceria Conti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "skin"
     ]
 },
-  "bbox": [9.695315,45.642635,9.695315,45.642635],
+  "bbox": [
+    9.695315,
+    45.642635,
+    9.695315,
+    45.642635
+],
   "geometry": {"coordinates":[9.695315,45.642635],"type":"Point"}
 }

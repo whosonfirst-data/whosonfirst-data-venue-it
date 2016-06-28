@@ -2,13 +2,14 @@
   "id": 287123621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.215217,45.663525,12.215217,45.663525",
     "geom:latitude":45.663525,
     "geom:longitude":12.215217,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31100 Treviso",
     "sg:city":"Treviso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287123621,
-    "wof:lastmodified":1449000913,
+    "wof:lastmodified":1466291242,
     "wof:name":"Trasporti Pavan Angelo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.215217,45.663525,12.215217,45.663525],
+  "bbox": [
+    12.215217,
+    45.663525,
+    12.215217,
+    45.663525
+],
   "geometry": {"coordinates":[12.215217,45.663525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303209121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.233095,45.492439,9.233095,45.492439",
     "geom:latitude":45.492439,
     "geom:longitude":9.233095,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20132 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303209121,
-    "wof:lastmodified":1449000307,
+    "wof:lastmodified":1466293097,
     "wof:name":"Energetica Di Vittorina Trevisani",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.233095,45.492439,9.233095,45.492439],
+  "bbox": [
+    9.233095,
+    45.492439,
+    9.233095,
+    45.492439
+],
   "geometry": {"coordinates":[9.233095,45.492439],"type":"Point"}
 }

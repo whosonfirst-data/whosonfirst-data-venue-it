@@ -2,13 +2,14 @@
   "id": 286615243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.093278,40.608307,15.093278,40.608307",
     "geom:latitude":40.608307,
     "geom:longitude":15.093278,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"380, Via Casarsa 84025 Eboli",
     "sg:city":"Eboli",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286615243,
-    "wof:lastmodified":1449016109,
+    "wof:lastmodified":1466294123,
     "wof:name":"Fates S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [15.093278,40.608307,15.093278,40.608307],
+  "bbox": [
+    15.093278,
+    40.608307,
+    15.093278,
+    40.608307
+],
   "geometry": {"coordinates":[15.093278,40.608307],"type":"Point"}
 }

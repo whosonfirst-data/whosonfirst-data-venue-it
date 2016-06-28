@@ -2,13 +2,14 @@
   "id": 303944963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.622279,43.710129,10.622279,43.710129",
     "geom:latitude":43.710129,
     "geom:longitude":10.622279,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56031 Bientina",
     "sg:city":"Bientina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303944963,
-    "wof:lastmodified":1448999341,
+    "wof:lastmodified":1466298204,
     "wof:name":"Toscana Pallets Sas Di Vierucci Franco & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.622279,43.710129,10.622279,43.710129],
+  "bbox": [
+    10.622279,
+    43.710129,
+    10.622279,
+    43.710129
+],
   "geometry": {"coordinates":[10.622279,43.710129],"type":"Point"}
 }

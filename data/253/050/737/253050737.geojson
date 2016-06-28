@@ -2,13 +2,14 @@
   "id": 253050737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.309535,40.927914,14.309535,40.927914",
     "geom:latitude":40.927914,
     "geom:longitude":14.309535,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80142 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253050737,
-    "wof:lastmodified":1449064456,
+    "wof:lastmodified":1466289448,
     "wof:name":"Muscariello Ferdinando",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.309535,40.927914,14.309535,40.927914],
+  "bbox": [
+    14.309535,
+    40.927914,
+    14.309535,
+    40.927914
+],
   "geometry": {"coordinates":[14.309535,40.927914],"type":"Point"}
 }

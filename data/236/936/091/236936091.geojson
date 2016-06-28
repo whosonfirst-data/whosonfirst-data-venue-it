@@ -2,13 +2,14 @@
   "id": 236936091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.799132,44.540146,10.799132,44.540146",
     "geom:latitude":44.540146,
     "geom:longitude":10.799132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41049 Sassuolo",
     "sg:city":"Sassuolo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236936091,
-    "wof:lastmodified":1449002603,
+    "wof:lastmodified":1466297413,
     "wof:name":"Camellini Trasporti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [10.799132,44.540146,10.799132,44.540146],
+  "bbox": [
+    10.799132,
+    44.540146,
+    10.799132,
+    44.540146
+],
   "geometry": {"coordinates":[10.799132,44.540146],"type":"Point"}
 }

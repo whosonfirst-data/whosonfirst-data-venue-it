@@ -2,13 +2,14 @@
   "id": 270295103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.571567,42.5424,12.571567,42.5424",
     "geom:latitude":42.5424,
     "geom:longitude":12.571567,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"05035 Narni",
     "sg:city":"Narni",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270295103,
-    "wof:lastmodified":1449009629,
+    "wof:lastmodified":1466292551,
     "wof:name":"Bemi Di Bendini Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.571567,42.5424,12.571567,42.5424],
+  "bbox": [
+    12.571567,
+    42.5424,
+    12.571567,
+    42.5424
+],
   "geometry": {"coordinates":[12.571567,42.5424],"type":"Point"}
 }

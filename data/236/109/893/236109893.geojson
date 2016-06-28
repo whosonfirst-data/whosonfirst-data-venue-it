@@ -2,13 +2,14 @@
   "id": 236109893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.199922,45.462212,9.199922,45.462212",
     "geom:latitude":45.462212,
     "geom:longitude":9.199922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236109893,
-    "wof:lastmodified":1449002660,
+    "wof:lastmodified":1466289997,
     "wof:name":"Egon Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [9.199922,45.462212,9.199922,45.462212],
+  "bbox": [
+    9.199922,
+    45.462212,
+    9.199922,
+    45.462212
+],
   "geometry": {"coordinates":[9.199922,45.462212],"type":"Point"}
 }

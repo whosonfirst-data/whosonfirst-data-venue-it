@@ -2,13 +2,14 @@
   "id": 253423699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.053848,43.851894,11.053848,43.851894",
     "geom:latitude":43.851894,
     "geom:longitude":11.053848,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gora Del Pero 63 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253423699,
-    "wof:lastmodified":1449063304,
+    "wof:lastmodified":1466293668,
     "wof:name":"Maglificio Zanobetti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothes"
     ]
 },
-  "bbox": [11.053848,43.851894,11.053848,43.851894],
+  "bbox": [
+    11.053848,
+    43.851894,
+    11.053848,
+    43.851894
+],
   "geometry": {"coordinates":[11.053848,43.851894],"type":"Point"}
 }

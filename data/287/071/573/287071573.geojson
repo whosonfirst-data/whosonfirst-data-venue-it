@@ -2,13 +2,14 @@
   "id": 287071573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.411664,46.882984,11.411664,46.882984",
     "geom:latitude":46.882984,
     "geom:longitude":11.411664,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84, Zona Artigianale Casateia 39040 Racines",
     "sg:city":"Casateia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287071573,
-    "wof:lastmodified":1449001233,
+    "wof:lastmodified":1466290532,
     "wof:name":"Oberhofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [11.411664,46.882984,11.411664,46.882984],
+  "bbox": [
+    11.411664,
+    46.882984,
+    11.411664,
+    46.882984
+],
   "geometry": {"coordinates":[11.411664,46.882984],"type":"Point"}
 }

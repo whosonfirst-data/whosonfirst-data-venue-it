@@ -2,13 +2,14 @@
   "id": 185847193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.738553,46.043957,8.738553,46.043957",
     "geom:latitude":46.043957,
     "geom:longitude":8.738553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Baroggi 10; Maccagno",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185847193,
-    "wof:lastmodified":1449007179,
+    "wof:lastmodified":1466289581,
     "wof:name":"Banca Populare Di Luino, E Di Varese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.738553,46.043957,8.738553,46.043957],
+  "bbox": [
+    8.738553,
+    46.043957,
+    8.738553,
+    46.043957
+],
   "geometry": {"coordinates":[8.738553,46.043957],"type":"Point"}
 }

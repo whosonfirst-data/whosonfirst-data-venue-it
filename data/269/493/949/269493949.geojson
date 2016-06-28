@@ -2,13 +2,14 @@
   "id": 269493949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.937828,45.730278,10.937828,45.730278",
     "geom:latitude":45.730278,
     "geom:longitude":10.937828,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Lavoro 38063 Avio",
     "sg:city":"Avio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269493949,
-    "wof:lastmodified":1449036908,
+    "wof:lastmodified":1466289061,
     "wof:name":"Pelletteria Anna Valli & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.937828,45.730278,10.937828,45.730278],
+  "bbox": [
+    10.937828,
+    45.730278,
+    10.937828,
+    45.730278
+],
   "geometry": {"coordinates":[10.937828,45.730278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269589745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.740994,43.271889,11.740994,43.271889",
     "geom:latitude":43.271889,
     "geom:longitude":11.740994,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52046 Lucignano",
     "sg:city":"Lucignano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269589745,
-    "wof:lastmodified":1449037421,
+    "wof:lastmodified":1466290199,
     "wof:name":"Multi Tranciati S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.740994,43.271889,11.740994,43.271889],
+  "bbox": [
+    11.740994,
+    43.271889,
+    11.740994,
+    43.271889
+],
   "geometry": {"coordinates":[11.740994,43.271889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270139325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.495048,41.676262,12.495048,41.676262",
     "geom:latitude":41.676262,
     "geom:longitude":12.495048,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00040 Pomezia",
     "sg:city":"Pomezia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270139325,
-    "wof:lastmodified":1449008874,
+    "wof:lastmodified":1466290650,
     "wof:name":"Brio Caravan Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [12.495048,41.676262,12.495048,41.676262],
+  "bbox": [
+    12.495048,
+    41.676262,
+    12.495048,
+    41.676262
+],
   "geometry": {"coordinates":[12.495048,41.676262],"type":"Point"}
 }

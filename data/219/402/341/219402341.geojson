@@ -2,13 +2,14 @@
   "id": 219402341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.070925,43.855171,11.070925,43.855171",
     "geom:latitude":43.855171,
     "geom:longitude":11.070925,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Paronese 69 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219402341,
-    "wof:lastmodified":1449071530,
+    "wof:lastmodified":1466290365,
     "wof:name":"Inwool Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "yarn"
     ]
 },
-  "bbox": [11.070925,43.855171,11.070925,43.855171],
+  "bbox": [
+    11.070925,
+    43.855171,
+    11.070925,
+    43.855171
+],
   "geometry": {"coordinates":[11.070925,43.855171],"type":"Point"}
 }

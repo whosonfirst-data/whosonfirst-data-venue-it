@@ -2,13 +2,14 @@
   "id": 286748297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.5447,41.462334,15.5447,41.462334",
     "geom:latitude":41.462334,
     "geom:longitude":15.5447,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Foggia, Km 1,5 71016 San Severo",
     "sg:city":"San Severo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286748297,
-    "wof:lastmodified":1449017389,
+    "wof:lastmodified":1466295828,
     "wof:name":"G.e.a. Luce Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chandelier"
     ]
 },
-  "bbox": [15.5447,41.462334,15.5447,41.462334],
+  "bbox": [
+    15.5447,
+    41.462334,
+    15.5447,
+    41.462334
+],
   "geometry": {"coordinates":[15.5447,41.462334],"type":"Point"}
 }

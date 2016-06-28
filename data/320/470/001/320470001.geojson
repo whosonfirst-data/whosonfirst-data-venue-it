@@ -2,13 +2,14 @@
   "id": 320470001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.409634,45.88208,8.409634,45.88208",
     "geom:latitude":45.88208,
     "geom:longitude":8.409634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28887 Omegna",
     "sg:city":"Omegna",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320470001,
-    "wof:lastmodified":1449012168,
+    "wof:lastmodified":1466297482,
     "wof:name":"I Negozi Del Compra Meglio Di Di Cato Maurizio E C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.409634,45.88208,8.409634,45.88208],
+  "bbox": [
+    8.409634,
+    45.88208,
+    8.409634,
+    45.88208
+],
   "geometry": {"coordinates":[8.409634,45.88208],"type":"Point"}
 }

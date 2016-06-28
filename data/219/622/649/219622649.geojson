@@ -2,13 +2,14 @@
   "id": 219622649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.637122,44.687733,10.637122,44.687733",
     "geom:latitude":44.687733,
     "geom:longitude":10.637122,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Ricambi E Componenti Dei Mezzi Di Trasporto. Riparazione Dei Mezzi Di Trasporto",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219622649,
-    "wof:lastmodified":1449073282,
+    "wof:lastmodified":1466292524,
     "wof:name":"Esacon Srl",
     "wof:parent_id":85904911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.637122,44.687733,10.637122,44.687733],
+  "bbox": [
+    10.637122,
+    44.687733,
+    10.637122,
+    44.687733
+],
   "geometry": {"coordinates":[10.637122,44.687733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303302203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.783813,45.34927,11.783813,45.34927",
     "geom:latitude":45.34927,
     "geom:longitude":11.783813,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35031 Abano Terme",
     "sg:city":"Abano Terme",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303302203,
-    "wof:lastmodified":1448998941,
+    "wof:lastmodified":1466294247,
     "wof:name":"Estetic Club Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.783813,45.34927,11.783813,45.34927],
+  "bbox": [
+    11.783813,
+    45.34927,
+    11.783813,
+    45.34927
+],
   "geometry": {"coordinates":[11.783813,45.34927],"type":"Point"}
 }

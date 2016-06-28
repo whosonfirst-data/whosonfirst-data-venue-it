@@ -2,13 +2,14 @@
   "id": 270279221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.474758,43.888691,10.474758,43.888691",
     "geom:latitude":43.888691,
     "geom:longitude":10.474758,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55100 Lucca",
     "sg:city":"Lucca",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270279221,
-    "wof:lastmodified":1449009754,
+    "wof:lastmodified":1466292356,
     "wof:name":"Giannelli International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.474758,43.888691,10.474758,43.888691],
+  "bbox": [
+    10.474758,
+    43.888691,
+    10.474758,
+    43.888691
+],
   "geometry": {"coordinates":[10.474758,43.888691],"type":"Point"}
 }

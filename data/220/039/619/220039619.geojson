@@ -2,13 +2,14 @@
   "id": 220039619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.462263,43.357498,13.462263,43.357498",
     "geom:latitude":43.357498,
     "geom:longitude":13.462263,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62010 Montefano",
     "sg:city":"Montefano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220039619,
-    "wof:lastmodified":1449074772,
+    "wof:lastmodified":1466295018,
     "wof:name":"Fibra Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.462263,43.357498,13.462263,43.357498],
+  "bbox": [
+    13.462263,
+    43.357498,
+    13.462263,
+    43.357498
+],
   "geometry": {"coordinates":[13.462263,43.357498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219366393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.083108,46.249592,13.083108,46.249592",
     "geom:latitude":46.249592,
     "geom:longitude":13.083108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brigata Re 1 33010 Osoppo",
     "sg:city":"Osoppo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219366393,
-    "wof:lastmodified":1449072977,
+    "wof:lastmodified":1466289980,
     "wof:name":"Ledraplastic Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ball"
     ]
 },
-  "bbox": [13.083108,46.249592,13.083108,46.249592],
+  "bbox": [
+    13.083108,
+    46.249592,
+    13.083108,
+    46.249592
+],
   "geometry": {"coordinates":[13.083108,46.249592],"type":"Point"}
 }

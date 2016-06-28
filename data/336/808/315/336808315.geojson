@@ -2,13 +2,14 @@
   "id": 336808315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.297539,45.654766,12.297539,45.654766",
     "geom:latitude":45.654766,
     "geom:longitude":12.297539,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Marconi Guglielmo 31056 Roncade",
     "sg:city":"Roncade",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336808315,
-    "wof:lastmodified":1448996963,
+    "wof:lastmodified":1466296217,
     "wof:name":"Zanin Fratelli (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.297539,45.654766,12.297539,45.654766],
+  "bbox": [
+    12.297539,
+    45.654766,
+    12.297539,
+    45.654766
+],
   "geometry": {"coordinates":[12.297539,45.654766],"type":"Point"}
 }

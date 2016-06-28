@@ -2,13 +2,14 @@
   "id": 253245147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.103788,38.160187,13.103788,38.160187",
     "geom:latitude":38.160187,
     "geom:longitude":13.103788,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90045 Cinisi",
     "sg:city":"Cinisi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253245147,
-    "wof:lastmodified":1449065701,
+    "wof:lastmodified":1466291507,
     "wof:name":"Bartolotta Vincenza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.103788,38.160187,13.103788,38.160187],
+  "bbox": [
+    13.103788,
+    38.160187,
+    13.103788,
+    38.160187
+],
   "geometry": {"coordinates":[13.103788,38.160187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202600415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.269413,40.91161,14.269413,40.91161",
     "geom:latitude":40.91161,
     "geom:longitude":14.269413,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80134 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202600415,
-    "wof:lastmodified":1449060350,
+    "wof:lastmodified":1466289977,
     "wof:name":"Cantiello Antimo",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.269413,40.91161,14.269413,40.91161],
+  "bbox": [
+    14.269413,
+    40.91161,
+    14.269413,
+    40.91161
+],
   "geometry": {"coordinates":[14.269413,40.91161],"type":"Point"}
 }

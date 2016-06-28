@@ -2,13 +2,14 @@
   "id": 185790323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.535191,45.885918,8.535191,45.885918",
     "geom:latitude":45.885918,
     "geom:longitude":8.535191,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"C.so Umberto 1 1; Stresa; 28049",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185790323,
-    "wof:lastmodified":1449007855,
+    "wof:lastmodified":1466289217,
     "wof:name":"Banca Popolare Di Intra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.535191,45.885918,8.535191,45.885918],
+  "bbox": [
+    8.535191,
+    45.885918,
+    8.535191,
+    45.885918
+],
   "geometry": {"coordinates":[8.535191,45.885918],"type":"Point"}
 }

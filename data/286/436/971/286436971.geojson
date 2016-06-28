@@ -2,13 +2,14 @@
   "id": 286436971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.469069,44.132664,12.469069,44.132664",
     "geom:latitude":44.132664,
     "geom:longitude":12.469069,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47814 Bellaria Igea Marina",
     "sg:city":"Bellaria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286436971,
-    "wof:lastmodified":1449017812,
+    "wof:lastmodified":1466291964,
     "wof:name":"Campana & Ottaviani Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.469069,44.132664,12.469069,44.132664],
+  "bbox": [
+    12.469069,
+    44.132664,
+    12.469069,
+    44.132664
+],
   "geometry": {"coordinates":[12.469069,44.132664],"type":"Point"}
 }

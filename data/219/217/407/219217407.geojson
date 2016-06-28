@@ -2,13 +2,14 @@
   "id": 219217407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.56828,44.071011,12.56828,44.071011",
     "geom:latitude":44.071011,
     "geom:longitude":12.56828,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47900 Rimini",
     "sg:city":"Rimini",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219217407,
-    "wof:lastmodified":1449073696,
+    "wof:lastmodified":1466295517,
     "wof:name":"Service Web Cooperativa Sociale Arl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.56828,44.071011,12.56828,44.071011],
+  "bbox": [
+    12.56828,
+    44.071011,
+    12.56828,
+    44.071011
+],
   "geometry": {"coordinates":[12.56828,44.071011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236852201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.713417,45.088078,7.713417,45.088078",
     "geom:latitude":45.088078,
     "geom:longitude":7.713417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10064 Pinerolo",
     "sg:city":"Pinerolo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236852201,
-    "wof:lastmodified":1449004573,
+    "wof:lastmodified":1466296973,
     "wof:name":"Saint Eloy Di Poubel Gerard Martin",
     "wof:parent_id":85862779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.713417,45.088078,7.713417,45.088078],
+  "bbox": [
+    7.713417,
+    45.088078,
+    7.713417,
+    45.088078
+],
   "geometry": {"coordinates":[7.713417,45.088078],"type":"Point"}
 }

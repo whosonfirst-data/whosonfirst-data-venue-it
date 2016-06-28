@@ -2,13 +2,14 @@
   "id": 320147439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.774932,44.344398,7.774932,44.344398",
     "geom:latitude":44.344398,
     "geom:longitude":7.774932,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12089 Villanova Mondovi'",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine Ed Impianti Per Edilizia E Lavori Pubblici. Impianti E Attrezzature Per Lo Sport E Il Tempo Libero",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320147439,
-    "wof:lastmodified":1449014556,
+    "wof:lastmodified":1466295177,
     "wof:name":"Marenchino Snc Di Marenchino Alb. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.774932,44.344398,7.774932,44.344398],
+  "bbox": [
+    7.774932,
+    44.344398,
+    7.774932,
+    44.344398
+],
   "geometry": {"coordinates":[7.774932,44.344398],"type":"Point"}
 }

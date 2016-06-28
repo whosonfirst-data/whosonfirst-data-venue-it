@@ -2,13 +2,14 @@
   "id": 202397831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.09759,45.444561,9.09759,45.444561",
     "geom:latitude":45.444561,
     "geom:longitude":9.09759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202397831,
-    "wof:lastmodified":1449061128,
+    "wof:lastmodified":1466294498,
     "wof:name":"Scuola Media E. Fermi",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.09759,45.444561,9.09759,45.444561],
+  "bbox": [
+    9.09759,
+    45.444561,
+    9.09759,
+    45.444561
+],
   "geometry": {"coordinates":[9.09759,45.444561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236284001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.239478,45.928864,12.239478,45.928864",
     "geom:latitude":45.928864,
     "geom:longitude":12.239478,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31020 San Pietro Di Feletto",
     "sg:city":"San Pietro di Feletto",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236284001,
-    "wof:lastmodified":1449003746,
+    "wof:lastmodified":1466291773,
     "wof:name":"Dalto Antonio & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.239478,45.928864,12.239478,45.928864],
+  "bbox": [
+    12.239478,
+    45.928864,
+    12.239478,
+    45.928864
+],
   "geometry": {"coordinates":[12.239478,45.928864],"type":"Point"}
 }

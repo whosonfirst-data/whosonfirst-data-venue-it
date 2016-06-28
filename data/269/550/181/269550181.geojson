@@ -2,13 +2,14 @@
   "id": 269550181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.607069,43.186451,13.607069,43.186451",
     "geom:latitude":43.186451,
     "geom:longitude":13.607069,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Via A.murri 63010 Torre San Patrizio",
     "sg:city":"Torre San Patrizio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269550181,
-    "wof:lastmodified":1449037434,
+    "wof:lastmodified":1466289709,
     "wof:name":"Nuova Aurora S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.607069,43.186451,13.607069,43.186451],
+  "bbox": [
+    13.607069,
+    43.186451,
+    13.607069,
+    43.186451
+],
   "geometry": {"coordinates":[13.607069,43.186451],"type":"Point"}
 }

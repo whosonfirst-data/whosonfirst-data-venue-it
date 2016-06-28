@@ -2,13 +2,14 @@
   "id": 186025901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.027622,45.135609,10.027622,45.135609",
     "geom:latitude":45.135609,
     "geom:longitude":10.027622,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G Matteotti 15; Cremona; 26100",
     "sg:city":"Cremona",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186025901,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1466294355,
     "wof:name":"Cassa Di Risparmio, Delle Provincie Lombarde Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.027622,45.135609,10.027622,45.135609],
+  "bbox": [
+    10.027622,
+    45.135609,
+    10.027622,
+    45.135609
+],
   "geometry": {"coordinates":[10.027622,45.135609],"type":"Point"}
 }

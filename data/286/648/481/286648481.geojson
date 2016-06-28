@@ -2,13 +2,14 @@
   "id": 286648481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.096416,43.870472,11.096416,43.870472",
     "geom:latitude":43.870472,
     "geom:longitude":11.096416,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Quarto Dei Mille, 10/11 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286648481,
-    "wof:lastmodified":1449015991,
+    "wof:lastmodified":1466294524,
     "wof:name":"Tatti Tessuti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabric"
     ]
 },
-  "bbox": [11.096416,43.870472,11.096416,43.870472],
+  "bbox": [
+    11.096416,
+    43.870472,
+    11.096416,
+    43.870472
+],
   "geometry": {"coordinates":[11.096416,43.870472],"type":"Point"}
 }

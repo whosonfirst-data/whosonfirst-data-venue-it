@@ -2,13 +2,14 @@
   "id": 320203801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.495471,45.048588,7.495471,45.048588",
     "geom:latitude":45.048588,
     "geom:longitude":7.495471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Villarbasse",
     "sg:city":"Villarbasse",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320203801,
-    "wof:lastmodified":1449012911,
+    "wof:lastmodified":1466295858,
     "wof:name":"Meccanoplast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.495471,45.048588,7.495471,45.048588],
+  "bbox": [
+    7.495471,
+    45.048588,
+    7.495471,
+    45.048588
+],
   "geometry": {"coordinates":[7.495471,45.048588],"type":"Point"}
 }

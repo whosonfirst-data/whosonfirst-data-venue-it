@@ -2,13 +2,14 @@
   "id": 269528303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.850164,45.466396,10.850164,45.466396",
     "geom:latitude":45.466396,
     "geom:longitude":10.850164,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Biancardin 37012 Bussolengo",
     "sg:city":"Bussolengo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269528303,
-    "wof:lastmodified":1449036802,
+    "wof:lastmodified":1466289458,
     "wof:name":"Calzaturificio Maximum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.850164,45.466396,10.850164,45.466396],
+  "bbox": [
+    10.850164,
+    45.466396,
+    10.850164,
+    45.466396
+],
   "geometry": {"coordinates":[10.850164,45.466396],"type":"Point"}
 }

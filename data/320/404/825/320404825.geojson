@@ -2,13 +2,14 @@
   "id": 320404825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.258293,44.318306,11.258293,44.318306",
     "geom:latitude":44.318306,
     "geom:longitude":11.258293,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40036 Monzuno",
     "sg:city":"Monzuno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320404825,
-    "wof:lastmodified":1449013751,
+    "wof:lastmodified":1466297301,
     "wof:name":"Ep Di Pruni Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.258293,44.318306,11.258293,44.318306],
+  "bbox": [
+    11.258293,
+    44.318306,
+    11.258293,
+    44.318306
+],
   "geometry": {"coordinates":[11.258293,44.318306],"type":"Point"}
 }

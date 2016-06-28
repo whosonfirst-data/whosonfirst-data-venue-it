@@ -2,13 +2,14 @@
   "id": 319985165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.112984,37.542583,15.112984,37.542583",
     "geom:latitude":37.542583,
     "geom:longitude":15.112984,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95022 Aci Catena",
     "sg:city":"Aci Catena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319985165,
-    "wof:lastmodified":1449024472,
+    "wof:lastmodified":1466294612,
     "wof:name":"Lamantia Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.112984,37.542583,15.112984,37.542583],
+  "bbox": [
+    15.112984,
+    37.542583,
+    15.112984,
+    37.542583
+],
   "geometry": {"coordinates":[15.112984,37.542583],"type":"Point"}
 }

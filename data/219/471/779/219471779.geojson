@@ -2,13 +2,14 @@
   "id": 219471779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.192491,45.470242,9.192491,45.470242",
     "geom:latitude":45.470242,
     "geom:longitude":9.192491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219471779,
-    "wof:lastmodified":1449071803,
+    "wof:lastmodified":1466291117,
     "wof:name":"Executive Interim Management Italia Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.192491,45.470242,9.192491,45.470242],
+  "bbox": [
+    9.192491,
+    45.470242,
+    9.192491,
+    45.470242
+],
   "geometry": {"coordinates":[9.192491,45.470242],"type":"Point"}
 }

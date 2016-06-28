@@ -2,13 +2,14 @@
   "id": 236474427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165673,45.464748,9.165673,45.464748",
     "geom:latitude":45.464748,
     "geom:longitude":9.165673,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236474427,
-    "wof:lastmodified":1449001781,
+    "wof:lastmodified":1466293777,
     "wof:name":"Associazione Modellistica Navale Nazionale Navimodel",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165673,45.464748,9.165673,45.464748],
+  "bbox": [
+    9.165673,
+    45.464748,
+    9.165673,
+    45.464748
+],
   "geometry": {"coordinates":[9.165673,45.464748],"type":"Point"}
 }

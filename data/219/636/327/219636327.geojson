@@ -2,13 +2,14 @@
   "id": 219636327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.619357,44.705086,10.619357,44.705086",
     "geom:latitude":44.705086,
     "geom:longitude":10.619357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Ricerca, Selezione E Formazione Del Personale",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219636327,
-    "wof:lastmodified":1449071785,
+    "wof:lastmodified":1466292664,
     "wof:name":"Job Consulting Srl",
     "wof:parent_id":85904879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.619357,44.705086,10.619357,44.705086],
+  "bbox": [
+    10.619357,
+    44.705086,
+    10.619357,
+    44.705086
+],
   "geometry": {"coordinates":[10.619357,44.705086],"type":"Point"}
 }

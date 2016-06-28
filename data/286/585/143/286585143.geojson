@@ -2,13 +2,14 @@
   "id": 286585143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.612682,45.641319,9.612682,45.641319",
     "geom:latitude":45.641319,
     "geom:longitude":9.612682,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, V. Provinciale 24040 Lallio",
     "sg:city":"Lallio",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286585143,
-    "wof:lastmodified":1449017151,
+    "wof:lastmodified":1466293740,
     "wof:name":"Santini Maglificio Sportivo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.612682,45.641319,9.612682,45.641319],
+  "bbox": [
+    9.612682,
+    45.641319,
+    9.612682,
+    45.641319
+],
   "geometry": {"coordinates":[9.612682,45.641319],"type":"Point"}
 }

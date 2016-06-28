@@ -2,13 +2,14 @@
   "id": 269893009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.480269,40.738956,14.480269,40.738956",
     "geom:latitude":40.738956,
     "geom:longitude":14.480269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Fondo D'orto 80053 Castellammare Di Stabia",
     "sg:city":"Castellammare di Stabia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269893009,
-    "wof:lastmodified":1449038392,
+    "wof:lastmodified":1466294057,
     "wof:name":"Delga Trasporti Piccola Cooperativa A R L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [14.480269,40.738956,14.480269,40.738956],
+  "bbox": [
+    14.480269,
+    40.738956,
+    14.480269,
+    40.738956
+],
   "geometry": {"coordinates":[14.480269,40.738956],"type":"Point"}
 }

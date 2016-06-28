@@ -2,13 +2,14 @@
   "id": 220105825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.885102,44.657127,10.885102,44.657127",
     "geom:latitude":44.657127,
     "geom:longitude":10.885102,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, V. Livingstone 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220105825,
-    "wof:lastmodified":1449074337,
+    "wof:lastmodified":1466295973,
     "wof:name":"Safim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [10.885102,44.657127,10.885102,44.657127],
+  "bbox": [
+    10.885102,
+    44.657127,
+    10.885102,
+    44.657127
+],
   "geometry": {"coordinates":[10.885102,44.657127],"type":"Point"}
 }

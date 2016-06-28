@@ -2,13 +2,14 @@
   "id": 253031353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.274019,40.854565,14.274019,40.854565",
     "geom:latitude":40.854565,
     "geom:longitude":14.274019,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80021 Afragola",
     "sg:city":"Afragola",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253031353,
-    "wof:lastmodified":1449063929,
+    "wof:lastmodified":1466289241,
     "wof:name":"Buononato Giuseppe",
     "wof:parent_id":85904827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.274019,40.854565,14.274019,40.854565],
+  "bbox": [
+    14.274019,
+    40.854565,
+    14.274019,
+    40.854565
+],
   "geometry": {"coordinates":[14.274019,40.854565],"type":"Point"}
 }

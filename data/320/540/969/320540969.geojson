@@ -2,13 +2,14 @@
   "id": 320540969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.880497,45.796398,8.880497,45.796398",
     "geom:latitude":45.796398,
     "geom:longitude":8.880497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21058 Solbiate Olona",
     "sg:city":"Solbiate Olona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320540969,
-    "wof:lastmodified":1449012735,
+    "wof:lastmodified":1466297680,
     "wof:name":"Fantinelli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.880497,45.796398,8.880497,45.796398],
+  "bbox": [
+    8.880497,
+    45.796398,
+    8.880497,
+    45.796398
+],
   "geometry": {"coordinates":[8.880497,45.796398],"type":"Point"}
 }

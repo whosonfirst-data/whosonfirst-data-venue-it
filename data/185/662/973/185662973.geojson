@@ -2,13 +2,14 @@
   "id": 185662973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.412846,45.22401,10.412846,45.22401",
     "geom:latitude":45.22401,
     "geom:longitude":10.412846,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Vittoria 1; Asola; 46041",
     "sg:city":"Asola",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185662973,
-    "wof:lastmodified":1449007675,
+    "wof:lastmodified":1466295136,
     "wof:name":"Banca Di Credito Cooperativo, Di Casalmoro E Bozzolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.412846,45.22401,10.412846,45.22401],
+  "bbox": [
+    10.412846,
+    45.22401,
+    10.412846,
+    45.22401
+],
   "geometry": {"coordinates":[10.412846,45.22401],"type":"Point"}
 }

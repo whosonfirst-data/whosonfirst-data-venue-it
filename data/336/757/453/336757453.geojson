@@ -2,13 +2,14 @@
   "id": 336757453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.197901,45.525314,10.197901,45.525314",
     "geom:latitude":45.525314,
     "geom:longitude":10.197901,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"129, Via Dalmazia 25125 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336757453,
-    "wof:lastmodified":1448997544,
+    "wof:lastmodified":1466295603,
     "wof:name":"R.m.b. Massardi (s.n.c.)",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.197901,45.525314,10.197901,45.525314],
+  "bbox": [
+    10.197901,
+    45.525314,
+    10.197901,
+    45.525314
+],
   "geometry": {"coordinates":[10.197901,45.525314],"type":"Point"}
 }

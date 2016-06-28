@@ -2,13 +2,14 @@
   "id": 236188067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.081007,44.864811,10.081007,44.864811",
     "geom:latitude":44.864811,
     "geom:longitude":10.081007,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bologna 14 43036 Fidenza",
     "sg:city":"Fidenza",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236188067,
-    "wof:lastmodified":1449003255,
+    "wof:lastmodified":1466290750,
     "wof:name":"3 L.p. Gas Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [10.081007,44.864811,10.081007,44.864811],
+  "bbox": [
+    10.081007,
+    44.864811,
+    10.081007,
+    44.864811
+],
   "geometry": {"coordinates":[10.081007,44.864811],"type":"Point"}
 }

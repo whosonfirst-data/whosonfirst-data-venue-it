@@ -2,13 +2,14 @@
   "id": 219302067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.99547,43.617172,11.99547,43.617172",
     "geom:latitude":43.617172,
     "geom:longitude":11.99547,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Caroni Di Sotto 19 52033 Caprese Michelangelo",
     "sg:city":"Caprese Michelangelo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219302067,
-    "wof:lastmodified":1449071590,
+    "wof:lastmodified":1466289321,
     "wof:name":"Del Morino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "special"
     ]
 },
-  "bbox": [11.99547,43.617172,11.99547,43.617172],
+  "bbox": [
+    11.99547,
+    43.617172,
+    11.99547,
+    43.617172
+],
   "geometry": {"coordinates":[11.99547,43.617172],"type":"Point"}
 }

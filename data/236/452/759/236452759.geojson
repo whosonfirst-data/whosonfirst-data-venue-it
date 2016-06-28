@@ -2,13 +2,14 @@
   "id": 236452759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.766594,45.335205,11.766594,45.335205",
     "geom:latitude":45.335205,
     "geom:longitude":11.766594,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nino Bixio 1b 35036 Montegrotto Terme",
     "sg:city":"Montegrotto Terme",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236452759,
-    "wof:lastmodified":1449002266,
+    "wof:lastmodified":1466293553,
     "wof:name":"Gn Resound Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hearing"
     ]
 },
-  "bbox": [11.766594,45.335205,11.766594,45.335205],
+  "bbox": [
+    11.766594,
+    45.335205,
+    11.766594,
+    45.335205
+],
   "geometry": {"coordinates":[11.766594,45.335205],"type":"Point"}
 }

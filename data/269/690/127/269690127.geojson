@@ -2,13 +2,14 @@
   "id": 269690127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.786674,44.451527,8.786674,44.451527",
     "geom:latitude":44.451527,
     "geom:longitude":8.786674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16157 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269690127,
-    "wof:lastmodified":1449037401,
+    "wof:lastmodified":1466291518,
     "wof:name":"L.t. Srl",
     "wof:parent_id":85796825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "confezionamenti"
     ]
 },
-  "bbox": [8.786674,44.451527,8.786674,44.451527],
+  "bbox": [
+    8.786674,
+    44.451527,
+    8.786674,
+    44.451527
+],
   "geometry": {"coordinates":[8.786674,44.451527],"type":"Point"}
 }

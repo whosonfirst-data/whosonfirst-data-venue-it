@@ -2,13 +2,14 @@
   "id": 336623707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.693974,45.713104,8.693974,45.713104",
     "geom:latitude":45.713104,
     "geom:longitude":8.693974,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Sempione 21029 Vergiate",
     "sg:city":"Vergiate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336623707,
-    "wof:lastmodified":1448997692,
+    "wof:lastmodified":1466294015,
     "wof:name":"Caielli E Ferrari S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.693974,45.713104,8.693974,45.713104],
+  "bbox": [
+    8.693974,
+    45.713104,
+    8.693974,
+    45.713104
+],
   "geometry": {"coordinates":[8.693974,45.713104],"type":"Point"}
 }

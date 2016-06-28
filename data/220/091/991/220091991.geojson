@@ -2,13 +2,14 @@
   "id": 220091991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.075948,44.510246,11.075948,44.510246",
     "geom:latitude":44.510246,
     "geom:longitude":11.075948,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via Caduti Di Sabbiuno 40053 Bazzano",
     "sg:city":"Bazzano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220091991,
-    "wof:lastmodified":1449074108,
+    "wof:lastmodified":1466295796,
     "wof:name":"Autodem (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [11.075948,44.510246,11.075948,44.510246],
+  "bbox": [
+    11.075948,
+    44.510246,
+    11.075948,
+    44.510246
+],
   "geometry": {"coordinates":[11.075948,44.510246],"type":"Point"}
 }

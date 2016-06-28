@@ -2,13 +2,14 @@
   "id": 286620631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.338784,45.434338,12.338784,45.434338",
     "geom:latitude":45.434338,
     "geom:longitude":12.338784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18/a, Via Einaudi L. 30014 Cavarzere",
     "sg:city":"Cavarzere",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286620631,
-    "wof:lastmodified":1449017842,
+    "wof:lastmodified":1466294188,
     "wof:name":"Maria Rosa Confezioni",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [12.338784,45.434338,12.338784,45.434338],
+  "bbox": [
+    12.338784,
+    45.434338,
+    12.338784,
+    45.434338
+],
   "geometry": {"coordinates":[12.338784,45.434338],"type":"Point"}
 }

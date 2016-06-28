@@ -2,13 +2,14 @@
   "id": 202862629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.040065,45.613319,9.040065,45.613319",
     "geom:latitude":45.613319,
     "geom:longitude":9.040065,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202862629,
-    "wof:lastmodified":1449062736,
+    "wof:lastmodified":1466292823,
     "wof:name":"Rivestimenti Tecnoplastici Di Minuterie Rtm Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.040065,45.613319,9.040065,45.613319],
+  "bbox": [
+    9.040065,
+    45.613319,
+    9.040065,
+    45.613319
+],
   "geometry": {"coordinates":[9.040065,45.613319],"type":"Point"}
 }

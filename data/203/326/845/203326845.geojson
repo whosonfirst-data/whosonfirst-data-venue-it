@@ -2,13 +2,14 @@
   "id": 203326845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.619446,45.077633,7.619446,45.077633",
     "geom:latitude":45.077633,
     "geom:longitude":7.619446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10146 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203326845,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466291321,
     "wof:name":"Little Nemo",
     "wof:parent_id":85859509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.619446,45.077633,7.619446,45.077633],
+  "bbox": [
+    7.619446,
+    45.077633,
+    7.619446,
+    45.077633
+],
   "geometry": {"coordinates":[7.619446,45.077633],"type":"Point"}
 }

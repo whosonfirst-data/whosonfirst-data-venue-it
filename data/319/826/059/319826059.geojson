@@ -2,13 +2,14 @@
   "id": 319826059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.194658,40.986691,14.194658,40.986691",
     "geom:latitude":40.986691,
     "geom:longitude":14.194658,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81031 Aversa",
     "sg:city":"Aversa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319826059,
-    "wof:lastmodified":1449024653,
+    "wof:lastmodified":1466292556,
     "wof:name":"Frongillo Giovanni",
     "wof:parent_id":85900413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.194658,40.986691,14.194658,40.986691],
+  "bbox": [
+    14.194658,
+    40.986691,
+    14.194658,
+    40.986691
+],
   "geometry": {"coordinates":[14.194658,40.986691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202688587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.77678,45.542885,10.77678,45.542885",
     "geom:latitude":45.542885,
     "geom:longitude":10.77678,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37010 Cavaion Veronese",
     "sg:city":"Cavaion Veronese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202688587,
-    "wof:lastmodified":1449061061,
+    "wof:lastmodified":1466290941,
     "wof:name":"Finifast Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.77678,45.542885,10.77678,45.542885],
+  "bbox": [
+    10.77678,
+    45.542885,
+    10.77678,
+    45.542885
+],
   "geometry": {"coordinates":[10.77678,45.542885],"type":"Point"}
 }

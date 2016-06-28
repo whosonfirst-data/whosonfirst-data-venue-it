@@ -2,13 +2,14 @@
   "id": 270214779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.923481,40.708546,13.923481,40.708546",
     "geom:latitude":40.708546,
     "geom:longitude":13.923481,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80070 Barano D'ischia",
     "sg:classifiers":[],
     "sg:orig_category":"Carni, Salumi E Pesci. Zootecnia E Pesca, Allevamento Piccoli Animali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270214779,
-    "wof:lastmodified":1449011055,
+    "wof:lastmodified":1466291610,
     "wof:name":"Agricola S. Luciano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.923481,40.708546,13.923481,40.708546],
+  "bbox": [
+    13.923481,
+    40.708546,
+    13.923481,
+    40.708546
+],
   "geometry": {"coordinates":[13.923481,40.708546],"type":"Point"}
 }

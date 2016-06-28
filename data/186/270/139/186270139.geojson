@@ -2,13 +2,14 @@
   "id": 186270139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.055145,45.684864,12.055145,45.684864",
     "geom:latitude":45.684864,
     "geom:longitude":12.055145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nazionale, 34/38 - Fossalunga 31050 Vedelago",
     "sg:city":"Fossalunga",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186270139,
-    "wof:lastmodified":1449050894,
+    "wof:lastmodified":1466290235,
     "wof:name":"Veneran Mobili Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedroom"
     ]
 },
-  "bbox": [12.055145,45.684864,12.055145,45.684864],
+  "bbox": [
+    12.055145,
+    45.684864,
+    12.055145,
+    45.684864
+],
   "geometry": {"coordinates":[12.055145,45.684864],"type":"Point"}
 }

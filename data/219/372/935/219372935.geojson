@@ -2,13 +2,14 @@
   "id": 219372935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.762345,45.569462,9.762345,45.569462",
     "geom:latitude":45.569462,
     "geom:longitude":9.762345,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trieste 9 24057 Martinengo",
     "sg:city":"Martinengo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219372935,
-    "wof:lastmodified":1449072537,
+    "wof:lastmodified":1466290051,
     "wof:name":"La Rocca Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [9.762345,45.569462,9.762345,45.569462],
+  "bbox": [
+    9.762345,
+    45.569462,
+    9.762345,
+    45.569462
+],
   "geometry": {"coordinates":[9.762345,45.569462],"type":"Point"}
 }

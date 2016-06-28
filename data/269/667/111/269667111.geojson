@@ -2,13 +2,14 @@
   "id": 269667111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.655482,45.035648,7.655482,45.035648",
     "geom:latitude":45.035648,
     "geom:longitude":7.655482,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10134 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":269667111,
-    "wof:lastmodified":1449037694,
+    "wof:lastmodified":1466291173,
     "wof:name":"Venture Consulenza Globale D'impresa",
     "wof:parent_id":85796879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "appraiser"
     ]
 },
-  "bbox": [7.655482,45.035648,7.655482,45.035648],
+  "bbox": [
+    7.655482,
+    45.035648,
+    7.655482,
+    45.035648
+],
   "geometry": {"coordinates":[7.655482,45.035648],"type":"Point"}
 }

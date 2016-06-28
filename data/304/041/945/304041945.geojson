@@ -2,13 +2,14 @@
   "id": 304041945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.463246,41.912079,12.463246,41.912079",
     "geom:latitude":41.912079,
     "geom:longitude":12.463246,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00192 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304041945,
-    "wof:lastmodified":1449043765,
+    "wof:lastmodified":1466292727,
     "wof:name":"Associazione Nazionale Arma Cavalleria",
     "wof:parent_id":85900395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.463246,41.912079,12.463246,41.912079],
+  "bbox": [
+    12.463246,
+    41.912079,
+    12.463246,
+    41.912079
+],
   "geometry": {"coordinates":[12.463246,41.912079],"type":"Point"}
 }

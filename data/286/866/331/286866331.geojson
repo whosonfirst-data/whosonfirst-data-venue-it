@@ -2,13 +2,14 @@
   "id": 286866331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.525363,42.928272,10.525363,42.928272",
     "geom:latitude":42.928272,
     "geom:longitude":10.525363,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57025 Piombino",
     "sg:city":"Piombino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286866331,
-    "wof:lastmodified":1449016587,
+    "wof:lastmodified":1466296976,
     "wof:name":"Centro Termico Sanitario Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.525363,42.928272,10.525363,42.928272],
+  "bbox": [
+    10.525363,
+    42.928272,
+    10.525363,
+    42.928272
+],
   "geometry": {"coordinates":[10.525363,42.928272],"type":"Point"}
 }

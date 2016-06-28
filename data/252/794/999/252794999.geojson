@@ -2,13 +2,14 @@
   "id": 252794999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.011125,43.913204,11.011125,43.913204",
     "geom:latitude":43.913204,
     "geom:longitude":11.011125,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51037 Montale",
     "sg:city":"Montale",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252794999,
-    "wof:lastmodified":1449005933,
+    "wof:lastmodified":1466289849,
     "wof:name":"For - Mar Di Marseo Enrico E C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.011125,43.913204,11.011125,43.913204],
+  "bbox": [
+    11.011125,
+    43.913204,
+    11.011125,
+    43.913204
+],
   "geometry": {"coordinates":[11.011125,43.913204],"type":"Point"}
 }

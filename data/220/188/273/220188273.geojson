@@ -2,13 +2,14 @@
   "id": 220188273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.740942,45.105762,7.740942,45.105762",
     "geom:latitude":45.105762,
     "geom:longitude":7.740942,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Del Cascinotto 139/28 10156 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220188273,
-    "wof:lastmodified":1449074435,
+    "wof:lastmodified":1466289438,
     "wof:name":"Stait Due S.r.l.",
     "wof:parent_id":85796809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "decoration"
     ]
 },
-  "bbox": [7.740942,45.105762,7.740942,45.105762],
+  "bbox": [
+    7.740942,
+    45.105762,
+    7.740942,
+    45.105762
+],
   "geometry": {"coordinates":[7.740942,45.105762],"type":"Point"}
 }

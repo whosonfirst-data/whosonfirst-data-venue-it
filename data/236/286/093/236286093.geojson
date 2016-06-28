@@ -2,13 +2,14 @@
   "id": 236286093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.776789,46.586792,12.776789,46.586792",
     "geom:latitude":46.586792,
     "geom:longitude":12.776789,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33020 Forni Avoltri",
     "sg:city":"Forni Avoltri",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236286093,
-    "wof:lastmodified":1449002326,
+    "wof:lastmodified":1466291796,
     "wof:name":"Del Fabbro Primo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.776789,46.586792,12.776789,46.586792],
+  "bbox": [
+    12.776789,
+    46.586792,
+    12.776789,
+    46.586792
+],
   "geometry": {"coordinates":[12.776789,46.586792],"type":"Point"}
 }

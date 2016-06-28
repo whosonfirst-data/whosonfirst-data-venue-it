@@ -2,13 +2,14 @@
   "id": 236048471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.635147,43.994057,12.635147,43.994057",
     "geom:latitude":43.994057,
     "geom:longitude":12.635147,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47838 Riccione",
     "sg:city":"Riccione",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236048471,
-    "wof:lastmodified":1449002663,
+    "wof:lastmodified":1466289380,
     "wof:name":"Acquaflash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.635147,43.994057,12.635147,43.994057],
+  "bbox": [
+    12.635147,
+    43.994057,
+    12.635147,
+    43.994057
+],
   "geometry": {"coordinates":[12.635147,43.994057],"type":"Point"}
 }

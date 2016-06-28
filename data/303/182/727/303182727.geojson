@@ -2,13 +2,14 @@
   "id": 303182727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.264179,45.623146,9.264179,45.623146",
     "geom:latitude":45.623146,
     "geom:longitude":9.264179,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20046 Biassono",
     "sg:city":"Biassono",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303182727,
-    "wof:lastmodified":1448999663,
+    "wof:lastmodified":1466292730,
     "wof:name":"Raddital Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.264179,45.623146,9.264179,45.623146],
+  "bbox": [
+    9.264179,
+    45.623146,
+    9.264179,
+    45.623146
+],
   "geometry": {"coordinates":[9.264179,45.623146],"type":"Point"}
 }

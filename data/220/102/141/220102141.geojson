@@ -2,13 +2,14 @@
   "id": 220102141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.656628,45.375748,7.656628,45.375748",
     "geom:latitude":45.375748,
     "geom:longitude":7.656628,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Via Chiosi 10087 Valperga",
     "sg:city":"Valperga",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220102141,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1466296338,
     "wof:name":"Marval (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [7.656628,45.375748,7.656628,45.375748],
+  "bbox": [
+    7.656628,
+    45.375748,
+    7.656628,
+    45.375748
+],
   "geometry": {"coordinates":[7.656628,45.375748],"type":"Point"}
 }

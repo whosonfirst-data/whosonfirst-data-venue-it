@@ -2,13 +2,14 @@
   "id": 186068329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.216087,45.463978,9.216087,45.463978",
     "geom:latitude":45.463978,
     "geom:longitude":9.216087,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Poma 47/53; Milano; 20129",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186068329,
-    "wof:lastmodified":1449051752,
+    "wof:lastmodified":1466295495,
     "wof:name":"Credito Commerciale Spa",
     "wof:parent_id":85796921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.216087,45.463978,9.216087,45.463978],
+  "bbox": [
+    9.216087,
+    45.463978,
+    9.216087,
+    45.463978
+],
   "geometry": {"coordinates":[9.216087,45.463978],"type":"Point"}
 }

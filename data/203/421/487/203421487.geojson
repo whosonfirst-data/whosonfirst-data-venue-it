@@ -2,13 +2,14 @@
   "id": 203421487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.797001,45.421284,11.797001,45.421284",
     "geom:latitude":45.421284,
     "geom:longitude":11.797001,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35030 Rubano",
     "sg:city":"Rubano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203421487,
-    "wof:lastmodified":1449026175,
+    "wof:lastmodified":1466292319,
     "wof:name":"Elmac Di Tredese Tiziano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.797001,45.421284,11.797001,45.421284],
+  "bbox": [
+    11.797001,
+    45.421284,
+    11.797001,
+    45.421284
+],
   "geometry": {"coordinates":[11.797001,45.421284],"type":"Point"}
 }

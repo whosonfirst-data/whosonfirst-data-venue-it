@@ -2,13 +2,14 @@
   "id": 185761795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.807402,40.640564,15.807402,40.640564",
     "geom:latitude":40.640564,
     "geom:longitude":15.807402,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vescovado, 28/32; Potenza; 85100",
     "sg:city":"Potenza",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185761795,
-    "wof:lastmodified":1449007846,
+    "wof:lastmodified":1466289030,
     "wof:name":"Banca Popolare Del Materano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.807402,40.640564,15.807402,40.640564],
+  "bbox": [
+    15.807402,
+    40.640564,
+    15.807402,
+    40.640564
+],
   "geometry": {"coordinates":[15.807402,40.640564],"type":"Point"}
 }

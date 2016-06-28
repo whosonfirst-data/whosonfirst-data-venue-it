@@ -2,13 +2,14 @@
   "id": 320750597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.958471,45.434456,11.958471,45.434456",
     "geom:latitude":45.434456,
     "geom:longitude":11.958471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Vigonza",
     "sg:city":"Vigonza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320750597,
-    "wof:lastmodified":1449013505,
+    "wof:lastmodified":1466298079,
     "wof:name":"Isocaf Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.958471,45.434456,11.958471,45.434456],
+  "bbox": [
+    11.958471,
+    45.434456,
+    11.958471,
+    45.434456
+],
   "geometry": {"coordinates":[11.958471,45.434456],"type":"Point"}
 }

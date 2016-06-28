@@ -2,13 +2,14 @@
   "id": 236248333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.025215,45.440174,11.025215,45.440174",
     "geom:latitude":45.440174,
     "geom:longitude":11.025215,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37131 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236248333,
-    "wof:lastmodified":1449003473,
+    "wof:lastmodified":1466291402,
     "wof:name":"Arte Stella Snc",
     "wof:parent_id":85905051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.025215,45.440174,11.025215,45.440174],
+  "bbox": [
+    11.025215,
+    45.440174,
+    11.025215,
+    45.440174
+],
   "geometry": {"coordinates":[11.025215,45.440174],"type":"Point"}
 }

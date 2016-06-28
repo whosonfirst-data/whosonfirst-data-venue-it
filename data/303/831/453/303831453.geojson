@@ -2,13 +2,14 @@
   "id": 303831453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.476789,45.031612,10.476789,45.031612",
     "geom:latitude":45.031612,
     "geom:longitude":10.476789,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26036 Rivarolo Del Re Ed Uniti",
     "sg:city":"Rivarolo del re",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303831453,
-    "wof:lastmodified":1448999558,
+    "wof:lastmodified":1466297897,
     "wof:name":"Litocartotecnica Americano Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.476789,45.031612,10.476789,45.031612],
+  "bbox": [
+    10.476789,
+    45.031612,
+    10.476789,
+    45.031612
+],
   "geometry": {"coordinates":[10.476789,45.031612],"type":"Point"}
 }

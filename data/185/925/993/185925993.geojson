@@ -2,13 +2,14 @@
   "id": 185925993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.499686,40.298428,8.499686,40.298428",
     "geom:latitude":40.298428,
     "geom:longitude":8.499686,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Garibaldi 2; Oristano",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185925993,
-    "wof:lastmodified":1449006609,
+    "wof:lastmodified":1466290237,
     "wof:name":"Banco Di Sardegna Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.499686,40.298428,8.499686,40.298428],
+  "bbox": [
+    8.499686,
+    40.298428,
+    8.499686,
+    40.298428
+],
   "geometry": {"coordinates":[8.499686,40.298428],"type":"Point"}
 }

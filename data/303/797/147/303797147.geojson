@@ -2,13 +2,14 @@
   "id": 303797147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.27951,37.567108,14.27951,37.567108",
     "geom:latitude":37.567108,
     "geom:longitude":14.27951,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94100 Enna",
     "sg:city":"Enna",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303797147,
-    "wof:lastmodified":1449000328,
+    "wof:lastmodified":1466297806,
     "wof:name":"Tirrito Giovanni - Tecnocasa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.27951,37.567108,14.27951,37.567108],
+  "bbox": [
+    14.27951,
+    37.567108,
+    14.27951,
+    37.567108
+],
   "geometry": {"coordinates":[14.27951,37.567108],"type":"Point"}
 }

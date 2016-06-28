@@ -2,13 +2,14 @@
   "id": 236715197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.090877,45.661602,9.090877,45.661602",
     "geom:latitude":45.661602,
     "geom:longitude":9.090877,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Fornace 20020 Misinto",
     "sg:city":"Misinto",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236715197,
-    "wof:lastmodified":1449004450,
+    "wof:lastmodified":1466296142,
     "wof:name":"Magic Dreams S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [9.090877,45.661602,9.090877,45.661602],
+  "bbox": [
+    9.090877,
+    45.661602,
+    9.090877,
+    45.661602
+],
   "geometry": {"coordinates":[9.090877,45.661602],"type":"Point"}
 }

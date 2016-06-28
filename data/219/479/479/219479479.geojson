@@ -2,13 +2,14 @@
   "id": 219479479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.043959,45.787373,9.043959,45.787373",
     "geom:latitude":45.787373,
     "geom:longitude":9.043959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22020 Schignano",
     "sg:city":"Schignano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219479479,
-    "wof:lastmodified":1449072802,
+    "wof:lastmodified":1466291203,
     "wof:name":"Peduzzi Alessandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.043959,45.787373,9.043959,45.787373],
+  "bbox": [
+    9.043959,
+    45.787373,
+    9.043959,
+    45.787373
+],
   "geometry": {"coordinates":[9.043959,45.787373],"type":"Point"}
 }

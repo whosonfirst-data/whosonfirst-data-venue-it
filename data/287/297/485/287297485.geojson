@@ -2,13 +2,14 @@
   "id": 287297485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.236717,46.106548,11.236717,46.106548",
     "geom:latitude":46.106548,
     "geom:longitude":11.236717,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Localita' Valt 38042 Baselga Di Pine'",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287297485,
-    "wof:lastmodified":1449001249,
+    "wof:lastmodified":1466293510,
     "wof:name":"Costruzioni Elettriche (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.236717,46.106548,11.236717,46.106548],
+  "bbox": [
+    11.236717,
+    46.106548,
+    11.236717,
+    46.106548
+],
   "geometry": {"coordinates":[11.236717,46.106548],"type":"Point"}
 }

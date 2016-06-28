@@ -2,13 +2,14 @@
   "id": 236633627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.83031,44.109932,9.83031,44.109932",
     "geom:latitude":44.109932,
     "geom:longitude":9.83031,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"106, V. Veneto 19124 La Spezia",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":236633627,
-    "wof:lastmodified":1449005221,
+    "wof:lastmodified":1466295320,
     "wof:name":"Mozzachiodi Arredamenti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.83031,44.109932,9.83031,44.109932],
+  "bbox": [
+    9.83031,
+    44.109932,
+    9.83031,
+    44.109932
+],
   "geometry": {"coordinates":[9.83031,44.109932],"type":"Point"}
 }

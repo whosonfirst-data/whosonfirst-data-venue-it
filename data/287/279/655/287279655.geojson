@@ -2,13 +2,14 @@
   "id": 287279655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.426394,45.32106,8.426394,45.32106",
     "geom:latitude":45.32106,
     "geom:longitude":8.426394,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via S. Giuseppe 13045 Gattinara",
     "sg:city":"Gattinara",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287279655,
-    "wof:lastmodified":1449001063,
+    "wof:lastmodified":1466293295,
     "wof:name":"Mokapak S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [8.426394,45.32106,8.426394,45.32106],
+  "bbox": [
+    8.426394,
+    45.32106,
+    8.426394,
+    45.32106
+],
   "geometry": {"coordinates":[8.426394,45.32106],"type":"Point"}
 }

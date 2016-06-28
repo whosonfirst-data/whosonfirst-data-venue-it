@@ -2,13 +2,14 @@
   "id": 303622203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.319256,40.893902,14.319256,40.893902",
     "geom:latitude":40.893902,
     "geom:longitude":14.319256,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80129 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303622203,
-    "wof:lastmodified":1449000119,
+    "wof:lastmodified":1466297295,
     "wof:name":"Liguori Salvatore",
     "wof:parent_id":85904801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.319256,40.893902,14.319256,40.893902],
+  "bbox": [
+    14.319256,
+    40.893902,
+    14.319256,
+    40.893902
+],
   "geometry": {"coordinates":[14.319256,40.893902],"type":"Point"}
 }

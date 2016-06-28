@@ -2,13 +2,14 @@
   "id": 253609095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.470941,45.288441,10.470941,45.288441",
     "geom:latitude":45.288441,
     "geom:longitude":10.470941,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Svezia 14 46042 Castel Goffredo",
     "sg:city":"Castel Goffredo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253609095,
-    "wof:lastmodified":1449063935,
+    "wof:lastmodified":1466296051,
     "wof:name":"Calzificio Schinelli S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.470941,45.288441,10.470941,45.288441],
+  "bbox": [
+    10.470941,
+    45.288441,
+    10.470941,
+    45.288441
+],
   "geometry": {"coordinates":[10.470941,45.288441],"type":"Point"}
 }

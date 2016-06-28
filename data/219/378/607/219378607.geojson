@@ -2,13 +2,14 @@
   "id": 219378607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.806621,45.59063,11.806621,45.59063",
     "geom:latitude":45.59063,
     "geom:longitude":11.806621,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 San Giorgio In Bosco",
     "sg:city":"San Giorgio in Bosco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219378607,
-    "wof:lastmodified":1449072770,
+    "wof:lastmodified":1466290118,
     "wof:name":"Consulta Informatica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.806621,45.59063,11.806621,45.59063],
+  "bbox": [
+    11.806621,
+    45.59063,
+    11.806621,
+    45.59063
+],
   "geometry": {"coordinates":[11.806621,45.59063],"type":"Point"}
 }

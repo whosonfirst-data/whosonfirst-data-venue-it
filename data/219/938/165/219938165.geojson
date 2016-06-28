@@ -2,13 +2,14 @@
   "id": 219938165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.566937,44.399437,7.566937,44.399437",
     "geom:latitude":44.399437,
     "geom:longitude":7.566937,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12100 Cuneo",
     "sg:city":"Cuneo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219938165,
-    "wof:lastmodified":1449073036,
+    "wof:lastmodified":1466295684,
     "wof:name":"Nordani Gianluca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.566937,44.399437,7.566937,44.399437],
+  "bbox": [
+    7.566937,
+    44.399437,
+    7.566937,
+    44.399437
+],
   "geometry": {"coordinates":[7.566937,44.399437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253522379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.70047,45.874714,12.70047,45.874714",
     "geom:latitude":45.874714,
     "geom:longitude":12.70047,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33082 Azzano Decimo",
     "sg:city":"Azzano Decimo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253522379,
-    "wof:lastmodified":1449064231,
+    "wof:lastmodified":1466294902,
     "wof:name":"Maxima Due Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.70047,45.874714,12.70047,45.874714],
+  "bbox": [
+    12.70047,
+    45.874714,
+    12.70047,
+    45.874714
+],
   "geometry": {"coordinates":[12.70047,45.874714],"type":"Point"}
 }

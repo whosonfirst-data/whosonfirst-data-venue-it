@@ -2,13 +2,14 @@
   "id": 202998431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.424306,46.274418,11.424306,46.274418",
     "geom:latitude":46.274418,
     "geom:longitude":11.424306,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38030 Castello Molina Di Fiemme",
     "sg:city":"Castello Molina di Fiemme",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202998431,
-    "wof:lastmodified":1449060943,
+    "wof:lastmodified":1466294171,
     "wof:name":"Natura Viva",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.424306,46.274418,11.424306,46.274418],
+  "bbox": [
+    11.424306,
+    46.274418,
+    11.424306,
+    46.274418
+],
   "geometry": {"coordinates":[11.424306,46.274418],"type":"Point"}
 }

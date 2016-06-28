@@ -2,13 +2,14 @@
   "id": 320499179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.331929,45.437424,12.331929,45.437424",
     "geom:latitude":45.437424,
     "geom:longitude":12.331929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30125 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320499179,
-    "wof:lastmodified":1449011971,
+    "wof:lastmodified":1466297593,
     "wof:name":"Albertini G.r. Sdf",
     "wof:parent_id":85905017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.331929,45.437424,12.331929,45.437424],
+  "bbox": [
+    12.331929,
+    45.437424,
+    12.331929,
+    45.437424
+],
   "geometry": {"coordinates":[12.331929,45.437424],"type":"Point"}
 }

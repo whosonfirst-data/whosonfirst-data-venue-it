@@ -2,13 +2,14 @@
   "id": 219786505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.646781,42.560219,12.646781,42.560219",
     "geom:latitude":42.560219,
     "geom:longitude":12.646781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Zona Industriale - Vascigliano 05039 Stroncone",
     "sg:city":"Stroncone",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219786505,
-    "wof:lastmodified":1449070857,
+    "wof:lastmodified":1466294142,
     "wof:name":"Brai Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vapour"
     ]
 },
-  "bbox": [12.646781,42.560219,12.646781,42.560219],
+  "bbox": [
+    12.646781,
+    42.560219,
+    12.646781,
+    42.560219
+],
   "geometry": {"coordinates":[12.646781,42.560219],"type":"Point"}
 }

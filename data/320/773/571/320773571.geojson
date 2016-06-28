@@ -2,13 +2,14 @@
   "id": 320773571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.8395,45.861229,9.8395,45.861229",
     "geom:latitude":45.861229,
     "geom:longitude":9.8395,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24020 Gorno",
     "sg:city":"Gorno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320773571,
-    "wof:lastmodified":1449011726,
+    "wof:lastmodified":1466297990,
     "wof:name":"Tecnostrutture Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.8395,45.861229,9.8395,45.861229],
+  "bbox": [
+    9.8395,
+    45.861229,
+    9.8395,
+    45.861229
+],
   "geometry": {"coordinates":[9.8395,45.861229],"type":"Point"}
 }

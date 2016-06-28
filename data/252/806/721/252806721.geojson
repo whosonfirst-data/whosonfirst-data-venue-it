@@ -2,13 +2,14 @@
   "id": 252806721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.855742,39.662548,15.855742,39.662548",
     "geom:latitude":39.662548,
     "geom:longitude":15.855742,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87100 Cosenza",
     "sg:city":"Cosenza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252806721,
-    "wof:lastmodified":1449005404,
+    "wof:lastmodified":1466290012,
     "wof:name":"Italmoda Sposa Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.855742,39.662548,15.855742,39.662548],
+  "bbox": [
+    15.855742,
+    39.662548,
+    15.855742,
+    39.662548
+],
   "geometry": {"coordinates":[15.855742,39.662548],"type":"Point"}
 }

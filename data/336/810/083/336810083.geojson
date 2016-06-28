@@ -2,13 +2,14 @@
   "id": 336810083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.711795,45.944828,12.711795,45.944828",
     "geom:latitude":45.944828,
     "geom:longitude":12.711795,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Colombo 33080 Fiume Veneto",
     "sg:city":"Fiume Veneto",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336810083,
-    "wof:lastmodified":1448997264,
+    "wof:lastmodified":1466296234,
     "wof:name":"Rambaldini Gino (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.711795,45.944828,12.711795,45.944828],
+  "bbox": [
+    12.711795,
+    45.944828,
+    12.711795,
+    45.944828
+],
   "geometry": {"coordinates":[12.711795,45.944828],"type":"Point"}
 }

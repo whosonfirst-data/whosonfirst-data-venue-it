@@ -2,13 +2,14 @@
   "id": 286484297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.282889,45.327728,11.282889,45.327728",
     "geom:latitude":45.327728,
     "geom:longitude":11.282889,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Dell' Industria 37041 Albaredo D'adige",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286484297,
-    "wof:lastmodified":1449017920,
+    "wof:lastmodified":1466292523,
     "wof:name":"Confezioni Ferrigato S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.282889,45.327728,11.282889,45.327728],
+  "bbox": [
+    11.282889,
+    45.327728,
+    11.282889,
+    45.327728
+],
   "geometry": {"coordinates":[11.282889,45.327728],"type":"Point"}
 }

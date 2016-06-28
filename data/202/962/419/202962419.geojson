@@ -2,13 +2,14 @@
   "id": 202962419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.943752,45.273438,11.943752,45.273438",
     "geom:latitude":45.273438,
     "geom:longitude":11.943752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35024 Bovolenta",
     "sg:city":"Bovolenta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202962419,
-    "wof:lastmodified":1449061608,
+    "wof:lastmodified":1466293836,
     "wof:name":"Emmetre Tintolavanderie Industriali Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.943752,45.273438,11.943752,45.273438],
+  "bbox": [
+    11.943752,
+    45.273438,
+    11.943752,
+    45.273438
+],
   "geometry": {"coordinates":[11.943752,45.273438],"type":"Point"}
 }

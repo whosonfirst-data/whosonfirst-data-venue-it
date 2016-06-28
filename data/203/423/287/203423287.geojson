@@ -2,13 +2,14 @@
   "id": 203423287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.557054,41.857018,12.557054,41.857018",
     "geom:latitude":41.857018,
     "geom:longitude":12.557054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00174 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203423287,
-    "wof:lastmodified":1449025253,
+    "wof:lastmodified":1466292338,
     "wof:name":"G.a.i.c. (s.n.c.)",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.557054,41.857018,12.557054,41.857018],
+  "bbox": [
+    12.557054,
+    41.857018,
+    12.557054,
+    41.857018
+],
   "geometry": {"coordinates":[12.557054,41.857018],"type":"Point"}
 }

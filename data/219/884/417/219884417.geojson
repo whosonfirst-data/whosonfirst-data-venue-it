@@ -2,13 +2,14 @@
   "id": 219884417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.20833,45.493965,9.20833,45.493965",
     "geom:latitude":45.493965,
     "geom:longitude":9.20833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20125 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219884417,
-    "wof:lastmodified":1449073250,
+    "wof:lastmodified":1466295119,
     "wof:name":"Surgi-tech Europa Divisione - Surgi -tech Italia Srl",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.20833,45.493965,9.20833,45.493965],
+  "bbox": [
+    9.20833,
+    45.493965,
+    9.20833,
+    45.493965
+],
   "geometry": {"coordinates":[9.20833,45.493965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219973485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.819822,45.836273,8.819822,45.836273",
     "geom:latitude":45.836273,
     "geom:longitude":8.819822,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219973485,
-    "wof:lastmodified":1449072507,
+    "wof:lastmodified":1466296069,
     "wof:name":"Somikro Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.819822,45.836273,8.819822,45.836273],
+  "bbox": [
+    8.819822,
+    45.836273,
+    8.819822,
+    45.836273
+],
   "geometry": {"coordinates":[8.819822,45.836273],"type":"Point"}
 }

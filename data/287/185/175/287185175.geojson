@@ -2,13 +2,14 @@
   "id": 287185175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.1767,45.416653,11.1767,45.416653",
     "geom:latitude":45.416653,
     "geom:longitude":11.1767,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Stra' 158 37030 Colognola Ai Colli",
     "sg:city":"Colognola ai Colli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287185175,
-    "wof:lastmodified":1449000809,
+    "wof:lastmodified":1466292052,
     "wof:name":"Imaforni International Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.1767,45.416653,11.1767,45.416653],
+  "bbox": [
+    11.1767,
+    45.416653,
+    11.1767,
+    45.416653
+],
   "geometry": {"coordinates":[11.1767,45.416653],"type":"Point"}
 }

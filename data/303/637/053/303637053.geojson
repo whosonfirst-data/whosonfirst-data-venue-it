@@ -2,13 +2,14 @@
   "id": 303637053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.470421,38.068607,15.470421,38.068607",
     "geom:latitude":38.068607,
     "geom:longitude":15.470421,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98051 Sant'antonio",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamenti E Mobili Professionali. Arredi Ed Attrezzature Per Uffici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303637053,
-    "wof:lastmodified":1448998115,
+    "wof:lastmodified":1466297262,
     "wof:name":"Bucca Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.470421,38.068607,15.470421,38.068607],
+  "bbox": [
+    15.470421,
+    38.068607,
+    15.470421,
+    38.068607
+],
   "geometry": {"coordinates":[15.470421,38.068607],"type":"Point"}
 }

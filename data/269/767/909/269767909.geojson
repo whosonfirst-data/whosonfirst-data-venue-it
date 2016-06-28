@@ -2,13 +2,14 @@
   "id": 269767909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.370562,44.932438,7.370562,44.932438",
     "geom:latitude":44.932438,
     "geom:longitude":7.370562,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10138 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269767909,
-    "wof:lastmodified":1449036857,
+    "wof:lastmodified":1466292633,
     "wof:name":"C.i.a.b. Investigazioni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.370562,44.932438,7.370562,44.932438],
+  "bbox": [
+    7.370562,
+    44.932438,
+    7.370562,
+    44.932438
+],
   "geometry": {"coordinates":[7.370562,44.932438],"type":"Point"}
 }

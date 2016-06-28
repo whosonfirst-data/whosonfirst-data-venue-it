@@ -2,13 +2,14 @@
   "id": 303803375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.300996,45.996239,12.300996,45.996239",
     "geom:latitude":45.996239,
     "geom:longitude":12.300996,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31029 Vittorio Veneto",
     "sg:city":"Vittorio Veneto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303803375,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466297838,
     "wof:name":"Frigoriferi De Conto Livio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.300996,45.996239,12.300996,45.996239],
+  "bbox": [
+    12.300996,
+    45.996239,
+    12.300996,
+    45.996239
+],
   "geometry": {"coordinates":[12.300996,45.996239],"type":"Point"}
 }

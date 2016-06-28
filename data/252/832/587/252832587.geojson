@@ -2,13 +2,14 @@
   "id": 252832587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.551085,38.174591,15.551085,38.174591",
     "geom:latitude":38.174591,
     "geom:longitude":15.551085,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98124 Messina",
     "sg:city":"Messina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252832587,
-    "wof:lastmodified":1449005405,
+    "wof:lastmodified":1466290315,
     "wof:name":"Petite Fleur Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.551085,38.174591,15.551085,38.174591],
+  "bbox": [
+    15.551085,
+    38.174591,
+    15.551085,
+    38.174591
+],
   "geometry": {"coordinates":[15.551085,38.174591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286790459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.468155,41.907822,12.468155,41.907822",
     "geom:latitude":41.907822,
     "geom:longitude":12.468155,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39, Via Valadier 00193 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286790459,
-    "wof:lastmodified":1449017440,
+    "wof:lastmodified":1466296392,
     "wof:name":"Sim Elettra (s.r.l.)",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [12.468155,41.907822,12.468155,41.907822],
+  "bbox": [
+    12.468155,
+    41.907822,
+    12.468155,
+    41.907822
+],
   "geometry": {"coordinates":[12.468155,41.907822],"type":"Point"}
 }

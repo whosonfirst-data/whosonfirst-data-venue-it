@@ -2,13 +2,14 @@
   "id": 219993443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.749809,45.123615,7.749809,45.123615",
     "geom:latitude":45.123615,
     "geom:longitude":7.749809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10036 Settimo Torinese",
     "sg:city":"Settimo Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219993443,
-    "wof:lastmodified":1449071960,
+    "wof:lastmodified":1466296353,
     "wof:name":"Bustreo Roberto & C. Srl",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.749809,45.123615,7.749809,45.123615],
+  "bbox": [
+    7.749809,
+    45.123615,
+    7.749809,
+    45.123615
+],
   "geometry": {"coordinates":[7.749809,45.123615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186495271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.045439,45.525589,9.045439,45.525589",
     "geom:latitude":45.525589,
     "geom:longitude":9.045439,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186495271,
-    "wof:lastmodified":1449051558,
+    "wof:lastmodified":1466292231,
     "wof:name":"Panatronix Srl",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.045439,45.525589,9.045439,45.525589],
+  "bbox": [
+    9.045439,
+    45.525589,
+    9.045439,
+    45.525589
+],
   "geometry": {"coordinates":[9.045439,45.525589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270093059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.15299,43.772625,11.15299,43.772625",
     "geom:latitude":43.772625,
     "geom:longitude":11.15299,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270093059,
-    "wof:lastmodified":1449008662,
+    "wof:lastmodified":1466290125,
     "wof:name":"Cellai - Sartini Sas",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.15299,43.772625,11.15299,43.772625],
+  "bbox": [
+    11.15299,
+    43.772625,
+    11.15299,
+    43.772625
+],
   "geometry": {"coordinates":[11.15299,43.772625],"type":"Point"}
 }

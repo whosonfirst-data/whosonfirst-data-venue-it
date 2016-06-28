@@ -2,13 +2,14 @@
   "id": 185782641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.984815,43.274292,11.984815,43.274292",
     "geom:latitude":43.274292,
     "geom:longitude":11.984815,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Guelfa 4, 52044 Cortona, Ar",
     "sg:city":"Cortona",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185782641,
-    "wof:lastmodified":1449006587,
+    "wof:lastmodified":1466289168,
     "wof:name":"Banca Popolare Di Cortona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.984815,43.274292,11.984815,43.274292],
+  "bbox": [
+    11.984815,
+    43.274292,
+    11.984815,
+    43.274292
+],
   "geometry": {"coordinates":[11.984815,43.274292],"type":"Point"}
 }

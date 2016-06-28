@@ -2,13 +2,14 @@
   "id": 203163667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.611906,45.055958,9.611906,45.055958",
     "geom:latitude":45.055958,
     "geom:longitude":9.611906,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29010 Rottofreno",
     "sg:city":"Rottofreno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203163667,
-    "wof:lastmodified":1449026838,
+    "wof:lastmodified":1466289527,
     "wof:name":"T.s. Di Tugnolo A. E Solenghi S. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.611906,45.055958,9.611906,45.055958],
+  "bbox": [
+    9.611906,
+    45.055958,
+    9.611906,
+    45.055958
+],
   "geometry": {"coordinates":[9.611906,45.055958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202424475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.486012,41.877983,12.486012,41.877983",
     "geom:latitude":41.877983,
     "geom:longitude":12.486012,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00053 Civitavecchia",
     "sg:city":"Civitavecchia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202424475,
-    "wof:lastmodified":1449062487,
+    "wof:lastmodified":1466295267,
     "wof:name":"Associazione Culturale Internazionale 'martin Luther King'",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.486012,41.877983,12.486012,41.877983],
+  "bbox": [
+    12.486012,
+    41.877983,
+    12.486012,
+    41.877983
+],
   "geometry": {"coordinates":[12.486012,41.877983],"type":"Point"}
 }

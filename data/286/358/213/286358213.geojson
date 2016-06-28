@@ -2,13 +2,14 @@
   "id": 286358213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.290735,45.581104,9.290735,45.581104",
     "geom:latitude":45.581104,
     "geom:longitude":9.290735,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286358213,
-    "wof:lastmodified":1449016413,
+    "wof:lastmodified":1466290816,
     "wof:name":"Nobil Foto Studio Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.290735,45.581104,9.290735,45.581104],
+  "bbox": [
+    9.290735,
+    45.581104,
+    9.290735,
+    45.581104
+],
   "geometry": {"coordinates":[9.290735,45.581104],"type":"Point"}
 }

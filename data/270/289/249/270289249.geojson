@@ -2,13 +2,14 @@
   "id": 270289249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.180988,45.444336,9.180988,45.444336",
     "geom:latitude":45.444336,
     "geom:longitude":9.180988,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20045 Zoccorino",
     "sg:classifiers":[],
     "sg:orig_category":"Carta, Cartone E Prodotti Primari. Forniture E Materiali Per Imballaggio E Confezionamento",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270289249,
-    "wof:lastmodified":1449010663,
+    "wof:lastmodified":1466292472,
     "wof:name":"Scatolificio Ammattatelli",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.180988,45.444336,9.180988,45.444336],
+  "bbox": [
+    9.180988,
+    45.444336,
+    9.180988,
+    45.444336
+],
   "geometry": {"coordinates":[9.180988,45.444336],"type":"Point"}
 }

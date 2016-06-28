@@ -2,13 +2,14 @@
   "id": 202818993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165894,45.189117,9.165894,45.189117",
     "geom:latitude":45.189117,
     "geom:longitude":9.165894,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202818993,
-    "wof:lastmodified":1449061365,
+    "wof:lastmodified":1466292398,
     "wof:name":"C.v. Traslochi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165894,45.189117,9.165894,45.189117],
+  "bbox": [
+    9.165894,
+    45.189117,
+    9.165894,
+    45.189117
+],
   "geometry": {"coordinates":[9.165894,45.189117],"type":"Point"}
 }

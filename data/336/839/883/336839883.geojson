@@ -2,13 +2,14 @@
   "id": 336839883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.813295,45.70026,8.813295,45.70026",
     "geom:latitude":45.70026,
     "geom:longitude":8.813295,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"103, Via Campiglio 21040 Oggiona Con Santo Stefano",
     "sg:city":"Oggiona",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336839883,
-    "wof:lastmodified":1448997586,
+    "wof:lastmodified":1466296551,
     "wof:name":"Rinaldo Risetti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.813295,45.70026,8.813295,45.70026],
+  "bbox": [
+    8.813295,
+    45.70026,
+    8.813295,
+    45.70026
+],
   "geometry": {"coordinates":[8.813295,45.70026],"type":"Point"}
 }

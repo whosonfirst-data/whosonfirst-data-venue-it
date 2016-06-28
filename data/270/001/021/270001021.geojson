@@ -2,13 +2,14 @@
   "id": 270001021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.342081,46.504597,11.342081,46.504597",
     "geom:latitude":46.504597,
     "geom:longitude":11.342081,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39011 Lana",
     "sg:city":"Lana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270001021,
-    "wof:lastmodified":1449009181,
+    "wof:lastmodified":1466289009,
     "wof:name":"Molino Merano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.342081,46.504597,11.342081,46.504597],
+  "bbox": [
+    11.342081,
+    46.504597,
+    11.342081,
+    46.504597
+],
   "geometry": {"coordinates":[11.342081,46.504597],"type":"Point"}
 }

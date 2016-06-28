@@ -2,13 +2,14 @@
   "id": 185816203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.255678,46.258835,10.255678,46.258835",
     "geom:latitude":46.258835,
     "geom:longitude":10.255678,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S Stefano 18; Mazzo Di Valtellina; 23030",
     "sg:city":"Mazzo di Valtellina",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185816203,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466289390,
     "wof:name":"Banca Popolare Di Sondrio Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.255678,46.258835,10.255678,46.258835],
+  "bbox": [
+    10.255678,
+    46.258835,
+    10.255678,
+    46.258835
+],
   "geometry": {"coordinates":[10.255678,46.258835],"type":"Point"}
 }

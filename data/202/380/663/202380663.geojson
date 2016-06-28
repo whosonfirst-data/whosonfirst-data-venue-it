@@ -2,13 +2,14 @@
   "id": 202380663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.12804,40.82851,14.12804,40.82851",
     "geom:latitude":40.82851,
     "geom:longitude":14.12804,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80078 Pozzuoli",
     "sg:city":"Pozzuoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202380663,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466292152,
     "wof:name":"Centro Scolastico Accademia Europea Srl",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.12804,40.82851,14.12804,40.82851],
+  "bbox": [
+    14.12804,
+    40.82851,
+    14.12804,
+    40.82851
+],
   "geometry": {"coordinates":[14.12804,40.82851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235968015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.9037,41.467598,12.9037,41.467598",
     "geom:latitude":41.467598,
     "geom:longitude":12.9037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Stradone Dell' Argine Amaseno 04010 Sonnino",
     "sg:city":"Sonnino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235968015,
-    "wof:lastmodified":1449008297,
+    "wof:lastmodified":1466296318,
     "wof:name":"Francia Latticini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [12.9037,41.467598,12.9037,41.467598],
+  "bbox": [
+    12.9037,
+    41.467598,
+    12.9037,
+    41.467598
+],
   "geometry": {"coordinates":[12.9037,41.467598],"type":"Point"}
 }

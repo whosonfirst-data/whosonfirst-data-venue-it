@@ -2,13 +2,14 @@
   "id": 287063247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.109228,39.215458,9.109228,39.215458",
     "geom:latitude":39.215458,
     "geom:longitude":9.109228,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Km. 7.900, Strada St. 131 09028 Sestu",
     "sg:city":"Sestu",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287063247,
-    "wof:lastmodified":1449000727,
+    "wof:lastmodified":1466290408,
     "wof:name":"Dm Express S.r.l.",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [9.109228,39.215458,9.109228,39.215458],
+  "bbox": [
+    9.109228,
+    39.215458,
+    9.109228,
+    39.215458
+],
   "geometry": {"coordinates":[9.109228,39.215458],"type":"Point"}
 }

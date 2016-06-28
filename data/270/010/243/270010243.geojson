@@ -2,13 +2,14 @@
   "id": 270010243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.613643,45.937439,13.613643,45.937439",
     "geom:latitude":45.937439,
     "geom:longitude":13.613643,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Cantore 2 34170 Gorizia",
     "sg:city":"Gorizia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270010243,
-    "wof:lastmodified":1449010165,
+    "wof:lastmodified":1466289119,
     "wof:name":"Iskra Autel S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternator"
     ]
 },
-  "bbox": [13.613643,45.937439,13.613643,45.937439],
+  "bbox": [
+    13.613643,
+    45.937439,
+    13.613643,
+    45.937439
+],
   "geometry": {"coordinates":[13.613643,45.937439],"type":"Point"}
 }

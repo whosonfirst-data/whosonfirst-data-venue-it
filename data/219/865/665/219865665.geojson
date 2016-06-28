@@ -2,13 +2,14 @@
   "id": 219865665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.4814,42.362358,12.4814,42.362358",
     "geom:latitude":42.362358,
     "geom:longitude":12.4814,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"02030 San Giovanni Reatino",
     "sg:classifiers":[],
     "sg:orig_category":"Impianti Sportivi E Ricreativi - Esercizio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219865665,
-    "wof:lastmodified":1449073062,
+    "wof:lastmodified":1466294893,
     "wof:name":"Ass. Culturale E Ricreativa Fontellisola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.4814,42.362358,12.4814,42.362358],
+  "bbox": [
+    12.4814,
+    42.362358,
+    12.4814,
+    42.362358
+],
   "geometry": {"coordinates":[12.4814,42.362358],"type":"Point"}
 }

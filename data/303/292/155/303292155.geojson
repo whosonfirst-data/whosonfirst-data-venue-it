@@ -2,13 +2,14 @@
   "id": 303292155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.489682,45.605404,11.489682,45.605404",
     "geom:latitude":45.605404,
     "geom:longitude":11.489682,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rovereto 20 36030 Costabissara",
     "sg:city":"Costabissara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303292155,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1466294122,
     "wof:name":"Plastifer Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "exhibition"
     ]
 },
-  "bbox": [11.489682,45.605404,11.489682,45.605404],
+  "bbox": [
+    11.489682,
+    45.605404,
+    11.489682,
+    45.605404
+],
   "geometry": {"coordinates":[11.489682,45.605404],"type":"Point"}
 }

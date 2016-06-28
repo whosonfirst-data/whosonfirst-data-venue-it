@@ -2,13 +2,14 @@
   "id": 236384787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083228,45.810051,9.083228,45.810051",
     "geom:latitude":45.810051,
     "geom:longitude":9.083228,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236384787,
-    "wof:lastmodified":1449001984,
+    "wof:lastmodified":1466292817,
     "wof:name":"Taedo (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.083228,45.810051,9.083228,45.810051],
+  "bbox": [
+    9.083228,
+    45.810051,
+    9.083228,
+    45.810051
+],
   "geometry": {"coordinates":[9.083228,45.810051],"type":"Point"}
 }

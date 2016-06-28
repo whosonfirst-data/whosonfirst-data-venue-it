@@ -2,13 +2,14 @@
   "id": 269638321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.105446,43.836155,11.105446,43.836155",
     "geom:latitude":43.836155,
     "geom:longitude":11.105446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Commenda 7a 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269638321,
-    "wof:lastmodified":1449036263,
+    "wof:lastmodified":1466290799,
     "wof:name":"Manifattura Stefano Stefani Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [11.105446,43.836155,11.105446,43.836155],
+  "bbox": [
+    11.105446,
+    43.836155,
+    11.105446,
+    43.836155
+],
   "geometry": {"coordinates":[11.105446,43.836155],"type":"Point"}
 }

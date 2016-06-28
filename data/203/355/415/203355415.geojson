@@ -2,13 +2,14 @@
   "id": 203355415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.060403,41.654976,14.060403,41.654976",
     "geom:latitude":41.654976,
     "geom:longitude":14.060403,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86071 Castel San Vincenzo",
     "sg:city":"Castel San Vincenzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203355415,
-    "wof:lastmodified":1449025437,
+    "wof:lastmodified":1466291634,
     "wof:name":"Istituto Universitario Suor Orsola Benincasa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.060403,41.654976,14.060403,41.654976],
+  "bbox": [
+    14.060403,
+    41.654976,
+    14.060403,
+    41.654976
+],
   "geometry": {"coordinates":[14.060403,41.654976],"type":"Point"}
 }

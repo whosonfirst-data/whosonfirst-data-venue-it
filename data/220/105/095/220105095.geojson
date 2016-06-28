@@ -2,13 +2,14 @@
   "id": 220105095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.342135,44.100765,12.342135,44.100765",
     "geom:latitude":44.100765,
     "geom:longitude":12.342135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2462, V. Emilia 47020 Longiano",
     "sg:city":"Longiano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220105095,
-    "wof:lastmodified":1449074338,
+    "wof:lastmodified":1466296338,
     "wof:name":"Ricci Giorgio Ricambi Industriali Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [12.342135,44.100765,12.342135,44.100765],
+  "bbox": [
+    12.342135,
+    44.100765,
+    12.342135,
+    44.100765
+],
   "geometry": {"coordinates":[12.342135,44.100765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270403033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61802,45.451862,8.61802,45.451862",
     "geom:latitude":45.451862,
     "geom:longitude":8.61802,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270403033,
-    "wof:lastmodified":1449010742,
+    "wof:lastmodified":1466293916,
     "wof:name":"Gavassa Giancarlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.61802,45.451862,8.61802,45.451862],
+  "bbox": [
+    8.61802,
+    45.451862,
+    8.61802,
+    45.451862
+],
   "geometry": {"coordinates":[8.61802,45.451862],"type":"Point"}
 }

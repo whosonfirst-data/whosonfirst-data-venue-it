@@ -2,13 +2,14 @@
   "id": 303250839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.23455,44.719299,10.23455,44.719299",
     "geom:latitude":44.719299,
     "geom:longitude":10.23455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via A. Capitini 43038 Sala Baganza",
     "sg:city":"Sala Baganza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303250839,
-    "wof:lastmodified":1448999516,
+    "wof:lastmodified":1466293621,
     "wof:name":"S.a.r.m.e. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [10.23455,44.719299,10.23455,44.719299],
+  "bbox": [
+    10.23455,
+    44.719299,
+    10.23455,
+    44.719299
+],
   "geometry": {"coordinates":[10.23455,44.719299],"type":"Point"}
 }

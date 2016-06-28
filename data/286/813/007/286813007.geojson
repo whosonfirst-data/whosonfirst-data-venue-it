@@ -2,13 +2,14 @@
   "id": 286813007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.208325,43.768303,11.208325,43.768303",
     "geom:latitude":43.768303,
     "geom:longitude":11.208325,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50143 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286813007,
-    "wof:lastmodified":1449015932,
+    "wof:lastmodified":1466296753,
     "wof:name":"Wyre System Srl",
     "wof:parent_id":85904699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.208325,43.768303,11.208325,43.768303],
+  "bbox": [
+    11.208325,
+    43.768303,
+    11.208325,
+    43.768303
+],
   "geometry": {"coordinates":[11.208325,43.768303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287081879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.082987,37.520897,15.082987,37.520897",
     "geom:latitude":37.520897,
     "geom:longitude":15.082987,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95125 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287081879,
-    "wof:lastmodified":1449000924,
+    "wof:lastmodified":1466290682,
     "wof:name":"Art 2000 Di Angelo Raimondo",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.082987,37.520897,15.082987,37.520897],
+  "bbox": [
+    15.082987,
+    37.520897,
+    15.082987,
+    37.520897
+],
   "geometry": {"coordinates":[15.082987,37.520897],"type":"Point"}
 }

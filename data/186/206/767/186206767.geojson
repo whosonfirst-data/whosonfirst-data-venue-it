@@ -2,13 +2,14 @@
   "id": 186206767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.762834,45.294853,9.762834,45.294853",
     "geom:latitude":45.294853,
     "geom:longitude":9.762834,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Castelleone, Cr",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186206767,
-    "wof:lastmodified":1449052196,
+    "wof:lastmodified":1466289715,
     "wof:name":"Stima Engineering Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.762834,45.294853,9.762834,45.294853],
+  "bbox": [
+    9.762834,
+    45.294853,
+    9.762834,
+    45.294853
+],
   "geometry": {"coordinates":[9.762834,45.294853],"type":"Point"}
 }

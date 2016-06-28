@@ -2,13 +2,14 @@
   "id": 269609315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.134554,40.389034,18.134554,40.389034",
     "geom:latitude":40.389034,
     "geom:longitude":18.134554,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73010 Surbo",
     "sg:city":"Surbo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269609315,
-    "wof:lastmodified":1449037044,
+    "wof:lastmodified":1466290426,
     "wof:name":"Ferramenta Danilo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.134554,40.389034,18.134554,40.389034],
+  "bbox": [
+    18.134554,
+    40.389034,
+    18.134554,
+    40.389034
+],
   "geometry": {"coordinates":[18.134554,40.389034],"type":"Point"}
 }

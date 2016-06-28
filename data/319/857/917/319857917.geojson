@@ -2,13 +2,14 @@
   "id": 319857917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.11898,45.514256,9.11898,45.514256",
     "geom:latitude":45.514256,
     "geom:longitude":9.11898,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Polonia 15 20157 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319857917,
-    "wof:lastmodified":1449024590,
+    "wof:lastmodified":1466292953,
     "wof:name":"Elcu Sud Srl",
     "wof:parent_id":85796967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automatic"
     ]
 },
-  "bbox": [9.11898,45.514256,9.11898,45.514256],
+  "bbox": [
+    9.11898,
+    45.514256,
+    9.11898,
+    45.514256
+],
   "geometry": {"coordinates":[9.11898,45.514256],"type":"Point"}
 }

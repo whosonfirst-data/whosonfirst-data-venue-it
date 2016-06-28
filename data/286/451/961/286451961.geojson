@@ -2,13 +2,14 @@
   "id": 286451961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.656681,44.738323,10.656681,44.738323",
     "geom:latitude":44.738323,
     "geom:longitude":10.656681,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Zoboli Filippo 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286451961,
-    "wof:lastmodified":1449016474,
+    "wof:lastmodified":1466292148,
     "wof:name":"Ariete (s.r.l.)",
     "wof:parent_id":85904899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.656681,44.738323,10.656681,44.738323],
+  "bbox": [
+    10.656681,
+    44.738323,
+    10.656681,
+    44.738323
+],
   "geometry": {"coordinates":[10.656681,44.738323],"type":"Point"}
 }

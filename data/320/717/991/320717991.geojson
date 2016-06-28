@@ -2,13 +2,14 @@
   "id": 320717991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.80042,44.598343,10.80042,44.598343",
     "geom:latitude":44.598343,
     "geom:longitude":10.80042,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320717991,
-    "wof:lastmodified":1449011356,
+    "wof:lastmodified":1466298031,
     "wof:name":"Ascari Andrea Tutto Per Il Tetto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.80042,44.598343,10.80042,44.598343],
+  "bbox": [
+    10.80042,
+    44.598343,
+    10.80042,
+    44.598343
+],
   "geometry": {"coordinates":[10.80042,44.598343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202791983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.301046,45.837254,13.301046,45.837254",
     "geom:latitude":45.837254,
     "geom:longitude":13.301046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33050 Bagnaria Arsa",
     "sg:city":"Bagnaria Arsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202791983,
-    "wof:lastmodified":1449062075,
+    "wof:lastmodified":1466292105,
     "wof:name":"Gruppo Teatro Concerto 'le Scuelute '",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "il"
     ]
 },
-  "bbox": [13.301046,45.837254,13.301046,45.837254],
+  "bbox": [
+    13.301046,
+    45.837254,
+    13.301046,
+    45.837254
+],
   "geometry": {"coordinates":[13.301046,45.837254],"type":"Point"}
 }

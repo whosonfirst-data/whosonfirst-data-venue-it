@@ -2,13 +2,14 @@
   "id": 185725343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.699598,45.050919,9.699598,45.050919",
     "geom:latitude":45.050919,
     "geom:longitude":9.699598,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazzale Roma 96; Piacenza",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185725343,
-    "wof:lastmodified":1449007006,
+    "wof:lastmodified":1466296135,
     "wof:name":"Banca Monte Parma Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.699598,45.050919,9.699598,45.050919],
+  "bbox": [
+    9.699598,
+    45.050919,
+    9.699598,
+    45.050919
+],
   "geometry": {"coordinates":[9.699598,45.050919],"type":"Point"}
 }

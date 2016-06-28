@@ -2,13 +2,14 @@
   "id": 336793751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.820302,40.921459,14.820302,40.921459",
     "geom:latitude":40.921459,
     "geom:longitude":14.820302,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tagliamento Fabbr. Gei 83100 Avellino",
     "sg:city":"Avellino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336793751,
-    "wof:lastmodified":1448997536,
+    "wof:lastmodified":1466296045,
     "wof:name":"Termica Impianti (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [14.820302,40.921459,14.820302,40.921459],
+  "bbox": [
+    14.820302,
+    40.921459,
+    14.820302,
+    40.921459
+],
   "geometry": {"coordinates":[14.820302,40.921459],"type":"Point"}
 }

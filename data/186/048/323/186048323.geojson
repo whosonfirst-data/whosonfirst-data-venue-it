@@ -2,13 +2,14 @@
   "id": 186048323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.328611,44.075481,12.328611,44.075481",
     "geom:latitude":44.075481,
     "geom:longitude":12.328611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Iv Novembre, 11; Longiano; 47020",
     "sg:city":"Longiano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186048323,
-    "wof:lastmodified":1449051328,
+    "wof:lastmodified":1466295035,
     "wof:name":"Cassa Rurale Ed Artigiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.328611,44.075481,12.328611,44.075481],
+  "bbox": [
+    12.328611,
+    44.075481,
+    12.328611,
+    44.075481
+],
   "geometry": {"coordinates":[12.328611,44.075481],"type":"Point"}
 }

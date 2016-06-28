@@ -2,13 +2,14 @@
   "id": 270525097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.226108,45.880844,12.226108,45.880844",
     "geom:latitude":45.880844,
     "geom:longitude":12.226108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, V. Castellana 31020 Refrontolo",
     "sg:city":"Refrontolo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270525097,
-    "wof:lastmodified":1449010546,
+    "wof:lastmodified":1466295375,
     "wof:name":"Impa Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [12.226108,45.880844,12.226108,45.880844],
+  "bbox": [
+    12.226108,
+    45.880844,
+    12.226108,
+    45.880844
+],
   "geometry": {"coordinates":[12.226108,45.880844],"type":"Point"}
 }

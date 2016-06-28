@@ -2,13 +2,14 @@
   "id": 253000231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.571571,45.600937,11.571571,45.600937",
     "geom:latitude":45.600937,
     "geom:longitude":11.571571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Alcide De Gasperi 36010 Monticello Conte Otto",
     "sg:city":"Monticello Conte Otto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253000231,
-    "wof:lastmodified":1449063288,
+    "wof:lastmodified":1466296355,
     "wof:name":"Silver Klamore Di Gennari Francesca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.571571,45.600937,11.571571,45.600937],
+  "bbox": [
+    11.571571,
+    45.600937,
+    11.571571,
+    45.600937
+],
   "geometry": {"coordinates":[11.571571,45.600937],"type":"Point"}
 }

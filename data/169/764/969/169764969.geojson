@@ -2,13 +2,14 @@
   "id": 169764969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.273698,40.849731,14.273698,40.849731",
     "geom:latitude":40.849731,
     "geom:longitude":14.273698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80142 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169764969,
-    "wof:lastmodified":1449035804,
+    "wof:lastmodified":1466295500,
     "wof:name":"Pegni - Santullo Michele Snc",
     "wof:parent_id":85904825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.273698,40.849731,14.273698,40.849731],
+  "bbox": [
+    14.273698,
+    40.849731,
+    14.273698,
+    40.849731
+],
   "geometry": {"coordinates":[14.273698,40.849731],"type":"Point"}
 }

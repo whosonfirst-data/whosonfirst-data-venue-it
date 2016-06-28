@@ -2,13 +2,14 @@
   "id": 303956015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.822154,45.278545,7.822154,45.278545",
     "geom:latitude":45.278545,
     "geom:longitude":7.822154,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Foglizzo",
     "sg:city":"Foglizzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303956015,
-    "wof:lastmodified":1448998531,
+    "wof:lastmodified":1466298269,
     "wof:name":"Meinardi Mario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.822154,45.278545,7.822154,45.278545],
+  "bbox": [
+    7.822154,
+    45.278545,
+    7.822154,
+    45.278545
+],
   "geometry": {"coordinates":[7.822154,45.278545],"type":"Point"}
 }

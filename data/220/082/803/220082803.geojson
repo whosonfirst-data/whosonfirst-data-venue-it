@@ -2,13 +2,14 @@
   "id": 220082803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.654785,45.103451,7.654785,45.103451",
     "geom:latitude":45.103451,
     "geom:longitude":7.654785,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lucento 81/10 10151 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220082803,
-    "wof:lastmodified":1449074085,
+    "wof:lastmodified":1466295691,
     "wof:name":"Sele Offset Torino Srl",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "industrial"
     ]
 },
-  "bbox": [7.654785,45.103451,7.654785,45.103451],
+  "bbox": [
+    7.654785,
+    45.103451,
+    7.654785,
+    45.103451
+],
   "geometry": {"coordinates":[7.654785,45.103451],"type":"Point"}
 }

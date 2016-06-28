@@ -2,13 +2,14 @@
   "id": 185622371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.426497,42.03405,13.426497,42.03405",
     "geom:latitude":42.03405,
     "geom:longitude":13.426497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marruvio 90; Avezzano",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185622371,
-    "wof:lastmodified":1449007937,
+    "wof:lastmodified":1466294135,
     "wof:name":"Banca Del Fucino Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.426497,42.03405,13.426497,42.03405],
+  "bbox": [
+    13.426497,
+    42.03405,
+    13.426497,
+    42.03405
+],
   "geometry": {"coordinates":[13.426497,42.03405],"type":"Point"}
 }

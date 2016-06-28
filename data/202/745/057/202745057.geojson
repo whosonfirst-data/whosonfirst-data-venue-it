@@ -2,13 +2,14 @@
   "id": 202745057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.33826,44.169643,8.33826,44.169643",
     "geom:latitude":44.169643,
     "geom:longitude":8.33826,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17024 Finale Ligure",
     "sg:city":"Finale Ligure",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202745057,
-    "wof:lastmodified":1449062532,
+    "wof:lastmodified":1466291536,
     "wof:name":"Allimar Shipbrokers S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.33826,44.169643,8.33826,44.169643],
+  "bbox": [
+    8.33826,
+    44.169643,
+    8.33826,
+    44.169643
+],
   "geometry": {"coordinates":[8.33826,44.169643],"type":"Point"}
 }

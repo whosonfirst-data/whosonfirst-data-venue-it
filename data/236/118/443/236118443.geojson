@@ -2,13 +2,14 @@
   "id": 236118443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.597878,44.715847,10.597878,44.715847",
     "geom:latitude":44.715847,
     "geom:longitude":10.597878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Pratonieri 6 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236118443,
-    "wof:lastmodified":1449004490,
+    "wof:lastmodified":1466290078,
     "wof:name":"Dieffe Di Franceschini Srl",
     "wof:parent_id":85904877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [10.597878,44.715847,10.597878,44.715847],
+  "bbox": [
+    10.597878,
+    44.715847,
+    10.597878,
+    44.715847
+],
   "geometry": {"coordinates":[10.597878,44.715847],"type":"Point"}
 }

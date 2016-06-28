@@ -2,13 +2,14 @@
   "id": 236115781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.067537,44.871052,11.067537,44.871052",
     "geom:latitude":44.871052,
     "geom:longitude":11.067537,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41037 Mirandola",
     "sg:city":"Mirandola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236115781,
-    "wof:lastmodified":1449001656,
+    "wof:lastmodified":1466290053,
     "wof:name":"C.i.m.a. Spa Di Razzaboni & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "frames"
     ]
 },
-  "bbox": [11.067537,44.871052,11.067537,44.871052],
+  "bbox": [
+    11.067537,
+    44.871052,
+    11.067537,
+    44.871052
+],
   "geometry": {"coordinates":[11.067537,44.871052],"type":"Point"}
 }

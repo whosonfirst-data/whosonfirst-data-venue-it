@@ -2,13 +2,14 @@
   "id": 336944353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.267921,45.404598,9.267921,45.404598",
     "geom:latitude":45.404598,
     "geom:longitude":9.267921,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336944353,
-    "wof:lastmodified":1448997493,
+    "wof:lastmodified":1466297332,
     "wof:name":"Gini Mario Mirko",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.267921,45.404598,9.267921,45.404598],
+  "bbox": [
+    9.267921,
+    45.404598,
+    9.267921,
+    45.404598
+],
   "geometry": {"coordinates":[9.267921,45.404598],"type":"Point"}
 }

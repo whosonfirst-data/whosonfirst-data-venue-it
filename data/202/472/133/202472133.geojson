@@ -2,13 +2,14 @@
   "id": 202472133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.481634,42.003292,12.481634,42.003292",
     "geom:latitude":42.003292,
     "geom:longitude":12.481634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00188 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202472133,
-    "wof:lastmodified":1449060312,
+    "wof:lastmodified":1466295882,
     "wof:name":"Palmieri Silvia",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.481634,42.003292,12.481634,42.003292],
+  "bbox": [
+    12.481634,
+    42.003292,
+    12.481634,
+    42.003292
+],
   "geometry": {"coordinates":[12.481634,42.003292],"type":"Point"}
 }

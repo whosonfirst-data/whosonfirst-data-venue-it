@@ -2,13 +2,14 @@
   "id": 169795659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.49736,41.899853,12.49736,41.899853",
     "geom:latitude":41.899853,
     "geom:longitude":12.49736,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00184 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169795659,
-    "wof:lastmodified":1449034641,
+    "wof:lastmodified":1466295989,
     "wof:name":"Federcasse Federazione Italiana Banche Di Credito Cooperativo",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.49736,41.899853,12.49736,41.899853],
+  "bbox": [
+    12.49736,
+    41.899853,
+    12.49736,
+    41.899853
+],
   "geometry": {"coordinates":[12.49736,41.899853],"type":"Point"}
 }

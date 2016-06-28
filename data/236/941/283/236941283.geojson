@@ -2,13 +2,14 @@
   "id": 236941283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.172581,37.893139,15.172581,37.893139",
     "geom:latitude":37.893139,
     "geom:longitude":15.172581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98030 Motta Camastra",
     "sg:city":"Motta Camastra",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236941283,
-    "wof:lastmodified":1449003653,
+    "wof:lastmodified":1466297314,
     "wof:name":"Sacchettificio Scuderi Stagnitti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [15.172581,37.893139,15.172581,37.893139],
+  "bbox": [
+    15.172581,
+    37.893139,
+    15.172581,
+    37.893139
+],
   "geometry": {"coordinates":[15.172581,37.893139],"type":"Point"}
 }

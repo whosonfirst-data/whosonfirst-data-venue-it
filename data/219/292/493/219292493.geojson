@@ -2,13 +2,14 @@
   "id": 219292493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.30769,45.542439,9.30769,45.542439",
     "geom:latitude":45.542439,
     "geom:longitude":9.30769,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dorderio 30 20047 Brugherio",
     "sg:city":"Brugherio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219292493,
-    "wof:lastmodified":1449070684,
+    "wof:lastmodified":1466289226,
     "wof:name":"Trione Ricambi Spa",
     "wof:parent_id":85796833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "spare"
     ]
 },
-  "bbox": [9.30769,45.542439,9.30769,45.542439],
+  "bbox": [
+    9.30769,
+    45.542439,
+    9.30769,
+    45.542439
+],
   "geometry": {"coordinates":[9.30769,45.542439],"type":"Point"}
 }

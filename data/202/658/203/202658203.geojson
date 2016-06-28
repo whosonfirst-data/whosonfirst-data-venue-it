@@ -2,13 +2,14 @@
   "id": 202658203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.0524,43.194542,13.0524,43.194542",
     "geom:latitude":43.194542,
     "geom:longitude":13.0524,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62032 Camerino",
     "sg:city":"Camerino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202658203,
-    "wof:lastmodified":1449060054,
+    "wof:lastmodified":1466290618,
     "wof:name":"Cdc.l. Di Marchetti & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.0524,43.194542,13.0524,43.194542],
+  "bbox": [
+    13.0524,
+    43.194542,
+    13.0524,
+    43.194542
+],
   "geometry": {"coordinates":[13.0524,43.194542],"type":"Point"}
 }

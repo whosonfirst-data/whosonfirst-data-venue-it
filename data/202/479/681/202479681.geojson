@@ -2,13 +2,14 @@
   "id": 202479681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.207993,45.46656,9.207993,45.46656",
     "geom:latitude":45.46656,
     "geom:longitude":9.207993,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202479681,
-    "wof:lastmodified":1449061823,
+    "wof:lastmodified":1466296020,
     "wof:name":"Associazione Luca Polifromi",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.207993,45.46656,9.207993,45.46656],
+  "bbox": [
+    9.207993,
+    45.46656,
+    9.207993,
+    45.46656
+],
   "geometry": {"coordinates":[9.207993,45.46656],"type":"Point"}
 }

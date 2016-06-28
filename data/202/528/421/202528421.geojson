@@ -2,13 +2,14 @@
   "id": 202528421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.416819,44.499664,11.416819,44.499664",
     "geom:latitude":44.499664,
     "geom:longitude":11.416819,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202528421,
-    "wof:lastmodified":1449060803,
+    "wof:lastmodified":1466289241,
     "wof:name":"Dolcetti Franco & C. Snc",
     "wof:parent_id":85900453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.416819,44.499664,11.416819,44.499664],
+  "bbox": [
+    11.416819,
+    44.499664,
+    11.416819,
+    44.499664
+],
   "geometry": {"coordinates":[11.416819,44.499664],"type":"Point"}
 }

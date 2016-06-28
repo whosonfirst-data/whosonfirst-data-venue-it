@@ -2,13 +2,14 @@
   "id": 203167803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.468043,46.536686,11.468043,46.536686",
     "geom:latitude":46.536686,
     "geom:longitude":11.468043,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39054 Collalbo",
     "sg:city":"Collalbo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203167803,
-    "wof:lastmodified":1449025921,
+    "wof:lastmodified":1466289560,
     "wof:name":"Fischer Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.468043,46.536686,11.468043,46.536686],
+  "bbox": [
+    11.468043,
+    46.536686,
+    11.468043,
+    46.536686
+],
   "geometry": {"coordinates":[11.468043,46.536686],"type":"Point"}
 }

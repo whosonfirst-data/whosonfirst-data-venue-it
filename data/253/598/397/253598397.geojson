@@ -2,13 +2,14 @@
   "id": 253598397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.280561,40.894592,14.280561,40.894592",
     "geom:latitude":40.894592,
     "geom:longitude":14.280561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Verdi 6/23 80020 Casavatore",
     "sg:city":"Casavatore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253598397,
-    "wof:lastmodified":1449062974,
+    "wof:lastmodified":1466295930,
     "wof:name":"Calzaturificio Luimar Sas",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.280561,40.894592,14.280561,40.894592],
+  "bbox": [
+    14.280561,
+    40.894592,
+    14.280561,
+    40.894592
+],
   "geometry": {"coordinates":[14.280561,40.894592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185943581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.579667,45.022427,7.579667,45.022427",
     "geom:latitude":45.022427,
     "geom:longitude":7.579667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Alfieri 17, 10121 Turin, To",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185943581,
-    "wof:lastmodified":1449007033,
+    "wof:lastmodified":1466290398,
     "wof:name":"Brignone Informatica Spa",
     "wof:parent_id":85796819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.579667,45.022427,7.579667,45.022427],
+  "bbox": [
+    7.579667,
+    45.022427,
+    7.579667,
+    45.022427
+],
   "geometry": {"coordinates":[7.579667,45.022427],"type":"Point"}
 }

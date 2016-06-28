@@ -2,13 +2,14 @@
   "id": 252755657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.27316,37.563847,14.27316,37.563847",
     "geom:latitude":37.563847,
     "geom:longitude":14.27316,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94014 Nicosia",
     "sg:city":"Nicosia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252755657,
-    "wof:lastmodified":1449005719,
+    "wof:lastmodified":1466289413,
     "wof:name":"Papillon Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.27316,37.563847,14.27316,37.563847],
+  "bbox": [
+    14.27316,
+    37.563847,
+    14.27316,
+    37.563847
+],
   "geometry": {"coordinates":[14.27316,37.563847],"type":"Point"}
 }

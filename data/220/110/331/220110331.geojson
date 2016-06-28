@@ -2,13 +2,14 @@
   "id": 220110331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.322289,41.624554,13.322289,41.624554",
     "geom:latitude":41.624554,
     "geom:longitude":13.322289,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"114, V. Monti Lepini 03100 Frosinone",
     "sg:city":"Frosinone",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220110331,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466296008,
     "wof:name":"Centro Europeo Assistenza 2000 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [13.322289,41.624554,13.322289,41.624554],
+  "bbox": [
+    13.322289,
+    41.624554,
+    13.322289,
+    41.624554
+],
   "geometry": {"coordinates":[13.322289,41.624554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203129191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.197064,45.44936,9.197064,45.44936",
     "geom:latitude":45.44936,
     "geom:longitude":9.197064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20136 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203129191,
-    "wof:lastmodified":1449026468,
+    "wof:lastmodified":1466289190,
     "wof:name":"Malatrasi Luigi",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.197064,45.44936,9.197064,45.44936],
+  "bbox": [
+    9.197064,
+    45.44936,
+    9.197064,
+    45.44936
+],
   "geometry": {"coordinates":[9.197064,45.44936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336602255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.720507,44.976566,7.720507,44.976566",
     "geom:latitude":44.976566,
     "geom:longitude":7.720507,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Pastore 10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336602255,
-    "wof:lastmodified":1448997456,
+    "wof:lastmodified":1466293759,
     "wof:name":"Ascom.cea Srl",
     "wof:parent_id":85862789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.720507,44.976566,7.720507,44.976566],
+  "bbox": [
+    7.720507,
+    44.976566,
+    7.720507,
+    44.976566
+],
   "geometry": {"coordinates":[7.720507,44.976566],"type":"Point"}
 }

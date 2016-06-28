@@ -2,13 +2,14 @@
   "id": 186270999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.564608,40.901901,14.564608,40.901901",
     "geom:latitude":40.901901,
     "geom:longitude":14.564608,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cupa 23 80030 Liveri",
     "sg:city":"Liveri",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186270999,
-    "wof:lastmodified":1449050895,
+    "wof:lastmodified":1466290242,
     "wof:name":"Amedeo Nappi Industria Ceraria Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beeswax"
     ]
 },
-  "bbox": [14.564608,40.901901,14.564608,40.901901],
+  "bbox": [
+    14.564608,
+    40.901901,
+    14.564608,
+    40.901901
+],
   "geometry": {"coordinates":[14.564608,40.901901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253690339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.843575,45.466488,11.843575,45.466488",
     "geom:latitude":45.466488,
     "geom:longitude":11.843575,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Limena",
     "sg:city":"Limena",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253690339,
-    "wof:lastmodified":1449064389,
+    "wof:lastmodified":1466296613,
     "wof:name":"Inoxtubi Padova Di Camera Franco & Camera Roberto & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.843575,45.466488,11.843575,45.466488],
+  "bbox": [
+    11.843575,
+    45.466488,
+    11.843575,
+    45.466488
+],
   "geometry": {"coordinates":[11.843575,45.466488],"type":"Point"}
 }

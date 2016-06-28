@@ -2,13 +2,14 @@
   "id": 219841177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.251075,38.190414,13.251075,38.190414",
     "geom:latitude":38.190414,
     "geom:longitude":13.251075,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90040 Isola Delle Femmine",
     "sg:city":"Isola delle Femmine",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219841177,
-    "wof:lastmodified":1449071138,
+    "wof:lastmodified":1466294671,
     "wof:name":"Alta Srl Altavilla Trattamento Acque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [13.251075,38.190414,13.251075,38.190414],
+  "bbox": [
+    13.251075,
+    38.190414,
+    13.251075,
+    38.190414
+],
   "geometry": {"coordinates":[13.251075,38.190414],"type":"Point"}
 }

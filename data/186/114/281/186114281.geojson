@@ -2,13 +2,14 @@
   "id": 186114281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.662645,45.310131,10.662645,45.310131",
     "geom:latitude":45.310131,
     "geom:longitude":10.662645,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Xx Settembre 7/8; Volta; 46049",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186114281,
-    "wof:lastmodified":1449051496,
+    "wof:lastmodified":1466288937,
     "wof:name":"Istituto Banacario, San Paolo Di Torino Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.662645,45.310131,10.662645,45.310131],
+  "bbox": [
+    10.662645,
+    45.310131,
+    10.662645,
+    45.310131
+],
   "geometry": {"coordinates":[10.662645,45.310131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252726955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124756,46.07069,11.124756,46.07069",
     "geom:latitude":46.07069,
     "geom:longitude":11.124756,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38100 Trento",
     "sg:city":"Trento",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252726955,
-    "wof:lastmodified":1449006138,
+    "wof:lastmodified":1466289110,
     "wof:name":"La Maglieria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.124756,46.07069,11.124756,46.07069],
+  "bbox": [
+    11.124756,
+    46.07069,
+    11.124756,
+    46.07069
+],
   "geometry": {"coordinates":[11.124756,46.07069],"type":"Point"}
 }

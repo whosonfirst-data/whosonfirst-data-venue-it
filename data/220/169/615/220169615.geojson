@@ -2,13 +2,14 @@
   "id": 220169615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.522553,44.43454,11.522553,44.43454",
     "geom:latitude":44.43454,
     "geom:longitude":11.522553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sardegna 16 40060 Osteria Grande",
     "sg:city":"Osteria Grande",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220169615,
-    "wof:lastmodified":1449074529,
+    "wof:lastmodified":1466289275,
     "wof:name":"Inn.tec. Innovazioni Tecnologiche S Rl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "moulded"
     ]
 },
-  "bbox": [11.522553,44.43454,11.522553,44.43454],
+  "bbox": [
+    11.522553,
+    44.43454,
+    11.522553,
+    44.43454
+],
   "geometry": {"coordinates":[11.522553,44.43454],"type":"Point"}
 }

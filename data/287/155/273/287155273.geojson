@@ -2,13 +2,14 @@
   "id": 287155273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.846173,45.148014,7.846173,45.148014",
     "geom:latitude":45.148014,
     "geom:longitude":7.846173,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 San Raffaele Cimena",
     "sg:city":"San Raffaele Cimena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287155273,
-    "wof:lastmodified":1449001400,
+    "wof:lastmodified":1466291647,
     "wof:name":"Nuova Dorcrom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.846173,45.148014,7.846173,45.148014],
+  "bbox": [
+    7.846173,
+    45.148014,
+    7.846173,
+    45.148014
+],
   "geometry": {"coordinates":[7.846173,45.148014],"type":"Point"}
 }

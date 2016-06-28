@@ -2,13 +2,14 @@
   "id": 186011383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.232361,41.596123,14.232361,41.596123",
     "geom:latitude":41.596123,
     "geom:longitude":14.232361,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Farinacci; Isernia; 86170",
     "sg:city":"Isernia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186011383,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1466292072,
     "wof:name":"Cassa Di Risparmio Di Roma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.232361,41.596123,14.232361,41.596123],
+  "bbox": [
+    14.232361,
+    41.596123,
+    14.232361,
+    41.596123
+],
   "geometry": {"coordinates":[14.232361,41.596123],"type":"Point"}
 }

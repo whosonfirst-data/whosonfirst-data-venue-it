@@ -2,13 +2,14 @@
   "id": 253032843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.892791,45.190353,7.892791,45.190353",
     "geom:latitude":45.190353,
     "geom:longitude":7.892791,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10034 Betlemme",
     "sg:classifiers":[],
     "sg:orig_category":"Accessori Dei Mezzi Di Trasporto. Riparazione Dei Mezzi Di Trasporto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253032843,
-    "wof:lastmodified":1449064266,
+    "wof:lastmodified":1466289257,
     "wof:name":"Emme 2 S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.892791,45.190353,7.892791,45.190353],
+  "bbox": [
+    7.892791,
+    45.190353,
+    7.892791,
+    45.190353
+],
   "geometry": {"coordinates":[7.892791,45.190353],"type":"Point"}
 }

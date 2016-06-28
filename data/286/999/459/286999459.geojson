@@ -2,13 +2,14 @@
   "id": 286999459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.09978,42.390316,14.09978,42.390316",
     "geom:latitude":42.390316,
     "geom:longitude":14.09978,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Trieste 65019 Pianella",
     "sg:city":"Pianella",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286999459,
-    "wof:lastmodified":1449017736,
+    "wof:lastmodified":1466297535,
     "wof:name":"Confezioni E Maglieria Di S.g.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [14.09978,42.390316,14.09978,42.390316],
+  "bbox": [
+    14.09978,
+    42.390316,
+    14.09978,
+    42.390316
+],
   "geometry": {"coordinates":[14.09978,42.390316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303774591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.435254,44.502064,11.435254,44.502064",
     "geom:latitude":44.502064,
     "geom:longitude":11.435254,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40050 Castenaso",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Cucina Ed Elettrodomestici. Elettrodomestici",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303774591,
-    "wof:lastmodified":1448999067,
+    "wof:lastmodified":1466297769,
     "wof:name":"Commerlegno Srl",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.435254,44.502064,11.435254,44.502064],
+  "bbox": [
+    11.435254,
+    44.502064,
+    11.435254,
+    44.502064
+],
   "geometry": {"coordinates":[11.435254,44.502064],"type":"Point"}
 }

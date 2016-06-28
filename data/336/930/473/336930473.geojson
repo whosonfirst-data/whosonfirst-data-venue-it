@@ -2,13 +2,14 @@
   "id": 336930473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.571481,44.396679,7.571481,44.396679",
     "geom:latitude":44.396679,
     "geom:longitude":7.571481,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12100 Madonna Delle Grazie",
     "sg:city":"Madonna delle Grazie",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336930473,
-    "wof:lastmodified":1448997284,
+    "wof:lastmodified":1466297007,
     "wof:name":"Di Martino Antonella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [7.571481,44.396679,7.571481,44.396679],
+  "bbox": [
+    7.571481,
+    44.396679,
+    7.571481,
+    44.396679
+],
   "geometry": {"coordinates":[7.571481,44.396679],"type":"Point"}
 }

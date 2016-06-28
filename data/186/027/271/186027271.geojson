@@ -2,13 +2,14 @@
   "id": 186027271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.997403,45.026646,9.997403,45.026646",
     "geom:latitude":45.026646,
     "geom:longitude":9.997403,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A Moro 4; Villanova Sull'arda; 29010",
     "sg:city":"Villanova",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186027271,
-    "wof:lastmodified":1449050908,
+    "wof:lastmodified":1466294440,
     "wof:name":"Cassa Di Risparmio, Di Parma E Piacenza Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.997403,45.026646,9.997403,45.026646],
+  "bbox": [
+    9.997403,
+    45.026646,
+    9.997403,
+    45.026646
+],
   "geometry": {"coordinates":[9.997403,45.026646],"type":"Point"}
 }

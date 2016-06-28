@@ -2,13 +2,14 @@
   "id": 303183359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.14692,45.532875,9.14692,45.532875",
     "geom:latitude":45.532875,
     "geom:longitude":9.14692,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Cambiago",
     "sg:city":"Cambiago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303183359,
-    "wof:lastmodified":1448999434,
+    "wof:lastmodified":1466292738,
     "wof:name":"S.i.r.n.e. Di Genesio Walter",
     "wof:parent_id":85862707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.14692,45.532875,9.14692,45.532875],
+  "bbox": [
+    9.14692,
+    45.532875,
+    9.14692,
+    45.532875
+],
   "geometry": {"coordinates":[9.14692,45.532875],"type":"Point"}
 }

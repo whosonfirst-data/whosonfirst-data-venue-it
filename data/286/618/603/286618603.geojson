@@ -2,13 +2,14 @@
   "id": 286618603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.12081,45.411804,9.12081,45.411804",
     "geom:latitude":45.411804,
     "geom:longitude":9.12081,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Volta 20090 Assago",
     "sg:city":"Assago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286618603,
-    "wof:lastmodified":1449017034,
+    "wof:lastmodified":1466294165,
     "wof:name":"La Cellini S.n.c. Di Longhi & C.",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.12081,45.411804,9.12081,45.411804],
+  "bbox": [
+    9.12081,
+    45.411804,
+    9.12081,
+    45.411804
+],
   "geometry": {"coordinates":[9.12081,45.411804],"type":"Point"}
 }

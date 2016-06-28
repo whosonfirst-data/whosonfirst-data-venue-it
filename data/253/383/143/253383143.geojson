@@ -2,13 +2,14 @@
   "id": 253383143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.163003,40.921368,14.163003,40.921368",
     "geom:latitude":40.921368,
     "geom:longitude":14.163003,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"530, Via Della Liberta' 80010 Villaricca",
     "sg:city":"Villaricca",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253383143,
-    "wof:lastmodified":1449064082,
+    "wof:lastmodified":1466293217,
     "wof:name":"Emme 3 S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [14.163003,40.921368,14.163003,40.921368],
+  "bbox": [
+    14.163003,
+    40.921368,
+    14.163003,
+    40.921368
+],
   "geometry": {"coordinates":[14.163003,40.921368],"type":"Point"}
 }

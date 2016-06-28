@@ -2,13 +2,14 @@
   "id": 253573525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.095401,45.46204,9.095401,45.46204",
     "geom:latitude":45.46204,
     "geom:longitude":9.095401,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20067 Paullo",
     "sg:city":"Paullo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253573525,
-    "wof:lastmodified":1449065011,
+    "wof:lastmodified":1466295605,
     "wof:name":"Andrea Coti Zelati",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.095401,45.46204,9.095401,45.46204],
+  "bbox": [
+    9.095401,
+    45.46204,
+    9.095401,
+    45.46204
+],
   "geometry": {"coordinates":[9.095401,45.46204],"type":"Point"}
 }

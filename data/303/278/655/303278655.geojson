@@ -2,13 +2,14 @@
   "id": 303278655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.053082,45.430435,9.053082,45.430435",
     "geom:latitude":45.430435,
     "geom:longitude":9.053082,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Corso Europa 20090 Cusago",
     "sg:city":"Cusago",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303278655,
-    "wof:lastmodified":1448999471,
+    "wof:lastmodified":1466293968,
     "wof:name":"Trane Italia Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [9.053082,45.430435,9.053082,45.430435],
+  "bbox": [
+    9.053082,
+    45.430435,
+    9.053082,
+    45.430435
+],
   "geometry": {"coordinates":[9.053082,45.430435],"type":"Point"}
 }

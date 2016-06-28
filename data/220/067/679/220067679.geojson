@@ -2,13 +2,14 @@
   "id": 220067679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.169847,45.476624,9.169847,45.476624",
     "geom:latitude":45.476624,
     "geom:longitude":9.169847,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gherardini Giovanni 6 20145 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220067679,
-    "wof:lastmodified":1449074091,
+    "wof:lastmodified":1466295557,
     "wof:name":"Quinn Italiana Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [9.169847,45.476624,9.169847,45.476624],
+  "bbox": [
+    9.169847,
+    45.476624,
+    9.169847,
+    45.476624
+],
   "geometry": {"coordinates":[9.169847,45.476624],"type":"Point"}
 }

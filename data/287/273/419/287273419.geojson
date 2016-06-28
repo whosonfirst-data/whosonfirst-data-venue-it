@@ -2,13 +2,14 @@
   "id": 287273419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.446054,45.522503,11.446054,45.522503",
     "geom:latitude":45.522503,
     "geom:longitude":11.446054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Via Primo Maggio 36050 Sovizzo",
     "sg:city":"Sovizzo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287273419,
-    "wof:lastmodified":1449001121,
+    "wof:lastmodified":1466293217,
     "wof:name":"Elettromeccanica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.446054,45.522503,11.446054,45.522503],
+  "bbox": [
+    11.446054,
+    45.522503,
+    11.446054,
+    45.522503
+],
   "geometry": {"coordinates":[11.446054,45.522503],"type":"Point"}
 }

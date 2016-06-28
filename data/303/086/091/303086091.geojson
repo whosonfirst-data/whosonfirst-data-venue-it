@@ -2,13 +2,14 @@
   "id": 303086091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.416705,44.499859,11.416705,44.499859",
     "geom:latitude":44.499859,
     "geom:longitude":11.416705,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Tornitore 22/24 40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303086091,
-    "wof:lastmodified":1448999756,
+    "wof:lastmodified":1466291463,
     "wof:name":"Euro Sonic Elettronica Srl",
     "wof:parent_id":85900453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electronic"
     ]
 },
-  "bbox": [11.416705,44.499859,11.416705,44.499859],
+  "bbox": [
+    11.416705,
+    44.499859,
+    11.416705,
+    44.499859
+],
   "geometry": {"coordinates":[11.416705,44.499859],"type":"Point"}
 }

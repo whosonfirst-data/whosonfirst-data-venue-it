@@ -2,13 +2,14 @@
   "id": 269521959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.647939,43.238102,13.647939,43.238102",
     "geom:latitude":43.238102,
     "geom:longitude":13.647939,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4/6, Via Fonte Giugliano 63014 Montegranaro",
     "sg:city":"Montegranaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269521959,
-    "wof:lastmodified":1449038846,
+    "wof:lastmodified":1466289387,
     "wof:name":"Calzaturificio Gal.men (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.647939,43.238102,13.647939,43.238102],
+  "bbox": [
+    13.647939,
+    43.238102,
+    13.647939,
+    43.238102
+],
   "geometry": {"coordinates":[13.647939,43.238102],"type":"Point"}
 }

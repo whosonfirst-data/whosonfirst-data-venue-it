@@ -2,13 +2,14 @@
   "id": 287062741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.955014,37.495403,14.955014,37.495403",
     "geom:latitude":37.495403,
     "geom:longitude":14.955014,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Piraino 95032 Belpasso",
     "sg:city":"Belpasso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287062741,
-    "wof:lastmodified":1449001526,
+    "wof:lastmodified":1466290400,
     "wof:name":"Consorzio S.d. Sicilia Discounts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [14.955014,37.495403,14.955014,37.495403],
+  "bbox": [
+    14.955014,
+    37.495403,
+    14.955014,
+    37.495403
+],
   "geometry": {"coordinates":[14.955014,37.495403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286943689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.361035,40.80899,14.361035,40.80899",
     "geom:latitude":40.80899,
     "geom:longitude":14.361035,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80056 Ercolano",
     "sg:city":"Ercolano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286943689,
-    "wof:lastmodified":1449015957,
+    "wof:lastmodified":1466297272,
     "wof:name":"Cozzolino Carmine",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.361035,40.80899,14.361035,40.80899],
+  "bbox": [
+    14.361035,
+    40.80899,
+    14.361035,
+    40.80899
+],
   "geometry": {"coordinates":[14.361035,40.80899],"type":"Point"}
 }

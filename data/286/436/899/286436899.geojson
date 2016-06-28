@@ -2,13 +2,14 @@
   "id": 286436899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.584759,44.501221,7.584759,44.501221",
     "geom:latitude":44.501221,
     "geom:longitude":7.584759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12089 Villanova Mondov\u00ec",
     "sg:classifiers":[],
     "sg:orig_category":"Climatizzazione E Condizionamento, Apparecchiature E Servizi. Elettrotecnica Professionale E Di Consumo",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286436899,
-    "wof:lastmodified":1449017812,
+    "wof:lastmodified":1466291963,
     "wof:name":"Calleri & Fenoglio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.584759,44.501221,7.584759,44.501221],
+  "bbox": [
+    7.584759,
+    44.501221,
+    7.584759,
+    44.501221
+],
   "geometry": {"coordinates":[7.584759,44.501221],"type":"Point"}
 }

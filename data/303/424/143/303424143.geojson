@@ -2,13 +2,14 @@
   "id": 303424143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.215918,45.604355,10.215918,45.604355",
     "geom:latitude":45.604355,
     "geom:longitude":10.215918,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Europa 174/c 25062 Concesio",
     "sg:city":"Concesio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303424143,
-    "wof:lastmodified":1449000413,
+    "wof:lastmodified":1466295740,
     "wof:name":"Euroarms Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "artifact"
     ]
 },
-  "bbox": [10.215918,45.604355,10.215918,45.604355],
+  "bbox": [
+    10.215918,
+    45.604355,
+    10.215918,
+    45.604355
+],
   "geometry": {"coordinates":[10.215918,45.604355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169857371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.931966,45.275455,11.931966,45.275455",
     "geom:latitude":45.275455,
     "geom:longitude":11.931966,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Padova 1; Bovolenta; 35024",
     "sg:city":"Bovolenta",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169857371,
-    "wof:lastmodified":1449034826,
+    "wof:lastmodified":1466289280,
     "wof:name":"Banca Antoniana, Popolare Veneta Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.931966,45.275455,11.931966,45.275455],
+  "bbox": [
+    11.931966,
+    45.275455,
+    11.931966,
+    45.275455
+],
   "geometry": {"coordinates":[11.931966,45.275455],"type":"Point"}
 }

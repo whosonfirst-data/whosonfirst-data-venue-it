@@ -2,13 +2,14 @@
   "id": 253250563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.248749,43.80265,11.248749,43.80265",
     "geom:latitude":43.80265,
     "geom:longitude":11.248749,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50139 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253250563,
-    "wof:lastmodified":1449064508,
+    "wof:lastmodified":1466291575,
     "wof:name":"Casa Di Cura Ulivella E Glicini",
     "wof:parent_id":85904657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.248749,43.80265,11.248749,43.80265],
+  "bbox": [
+    11.248749,
+    43.80265,
+    11.248749,
+    43.80265
+],
   "geometry": {"coordinates":[11.248749,43.80265],"type":"Point"}
 }

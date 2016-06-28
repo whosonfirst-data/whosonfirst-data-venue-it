@@ -2,13 +2,14 @@
   "id": 236720777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.781057,41.093517,16.781057,41.093517",
     "geom:latitude":41.093517,
     "geom:longitude":16.781057,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, V. Dei Gelsomini 70026 Modugno",
     "sg:city":"Modugno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236720777,
-    "wof:lastmodified":1449002272,
+    "wof:lastmodified":1466296204,
     "wof:name":"Pubblicita' E Stampa Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [16.781057,41.093517,16.781057,41.093517],
+  "bbox": [
+    16.781057,
+    41.093517,
+    16.781057,
+    41.093517
+],
   "geometry": {"coordinates":[16.781057,41.093517],"type":"Point"}
 }

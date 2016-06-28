@@ -2,13 +2,14 @@
   "id": 236863085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.354899,45.457439,12.354899,45.457439",
     "geom:latitude":45.457439,
     "geom:longitude":12.354899,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Riva Longa 30141 Conterie Murano",
     "sg:city":"Murano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236863085,
-    "wof:lastmodified":1449004023,
+    "wof:lastmodified":1466296901,
     "wof:name":"Tommasi Snc",
     "wof:parent_id":85905023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "article"
     ]
 },
-  "bbox": [12.354899,45.457439,12.354899,45.457439],
+  "bbox": [
+    12.354899,
+    45.457439,
+    12.354899,
+    45.457439
+],
   "geometry": {"coordinates":[12.354899,45.457439],"type":"Point"}
 }

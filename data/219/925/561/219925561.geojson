@@ -2,13 +2,14 @@
   "id": 219925561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.059783,37.496658,14.059783,37.496658",
     "geom:latitude":37.496658,
     "geom:longitude":14.059783,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93100 Caltanissetta",
     "sg:city":"Caltanissetta",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219925561,
-    "wof:lastmodified":1449070401,
+    "wof:lastmodified":1466295558,
     "wof:name":"Errevi Sistems Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.059783,37.496658,14.059783,37.496658],
+  "bbox": [
+    14.059783,
+    37.496658,
+    14.059783,
+    37.496658
+],
   "geometry": {"coordinates":[14.059783,37.496658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203157367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.718262,42.869179,13.718262,42.869179",
     "geom:latitude":42.869179,
     "geom:longitude":13.718262,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63035 Offida",
     "sg:city":"Offida",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203157367,
-    "wof:lastmodified":1449026592,
+    "wof:lastmodified":1466289465,
     "wof:name":"Euroservizi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.718262,42.869179,13.718262,42.869179],
+  "bbox": [
+    13.718262,
+    42.869179,
+    13.718262,
+    42.869179
+],
   "geometry": {"coordinates":[13.718262,42.869179],"type":"Point"}
 }

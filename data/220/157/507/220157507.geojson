@@ -2,13 +2,14 @@
   "id": 220157507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.287224,45.427654,9.287224,45.427654",
     "geom:latitude":45.427654,
     "geom:longitude":9.287224,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Via Tobagi Walter 20068 Peschiera Borromeo",
     "sg:city":"Peschiera Borromeo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220157507,
-    "wof:lastmodified":1449074761,
+    "wof:lastmodified":1466289137,
     "wof:name":"Centro Software Srl",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "technology"
     ]
 },
-  "bbox": [9.287224,45.427654,9.287224,45.427654],
+  "bbox": [
+    9.287224,
+    45.427654,
+    9.287224,
+    45.427654
+],
   "geometry": {"coordinates":[9.287224,45.427654],"type":"Point"}
 }

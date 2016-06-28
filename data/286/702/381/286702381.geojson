@@ -2,13 +2,14 @@
   "id": 286702381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.622079,38.04187,12.622079,38.04187",
     "geom:latitude":38.04187,
     "geom:longitude":12.622079,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"152, Via Vespri 91019 Valderice",
     "sg:city":"Valderice",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286702381,
-    "wof:lastmodified":1449016653,
+    "wof:lastmodified":1466295238,
     "wof:name":"Impresa Di Costruzioni Coppola Tommaso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [12.622079,38.04187,12.622079,38.04187],
+  "bbox": [
+    12.622079,
+    38.04187,
+    12.622079,
+    38.04187
+],
   "geometry": {"coordinates":[12.622079,38.04187],"type":"Point"}
 }

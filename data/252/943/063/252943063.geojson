@@ -2,13 +2,14 @@
   "id": 252943063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.480377,41.821827,12.480377,41.821827",
     "geom:latitude":41.821827,
     "geom:longitude":12.480377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00143 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252943063,
-    "wof:lastmodified":1449005708,
+    "wof:lastmodified":1466291471,
     "wof:name":"Clinica Veterinaria Pensione Laurentina",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.480377,41.821827,12.480377,41.821827],
+  "bbox": [
+    12.480377,
+    41.821827,
+    12.480377,
+    41.821827
+],
   "geometry": {"coordinates":[12.480377,41.821827],"type":"Point"}
 }

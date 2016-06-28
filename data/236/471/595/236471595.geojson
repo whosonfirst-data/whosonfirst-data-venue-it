@@ -2,13 +2,14 @@
   "id": 236471595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.49785,45.312878,9.49785,45.312878",
     "geom:latitude":45.312878,
     "geom:longitude":9.49785,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Priv. Santa Rosa 3b 26816 Ossago",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236471595,
-    "wof:lastmodified":1449002888,
+    "wof:lastmodified":1466293740,
     "wof:name":"Ite Industrial Technical Equipment Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "high-pressure"
     ]
 },
-  "bbox": [9.49785,45.312878,9.49785,45.312878],
+  "bbox": [
+    9.49785,
+    45.312878,
+    9.49785,
+    45.312878
+],
   "geometry": {"coordinates":[9.49785,45.312878],"type":"Point"}
 }

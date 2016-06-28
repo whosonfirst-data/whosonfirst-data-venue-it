@@ -2,13 +2,14 @@
   "id": 202532433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.622888,41.707462,12.622888,41.707462",
     "geom:latitude":41.707462,
     "geom:longitude":12.622888,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00172 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202532433,
-    "wof:lastmodified":1449060967,
+    "wof:lastmodified":1466289274,
     "wof:name":"F.lli Marinelli Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.622888,41.707462,12.622888,41.707462],
+  "bbox": [
+    12.622888,
+    41.707462,
+    12.622888,
+    41.707462
+],
   "geometry": {"coordinates":[12.622888,41.707462],"type":"Point"}
 }

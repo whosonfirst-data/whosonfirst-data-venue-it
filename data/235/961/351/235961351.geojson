@@ -2,13 +2,14 @@
   "id": 235961351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.830617,45.487606,7.830617,45.487606",
     "geom:latitude":45.487606,
     "geom:longitude":7.830617,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Torino 10080 Bosconero",
     "sg:city":"Bosconero",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":235961351,
-    "wof:lastmodified":1449008598,
+    "wof:lastmodified":1466295282,
     "wof:name":"Caseificio Longo (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [7.830617,45.487606,7.830617,45.487606],
+  "bbox": [
+    7.830617,
+    45.487606,
+    7.830617,
+    45.487606
+],
   "geometry": {"coordinates":[7.830617,45.487606],"type":"Point"}
 }

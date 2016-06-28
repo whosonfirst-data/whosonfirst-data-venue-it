@@ -2,13 +2,14 @@
   "id": 269841641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.427772,45.194279,10.427772,45.194279",
     "geom:latitude":45.194279,
     "geom:longitude":10.427772,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Via Parma 46041 Asola",
     "sg:city":"Asola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269841641,
-    "wof:lastmodified":1449036655,
+    "wof:lastmodified":1466293504,
     "wof:name":"Mutti Amos Macchine Agricole Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.427772,45.194279,10.427772,45.194279],
+  "bbox": [
+    10.427772,
+    45.194279,
+    10.427772,
+    45.194279
+],
   "geometry": {"coordinates":[10.427772,45.194279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.763013,45.144234,7.763013,45.144234",
     "geom:latitude":45.144234,
     "geom:longitude":7.763013,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10036 Settimo Torinese",
     "sg:city":"Settimo Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203100825,
-    "wof:lastmodified":1449026365,
+    "wof:lastmodified":1466296350,
     "wof:name":"Piotto Gino",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.763013,45.144234,7.763013,45.144234],
+  "bbox": [
+    7.763013,
+    45.144234,
+    7.763013,
+    45.144234
+],
   "geometry": {"coordinates":[7.763013,45.144234],"type":"Point"}
 }

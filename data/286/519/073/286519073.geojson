@@ -2,13 +2,14 @@
   "id": 286519073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.838582,45.658928,8.838582,45.658928",
     "geom:latitude":45.658928,
     "geom:longitude":8.838582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Marche 21012 Cassano Magnago",
     "sg:city":"Cassano Magnago",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286519073,
-    "wof:lastmodified":1449017893,
+    "wof:lastmodified":1466292935,
     "wof:name":"Gibel Di Giacomuzzo Lucia E Daniela (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.838582,45.658928,8.838582,45.658928],
+  "bbox": [
+    8.838582,
+    45.658928,
+    8.838582,
+    45.658928
+],
   "geometry": {"coordinates":[8.838582,45.658928],"type":"Point"}
 }

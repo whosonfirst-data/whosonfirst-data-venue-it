@@ -2,13 +2,14 @@
   "id": 287255595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.993609,44.241138,11.993609,44.241138",
     "geom:latitude":44.241138,
     "geom:longitude":11.993609,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V.le Bologna 298 47100 Forli'",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":287255595,
-    "wof:lastmodified":1449001059,
+    "wof:lastmodified":1466292999,
     "wof:name":"Electrolux Zanussi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnace"
     ]
 },
-  "bbox": [11.993609,44.241138,11.993609,44.241138],
+  "bbox": [
+    11.993609,
+    44.241138,
+    11.993609,
+    44.241138
+],
   "geometry": {"coordinates":[11.993609,44.241138],"type":"Point"}
 }

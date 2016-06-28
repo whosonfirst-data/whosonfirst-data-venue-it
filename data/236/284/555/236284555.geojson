@@ -2,13 +2,14 @@
   "id": 236284555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.573589,45.062363,7.573589,45.062363",
     "geom:latitude":45.062363,
     "geom:longitude":7.573589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10123 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236284555,
-    "wof:lastmodified":1449003749,
+    "wof:lastmodified":1466291781,
     "wof:name":"De Carlo Achille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.573589,45.062363,7.573589,45.062363],
+  "bbox": [
+    7.573589,
+    45.062363,
+    7.573589,
+    45.062363
+],
   "geometry": {"coordinates":[7.573589,45.062363],"type":"Point"}
 }

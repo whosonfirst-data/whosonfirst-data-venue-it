@@ -2,13 +2,14 @@
   "id": 219904667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.65029,44.871227,9.65029,44.871227",
     "geom:latitude":44.871227,
     "geom:longitude":9.65029,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29028 Ponte Dell'olio",
     "sg:classifiers":[],
     "sg:orig_category":"Impiantistica E Prodotti Tecnologici Per Edilizia",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219904667,
-    "wof:lastmodified":1449074010,
+    "wof:lastmodified":1466295343,
     "wof:name":"So.ge.mi. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.65029,44.871227,9.65029,44.871227],
+  "bbox": [
+    9.65029,
+    44.871227,
+    9.65029,
+    44.871227
+],
   "geometry": {"coordinates":[9.65029,44.871227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219272347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.540307,45.545906,11.540307,45.545906",
     "geom:latitude":45.545906,
     "geom:longitude":11.540307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via F. Crispi, 16/18 - Stroppari 36056 Tezze Sul Brenta",
     "sg:city":"Tezze sul Brenta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219272347,
-    "wof:lastmodified":1449073663,
+    "wof:lastmodified":1466289018,
     "wof:name":"Sipa S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "item"
     ]
 },
-  "bbox": [11.540307,45.545906,11.540307,45.545906],
+  "bbox": [
+    11.540307,
+    45.545906,
+    11.540307,
+    45.545906
+],
   "geometry": {"coordinates":[11.540307,45.545906],"type":"Point"}
 }

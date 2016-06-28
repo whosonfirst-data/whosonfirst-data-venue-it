@@ -2,13 +2,14 @@
   "id": 220097107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.672542,45.134933,7.672542,45.134933",
     "geom:latitude":45.134933,
     "geom:longitude":7.672542,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70, Strada Del Francese 10156 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220097107,
-    "wof:lastmodified":1449074348,
+    "wof:lastmodified":1466295909,
     "wof:name":"F.o.r.m.a. (s.r.l.)",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [7.672542,45.134933,7.672542,45.134933],
+  "bbox": [
+    7.672542,
+    45.134933,
+    7.672542,
+    45.134933
+],
   "geometry": {"coordinates":[7.672542,45.134933],"type":"Point"}
 }

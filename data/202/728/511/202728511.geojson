@@ -2,13 +2,14 @@
   "id": 202728511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.781174,41.130447,14.781174,41.130447",
     "geom:latitude":41.130447,
     "geom:longitude":14.781174,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82029 S. Marco Dei Cavoti",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Ausiliari Di Certificati, Riproduzioni, Disegni E Foto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202728511,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466291366,
     "wof:name":"Monter Cartografia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.781174,41.130447,14.781174,41.130447],
+  "bbox": [
+    14.781174,
+    41.130447,
+    14.781174,
+    41.130447
+],
   "geometry": {"coordinates":[14.781174,41.130447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286557277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.224182,46.106842,13.224182,46.106842",
     "geom:latitude":46.106842,
     "geom:longitude":13.224182,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"49, Via Fermi Enrico 33010 Tavagnacco",
     "sg:city":"Tavagnacco",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286557277,
-    "wof:lastmodified":1449017284,
+    "wof:lastmodified":1466293397,
     "wof:name":"Marchiol L. & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [13.224182,46.106842,13.224182,46.106842],
+  "bbox": [
+    13.224182,
+    46.106842,
+    13.224182,
+    46.106842
+],
   "geometry": {"coordinates":[13.224182,46.106842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252896005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.984325,45.568859,7.984325,45.568859",
     "geom:latitude":45.568859,
     "geom:longitude":7.984325,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13881 Cavagli\u00e0",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Sportivo, Jeans E Casuals - Vendita Al Dettaglio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252896005,
-    "wof:lastmodified":1449005807,
+    "wof:lastmodified":1466290985,
     "wof:name":"Equitando Di Paola Guerisoli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.984325,45.568859,7.984325,45.568859],
+  "bbox": [
+    7.984325,
+    45.568859,
+    7.984325,
+    45.568859
+],
   "geometry": {"coordinates":[7.984325,45.568859],"type":"Point"}
 }

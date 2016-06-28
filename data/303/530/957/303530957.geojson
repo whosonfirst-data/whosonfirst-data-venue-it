@@ -2,13 +2,14 @@
   "id": 303530957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.736426,45.046082,9.736426,45.046082",
     "geom:latitude":45.046082,
     "geom:longitude":9.736426,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303530957,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466296773,
     "wof:name":"C.c.r. Medical Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.736426,45.046082,9.736426,45.046082],
+  "bbox": [
+    9.736426,
+    45.046082,
+    9.736426,
+    45.046082
+],
   "geometry": {"coordinates":[9.736426,45.046082],"type":"Point"}
 }

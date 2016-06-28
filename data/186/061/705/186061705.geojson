@@ -2,13 +2,14 @@
   "id": 186061705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.212018,45.481377,9.212018,45.481377",
     "geom:latitude":45.481377,
     "geom:longitude":9.212018,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Buenos Aires 54; Milano; 20124",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186061705,
-    "wof:lastmodified":1449052297,
+    "wof:lastmodified":1466295320,
     "wof:name":"Credit Lyonnais Sa",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.212018,45.481377,9.212018,45.481377],
+  "bbox": [
+    9.212018,
+    45.481377,
+    9.212018,
+    45.481377
+],
   "geometry": {"coordinates":[9.212018,45.481377],"type":"Point"}
 }

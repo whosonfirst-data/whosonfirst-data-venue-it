@@ -2,13 +2,14 @@
   "id": 270045763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.177958,45.47065,10.177958,45.47065",
     "geom:latitude":45.47065,
     "geom:longitude":10.177958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25020 Flero",
     "sg:city":"Flero",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270045763,
-    "wof:lastmodified":1449010808,
+    "wof:lastmodified":1466289538,
     "wof:name":"Tubisteel Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.177958,45.47065,10.177958,45.47065],
+  "bbox": [
+    10.177958,
+    45.47065,
+    10.177958,
+    45.47065
+],
   "geometry": {"coordinates":[10.177958,45.47065],"type":"Point"}
 }

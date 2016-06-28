@@ -2,13 +2,14 @@
   "id": 186426665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.884703,43.894688,12.884703,43.894688",
     "geom:latitude":43.894688,
     "geom:longitude":12.884703,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Borgheria 43 61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186426665,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466291600,
     "wof:name":"Mobili D'angeli Di D'angeli Giorgio & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelf"
     ]
 },
-  "bbox": [12.884703,43.894688,12.884703,43.894688],
+  "bbox": [
+    12.884703,
+    43.894688,
+    12.884703,
+    43.894688
+],
   "geometry": {"coordinates":[12.884703,43.894688],"type":"Point"}
 }

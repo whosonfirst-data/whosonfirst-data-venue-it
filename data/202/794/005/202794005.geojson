@@ -2,13 +2,14 @@
   "id": 202794005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.269097,44.27594,11.269097,44.27594",
     "geom:latitude":44.27594,
     "geom:longitude":11.269097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40036 Monzuno",
     "sg:city":"Monzuno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202794005,
-    "wof:lastmodified":1449061349,
+    "wof:lastmodified":1466292125,
     "wof:name":"Scommessa S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "il"
     ]
 },
-  "bbox": [11.269097,44.27594,11.269097,44.27594],
+  "bbox": [
+    11.269097,
+    44.27594,
+    11.269097,
+    44.27594
+],
   "geometry": {"coordinates":[11.269097,44.27594],"type":"Point"}
 }

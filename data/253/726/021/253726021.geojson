@@ -2,13 +2,14 @@
   "id": 253726021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.590145,43.522331,11.590145,43.522331",
     "geom:latitude":43.522331,
     "geom:longitude":11.590145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Campagna 52025 Montevarchi",
     "sg:city":"Montevarchi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253726021,
-    "wof:lastmodified":1449064872,
+    "wof:lastmodified":1466296840,
     "wof:name":"Pelinf S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [11.590145,43.522331,11.590145,43.522331],
+  "bbox": [
+    11.590145,
+    43.522331,
+    11.590145,
+    43.522331
+],
   "geometry": {"coordinates":[11.590145,43.522331],"type":"Point"}
 }

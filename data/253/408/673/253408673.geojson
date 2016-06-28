@@ -2,13 +2,14 @@
   "id": 253408673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.321991,44.103184,12.321991,44.103184",
     "geom:latitude":44.103184,
     "geom:longitude":12.321991,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2222, Via Giardini 47020 Longiano",
     "sg:city":"Longiano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253408673,
-    "wof:lastmodified":1449063189,
+    "wof:lastmodified":1466293500,
     "wof:name":"Ventrucci Antonio Giancarlo & Cesare (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.321991,44.103184,12.321991,44.103184],
+  "bbox": [
+    12.321991,
+    44.103184,
+    12.321991,
+    44.103184
+],
   "geometry": {"coordinates":[12.321991,44.103184],"type":"Point"}
 }

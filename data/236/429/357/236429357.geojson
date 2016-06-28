@@ -2,13 +2,14 @@
   "id": 236429357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.445499,46.488911,12.445499,46.488911",
     "geom:latitude":46.488911,
     "geom:longitude":12.445499,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Loreto 32040 Lozzo Di Cadore",
     "sg:city":"Lozzo di Cadore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236429357,
-    "wof:lastmodified":1449005040,
+    "wof:lastmodified":1466293284,
     "wof:name":"Occhialeria Martini S.n.c. Di Martini Dario & Zampol Nadia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [12.445499,46.488911,12.445499,46.488911],
+  "bbox": [
+    12.445499,
+    46.488911,
+    12.445499,
+    46.488911
+],
   "geometry": {"coordinates":[12.445499,46.488911],"type":"Point"}
 }

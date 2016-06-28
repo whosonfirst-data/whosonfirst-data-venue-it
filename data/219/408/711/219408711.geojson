@@ -2,13 +2,14 @@
   "id": 219408711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.284445,41.622559,13.284445,41.622559",
     "geom:latitude":41.622559,
     "geom:longitude":13.284445,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03100 Frosinone",
     "sg:city":"Frosinone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219408711,
-    "wof:lastmodified":1449070829,
+    "wof:lastmodified":1466290423,
     "wof:name":"Savitrans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [13.284445,41.622559,13.284445,41.622559],
+  "bbox": [
+    13.284445,
+    41.622559,
+    13.284445,
+    41.622559
+],
   "geometry": {"coordinates":[13.284445,41.622559],"type":"Point"}
 }

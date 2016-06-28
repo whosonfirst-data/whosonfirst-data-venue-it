@@ -2,13 +2,14 @@
   "id": 286291261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.264124,46.276997,10.264124,46.276997",
     "geom:latitude":46.276997,
     "geom:longitude":10.264124,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nuova Provinciale 23034 Grosotto",
     "sg:city":"Grosotto",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286291261,
-    "wof:lastmodified":1449016092,
+    "wof:lastmodified":1466289822,
     "wof:name":"Bieffe Medital S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [10.264124,46.276997,10.264124,46.276997],
+  "bbox": [
+    10.264124,
+    46.276997,
+    10.264124,
+    46.276997
+],
   "geometry": {"coordinates":[10.264124,46.276997],"type":"Point"}
 }

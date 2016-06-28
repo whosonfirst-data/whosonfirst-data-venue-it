@@ -2,13 +2,14 @@
   "id": 236572645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.08074,45.871754,12.08074,45.871754",
     "geom:latitude":45.871754,
     "geom:longitude":12.08074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Via Aldo Moro 31010 Moriago Della Battaglia",
     "sg:city":"Moriago della Battaglia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236572645,
-    "wof:lastmodified":1449003713,
+    "wof:lastmodified":1466294769,
     "wof:name":"Doimo Arredamenti S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.08074,45.871754,12.08074,45.871754],
+  "bbox": [
+    12.08074,
+    45.871754,
+    12.08074,
+    45.871754
+],
   "geometry": {"coordinates":[12.08074,45.871754],"type":"Point"}
 }

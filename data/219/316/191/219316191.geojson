@@ -2,13 +2,14 @@
   "id": 219316191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.300652,40.839119,14.300652,40.839119",
     "geom:latitude":40.839119,
     "geom:longitude":14.300652,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80146 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219316191,
-    "wof:lastmodified":1449072779,
+    "wof:lastmodified":1466289467,
     "wof:name":"Franzosini Sud Srl",
     "wof:parent_id":85904823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.300652,40.839119,14.300652,40.839119],
+  "bbox": [
+    14.300652,
+    40.839119,
+    14.300652,
+    40.839119
+],
   "geometry": {"coordinates":[14.300652,40.839119],"type":"Point"}
 }

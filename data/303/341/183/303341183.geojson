@@ -2,13 +2,14 @@
   "id": 303341183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.688257,40.363987,16.688257,40.363987",
     "geom:latitude":40.363987,
     "geom:longitude":16.688257,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"75015 Marconia",
     "sg:classifiers":[],
     "sg:orig_category":"Analisi Chimiche, Industriali E Merceologiche",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303341183,
-    "wof:lastmodified":1449000460,
+    "wof:lastmodified":1466294736,
     "wof:name":"S.c.a. Snc Servizi Consulenze Analisi Ambientali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.688257,40.363987,16.688257,40.363987],
+  "bbox": [
+    16.688257,
+    40.363987,
+    16.688257,
+    40.363987
+],
   "geometry": {"coordinates":[16.688257,40.363987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286882571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.641707,45.702251,8.641707,45.702251",
     "geom:latitude":45.702251,
     "geom:longitude":8.641707,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28053 Castelletto Sopra Ticino",
     "sg:city":"Castelletto sopra Ticino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286882571,
-    "wof:lastmodified":1449015687,
+    "wof:lastmodified":1466297198,
     "wof:name":"Imit S P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.641707,45.702251,8.641707,45.702251],
+  "bbox": [
+    8.641707,
+    45.702251,
+    8.641707,
+    45.702251
+],
   "geometry": {"coordinates":[8.641707,45.702251],"type":"Point"}
 }

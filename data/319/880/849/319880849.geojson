@@ -2,13 +2,14 @@
   "id": 319880849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.141427,45.448433,9.141427,45.448433",
     "geom:latitude":45.448433,
     "geom:longitude":9.141427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20146 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":319880849,
-    "wof:lastmodified":1449024880,
+    "wof:lastmodified":1466293286,
     "wof:name":"Data Italia 2000 Srl",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.141427,45.448433,9.141427,45.448433],
+  "bbox": [
+    9.141427,
+    45.448433,
+    9.141427,
+    45.448433
+],
   "geometry": {"coordinates":[9.141427,45.448433],"type":"Point"}
 }

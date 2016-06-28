@@ -2,13 +2,14 @@
   "id": 219763927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.39724,41.039284,14.39724,41.039284",
     "geom:latitude":41.039284,
     "geom:longitude":14.39724,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"275, V. Ponte Carolino 81024 Maddalena",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219763927,
-    "wof:lastmodified":1449073902,
+    "wof:lastmodified":1466293918,
     "wof:name":"Onoranze Funebri San Michele Dei F.lli Vanacore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [14.39724,41.039284,14.39724,41.039284],
+  "bbox": [
+    14.39724,
+    41.039284,
+    14.39724,
+    41.039284
+],
   "geometry": {"coordinates":[14.39724,41.039284],"type":"Point"}
 }

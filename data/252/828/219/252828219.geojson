@@ -2,13 +2,14 @@
   "id": 252828219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.075019,42.873909,11.075019,42.873909",
     "geom:latitude":42.873909,
     "geom:longitude":11.075019,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58035 Grosseto",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Esterno, Maglierie E Pelliccerie. Shopping",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":252828219,
-    "wof:lastmodified":1449005977,
+    "wof:lastmodified":1466290268,
     "wof:name":"Magazzini Pino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.075019,42.873909,11.075019,42.873909],
+  "bbox": [
+    11.075019,
+    42.873909,
+    11.075019,
+    42.873909
+],
   "geometry": {"coordinates":[11.075019,42.873909],"type":"Point"}
 }

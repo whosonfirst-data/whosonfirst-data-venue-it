@@ -2,13 +2,14 @@
   "id": 269518175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.802082,43.870869,10.802082,43.870869",
     "geom:latitude":43.870869,
     "geom:longitude":10.802082,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Tevere 51018 Pieve A Nievole",
     "sg:city":"Pieve a Nievole",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269518175,
-    "wof:lastmodified":1449037486,
+    "wof:lastmodified":1466289347,
     "wof:name":"Calzaturificio Due Enne & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.802082,43.870869,10.802082,43.870869],
+  "bbox": [
+    10.802082,
+    43.870869,
+    10.802082,
+    43.870869
+],
   "geometry": {"coordinates":[10.802082,43.870869],"type":"Point"}
 }

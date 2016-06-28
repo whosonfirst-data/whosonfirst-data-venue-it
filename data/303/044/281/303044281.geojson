@@ -2,13 +2,14 @@
   "id": 303044281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.086339,45.538166,9.086339,45.538166",
     "geom:latitude":45.538166,
     "geom:longitude":9.086339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15/2, Viale Delle Industrie 20020 Arese",
     "sg:city":"Arese",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303044281,
-    "wof:lastmodified":1448999394,
+    "wof:lastmodified":1466290904,
     "wof:name":"Silpi Di Martini Pietro",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.086339,45.538166,9.086339,45.538166],
+  "bbox": [
+    9.086339,
+    45.538166,
+    9.086339,
+    45.538166
+],
   "geometry": {"coordinates":[9.086339,45.538166],"type":"Point"}
 }

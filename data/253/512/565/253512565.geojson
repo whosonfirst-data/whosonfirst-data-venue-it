@@ -2,13 +2,14 @@
   "id": 253512565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.620119,41.83416,12.620119,41.83416",
     "geom:latitude":41.83416,
     "geom:longitude":12.620119,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00133 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253512565,
-    "wof:lastmodified":1449064980,
+    "wof:lastmodified":1466294787,
     "wof:name":"Di.fa. Snc",
     "wof:parent_id":85906291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.620119,41.83416,12.620119,41.83416],
+  "bbox": [
+    12.620119,
+    41.83416,
+    12.620119,
+    41.83416
+],
   "geometry": {"coordinates":[12.620119,41.83416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320026467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.663363,45.691975,9.663363,45.691975",
     "geom:latitude":45.691975,
     "geom:longitude":9.663363,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24060 Castelli Calepio",
     "sg:city":"Castelli Calepio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320026467,
-    "wof:lastmodified":1449013461,
+    "wof:lastmodified":1466293713,
     "wof:name":"Max Color Srl",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.663363,45.691975,9.663363,45.691975],
+  "bbox": [
+    9.663363,
+    45.691975,
+    9.663363,
+    45.691975
+],
   "geometry": {"coordinates":[9.663363,45.691975],"type":"Point"}
 }

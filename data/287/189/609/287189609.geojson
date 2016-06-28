@@ -2,13 +2,14 @@
   "id": 287189609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.724169,44.771805,8.724169,44.771805",
     "geom:latitude":44.771805,
     "geom:longitude":8.724169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Str. Del Corriere 27 15060 Basaluzzo",
     "sg:city":"Basaluzzo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287189609,
-    "wof:lastmodified":1449001303,
+    "wof:lastmodified":1466292110,
     "wof:name":"Italvalv Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "flap"
     ]
 },
-  "bbox": [8.724169,44.771805,8.724169,44.771805],
+  "bbox": [
+    8.724169,
+    44.771805,
+    8.724169,
+    44.771805
+],
   "geometry": {"coordinates":[8.724169,44.771805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169763177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.476811,41.899761,12.476811,41.899761",
     "geom:latitude":41.899761,
     "geom:longitude":12.476811,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169763177,
-    "wof:lastmodified":1449035957,
+    "wof:lastmodified":1466295490,
     "wof:name":"National Services Di Alessia Veneziani E Co. Sas",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.476811,41.899761,12.476811,41.899761],
+  "bbox": [
+    12.476811,
+    41.899761,
+    12.476811,
+    41.899761
+],
   "geometry": {"coordinates":[12.476811,41.899761],"type":"Point"}
 }

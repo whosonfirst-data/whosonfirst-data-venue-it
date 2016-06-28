@@ -2,13 +2,14 @@
   "id": 185836745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.182389,45.452152,9.182389,45.452152",
     "geom:latitude":45.452152,
     "geom:longitude":9.182389,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Col Di Lana 6; Milano; 20136",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185836745,
-    "wof:lastmodified":1449007665,
+    "wof:lastmodified":1466289517,
     "wof:name":"Banca Popolare Vicentina Scparl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.182389,45.452152,9.182389,45.452152],
+  "bbox": [
+    9.182389,
+    45.452152,
+    9.182389,
+    45.452152
+],
   "geometry": {"coordinates":[9.182389,45.452152],"type":"Point"}
 }

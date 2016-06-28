@@ -2,13 +2,14 @@
   "id": 219561207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.99813,43.269222,11.99813,43.269222",
     "geom:latitude":43.269222,
     "geom:longitude":11.99813,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52044 Cortona",
     "sg:city":"Cortona",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219561207,
-    "wof:lastmodified":1449072902,
+    "wof:lastmodified":1466291936,
     "wof:name":"Hotel Oasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "restaurants"
     ]
 },
-  "bbox": [11.99813,43.269222,11.99813,43.269222],
+  "bbox": [
+    11.99813,
+    43.269222,
+    11.99813,
+    43.269222
+],
   "geometry": {"coordinates":[11.99813,43.269222],"type":"Point"}
 }

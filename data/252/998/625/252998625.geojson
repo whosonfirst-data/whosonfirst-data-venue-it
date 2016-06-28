@@ -2,13 +2,14 @@
   "id": 252998625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.567193,45.582394,11.567193,45.582394",
     "geom:latitude":45.582394,
     "geom:longitude":11.567193,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Trento 36010 Monticello Conte Otto",
     "sg:city":"Monticello Conte Otto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252998625,
-    "wof:lastmodified":1449005762,
+    "wof:lastmodified":1466292043,
     "wof:name":"Ronco S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.567193,45.582394,11.567193,45.582394],
+  "bbox": [
+    11.567193,
+    45.582394,
+    11.567193,
+    45.582394
+],
   "geometry": {"coordinates":[11.567193,45.582394],"type":"Point"}
 }

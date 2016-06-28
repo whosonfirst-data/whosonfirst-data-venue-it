@@ -2,13 +2,14 @@
   "id": 185636087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.787271,40.573265,15.787271,40.573265",
     "geom:latitude":40.573265,
     "geom:longitude":15.787271,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G Garibaldi 27, 85010 Pignola, Pz",
     "sg:city":"Pignola",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185636087,
-    "wof:lastmodified":1449007257,
+    "wof:lastmodified":1466294569,
     "wof:name":"Banca Di Credito Cooperativo Del Medio Potentino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.787271,40.573265,15.787271,40.573265],
+  "bbox": [
+    15.787271,
+    40.573265,
+    15.787271,
+    40.573265
+],
   "geometry": {"coordinates":[15.787271,40.573265],"type":"Point"}
 }

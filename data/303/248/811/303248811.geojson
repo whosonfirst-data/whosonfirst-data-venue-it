@@ -2,13 +2,14 @@
   "id": 303248811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.154798,44.490753,11.154798,44.490753",
     "geom:latitude":44.490753,
     "geom:longitude":11.154798,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Giuseppe Venturi 40050 Monte San Pietro",
     "sg:city":"Monte San Pietro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303248811,
-    "wof:lastmodified":1448999462,
+    "wof:lastmodified":1466293596,
     "wof:name":"Nifo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [11.154798,44.490753,11.154798,44.490753],
+  "bbox": [
+    11.154798,
+    44.490753,
+    11.154798,
+    44.490753
+],
   "geometry": {"coordinates":[11.154798,44.490753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219415781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.529894,43.617977,13.529894,43.617977",
     "geom:latitude":43.617977,
     "geom:longitude":13.529894,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60123 Ancona",
     "sg:city":"Ancona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219415781,
-    "wof:lastmodified":1449072943,
+    "wof:lastmodified":1466290495,
     "wof:name":"Geomarke Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.529894,43.617977,13.529894,43.617977],
+  "bbox": [
+    13.529894,
+    43.617977,
+    13.529894,
+    43.617977
+],
   "geometry": {"coordinates":[13.529894,43.617977],"type":"Point"}
 }

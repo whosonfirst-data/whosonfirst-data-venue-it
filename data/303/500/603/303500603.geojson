@@ -2,13 +2,14 @@
   "id": 303500603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.070113,45.418983,9.070113,45.418983",
     "geom:latitude":45.418983,
     "geom:longitude":9.070113,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303500603,
-    "wof:lastmodified":1448998725,
+    "wof:lastmodified":1466296453,
     "wof:name":"F.d. Europe Equipment Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.070113,45.418983,9.070113,45.418983],
+  "bbox": [
+    9.070113,
+    45.418983,
+    9.070113,
+    45.418983
+],
   "geometry": {"coordinates":[9.070113,45.418983],"type":"Point"}
 }

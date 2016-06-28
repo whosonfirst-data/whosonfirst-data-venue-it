@@ -2,13 +2,14 @@
   "id": 269976055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.853994,45.880333,10.853994,45.880333",
     "geom:latitude":45.880333,
     "geom:longitude":10.853994,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38066 Riva Del Garda",
     "sg:city":"Riva del Garda",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269976055,
-    "wof:lastmodified":1449037122,
+    "wof:lastmodified":1466294983,
     "wof:name":"Hotel Bellariva",
     "wof:parent_id":85900359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.853994,45.880333,10.853994,45.880333],
+  "bbox": [
+    10.853994,
+    45.880333,
+    10.853994,
+    45.880333
+],
   "geometry": {"coordinates":[10.853994,45.880333],"type":"Point"}
 }

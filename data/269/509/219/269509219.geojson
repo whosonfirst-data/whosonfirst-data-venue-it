@@ -2,13 +2,14 @@
   "id": 269509219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.596569,43.908237,10.596569,43.908237",
     "geom:latitude":43.908237,
     "geom:longitude":10.596569,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"173, Via Per Segromigno 55012 Capannori",
     "sg:city":"Capannori",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269509219,
-    "wof:lastmodified":1449036227,
+    "wof:lastmodified":1466289245,
     "wof:name":"Bacus Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.596569,43.908237,10.596569,43.908237],
+  "bbox": [
+    10.596569,
+    43.908237,
+    10.596569,
+    43.908237
+],
   "geometry": {"coordinates":[10.596569,43.908237],"type":"Point"}
 }

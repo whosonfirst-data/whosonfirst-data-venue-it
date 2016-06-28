@@ -2,13 +2,14 @@
   "id": 286517359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.774745,45.56237,8.774745,45.56237",
     "geom:latitude":45.56237,
     "geom:longitude":8.774745,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Don Minzoni 20022 Castano Primo",
     "sg:city":"Castano Primo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286517359,
-    "wof:lastmodified":1449016863,
+    "wof:lastmodified":1466292915,
     "wof:name":"Gazzaniga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.774745,45.56237,8.774745,45.56237],
+  "bbox": [
+    8.774745,
+    45.56237,
+    8.774745,
+    45.56237
+],
   "geometry": {"coordinates":[8.774745,45.56237],"type":"Point"}
 }

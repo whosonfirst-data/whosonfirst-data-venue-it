@@ -2,13 +2,14 @@
   "id": 186501031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.203226,45.482468,9.203226,45.482468",
     "geom:latitude":45.482468,
     "geom:longitude":9.203226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"77, Via Lattanzio 20137 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186501031,
-    "wof:lastmodified":1449053048,
+    "wof:lastmodified":1466292285,
     "wof:name":"Rossari E Associati S.a.s. Di Ambrogio Rossari & C.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [9.203226,45.482468,9.203226,45.482468],
+  "bbox": [
+    9.203226,
+    45.482468,
+    9.203226,
+    45.482468
+],
   "geometry": {"coordinates":[9.203226,45.482468],"type":"Point"}
 }

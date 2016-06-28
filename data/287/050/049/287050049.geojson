@@ -2,13 +2,14 @@
   "id": 287050049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.851196,44.57896,10.851196,44.57896",
     "geom:latitude":44.57896,
     "geom:longitude":10.851196,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41043 Formigine",
     "sg:city":"Formigine",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287050049,
-    "wof:lastmodified":1449001161,
+    "wof:lastmodified":1466290215,
     "wof:name":"Malib\u00d9 Viaggi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourist"
     ]
 },
-  "bbox": [10.851196,44.57896,10.851196,44.57896],
+  "bbox": [
+    10.851196,
+    44.57896,
+    10.851196,
+    44.57896
+],
   "geometry": {"coordinates":[10.851196,44.57896],"type":"Point"}
 }

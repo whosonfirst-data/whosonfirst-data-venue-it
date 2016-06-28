@@ -2,13 +2,14 @@
   "id": 236878275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.53619,43.588619,11.53619,43.588619",
     "geom:latitude":43.588619,
     "geom:longitude":11.53619,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Botriolo 52020 Castelfranco Di Sopra",
     "sg:city":"Castelfranco di Sopra",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236878275,
-    "wof:lastmodified":1449003365,
+    "wof:lastmodified":1466296973,
     "wof:name":"Cristalleria Etruria (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.53619,43.588619,11.53619,43.588619],
+  "bbox": [
+    11.53619,
+    43.588619,
+    11.53619,
+    43.588619
+],
   "geometry": {"coordinates":[11.53619,43.588619],"type":"Point"}
 }

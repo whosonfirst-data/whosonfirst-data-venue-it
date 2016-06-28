@@ -2,13 +2,14 @@
   "id": 236046235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.865967,44.119835,9.865967,44.119835",
     "geom:latitude":44.119835,
     "geom:longitude":9.865967,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19030 Castelnuovo Magra",
     "sg:classifiers":[],
     "sg:orig_category":"Distributors: Automatici - Commercio E Gestione",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236046235,
-    "wof:lastmodified":1449003492,
+    "wof:lastmodified":1466289360,
     "wof:name":"Caff\u00c8 Service Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.865967,44.119835,9.865967,44.119835],
+  "bbox": [
+    9.865967,
+    44.119835,
+    9.865967,
+    44.119835
+],
   "geometry": {"coordinates":[9.865967,44.119835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286773011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.166626,40.858978,14.166626,40.858978",
     "geom:latitude":40.858978,
     "geom:longitude":14.166626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80133 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286773011,
-    "wof:lastmodified":1449015546,
+    "wof:lastmodified":1466296143,
     "wof:name":"Ente Autonomo Teatro San Carlo",
     "wof:parent_id":85900411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.166626,40.858978,14.166626,40.858978],
+  "bbox": [
+    14.166626,
+    40.858978,
+    14.166626,
+    40.858978
+],
   "geometry": {"coordinates":[14.166626,40.858978],"type":"Point"}
 }

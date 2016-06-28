@@ -2,13 +2,14 @@
   "id": 253168007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.805547,41.550507,15.805547,41.550507",
     "geom:latitude":41.550507,
     "geom:longitude":15.805547,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71043 Manfredonia",
     "sg:city":"Manfredonia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253168007,
-    "wof:lastmodified":1449064369,
+    "wof:lastmodified":1466290668,
     "wof:name":"Cooperativa Delimar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.805547,41.550507,15.805547,41.550507],
+  "bbox": [
+    15.805547,
+    41.550507,
+    15.805547,
+    41.550507
+],
   "geometry": {"coordinates":[15.805547,41.550507],"type":"Point"}
 }

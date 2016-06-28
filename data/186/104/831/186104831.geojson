@@ -2,13 +2,14 @@
   "id": 186104831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.942962,44.410309,8.942962,44.410309",
     "geom:latitude":44.410309,
     "geom:longitude":8.942962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Peschiera 16, 16122 Genoa, Ge",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186104831,
-    "wof:lastmodified":1449051484,
+    "wof:lastmodified":1466296103,
     "wof:name":"Finanziaria Ligure Per Lo Sviluppo Economico (filse) Spa",
     "wof:parent_id":85796843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.942962,44.410309,8.942962,44.410309],
+  "bbox": [
+    8.942962,
+    44.410309,
+    8.942962,
+    44.410309
+],
   "geometry": {"coordinates":[8.942962,44.410309],"type":"Point"}
 }

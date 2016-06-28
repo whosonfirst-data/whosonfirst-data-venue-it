@@ -2,13 +2,14 @@
   "id": 303800261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.458517,41.90699,12.458517,41.90699",
     "geom:latitude":41.90699,
     "geom:longitude":12.458517,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00192 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303800261,
-    "wof:lastmodified":1448998311,
+    "wof:lastmodified":1466297716,
     "wof:name":"Mattia Clementina",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.458517,41.90699,12.458517,41.90699],
+  "bbox": [
+    12.458517,
+    41.90699,
+    12.458517,
+    41.90699
+],
   "geometry": {"coordinates":[12.458517,41.90699],"type":"Point"}
 }

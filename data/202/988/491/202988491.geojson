@@ -2,13 +2,14 @@
   "id": 202988491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.813856,45.517479,11.813856,45.517479",
     "geom:latitude":45.517479,
     "geom:longitude":11.813856,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35016 Piazzola Sul Brenta",
     "sg:city":"Piazzola sul Brenta",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202988491,
-    "wof:lastmodified":1449060982,
+    "wof:lastmodified":1466294058,
     "wof:name":"Ranzato Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.813856,45.517479,11.813856,45.517479],
+  "bbox": [
+    11.813856,
+    45.517479,
+    11.813856,
+    45.517479
+],
   "geometry": {"coordinates":[11.813856,45.517479],"type":"Point"}
 }

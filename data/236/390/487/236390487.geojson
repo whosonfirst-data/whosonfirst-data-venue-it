@@ -2,13 +2,14 @@
   "id": 236390487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.210803,45.681339,12.210803,45.681339",
     "geom:latitude":45.681339,
     "geom:longitude":12.210803,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31100 Treviso",
     "sg:city":"Treviso",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236390487,
-    "wof:lastmodified":1449005289,
+    "wof:lastmodified":1466292878,
     "wof:name":"Toys Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.210803,45.681339,12.210803,45.681339],
+  "bbox": [
+    12.210803,
+    45.681339,
+    12.210803,
+    45.681339
+],
   "geometry": {"coordinates":[12.210803,45.681339],"type":"Point"}
 }

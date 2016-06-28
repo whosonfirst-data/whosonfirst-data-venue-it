@@ -2,13 +2,14 @@
   "id": 253687953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.203283,45.188534,9.203283,45.188534",
     "geom:latitude":45.188534,
     "geom:longitude":9.203283,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253687953,
-    "wof:lastmodified":1449063644,
+    "wof:lastmodified":1466296764,
     "wof:name":"G.v.l. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.203283,45.188534,9.203283,45.188534],
+  "bbox": [
+    9.203283,
+    45.188534,
+    9.203283,
+    45.188534
+],
   "geometry": {"coordinates":[9.203283,45.188534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236903227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.631194,45.448051,8.631194,45.448051",
     "geom:latitude":45.448051,
     "geom:longitude":8.631194,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236903227,
-    "wof:lastmodified":1449001823,
+    "wof:lastmodified":1466297187,
     "wof:name":"Tosetti Vittorio - Gumax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.631194,45.448051,8.631194,45.448051],
+  "bbox": [
+    8.631194,
+    45.448051,
+    8.631194,
+    45.448051
+],
   "geometry": {"coordinates":[8.631194,45.448051],"type":"Point"}
 }

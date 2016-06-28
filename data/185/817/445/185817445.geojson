@@ -2,13 +2,14 @@
   "id": 185817445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.996923,45.440357,10.996923,45.440357",
     "geom:latitude":45.440357,
     "geom:longitude":10.996923,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 509, Piazza Nogara 2, 37100 Verona, Vr",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185817445,
-    "wof:lastmodified":1449007903,
+    "wof:lastmodified":1466289400,
     "wof:name":"Banca Popolare Di Verona - Banco S. Geminiano E S. Prospero",
     "wof:parent_id":85905047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.996923,45.440357,10.996923,45.440357],
+  "bbox": [
+    10.996923,
+    45.440357,
+    10.996923,
+    45.440357
+],
   "geometry": {"coordinates":[10.996923,45.440357],"type":"Point"}
 }

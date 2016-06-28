@@ -2,13 +2,14 @@
   "id": 252996575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.361769,44.771702,8.361769,44.771702",
     "geom:latitude":44.771702,
     "geom:longitude":8.361769,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Corso Acqui 14049 Nizza Monferrato",
     "sg:city":"Nizza Monferrato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252996575,
-    "wof:lastmodified":1449005712,
+    "wof:lastmodified":1466292025,
     "wof:name":"Ponzone Fratelli & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [8.361769,44.771702,8.361769,44.771702],
+  "bbox": [
+    8.361769,
+    44.771702,
+    8.361769,
+    44.771702
+],
   "geometry": {"coordinates":[8.361769,44.771702],"type":"Point"}
 }

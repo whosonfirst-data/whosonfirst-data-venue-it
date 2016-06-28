@@ -2,13 +2,14 @@
   "id": 219530333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.879601,42.665611,13.879601,42.665611",
     "geom:latitude":42.665611,
     "geom:longitude":13.879601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64024 Notaresco",
     "sg:city":"Notaresco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219530333,
-    "wof:lastmodified":1449072261,
+    "wof:lastmodified":1466291666,
     "wof:name":"De Patre Ferrometalli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.879601,42.665611,13.879601,42.665611],
+  "bbox": [
+    13.879601,
+    42.665611,
+    13.879601,
+    42.665611
+],
   "geometry": {"coordinates":[13.879601,42.665611],"type":"Point"}
 }

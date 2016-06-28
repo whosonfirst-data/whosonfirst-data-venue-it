@@ -2,13 +2,14 @@
   "id": 270222491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.238989,38.169491,15.238989,38.169491",
     "geom:latitude":38.169491,
     "geom:longitude":15.238989,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98040 Meri'",
     "sg:classifiers":[],
     "sg:orig_category":"Carni, Salumi E Pesci. Zootecnia E Pesca, Allevamento Piccoli Animali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270222491,
-    "wof:lastmodified":1449010295,
+    "wof:lastmodified":1466291697,
     "wof:name":"Pino Santi & Figli (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.238989,38.169491,15.238989,38.169491],
+  "bbox": [
+    15.238989,
+    38.169491,
+    15.238989,
+    38.169491
+],
   "geometry": {"coordinates":[15.238989,38.169491],"type":"Point"}
 }

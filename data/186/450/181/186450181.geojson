@@ -2,13 +2,14 @@
   "id": 186450181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.803719,45.413715,11.803719,45.413715",
     "geom:latitude":45.413715,
     "geom:longitude":11.803719,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pelosa 59 35030 Saccolongo",
     "sg:city":"Saccolongo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186450181,
-    "wof:lastmodified":1449052596,
+    "wof:lastmodified":1466291815,
     "wof:name":"Eurograf Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "purpose"
     ]
 },
-  "bbox": [11.803719,45.413715,11.803719,45.413715],
+  "bbox": [
+    11.803719,
+    45.413715,
+    11.803719,
+    45.413715
+],
   "geometry": {"coordinates":[11.803719,45.413715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236672387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.740355,42.860268,12.740355,42.860268",
     "geom:latitude":42.860268,
     "geom:longitude":12.740355,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48/50, Via Faustana 06039 Trevi",
     "sg:city":"Trevi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236672387,
-    "wof:lastmodified":1449001838,
+    "wof:lastmodified":1466295684,
     "wof:name":"Tulli Zuccari S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.740355,42.860268,12.740355,42.860268],
+  "bbox": [
+    12.740355,
+    42.860268,
+    12.740355,
+    42.860268
+],
   "geometry": {"coordinates":[12.740355,42.860268],"type":"Point"}
 }

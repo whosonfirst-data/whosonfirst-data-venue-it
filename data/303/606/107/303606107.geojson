@@ -2,13 +2,14 @@
   "id": 303606107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.295942,45.965282,13.295942,45.965282",
     "geom:latitude":45.965282,
     "geom:longitude":13.295942,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33044 Manzano",
     "sg:city":"Manzano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303606107,
-    "wof:lastmodified":1448998496,
+    "wof:lastmodified":1466297114,
     "wof:name":"Graziosa Sas Di Albina Paolo & Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.295942,45.965282,13.295942,45.965282],
+  "bbox": [
+    13.295942,
+    45.965282,
+    13.295942,
+    45.965282
+],
   "geometry": {"coordinates":[13.295942,45.965282],"type":"Point"}
 }

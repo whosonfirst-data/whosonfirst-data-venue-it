@@ -2,13 +2,14 @@
   "id": 319890433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.272465,46.139969,8.272465,46.139969",
     "geom:latitude":46.139969,
     "geom:longitude":8.272465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28883 Gravellona",
     "sg:classifiers":[],
     "sg:orig_category":"Automazione E Macchine Per Ufficio. Servizi Ausiliari Di Certificati, Riproduzioni, Disegni E Foto",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":319890433,
-    "wof:lastmodified":1449024268,
+    "wof:lastmodified":1466293433,
     "wof:name":"J. & P. Srl Unipersonale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.272465,46.139969,8.272465,46.139969],
+  "bbox": [
+    8.272465,
+    46.139969,
+    8.272465,
+    46.139969
+],
   "geometry": {"coordinates":[8.272465,46.139969],"type":"Point"}
 }

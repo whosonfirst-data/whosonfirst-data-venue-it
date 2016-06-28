@@ -2,13 +2,14 @@
   "id": 202787101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.34561,40.877171,14.34561,40.877171",
     "geom:latitude":40.877171,
     "geom:longitude":14.34561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80129 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202787101,
-    "wof:lastmodified":1449061275,
+    "wof:lastmodified":1466292059,
     "wof:name":"Associazione Sirius Di Rosiello Antonietta",
     "wof:parent_id":85904805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "il"
     ]
 },
-  "bbox": [14.34561,40.877171,14.34561,40.877171],
+  "bbox": [
+    14.34561,
+    40.877171,
+    14.34561,
+    40.877171
+],
   "geometry": {"coordinates":[14.34561,40.877171],"type":"Point"}
 }

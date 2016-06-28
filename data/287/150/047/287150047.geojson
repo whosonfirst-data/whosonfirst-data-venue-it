@@ -2,13 +2,14 @@
   "id": 287150047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.4849,45.585613,11.4849,45.585613",
     "geom:latitude":45.585613,
     "geom:longitude":11.4849,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36030 Caldogno",
     "sg:city":"Caldogno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287150047,
-    "wof:lastmodified":1449000678,
+    "wof:lastmodified":1466291582,
     "wof:name":"L.e.v. Laboratorio Elettrogalvanico Vicentino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.4849,45.585613,11.4849,45.585613],
+  "bbox": [
+    11.4849,
+    45.585613,
+    11.4849,
+    45.585613
+],
   "geometry": {"coordinates":[11.4849,45.585613],"type":"Point"}
 }

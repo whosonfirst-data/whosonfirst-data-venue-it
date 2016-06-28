@@ -2,13 +2,14 @@
   "id": 253375417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.666973,45.791702,12.666973,45.791702",
     "geom:latitude":45.791702,
     "geom:longitude":12.666973,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Postumia 33076 Pravisdomini",
     "sg:city":"Pravisdomini",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253375417,
-    "wof:lastmodified":1449062927,
+    "wof:lastmodified":1466293125,
     "wof:name":"Berti Legnami (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.666973,45.791702,12.666973,45.791702],
+  "bbox": [
+    12.666973,
+    45.791702,
+    12.666973,
+    45.791702
+],
   "geometry": {"coordinates":[12.666973,45.791702],"type":"Point"}
 }

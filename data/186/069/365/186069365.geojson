@@ -2,13 +2,14 @@
   "id": 186069365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.489152,44.331814,7.489152,44.331814",
     "geom:latitude":44.331814,
     "geom:longitude":7.489152,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Veneto 4, 12017 Robilante, Cn",
     "sg:city":"Robilante",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186069365,
-    "wof:lastmodified":1449052064,
+    "wof:lastmodified":1466295496,
     "wof:name":"Credito Cooperativo Cassa Rurale Artigiano Di Robilante (cn)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.489152,44.331814,7.489152,44.331814],
+  "bbox": [
+    7.489152,
+    44.331814,
+    7.489152,
+    44.331814
+],
   "geometry": {"coordinates":[7.489152,44.331814],"type":"Point"}
 }

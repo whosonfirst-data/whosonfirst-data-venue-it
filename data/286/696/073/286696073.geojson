@@ -2,13 +2,14 @@
   "id": 286696073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.05995,44.869408,10.05995,44.869408",
     "geom:latitude":44.869408,
     "geom:longitude":10.05995,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Croce Rossa 43036 Fidenza",
     "sg:city":"Fidenza",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286696073,
-    "wof:lastmodified":1449015394,
+    "wof:lastmodified":1466295160,
     "wof:name":"Costa Fratelli(s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [10.05995,44.869408,10.05995,44.869408],
+  "bbox": [
+    10.05995,
+    44.869408,
+    10.05995,
+    44.869408
+],
   "geometry": {"coordinates":[10.05995,44.869408],"type":"Point"}
 }

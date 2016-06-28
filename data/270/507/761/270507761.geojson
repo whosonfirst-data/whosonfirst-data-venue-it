@@ -2,13 +2,14 @@
   "id": 270507761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.90677,45.54282,8.90677,45.54282",
     "geom:latitude":45.54282,
     "geom:longitude":8.90677,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44/46, Viale Dell' Industria 20020 Busto Garolfo",
     "sg:city":"Busto Garolfo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270507761,
-    "wof:lastmodified":1449009891,
+    "wof:lastmodified":1466295159,
     "wof:name":"T.w.s. Textile World Service Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.90677,45.54282,8.90677,45.54282],
+  "bbox": [
+    8.90677,
+    45.54282,
+    8.90677,
+    45.54282
+],
   "geometry": {"coordinates":[8.90677,45.54282],"type":"Point"}
 }

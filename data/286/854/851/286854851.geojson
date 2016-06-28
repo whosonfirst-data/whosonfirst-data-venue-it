@@ -2,13 +2,14 @@
   "id": 286854851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.119854,45.410629,9.119854,45.410629",
     "geom:latitude":45.410629,
     "geom:longitude":9.119854,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Galvani 10/12 20090 Assago",
     "sg:city":"Assago",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286854851,
-    "wof:lastmodified":1449017987,
+    "wof:lastmodified":1466296786,
     "wof:name":"Loltex Srl",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.119854,45.410629,9.119854,45.410629],
+  "bbox": [
+    9.119854,
+    45.410629,
+    9.119854,
+    45.410629
+],
   "geometry": {"coordinates":[9.119854,45.410629],"type":"Point"}
 }

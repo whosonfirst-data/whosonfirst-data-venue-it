@@ -2,13 +2,14 @@
   "id": 319967381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.080455,37.500847,15.080455,37.500847",
     "geom:latitude":37.500847,
     "geom:longitude":15.080455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95100 Catania",
     "sg:classifiers":[],
     "sg:orig_category":"Autonoleggio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319967381,
-    "wof:lastmodified":1449024831,
+    "wof:lastmodified":1466294385,
     "wof:name":"Mauceri Anna Mria",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.080455,37.500847,15.080455,37.500847],
+  "bbox": [
+    15.080455,
+    37.500847,
+    15.080455,
+    37.500847
+],
   "geometry": {"coordinates":[15.080455,37.500847],"type":"Point"}
 }

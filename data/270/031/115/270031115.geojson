@@ -2,13 +2,14 @@
   "id": 270031115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.504086,41.912884,12.504086,41.912884",
     "geom:latitude":41.912884,
     "geom:longitude":12.504086,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270031115,
-    "wof:lastmodified":1449009548,
+    "wof:lastmodified":1466289358,
     "wof:name":"Contrucci",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.504086,41.912884,12.504086,41.912884],
+  "bbox": [
+    12.504086,
+    41.912884,
+    12.504086,
+    41.912884
+],
   "geometry": {"coordinates":[12.504086,41.912884],"type":"Point"}
 }

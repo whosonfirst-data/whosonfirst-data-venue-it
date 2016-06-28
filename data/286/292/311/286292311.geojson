@@ -2,13 +2,14 @@
   "id": 286292311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.783541,43.405548,11.783541,43.405548",
     "geom:latitude":43.405548,
     "geom:longitude":11.783541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Dei Boschi-badia Al Pino 52040 Civitella In Val Di Chiana",
     "sg:classifiers":[
         {
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":286292311,
-    "wof:lastmodified":1449015429,
+    "wof:lastmodified":1466289836,
     "wof:name":"Chifar Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [11.783541,43.405548,11.783541,43.405548],
+  "bbox": [
+    11.783541,
+    43.405548,
+    11.783541,
+    43.405548
+],
   "geometry": {"coordinates":[11.783541,43.405548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203396761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.272465,46.139969,8.272465,46.139969",
     "geom:latitude":46.139969,
     "geom:longitude":8.272465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28861 Baceno",
     "sg:city":"Baceno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203396761,
-    "wof:lastmodified":1449026222,
+    "wof:lastmodified":1466292061,
     "wof:name":"Rifugio Castiglioni E. All'alpe Devero - C.a.i.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.272465,46.139969,8.272465,46.139969],
+  "bbox": [
+    8.272465,
+    46.139969,
+    8.272465,
+    46.139969
+],
   "geometry": {"coordinates":[8.272465,46.139969],"type":"Point"}
 }

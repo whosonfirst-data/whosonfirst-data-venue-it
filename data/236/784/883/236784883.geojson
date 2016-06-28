@@ -2,13 +2,14 @@
   "id": 236784883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.219981,45.540314,10.219981,45.540314",
     "geom:latitude":45.540314,
     "geom:longitude":10.219981,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, C. Goffredo Mameli25100 Brescia",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236784883,
-    "wof:lastmodified":1449003934,
+    "wof:lastmodified":1466296513,
     "wof:name":"Galleria Tuveri Antiquariato",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.219981,45.540314,10.219981,45.540314],
+  "bbox": [
+    10.219981,
+    45.540314,
+    10.219981,
+    45.540314
+],
   "geometry": {"coordinates":[10.219981,45.540314],"type":"Point"}
 }

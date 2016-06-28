@@ -2,13 +2,14 @@
   "id": 269647657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.337683,45.470428,9.337683,45.470428",
     "geom:latitude":45.470428,
     "geom:longitude":9.337683,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Kennedy 43 20090 Rodano",
     "sg:city":"Rodano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269647657,
-    "wof:lastmodified":1449037276,
+    "wof:lastmodified":1466290924,
     "wof:name":"Selecom Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.337683,45.470428,9.337683,45.470428],
+  "bbox": [
+    9.337683,
+    45.470428,
+    9.337683,
+    45.470428
+],
   "geometry": {"coordinates":[9.337683,45.470428],"type":"Point"}
 }

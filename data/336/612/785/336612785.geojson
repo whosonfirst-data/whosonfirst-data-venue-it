@@ -2,13 +2,14 @@
   "id": 336612785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.188852,43.832813,11.188852,43.832813",
     "geom:latitude":43.832813,
     "geom:longitude":11.188852,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"500, Viale Ariosto Ludovico 50019 Sesto Fiorentino",
     "sg:city":"Sesto Fiorentino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336612785,
-    "wof:lastmodified":1448997426,
+    "wof:lastmodified":1466293885,
     "wof:name":"Bn Bienne S.r.l.",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.188852,43.832813,11.188852,43.832813],
+  "bbox": [
+    11.188852,
+    43.832813,
+    11.188852,
+    43.832813
+],
   "geometry": {"coordinates":[11.188852,43.832813],"type":"Point"}
 }

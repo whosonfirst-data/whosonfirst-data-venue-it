@@ -2,13 +2,14 @@
   "id": 270192895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.36433,44.354191,9.36433,44.354191",
     "geom:latitude":44.354191,
     "geom:longitude":9.36433,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16128 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270192895,
-    "wof:lastmodified":1449010382,
+    "wof:lastmodified":1466291302,
     "wof:name":"Crovetto Fratelli Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.36433,44.354191,9.36433,44.354191],
+  "bbox": [
+    9.36433,
+    44.354191,
+    9.36433,
+    44.354191
+],
   "geometry": {"coordinates":[9.36433,44.354191],"type":"Point"}
 }

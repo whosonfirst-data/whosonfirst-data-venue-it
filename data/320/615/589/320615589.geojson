@@ -2,13 +2,14 @@
   "id": 320615589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.079966,44.062565,10.079966,44.062565",
     "geom:latitude":44.062565,
     "geom:longitude":10.079966,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piave 11/bis 54033 Carrara",
     "sg:city":"Carrara",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320615589,
-    "wof:lastmodified":1449012451,
+    "wof:lastmodified":1466297828,
     "wof:name":"Giordano Baudoni Marmotecnica Impresa Individuale",
     "wof:parent_id":85900387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "marble"
     ]
 },
-  "bbox": [10.079966,44.062565,10.079966,44.062565],
+  "bbox": [
+    10.079966,
+    44.062565,
+    10.079966,
+    44.062565
+],
   "geometry": {"coordinates":[10.079966,44.062565],"type":"Point"}
 }

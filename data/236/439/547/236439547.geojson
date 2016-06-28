@@ -2,13 +2,14 @@
   "id": 236439547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.738139,45.706284,9.738139,45.706284",
     "geom:latitude":45.706284,
     "geom:longitude":9.738139,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Viale Aldo Moro 24020 Scanzorosciate",
     "sg:city":"Rosciate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236439547,
-    "wof:lastmodified":1449002374,
+    "wof:lastmodified":1466293406,
     "wof:name":"I.m.d. International Medical Devices Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [9.738139,45.706284,9.738139,45.706284],
+  "bbox": [
+    9.738139,
+    45.706284,
+    9.738139,
+    45.706284
+],
   "geometry": {"coordinates":[9.738139,45.706284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186453959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.119847,45.410217,9.119847,45.410217",
     "geom:latitude":45.410217,
     "geom:longitude":9.119847,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Galvani 6 20090 Assago",
     "sg:city":"Assago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186453959,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466291850,
     "wof:name":"Irva Srl",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "brass"
     ]
 },
-  "bbox": [9.119847,45.410217,9.119847,45.410217],
+  "bbox": [
+    9.119847,
+    45.410217,
+    9.119847,
+    45.410217
+],
   "geometry": {"coordinates":[9.119847,45.410217],"type":"Point"}
 }

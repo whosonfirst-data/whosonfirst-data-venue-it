@@ -2,13 +2,14 @@
   "id": 186356087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.269792,44.539646,11.269792,44.539646",
     "geom:latitude":44.539646,
     "geom:longitude":11.269792,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40012 Calderara Di Reno",
     "sg:city":"Calderara di Reno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186356087,
-    "wof:lastmodified":1449052532,
+    "wof:lastmodified":1466290970,
     "wof:name":"Amici Centro Ciclistico Srl",
     "wof:parent_id":85904561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.269792,44.539646,11.269792,44.539646],
+  "bbox": [
+    11.269792,
+    44.539646,
+    11.269792,
+    44.539646
+],
   "geometry": {"coordinates":[11.269792,44.539646],"type":"Point"}
 }

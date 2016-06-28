@@ -2,13 +2,14 @@
   "id": 303992085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.104854,42.417381,12.104854,42.417381",
     "geom:latitude":42.417381,
     "geom:longitude":12.104854,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Statale Flaminia, Km 57250 01033 Civita Castellana",
     "sg:city":"Civita Castellana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303992085,
-    "wof:lastmodified":1448999272,
+    "wof:lastmodified":1466298254,
     "wof:name":"Ceramica Varm Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artistic"
     ]
 },
-  "bbox": [12.104854,42.417381,12.104854,42.417381],
+  "bbox": [
+    12.104854,
+    42.417381,
+    12.104854,
+    42.417381
+],
   "geometry": {"coordinates":[12.104854,42.417381],"type":"Point"}
 }

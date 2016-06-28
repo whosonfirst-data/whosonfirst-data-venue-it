@@ -2,13 +2,14 @@
   "id": 185607577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.247339,45.490871,12.247339,45.490871",
     "geom:latitude":45.490871,
     "geom:longitude":12.247339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V Forte Marghera 75 Mestre; Venezia; 30173",
     "sg:city":"Mestre",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185607577,
-    "wof:lastmodified":1449006820,
+    "wof:lastmodified":1466289579,
     "wof:name":"Banca Commerciale Italiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.247339,45.490871,12.247339,45.490871],
+  "bbox": [
+    12.247339,
+    45.490871,
+    12.247339,
+    45.490871
+],
   "geometry": {"coordinates":[12.247339,45.490871],"type":"Point"}
 }

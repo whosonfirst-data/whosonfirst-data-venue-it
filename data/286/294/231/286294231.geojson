@@ -2,13 +2,14 @@
   "id": 286294231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.170371,45.201988,9.170371,45.201988",
     "geom:latitude":45.201988,
     "geom:longitude":9.170371,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Pollak 27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286294231,
-    "wof:lastmodified":1449017282,
+    "wof:lastmodified":1466289862,
     "wof:name":"Farcopa S.c.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.170371,45.201988,9.170371,45.201988],
+  "bbox": [
+    9.170371,
+    45.201988,
+    9.170371,
+    45.201988
+],
   "geometry": {"coordinates":[9.170371,45.201988],"type":"Point"}
 }

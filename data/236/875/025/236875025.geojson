@@ -2,13 +2,14 @@
   "id": 236875025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.459501,41.234188,14.459501,41.234188",
     "geom:latitude":41.234188,
     "geom:longitude":14.459501,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cese 82030 Puglianello",
     "sg:city":"Puglianello",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236875025,
-    "wof:lastmodified":1449004229,
+    "wof:lastmodified":1466296944,
     "wof:name":"Arti Vetro Di Garofano Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.459501,41.234188,14.459501,41.234188],
+  "bbox": [
+    14.459501,
+    41.234188,
+    14.459501,
+    41.234188
+],
   "geometry": {"coordinates":[14.459501,41.234188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286648309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.031454,43.910942,11.031454,43.910942",
     "geom:latitude":43.910942,
     "geom:longitude":11.031454,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Milano 37 59013 Montemurlo",
     "sg:city":"Montemurlo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286648309,
-    "wof:lastmodified":1449015989,
+    "wof:lastmodified":1466294522,
     "wof:name":"Sintopel S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [11.031454,43.910942,11.031454,43.910942],
+  "bbox": [
+    11.031454,
+    43.910942,
+    11.031454,
+    43.910942
+],
   "geometry": {"coordinates":[11.031454,43.910942],"type":"Point"}
 }

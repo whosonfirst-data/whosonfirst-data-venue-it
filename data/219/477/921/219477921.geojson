@@ -2,13 +2,14 @@
   "id": 219477921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.783402,45.646832,13.783402,45.646832",
     "geom:latitude":45.646832,
     "geom:longitude":13.783402,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34138 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219477921,
-    "wof:lastmodified":1449070996,
+    "wof:lastmodified":1466291185,
     "wof:name":"Kreissl Edoardo",
     "wof:parent_id":85900477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.783402,45.646832,13.783402,45.646832],
+  "bbox": [
+    13.783402,
+    45.646832,
+    13.783402,
+    45.646832
+],
   "geometry": {"coordinates":[13.783402,45.646832],"type":"Point"}
 }

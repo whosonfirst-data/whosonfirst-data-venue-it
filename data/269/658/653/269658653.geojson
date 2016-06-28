@@ -2,13 +2,14 @@
   "id": 269658653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.651314,40.876808,15.651314,40.876808",
     "geom:latitude":40.876808,
     "geom:longitude":15.651314,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85020 Atella",
     "sg:city":"Atella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269658653,
-    "wof:lastmodified":1449036088,
+    "wof:lastmodified":1466291067,
     "wof:name":"Puntografica Di Liccione Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.651314,40.876808,15.651314,40.876808],
+  "bbox": [
+    15.651314,
+    40.876808,
+    15.651314,
+    40.876808
+],
   "geometry": {"coordinates":[15.651314,40.876808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203190755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.833632,45.816067,8.833632,45.816067",
     "geom:latitude":45.816067,
     "geom:longitude":8.833632,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21040 Cislago",
     "sg:city":"Cislago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203190755,
-    "wof:lastmodified":1449026754,
+    "wof:lastmodified":1466289773,
     "wof:name":"Moiana Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.833632,45.816067,8.833632,45.816067],
+  "bbox": [
+    8.833632,
+    45.816067,
+    8.833632,
+    45.816067
+],
   "geometry": {"coordinates":[8.833632,45.816067],"type":"Point"}
 }

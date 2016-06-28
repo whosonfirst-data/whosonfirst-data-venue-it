@@ -2,13 +2,14 @@
   "id": 186234537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.058441,45.46381,9.058441,45.46381",
     "geom:latitude":45.46381,
     "geom:longitude":9.058441,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Darwin, 22/13 Int. 59 20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186234537,
-    "wof:lastmodified":1449052889,
+    "wof:lastmodified":1466289948,
     "wof:name":"Urad Snc",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "base"
     ]
 },
-  "bbox": [9.058441,45.46381,9.058441,45.46381],
+  "bbox": [
+    9.058441,
+    45.46381,
+    9.058441,
+    45.46381
+],
   "geometry": {"coordinates":[9.058441,45.46381],"type":"Point"}
 }

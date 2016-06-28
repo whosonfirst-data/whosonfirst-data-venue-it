@@ -2,13 +2,14 @@
   "id": 269949569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.942208,40.738609,13.942208,40.738609",
     "geom:latitude":40.738609,
     "geom:longitude":13.942208,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80077 Ischia",
     "sg:city":"Ischia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269949569,
-    "wof:lastmodified":1449037637,
+    "wof:lastmodified":1466294701,
     "wof:name":"Hotel Terme Felik Societa' Limparo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.942208,40.738609,13.942208,40.738609],
+  "bbox": [
+    13.942208,
+    40.738609,
+    13.942208,
+    40.738609
+],
   "geometry": {"coordinates":[13.942208,40.738609],"type":"Point"}
 }

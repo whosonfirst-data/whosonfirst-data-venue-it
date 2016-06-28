@@ -2,13 +2,14 @@
   "id": 219759389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.627763,45.472553,8.627763,45.472553",
     "geom:latitude":45.472553,
     "geom:longitude":8.627763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Via Verbano 28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219759389,
-    "wof:lastmodified":1449073980,
+    "wof:lastmodified":1466293873,
     "wof:name":"Marcoli(s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [8.627763,45.472553,8.627763,45.472553],
+  "bbox": [
+    8.627763,
+    45.472553,
+    8.627763,
+    45.472553
+],
   "geometry": {"coordinates":[8.627763,45.472553],"type":"Point"}
 }

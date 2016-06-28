@@ -2,13 +2,14 @@
   "id": 320545733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.512372,41.826252,12.512372,41.826252",
     "geom:latitude":41.826252,
     "geom:longitude":12.512372,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00166 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320545733,
-    "wof:lastmodified":1449012159,
+    "wof:lastmodified":1466297778,
     "wof:name":"Belardelli Enzo",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.512372,41.826252,12.512372,41.826252],
+  "bbox": [
+    12.512372,
+    41.826252,
+    12.512372,
+    41.826252
+],
   "geometry": {"coordinates":[12.512372,41.826252],"type":"Point"}
 }

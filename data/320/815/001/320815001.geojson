@@ -2,13 +2,14 @@
   "id": 320815001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.268275,45.814686,9.268275,45.814686",
     "geom:latitude":45.814686,
     "geom:longitude":9.268275,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23842 Bosisio Parini",
     "sg:city":"Bosisio Parini",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320815001,
-    "wof:lastmodified":1449013071,
+    "wof:lastmodified":1466298258,
     "wof:name":"Rigamonti Fratelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.268275,45.814686,9.268275,45.814686],
+  "bbox": [
+    9.268275,
+    45.814686,
+    9.268275,
+    45.814686
+],
   "geometry": {"coordinates":[9.268275,45.814686],"type":"Point"}
 }

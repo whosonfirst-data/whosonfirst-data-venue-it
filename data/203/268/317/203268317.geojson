@@ -2,13 +2,14 @@
   "id": 203268317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.522191,41.964806,12.522191,41.964806",
     "geom:latitude":41.964806,
     "geom:longitude":12.522191,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00139 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203268317,
-    "wof:lastmodified":1449026030,
+    "wof:lastmodified":1466290544,
     "wof:name":"Coletta Luca",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.522191,41.964806,12.522191,41.964806],
+  "bbox": [
+    12.522191,
+    41.964806,
+    12.522191,
+    41.964806
+],
   "geometry": {"coordinates":[12.522191,41.964806],"type":"Point"}
 }

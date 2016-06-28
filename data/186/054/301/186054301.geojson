@@ -2,13 +2,14 @@
   "id": 186054301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.119572,46.216373,11.119572,46.216373",
     "geom:latitude":46.216373,
     "geom:longitude":11.119572,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavalleggeri, 19; Mezzocorona; 38016",
     "sg:city":"Mezzocorona",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186054301,
-    "wof:lastmodified":1449051646,
+    "wof:lastmodified":1466295146,
     "wof:name":"Cassa Rurale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.119572,46.216373,11.119572,46.216373],
+  "bbox": [
+    11.119572,
+    46.216373,
+    11.119572,
+    46.216373
+],
   "geometry": {"coordinates":[11.119572,46.216373],"type":"Point"}
 }

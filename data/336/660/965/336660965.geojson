@@ -2,13 +2,14 @@
   "id": 336660965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.959071,45.65184,9.959071,45.65184",
     "geom:latitude":45.65184,
     "geom:longitude":9.959071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, V. Fontanelle 25030 Paratico",
     "sg:city":"Paratico",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336660965,
-    "wof:lastmodified":1448997907,
+    "wof:lastmodified":1466294460,
     "wof:name":"Evoltex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.959071,45.65184,9.959071,45.65184],
+  "bbox": [
+    9.959071,
+    45.65184,
+    9.959071,
+    45.65184
+],
   "geometry": {"coordinates":[9.959071,45.65184],"type":"Point"}
 }

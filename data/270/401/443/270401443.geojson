@@ -2,13 +2,14 @@
   "id": 270401443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.814044,44.426842,8.814044,44.426842",
     "geom:latitude":44.426842,
     "geom:longitude":8.814044,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16156 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270401443,
-    "wof:lastmodified":1449010717,
+    "wof:lastmodified":1466293895,
     "wof:name":"Fabio & Angela Parrucchieri",
     "wof:parent_id":85796839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.814044,44.426842,8.814044,44.426842],
+  "bbox": [
+    8.814044,
+    44.426842,
+    8.814044,
+    44.426842
+],
   "geometry": {"coordinates":[8.814044,44.426842],"type":"Point"}
 }

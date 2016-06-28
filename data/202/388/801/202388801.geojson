@@ -2,13 +2,14 @@
   "id": 202388801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.099533,41.012562,15.099533,41.012562",
     "geom:latitude":41.012562,
     "geom:longitude":15.099533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83040 Frigento",
     "sg:city":"Frigento",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202388801,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466294148,
     "wof:name":"Istituto Magistrale L.r. R.schettino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.099533,41.012562,15.099533,41.012562],
+  "bbox": [
+    15.099533,
+    41.012562,
+    15.099533,
+    41.012562
+],
   "geometry": {"coordinates":[15.099533,41.012562],"type":"Point"}
 }

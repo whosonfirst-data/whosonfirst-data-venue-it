@@ -2,13 +2,14 @@
   "id": 286334299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.046586,45.332268,10.046586,45.332268",
     "geom:latitude":45.332268,
     "geom:longitude":10.046586,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Monte Santo 38 25029 Verolavecchia",
     "sg:city":"Verolavecchia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286334299,
-    "wof:lastmodified":1449016051,
+    "wof:lastmodified":1466290487,
     "wof:name":"Nuova Mamir Dei Fratelli Gozzoli & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "children's"
     ]
 },
-  "bbox": [10.046586,45.332268,10.046586,45.332268],
+  "bbox": [
+    10.046586,
+    45.332268,
+    10.046586,
+    45.332268
+],
   "geometry": {"coordinates":[10.046586,45.332268],"type":"Point"}
 }

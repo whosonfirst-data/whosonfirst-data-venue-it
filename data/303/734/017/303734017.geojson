@@ -2,13 +2,14 @@
   "id": 303734017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.470591,45.699497,8.470591,45.699497",
     "geom:latitude":45.699497,
     "geom:longitude":8.470591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28021 Borgomanero",
     "sg:city":"Borgomanero",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303734017,
-    "wof:lastmodified":1449000256,
+    "wof:lastmodified":1466297774,
     "wof:name":"M.c.m. Rubinetterie Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.470591,45.699497,8.470591,45.699497],
+  "bbox": [
+    8.470591,
+    45.699497,
+    8.470591,
+    45.699497
+],
   "geometry": {"coordinates":[8.470591,45.699497],"type":"Point"}
 }

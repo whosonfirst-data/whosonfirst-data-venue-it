@@ -2,13 +2,14 @@
   "id": 270477125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.590537,42.063171,12.590537,42.063171",
     "geom:latitude":42.063171,
     "geom:longitude":12.590537,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270477125,
-    "wof:lastmodified":1449009058,
+    "wof:lastmodified":1466294781,
     "wof:name":"Agenzia Salaria Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "drawing"
     ]
 },
-  "bbox": [12.590537,42.063171,12.590537,42.063171],
+  "bbox": [
+    12.590537,
+    42.063171,
+    12.590537,
+    42.063171
+],
   "geometry": {"coordinates":[12.590537,42.063171],"type":"Point"}
 }

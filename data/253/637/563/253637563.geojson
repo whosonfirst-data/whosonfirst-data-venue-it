@@ -2,13 +2,14 @@
   "id": 253637563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.180381,46.216488,13.180381,46.216488",
     "geom:latitude":46.216488,
     "geom:longitude":13.180381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33010 Magnano In Riviera",
     "sg:city":"Magnano in Riviera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253637563,
-    "wof:lastmodified":1449062822,
+    "wof:lastmodified":1466296314,
     "wof:name":"B. Mecc. Engineering Di Bozzetto G.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.180381,46.216488,13.180381,46.216488],
+  "bbox": [
+    13.180381,
+    46.216488,
+    13.180381,
+    46.216488
+],
   "geometry": {"coordinates":[13.180381,46.216488],"type":"Point"}
 }

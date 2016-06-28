@@ -2,13 +2,14 @@
   "id": 219336177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.654804,45.130505,7.654804,45.130505",
     "geom:latitude":45.130505,
     "geom:longitude":7.654804,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10071 Borgaro Torinese",
     "sg:city":"Borgaro Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219336177,
-    "wof:lastmodified":1449070312,
+    "wof:lastmodified":1466289670,
     "wof:name":"Margio Salvatore - Lam.",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.654804,45.130505,7.654804,45.130505],
+  "bbox": [
+    7.654804,
+    45.130505,
+    7.654804,
+    45.130505
+],
   "geometry": {"coordinates":[7.654804,45.130505],"type":"Point"}
 }

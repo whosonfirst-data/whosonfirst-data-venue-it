@@ -2,13 +2,14 @@
   "id": 219160183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.792833,45.197369,11.792833,45.197369",
     "geom:latitude":45.197369,
     "geom:longitude":11.792833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Pozzonovo",
     "sg:city":"Pozzonovo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219160183,
-    "wof:lastmodified":1449073354,
+    "wof:lastmodified":1466293853,
     "wof:name":"Parco Valcorba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.792833,45.197369,11.792833,45.197369],
+  "bbox": [
+    11.792833,
+    45.197369,
+    11.792833,
+    45.197369
+],
   "geometry": {"coordinates":[11.792833,45.197369],"type":"Point"}
 }

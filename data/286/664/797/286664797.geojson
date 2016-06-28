@@ -2,13 +2,14 @@
   "id": 286664797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.829219,44.106735,9.829219,44.106735",
     "geom:latitude":44.106735,
     "geom:longitude":9.829219,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Loc. Greti Di Durasca 15 19020 Follo",
     "sg:city":"Follo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286664797,
-    "wof:lastmodified":1449016268,
+    "wof:lastmodified":1466294727,
     "wof:name":"Tecno.m.mar. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "working"
     ]
 },
-  "bbox": [9.829219,44.106735,9.829219,44.106735],
+  "bbox": [
+    9.829219,
+    44.106735,
+    9.829219,
+    44.106735
+],
   "geometry": {"coordinates":[9.829219,44.106735],"type":"Point"}
 }

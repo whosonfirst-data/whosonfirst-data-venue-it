@@ -2,13 +2,14 @@
   "id": 219871993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.452228,41.879356,12.452228,41.879356",
     "geom:latitude":41.879356,
     "geom:longitude":12.452228,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00152 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219871993,
-    "wof:lastmodified":1449071555,
+    "wof:lastmodified":1466294971,
     "wof:name":"Eidomedica",
     "wof:parent_id":85904947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.452228,41.879356,12.452228,41.879356],
+  "bbox": [
+    12.452228,
+    41.879356,
+    12.452228,
+    41.879356
+],
   "geometry": {"coordinates":[12.452228,41.879356],"type":"Point"}
 }

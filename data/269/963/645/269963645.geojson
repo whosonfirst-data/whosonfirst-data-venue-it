@@ -2,13 +2,14 @@
   "id": 269963645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.130589,40.176857,15.130589,40.176857",
     "geom:latitude":40.176857,
     "geom:longitude":15.130589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84040 Casal Velino",
     "sg:city":"Casal Velino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269963645,
-    "wof:lastmodified":1449036378,
+    "wof:lastmodified":1466294853,
     "wof:name":"Hotel Europa Snc Di Giovanni E A. Boi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.130589,40.176857,15.130589,40.176857],
+  "bbox": [
+    15.130589,
+    40.176857,
+    15.130589,
+    40.176857
+],
   "geometry": {"coordinates":[15.130589,40.176857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286975281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.436633,45.580608,9.436633,45.580608",
     "geom:latitude":45.580608,
     "geom:longitude":9.436633,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20040 Cambiago",
     "sg:city":"Cambiago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286975281,
-    "wof:lastmodified":1449017701,
+    "wof:lastmodified":1466297472,
     "wof:name":"Vitrex (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.436633,45.580608,9.436633,45.580608],
+  "bbox": [
+    9.436633,
+    45.580608,
+    9.436633,
+    45.580608
+],
   "geometry": {"coordinates":[9.436633,45.580608],"type":"Point"}
 }

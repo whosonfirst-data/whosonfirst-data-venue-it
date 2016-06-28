@@ -2,13 +2,14 @@
   "id": 219305329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.62567,45.691662,9.62567,45.691662",
     "geom:latitude":45.691662,
     "geom:longitude":9.62567,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Antonio Meucci 1 24035 Curno",
     "sg:city":"Curno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219305329,
-    "wof:lastmodified":1449070925,
+    "wof:lastmodified":1466289355,
     "wof:name":"Gibitre Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.62567,45.691662,9.62567,45.691662],
+  "bbox": [
+    9.62567,
+    45.691662,
+    9.62567,
+    45.691662
+],
   "geometry": {"coordinates":[9.62567,45.691662],"type":"Point"}
 }

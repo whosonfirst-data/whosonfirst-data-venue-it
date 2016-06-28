@@ -2,13 +2,14 @@
   "id": 236708663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.559938,43.399994,13.559938,43.399994",
     "geom:latitude":43.399994,
     "geom:longitude":13.559938,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, V. Martiri Di Spagna 62019 Recanati",
     "sg:city":"Recanati",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236708663,
-    "wof:lastmodified":1449002064,
+    "wof:lastmodified":1466296076,
     "wof:name":"Frenexport Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [13.559938,43.399994,13.559938,43.399994],
+  "bbox": [
+    13.559938,
+    43.399994,
+    13.559938,
+    43.399994
+],
   "geometry": {"coordinates":[13.559938,43.399994],"type":"Point"}
 }

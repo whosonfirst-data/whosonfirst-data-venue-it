@@ -2,13 +2,14 @@
   "id": 269931217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.935166,46.029869,12.935166,46.029869",
     "geom:latitude":46.029869,
     "geom:longitude":12.935166,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33039 Codroipo",
     "sg:city":"Turrida",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269931217,
-    "wof:lastmodified":1449038766,
+    "wof:lastmodified":1466294505,
     "wof:name":"Hotel 'da Angela'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.935166,46.029869,12.935166,46.029869],
+  "bbox": [
+    12.935166,
+    46.029869,
+    12.935166,
+    46.029869
+],
   "geometry": {"coordinates":[12.935166,46.029869],"type":"Point"}
 }

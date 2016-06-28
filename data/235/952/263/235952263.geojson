@@ -2,13 +2,14 @@
   "id": 235952263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.292282,43.628716,11.292282,43.628716",
     "geom:latitude":43.628716,
     "geom:longitude":11.292282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Di Nozzole 10 50022 Greve In Chianti",
     "sg:city":"Greve in Chianti",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235952263,
-    "wof:lastmodified":1449008498,
+    "wof:lastmodified":1466295057,
     "wof:name":"Tenimenti Agricoli Valdigreve Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "italian"
     ]
 },
-  "bbox": [11.292282,43.628716,11.292282,43.628716],
+  "bbox": [
+    11.292282,
+    43.628716,
+    11.292282,
+    43.628716
+],
   "geometry": {"coordinates":[11.292282,43.628716],"type":"Point"}
 }

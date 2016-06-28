@@ -2,13 +2,14 @@
   "id": 320833695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.213788,45.478458,12.213788,45.478458",
     "geom:latitude":45.478458,
     "geom:longitude":12.213788,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30010 Camponogara",
     "sg:city":"Camponogara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320833695,
-    "wof:lastmodified":1449011727,
+    "wof:lastmodified":1466298225,
     "wof:name":"L.c.s. Snc Di Griguolo F. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.213788,45.478458,12.213788,45.478458],
+  "bbox": [
+    12.213788,
+    45.478458,
+    12.213788,
+    45.478458
+],
   "geometry": {"coordinates":[12.213788,45.478458],"type":"Point"}
 }

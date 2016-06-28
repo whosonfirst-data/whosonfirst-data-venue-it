@@ -2,13 +2,14 @@
   "id": 236687955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.295835,44.545029,11.295835,44.545029",
     "geom:latitude":44.545029,
     "geom:longitude":11.295835,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40012 Calderara Di Reno",
     "sg:city":"Calderara di Reno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236687955,
-    "wof:lastmodified":1449002390,
+    "wof:lastmodified":1466295847,
     "wof:name":"Zini Srl",
     "wof:parent_id":85904643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.295835,44.545029,11.295835,44.545029],
+  "bbox": [
+    11.295835,
+    44.545029,
+    11.295835,
+    44.545029
+],
   "geometry": {"coordinates":[11.295835,44.545029],"type":"Point"}
 }

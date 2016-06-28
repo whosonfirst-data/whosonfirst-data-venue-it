@@ -2,13 +2,14 @@
   "id": 219749025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.702452,40.657257,17.702452,40.657257",
     "geom:latitude":40.657257,
     "geom:longitude":17.702452,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"103, Corso Vittorio Emanuele 72012 Carovigno",
     "sg:city":"Carovigno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219749025,
-    "wof:lastmodified":1449071415,
+    "wof:lastmodified":1466293760,
     "wof:name":"Elia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [17.702452,40.657257,17.702452,40.657257],
+  "bbox": [
+    17.702452,
+    40.657257,
+    17.702452,
+    40.657257
+],
   "geometry": {"coordinates":[17.702452,40.657257],"type":"Point"}
 }

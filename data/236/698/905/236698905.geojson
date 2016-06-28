@@ -2,13 +2,14 @@
   "id": 236698905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.882256,44.435005,11.882256,44.435005",
     "geom:latitude":44.435005,
     "geom:longitude":11.882256,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43, V. Dell'industria 48022 Lugo",
     "sg:city":"Lugo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236698905,
-    "wof:lastmodified":1449005007,
+    "wof:lastmodified":1466295972,
     "wof:name":"Campex Di Bartolotti G. Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [11.882256,44.435005,11.882256,44.435005],
+  "bbox": [
+    11.882256,
+    44.435005,
+    11.882256,
+    44.435005
+],
   "geometry": {"coordinates":[11.882256,44.435005],"type":"Point"}
 }

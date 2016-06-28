@@ -2,13 +2,14 @@
   "id": 303621403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.170798,39.474709,9.170798,39.474709",
     "geom:latitude":39.474709,
     "geom:longitude":9.170798,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09040 Sant'andrea Frius",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamenti - Vendita Al Dettaglio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303621403,
-    "wof:lastmodified":1449000276,
+    "wof:lastmodified":1466297398,
     "wof:name":"Paderi Pietrina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.170798,39.474709,9.170798,39.474709],
+  "bbox": [
+    9.170798,
+    39.474709,
+    9.170798,
+    39.474709
+],
   "geometry": {"coordinates":[9.170798,39.474709],"type":"Point"}
 }

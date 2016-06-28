@@ -2,13 +2,14 @@
   "id": 286401517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.291255,45.653706,12.291255,45.653706",
     "geom:latitude":45.653706,
     "geom:longitude":12.291255,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31057 Silea",
     "sg:city":"Silea",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286401517,
-    "wof:lastmodified":1449017680,
+    "wof:lastmodified":1466291502,
     "wof:name":"Elettrohm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.291255,45.653706,12.291255,45.653706],
+  "bbox": [
+    12.291255,
+    45.653706,
+    12.291255,
+    45.653706
+],
   "geometry": {"coordinates":[12.291255,45.653706],"type":"Point"}
 }

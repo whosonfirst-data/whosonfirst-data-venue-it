@@ -2,13 +2,14 @@
   "id": 303664957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.316848,45.736942,7.316848,45.736942",
     "geom:latitude":45.736942,
     "geom:longitude":7.316848,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11100 Aosta",
     "sg:city":"Aosta",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303664957,
-    "wof:lastmodified":1448999022,
+    "wof:lastmodified":1466297421,
     "wof:name":"Maison Bio Di Edvige Nicosia & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.316848,45.736942,7.316848,45.736942],
+  "bbox": [
+    7.316848,
+    45.736942,
+    7.316848,
+    45.736942
+],
   "geometry": {"coordinates":[7.316848,45.736942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186587303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.614964,44.706955,10.614964,44.706955",
     "geom:latitude":44.706955,
     "geom:longitude":10.614964,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42011 Bagnolo In Piano",
     "sg:classifiers":[],
     "sg:orig_category":"Sabbiatura Metalli",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186587303,
-    "wof:lastmodified":1449051310,
+    "wof:lastmodified":1466293168,
     "wof:name":"Nuova S.m. Di Ronzoni Giorgio Snc",
     "wof:parent_id":85904879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.614964,44.706955,10.614964,44.706955],
+  "bbox": [
+    10.614964,
+    44.706955,
+    10.614964,
+    44.706955
+],
   "geometry": {"coordinates":[10.614964,44.706955],"type":"Point"}
 }

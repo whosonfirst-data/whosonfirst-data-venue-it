@@ -2,13 +2,14 @@
   "id": 219247347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.855314,45.308548,8.855314,45.308548",
     "geom:latitude":45.308548,
     "geom:longitude":8.855314,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vincenzo Bellini 23 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219247347,
-    "wof:lastmodified":1449072453,
+    "wof:lastmodified":1466296074,
     "wof:name":"Nuova Fimac Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "shoe"
     ]
 },
-  "bbox": [8.855314,45.308548,8.855314,45.308548],
+  "bbox": [
+    8.855314,
+    45.308548,
+    8.855314,
+    45.308548
+],
   "geometry": {"coordinates":[8.855314,45.308548],"type":"Point"}
 }

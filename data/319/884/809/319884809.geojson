@@ -2,13 +2,14 @@
   "id": 319884809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.120756,39.247429,9.120756,39.247429",
     "geom:latitude":39.247429,
     "geom:longitude":9.120756,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09134 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":319884809,
-    "wof:lastmodified":1449024739,
+    "wof:lastmodified":1466293345,
     "wof:name":"Integra Sistemi",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.120756,39.247429,9.120756,39.247429],
+  "bbox": [
+    9.120756,
+    39.247429,
+    9.120756,
+    39.247429
+],
   "geometry": {"coordinates":[9.120756,39.247429],"type":"Point"}
 }

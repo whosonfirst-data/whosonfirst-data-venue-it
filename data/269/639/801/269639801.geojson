@@ -2,13 +2,14 @@
   "id": 269639801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.087834,37.502483,15.087834,37.502483",
     "geom:latitude":37.502483,
     "geom:longitude":15.087834,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Duccio Galimberti 70 95010 Santa Venerina",
     "sg:city":"Santa Venerina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269639801,
-    "wof:lastmodified":1449038950,
+    "wof:lastmodified":1466290819,
     "wof:name":"Distilleria F.lli Russo Di Salvatore E Giuseppe Russo Snc",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liqueur"
     ]
 },
-  "bbox": [15.087834,37.502483,15.087834,37.502483],
+  "bbox": [
+    15.087834,
+    37.502483,
+    15.087834,
+    37.502483
+],
   "geometry": {"coordinates":[15.087834,37.502483],"type":"Point"}
 }

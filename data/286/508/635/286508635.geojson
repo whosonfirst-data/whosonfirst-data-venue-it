@@ -2,13 +2,14 @@
   "id": 286508635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.041872,42.403339,14.041872,42.403339",
     "geom:latitude":42.403339,
     "geom:longitude":14.041872,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Contrada Fontanoli 65019 Pianella",
     "sg:city":"Pianella",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286508635,
-    "wof:lastmodified":1449016828,
+    "wof:lastmodified":1466292810,
     "wof:name":"Eurostyle S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [14.041872,42.403339,14.041872,42.403339],
+  "bbox": [
+    14.041872,
+    42.403339,
+    14.041872,
+    42.403339
+],
   "geometry": {"coordinates":[14.041872,42.403339],"type":"Point"}
 }

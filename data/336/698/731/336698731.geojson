@@ -2,13 +2,14 @@
   "id": 336698731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.287206,45.882771,13.287206,45.882771",
     "geom:latitude":45.882771,
     "geom:longitude":13.287206,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Tiziano Tessitori 33050 Bagnaria Arsa",
     "sg:city":"Bagnaria Arsa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336698731,
-    "wof:lastmodified":1448997949,
+    "wof:lastmodified":1466294910,
     "wof:name":"L.m.c. Di Cogoi & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [13.287206,45.882771,13.287206,45.882771],
+  "bbox": [
+    13.287206,
+    45.882771,
+    13.287206,
+    45.882771
+],
   "geometry": {"coordinates":[13.287206,45.882771],"type":"Point"}
 }

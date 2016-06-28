@@ -2,13 +2,14 @@
   "id": 252733681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.336145,41.630798,13.336145,41.630798",
     "geom:latitude":41.630798,
     "geom:longitude":13.336145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03100 Frosinone",
     "sg:city":"Frosinone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252733681,
-    "wof:lastmodified":1449005551,
+    "wof:lastmodified":1466289180,
     "wof:name":"I.ma.pe.x Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.336145,41.630798,13.336145,41.630798],
+  "bbox": [
+    13.336145,
+    41.630798,
+    13.336145,
+    41.630798
+],
   "geometry": {"coordinates":[13.336145,41.630798],"type":"Point"}
 }

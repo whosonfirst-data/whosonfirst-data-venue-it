@@ -2,13 +2,14 @@
   "id": 202440507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.842449,45.445724,10.842449,45.445724",
     "geom:latitude":45.445724,
     "geom:longitude":10.842449,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37125 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202440507,
-    "wof:lastmodified":1449061000,
+    "wof:lastmodified":1466295565,
     "wof:name":"Istituto Scolastico S. Carlo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.842449,45.445724,10.842449,45.445724],
+  "bbox": [
+    10.842449,
+    45.445724,
+    10.842449,
+    45.445724
+],
   "geometry": {"coordinates":[10.842449,45.445724],"type":"Point"}
 }

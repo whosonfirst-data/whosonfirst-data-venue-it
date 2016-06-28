@@ -2,13 +2,14 @@
   "id": 320281701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.614419,40.954391,14.614419,40.954391",
     "geom:latitude":40.954391,
     "geom:longitude":14.614419,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83022 Baiano",
     "sg:city":"Baiano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320281701,
-    "wof:lastmodified":1449014407,
+    "wof:lastmodified":1466296877,
     "wof:name":"A.t.c.ass.tecnica Centrifughe E C.sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.614419,40.954391,14.614419,40.954391],
+  "bbox": [
+    14.614419,
+    40.954391,
+    14.614419,
+    40.954391
+],
   "geometry": {"coordinates":[14.614419,40.954391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253670237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.539994,42.185638,14.539994,42.185638",
     "geom:latitude":42.185638,
     "geom:longitude":14.539994,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 S. Gillio",
     "sg:classifiers":[],
     "sg:orig_category":"Lavorazioni Meccaniche E Servizi. Servizi Per Imballaggio E Confezionamento",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253670237,
-    "wof:lastmodified":1449063260,
+    "wof:lastmodified":1466296504,
     "wof:name":"Euro Proxima Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.539994,42.185638,14.539994,42.185638],
+  "bbox": [
+    14.539994,
+    42.185638,
+    14.539994,
+    42.185638
+],
   "geometry": {"coordinates":[14.539994,42.185638],"type":"Point"}
 }

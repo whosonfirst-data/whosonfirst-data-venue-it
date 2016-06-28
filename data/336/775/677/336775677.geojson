@@ -2,13 +2,14 @@
   "id": 336775677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.001346,44.394581,9.001346,44.394581",
     "geom:latitude":44.394581,
     "geom:longitude":9.001346,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Europa 16100 Genova",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336775677,
-    "wof:lastmodified":1448997731,
+    "wof:lastmodified":1466295830,
     "wof:name":"Siemens Orsi Automation Spa",
     "wof:parent_id":85862681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.001346,44.394581,9.001346,44.394581],
+  "bbox": [
+    9.001346,
+    44.394581,
+    9.001346,
+    44.394581
+],
   "geometry": {"coordinates":[9.001346,44.394581],"type":"Point"}
 }

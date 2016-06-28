@@ -2,13 +2,14 @@
   "id": 236610635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.103942,46.110413,12.103942,46.110413",
     "geom:latitude":46.110413,
     "geom:longitude":12.103942,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Via Belluno 32036 Sedico",
     "sg:city":"Sedico",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236610635,
-    "wof:lastmodified":1449005185,
+    "wof:lastmodified":1466295113,
     "wof:name":"Lamas Di Moretti Giulio & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.103942,46.110413,12.103942,46.110413],
+  "bbox": [
+    12.103942,
+    46.110413,
+    12.103942,
+    46.110413
+],
   "geometry": {"coordinates":[12.103942,46.110413],"type":"Point"}
 }

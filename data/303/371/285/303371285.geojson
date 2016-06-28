@@ -2,13 +2,14 @@
   "id": 303371285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.049807,39.184513,17.049807,39.184513",
     "geom:latitude":39.184513,
     "geom:longitude":17.049807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Gabelluccia 88821 Rocca Di Neto",
     "sg:city":"Rocca di Neto",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303371285,
-    "wof:lastmodified":1449000020,
+    "wof:lastmodified":1466295089,
     "wof:name":"Al.pe.ca. Alimenti Per Cani S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [17.049807,39.184513,17.049807,39.184513],
+  "bbox": [
+    17.049807,
+    39.184513,
+    17.049807,
+    39.184513
+],
   "geometry": {"coordinates":[17.049807,39.184513],"type":"Point"}
 }

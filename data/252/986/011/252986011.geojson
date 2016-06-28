@@ -2,13 +2,14 @@
   "id": 252986011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.382139,46.44112,12.382139,46.44112",
     "geom:latitude":46.44112,
     "geom:longitude":12.382139,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Carlo Alberto Dalla Chiesa 32042 Calalzo Di Cadore",
     "sg:city":"Calalzo di Cadore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252986011,
-    "wof:lastmodified":1449006294,
+    "wof:lastmodified":1466291918,
     "wof:name":"H 8",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [12.382139,46.44112,12.382139,46.44112],
+  "bbox": [
+    12.382139,
+    46.44112,
+    12.382139,
+    46.44112
+],
   "geometry": {"coordinates":[12.382139,46.44112],"type":"Point"}
 }

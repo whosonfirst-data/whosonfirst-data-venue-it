@@ -2,13 +2,14 @@
   "id": 236969687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.199541,43.772507,11.199541,43.772507",
     "geom:latitude":43.772507,
     "geom:longitude":11.199541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bibbiena 12/14 50142 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236969687,
-    "wof:lastmodified":1449002273,
+    "wof:lastmodified":1466297386,
     "wof:name":"Zeus Industria Biologica Alimentare Spa",
     "wof:parent_id":85904701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yeast"
     ]
 },
-  "bbox": [11.199541,43.772507,11.199541,43.772507],
+  "bbox": [
+    11.199541,
+    43.772507,
+    11.199541,
+    43.772507
+],
   "geometry": {"coordinates":[11.199541,43.772507],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320550969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.67263,41.863976,12.67263,41.863976",
     "geom:latitude":41.863976,
     "geom:longitude":12.67263,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00132 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320550969,
-    "wof:lastmodified":1449013287,
+    "wof:lastmodified":1466297701,
     "wof:name":"Centro Stucchi Casilino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.67263,41.863976,12.67263,41.863976],
+  "bbox": [
+    12.67263,
+    41.863976,
+    12.67263,
+    41.863976
+],
   "geometry": {"coordinates":[12.67263,41.863976],"type":"Point"}
 }

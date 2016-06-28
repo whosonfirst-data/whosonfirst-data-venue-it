@@ -2,13 +2,14 @@
   "id": 252781183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.201044,43.506775,12.201044,43.506775",
     "geom:latitude":43.506775,
     "geom:longitude":12.201044,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06012 Citta'dicastello",
     "sg:city":"Cerbara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252781183,
-    "wof:lastmodified":1449005622,
+    "wof:lastmodified":1466289700,
     "wof:name":"Velia Pellicceria Di Mazzoni Marina & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.201044,43.506775,12.201044,43.506775],
+  "bbox": [
+    12.201044,
+    43.506775,
+    12.201044,
+    43.506775
+],
   "geometry": {"coordinates":[12.201044,43.506775],"type":"Point"}
 }

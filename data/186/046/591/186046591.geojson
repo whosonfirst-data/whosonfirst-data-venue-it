@@ -2,13 +2,14 @@
   "id": 186046591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.424623,40.18774,16.424623,40.18774",
     "geom:latitude":40.18774,
     "geom:longitude":16.424623,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Umberto I, 104; Colobraro; 75021",
     "sg:city":"Colobraro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186046591,
-    "wof:lastmodified":1449051865,
+    "wof:lastmodified":1466295012,
     "wof:name":"Cassa Rurale Ed Artigiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.424623,40.18774,16.424623,40.18774],
+  "bbox": [
+    16.424623,
+    40.18774,
+    16.424623,
+    40.18774
+],
   "geometry": {"coordinates":[16.424623,40.18774],"type":"Point"}
 }

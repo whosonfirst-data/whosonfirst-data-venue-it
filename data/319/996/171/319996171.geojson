@@ -2,13 +2,14 @@
   "id": 319996171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.200465,45.451206,9.200465,45.451206",
     "geom:latitude":45.451206,
     "geom:longitude":9.200465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20135 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319996171,
-    "wof:lastmodified":1449024301,
+    "wof:lastmodified":1466294774,
     "wof:name":"Porta Checcacci & Associati Spa",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.200465,45.451206,9.200465,45.451206],
+  "bbox": [
+    9.200465,
+    45.451206,
+    9.200465,
+    45.451206
+],
   "geometry": {"coordinates":[9.200465,45.451206],"type":"Point"}
 }

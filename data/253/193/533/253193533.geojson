@@ -2,13 +2,14 @@
   "id": 253193533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.655044,45.96265,12.655044,45.96265",
     "geom:latitude":45.96265,
     "geom:longitude":12.655044,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Xx Settembre 272 33080 Roveredo In Piano",
     "sg:city":"Roveredo in Piano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253193533,
-    "wof:lastmodified":1449063296,
+    "wof:lastmodified":1466290922,
     "wof:name":"Della Valentina Office Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [12.655044,45.96265,12.655044,45.96265],
+  "bbox": [
+    12.655044,
+    45.96265,
+    12.655044,
+    45.96265
+],
   "geometry": {"coordinates":[12.655044,45.96265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169730809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.527763,43.678822,10.527763,43.678822",
     "geom:latitude":43.678822,
     "geom:longitude":10.527763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56012 Calcinaia",
     "sg:city":"Calcinaia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169730809,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466294678,
     "wof:name":"Banca Di Credito Coop. Di Fornacette Soc. Coop.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.527763,43.678822,10.527763,43.678822],
+  "bbox": [
+    10.527763,
+    43.678822,
+    10.527763,
+    43.678822
+],
   "geometry": {"coordinates":[10.527763,43.678822],"type":"Point"}
 }

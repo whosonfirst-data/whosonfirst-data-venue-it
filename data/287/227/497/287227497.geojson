@@ -2,13 +2,14 @@
   "id": 287227497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.819597,45.404686,11.819597,45.404686",
     "geom:latitude":45.404686,
     "geom:longitude":11.819597,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Marconi Guglielmo 35030 Selvazzano Dentro",
     "sg:city":"Selvazzano Dentro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287227497,
-    "wof:lastmodified":1449000852,
+    "wof:lastmodified":1466292632,
     "wof:name":"Dmt Network Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "electronic"
     ]
 },
-  "bbox": [11.819597,45.404686,11.819597,45.404686],
+  "bbox": [
+    11.819597,
+    45.404686,
+    11.819597,
+    45.404686
+],
   "geometry": {"coordinates":[11.819597,45.404686],"type":"Point"}
 }

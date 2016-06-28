@@ -2,13 +2,14 @@
   "id": 286354105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.374505,40.871796,14.374505,40.871796",
     "geom:latitude":40.871796,
     "geom:longitude":14.374505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80040 Pollena Trocchia",
     "sg:city":"Pollena Trocchia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286354105,
-    "wof:lastmodified":1449017766,
+    "wof:lastmodified":1466290756,
     "wof:name":"Time Record Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.374505,40.871796,14.374505,40.871796],
+  "bbox": [
+    14.374505,
+    40.871796,
+    14.374505,
+    40.871796
+],
   "geometry": {"coordinates":[14.374505,40.871796],"type":"Point"}
 }

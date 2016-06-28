@@ -2,13 +2,14 @@
   "id": 219884623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.465326,44.615608,11.465326,44.615608",
     "geom:latitude":44.615608,
     "geom:longitude":11.465326,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40061 Minerbio",
     "sg:city":"Minerbio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219884623,
-    "wof:lastmodified":1449073249,
+    "wof:lastmodified":1466295121,
     "wof:name":"Stern Weber Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.465326,44.615608,11.465326,44.615608],
+  "bbox": [
+    11.465326,
+    44.615608,
+    11.465326,
+    44.615608
+],
   "geometry": {"coordinates":[11.465326,44.615608],"type":"Point"}
 }

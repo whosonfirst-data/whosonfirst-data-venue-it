@@ -2,13 +2,14 @@
   "id": 236736417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171579,45.454552,9.171579,45.454552",
     "geom:latitude":45.454552,
     "geom:longitude":9.171579,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236736417,
-    "wof:lastmodified":1449005204,
+    "wof:lastmodified":1466296399,
     "wof:name":"L'autosprint Di Massimi Bruno",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.171579,45.454552,9.171579,45.454552],
+  "bbox": [
+    9.171579,
+    45.454552,
+    9.171579,
+    45.454552
+],
   "geometry": {"coordinates":[9.171579,45.454552],"type":"Point"}
 }

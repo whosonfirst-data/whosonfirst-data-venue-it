@@ -2,13 +2,14 @@
   "id": 320537357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.162741,45.461563,9.162741,45.461563",
     "geom:latitude":45.461563,
     "geom:longitude":9.162741,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazzale Aquileja 6 20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320537357,
-    "wof:lastmodified":1449012178,
+    "wof:lastmodified":1466297664,
     "wof:name":"Bcm Cosmetics Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "make-up"
     ]
 },
-  "bbox": [9.162741,45.461563,9.162741,45.461563],
+  "bbox": [
+    9.162741,
+    45.461563,
+    9.162741,
+    45.461563
+],
   "geometry": {"coordinates":[9.162741,45.461563],"type":"Point"}
 }

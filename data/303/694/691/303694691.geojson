@@ -2,13 +2,14 @@
   "id": 303694691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.212082,45.480274,9.212082,45.480274",
     "geom:latitude":45.480274,
     "geom:longitude":9.212082,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20049 Concorezzo",
     "sg:city":"Concorezzo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303694691,
-    "wof:lastmodified":1448998798,
+    "wof:lastmodified":1466297578,
     "wof:name":"Giovanardi Srl",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.212082,45.480274,9.212082,45.480274],
+  "bbox": [
+    9.212082,
+    45.480274,
+    9.212082,
+    45.480274
+],
   "geometry": {"coordinates":[9.212082,45.480274],"type":"Point"}
 }

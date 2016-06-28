@@ -2,13 +2,14 @@
   "id": 320303677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.124494,45.544498,9.124494,45.544498",
     "geom:latitude":45.544498,
     "geom:longitude":9.124494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20021 Bollate",
     "sg:city":"Bollate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320303677,
-    "wof:lastmodified":1449011290,
+    "wof:lastmodified":1466296730,
     "wof:name":"Spraying Systems Comtosi Srl",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.124494,45.544498,9.124494,45.544498],
+  "bbox": [
+    9.124494,
+    45.544498,
+    9.124494,
+    45.544498
+],
   "geometry": {"coordinates":[9.124494,45.544498],"type":"Point"}
 }

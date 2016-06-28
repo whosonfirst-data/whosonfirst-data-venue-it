@@ -2,13 +2,14 @@
   "id": 336849737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.03345,45.769794,9.03345,45.769794",
     "geom:latitude":45.769794,
     "geom:longitude":9.03345,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Dell' Artigianato 22079 Villa Guardia",
     "sg:city":"Villa Guardia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336849737,
-    "wof:lastmodified":1448997146,
+    "wof:lastmodified":1466296598,
     "wof:name":"Lario Energy Impianti S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.03345,45.769794,9.03345,45.769794],
+  "bbox": [
+    9.03345,
+    45.769794,
+    9.03345,
+    45.769794
+],
   "geometry": {"coordinates":[9.03345,45.769794],"type":"Point"}
 }

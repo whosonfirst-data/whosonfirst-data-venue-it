@@ -2,13 +2,14 @@
   "id": 303597925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.792712,37.685818,12.792712,37.685818",
     "geom:latitude":37.685818,
     "geom:longitude":12.792712,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91022 Castelvetrano",
     "sg:city":"Castelvetrano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303597925,
-    "wof:lastmodified":1449000532,
+    "wof:lastmodified":1466297174,
     "wof:name":"C.c. Nova Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.792712,37.685818,12.792712,37.685818],
+  "bbox": [
+    12.792712,
+    37.685818,
+    12.792712,
+    37.685818
+],
   "geometry": {"coordinates":[12.792712,37.685818],"type":"Point"}
 }

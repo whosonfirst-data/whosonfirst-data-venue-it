@@ -2,13 +2,14 @@
   "id": 303205389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.431468,45.134686,8.431468,45.134686",
     "geom:latitude":45.134686,
     "geom:longitude":8.431468,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15033 Casale Monferrato",
     "sg:city":"Casale Monferrato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303205389,
-    "wof:lastmodified":1448999600,
+    "wof:lastmodified":1466293055,
     "wof:name":"Volta Eugenio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.431468,45.134686,8.431468,45.134686],
+  "bbox": [
+    8.431468,
+    45.134686,
+    8.431468,
+    45.134686
+],
   "geometry": {"coordinates":[8.431468,45.134686],"type":"Point"}
 }

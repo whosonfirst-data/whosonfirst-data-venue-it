@@ -2,13 +2,14 @@
   "id": 203333323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.507764,41.916809,12.507764,41.916809",
     "geom:latitude":41.916809,
     "geom:longitude":12.507764,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":203333323,
-    "wof:lastmodified":1449026742,
+    "wof:lastmodified":1466291399,
     "wof:name":"Ar.co. Studio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.507764,41.916809,12.507764,41.916809],
+  "bbox": [
+    12.507764,
+    41.916809,
+    12.507764,
+    41.916809
+],
   "geometry": {"coordinates":[12.507764,41.916809],"type":"Point"}
 }

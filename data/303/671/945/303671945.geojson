@@ -2,13 +2,14 @@
   "id": 303671945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.783968,46.160213,9.783968,46.160213",
     "geom:latitude":46.160213,
     "geom:longitude":9.783968,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23010 Berbenno Di Valtellina",
     "sg:city":"Berbenno di Valtellina",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303671945,
-    "wof:lastmodified":1448998674,
+    "wof:lastmodified":1466297583,
     "wof:name":"Concreta Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.783968,46.160213,9.783968,46.160213],
+  "bbox": [
+    9.783968,
+    46.160213,
+    9.783968,
+    46.160213
+],
   "geometry": {"coordinates":[9.783968,46.160213],"type":"Point"}
 }

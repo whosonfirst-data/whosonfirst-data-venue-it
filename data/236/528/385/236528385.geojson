@@ -2,13 +2,14 @@
   "id": 236528385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.320687,40.826527,14.320687,40.826527",
     "geom:latitude":40.826527,
     "geom:longitude":14.320687,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80046 S. Giorgio A Cremano",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236528385,
-    "wof:lastmodified":1449002346,
+    "wof:lastmodified":1466294351,
     "wof:name":"Cismet Srl",
     "wof:parent_id":85904819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [14.320687,40.826527,14.320687,40.826527],
+  "bbox": [
+    14.320687,
+    40.826527,
+    14.320687,
+    40.826527
+],
   "geometry": {"coordinates":[14.320687,40.826527],"type":"Point"}
 }

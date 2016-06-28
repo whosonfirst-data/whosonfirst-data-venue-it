@@ -2,13 +2,14 @@
   "id": 219353017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.454475,40.120373,18.454475,40.120373",
     "geom:latitude":40.120373,
     "geom:longitude":18.454475,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73028 Otranto",
     "sg:city":"Otranto",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219353017,
-    "wof:lastmodified":1449071423,
+    "wof:lastmodified":1466289840,
     "wof:name":"Ducks & Marlins Di Roberto Vetruccio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "il"
     ]
 },
-  "bbox": [18.454475,40.120373,18.454475,40.120373],
+  "bbox": [
+    18.454475,
+    40.120373,
+    18.454475,
+    40.120373
+],
   "geometry": {"coordinates":[18.454475,40.120373],"type":"Point"}
 }

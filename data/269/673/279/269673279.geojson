@@ -2,13 +2,14 @@
   "id": 269673279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.171027,45.453159,9.171027,45.453159",
     "geom:latitude":45.453159,
     "geom:longitude":9.171027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41, Via Vigevano 20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269673279,
-    "wof:lastmodified":1449037080,
+    "wof:lastmodified":1466291256,
     "wof:name":"Robilant & Associati S.r.l.",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [9.171027,45.453159,9.171027,45.453159],
+  "bbox": [
+    9.171027,
+    45.453159,
+    9.171027,
+    45.453159
+],
   "geometry": {"coordinates":[9.171027,45.453159],"type":"Point"}
 }

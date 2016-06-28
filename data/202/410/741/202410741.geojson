@@ -2,13 +2,14 @@
   "id": 202410741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.996465,45.439304,10.996465,45.439304",
     "geom:latitude":45.439304,
     "geom:longitude":10.996465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37045 Legnago",
     "sg:city":"Legnago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202410741,
-    "wof:lastmodified":1449060141,
+    "wof:lastmodified":1466294926,
     "wof:name":"Istituto Clef (s.a.s.)",
     "wof:parent_id":85905047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.996465,45.439304,10.996465,45.439304],
+  "bbox": [
+    10.996465,
+    45.439304,
+    10.996465,
+    45.439304
+],
   "geometry": {"coordinates":[10.996465,45.439304],"type":"Point"}
 }

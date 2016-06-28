@@ -2,13 +2,14 @@
   "id": 270506059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.265841,45.607422,9.265841,45.607422",
     "geom:latitude":45.607422,
     "geom:longitude":9.265841,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35, Via Europa 20053 Muggio'",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270506059,
-    "wof:lastmodified":1449008718,
+    "wof:lastmodified":1466295135,
     "wof:name":"Knoll Farmaceutici Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.265841,45.607422,9.265841,45.607422],
+  "bbox": [
+    9.265841,
+    45.607422,
+    9.265841,
+    45.607422
+],
   "geometry": {"coordinates":[9.265841,45.607422],"type":"Point"}
 }

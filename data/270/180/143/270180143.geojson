@@ -2,13 +2,14 @@
   "id": 270180143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.083578,40.313534,18.083578,40.313534",
     "geom:latitude":40.313534,
     "geom:longitude":18.083578,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73047 Monteroni Di Lecce",
     "sg:city":"Monteroni di Lecce",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270180143,
-    "wof:lastmodified":1449008772,
+    "wof:lastmodified":1466291122,
     "wof:name":"Vantaggiato Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.083578,40.313534,18.083578,40.313534],
+  "bbox": [
+    18.083578,
+    40.313534,
+    18.083578,
+    40.313534
+],
   "geometry": {"coordinates":[18.083578,40.313534],"type":"Point"}
 }

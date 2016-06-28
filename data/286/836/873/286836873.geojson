@@ -2,13 +2,14 @@
   "id": 286836873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.652368,44.735378,10.652368,44.735378",
     "geom:latitude":44.735378,
     "geom:longitude":10.652368,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Tempo Libero - Articoli E Forniture. Forniture Per Congressi, Fiere E Manifestazioni. Regalistica Aziendale",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286836873,
-    "wof:lastmodified":1449017129,
+    "wof:lastmodified":1466296623,
     "wof:name":"Bonetti Pubblicit\u00c0 Snc",
     "wof:parent_id":85904899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.652368,44.735378,10.652368,44.735378],
+  "bbox": [
+    10.652368,
+    44.735378,
+    10.652368,
+    44.735378
+],
   "geometry": {"coordinates":[10.652368,44.735378],"type":"Point"}
 }

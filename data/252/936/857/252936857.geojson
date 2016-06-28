@@ -2,13 +2,14 @@
   "id": 252936857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.072207,45.518589,10.072207,45.518589",
     "geom:latitude":45.518589,
     "geom:longitude":10.072207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25039 Travagliato",
     "sg:city":"Travagliato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252936857,
-    "wof:lastmodified":1449005768,
+    "wof:lastmodified":1466291409,
     "wof:name":"Tegoletti Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.072207,45.518589,10.072207,45.518589],
+  "bbox": [
+    10.072207,
+    45.518589,
+    10.072207,
+    45.518589
+],
   "geometry": {"coordinates":[10.072207,45.518589],"type":"Point"}
 }

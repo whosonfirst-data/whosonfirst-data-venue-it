@@ -2,13 +2,14 @@
   "id": 320461913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.174155,46.051319,13.174155,46.051319",
     "geom:latitude":46.051319,
     "geom:longitude":13.174155,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33037 Pasian Di Prato",
     "sg:city":"Pasian di Prato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320461913,
-    "wof:lastmodified":1449012688,
+    "wof:lastmodified":1466297629,
     "wof:name":"Dolce Bon Bon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.174155,46.051319,13.174155,46.051319],
+  "bbox": [
+    13.174155,
+    46.051319,
+    13.174155,
+    46.051319
+],
   "geometry": {"coordinates":[13.174155,46.051319],"type":"Point"}
 }

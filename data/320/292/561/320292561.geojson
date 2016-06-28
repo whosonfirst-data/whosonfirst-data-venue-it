@@ -2,13 +2,14 @@
   "id": 320292561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.090166,45.447994,9.090166,45.447994",
     "geom:latitude":45.447994,
     "geom:longitude":9.090166,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Cesano Boscone",
     "sg:city":"Cesano Boscone",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320292561,
-    "wof:lastmodified":1449011562,
+    "wof:lastmodified":1466296810,
     "wof:name":"Scc Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.090166,45.447994,9.090166,45.447994],
+  "bbox": [
+    9.090166,
+    45.447994,
+    9.090166,
+    45.447994
+],
   "geometry": {"coordinates":[9.090166,45.447994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287045011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.587584,45.831882,9.587584,45.831882",
     "geom:latitude":45.831882,
     "geom:longitude":9.587584,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24012 Brembilla",
     "sg:city":"Brembilla",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287045011,
-    "wof:lastmodified":1449001477,
+    "wof:lastmodified":1466290150,
     "wof:name":"Gamba Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.587584,45.831882,9.587584,45.831882],
+  "bbox": [
+    9.587584,
+    45.831882,
+    9.587584,
+    45.831882
+],
   "geometry": {"coordinates":[9.587584,45.831882],"type":"Point"}
 }

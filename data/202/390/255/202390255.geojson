@@ -2,13 +2,14 @@
   "id": 202390255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.462237,41.02499,14.462237,41.02499",
     "geom:latitude":41.02499,
     "geom:longitude":14.462237,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81028 Santa Maria A Vico",
     "sg:city":"Santa Maria a Vico",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202390255,
-    "wof:lastmodified":1449062682,
+    "wof:lastmodified":1466294235,
     "wof:name":"Istituto Montessori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.462237,41.02499,14.462237,41.02499],
+  "bbox": [
+    14.462237,
+    41.02499,
+    14.462237,
+    41.02499
+],
   "geometry": {"coordinates":[14.462237,41.02499],"type":"Point"}
 }

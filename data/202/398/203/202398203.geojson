@@ -2,13 +2,14 @@
   "id": 202398203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.472066,41.889618,12.472066,41.889618",
     "geom:latitude":41.889618,
     "geom:longitude":12.472066,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00153 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202398203,
-    "wof:lastmodified":1449060320,
+    "wof:lastmodified":1466294527,
     "wof:name":"Scuola Privata - Scuola Di Avviamento Commerciale Parificata =s. Rufina E Seconda=",
     "wof:parent_id":85900443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.472066,41.889618,12.472066,41.889618],
+  "bbox": [
+    12.472066,
+    41.889618,
+    12.472066,
+    41.889618
+],
   "geometry": {"coordinates":[12.472066,41.889618],"type":"Point"}
 }

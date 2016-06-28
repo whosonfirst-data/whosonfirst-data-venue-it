@@ -2,13 +2,14 @@
   "id": 236890545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.547771,45.910374,12.547771,45.910374",
     "geom:latitude":45.910374,
     "geom:longitude":12.547771,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Via Bandi 33070 Brugnera",
     "sg:city":"Brugnera",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236890545,
-    "wof:lastmodified":1449002218,
+    "wof:lastmodified":1466297037,
     "wof:name":"V.a.m. - Vetreria Artistica Mattesco (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.547771,45.910374,12.547771,45.910374],
+  "bbox": [
+    12.547771,
+    45.910374,
+    12.547771,
+    45.910374
+],
   "geometry": {"coordinates":[12.547771,45.910374],"type":"Point"}
 }

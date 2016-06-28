@@ -2,13 +2,14 @@
   "id": 336772015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.111992,44.029125,10.111992,44.029125",
     "geom:latitude":44.029125,
     "geom:longitude":10.111992,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Bordigona 54100 Massa",
     "sg:city":"Massa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336772015,
-    "wof:lastmodified":1448997434,
+    "wof:lastmodified":1466295783,
     "wof:name":"Scaletti Gemello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.111992,44.029125,10.111992,44.029125],
+  "bbox": [
+    10.111992,
+    44.029125,
+    10.111992,
+    44.029125
+],
   "geometry": {"coordinates":[10.111992,44.029125],"type":"Point"}
 }

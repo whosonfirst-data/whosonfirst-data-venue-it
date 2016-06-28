@@ -2,13 +2,14 @@
   "id": 202598947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.483439,41.902351,12.483439,41.902351",
     "geom:latitude":41.902351,
     "geom:longitude":12.483439,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202598947,
-    "wof:lastmodified":1449060234,
+    "wof:lastmodified":1466289960,
     "wof:name":"Consolato Seychelles",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.483439,41.902351,12.483439,41.902351],
+  "bbox": [
+    12.483439,
+    41.902351,
+    12.483439,
+    41.902351
+],
   "geometry": {"coordinates":[12.483439,41.902351],"type":"Point"}
 }

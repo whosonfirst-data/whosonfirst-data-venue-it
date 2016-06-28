@@ -2,13 +2,14 @@
   "id": 169746293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.262057,40.892967,14.262057,40.892967",
     "geom:latitude":40.892967,
     "geom:longitude":14.262057,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80144 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169746293,
-    "wof:lastmodified":1449032654,
+    "wof:lastmodified":1466295227,
     "wof:name":"Colella Emilia",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.262057,40.892967,14.262057,40.892967],
+  "bbox": [
+    14.262057,
+    40.892967,
+    14.262057,
+    40.892967
+],
   "geometry": {"coordinates":[14.262057,40.892967],"type":"Point"}
 }

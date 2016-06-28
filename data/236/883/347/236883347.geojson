@@ -2,13 +2,14 @@
   "id": 236883347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.122923,43.422905,11.122923,43.422905",
     "geom:latitude":43.422905,
     "geom:longitude":11.122923,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, V. Del Muro Lungo 53034 Colle Di Val D'elsa",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236883347,
-    "wof:lastmodified":1449004309,
+    "wof:lastmodified":1466297123,
     "wof:name":"La Grotta Del Cristallo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.122923,43.422905,11.122923,43.422905],
+  "bbox": [
+    11.122923,
+    43.422905,
+    11.122923,
+    43.422905
+],
   "geometry": {"coordinates":[11.122923,43.422905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320207281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.182617,43.7495,11.182617,43.7495",
     "geom:latitude":43.7495,
     "geom:longitude":11.182617,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50068 Rufina",
     "sg:city":"Rufina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320207281,
-    "wof:lastmodified":1449013880,
+    "wof:lastmodified":1466295897,
     "wof:name":"O.r.m.a. Di Somigli Saverio & C Snc",
     "wof:parent_id":85900321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.182617,43.7495,11.182617,43.7495],
+  "bbox": [
+    11.182617,
+    43.7495,
+    11.182617,
+    43.7495
+],
   "geometry": {"coordinates":[11.182617,43.7495],"type":"Point"}
 }

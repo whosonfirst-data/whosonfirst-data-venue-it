@@ -2,13 +2,14 @@
   "id": 253249395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.343207,38.120247,13.343207,38.120247",
     "geom:latitude":38.120247,
     "geom:longitude":13.343207,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90138 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253249395,
-    "wof:lastmodified":1449062971,
+    "wof:lastmodified":1466291562,
     "wof:name":"Casa Di Cura Macchiarella Spa",
     "wof:parent_id":85904875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.343207,38.120247,13.343207,38.120247],
+  "bbox": [
+    13.343207,
+    38.120247,
+    13.343207,
+    38.120247
+],
   "geometry": {"coordinates":[13.343207,38.120247],"type":"Point"}
 }

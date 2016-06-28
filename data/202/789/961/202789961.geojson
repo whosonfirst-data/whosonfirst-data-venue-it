@@ -2,13 +2,14 @@
   "id": 202789961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.510508,43.619717,13.510508,43.619717",
     "geom:latitude":43.619717,
     "geom:longitude":13.510508,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60121 Ancona",
     "sg:city":"Ancona",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202789961,
-    "wof:lastmodified":1449061274,
+    "wof:lastmodified":1466292085,
     "wof:name":"Coro Lirico Marchigiano V. Bellini Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "il"
     ]
 },
-  "bbox": [13.510508,43.619717,13.510508,43.619717],
+  "bbox": [
+    13.510508,
+    43.619717,
+    13.510508,
+    43.619717
+],
   "geometry": {"coordinates":[13.510508,43.619717],"type":"Point"}
 }

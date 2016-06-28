@@ -2,13 +2,14 @@
   "id": 286495323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.747068,41.043545,16.747068,41.043545",
     "geom:latitude":41.043545,
     "geom:longitude":16.747068,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Giacomo Castore 70020 Bitetto",
     "sg:city":"Bitetto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286495323,
-    "wof:lastmodified":1449016483,
+    "wof:lastmodified":1466292653,
     "wof:name":"Cramarossa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [16.747068,41.043545,16.747068,41.043545],
+  "bbox": [
+    16.747068,
+    41.043545,
+    16.747068,
+    41.043545
+],
   "geometry": {"coordinates":[16.747068,41.043545],"type":"Point"}
 }

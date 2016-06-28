@@ -2,13 +2,14 @@
   "id": 286309247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.911357,41.574421,12.911357,41.574421",
     "geom:latitude":41.574421,
     "geom:longitude":12.911357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ninfina 04012 Cisterna Di Latina",
     "sg:city":"Cisterna di Latina",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286309247,
-    "wof:lastmodified":1449015825,
+    "wof:lastmodified":1466290071,
     "wof:name":"Nalco Italiana Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemistry"
     ]
 },
-  "bbox": [12.911357,41.574421,12.911357,41.574421],
+  "bbox": [
+    12.911357,
+    41.574421,
+    12.911357,
+    41.574421
+],
   "geometry": {"coordinates":[12.911357,41.574421],"type":"Point"}
 }

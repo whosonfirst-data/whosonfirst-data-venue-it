@@ -2,13 +2,14 @@
   "id": 336875487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.412057,45.522594,9.412057,45.522594",
     "geom:latitude":45.522594,
     "geom:longitude":9.412057,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Parini 94 20064 Gorgonzola",
     "sg:city":"Gorgonzola",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336875487,
-    "wof:lastmodified":1448997737,
+    "wof:lastmodified":1466296633,
     "wof:name":"Ital Tbs S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [9.412057,45.522594,9.412057,45.522594],
+  "bbox": [
+    9.412057,
+    45.522594,
+    9.412057,
+    45.522594
+],
   "geometry": {"coordinates":[9.412057,45.522594],"type":"Point"}
 }

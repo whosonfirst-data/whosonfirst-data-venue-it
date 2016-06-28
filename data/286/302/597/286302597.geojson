@@ -2,13 +2,14 @@
   "id": 286302597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.553327,45.648354,9.553327,45.648354",
     "geom:latitude":45.648354,
     "geom:longitude":9.553327,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Papini 4 24040 Madone",
     "sg:city":"Madone",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286302597,
-    "wof:lastmodified":1449016179,
+    "wof:lastmodified":1466289987,
     "wof:name":"Labor Chimica Di Verdoni Vittorio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [9.553327,45.648354,9.553327,45.648354],
+  "bbox": [
+    9.553327,
+    45.648354,
+    9.553327,
+    45.648354
+],
   "geometry": {"coordinates":[9.553327,45.648354],"type":"Point"}
 }

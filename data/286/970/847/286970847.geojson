@@ -2,13 +2,14 @@
   "id": 286970847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17888,45.477741,9.17888,45.477741",
     "geom:latitude":45.477741,
     "geom:longitude":9.17888,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20050 Peregallo",
     "sg:city":"Peregallo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286970847,
-    "wof:lastmodified":1449018026,
+    "wof:lastmodified":1466297463,
     "wof:name":"Korma S.p.a.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.17888,45.477741,9.17888,45.477741],
+  "bbox": [
+    9.17888,
+    45.477741,
+    9.17888,
+    45.477741
+],
   "geometry": {"coordinates":[9.17888,45.477741],"type":"Point"}
 }

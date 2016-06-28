@@ -2,13 +2,14 @@
   "id": 219604141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.48733,44.439636,11.48733,44.439636",
     "geom:latitude":44.439636,
     "geom:longitude":11.48733,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40064 Ozzano Dell'emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Ricambi E Componenti Dei Mezzi Di Trasporto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219604141,
-    "wof:lastmodified":1449073507,
+    "wof:lastmodified":1466292333,
     "wof:name":"Margilgomma Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.48733,44.439636,11.48733,44.439636],
+  "bbox": [
+    11.48733,
+    44.439636,
+    11.48733,
+    44.439636
+],
   "geometry": {"coordinates":[11.48733,44.439636],"type":"Point"}
 }

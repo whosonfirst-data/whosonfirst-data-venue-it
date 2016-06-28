@@ -2,13 +2,14 @@
   "id": 236780193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.087532,41.236923,16.087532,41.236923",
     "geom:latitude":41.236923,
     "geom:longitude":16.087532,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70053 Canosa Di Puglia",
     "sg:city":"Canosa di Puglia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236780193,
-    "wof:lastmodified":1449004248,
+    "wof:lastmodified":1466296612,
     "wof:name":"Sapore D'antico Di Silvestri Nunzia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [16.087532,41.236923,16.087532,41.236923],
+  "bbox": [
+    16.087532,
+    41.236923,
+    16.087532,
+    41.236923
+],
   "geometry": {"coordinates":[16.087532,41.236923],"type":"Point"}
 }

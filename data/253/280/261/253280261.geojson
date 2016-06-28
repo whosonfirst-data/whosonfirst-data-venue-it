@@ -2,13 +2,14 @@
   "id": 253280261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.711087,42.959038,12.711087,42.959038",
     "geom:latitude":42.959038,
     "geom:longitude":12.711087,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06034 Foligno",
     "sg:city":"Foligno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253280261,
-    "wof:lastmodified":1449064274,
+    "wof:lastmodified":1466291951,
     "wof:name":"New Kirokenetix Douglas C. Mc Gilliard (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.711087,42.959038,12.711087,42.959038],
+  "bbox": [
+    12.711087,
+    42.959038,
+    12.711087,
+    42.959038
+],
   "geometry": {"coordinates":[12.711087,42.959038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253498235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.534497,45.685532,9.534497,45.685532",
     "geom:latitude":45.685532,
     "geom:longitude":9.534497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Terno D'isola",
     "sg:classifiers":[],
     "sg:orig_category":"Vetro: Prodotti E Lavorazioni",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253498235,
-    "wof:lastmodified":1449065046,
+    "wof:lastmodified":1466294614,
     "wof:name":"Italfilm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.534497,45.685532,9.534497,45.685532],
+  "bbox": [
+    9.534497,
+    45.685532,
+    9.534497,
+    45.685532
+],
   "geometry": {"coordinates":[9.534497,45.685532],"type":"Point"}
 }

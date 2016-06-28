@@ -2,13 +2,14 @@
   "id": 236122035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.766183,44.991619,10.766183,44.991619",
     "geom:latitude":44.991619,
     "geom:longitude":10.766183,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pacinotti 16a 46029 Suzzara",
     "sg:city":"Suzzara",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236122035,
-    "wof:lastmodified":1449003537,
+    "wof:lastmodified":1466290114,
     "wof:name":"Piusi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pump"
     ]
 },
-  "bbox": [10.766183,44.991619,10.766183,44.991619],
+  "bbox": [
+    10.766183,
+    44.991619,
+    10.766183,
+    44.991619
+],
   "geometry": {"coordinates":[10.766183,44.991619],"type":"Point"}
 }

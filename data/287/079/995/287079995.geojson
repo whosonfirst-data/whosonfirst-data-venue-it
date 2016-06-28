@@ -2,13 +2,14 @@
   "id": 287079995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.587911,45.698849,9.587911,45.698849",
     "geom:latitude":45.698849,
     "geom:longitude":9.587911,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24036 Ponte San Pietro",
     "sg:city":"Ponte San Pietro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287079995,
-    "wof:lastmodified":1449001420,
+    "wof:lastmodified":1466290656,
     "wof:name":"Ceresoli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "public"
     ]
 },
-  "bbox": [9.587911,45.698849,9.587911,45.698849],
+  "bbox": [
+    9.587911,
+    45.698849,
+    9.587911,
+    45.698849
+],
   "geometry": {"coordinates":[9.587911,45.698849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236750381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.313891,44.903095,10.313891,44.903095",
     "geom:latitude":44.903095,
     "geom:longitude":10.313891,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43052 Colorno",
     "sg:city":"Colorno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236750381,
-    "wof:lastmodified":1449003679,
+    "wof:lastmodified":1466296334,
     "wof:name":"Dolcelinea Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.313891,44.903095,10.313891,44.903095],
+  "bbox": [
+    10.313891,
+    44.903095,
+    10.313891,
+    44.903095
+],
   "geometry": {"coordinates":[10.313891,44.903095],"type":"Point"}
 }

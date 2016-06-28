@@ -2,13 +2,14 @@
   "id": 303571853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.439123,40.534378,17.439123,40.534378",
     "geom:latitude":40.534378,
     "geom:longitude":17.439123,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74023 Grottaglie",
     "sg:city":"Grottaglie",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303571853,
-    "wof:lastmodified":1448999785,
+    "wof:lastmodified":1466296920,
     "wof:name":"Erre 2 Studio Di Nisi Rosanna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.439123,40.534378,17.439123,40.534378],
+  "bbox": [
+    17.439123,
+    40.534378,
+    17.439123,
+    40.534378
+],
   "geometry": {"coordinates":[17.439123,40.534378],"type":"Point"}
 }

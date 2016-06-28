@@ -2,13 +2,14 @@
   "id": 270026165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.714156,45.933537,12.714156,45.933537",
     "geom:latitude":45.933537,
     "geom:longitude":12.714156,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pontebbana 33080 Fiume Veneto",
     "sg:city":"Fiume Veneto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270026165,
-    "wof:lastmodified":1449010093,
+    "wof:lastmodified":1466289301,
     "wof:name":"Farid Industrie Spa Torino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cable"
     ]
 },
-  "bbox": [12.714156,45.933537,12.714156,45.933537],
+  "bbox": [
+    12.714156,
+    45.933537,
+    12.714156,
+    45.933537
+],
   "geometry": {"coordinates":[12.714156,45.933537],"type":"Point"}
 }

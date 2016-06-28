@@ -2,13 +2,14 @@
   "id": 269768091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.219182,45.482517,9.219182,45.482517",
     "geom:latitude":45.482517,
     "geom:longitude":9.219182,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269768091,
-    "wof:lastmodified":1449037068,
+    "wof:lastmodified":1466292637,
     "wof:name":"Gsa Global Security Agency",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.219182,45.482517,9.219182,45.482517],
+  "bbox": [
+    9.219182,
+    45.482517,
+    9.219182,
+    45.482517
+],
   "geometry": {"coordinates":[9.219182,45.482517],"type":"Point"}
 }

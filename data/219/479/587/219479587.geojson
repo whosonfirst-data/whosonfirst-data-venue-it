@@ -2,13 +2,14 @@
   "id": 219479587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.07196,45.531105,9.07196,45.531105",
     "geom:latitude":45.531105,
     "geom:longitude":9.07196,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219479587,
-    "wof:lastmodified":1449072802,
+    "wof:lastmodified":1466291205,
     "wof:name":"Rebecchi Giovanni",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.07196,45.531105,9.07196,45.531105],
+  "bbox": [
+    9.07196,
+    45.531105,
+    9.07196,
+    45.531105
+],
   "geometry": {"coordinates":[9.07196,45.531105],"type":"Point"}
 }

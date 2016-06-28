@@ -2,13 +2,14 @@
   "id": 286761937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.104013,44.515129,12.104013,44.515129",
     "geom:latitude":44.515129,
     "geom:longitude":12.104013,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Savarna 75 48020 Savarna",
     "sg:city":"Savarna",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286761937,
-    "wof:lastmodified":1449017425,
+    "wof:lastmodified":1466296004,
     "wof:name":"Generalflora Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "potato"
     ]
 },
-  "bbox": [12.104013,44.515129,12.104013,44.515129],
+  "bbox": [
+    12.104013,
+    44.515129,
+    12.104013,
+    44.515129
+],
   "geometry": {"coordinates":[12.104013,44.515129],"type":"Point"}
 }

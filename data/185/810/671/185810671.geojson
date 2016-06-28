@@ -2,13 +2,14 @@
   "id": 185810671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.492011,41.905441,12.492011,41.905441",
     "geom:latitude":41.905441,
     "geom:longitude":12.492011,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bissolati 40, 00187 Rome, Rm",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185810671,
-    "wof:lastmodified":1449007080,
+    "wof:lastmodified":1466289353,
     "wof:name":"Banca Popolare Di Roma Spa",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.492011,41.905441,12.492011,41.905441],
+  "bbox": [
+    12.492011,
+    41.905441,
+    12.492011,
+    41.905441
+],
   "geometry": {"coordinates":[12.492011,41.905441],"type":"Point"}
 }

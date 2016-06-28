@@ -2,13 +2,14 @@
   "id": 202912863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.082124,45.81176,9.082124,45.81176",
     "geom:latitude":45.81176,
     "geom:longitude":9.082124,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202912863,
-    "wof:lastmodified":1449061377,
+    "wof:lastmodified":1466293353,
     "wof:name":"Nanni Costa Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.082124,45.81176,9.082124,45.81176],
+  "bbox": [
+    9.082124,
+    45.81176,
+    9.082124,
+    45.81176
+],
   "geometry": {"coordinates":[9.082124,45.81176],"type":"Point"}
 }

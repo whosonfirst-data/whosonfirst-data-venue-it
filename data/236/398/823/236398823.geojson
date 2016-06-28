@@ -2,13 +2,14 @@
   "id": 236398823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.126458,45.431953,12.126458,45.431953",
     "geom:latitude":45.431953,
     "geom:longitude":12.126458,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30034 Mira",
     "sg:city":"Mira",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236398823,
-    "wof:lastmodified":1449001874,
+    "wof:lastmodified":1466292968,
     "wof:name":"Vetromira Eredi Butto' Sante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.126458,45.431953,12.126458,45.431953],
+  "bbox": [
+    12.126458,
+    45.431953,
+    12.126458,
+    45.431953
+],
   "geometry": {"coordinates":[12.126458,45.431953],"type":"Point"}
 }

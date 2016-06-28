@@ -2,13 +2,14 @@
   "id": 252818255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.97513,43.855461,10.97513,43.855461",
     "geom:latitude":43.855461,
     "geom:longitude":10.97513,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51039 Quarrata",
     "sg:city":"Quarrata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252818255,
-    "wof:lastmodified":1449005944,
+    "wof:lastmodified":1466290151,
     "wof:name":"Confezione Venturi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.97513,43.855461,10.97513,43.855461],
+  "bbox": [
+    10.97513,
+    43.855461,
+    10.97513,
+    43.855461
+],
   "geometry": {"coordinates":[10.97513,43.855461],"type":"Point"}
 }

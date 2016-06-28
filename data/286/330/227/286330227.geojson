@@ -2,13 +2,14 @@
   "id": 286330227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.863062,43.471203,11.863062,43.471203",
     "geom:latitude":43.471203,
     "geom:longitude":11.863062,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Provinciale 1/a 52010 Ortignano",
     "sg:city":"Ortignano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286330227,
-    "wof:lastmodified":1449016650,
+    "wof:lastmodified":1466290441,
     "wof:name":"Miniconf Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.863062,43.471203,11.863062,43.471203],
+  "bbox": [
+    11.863062,
+    43.471203,
+    11.863062,
+    43.471203
+],
   "geometry": {"coordinates":[11.863062,43.471203],"type":"Point"}
 }

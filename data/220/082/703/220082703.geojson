@@ -2,13 +2,14 @@
   "id": 220082703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.147267,45.489964,12.147267,45.489964",
     "geom:latitude":45.489964,
     "geom:longitude":12.147267,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via E. De Filippo 29 30038 Spinea",
     "sg:city":"Spinea",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220082703,
-    "wof:lastmodified":1449074082,
+    "wof:lastmodified":1466295691,
     "wof:name":"Crefin Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "furnace"
     ]
 },
-  "bbox": [12.147267,45.489964,12.147267,45.489964],
+  "bbox": [
+    12.147267,
+    45.489964,
+    12.147267,
+    45.489964
+],
   "geometry": {"coordinates":[12.147267,45.489964],"type":"Point"}
 }

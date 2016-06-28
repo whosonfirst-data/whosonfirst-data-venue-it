@@ -2,13 +2,14 @@
   "id": 219966857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.593179,42.852875,13.593179,42.852875",
     "geom:latitude":42.852875,
     "geom:longitude":13.593179,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63100 Ascoli Piceno",
     "sg:city":"Ascoli Piceno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219966857,
-    "wof:lastmodified":1449070394,
+    "wof:lastmodified":1466295987,
     "wof:name":"Edil Chiusure Di Cagnetti Roberto & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.593179,42.852875,13.593179,42.852875],
+  "bbox": [
+    13.593179,
+    42.852875,
+    13.593179,
+    42.852875
+],
   "geometry": {"coordinates":[13.593179,42.852875],"type":"Point"}
 }

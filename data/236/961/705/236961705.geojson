@@ -2,13 +2,14 @@
   "id": 236961705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.835121,44.509926,11.835121,44.509926",
     "geom:latitude":44.509926,
     "geom:longitude":11.835121,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Amendola 16/a 48017 Conselice",
     "sg:city":"Conselice",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236961705,
-    "wof:lastmodified":1449005174,
+    "wof:lastmodified":1466297369,
     "wof:name":"Rimplast Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grinding"
     ]
 },
-  "bbox": [11.835121,44.509926,11.835121,44.509926],
+  "bbox": [
+    11.835121,
+    44.509926,
+    11.835121,
+    44.509926
+],
   "geometry": {"coordinates":[11.835121,44.509926],"type":"Point"}
 }

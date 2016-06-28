@@ -2,13 +2,14 @@
   "id": 269646963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.922225,43.899071,12.922225,43.899071",
     "geom:latitude":43.899071,
     "geom:longitude":12.922225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269646963,
-    "wof:lastmodified":1449036078,
+    "wof:lastmodified":1466290916,
     "wof:name":"Tabaccheria - Ricevitoria Rosa Dei Venti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.922225,43.899071,12.922225,43.899071],
+  "bbox": [
+    12.922225,
+    43.899071,
+    12.922225,
+    43.899071
+],
   "geometry": {"coordinates":[12.922225,43.899071],"type":"Point"}
 }

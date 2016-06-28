@@ -2,13 +2,14 @@
   "id": 253133979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.225544,45.537323,10.225544,45.537323",
     "geom:latitude":45.537323,
     "geom:longitude":10.225544,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25065 Lumezzane",
     "sg:city":"Lumezzane",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253133979,
-    "wof:lastmodified":1449065256,
+    "wof:lastmodified":1466290317,
     "wof:name":"Gatta Odino",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.225544,45.537323,10.225544,45.537323],
+  "bbox": [
+    10.225544,
+    45.537323,
+    10.225544,
+    45.537323
+],
   "geometry": {"coordinates":[10.225544,45.537323],"type":"Point"}
 }

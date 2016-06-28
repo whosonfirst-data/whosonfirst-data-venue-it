@@ -2,13 +2,14 @@
   "id": 219291839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.686619,45.07056,7.686619,45.07056",
     "geom:latitude":45.07056,
     "geom:longitude":7.686619,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Prov. Feletto Aglie' Km 2,225 10080 Lusiglie'",
     "sg:city":"Feletto",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219291839,
-    "wof:lastmodified":1449071486,
+    "wof:lastmodified":1466289217,
     "wof:name":"Omg Srl Officine Meccaniche",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "spare"
     ]
 },
-  "bbox": [7.686619,45.07056,7.686619,45.07056],
+  "bbox": [
+    7.686619,
+    45.07056,
+    7.686619,
+    45.07056
+],
   "geometry": {"coordinates":[7.686619,45.07056],"type":"Point"}
 }

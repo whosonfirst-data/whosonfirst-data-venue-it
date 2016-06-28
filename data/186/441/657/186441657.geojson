@@ -2,13 +2,14 @@
   "id": 186441657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.042528,45.518005,9.042528,45.518005",
     "geom:latitude":45.518005,
     "geom:longitude":9.042528,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mincio 12 20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186441657,
-    "wof:lastmodified":1449050451,
+    "wof:lastmodified":1466291742,
     "wof:name":"Officine Akro S.r.l. Del Dr. Antonio Kronenberg E C.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bottom"
     ]
 },
-  "bbox": [9.042528,45.518005,9.042528,45.518005],
+  "bbox": [
+    9.042528,
+    45.518005,
+    9.042528,
+    45.518005
+],
   "geometry": {"coordinates":[9.042528,45.518005],"type":"Point"}
 }

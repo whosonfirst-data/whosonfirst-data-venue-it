@@ -2,13 +2,14 @@
   "id": 186258619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.050122,45.825748,9.050122,45.825748",
     "geom:latitude":45.825748,
     "geom:longitude":9.050122,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Francesco Soave 1 22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186258619,
-    "wof:lastmodified":1449052457,
+    "wof:lastmodified":1466290148,
     "wof:name":"Fabbrica Orologi Cavadini Giuseppe Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clock"
     ]
 },
-  "bbox": [9.050122,45.825748,9.050122,45.825748],
+  "bbox": [
+    9.050122,
+    45.825748,
+    9.050122,
+    45.825748
+],
   "geometry": {"coordinates":[9.050122,45.825748],"type":"Point"}
 }

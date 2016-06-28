@@ -2,13 +2,14 @@
   "id": 287188877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.242072,45.666286,12.242072,45.666286",
     "geom:latitude":45.666286,
     "geom:longitude":12.242072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via P. Amalteo 4 31020 San Fior",
     "sg:city":"San Fior",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287188877,
-    "wof:lastmodified":1449001105,
+    "wof:lastmodified":1466292100,
     "wof:name":"Dazato Snc Di Tonon L. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "easy"
     ]
 },
-  "bbox": [12.242072,45.666286,12.242072,45.666286],
+  "bbox": [
+    12.242072,
+    45.666286,
+    12.242072,
+    45.666286
+],
   "geometry": {"coordinates":[12.242072,45.666286],"type":"Point"}
 }

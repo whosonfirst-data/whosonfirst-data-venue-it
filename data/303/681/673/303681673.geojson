@@ -2,13 +2,14 @@
   "id": 303681673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.772982,41.954853,12.772982,41.954853",
     "geom:latitude":41.954853,
     "geom:longitude":12.772982,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00019 Tivoli",
     "sg:city":"Tivoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303681673,
-    "wof:lastmodified":1448999616,
+    "wof:lastmodified":1466297455,
     "wof:name":"Mastrantonio Emanuel & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.772982,41.954853,12.772982,41.954853],
+  "bbox": [
+    12.772982,
+    41.954853,
+    12.772982,
+    41.954853
+],
   "geometry": {"coordinates":[12.772982,41.954853],"type":"Point"}
 }

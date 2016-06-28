@@ -2,13 +2,14 @@
   "id": 169800529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.489427,41.951298,12.489427,41.951298",
     "geom:latitude":41.951298,
     "geom:longitude":12.489427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Camposampiero 74 00191 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169800529,
-    "wof:lastmodified":1449032940,
+    "wof:lastmodified":1466296064,
     "wof:name":"Emt Srl",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "banister"
     ]
 },
-  "bbox": [12.489427,41.951298,12.489427,41.951298],
+  "bbox": [
+    12.489427,
+    41.951298,
+    12.489427,
+    41.951298
+],
   "geometry": {"coordinates":[12.489427,41.951298],"type":"Point"}
 }

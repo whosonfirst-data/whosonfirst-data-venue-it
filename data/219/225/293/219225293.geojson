@@ -2,13 +2,14 @@
   "id": 219225293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.24626,39.912205,18.24626,39.912205",
     "geom:latitude":39.912205,
     "geom:longitude":18.24626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73040 Acquarica Del Capo",
     "sg:city":"Acquarica del Capo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219225293,
-    "wof:lastmodified":1449071494,
+    "wof:lastmodified":1466295723,
     "wof:name":"Pippo On Line Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "setting"
     ]
 },
-  "bbox": [18.24626,39.912205,18.24626,39.912205],
+  "bbox": [
+    18.24626,
+    39.912205,
+    18.24626,
+    39.912205
+],
   "geometry": {"coordinates":[18.24626,39.912205],"type":"Point"}
 }

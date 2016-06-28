@@ -2,13 +2,14 @@
   "id": 203132865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.134136,39.37653,17.134136,39.37653",
     "geom:latitude":39.37653,
     "geom:longitude":17.134136,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88811 Ciro'marina",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Ecologia E Smaltimento Rifiuti. Forniture Industriali Per Prevenzione, Controllo E Sicurezza",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203132865,
-    "wof:lastmodified":1449025840,
+    "wof:lastmodified":1466289234,
     "wof:name":"Ciro' Termica Sud Di Bruno Francesco & Vincenzo Sdf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.134136,39.37653,17.134136,39.37653],
+  "bbox": [
+    17.134136,
+    39.37653,
+    17.134136,
+    39.37653
+],
   "geometry": {"coordinates":[17.134136,39.37653],"type":"Point"}
 }

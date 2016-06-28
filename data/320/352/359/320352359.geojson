@@ -2,13 +2,14 @@
   "id": 320352359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.238657,45.443142,9.238657,45.443142",
     "geom:latitude":45.443142,
     "geom:longitude":9.238657,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20077 Melegnano",
     "sg:city":"Melegnano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320352359,
-    "wof:lastmodified":1449013546,
+    "wof:lastmodified":1466297064,
     "wof:name":"Elettra 2000 Di Maturo Antonio",
     "wof:parent_id":85796983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.238657,45.443142,9.238657,45.443142],
+  "bbox": [
+    9.238657,
+    45.443142,
+    9.238657,
+    45.443142
+],
   "geometry": {"coordinates":[9.238657,45.443142],"type":"Point"}
 }

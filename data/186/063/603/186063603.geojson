@@ -2,13 +2,14 @@
   "id": 186063603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.83052,45.814552,8.83052,45.814552",
     "geom:latitude":45.814552,
     "geom:longitude":8.83052,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Magenta 5; Varese; 21100",
     "sg:city":"Varese",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186063603,
-    "wof:lastmodified":1449050481,
+    "wof:lastmodified":1466295357,
     "wof:name":"Credito Artigiano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.83052,45.814552,8.83052,45.814552],
+  "bbox": [
+    8.83052,
+    45.814552,
+    8.83052,
+    45.814552
+],
   "geometry": {"coordinates":[8.83052,45.814552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252939813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.502204,42.126888,12.502204,42.126888",
     "geom:latitude":42.126888,
     "geom:longitude":12.502204,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00060 Castelnuovo Di Porto",
     "sg:city":"Castelnuovo di Porto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252939813,
-    "wof:lastmodified":1449005739,
+    "wof:lastmodified":1466291436,
     "wof:name":"Allevamento Degli Etruschi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.502204,42.126888,12.502204,42.126888],
+  "bbox": [
+    12.502204,
+    42.126888,
+    12.502204,
+    42.126888
+],
   "geometry": {"coordinates":[12.502204,42.126888],"type":"Point"}
 }

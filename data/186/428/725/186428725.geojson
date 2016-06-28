@@ -2,13 +2,14 @@
   "id": 186428725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.906459,45.0382,7.906459,45.0382",
     "geom:latitude":45.0382,
     "geom:longitude":7.906459,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Bgo Valentino 34 10020 Arignano",
     "sg:city":"Arignano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186428725,
-    "wof:lastmodified":1449052850,
+    "wof:lastmodified":1466291625,
     "wof:name":"Grafica Chierese S.n.c. Di Cavagnero Giuseppe E Bianco Valentino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.906459,45.0382,7.906459,45.0382],
+  "bbox": [
+    7.906459,
+    45.0382,
+    7.906459,
+    45.0382
+],
   "geometry": {"coordinates":[7.906459,45.0382],"type":"Point"}
 }

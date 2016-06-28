@@ -2,13 +2,14 @@
   "id": 236599163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.093192,46.211212,11.093192,46.211212",
     "geom:latitude":46.211212,
     "geom:longitude":11.093192,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"79, Via Degasperi 38017 Mezzolombardo",
     "sg:city":"Mezzolombardo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236599163,
-    "wof:lastmodified":1449003133,
+    "wof:lastmodified":1466295010,
     "wof:name":"He Mobili Di Helfer Pietro & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.093192,46.211212,11.093192,46.211212],
+  "bbox": [
+    11.093192,
+    46.211212,
+    11.093192,
+    46.211212
+],
   "geometry": {"coordinates":[11.093192,46.211212],"type":"Point"}
 }

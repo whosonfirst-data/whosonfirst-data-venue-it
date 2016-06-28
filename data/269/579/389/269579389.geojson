@@ -2,13 +2,14 @@
   "id": 269579389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.882084,43.901798,12.882084,43.901798",
     "geom:latitude":43.901798,
     "geom:longitude":12.882084,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269579389,
-    "wof:lastmodified":1449036915,
+    "wof:lastmodified":1466290080,
     "wof:name":"Duchi Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.882084,43.901798,12.882084,43.901798],
+  "bbox": [
+    12.882084,
+    43.901798,
+    12.882084,
+    43.901798
+],
   "geometry": {"coordinates":[12.882084,43.901798],"type":"Point"}
 }

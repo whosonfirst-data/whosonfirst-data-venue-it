@@ -2,13 +2,14 @@
   "id": 252949865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.309074,44.989872,9.309074,44.989872",
     "geom:latitude":44.989872,
     "geom:longitude":9.309074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27024 Cilavegna",
     "sg:city":"Cilavegna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252949865,
-    "wof:lastmodified":1449006098,
+    "wof:lastmodified":1466291545,
     "wof:name":"Rioda Francesca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.309074,44.989872,9.309074,44.989872],
+  "bbox": [
+    9.309074,
+    44.989872,
+    9.309074,
+    44.989872
+],
   "geometry": {"coordinates":[9.309074,44.989872],"type":"Point"}
 }

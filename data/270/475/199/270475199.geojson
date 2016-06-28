@@ -2,13 +2,14 @@
   "id": 270475199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.836426,37.784447,14.836426,37.784447",
     "geom:latitude":37.784447,
     "geom:longitude":14.836426,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, V. Lombardia 95034 Bronte",
     "sg:city":"Bronte",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270475199,
-    "wof:lastmodified":1449009659,
+    "wof:lastmodified":1466294758,
     "wof:name":"Mulino F.lli Zuccar\u00c0 Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cereal"
     ]
 },
-  "bbox": [14.836426,37.784447,14.836426,37.784447],
+  "bbox": [
+    14.836426,
+    37.784447,
+    14.836426,
+    37.784447
+],
   "geometry": {"coordinates":[14.836426,37.784447],"type":"Point"}
 }

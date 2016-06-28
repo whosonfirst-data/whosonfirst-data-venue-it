@@ -2,13 +2,14 @@
   "id": 286521485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.118928,44.572254,11.118928,44.572254",
     "geom:latitude":44.572254,
     "geom:longitude":11.118928,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Farini 41013 Castelfranco Emilia",
     "sg:city":"Castelfranco Emilia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286521485,
-    "wof:lastmodified":1449017946,
+    "wof:lastmodified":1466292961,
     "wof:name":"Gocce S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.118928,44.572254,11.118928,44.572254],
+  "bbox": [
+    11.118928,
+    44.572254,
+    11.118928,
+    44.572254
+],
   "geometry": {"coordinates":[11.118928,44.572254],"type":"Point"}
 }

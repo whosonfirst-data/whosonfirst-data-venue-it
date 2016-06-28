@@ -2,13 +2,14 @@
   "id": 202913083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.551334,41.863022,12.551334,41.863022",
     "geom:latitude":41.863022,
     "geom:longitude":12.551334,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00175 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202913083,
-    "wof:lastmodified":1449061094,
+    "wof:lastmodified":1466293354,
     "wof:name":"Non Solo Orli Di Ierace Alessandra",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.551334,41.863022,12.551334,41.863022],
+  "bbox": [
+    12.551334,
+    41.863022,
+    12.551334,
+    41.863022
+],
   "geometry": {"coordinates":[12.551334,41.863022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185751707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.934813,44.407146,8.934813,44.407146",
     "geom:latitude":44.407146,
     "geom:longitude":8.934813,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza De Ferrari 6/7; Genova",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185751707,
-    "wof:lastmodified":1449006680,
+    "wof:lastmodified":1466288962,
     "wof:name":"Banca Nazionale Dell'agricoltura Spa",
     "wof:parent_id":85862663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.934813,44.407146,8.934813,44.407146],
+  "bbox": [
+    8.934813,
+    44.407146,
+    8.934813,
+    44.407146
+],
   "geometry": {"coordinates":[8.934813,44.407146],"type":"Point"}
 }

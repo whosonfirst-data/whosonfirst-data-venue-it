@@ -2,13 +2,14 @@
   "id": 235985323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.258234,45.940617,10.258234,45.940617",
     "geom:latitude":45.940617,
     "geom:longitude":10.258234,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Degli Emigranti 5 25040 Cividate Camuno",
     "sg:city":"Cividate Camuno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235985323,
-    "wof:lastmodified":1449008413,
+    "wof:lastmodified":1466295815,
     "wof:name":"Forgiatura Mame' Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "iron"
     ]
 },
-  "bbox": [10.258234,45.940617,10.258234,45.940617],
+  "bbox": [
+    10.258234,
+    45.940617,
+    10.258234,
+    45.940617
+],
   "geometry": {"coordinates":[10.258234,45.940617],"type":"Point"}
 }

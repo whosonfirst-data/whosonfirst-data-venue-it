@@ -2,13 +2,14 @@
   "id": 269937203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.92154,45.005768,8.92154,45.005768",
     "geom:latitude":45.005768,
     "geom:longitude":8.92154,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27050 Casei Gerola",
     "sg:city":"Casei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269937203,
-    "wof:lastmodified":1449036597,
+    "wof:lastmodified":1466294571,
     "wof:name":"Motel K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.92154,45.005768,8.92154,45.005768],
+  "bbox": [
+    8.92154,
+    45.005768,
+    8.92154,
+    45.005768
+],
   "geometry": {"coordinates":[8.92154,45.005768],"type":"Point"}
 }

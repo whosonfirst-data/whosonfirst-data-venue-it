@@ -2,13 +2,14 @@
   "id": 236040015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.196102,43.769112,11.196102,43.769112",
     "geom:latitude":43.769112,
     "geom:longitude":11.196102,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50142 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236040015,
-    "wof:lastmodified":1449005134,
+    "wof:lastmodified":1466289300,
     "wof:name":"Quadrifoglio Servizi Ambientali Area Fiorentina Spa",
     "wof:parent_id":85904701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.196102,43.769112,11.196102,43.769112],
+  "bbox": [
+    11.196102,
+    43.769112,
+    11.196102,
+    43.769112
+],
   "geometry": {"coordinates":[11.196102,43.769112],"type":"Point"}
 }

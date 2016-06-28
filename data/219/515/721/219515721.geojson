@@ -2,13 +2,14 @@
   "id": 219515721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.330436,40.321007,9.330436,40.321007",
     "geom:latitude":40.321007,
     "geom:longitude":9.330436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Provinciale 17 Km 18 08020 Ottana",
     "sg:city":"Ottana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219515721,
-    "wof:lastmodified":1449071212,
+    "wof:lastmodified":1466291537,
     "wof:name":"Lorica Sud Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [9.330436,40.321007,9.330436,40.321007],
+  "bbox": [
+    9.330436,
+    40.321007,
+    9.330436,
+    40.321007
+],
   "geometry": {"coordinates":[9.330436,40.321007],"type":"Point"}
 }

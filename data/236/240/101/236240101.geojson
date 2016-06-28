@@ -2,13 +2,14 @@
   "id": 236240101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.085649,45.800724,9.085649,45.800724",
     "geom:latitude":45.800724,
     "geom:longitude":9.085649,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22060 Cabiate",
     "sg:city":"Cabiate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236240101,
-    "wof:lastmodified":1449001933,
+    "wof:lastmodified":1466291311,
     "wof:name":"Agostoni Isacco Figli Di",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.085649,45.800724,9.085649,45.800724],
+  "bbox": [
+    9.085649,
+    45.800724,
+    9.085649,
+    45.800724
+],
   "geometry": {"coordinates":[9.085649,45.800724],"type":"Point"}
 }

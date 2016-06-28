@@ -2,13 +2,14 @@
   "id": 186476137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.148851,46.61235,11.148851,46.61235",
     "geom:latitude":46.61235,
     "geom:longitude":11.148851,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Cappuccini 39011 Lana",
     "sg:city":"Lana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186476137,
-    "wof:lastmodified":1449051458,
+    "wof:lastmodified":1466292054,
     "wof:name":"Schmidt J. Di Hans Schmidt E Co. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bread"
     ]
 },
-  "bbox": [11.148851,46.61235,11.148851,46.61235],
+  "bbox": [
+    11.148851,
+    46.61235,
+    11.148851,
+    46.61235
+],
   "geometry": {"coordinates":[11.148851,46.61235],"type":"Point"}
 }

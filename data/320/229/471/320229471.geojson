@@ -2,13 +2,14 @@
   "id": 320229471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.900583,44.653355,10.900583,44.653355",
     "geom:latitude":44.653355,
     "geom:longitude":10.900583,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320229471,
-    "wof:lastmodified":1449014212,
+    "wof:lastmodified":1466296171,
     "wof:name":"Magni Leonildo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.900583,44.653355,10.900583,44.653355],
+  "bbox": [
+    10.900583,
+    44.653355,
+    10.900583,
+    44.653355
+],
   "geometry": {"coordinates":[10.900583,44.653355],"type":"Point"}
 }

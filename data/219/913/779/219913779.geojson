@@ -2,13 +2,14 @@
   "id": 219913779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.867725,43.672913,10.867725,43.672913",
     "geom:latitude":43.672913,
     "geom:longitude":10.867725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56028 San Miniato",
     "sg:city":"San Miniato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219913779,
-    "wof:lastmodified":1449071750,
+    "wof:lastmodified":1466295434,
     "wof:name":"Tecnofrigo Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.867725,43.672913,10.867725,43.672913],
+  "bbox": [
+    10.867725,
+    43.672913,
+    10.867725,
+    43.672913
+],
   "geometry": {"coordinates":[10.867725,43.672913],"type":"Point"}
 }

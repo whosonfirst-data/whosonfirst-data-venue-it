@@ -2,13 +2,14 @@
   "id": 320141327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.508046,41.989765,12.508046,41.989765",
     "geom:latitude":41.989765,
     "geom:longitude":12.508046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00138 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320141327,
-    "wof:lastmodified":1449012575,
+    "wof:lastmodified":1466295108,
     "wof:name":"Cpw Srl Commerciale Pubblicitaria Web",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.508046,41.989765,12.508046,41.989765],
+  "bbox": [
+    12.508046,
+    41.989765,
+    12.508046,
+    41.989765
+],
   "geometry": {"coordinates":[12.508046,41.989765],"type":"Point"}
 }

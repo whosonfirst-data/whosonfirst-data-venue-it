@@ -2,13 +2,14 @@
   "id": 236460427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.115941,45.418343,11.115941,45.418343",
     "geom:latitude":45.418343,
     "geom:longitude":11.115941,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Martino, 17/23 35010 Santa Giustina In Colle",
     "sg:city":"Santa Giustina in Colle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236460427,
-    "wof:lastmodified":1449005023,
+    "wof:lastmodified":1466293628,
     "wof:name":"Systema Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [11.115941,45.418343,11.115941,45.418343],
+  "bbox": [
+    11.115941,
+    45.418343,
+    11.115941,
+    45.418343
+],
   "geometry": {"coordinates":[11.115941,45.418343],"type":"Point"}
 }

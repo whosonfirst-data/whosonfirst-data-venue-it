@@ -2,13 +2,14 @@
   "id": 303153347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.966626,43.859673,10.966626,43.859673",
     "geom:latitude":43.859673,
     "geom:longitude":10.966626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51039 Quarrata",
     "sg:city":"Quarrata",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303153347,
-    "wof:lastmodified":1448999802,
+    "wof:lastmodified":1466292358,
     "wof:name":"Mauro Niccolai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.966626,43.859673,10.966626,43.859673],
+  "bbox": [
+    10.966626,
+    43.859673,
+    10.966626,
+    43.859673
+],
   "geometry": {"coordinates":[10.966626,43.859673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269529881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.671882,43.200069,13.671882,43.200069",
     "geom:latitude":43.200069,
     "geom:longitude":13.671882,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Cagliari 63015 Monte Urano",
     "sg:city":"Monte Urano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269529881,
-    "wof:lastmodified":1449037189,
+    "wof:lastmodified":1466289475,
     "wof:name":"Calzaturificio Naki Di Cannone G. & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.671882,43.200069,13.671882,43.200069],
+  "bbox": [
+    13.671882,
+    43.200069,
+    13.671882,
+    43.200069
+],
   "geometry": {"coordinates":[13.671882,43.200069],"type":"Point"}
 }

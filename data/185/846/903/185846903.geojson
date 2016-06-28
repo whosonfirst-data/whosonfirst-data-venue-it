@@ -2,13 +2,14 @@
   "id": 185846903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.041618,45.526665,9.041618,45.526665",
     "geom:latitude":45.526665,
     "geom:longitude":9.041618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Medda 47; Rho; 20017",
     "sg:city":"Rho",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185846903,
-    "wof:lastmodified":1449007873,
+    "wof:lastmodified":1466289579,
     "wof:name":"Banca Populare Di Luino, E Di Varese",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.041618,45.526665,9.041618,45.526665],
+  "bbox": [
+    9.041618,
+    45.526665,
+    9.041618,
+    45.526665
+],
   "geometry": {"coordinates":[9.041618,45.526665],"type":"Point"}
 }

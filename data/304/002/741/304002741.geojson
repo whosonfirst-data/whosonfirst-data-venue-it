@@ -2,13 +2,14 @@
   "id": 304002741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.181599,40.842457,14.181599,40.842457",
     "geom:latitude":40.842457,
     "geom:longitude":14.181599,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80125 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304002741,
-    "wof:lastmodified":1449044051,
+    "wof:lastmodified":1466292182,
     "wof:name":"Merollasfalti",
     "wof:parent_id":85900485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.181599,40.842457,14.181599,40.842457],
+  "bbox": [
+    14.181599,
+    40.842457,
+    14.181599,
+    40.842457
+],
   "geometry": {"coordinates":[14.181599,40.842457],"type":"Point"}
 }

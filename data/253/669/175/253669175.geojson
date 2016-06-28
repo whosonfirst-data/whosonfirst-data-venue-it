@@ -2,13 +2,14 @@
   "id": 253669175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.837744,37.29924,14.837744,37.29924",
     "geom:latitude":37.29924,
     "geom:longitude":14.837744,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95048 Scordia",
     "sg:city":"Scordia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253669175,
-    "wof:lastmodified":1449063159,
+    "wof:lastmodified":1466296495,
     "wof:name":"C.a.i.m.a. Di Amara Silvana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.837744,37.29924,14.837744,37.29924],
+  "bbox": [
+    14.837744,
+    37.29924,
+    14.837744,
+    37.29924
+],
   "geometry": {"coordinates":[14.837744,37.29924],"type":"Point"}
 }

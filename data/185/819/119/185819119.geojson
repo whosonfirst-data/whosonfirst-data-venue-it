@@ -2,13 +2,14 @@
   "id": 185819119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.448512,44.846012,10.448512,44.846012",
     "geom:latitude":44.846012,
     "geom:longitude":10.448512,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Della Liberta 17; Sorbolo; 43058",
     "sg:city":"Sorbolo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185819119,
-    "wof:lastmodified":1449006990,
+    "wof:lastmodified":1466289409,
     "wof:name":"Banca Popolare Di Verona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.448512,44.846012,10.448512,44.846012],
+  "bbox": [
+    10.448512,
+    44.846012,
+    10.448512,
+    44.846012
+],
   "geometry": {"coordinates":[10.448512,44.846012],"type":"Point"}
 }

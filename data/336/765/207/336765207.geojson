@@ -2,13 +2,14 @@
   "id": 336765207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.928039,45.666103,9.928039,45.666103",
     "geom:latitude":45.666103,
     "geom:longitude":9.928039,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Betty Ambiveri 24060 Villongo",
     "sg:city":"Villongo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336765207,
-    "wof:lastmodified":1448997557,
+    "wof:lastmodified":1466295697,
     "wof:name":"S.a.c.i. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.928039,45.666103,9.928039,45.666103],
+  "bbox": [
+    9.928039,
+    45.666103,
+    9.928039,
+    45.666103
+],
   "geometry": {"coordinates":[9.928039,45.666103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236569911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.876339,45.120731,11.876339,45.120731",
     "geom:latitude":45.120731,
     "geom:longitude":11.876339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1241, Via Chiaroni 45030 San Martino Di Venezze",
     "sg:city":"San Martino di Venezze",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236569911,
-    "wof:lastmodified":1449005091,
+    "wof:lastmodified":1466294745,
     "wof:name":"Degrea S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.876339,45.120731,11.876339,45.120731],
+  "bbox": [
+    11.876339,
+    45.120731,
+    11.876339,
+    45.120731
+],
   "geometry": {"coordinates":[11.876339,45.120731],"type":"Point"}
 }

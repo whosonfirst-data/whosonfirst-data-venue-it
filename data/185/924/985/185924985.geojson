@@ -2,13 +2,14 @@
   "id": 185924985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.067108,41.222618,16.067108,41.222618",
     "geom:latitude":41.222618,
     "geom:longitude":16.067108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bovio 8/e; Canosa; 70053",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185924985,
-    "wof:lastmodified":1449007053,
+    "wof:lastmodified":1466290228,
     "wof:name":"Banco Di Santo Spirito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.067108,41.222618,16.067108,41.222618],
+  "bbox": [
+    16.067108,
+    41.222618,
+    16.067108,
+    41.222618
+],
   "geometry": {"coordinates":[16.067108,41.222618],"type":"Point"}
 }

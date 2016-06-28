@@ -2,13 +2,14 @@
   "id": 202995629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.154828,45.461697,9.154828,45.461697",
     "geom:latitude":45.461697,
     "geom:longitude":9.154828,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20146 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202995629,
-    "wof:lastmodified":1449062369,
+    "wof:lastmodified":1466294135,
     "wof:name":"Dorcaratto Andrea",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.154828,45.461697,9.154828,45.461697],
+  "bbox": [
+    9.154828,
+    45.461697,
+    9.154828,
+    45.461697
+],
   "geometry": {"coordinates":[9.154828,45.461697],"type":"Point"}
 }

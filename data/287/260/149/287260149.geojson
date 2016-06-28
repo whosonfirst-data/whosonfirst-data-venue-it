@@ -2,13 +2,14 @@
   "id": 287260149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.187157,45.545403,9.187157,45.545403",
     "geom:latitude":45.545403,
     "geom:longitude":9.187157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Toscana 2 20091 Bresso",
     "sg:city":"Bresso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287260149,
-    "wof:lastmodified":1449000809,
+    "wof:lastmodified":1466293052,
     "wof:name":"Mencarelli Pompe E Valvole Srl",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electric"
     ]
 },
-  "bbox": [9.187157,45.545403,9.187157,45.545403],
+  "bbox": [
+    9.187157,
+    45.545403,
+    9.187157,
+    45.545403
+],
   "geometry": {"coordinates":[9.187157,45.545403],"type":"Point"}
 }

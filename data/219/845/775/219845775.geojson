@@ -2,13 +2,14 @@
   "id": 219845775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.291807,45.547398,12.291807,45.547398",
     "geom:latitude":45.547398,
     "geom:longitude":12.291807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30022 Ceggia",
     "sg:city":"Ceggia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219845775,
-    "wof:lastmodified":1449070962,
+    "wof:lastmodified":1466294713,
     "wof:name":"Eurstand (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [12.291807,45.547398,12.291807,45.547398],
+  "bbox": [
+    12.291807,
+    45.547398,
+    12.291807,
+    45.547398
+],
   "geometry": {"coordinates":[12.291807,45.547398],"type":"Point"}
 }

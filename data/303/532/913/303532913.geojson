@@ -2,13 +2,14 @@
   "id": 303532913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.295195,44.499886,11.295195,44.499886",
     "geom:latitude":44.499886,
     "geom:longitude":11.295195,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40133 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303532913,
-    "wof:lastmodified":1448998940,
+    "wof:lastmodified":1466296805,
     "wof:name":"Optoelectronics Del Dr. M. Cichero",
     "wof:parent_id":85904629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.295195,44.499886,11.295195,44.499886],
+  "bbox": [
+    11.295195,
+    44.499886,
+    11.295195,
+    44.499886
+],
   "geometry": {"coordinates":[11.295195,44.499886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253370233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.47987,45.687042,11.47987,45.687042",
     "geom:latitude":45.687042,
     "geom:longitude":11.47987,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Del Lavoro 30 36016 Thiene",
     "sg:city":"Thiene",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253370233,
-    "wof:lastmodified":1449064446,
+    "wof:lastmodified":1466293070,
     "wof:name":"Sag Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "machinery"
     ]
 },
-  "bbox": [11.47987,45.687042,11.47987,45.687042],
+  "bbox": [
+    11.47987,
+    45.687042,
+    11.47987,
+    45.687042
+],
   "geometry": {"coordinates":[11.47987,45.687042],"type":"Point"}
 }

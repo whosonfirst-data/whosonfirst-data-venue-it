@@ -2,13 +2,14 @@
   "id": 270377691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.324615,41.048428,14.324615,41.048428",
     "geom:latitude":41.048428,
     "geom:longitude":14.324615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81020 S. Nicola La Strada",
     "sg:classifiers":[],
     "sg:orig_category":"Catene A Rulli Per Trasmissioni",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270377691,
-    "wof:lastmodified":1449009557,
+    "wof:lastmodified":1466293602,
     "wof:name":"Chentrens Trasmissioni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.324615,41.048428,14.324615,41.048428],
+  "bbox": [
+    14.324615,
+    41.048428,
+    14.324615,
+    41.048428
+],
   "geometry": {"coordinates":[14.324615,41.048428],"type":"Point"}
 }

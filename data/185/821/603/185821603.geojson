@@ -2,13 +2,14 @@
   "id": 185821603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.172174,44.882427,10.172174,44.882427",
     "geom:latitude":44.882427,
     "geom:longitude":10.172174,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via L. Sanvitale 4; Fontanellato; 43012",
     "sg:city":"Fontanellato",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185821603,
-    "wof:lastmodified":1449007491,
+    "wof:lastmodified":1466289424,
     "wof:name":"Banca Popolare Di Verona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.172174,44.882427,10.172174,44.882427],
+  "bbox": [
+    10.172174,
+    44.882427,
+    10.172174,
+    44.882427
+],
   "geometry": {"coordinates":[10.172174,44.882427],"type":"Point"}
 }

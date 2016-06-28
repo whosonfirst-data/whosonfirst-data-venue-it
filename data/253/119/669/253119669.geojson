@@ -2,13 +2,14 @@
   "id": 253119669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.832037,45.555962,9.832037,45.555962",
     "geom:latitude":45.555962,
     "geom:longitude":9.832037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24050 Cividate Al Piano",
     "sg:city":"Cividate al Piano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253119669,
-    "wof:lastmodified":1449064946,
+    "wof:lastmodified":1466290154,
     "wof:name":"Acciaieria Di Cividate Al Piano (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.832037,45.555962,9.832037,45.555962],
+  "bbox": [
+    9.832037,
+    45.555962,
+    9.832037,
+    45.555962
+],
   "geometry": {"coordinates":[9.832037,45.555962],"type":"Point"}
 }

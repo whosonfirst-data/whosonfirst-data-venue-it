@@ -2,13 +2,14 @@
   "id": 320311717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.861664,44.583191,7.861664,44.583191",
     "geom:latitude":44.583191,
     "geom:longitude":7.861664,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12041 Bene Vagienna",
     "sg:city":"Bene Vagienna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320311717,
-    "wof:lastmodified":1449012138,
+    "wof:lastmodified":1466296928,
     "wof:name":"Milanesio Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.861664,44.583191,7.861664,44.583191],
+  "bbox": [
+    7.861664,
+    44.583191,
+    7.861664,
+    44.583191
+],
   "geometry": {"coordinates":[7.861664,44.583191],"type":"Point"}
 }

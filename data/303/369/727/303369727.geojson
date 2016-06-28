@@ -2,13 +2,14 @@
   "id": 303369727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.09689,39.236042,9.09689,39.236042",
     "geom:latitude":39.236042,
     "geom:longitude":9.09689,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Viale Monastir 09122 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303369727,
-    "wof:lastmodified":1449000439,
+    "wof:lastmodified":1466295070,
     "wof:name":"Novelli",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [9.09689,39.236042,9.09689,39.236042],
+  "bbox": [
+    9.09689,
+    39.236042,
+    9.09689,
+    39.236042
+],
   "geometry": {"coordinates":[9.09689,39.236042],"type":"Point"}
 }

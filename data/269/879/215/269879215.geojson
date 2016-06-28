@@ -2,13 +2,14 @@
   "id": 269879215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.250108,46.328232,11.250108,46.328232",
     "geom:latitude":46.328232,
     "geom:longitude":11.250108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Stazione 39040 Termeno Sulla Strada Del Vino",
     "sg:city":"Termeno sulla strada del vino",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269879215,
-    "wof:lastmodified":1449036181,
+    "wof:lastmodified":1466293910,
     "wof:name":"Eofrut (soc.coop.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [11.250108,46.328232,11.250108,46.328232],
+  "bbox": [
+    11.250108,
+    46.328232,
+    11.250108,
+    46.328232
+],
   "geometry": {"coordinates":[11.250108,46.328232],"type":"Point"}
 }

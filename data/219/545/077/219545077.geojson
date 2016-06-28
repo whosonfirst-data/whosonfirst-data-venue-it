@@ -2,13 +2,14 @@
   "id": 219545077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.990167,45.65004,8.990167,45.65004",
     "geom:latitude":45.65004,
     "geom:longitude":8.990167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Varesina 24 22078 Turate",
     "sg:city":"Turate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219545077,
-    "wof:lastmodified":1449071243,
+    "wof:lastmodified":1466291799,
     "wof:name":"Campiresine Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [8.990167,45.65004,8.990167,45.65004],
+  "bbox": [
+    8.990167,
+    45.65004,
+    8.990167,
+    45.65004
+],
   "geometry": {"coordinates":[8.990167,45.65004],"type":"Point"}
 }

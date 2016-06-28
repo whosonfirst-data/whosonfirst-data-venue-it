@@ -2,13 +2,14 @@
   "id": 236968243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.776915,45.776798,8.776915,45.776798",
     "geom:latitude":45.776798,
     "geom:longitude":8.776915,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Risorgimento 2 21020 Crosio Della Valle",
     "sg:city":"Crosio della Valle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236968243,
-    "wof:lastmodified":1449001832,
+    "wof:lastmodified":1466297272,
     "wof:name":"Sacma Macchine Per Lamiera Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shear"
     ]
 },
-  "bbox": [8.776915,45.776798,8.776915,45.776798],
+  "bbox": [
+    8.776915,
+    45.776798,
+    8.776915,
+    45.776798
+],
   "geometry": {"coordinates":[8.776915,45.776798],"type":"Point"}
 }

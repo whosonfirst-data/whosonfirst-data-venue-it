@@ -2,13 +2,14 @@
   "id": 303991491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.256902,43.768734,11.256902,43.768734",
     "geom:latitude":43.768734,
     "geom:longitude":11.256902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dello Stelli 2/c 50012 Bagno A Ripoli",
     "sg:city":"Bagno a Ripoli",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303991491,
-    "wof:lastmodified":1448998885,
+    "wof:lastmodified":1466298297,
     "wof:name":"Batignani Impresa Individuale",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artistic"
     ]
 },
-  "bbox": [11.256902,43.768734,11.256902,43.768734],
+  "bbox": [
+    11.256902,
+    43.768734,
+    11.256902,
+    43.768734
+],
   "geometry": {"coordinates":[11.256902,43.768734],"type":"Point"}
 }

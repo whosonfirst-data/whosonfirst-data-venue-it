@@ -2,13 +2,14 @@
   "id": 253189243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.453622,43.609867,13.453622,43.609867",
     "geom:latitude":43.609867,
     "geom:longitude":13.453622,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60020 Ancona",
     "sg:classifiers":[],
     "sg:orig_category":"Odontotecnici - Laboratori",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253189243,
-    "wof:lastmodified":1449064922,
+    "wof:lastmodified":1466290878,
     "wof:name":"Medical Italy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.453622,43.609867,13.453622,43.609867],
+  "bbox": [
+    13.453622,
+    43.609867,
+    13.453622,
+    43.609867
+],
   "geometry": {"coordinates":[13.453622,43.609867],"type":"Point"}
 }

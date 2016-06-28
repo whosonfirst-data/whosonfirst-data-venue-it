@@ -2,13 +2,14 @@
   "id": 219424385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.852112,41.120758,16.852112,41.120758",
     "geom:latitude":41.120758,
     "geom:longitude":16.852112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70123 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219424385,
-    "wof:lastmodified":1449073691,
+    "wof:lastmodified":1466290589,
     "wof:name":"Pkf Italia Srl",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.852112,41.120758,16.852112,41.120758],
+  "bbox": [
+    16.852112,
+    41.120758,
+    16.852112,
+    41.120758
+],
   "geometry": {"coordinates":[16.852112,41.120758],"type":"Point"}
 }

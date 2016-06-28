@@ -2,13 +2,14 @@
   "id": 253615225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.892507,43.988659,10.892507,43.988659",
     "geom:latitude":43.988659,
     "geom:longitude":10.892507,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Felice E Piteccio 3/a 51030 San Felice",
     "sg:classifiers":[],
     "sg:orig_category":"Ladies' Trousers Suits, Suits, Jackets, Skirts, And Trousers",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253615225,
-    "wof:lastmodified":1449063756,
+    "wof:lastmodified":1466296130,
     "wof:name":"Texplisse Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.892507,43.988659,10.892507,43.988659],
+  "bbox": [
+    10.892507,
+    43.988659,
+    10.892507,
+    43.988659
+],
   "geometry": {"coordinates":[10.892507,43.988659],"type":"Point"}
 }

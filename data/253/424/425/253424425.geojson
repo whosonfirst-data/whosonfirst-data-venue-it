@@ -2,13 +2,14 @@
   "id": 253424425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.344562,44.396645,11.344562,44.396645",
     "geom:latitude":44.396645,
     "geom:longitude":11.344562,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell'artigiano 21 40065 Pianoro",
     "sg:city":"Pianoro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253424425,
-    "wof:lastmodified":1449065602,
+    "wof:lastmodified":1466293677,
     "wof:name":"Sassatelli Di Sassatelli Oriano & C Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.344562,44.396645,11.344562,44.396645],
+  "bbox": [
+    11.344562,
+    44.396645,
+    11.344562,
+    44.396645
+],
   "geometry": {"coordinates":[11.344562,44.396645],"type":"Point"}
 }

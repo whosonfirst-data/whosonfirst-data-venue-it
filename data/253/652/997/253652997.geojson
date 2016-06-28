@@ -2,13 +2,14 @@
   "id": 253652997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.504041,43.81068,10.504041,43.81068",
     "geom:latitude":43.81068,
     "geom:longitude":10.504041,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55012 Capannori",
     "sg:city":"Capannori",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253652997,
-    "wof:lastmodified":1449064740,
+    "wof:lastmodified":1466296390,
     "wof:name":"Officina Meccanica G.m.m. Snc Di Sani G. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.504041,43.81068,10.504041,43.81068],
+  "bbox": [
+    10.504041,
+    43.81068,
+    10.504041,
+    43.81068
+],
   "geometry": {"coordinates":[10.504041,43.81068],"type":"Point"}
 }

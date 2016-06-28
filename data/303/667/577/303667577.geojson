@@ -2,13 +2,14 @@
   "id": 303667577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.333555,38.153507,13.333555,38.153507",
     "geom:latitude":38.153507,
     "geom:longitude":13.333555,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90146 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303667577,
-    "wof:lastmodified":1448999718,
+    "wof:lastmodified":1466297503,
     "wof:name":"Loriano Sergio",
     "wof:parent_id":85904869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.333555,38.153507,13.333555,38.153507],
+  "bbox": [
+    13.333555,
+    38.153507,
+    13.333555,
+    38.153507
+],
   "geometry": {"coordinates":[13.333555,38.153507],"type":"Point"}
 }

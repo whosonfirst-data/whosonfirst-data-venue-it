@@ -2,13 +2,14 @@
   "id": 236182427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.917915,45.631161,8.917915,45.631161",
     "geom:latitude":45.631161,
     "geom:longitude":8.917915,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tonale 157 21050 Marnate",
     "sg:city":"Marnate",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236182427,
-    "wof:lastmodified":1449003793,
+    "wof:lastmodified":1466290692,
     "wof:name":"Europrosan Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nappy"
     ]
 },
-  "bbox": [8.917915,45.631161,8.917915,45.631161],
+  "bbox": [
+    8.917915,
+    45.631161,
+    8.917915,
+    45.631161
+],
   "geometry": {"coordinates":[8.917915,45.631161],"type":"Point"}
 }

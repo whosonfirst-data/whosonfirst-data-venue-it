@@ -2,13 +2,14 @@
   "id": 203342671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.300955,44.510643,11.300955,44.510643",
     "geom:latitude":44.510643,
     "geom:longitude":11.300955,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40133 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203342671,
-    "wof:lastmodified":1449026738,
+    "wof:lastmodified":1466291498,
     "wof:name":"D.m.p. Group Srl",
     "wof:parent_id":85904565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.300955,44.510643,11.300955,44.510643],
+  "bbox": [
+    11.300955,
+    44.510643,
+    11.300955,
+    44.510643
+],
   "geometry": {"coordinates":[11.300955,44.510643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203113797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.057093,40.270004,18.057093,40.270004",
     "geom:latitude":40.270004,
     "geom:longitude":18.057093,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73043 Copertino",
     "sg:city":"Copertino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203113797,
-    "wof:lastmodified":1449026703,
+    "wof:lastmodified":1466289027,
     "wof:name":"Vetreria Calasso Luigi Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.057093,40.270004,18.057093,40.270004],
+  "bbox": [
+    18.057093,
+    40.270004,
+    18.057093,
+    40.270004
+],
   "geometry": {"coordinates":[18.057093,40.270004],"type":"Point"}
 }

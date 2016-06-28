@@ -2,13 +2,14 @@
   "id": 219353703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.859193,45.861229,8.859193,45.861229",
     "geom:latitude":45.861229,
     "geom:longitude":8.859193,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21038 Sangiano",
     "sg:city":"Sangiano",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219353703,
-    "wof:lastmodified":1449071419,
+    "wof:lastmodified":1466289848,
     "wof:name":"Icaro 2000 S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "il"
     ]
 },
-  "bbox": [8.859193,45.861229,8.859193,45.861229],
+  "bbox": [
+    8.859193,
+    45.861229,
+    8.859193,
+    45.861229
+],
   "geometry": {"coordinates":[8.859193,45.861229],"type":"Point"}
 }

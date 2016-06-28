@@ -2,13 +2,14 @@
   "id": 303841513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.712965,36.924644,14.712965,36.924644",
     "geom:latitude":36.924644,
     "geom:longitude":14.712965,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97100 Ragusa",
     "sg:city":"Ragusa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303841513,
-    "wof:lastmodified":1448998628,
+    "wof:lastmodified":1466297988,
     "wof:name":"Fantasie Di Carta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.712965,36.924644,14.712965,36.924644],
+  "bbox": [
+    14.712965,
+    36.924644,
+    14.712965,
+    36.924644
+],
   "geometry": {"coordinates":[14.712965,36.924644],"type":"Point"}
 }

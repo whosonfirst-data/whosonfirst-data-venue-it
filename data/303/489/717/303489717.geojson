@@ -2,13 +2,14 @@
   "id": 303489717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.151235,45.558964,9.151235,45.558964",
     "geom:latitude":45.558964,
     "geom:longitude":9.151235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303489717,
-    "wof:lastmodified":1448999454,
+    "wof:lastmodified":1466296538,
     "wof:name":"Air Matic (s.r.l.)",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.151235,45.558964,9.151235,45.558964],
+  "bbox": [
+    9.151235,
+    45.558964,
+    9.151235,
+    45.558964
+],
   "geometry": {"coordinates":[9.151235,45.558964],"type":"Point"}
 }

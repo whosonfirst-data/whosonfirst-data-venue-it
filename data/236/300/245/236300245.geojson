@@ -2,13 +2,14 @@
   "id": 236300245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.189254,43.798725,11.189254,43.798725",
     "geom:latitude":43.798725,
     "geom:longitude":11.189254,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50145 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236300245,
-    "wof:lastmodified":1449003524,
+    "wof:lastmodified":1466291944,
     "wof:name":"Florence Abrasives & Tools",
     "wof:parent_id":85904661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.189254,43.798725,11.189254,43.798725],
+  "bbox": [
+    11.189254,
+    43.798725,
+    11.189254,
+    43.798725
+],
   "geometry": {"coordinates":[11.189254,43.798725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269918241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.226036,45.905872,10.226036,45.905872",
     "geom:latitude":45.905872,
     "geom:longitude":10.226036,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Casa Bianca 25040 Esine",
     "sg:city":"Esine",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269918241,
-    "wof:lastmodified":1449037744,
+    "wof:lastmodified":1466294338,
     "wof:name":"Eli - Fly (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [10.226036,45.905872,10.226036,45.905872],
+  "bbox": [
+    10.226036,
+    45.905872,
+    10.226036,
+    45.905872
+],
   "geometry": {"coordinates":[10.226036,45.905872],"type":"Point"}
 }

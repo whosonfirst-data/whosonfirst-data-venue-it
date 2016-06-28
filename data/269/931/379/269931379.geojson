@@ -2,13 +2,14 @@
   "id": 269931379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.980456,46.997063,11.980456,46.997063",
     "geom:latitude":46.997063,
     "geom:longitude":11.980456,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39030 Valle Aurina",
     "sg:city":"Valle Aurina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269931379,
-    "wof:lastmodified":1449038765,
+    "wof:lastmodified":1466294508,
     "wof:name":"Hotel Ahrntalerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.980456,46.997063,11.980456,46.997063],
+  "bbox": [
+    11.980456,
+    46.997063,
+    11.980456,
+    46.997063
+],
   "geometry": {"coordinates":[11.980456,46.997063],"type":"Point"}
 }

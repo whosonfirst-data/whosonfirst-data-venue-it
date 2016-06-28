@@ -2,13 +2,14 @@
   "id": 219186059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.458423,41.854771,12.458423,41.854771",
     "geom:latitude":41.854771,
     "geom:longitude":12.458423,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00146 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219186059,
-    "wof:lastmodified":1449073165,
+    "wof:lastmodified":1466296302,
     "wof:name":"Gaone Gualtiero",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.458423,41.854771,12.458423,41.854771],
+  "bbox": [
+    12.458423,
+    41.854771,
+    12.458423,
+    41.854771
+],
   "geometry": {"coordinates":[12.458423,41.854771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287077305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.227529,45.565105,10.227529,45.565105",
     "geom:latitude":45.565105,
     "geom:longitude":10.227529,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ferrini 14 25128 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287077305,
-    "wof:lastmodified":1449000798,
+    "wof:lastmodified":1466290623,
     "wof:name":"La Rude Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [10.227529,45.565105,10.227529,45.565105],
+  "bbox": [
+    10.227529,
+    45.565105,
+    10.227529,
+    45.565105
+],
   "geometry": {"coordinates":[10.227529,45.565105],"type":"Point"}
 }

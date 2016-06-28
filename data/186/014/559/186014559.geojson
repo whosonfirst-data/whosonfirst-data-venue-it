@@ -2,13 +2,14 @@
   "id": 186014559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.210361,44.302162,8.210361,44.302162",
     "geom:latitude":44.302162,
     "geom:longitude":8.210361,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Della Vittoria 9; Savona; 17010",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186014559,
-    "wof:lastmodified":1449051695,
+    "wof:lastmodified":1466293412,
     "wof:name":"Cassa Di Risparmio Di Savona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.210361,44.302162,8.210361,44.302162],
+  "bbox": [
+    8.210361,
+    44.302162,
+    8.210361,
+    44.302162
+],
   "geometry": {"coordinates":[8.210361,44.302162],"type":"Point"}
 }

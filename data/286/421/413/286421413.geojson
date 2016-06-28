@@ -2,13 +2,14 @@
   "id": 286421413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.686299,44.404709,8.686299,44.404709",
     "geom:latitude":44.404709,
     "geom:longitude":8.686299,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16016 Cogoleto",
     "sg:city":"Cogoleto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286421413,
-    "wof:lastmodified":1449017053,
+    "wof:lastmodified":1466291761,
     "wof:name":"Pulice Carmelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.686299,44.404709,8.686299,44.404709],
+  "bbox": [
+    8.686299,
+    44.404709,
+    8.686299,
+    44.404709
+],
   "geometry": {"coordinates":[8.686299,44.404709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287079719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.839515,43.874702,7.839515,43.874702",
     "geom:latitude":43.874702,
     "geom:longitude":7.839515,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18018 Arma Di Taggia",
     "sg:city":"Arma di Taggia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287079719,
-    "wof:lastmodified":1449001418,
+    "wof:lastmodified":1466290653,
     "wof:name":"C.l.i.o.f. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "public"
     ]
 },
-  "bbox": [7.839515,43.874702,7.839515,43.874702],
+  "bbox": [
+    7.839515,
+    43.874702,
+    7.839515,
+    43.874702
+],
   "geometry": {"coordinates":[7.839515,43.874702],"type":"Point"}
 }

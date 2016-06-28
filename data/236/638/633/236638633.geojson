@@ -2,13 +2,14 @@
   "id": 236638633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.770578,45.866333,12.770578,45.866333",
     "geom:latitude":45.866333,
     "geom:longitude":12.770578,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Via Enrico Mattei 33083 Chions",
     "sg:city":"Chions",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236638633,
-    "wof:lastmodified":1449001813,
+    "wof:lastmodified":1466295367,
     "wof:name":"Office & C. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.770578,45.866333,12.770578,45.866333],
+  "bbox": [
+    12.770578,
+    45.866333,
+    12.770578,
+    45.866333
+],
   "geometry": {"coordinates":[12.770578,45.866333],"type":"Point"}
 }

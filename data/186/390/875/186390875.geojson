@@ -2,13 +2,14 @@
   "id": 186390875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.126356,43.966087,11.126356,43.966087",
     "geom:latitude":43.966087,
     "geom:longitude":11.126356,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Liberazione 16 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186390875,
-    "wof:lastmodified":1449053055,
+    "wof:lastmodified":1466291271,
     "wof:name":"D.g. Textiles Di Luconi Donatella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blend"
     ]
 },
-  "bbox": [11.126356,43.966087,11.126356,43.966087],
+  "bbox": [
+    11.126356,
+    43.966087,
+    11.126356,
+    43.966087
+],
   "geometry": {"coordinates":[11.126356,43.966087],"type":"Point"}
 }

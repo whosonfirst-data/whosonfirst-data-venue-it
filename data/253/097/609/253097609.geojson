@@ -2,13 +2,14 @@
   "id": 253097609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.827107,45.6586,9.827107,45.6586",
     "geom:latitude":45.6586,
     "geom:longitude":9.827107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Butonia, 40/42 24060 Carobbio Degli Angeli",
     "sg:city":"Carobbio degli Angeli",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253097609,
-    "wof:lastmodified":1449063990,
+    "wof:lastmodified":1466289947,
     "wof:name":"Procrea Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.827107,45.6586,9.827107,45.6586],
+  "bbox": [
+    9.827107,
+    45.6586,
+    9.827107,
+    45.6586
+],
   "geometry": {"coordinates":[9.827107,45.6586],"type":"Point"}
 }

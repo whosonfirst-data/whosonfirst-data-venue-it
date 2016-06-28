@@ -2,13 +2,14 @@
   "id": 186557919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.503142,41.894257,12.503142,41.894257",
     "geom:latitude":41.894257,
     "geom:longitude":12.503142,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51, Via Buonarroti 00185 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186557919,
-    "wof:lastmodified":1449052274,
+    "wof:lastmodified":1466292858,
     "wof:name":"Hotel Orazia",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.503142,41.894257,12.503142,41.894257],
+  "bbox": [
+    12.503142,
+    41.894257,
+    12.503142,
+    41.894257
+],
   "geometry": {"coordinates":[12.503142,41.894257],"type":"Point"}
 }

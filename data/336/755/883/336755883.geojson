@@ -2,13 +2,14 @@
   "id": 336755883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.035234,43.834011,11.035234,43.834011",
     "geom:latitude":43.834011,
     "geom:longitude":11.035234,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, V. Meucci - Seano 59015 Carmignano",
     "sg:city":"Carmignano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336755883,
-    "wof:lastmodified":1448997255,
+    "wof:lastmodified":1466295583,
     "wof:name":"Promec Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.035234,43.834011,11.035234,43.834011],
+  "bbox": [
+    11.035234,
+    43.834011,
+    11.035234,
+    43.834011
+],
   "geometry": {"coordinates":[11.035234,43.834011],"type":"Point"}
 }

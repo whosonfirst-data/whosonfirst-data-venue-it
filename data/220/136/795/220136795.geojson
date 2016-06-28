@@ -2,13 +2,14 @@
   "id": 220136795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.1689,45.454708,9.1689,45.454708",
     "geom:latitude":45.454708,
     "geom:longitude":9.1689,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220136795,
-    "wof:lastmodified":1449074867,
+    "wof:lastmodified":1466288904,
     "wof:name":"Apis Software Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.1689,45.454708,9.1689,45.454708],
+  "bbox": [
+    9.1689,
+    45.454708,
+    9.1689,
+    45.454708
+],
   "geometry": {"coordinates":[9.1689,45.454708],"type":"Point"}
 }

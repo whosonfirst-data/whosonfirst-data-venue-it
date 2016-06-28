@@ -2,13 +2,14 @@
   "id": 253540605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.622266,44.305405,7.622266,44.305405",
     "geom:latitude":44.305405,
     "geom:longitude":7.622266,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12016 Peveragno",
     "sg:city":"Peveragno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253540605,
-    "wof:lastmodified":1449063986,
+    "wof:lastmodified":1466295144,
     "wof:name":"Cryos Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.622266,44.305405,7.622266,44.305405],
+  "bbox": [
+    7.622266,
+    44.305405,
+    7.622266,
+    44.305405
+],
   "geometry": {"coordinates":[7.622266,44.305405],"type":"Point"}
 }

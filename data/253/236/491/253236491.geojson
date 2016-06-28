@@ -2,13 +2,14 @@
   "id": 253236491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.113137,39.250114,9.113137,39.250114",
     "geom:latitude":39.250114,
     "geom:longitude":9.113137,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09134 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253236491,
-    "wof:lastmodified":1449063124,
+    "wof:lastmodified":1466291407,
     "wof:name":"Ambulanza Sardegna Soccorso",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.113137,39.250114,9.113137,39.250114],
+  "bbox": [
+    9.113137,
+    39.250114,
+    9.113137,
+    39.250114
+],
   "geometry": {"coordinates":[9.113137,39.250114],"type":"Point"}
 }

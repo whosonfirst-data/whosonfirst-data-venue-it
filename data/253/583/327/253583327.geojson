@@ -2,13 +2,14 @@
   "id": 253583327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.375454,45.441139,9.375454,45.441139",
     "geom:latitude":45.441139,
     "geom:longitude":9.375454,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Amendola, 3- Caleppio 20090 Settala",
     "sg:city":"Caleppio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253583327,
-    "wof:lastmodified":1449065136,
+    "wof:lastmodified":1466295737,
     "wof:name":"Siquam Societa' Industriale Di Quarto Al Mare Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lacquer"
     ]
 },
-  "bbox": [9.375454,45.441139,9.375454,45.441139],
+  "bbox": [
+    9.375454,
+    45.441139,
+    9.375454,
+    45.441139
+],
   "geometry": {"coordinates":[9.375454,45.441139],"type":"Point"}
 }

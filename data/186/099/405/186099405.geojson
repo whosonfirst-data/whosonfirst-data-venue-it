@@ -2,13 +2,14 @@
   "id": 186099405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.445235,46.154739,9.445235,46.154739",
     "geom:latitude":46.154739,
     "geom:longitude":9.445235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Valeriana 240; Nuova Olonio",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186099405,
-    "wof:lastmodified":1449052120,
+    "wof:lastmodified":1466296041,
     "wof:name":"Credito Valtellinese Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.445235,46.154739,9.445235,46.154739],
+  "bbox": [
+    9.445235,
+    46.154739,
+    9.445235,
+    46.154739
+],
   "geometry": {"coordinates":[9.445235,46.154739],"type":"Point"}
 }

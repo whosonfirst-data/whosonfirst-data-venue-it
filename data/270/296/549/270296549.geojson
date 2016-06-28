@@ -2,13 +2,14 @@
   "id": 270296549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.786566,43.760788,11.786566,43.760788",
     "geom:latitude":43.760788,
     "geom:longitude":11.786566,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52014 Poppi",
     "sg:city":"Poppi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270296549,
-    "wof:lastmodified":1449010610,
+    "wof:lastmodified":1466292566,
     "wof:name":"Gen-amo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.786566,43.760788,11.786566,43.760788],
+  "bbox": [
+    11.786566,
+    43.760788,
+    11.786566,
+    43.760788
+],
   "geometry": {"coordinates":[11.786566,43.760788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287056239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.182115,45.724594,12.182115,45.724594",
     "geom:latitude":45.724594,
     "geom:longitude":12.182115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Postumia 25 31050 Ponzano",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":287056239,
-    "wof:lastmodified":1449000896,
+    "wof:lastmodified":1466290303,
     "wof:name":"Multi Trailers Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [12.182115,45.724594,12.182115,45.724594],
+  "bbox": [
+    12.182115,
+    45.724594,
+    12.182115,
+    45.724594
+],
   "geometry": {"coordinates":[12.182115,45.724594],"type":"Point"}
 }

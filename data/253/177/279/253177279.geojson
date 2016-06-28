@@ -2,13 +2,14 @@
   "id": 253177279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.338967,44.501637,11.338967,44.501637",
     "geom:latitude":44.501637,
     "geom:longitude":11.338967,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40122 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253177279,
-    "wof:lastmodified":1449065803,
+    "wof:lastmodified":1466290760,
     "wof:name":"Studio Tecnico Dr. Italo Melchiorre",
     "wof:parent_id":85904597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.338967,44.501637,11.338967,44.501637],
+  "bbox": [
+    11.338967,
+    44.501637,
+    11.338967,
+    44.501637
+],
   "geometry": {"coordinates":[11.338967,44.501637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203327979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.474794,41.903519,12.474794,41.903519",
     "geom:latitude":41.903519,
     "geom:longitude":12.474794,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203327979,
-    "wof:lastmodified":1449025081,
+    "wof:lastmodified":1466291339,
     "wof:name":"Soave Fiammetta",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.474794,41.903519,12.474794,41.903519],
+  "bbox": [
+    12.474794,
+    41.903519,
+    12.474794,
+    41.903519
+],
   "geometry": {"coordinates":[12.474794,41.903519],"type":"Point"}
 }

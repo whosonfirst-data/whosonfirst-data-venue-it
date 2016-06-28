@@ -2,13 +2,14 @@
   "id": 203348875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.458926,45.74987,11.458926,45.74987",
     "geom:latitude":45.74987,
     "geom:longitude":11.458926,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36010 Carr\u00e8",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Per Aziende, Manifestazioni E Supporto Agli Scambi Commerciali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203348875,
-    "wof:lastmodified":1449025038,
+    "wof:lastmodified":1466291567,
     "wof:name":"Flash Di Fongaro Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.458926,45.74987,11.458926,45.74987],
+  "bbox": [
+    11.458926,
+    45.74987,
+    11.458926,
+    45.74987
+],
   "geometry": {"coordinates":[11.458926,45.74987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320378515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.6078,41.723694,12.6078,41.723694",
     "geom:latitude":41.723694,
     "geom:longitude":12.6078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00041 Albano Laziale",
     "sg:city":"Albano Laziale",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320378515,
-    "wof:lastmodified":1449013789,
+    "wof:lastmodified":1466297210,
     "wof:name":"Sa.com.srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.6078,41.723694,12.6078,41.723694],
+  "bbox": [
+    12.6078,
+    41.723694,
+    12.6078,
+    41.723694
+],
   "geometry": {"coordinates":[12.6078,41.723694],"type":"Point"}
 }

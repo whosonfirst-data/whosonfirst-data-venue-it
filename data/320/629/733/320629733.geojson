@@ -2,13 +2,14 @@
   "id": 320629733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.845535,46.256145,9.845535,46.256145",
     "geom:latitude":46.256145,
     "geom:longitude":9.845535,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23023 Chiesa In Valmalenco",
     "sg:city":"Chiesa in Valmalenco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320629733,
-    "wof:lastmodified":1449014089,
+    "wof:lastmodified":1466297855,
     "wof:name":"Ital Export Valmalenco Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.845535,46.256145,9.845535,46.256145],
+  "bbox": [
+    9.845535,
+    46.256145,
+    9.845535,
+    46.256145
+],
   "geometry": {"coordinates":[9.845535,46.256145],"type":"Point"}
 }

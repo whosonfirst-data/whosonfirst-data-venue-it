@@ -2,13 +2,14 @@
   "id": 269919591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.308928,43.558422,10.308928,43.558422",
     "geom:latitude":43.558422,
     "geom:longitude":10.308928,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Scali Cerere 57122 Livorno",
     "sg:city":"Livorno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269919591,
-    "wof:lastmodified":1449038216,
+    "wof:lastmodified":1466294359,
     "wof:name":"Trans Alpe Srl",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air"
     ]
 },
-  "bbox": [10.308928,43.558422,10.308928,43.558422],
+  "bbox": [
+    10.308928,
+    43.558422,
+    10.308928,
+    43.558422
+],
   "geometry": {"coordinates":[10.308928,43.558422],"type":"Point"}
 }

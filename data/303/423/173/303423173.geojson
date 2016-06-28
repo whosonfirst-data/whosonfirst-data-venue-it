@@ -2,13 +2,14 @@
   "id": 303423173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.938209,44.403198,8.938209,44.403198",
     "geom:latitude":44.403198,
     "geom:longitude":8.938209,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16043 Chiavari",
     "sg:city":"Chiavari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303423173,
-    "wof:lastmodified":1448998520,
+    "wof:lastmodified":1466295727,
     "wof:name":"Al Mercato Dell'usato",
     "wof:parent_id":85862663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.938209,44.403198,8.938209,44.403198],
+  "bbox": [
+    8.938209,
+    44.403198,
+    8.938209,
+    44.403198
+],
   "geometry": {"coordinates":[8.938209,44.403198],"type":"Point"}
 }

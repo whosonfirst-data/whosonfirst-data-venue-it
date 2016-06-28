@@ -2,13 +2,14 @@
   "id": 186538827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.343931,44.499439,11.343931,44.499439",
     "geom:latitude":44.499439,
     "geom:longitude":11.343931,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Via Dell' Indipendenza 40121 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186538827,
-    "wof:lastmodified":1449050631,
+    "wof:lastmodified":1466292681,
     "wof:name":"Albergo Tre Vecchi",
     "wof:parent_id":85904597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.343931,44.499439,11.343931,44.499439],
+  "bbox": [
+    11.343931,
+    44.499439,
+    11.343931,
+    44.499439
+],
   "geometry": {"coordinates":[11.343931,44.499439],"type":"Point"}
 }

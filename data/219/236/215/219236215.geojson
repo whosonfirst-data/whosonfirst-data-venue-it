@@ -2,13 +2,14 @@
   "id": 219236215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.658742,45.138741,7.658742,45.138741",
     "geom:latitude":45.138741,
     "geom:longitude":7.658742,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Liguria 29/33 10071 Borgaro Torinese",
     "sg:city":"Borgaro Torinese",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219236215,
-    "wof:lastmodified":1449070766,
+    "wof:lastmodified":1466295905,
     "wof:name":"Tonon Di Mariano Tonon & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelf"
     ]
 },
-  "bbox": [7.658742,45.138741,7.658742,45.138741],
+  "bbox": [
+    7.658742,
+    45.138741,
+    7.658742,
+    45.138741
+],
   "geometry": {"coordinates":[7.658742,45.138741],"type":"Point"}
 }

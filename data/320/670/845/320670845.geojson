@@ -2,13 +2,14 @@
   "id": 320670845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.095762,37.522713,15.095762,37.522713",
     "geom:latitude":37.522713,
     "geom:longitude":15.095762,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95126 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320670845,
-    "wof:lastmodified":1449011812,
+    "wof:lastmodified":1466297949,
     "wof:name":"Trovato Leopoldo & C. Snc Di Trovato Leopoldo",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.095762,37.522713,15.095762,37.522713],
+  "bbox": [
+    15.095762,
+    37.522713,
+    15.095762,
+    37.522713
+],
   "geometry": {"coordinates":[15.095762,37.522713],"type":"Point"}
 }

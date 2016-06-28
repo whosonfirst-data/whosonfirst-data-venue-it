@@ -2,13 +2,14 @@
   "id": 236003097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.243735,40.857166,14.243735,40.857166",
     "geom:latitude":40.857166,
     "geom:longitude":14.243735,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80136 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236003097,
-    "wof:lastmodified":1449004939,
+    "wof:lastmodified":1466288921,
     "wof:name":"Hydrofine",
     "wof:parent_id":85904789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.243735,40.857166,14.243735,40.857166],
+  "bbox": [
+    14.243735,
+    40.857166,
+    14.243735,
+    40.857166
+],
   "geometry": {"coordinates":[14.243735,40.857166],"type":"Point"}
 }

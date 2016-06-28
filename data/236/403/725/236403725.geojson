@@ -2,13 +2,14 @@
   "id": 236403725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.077563,45.56834,8.077563,45.56834",
     "geom:latitude":45.56834,
     "geom:longitude":8.077563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Milano 89 13900 Biella",
     "sg:city":"Biella",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236403725,
-    "wof:lastmodified":1449004686,
+    "wof:lastmodified":1466293023,
     "wof:name":"Nuove Officine Di Chiavazza - S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blank"
     ]
 },
-  "bbox": [8.077563,45.56834,8.077563,45.56834],
+  "bbox": [
+    8.077563,
+    45.56834,
+    8.077563,
+    45.56834
+],
   "geometry": {"coordinates":[8.077563,45.56834],"type":"Point"}
 }

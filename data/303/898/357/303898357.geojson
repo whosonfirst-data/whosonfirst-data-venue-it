@@ -2,13 +2,14 @@
   "id": 303898357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.757396,45.766987,11.757396,45.766987",
     "geom:latitude":45.766987,
     "geom:longitude":11.757396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36022 Cassola",
     "sg:city":"Cassola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303898357,
-    "wof:lastmodified":1448998066,
+    "wof:lastmodified":1466298080,
     "wof:name":"Impresa Funebre Bonin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.757396,45.766987,11.757396,45.766987],
+  "bbox": [
+    11.757396,
+    45.766987,
+    11.757396,
+    45.766987
+],
   "geometry": {"coordinates":[11.757396,45.766987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286724321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.141642,45.72337,9.141642,45.72337",
     "geom:latitude":45.72337,
     "geom:longitude":9.141642,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22063 Cant\u00f9",
     "sg:classifiers":[],
     "sg:orig_category":"Contenitori - Produzione E Commercio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286724321,
-    "wof:lastmodified":1449018013,
+    "wof:lastmodified":1466295527,
     "wof:name":"Legatoria Marelli Di Marelli G. & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.141642,45.72337,9.141642,45.72337],
+  "bbox": [
+    9.141642,
+    45.72337,
+    9.141642,
+    45.72337
+],
   "geometry": {"coordinates":[9.141642,45.72337],"type":"Point"}
 }

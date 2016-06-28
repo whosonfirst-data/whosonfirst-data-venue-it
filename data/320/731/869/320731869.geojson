@@ -2,13 +2,14 @@
   "id": 320731869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.227815,42.067371,14.227815,42.067371",
     "geom:latitude":42.067371,
     "geom:longitude":14.227815,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66043 Casoli",
     "sg:city":"Casoli",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320731869,
-    "wof:lastmodified":1449014549,
+    "wof:lastmodified":1466298062,
     "wof:name":"D'amico Filippo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.227815,42.067371,14.227815,42.067371],
+  "bbox": [
+    14.227815,
+    42.067371,
+    14.227815,
+    42.067371
+],
   "geometry": {"coordinates":[14.227815,42.067371],"type":"Point"}
 }

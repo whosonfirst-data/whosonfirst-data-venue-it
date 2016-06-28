@@ -2,13 +2,14 @@
   "id": 336930821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.249768,40.846764,14.249768,40.846764",
     "geom:latitude":40.846764,
     "geom:longitude":14.249768,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80134 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336930821,
-    "wof:lastmodified":1448997285,
+    "wof:lastmodified":1466297012,
     "wof:name":"Diagnostica Ecografia E Prenatale Aniello Di Meglio Srl",
     "wof:parent_id":85900505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [14.249768,40.846764,14.249768,40.846764],
+  "bbox": [
+    14.249768,
+    40.846764,
+    14.249768,
+    40.846764
+],
   "geometry": {"coordinates":[14.249768,40.846764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287195923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.294436,44.307816,12.294436,44.307816",
     "geom:latitude":44.307816,
     "geom:longitude":12.294436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48100 Ravenna",
     "sg:city":"Ravenna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287195923,
-    "wof:lastmodified":1449001272,
+    "wof:lastmodified":1466292185,
     "wof:name":"Prometal Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.294436,44.307816,12.294436,44.307816],
+  "bbox": [
+    12.294436,
+    44.307816,
+    12.294436,
+    44.307816
+],
   "geometry": {"coordinates":[12.294436,44.307816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303739135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.871327,43.575577,11.871327,43.575577",
     "geom:latitude":43.575577,
     "geom:longitude":11.871327,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52010 Subbiano",
     "sg:city":"Subbiano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303739135,
-    "wof:lastmodified":1448999151,
+    "wof:lastmodified":1466297690,
     "wof:name":"Caporali Enzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.871327,43.575577,11.871327,43.575577],
+  "bbox": [
+    11.871327,
+    43.575577,
+    11.871327,
+    43.575577
+],
   "geometry": {"coordinates":[11.871327,43.575577],"type":"Point"}
 }

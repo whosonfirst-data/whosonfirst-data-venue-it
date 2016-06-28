@@ -2,13 +2,14 @@
   "id": 286814865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.266479,37.600521,-82.266479,37.600521",
     "geom:latitude":37.600521,
     "geom:longitude":-82.266479,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41535 Genova",
     "sg:classifiers":[],
     "sg:orig_category":"Telecomunicazioni E Telefonia, Impianti, Apparecchi E Servizi. Acqua, Luce, Gas E Societa' Di Esercizio Pubblico. Servizi Vari Di Interesse Pubblico",
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286814865,
-    "wof:lastmodified":1449015705,
+    "wof:lastmodified":1466296605,
     "wof:name":"Moonlit Di Marcante Damiano",
     "wof:parent_id":85853729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.266479,37.600521,-82.266479,37.600521],
+  "bbox": [
+    -82.266479,
+    37.600521,
+    -82.266479,
+    37.600521
+],
   "geometry": {"coordinates":[-82.266479,37.600521],"type":"Point"}
 }

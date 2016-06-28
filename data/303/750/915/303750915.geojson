@@ -2,13 +2,14 @@
   "id": 303750915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.609766,44.89373,11.609766,44.89373",
     "geom:latitude":44.89373,
     "geom:longitude":11.609766,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45030 Occhiobello",
     "sg:city":"Occhiobello",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303750915,
-    "wof:lastmodified":1448999597,
+    "wof:lastmodified":1466297799,
     "wof:name":"Studio T. Snc Di Trombelli & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.609766,44.89373,11.609766,44.89373],
+  "bbox": [
+    11.609766,
+    44.89373,
+    11.609766,
+    44.89373
+],
   "geometry": {"coordinates":[11.609766,44.89373],"type":"Point"}
 }

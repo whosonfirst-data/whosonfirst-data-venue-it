@@ -2,13 +2,14 @@
   "id": 219497621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.480465,44.307846,8.480465,44.307846",
     "geom:latitude":44.307846,
     "geom:longitude":8.480465,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17100 Savona",
     "sg:city":"Savona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219497621,
-    "wof:lastmodified":1449073861,
+    "wof:lastmodified":1466291376,
     "wof:name":"Studio Progettazione Industriale Tassara & Novello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.480465,44.307846,8.480465,44.307846],
+  "bbox": [
+    8.480465,
+    44.307846,
+    8.480465,
+    44.307846
+],
   "geometry": {"coordinates":[8.480465,44.307846],"type":"Point"}
 }

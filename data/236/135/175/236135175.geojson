@@ -2,13 +2,14 @@
   "id": 236135175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.702812,45.948669,9.702812,45.948669",
     "geom:latitude":45.948669,
     "geom:longitude":9.702812,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Miralago 24010 Moio De' Calvi",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":236135175,
-    "wof:lastmodified":1449002816,
+    "wof:lastmodified":1466290233,
     "wof:name":"Acqua Minerale Stella Alpina (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [9.702812,45.948669,9.702812,45.948669],
+  "bbox": [
+    9.702812,
+    45.948669,
+    9.702812,
+    45.948669
+],
   "geometry": {"coordinates":[9.702812,45.948669],"type":"Point"}
 }

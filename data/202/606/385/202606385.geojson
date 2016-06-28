@@ -2,13 +2,14 @@
   "id": 202606385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.228032,45.477638,12.228032,45.477638",
     "geom:latitude":45.477638,
     "geom:longitude":12.228032,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30175 Venezia",
     "sg:city":"Marghera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202606385,
-    "wof:lastmodified":1449060499,
+    "wof:lastmodified":1466290044,
     "wof:name":"Archimede Gruden Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.228032,45.477638,12.228032,45.477638],
+  "bbox": [
+    12.228032,
+    45.477638,
+    12.228032,
+    45.477638
+],
   "geometry": {"coordinates":[12.228032,45.477638],"type":"Point"}
 }

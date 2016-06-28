@@ -2,13 +2,14 @@
   "id": 186240563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196535,45.467136,9.196535,45.467136",
     "geom:latitude":45.467136,
     "geom:longitude":9.196535,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Monte Napoleone 2 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186240563,
-    "wof:lastmodified":1449050520,
+    "wof:lastmodified":1466290004,
     "wof:name":"Mila Schon Group Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "basic"
     ]
 },
-  "bbox": [9.196535,45.467136,9.196535,45.467136],
+  "bbox": [
+    9.196535,
+    45.467136,
+    9.196535,
+    45.467136
+],
   "geometry": {"coordinates":[9.196535,45.467136],"type":"Point"}
 }

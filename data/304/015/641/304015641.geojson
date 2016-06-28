@@ -2,13 +2,14 @@
   "id": 304015641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.193105,43.835388,11.193105,43.835388",
     "geom:latitude":43.835388,
     "geom:longitude":11.193105,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50019 Sesto Fiorentino",
     "sg:city":"Sesto Fiorentino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304015641,
-    "wof:lastmodified":1449043704,
+    "wof:lastmodified":1466292336,
     "wof:name":"Delta Stampi Di Tossani Simone E C. Sas",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.193105,43.835388,11.193105,43.835388],
+  "bbox": [
+    11.193105,
+    43.835388,
+    11.193105,
+    43.835388
+],
   "geometry": {"coordinates":[11.193105,43.835388],"type":"Point"}
 }

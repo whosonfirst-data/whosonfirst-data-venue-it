@@ -2,13 +2,14 @@
   "id": 186537403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.918684,44.416557,8.918684,44.416557",
     "geom:latitude":44.416557,
     "geom:longitude":8.918684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Del Principe 16126 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186537403,
-    "wof:lastmodified":1449051049,
+    "wof:lastmodified":1466292667,
     "wof:name":"Albergo Savoia Majestic",
     "wof:parent_id":85796915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [8.918684,44.416557,8.918684,44.416557],
+  "bbox": [
+    8.918684,
+    44.416557,
+    8.918684,
+    44.416557
+],
   "geometry": {"coordinates":[8.918684,44.416557],"type":"Point"}
 }

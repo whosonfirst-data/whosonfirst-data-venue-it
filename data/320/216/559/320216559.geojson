@@ -2,13 +2,14 @@
   "id": 320216559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.240294,45.523457,10.240294,45.523457",
     "geom:latitude":45.523457,
     "geom:longitude":10.240294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25068 Sarezzo",
     "sg:city":"Sarezzo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320216559,
-    "wof:lastmodified":1449014538,
+    "wof:lastmodified":1466296007,
     "wof:name":"Saretina Impianti S.p.a.",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.240294,45.523457,10.240294,45.523457],
+  "bbox": [
+    10.240294,
+    45.523457,
+    10.240294,
+    45.523457
+],
   "geometry": {"coordinates":[10.240294,45.523457],"type":"Point"}
 }

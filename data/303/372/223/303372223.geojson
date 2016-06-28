@@ -2,13 +2,14 @@
   "id": 303372223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.787229,45.639488,11.787229,45.639488",
     "geom:latitude":45.639488,
     "geom:longitude":11.787229,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"342, Via Postumia Di Ponente 35013 Cittadella",
     "sg:city":"Cittadella",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303372223,
-    "wof:lastmodified":1448999603,
+    "wof:lastmodified":1466295098,
     "wof:name":"Cortal Extrasoy S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [11.787229,45.639488,11.787229,45.639488],
+  "bbox": [
+    11.787229,
+    45.639488,
+    11.787229,
+    45.639488
+],
   "geometry": {"coordinates":[11.787229,45.639488],"type":"Point"}
 }

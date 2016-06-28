@@ -2,13 +2,14 @@
   "id": 286470465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.405724,41.149174,16.405724,41.149174",
     "geom:latitude":41.149174,
     "geom:longitude":16.405724,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Corazzini 70033 Corato",
     "sg:city":"Corato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286470465,
-    "wof:lastmodified":1449015880,
+    "wof:lastmodified":1466292360,
     "wof:name":"Camicerie De Robertis Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [16.405724,41.149174,16.405724,41.149174],
+  "bbox": [
+    16.405724,
+    41.149174,
+    16.405724,
+    41.149174
+],
   "geometry": {"coordinates":[16.405724,41.149174],"type":"Point"}
 }

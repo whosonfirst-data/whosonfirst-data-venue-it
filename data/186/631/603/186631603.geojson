@@ -2,13 +2,14 @@
   "id": 186631603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.446348,41.895477,12.446348,41.895477",
     "geom:latitude":41.895477,
     "geom:longitude":12.446348,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00165 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186631603,
-    "wof:lastmodified":1449051207,
+    "wof:lastmodified":1466293597,
     "wof:name":"Overland.it Istituto Superiore Di Formazione Turistica",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "recruitment"
     ]
 },
-  "bbox": [12.446348,41.895477,12.446348,41.895477],
+  "bbox": [
+    12.446348,
+    41.895477,
+    12.446348,
+    41.895477
+],
   "geometry": {"coordinates":[12.446348,41.895477],"type":"Point"}
 }

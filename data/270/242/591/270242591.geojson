@@ -2,13 +2,14 @@
   "id": 270242591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.144377,45.531624,9.144377,45.531624",
     "geom:latitude":45.531624,
     "geom:longitude":9.144377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20026 Novate Milanese",
     "sg:city":"Novate Milanese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270242591,
-    "wof:lastmodified":1449010805,
+    "wof:lastmodified":1466291915,
     "wof:name":"Db Progetti Srl",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.144377,45.531624,9.144377,45.531624],
+  "bbox": [
+    9.144377,
+    45.531624,
+    9.144377,
+    45.531624
+],
   "geometry": {"coordinates":[9.144377,45.531624],"type":"Point"}
 }

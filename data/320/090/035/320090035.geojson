@@ -2,13 +2,14 @@
   "id": 320090035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.185388,46.127056,12.185388,46.127056",
     "geom:latitude":46.127056,
     "geom:longitude":12.185388,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32100 Belluno",
     "sg:city":"Belluno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320090035,
-    "wof:lastmodified":1449014208,
+    "wof:lastmodified":1466294510,
     "wof:name":"Bauma Edilservice Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.185388,46.127056,12.185388,46.127056],
+  "bbox": [
+    12.185388,
+    46.127056,
+    12.185388,
+    46.127056
+],
   "geometry": {"coordinates":[12.185388,46.127056],"type":"Point"}
 }

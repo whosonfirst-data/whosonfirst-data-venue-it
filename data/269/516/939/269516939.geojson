@@ -2,13 +2,14 @@
   "id": 269516939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.767549,43.240715,13.767549,43.240715",
     "geom:latitude":43.240715,
     "geom:longitude":13.767549,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Matera 63018 Porto Sant'elpidio",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269516939,
-    "wof:lastmodified":1449036605,
+    "wof:lastmodified":1466289332,
     "wof:name":"Calzaturificio Dana Di Petrini Marcella & C. (s.n.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.767549,43.240715,13.767549,43.240715],
+  "bbox": [
+    13.767549,
+    43.240715,
+    13.767549,
+    43.240715
+],
   "geometry": {"coordinates":[13.767549,43.240715],"type":"Point"}
 }

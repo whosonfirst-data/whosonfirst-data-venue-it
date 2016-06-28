@@ -2,13 +2,14 @@
   "id": 286506987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.980881,40.930374,15.980881,40.930374",
     "geom:latitude":40.930374,
     "geom:longitude":15.980881,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"54, Via Roma 70058 Spinazzola",
     "sg:city":"Spinazzola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286506987,
-    "wof:lastmodified":1449015220,
+    "wof:lastmodified":1466292792,
     "wof:name":"Esseci (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [15.980881,40.930374,15.980881,40.930374],
+  "bbox": [
+    15.980881,
+    40.930374,
+    15.980881,
+    40.930374
+],
   "geometry": {"coordinates":[15.980881,40.930374],"type":"Point"}
 }

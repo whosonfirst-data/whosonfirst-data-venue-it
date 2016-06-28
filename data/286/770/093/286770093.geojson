@@ -2,13 +2,14 @@
   "id": 286770093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.704192,37.030193,14.704192,37.030193",
     "geom:latitude":37.030193,
     "geom:longitude":14.704192,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97100 Ragusa",
     "sg:city":"Ragusa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286770093,
-    "wof:lastmodified":1449018139,
+    "wof:lastmodified":1466296102,
     "wof:name":"Guastella Giancarlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.704192,37.030193,14.704192,37.030193],
+  "bbox": [
+    14.704192,
+    37.030193,
+    14.704192,
+    37.030193
+],
   "geometry": {"coordinates":[14.704192,37.030193],"type":"Point"}
 }

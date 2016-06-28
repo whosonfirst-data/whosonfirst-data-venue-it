@@ -2,13 +2,14 @@
   "id": 220031079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.859455,45.366798,10.859455,45.366798",
     "geom:latitude":45.366798,
     "geom:longitude":10.859455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37069 Villafranca",
     "sg:classifiers":[],
     "sg:orig_category":"Imprese Di Costruzioni Civili Ed Industriali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220031079,
-    "wof:lastmodified":1449074333,
+    "wof:lastmodified":1466294792,
     "wof:name":"Signoretto Lavori Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.859455,45.366798,10.859455,45.366798],
+  "bbox": [
+    10.859455,
+    45.366798,
+    10.859455,
+    45.366798
+],
   "geometry": {"coordinates":[10.859455,45.366798],"type":"Point"}
 }

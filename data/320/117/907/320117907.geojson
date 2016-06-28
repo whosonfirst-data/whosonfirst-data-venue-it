@@ -2,13 +2,14 @@
   "id": 320117907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.766797,45.567219,10.766797,45.567219",
     "geom:latitude":45.567219,
     "geom:longitude":10.766797,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37010 Costermano",
     "sg:city":"Costermano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320117907,
-    "wof:lastmodified":1449013812,
+    "wof:lastmodified":1466294830,
     "wof:name":"Off.mecc. Di Bortignon D.e C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.766797,45.567219,10.766797,45.567219],
+  "bbox": [
+    10.766797,
+    45.567219,
+    10.766797,
+    45.567219
+],
   "geometry": {"coordinates":[10.766797,45.567219],"type":"Point"}
 }

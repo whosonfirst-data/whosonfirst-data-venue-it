@@ -2,13 +2,14 @@
   "id": 286556817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.417248,45.256409,10.417248,45.256409",
     "geom:latitude":45.256409,
     "geom:longitude":10.417248,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Degli Artigiani 46040 Casalmoro",
     "sg:city":"Casalmoro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286556817,
-    "wof:lastmodified":1449015897,
+    "wof:lastmodified":1466293392,
     "wof:name":"Mantova I.t.c. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.417248,45.256409,10.417248,45.256409],
+  "bbox": [
+    10.417248,
+    45.256409,
+    10.417248,
+    45.256409
+],
   "geometry": {"coordinates":[10.417248,45.256409],"type":"Point"}
 }

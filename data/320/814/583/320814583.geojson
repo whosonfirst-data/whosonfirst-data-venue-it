@@ -2,13 +2,14 @@
   "id": 320814583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.157027,45.534218,9.157027,45.534218",
     "geom:latitude":45.534218,
     "geom:longitude":9.157027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320814583,
-    "wof:lastmodified":1449011944,
+    "wof:lastmodified":1466298196,
     "wof:name":"Rizzi Ing. V. & P. (s.p.a.)",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.157027,45.534218,9.157027,45.534218],
+  "bbox": [
+    9.157027,
+    45.534218,
+    9.157027,
+    45.534218
+],
   "geometry": {"coordinates":[9.157027,45.534218],"type":"Point"}
 }

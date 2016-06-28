@@ -2,13 +2,14 @@
   "id": 253018951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.239406,40.69334,15.239406,40.69334",
     "geom:latitude":40.69334,
     "geom:longitude":15.239406,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84020 Oliveto Citra",
     "sg:city":"Oliveto Citra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253018951,
-    "wof:lastmodified":1449064297,
+    "wof:lastmodified":1466289109,
     "wof:name":"Di Guida Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.239406,40.69334,15.239406,40.69334],
+  "bbox": [
+    15.239406,
+    40.69334,
+    15.239406,
+    40.69334
+],
   "geometry": {"coordinates":[15.239406,40.69334],"type":"Point"}
 }

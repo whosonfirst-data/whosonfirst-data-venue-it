@@ -2,13 +2,14 @@
   "id": 202408057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.21361,45.483009,9.21361,45.483009",
     "geom:latitude":45.483009,
     "geom:longitude":9.21361,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202408057,
-    "wof:lastmodified":1449060413,
+    "wof:lastmodified":1466296303,
     "wof:name":"Centro Europeo Acconciature Cea",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.21361,45.483009,9.21361,45.483009],
+  "bbox": [
+    9.21361,
+    45.483009,
+    9.21361,
+    45.483009
+],
   "geometry": {"coordinates":[9.21361,45.483009],"type":"Point"}
 }

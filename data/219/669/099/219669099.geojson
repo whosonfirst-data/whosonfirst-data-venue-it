@@ -2,13 +2,14 @@
   "id": 219669099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.526604,41.912743,12.526604,41.912743",
     "geom:latitude":41.912743,
     "geom:longitude":12.526604,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00162 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219669099,
-    "wof:lastmodified":1449070792,
+    "wof:lastmodified":1466292973,
     "wof:name":"Officina Gambelli",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.526604,41.912743,12.526604,41.912743],
+  "bbox": [
+    12.526604,
+    41.912743,
+    12.526604,
+    41.912743
+],
   "geometry": {"coordinates":[12.526604,41.912743],"type":"Point"}
 }

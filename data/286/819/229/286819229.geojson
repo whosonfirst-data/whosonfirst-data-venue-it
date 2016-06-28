@@ -2,13 +2,14 @@
   "id": 286819229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.656783,45.057594,7.656783,45.057594",
     "geom:latitude":45.057594,
     "geom:longitude":7.656783,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10129 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286819229,
-    "wof:lastmodified":1449015868,
+    "wof:lastmodified":1466296523,
     "wof:name":"A.t.e.t. Srl",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.656783,45.057594,7.656783,45.057594],
+  "bbox": [
+    7.656783,
+    45.057594,
+    7.656783,
+    45.057594
+],
   "geometry": {"coordinates":[7.656783,45.057594],"type":"Point"}
 }

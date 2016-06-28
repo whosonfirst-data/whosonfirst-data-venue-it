@@ -2,13 +2,14 @@
   "id": 286636137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.240446,39.797272,16.240446,39.797272",
     "geom:latitude":39.797272,
     "geom:longitude":16.240446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87012 Castrovillari",
     "sg:city":"Castrovillari",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286636137,
-    "wof:lastmodified":1449016350,
+    "wof:lastmodified":1466294376,
     "wof:name":"Colorwash Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "clothing"
     ]
 },
-  "bbox": [16.240446,39.797272,16.240446,39.797272],
+  "bbox": [
+    16.240446,
+    39.797272,
+    16.240446,
+    39.797272
+],
   "geometry": {"coordinates":[16.240446,39.797272],"type":"Point"}
 }

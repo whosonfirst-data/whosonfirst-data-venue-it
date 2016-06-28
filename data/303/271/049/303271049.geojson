@@ -2,13 +2,14 @@
   "id": 303271049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.168903,40.366699,18.168903,40.366699",
     "geom:latitude":40.366699,
     "geom:longitude":18.168903,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"141/d, Via Adriatica 73100 Lecce",
     "sg:city":"Lecce",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303271049,
-    "wof:lastmodified":1448999403,
+    "wof:lastmodified":1466293871,
     "wof:name":"Comfort (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [18.168903,40.366699,18.168903,40.366699],
+  "bbox": [
+    18.168903,
+    40.366699,
+    18.168903,
+    40.366699
+],
   "geometry": {"coordinates":[18.168903,40.366699],"type":"Point"}
 }

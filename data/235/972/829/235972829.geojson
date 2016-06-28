@@ -2,13 +2,14 @@
   "id": 235972829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.224711,46.737232,12.224711,46.737232",
     "geom:latitude":46.737232,
     "geom:longitude":12.224711,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Torre Rossa 39034 Dobbiaco",
     "sg:city":"Dobbiaco",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235972829,
-    "wof:lastmodified":1449008425,
+    "wof:lastmodified":1466295509,
     "wof:name":"Latteria Sociale Dobbiaco (soc.coop.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [12.224711,46.737232,12.224711,46.737232],
+  "bbox": [
+    12.224711,
+    46.737232,
+    12.224711,
+    46.737232
+],
   "geometry": {"coordinates":[12.224711,46.737232],"type":"Point"}
 }

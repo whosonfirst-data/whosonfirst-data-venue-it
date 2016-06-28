@@ -2,13 +2,14 @@
   "id": 303585679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.900587,46.169708,9.900587,46.169708",
     "geom:latitude":46.169708,
     "geom:longitude":9.900587,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23020 Montagna Valtellina",
     "sg:classifiers":[],
     "sg:orig_category":"Armadi Guardaroba",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303585679,
-    "wof:lastmodified":1448999744,
+    "wof:lastmodified":1466297129,
     "wof:name":"Gorini Snc Di Gorini Gianfranco & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.900587,46.169708,9.900587,46.169708],
+  "bbox": [
+    9.900587,
+    46.169708,
+    9.900587,
+    46.169708
+],
   "geometry": {"coordinates":[9.900587,46.169708],"type":"Point"}
 }

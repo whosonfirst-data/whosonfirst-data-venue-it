@@ -2,13 +2,14 @@
   "id": 287041045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.309305,45.644661,12.309305,45.644661",
     "geom:latitude":45.644661,
     "geom:longitude":12.309305,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cendon 1 31057 Silea",
     "sg:city":"Cendon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287041045,
-    "wof:lastmodified":1449000982,
+    "wof:lastmodified":1466290102,
     "wof:name":"Comas Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "unit"
     ]
 },
-  "bbox": [12.309305,45.644661,12.309305,45.644661],
+  "bbox": [
+    12.309305,
+    45.644661,
+    12.309305,
+    45.644661
+],
   "geometry": {"coordinates":[12.309305,45.644661],"type":"Point"}
 }

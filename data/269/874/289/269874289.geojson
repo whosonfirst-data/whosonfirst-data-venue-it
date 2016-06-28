@@ -2,13 +2,14 @@
   "id": 269874289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.573719,45.419266,11.573719,45.419266",
     "geom:latitude":45.419266,
     "geom:longitude":11.573719,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Montruglio 36024 Mossano",
     "sg:city":"Mossano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269874289,
-    "wof:lastmodified":1449038821,
+    "wof:lastmodified":1466293859,
     "wof:name":"Azienda Agricola Montruglio (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [11.573719,45.419266,11.573719,45.419266],
+  "bbox": [
+    11.573719,
+    45.419266,
+    11.573719,
+    45.419266
+],
   "geometry": {"coordinates":[11.573719,45.419266],"type":"Point"}
 }

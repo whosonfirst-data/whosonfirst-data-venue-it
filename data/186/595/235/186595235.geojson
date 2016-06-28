@@ -2,13 +2,14 @@
   "id": 186595235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.203573,45.465046,12.203573,45.465046",
     "geom:latitude":45.465046,
     "geom:longitude":12.203573,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30175 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186595235,
-    "wof:lastmodified":1449052759,
+    "wof:lastmodified":1466293252,
     "wof:name":"Emporio Saldatura Sas Di R. Crivellaro & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.203573,45.465046,12.203573,45.465046],
+  "bbox": [
+    12.203573,
+    45.465046,
+    12.203573,
+    45.465046
+],
   "geometry": {"coordinates":[12.203573,45.465046],"type":"Point"}
 }

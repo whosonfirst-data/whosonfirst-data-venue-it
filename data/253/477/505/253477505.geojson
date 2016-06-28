@@ -2,13 +2,14 @@
   "id": 253477505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.991352,44.130161,10.991352,44.130161",
     "geom:latitude":44.130161,
     "geom:longitude":10.991352,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"215, Localita' Ponte Della Venturina 40045 Granaglione",
     "sg:city":"Granaglione",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253477505,
-    "wof:lastmodified":1449063323,
+    "wof:lastmodified":1466294350,
     "wof:name":"Sebac Italia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "transport"
     ]
 },
-  "bbox": [10.991352,44.130161,10.991352,44.130161],
+  "bbox": [
+    10.991352,
+    44.130161,
+    10.991352,
+    44.130161
+],
   "geometry": {"coordinates":[10.991352,44.130161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219456005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.761385,37.846317,13.761385,37.846317",
     "geom:latitude":37.846317,
     "geom:longitude":13.761385,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90020 Montemaggiore Belsito",
     "sg:city":"Montemaggiore Belsito",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219456005,
-    "wof:lastmodified":1449071454,
+    "wof:lastmodified":1466290923,
     "wof:name":"Taravella Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.761385,37.846317,13.761385,37.846317],
+  "bbox": [
+    13.761385,
+    37.846317,
+    13.761385,
+    37.846317
+],
   "geometry": {"coordinates":[13.761385,37.846317],"type":"Point"}
 }

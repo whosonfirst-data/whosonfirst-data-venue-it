@@ -2,13 +2,14 @@
   "id": 186233145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.08602,45.532768,8.08602,45.532768",
     "geom:latitude":45.532768,
     "geom:longitude":8.08602,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavour 120 13894 Gaglianico",
     "sg:city":"Gaglianico",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186233145,
-    "wof:lastmodified":1449053066,
+    "wof:lastmodified":1466289935,
     "wof:name":"Ilario Ormezzano - Sai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "base"
     ]
 },
-  "bbox": [8.08602,45.532768,8.08602,45.532768],
+  "bbox": [
+    8.08602,
+    45.532768,
+    8.08602,
+    45.532768
+],
   "geometry": {"coordinates":[8.08602,45.532768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236925109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.598553,44.755764,10.598553,44.755764",
     "geom:latitude":44.755764,
     "geom:longitude":10.598553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Via D. Alighieri 42023 Cadelbosco Di Sopra",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236925109,
-    "wof:lastmodified":1449001695,
+    "wof:lastmodified":1466297265,
     "wof:name":"Palfinger Gru Idrauliche (s.r.l.)",
     "wof:parent_id":85904893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [10.598553,44.755764,10.598553,44.755764],
+  "bbox": [
+    10.598553,
+    44.755764,
+    10.598553,
+    44.755764
+],
   "geometry": {"coordinates":[10.598553,44.755764],"type":"Point"}
 }

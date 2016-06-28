@@ -2,13 +2,14 @@
   "id": 303643383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.272329,40.933491,14.272329,40.933491",
     "geom:latitude":40.933491,
     "geom:longitude":14.272329,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80027 Frattamaggiore",
     "sg:city":"Frattamaggiore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303643383,
-    "wof:lastmodified":1449000239,
+    "wof:lastmodified":1466297407,
     "wof:name":"Sau Srl",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.272329,40.933491,14.272329,40.933491],
+  "bbox": [
+    14.272329,
+    40.933491,
+    14.272329,
+    40.933491
+],
   "geometry": {"coordinates":[14.272329,40.933491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286966177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.218232,45.484436,9.218232,45.484436",
     "geom:latitude":45.484436,
     "geom:longitude":9.218232,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286966177,
-    "wof:lastmodified":1449015185,
+    "wof:lastmodified":1466297361,
     "wof:name":"Sozzi Calze Spa",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.218232,45.484436,9.218232,45.484436],
+  "bbox": [
+    9.218232,
+    45.484436,
+    9.218232,
+    45.484436
+],
   "geometry": {"coordinates":[9.218232,45.484436],"type":"Point"}
 }

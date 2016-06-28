@@ -2,13 +2,14 @@
   "id": 336712733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.594131,37.666924,12.594131,37.666924",
     "geom:latitude":37.666924,
     "geom:longitude":12.594131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"220, Via Degli Archi 91026 Mazara Del Vallo",
     "sg:city":"Mazara del Vallo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336712733,
-    "wof:lastmodified":1448997409,
+    "wof:lastmodified":1466295076,
     "wof:name":"Mav International Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.594131,37.666924,12.594131,37.666924],
+  "bbox": [
+    12.594131,
+    37.666924,
+    12.594131,
+    37.666924
+],
   "geometry": {"coordinates":[12.594131,37.666924],"type":"Point"}
 }

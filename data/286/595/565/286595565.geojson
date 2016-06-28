@@ -2,13 +2,14 @@
   "id": 286595565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.737437,45.533958,8.737437,45.533958",
     "geom:latitude":45.533958,
     "geom:longitude":8.737437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Monte Grappa 20020 Vanzaghello",
     "sg:city":"Vanzaghello",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286595565,
-    "wof:lastmodified":1449017809,
+    "wof:lastmodified":1466293868,
     "wof:name":"Tessitura Mifer Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.737437,45.533958,8.737437,45.533958],
+  "bbox": [
+    8.737437,
+    45.533958,
+    8.737437,
+    45.533958
+],
   "geometry": {"coordinates":[8.737437,45.533958],"type":"Point"}
 }

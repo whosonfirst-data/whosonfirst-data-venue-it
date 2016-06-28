@@ -2,13 +2,14 @@
   "id": 320849255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.313833,40.846176,14.313833,40.846176",
     "geom:latitude":40.846176,
     "geom:longitude":14.313833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"222, V. Volpicella 80147 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320849255,
-    "wof:lastmodified":1449011947,
+    "wof:lastmodified":1466298247,
     "wof:name":"Gomba Adriano & C. Snc",
     "wof:parent_id":85904815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "measurement"
     ]
 },
-  "bbox": [14.313833,40.846176,14.313833,40.846176],
+  "bbox": [
+    14.313833,
+    40.846176,
+    14.313833,
+    40.846176
+],
   "geometry": {"coordinates":[14.313833,40.846176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303648671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.749617,46.556736,11.749617,46.556736",
     "geom:latitude":46.556736,
     "geom:longitude":11.749617,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39048 Selva Di Val Gardena",
     "sg:city":"Selva",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303648671,
-    "wof:lastmodified":1448998778,
+    "wof:lastmodified":1466297437,
     "wof:name":"Rowi Sculptures Snc Di Senoner & Crepaz Willi & Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.749617,46.556736,11.749617,46.556736],
+  "bbox": [
+    11.749617,
+    46.556736,
+    11.749617,
+    46.556736
+],
   "geometry": {"coordinates":[11.749617,46.556736],"type":"Point"}
 }

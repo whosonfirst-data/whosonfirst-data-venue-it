@@ -2,13 +2,14 @@
   "id": 269832721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.298417,45.990555,12.298417,45.990555",
     "geom:latitude":45.990555,
     "geom:longitude":12.298417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41, Via Virgilio 31029 Vittorio Veneto",
     "sg:city":"Vittorio Veneto",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269832721,
-    "wof:lastmodified":1449036161,
+    "wof:lastmodified":1466293406,
     "wof:name":"Cerfim (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.298417,45.990555,12.298417,45.990555],
+  "bbox": [
+    12.298417,
+    45.990555,
+    12.298417,
+    45.990555
+],
   "geometry": {"coordinates":[12.298417,45.990555],"type":"Point"}
 }

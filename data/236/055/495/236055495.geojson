@@ -2,13 +2,14 @@
   "id": 236055495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.31881,38.198532,13.31881,38.198532",
     "geom:latitude":38.198532,
     "geom:longitude":13.31881,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90151 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236055495,
-    "wof:lastmodified":1449002236,
+    "wof:lastmodified":1466289446,
     "wof:name":"Panificio Buffa Ferdinando",
     "wof:parent_id":85904849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.31881,38.198532,13.31881,38.198532],
+  "bbox": [
+    13.31881,
+    38.198532,
+    13.31881,
+    38.198532
+],
   "geometry": {"coordinates":[13.31881,38.198532],"type":"Point"}
 }

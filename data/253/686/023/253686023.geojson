@@ -2,13 +2,14 @@
   "id": 253686023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.714767,44.504837,8.714767,44.504837",
     "geom:latitude":44.504837,
     "geom:longitude":8.714767,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16010 Masone",
     "sg:city":"Masone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253686023,
-    "wof:lastmodified":1449065045,
+    "wof:lastmodified":1466296586,
     "wof:name":"For.mas Di Bessini E. & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.714767,44.504837,8.714767,44.504837],
+  "bbox": [
+    8.714767,
+    44.504837,
+    8.714767,
+    44.504837
+],
   "geometry": {"coordinates":[8.714767,44.504837],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235989227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.669952,45.694904,9.669952,45.694904",
     "geom:latitude":45.694904,
     "geom:longitude":9.669952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Verga Antonio 24 24127 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235989227,
-    "wof:lastmodified":1449008504,
+    "wof:lastmodified":1466295880,
     "wof:name":"Elframo Srl",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fryer"
     ]
 },
-  "bbox": [9.669952,45.694904,9.669952,45.694904],
+  "bbox": [
+    9.669952,
+    45.694904,
+    9.669952,
+    45.694904
+],
   "geometry": {"coordinates":[9.669952,45.694904],"type":"Point"}
 }

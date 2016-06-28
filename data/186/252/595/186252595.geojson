@@ -2,13 +2,14 @@
   "id": 186252595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.554055,45.908779,12.554055,45.908779",
     "geom:latitude":45.908779,
     "geom:longitude":12.554055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Lino Zanussi 34a-maron 33070 Brugnera",
     "sg:city":"Brugnera",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186252595,
-    "wof:lastmodified":1449050661,
+    "wof:lastmodified":1466290097,
     "wof:name":"Arbi Arredobagno Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bathroom"
     ]
 },
-  "bbox": [12.554055,45.908779,12.554055,45.908779],
+  "bbox": [
+    12.554055,
+    45.908779,
+    12.554055,
+    45.908779
+],
   "geometry": {"coordinates":[12.554055,45.908779],"type":"Point"}
 }

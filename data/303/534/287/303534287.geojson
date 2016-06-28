@@ -2,13 +2,14 @@
   "id": 303534287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.671856,45.693268,9.671856,45.693268",
     "geom:latitude":45.693268,
     "geom:longitude":9.671856,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24020 Colere",
     "sg:city":"Colere",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303534287,
-    "wof:lastmodified":1448998747,
+    "wof:lastmodified":1466296658,
     "wof:name":"Nord Impianti Srl",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.671856,45.693268,9.671856,45.693268],
+  "bbox": [
+    9.671856,
+    45.693268,
+    9.671856,
+    45.693268
+],
   "geometry": {"coordinates":[9.671856,45.693268],"type":"Point"}
 }

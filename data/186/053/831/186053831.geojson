@@ -2,13 +2,14 @@
   "id": 186053831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.832579,46.174648,11.832579,46.174648",
     "geom:latitude":46.174648,
     "geom:longitude":11.832579,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Risorgimento 5, 38054 Transacqua, Tn",
     "sg:city":"Transacqua",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186053831,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1466295143,
     "wof:name":"Cassa Rurale Valli Di Primiero E Vanoi Banca Di Credito Cooperativo Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.832579,46.174648,11.832579,46.174648],
+  "bbox": [
+    11.832579,
+    46.174648,
+    11.832579,
+    46.174648
+],
   "geometry": {"coordinates":[11.832579,46.174648],"type":"Point"}
 }

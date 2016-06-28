@@ -2,13 +2,14 @@
   "id": 319992229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.440515,41.785583,15.440515,41.785583",
     "geom:latitude":41.785583,
     "geom:longitude":15.440515,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71011 Apricena",
     "sg:city":"Apricena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319992229,
-    "wof:lastmodified":1449024452,
+    "wof:lastmodified":1466294703,
     "wof:name":"Rutigliano Raffaele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.440515,41.785583,15.440515,41.785583],
+  "bbox": [
+    15.440515,
+    41.785583,
+    15.440515,
+    41.785583
+],
   "geometry": {"coordinates":[15.440515,41.785583],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236225563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.449304,42.217957,14.449304,42.217957",
     "geom:latitude":42.217957,
     "geom:longitude":14.449304,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66030 Santa Maria Imbaro",
     "sg:city":"Santa Maria Imbaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236225563,
-    "wof:lastmodified":1449002514,
+    "wof:lastmodified":1466291159,
     "wof:name":"Nautica Duesse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.449304,42.217957,14.449304,42.217957],
+  "bbox": [
+    14.449304,
+    42.217957,
+    14.449304,
+    42.217957
+],
   "geometry": {"coordinates":[14.449304,42.217957],"type":"Point"}
 }

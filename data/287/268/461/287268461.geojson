@@ -2,13 +2,14 @@
   "id": 287268461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.422922,45.555923,9.422922,45.555923",
     "geom:latitude":45.555923,
     "geom:longitude":9.422922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Italia 20060 Gessate",
     "sg:city":"Gessate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287268461,
-    "wof:lastmodified":1449001178,
+    "wof:lastmodified":1466293156,
     "wof:name":"Comestero A.t. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.422922,45.555923,9.422922,45.555923],
+  "bbox": [
+    9.422922,
+    45.555923,
+    9.422922,
+    45.555923
+],
   "geometry": {"coordinates":[9.422922,45.555923],"type":"Point"}
 }

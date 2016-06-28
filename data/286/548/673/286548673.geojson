@@ -2,13 +2,14 @@
   "id": 286548673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.844944,45.782963,12.844944,45.782963",
     "geom:latitude":45.782963,
     "geom:longitude":12.844944,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Pacinotti 30026 Portogruaro",
     "sg:city":"Portogruaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286548673,
-    "wof:lastmodified":1449017219,
+    "wof:lastmodified":1466293295,
     "wof:name":"Maglificio Luciana Di Calderan Luciana & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.844944,45.782963,12.844944,45.782963],
+  "bbox": [
+    12.844944,
+    45.782963,
+    12.844944,
+    45.782963
+],
   "geometry": {"coordinates":[12.844944,45.782963],"type":"Point"}
 }

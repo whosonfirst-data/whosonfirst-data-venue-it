@@ -2,13 +2,14 @@
   "id": 336597403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.100595,44.007435,10.100595,44.007435",
     "geom:latitude":44.007435,
     "geom:longitude":10.100595,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Battisti Cesare 54100 Massa",
     "sg:city":"Massa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336597403,
-    "wof:lastmodified":1448997986,
+    "wof:lastmodified":1466293700,
     "wof:name":"Albergo Excelsior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.100595,44.007435,10.100595,44.007435],
+  "bbox": [
+    10.100595,
+    44.007435,
+    10.100595,
+    44.007435
+],
   "geometry": {"coordinates":[10.100595,44.007435],"type":"Point"}
 }

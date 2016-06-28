@@ -2,13 +2,14 @@
   "id": 253339817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.308642,44.826595,8.308642,44.826595",
     "geom:latitude":44.826595,
     "geom:longitude":8.308642,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Alessandria 50 14049 Nizza Monferrato",
     "sg:city":"Nizza Monferrato",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253339817,
-    "wof:lastmodified":1449064144,
+    "wof:lastmodified":1466292736,
     "wof:name":"G. Gioanola Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "house"
     ]
 },
-  "bbox": [8.308642,44.826595,8.308642,44.826595],
+  "bbox": [
+    8.308642,
+    44.826595,
+    8.308642,
+    44.826595
+],
   "geometry": {"coordinates":[8.308642,44.826595],"type":"Point"}
 }

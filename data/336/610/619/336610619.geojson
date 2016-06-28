@@ -2,13 +2,14 @@
   "id": 336610619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.244463,45.35582,10.244463,45.35582",
     "geom:latitude":45.35582,
     "geom:longitude":10.244463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"106, Via Calvisano 25024 Leno",
     "sg:city":"Leno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336610619,
-    "wof:lastmodified":1448997980,
+    "wof:lastmodified":1466293858,
     "wof:name":"Bertazzi & Soldi (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.244463,45.35582,10.244463,45.35582],
+  "bbox": [
+    10.244463,
+    45.35582,
+    10.244463,
+    45.35582
+],
   "geometry": {"coordinates":[10.244463,45.35582],"type":"Point"}
 }

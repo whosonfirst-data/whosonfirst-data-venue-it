@@ -2,13 +2,14 @@
   "id": 219286445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.741309,44.908188,7.741309,44.908188",
     "geom:latitude":44.908188,
     "geom:longitude":7.741309,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Poirino 266 10022 Carmagnola",
     "sg:city":"Carmagnola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219286445,
-    "wof:lastmodified":1449071322,
+    "wof:lastmodified":1466289161,
     "wof:name":"Gonella Fratelli Di Gonella Mario Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "accessory"
     ]
 },
-  "bbox": [7.741309,44.908188,7.741309,44.908188],
+  "bbox": [
+    7.741309,
+    44.908188,
+    7.741309,
+    44.908188
+],
   "geometry": {"coordinates":[7.741309,44.908188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303049295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.099564,45.451496,12.099564,45.451496",
     "geom:latitude":45.451496,
     "geom:longitude":12.099564,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Sali 30175 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303049295,
-    "wof:lastmodified":1448999327,
+    "wof:lastmodified":1466290969,
     "wof:name":"Aluvenice S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.099564,45.451496,12.099564,45.451496],
+  "bbox": [
+    12.099564,
+    45.451496,
+    12.099564,
+    45.451496
+],
   "geometry": {"coordinates":[12.099564,45.451496],"type":"Point"}
 }

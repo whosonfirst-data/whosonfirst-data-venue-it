@@ -2,13 +2,14 @@
   "id": 219234927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.932453,45.365486,11.932453,45.365486",
     "geom:latitude":45.365486,
     "geom:longitude":11.932453,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Marconi 38 35020 Albignasego",
     "sg:city":"Albignasego",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219234927,
-    "wof:lastmodified":1449073718,
+    "wof:lastmodified":1466295909,
     "wof:name":"Padana Lamiere Sas Di Marini Edda & C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.932453,45.365486,11.932453,45.365486],
+  "bbox": [
+    11.932453,
+    45.365486,
+    11.932453,
+    45.365486
+],
   "geometry": {"coordinates":[11.932453,45.365486],"type":"Point"}
 }

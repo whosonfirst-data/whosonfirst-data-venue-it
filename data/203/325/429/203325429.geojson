@@ -2,13 +2,14 @@
   "id": 203325429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.771944,45.650669,13.771944,45.650669",
     "geom:latitude":45.650669,
     "geom:longitude":13.771944,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34121 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203325429,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466291300,
     "wof:name":"Libreria Antiquaria Umberto Saba",
     "wof:parent_id":85900477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.771944,45.650669,13.771944,45.650669],
+  "bbox": [
+    13.771944,
+    45.650669,
+    13.771944,
+    45.650669
+],
   "geometry": {"coordinates":[13.771944,45.650669],"type":"Point"}
 }

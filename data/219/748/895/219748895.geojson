@@ -2,13 +2,14 @@
   "id": 219748895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.077652,45.526115,9.077652,45.526115",
     "geom:latitude":45.526115,
     "geom:longitude":9.077652,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Via Risorgimento 20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219748895,
-    "wof:lastmodified":1449073047,
+    "wof:lastmodified":1466293759,
     "wof:name":"Eurolinea Srl",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [9.077652,45.526115,9.077652,45.526115],
+  "bbox": [
+    9.077652,
+    45.526115,
+    9.077652,
+    45.526115
+],
   "geometry": {"coordinates":[9.077652,45.526115],"type":"Point"}
 }

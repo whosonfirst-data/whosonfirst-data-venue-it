@@ -2,13 +2,14 @@
   "id": 287079621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.05874,37.567631,13.05874,37.567631",
     "geom:latitude":37.567631,
     "geom:longitude":13.05874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92019 Sciacca",
     "sg:city":"Sciacca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287079621,
-    "wof:lastmodified":1449001420,
+    "wof:lastmodified":1466290651,
     "wof:name":"Agenzia Onoranze Funebri Gallo Ignazio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "public"
     ]
 },
-  "bbox": [13.05874,37.567631,13.05874,37.567631],
+  "bbox": [
+    13.05874,
+    37.567631,
+    13.05874,
+    37.567631
+],
   "geometry": {"coordinates":[13.05874,37.567631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253084593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.262237,43.768665,11.262237,43.768665",
     "geom:latitude":43.768665,
     "geom:longitude":11.262237,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50121 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253084593,
-    "wof:lastmodified":1449063134,
+    "wof:lastmodified":1466289812,
     "wof:name":"Lensi Luciano",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.262237,43.768665,11.262237,43.768665],
+  "bbox": [
+    11.262237,
+    43.768665,
+    11.262237,
+    43.768665
+],
   "geometry": {"coordinates":[11.262237,43.768665],"type":"Point"}
 }

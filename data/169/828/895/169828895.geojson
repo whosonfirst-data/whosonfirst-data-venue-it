@@ -2,13 +2,14 @@
   "id": 169828895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.269107,45.479931,9.269107,45.479931",
     "geom:latitude":45.479931,
     "geom:longitude":9.269107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Milano 20090 Segrate",
     "sg:city":"Segrate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169828895,
-    "wof:lastmodified":1449034353,
+    "wof:lastmodified":1466289052,
     "wof:name":"Liguria Societa' Di Assicurazioni (s.p.a.)",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "insurance"
     ]
 },
-  "bbox": [9.269107,45.479931,9.269107,45.479931],
+  "bbox": [
+    9.269107,
+    45.479931,
+    9.269107,
+    45.479931
+],
   "geometry": {"coordinates":[9.269107,45.479931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220151381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.168169,45.479836,9.168169,45.479836",
     "geom:latitude":45.479836,
     "geom:longitude":9.168169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Prina Giuseppe 20154 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220151381,
-    "wof:lastmodified":1449074071,
+    "wof:lastmodified":1466289065,
     "wof:name":"Francopost (s.r.l.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "technology"
     ]
 },
-  "bbox": [9.168169,45.479836,9.168169,45.479836],
+  "bbox": [
+    9.168169,
+    45.479836,
+    9.168169,
+    45.479836
+],
   "geometry": {"coordinates":[9.168169,45.479836],"type":"Point"}
 }

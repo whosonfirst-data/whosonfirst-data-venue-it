@@ -2,13 +2,14 @@
   "id": 236332849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.256474,40.856964,14.256474,40.856964",
     "geom:latitude":40.856964,
     "geom:longitude":14.256474,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80137 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236332849,
-    "wof:lastmodified":1449003498,
+    "wof:lastmodified":1466292272,
     "wof:name":"Lobefalo Alfredo Cereria Alfredo",
     "wof:parent_id":85904831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.256474,40.856964,14.256474,40.856964],
+  "bbox": [
+    14.256474,
+    40.856964,
+    14.256474,
+    40.856964
+],
   "geometry": {"coordinates":[14.256474,40.856964],"type":"Point"}
 }

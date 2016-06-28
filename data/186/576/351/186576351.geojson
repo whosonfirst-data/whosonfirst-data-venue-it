@@ -2,13 +2,14 @@
   "id": 186576351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.483269,41.890724,12.483269,41.890724",
     "geom:latitude":41.890724,
     "geom:longitude":12.483269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65, Via Dei Fienili 00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186576351,
-    "wof:lastmodified":1449052385,
+    "wof:lastmodified":1466293052,
     "wof:name":"C.r.i.c. Consorzio Romano Interpreti Di Conferenza",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.483269,41.890724,12.483269,41.890724],
+  "bbox": [
+    12.483269,
+    41.890724,
+    12.483269,
+    41.890724
+],
   "geometry": {"coordinates":[12.483269,41.890724],"type":"Point"}
 }

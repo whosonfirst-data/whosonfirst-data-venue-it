@@ -2,13 +2,14 @@
   "id": 286549939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.118628,43.773373,11.118628,43.773373",
     "geom:latitude":43.773373,
     "geom:longitude":11.118628,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32/p, Via Dei Ceramisti 50055 Lastra A Signa",
     "sg:city":"Lastra a Signa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286549939,
-    "wof:lastmodified":1449015992,
+    "wof:lastmodified":1466293311,
     "wof:name":"Maglificio Milvia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.118628,43.773373,11.118628,43.773373],
+  "bbox": [
+    11.118628,
+    43.773373,
+    11.118628,
+    43.773373
+],
   "geometry": {"coordinates":[11.118628,43.773373],"type":"Point"}
 }

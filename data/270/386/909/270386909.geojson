@@ -2,13 +2,14 @@
   "id": 270386909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.307216,45.642223,9.307216,45.642223",
     "geom:latitude":45.642223,
     "geom:longitude":9.307216,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20050 Lesmo",
     "sg:city":"Lesmo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270386909,
-    "wof:lastmodified":1449009930,
+    "wof:lastmodified":1466293714,
     "wof:name":"Agrati Fratelli Sas Di Luigi, Ugo, Livio, Giancarlo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.307216,45.642223,9.307216,45.642223],
+  "bbox": [
+    9.307216,
+    45.642223,
+    9.307216,
+    45.642223
+],
   "geometry": {"coordinates":[9.307216,45.642223],"type":"Point"}
 }

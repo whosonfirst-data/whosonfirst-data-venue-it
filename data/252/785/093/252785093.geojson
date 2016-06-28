@@ -2,13 +2,14 @@
   "id": 252785093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.127426,45.403179,9.127426,45.403179",
     "geom:latitude":45.403179,
     "geom:longitude":9.127426,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20012 Cuggiono",
     "sg:city":"Cuggiono",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252785093,
-    "wof:lastmodified":1449006327,
+    "wof:lastmodified":1466289740,
     "wof:name":"Racing Tack S.r.l.",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.127426,45.403179,9.127426,45.403179],
+  "bbox": [
+    9.127426,
+    45.403179,
+    9.127426,
+    45.403179
+],
   "geometry": {"coordinates":[9.127426,45.403179],"type":"Point"}
 }

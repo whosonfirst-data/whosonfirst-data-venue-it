@@ -2,13 +2,14 @@
   "id": 236414775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.276157,45.574928,10.276157,45.574928",
     "geom:latitude":45.574928,
     "geom:longitude":10.276157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Brolo 62 25075 Nave",
     "sg:city":"Nave",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236414775,
-    "wof:lastmodified":1449003145,
+    "wof:lastmodified":1466293138,
     "wof:name":"Valsabbina Metalli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.276157,45.574928,10.276157,45.574928],
+  "bbox": [
+    10.276157,
+    45.574928,
+    10.276157,
+    45.574928
+],
   "geometry": {"coordinates":[10.276157,45.574928],"type":"Point"}
 }

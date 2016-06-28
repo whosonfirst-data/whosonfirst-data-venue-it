@@ -2,13 +2,14 @@
   "id": 186555255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.63903,42.187599,14.63903,42.187599",
     "geom:latitude":42.187599,
     "geom:longitude":14.63903,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Contrada Termine 66021 Casalbordino",
     "sg:city":"Casalbordino",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186555255,
-    "wof:lastmodified":1449052632,
+    "wof:lastmodified":1466292833,
     "wof:name":"Hotel L'aragosta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [14.63903,42.187599,14.63903,42.187599],
+  "bbox": [
+    14.63903,
+    42.187599,
+    14.63903,
+    42.187599
+],
   "geometry": {"coordinates":[14.63903,42.187599],"type":"Point"}
 }

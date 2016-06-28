@@ -2,13 +2,14 @@
   "id": 235977549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.051884,45.155235,8.051884,45.155235",
     "geom:latitude":45.155235,
     "geom:longitude":8.051884,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, V. Armando Diaz 10020 Cavagnolo",
     "sg:city":"Cavagnolo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":235977549,
-    "wof:lastmodified":1449008611,
+    "wof:lastmodified":1466295690,
     "wof:name":"Socon Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [8.051884,45.155235,8.051884,45.155235],
+  "bbox": [
+    8.051884,
+    45.155235,
+    8.051884,
+    45.155235
+],
   "geometry": {"coordinates":[8.051884,45.155235],"type":"Point"}
 }

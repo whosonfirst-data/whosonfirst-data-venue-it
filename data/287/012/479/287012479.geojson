@@ -2,13 +2,14 @@
   "id": 287012479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.298224,45.473896,10.298224,45.473896",
     "geom:latitude":45.473896,
     "geom:longitude":10.298224,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"118, Via Trieste 25018 Montichiari",
     "sg:city":"Montichiari",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287012479,
-    "wof:lastmodified":1449001493,
+    "wof:lastmodified":1466289761,
     "wof:name":"Impresa Edile F.lli Fusi Di Fusi Stefano E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [10.298224,45.473896,10.298224,45.473896],
+  "bbox": [
+    10.298224,
+    45.473896,
+    10.298224,
+    45.473896
+],
   "geometry": {"coordinates":[10.298224,45.473896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253222399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.59502,44.813267,11.59502,44.813267",
     "geom:latitude":44.813267,
     "geom:longitude":11.59502,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44100 Ferrara",
     "sg:city":"Ferrara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253222399,
-    "wof:lastmodified":1449064814,
+    "wof:lastmodified":1466291223,
     "wof:name":"Moreno Musica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.59502,44.813267,11.59502,44.813267],
+  "bbox": [
+    11.59502,
+    44.813267,
+    11.59502,
+    44.813267
+],
   "geometry": {"coordinates":[11.59502,44.813267],"type":"Point"}
 }

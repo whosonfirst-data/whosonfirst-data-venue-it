@@ -2,13 +2,14 @@
   "id": 219234425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.02328,45.863953,12.02328,45.863953",
     "geom:latitude":45.863953,
     "geom:longitude":12.02328,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Pian 3 31030 Bigolino",
     "sg:city":"Bigolino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219234425,
-    "wof:lastmodified":1449073716,
+    "wof:lastmodified":1466295905,
     "wof:name":"Favrin Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "working"
     ]
 },
-  "bbox": [12.02328,45.863953,12.02328,45.863953],
+  "bbox": [
+    12.02328,
+    45.863953,
+    12.02328,
+    45.863953
+],
   "geometry": {"coordinates":[12.02328,45.863953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320512871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.01264,44.931858,9.01264,44.931858",
     "geom:latitude":44.931858,
     "geom:longitude":9.01264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27055 Rivanazzano",
     "sg:city":"Rivanazzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320512871,
-    "wof:lastmodified":1449013972,
+    "wof:lastmodified":1466297622,
     "wof:name":"Spalla Off. Mecc. S.a.s. Di Spalla Simona Paolo Michele & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.01264,44.931858,9.01264,44.931858],
+  "bbox": [
+    9.01264,
+    44.931858,
+    9.01264,
+    44.931858
+],
   "geometry": {"coordinates":[9.01264,44.931858],"type":"Point"}
 }

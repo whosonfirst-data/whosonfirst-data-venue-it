@@ -2,13 +2,14 @@
   "id": 336812075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.251636,40.840096,14.251636,40.840096",
     "geom:latitude":40.840096,
     "geom:longitude":14.251636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via S. Eucalione 80031 Brusciano",
     "sg:city":"Brusciano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336812075,
-    "wof:lastmodified":1448996942,
+    "wof:lastmodified":1466296359,
     "wof:name":"Altea F.lli Di Altea Francesco (s.n.c.)",
     "wof:parent_id":85904835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [14.251636,40.840096,14.251636,40.840096],
+  "bbox": [
+    14.251636,
+    40.840096,
+    14.251636,
+    40.840096
+],
   "geometry": {"coordinates":[14.251636,40.840096],"type":"Point"}
 }

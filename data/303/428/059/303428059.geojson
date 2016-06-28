@@ -2,13 +2,14 @@
   "id": 303428059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.84374,45.474613,11.84374,45.474613",
     "geom:latitude":45.474613,
     "geom:longitude":11.84374,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Delle Industrie 14 35030 Rubano",
     "sg:city":"Rubano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303428059,
-    "wof:lastmodified":1449000398,
+    "wof:lastmodified":1466295783,
     "wof:name":"Saet S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apparatus"
     ]
 },
-  "bbox": [11.84374,45.474613,11.84374,45.474613],
+  "bbox": [
+    11.84374,
+    45.474613,
+    11.84374,
+    45.474613
+],
   "geometry": {"coordinates":[11.84374,45.474613],"type":"Point"}
 }

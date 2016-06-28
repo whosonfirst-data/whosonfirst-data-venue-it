@@ -2,13 +2,14 @@
   "id": 336711151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.856359,43.919998,12.856359,43.919998",
     "geom:latitude":43.919998,
     "geom:longitude":12.856359,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10/12, Via Volturno 61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336711151,
-    "wof:lastmodified":1448997833,
+    "wof:lastmodified":1466295056,
     "wof:name":"Marconi E Malatesta Sas Di Marconi Giampietro E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.856359,43.919998,12.856359,43.919998],
+  "bbox": [
+    12.856359,
+    43.919998,
+    12.856359,
+    43.919998
+],
   "geometry": {"coordinates":[12.856359,43.919998],"type":"Point"}
 }

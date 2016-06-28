@@ -2,13 +2,14 @@
   "id": 253609073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.457311,45.24754,10.457311,45.24754",
     "geom:latitude":45.24754,
     "geom:longitude":10.457311,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Casaloldo 25 46042 Castel Goffredo",
     "sg:city":"Castel Goffredo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253609073,
-    "wof:lastmodified":1449063932,
+    "wof:lastmodified":1466296051,
     "wof:name":"Calzificio Polar Di Ferri, Remo E Graziano & C Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.457311,45.24754,10.457311,45.24754],
+  "bbox": [
+    10.457311,
+    45.24754,
+    10.457311,
+    45.24754
+],
   "geometry": {"coordinates":[10.457311,45.24754],"type":"Point"}
 }

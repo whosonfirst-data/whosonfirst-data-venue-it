@@ -2,13 +2,14 @@
   "id": 287008193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.038318,45.189308,12.038318,45.189308",
     "geom:latitude":45.189308,
     "geom:longitude":12.038318,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"68, Via Marconi 30010 Cona",
     "sg:city":"Cona",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287008193,
-    "wof:lastmodified":1449000934,
+    "wof:lastmodified":1466289715,
     "wof:name":"Fiorin Gilberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [12.038318,45.189308,12.038318,45.189308],
+  "bbox": [
+    12.038318,
+    45.189308,
+    12.038318,
+    45.189308
+],
   "geometry": {"coordinates":[12.038318,45.189308],"type":"Point"}
 }

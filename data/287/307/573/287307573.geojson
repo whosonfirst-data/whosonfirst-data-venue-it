@@ -2,13 +2,14 @@
   "id": 287307573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.562763,45.567478,9.562763,45.567478",
     "geom:latitude":45.567478,
     "geom:longitude":9.562763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92, Via Leonardo Da Vinci 20062 Cassano D'adda",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287307573,
-    "wof:lastmodified":1449000885,
+    "wof:lastmodified":1466293625,
     "wof:name":"La Batteria Industriale Ricerca Tecnologica (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.562763,45.567478,9.562763,45.567478],
+  "bbox": [
+    9.562763,
+    45.567478,
+    9.562763,
+    45.567478
+],
   "geometry": {"coordinates":[9.562763,45.567478],"type":"Point"}
 }

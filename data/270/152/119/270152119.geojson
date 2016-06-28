@@ -2,13 +2,14 @@
   "id": 270152119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.903733,44.656033,10.903733,44.656033",
     "geom:latitude":44.656033,
     "geom:longitude":10.903733,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Solara",
     "sg:classifiers":[],
     "sg:orig_category":"Cancelli, Porte E Portoni Automatici E Telecomandati",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270152119,
-    "wof:lastmodified":1449010493,
+    "wof:lastmodified":1466290800,
     "wof:name":"Fratelli Cavicchioli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.903733,44.656033,10.903733,44.656033],
+  "bbox": [
+    10.903733,
+    44.656033,
+    10.903733,
+    44.656033
+],
   "geometry": {"coordinates":[10.903733,44.656033],"type":"Point"}
 }

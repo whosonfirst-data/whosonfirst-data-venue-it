@@ -2,13 +2,14 @@
   "id": 286689903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.296151,46.132946,8.296151,46.132946",
     "geom:latitude":46.132946,
     "geom:longitude":8.296151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Galletti 28865 Crevoladossola",
     "sg:city":"Crevoladossola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286689903,
-    "wof:lastmodified":1449017617,
+    "wof:lastmodified":1466295085,
     "wof:name":"Amigliarini Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [8.296151,46.132946,8.296151,46.132946],
+  "bbox": [
+    8.296151,
+    46.132946,
+    8.296151,
+    46.132946
+],
   "geometry": {"coordinates":[8.296151,46.132946],"type":"Point"}
 }

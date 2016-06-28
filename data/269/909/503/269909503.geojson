@@ -2,13 +2,14 @@
   "id": 269909503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.743412,43.21526,11.743412,43.21526",
     "geom:latitude":43.21526,
     "geom:longitude":11.743412,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53048 Sinalunga",
     "sg:city":"Sinalunga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269909503,
-    "wof:lastmodified":1449038183,
+    "wof:lastmodified":1466294234,
     "wof:name":"Studio Tecnico Barbetti Di Barbetti Bellini E Fiorenzoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.743412,43.21526,11.743412,43.21526],
+  "bbox": [
+    11.743412,
+    43.21526,
+    11.743412,
+    43.21526
+],
   "geometry": {"coordinates":[11.743412,43.21526],"type":"Point"}
 }

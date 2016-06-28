@@ -2,13 +2,14 @@
   "id": 253694911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.020849,45.388741,11.020849,45.388741",
     "geom:latitude":45.388741,
     "geom:longitude":11.020849,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37057 San Giovanni Lupatoto",
     "sg:city":"San Giovanni Lupatoto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253694911,
-    "wof:lastmodified":1449063650,
+    "wof:lastmodified":1466296802,
     "wof:name":"Metalpress Srl",
     "wof:parent_id":85905053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.020849,45.388741,11.020849,45.388741],
+  "bbox": [
+    11.020849,
+    45.388741,
+    11.020849,
+    45.388741
+],
   "geometry": {"coordinates":[11.020849,45.388741],"type":"Point"}
 }

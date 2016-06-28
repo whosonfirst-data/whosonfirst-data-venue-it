@@ -2,13 +2,14 @@
   "id": 320229167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.618633,45.900913,8.618633,45.900913",
     "geom:latitude":45.900913,
     "geom:longitude":8.618633,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21014 Laveno Mombello",
     "sg:city":"Laveno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320229167,
-    "wof:lastmodified":1449014211,
+    "wof:lastmodified":1466296166,
     "wof:name":"Industria Ceramica Refrattari Abrasivi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.618633,45.900913,8.618633,45.900913],
+  "bbox": [
+    8.618633,
+    45.900913,
+    8.618633,
+    45.900913
+],
   "geometry": {"coordinates":[8.618633,45.900913],"type":"Point"}
 }

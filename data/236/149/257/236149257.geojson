@@ -2,13 +2,14 @@
   "id": 236149257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.558272,45.631615,12.558272,45.631615",
     "geom:latitude":45.631615,
     "geom:longitude":12.558272,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Fiume 30027 San Dona' Di Piave",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236149257,
-    "wof:lastmodified":1449001681,
+    "wof:lastmodified":1466290365,
     "wof:name":"Casa Vinicola Canella (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [12.558272,45.631615,12.558272,45.631615],
+  "bbox": [
+    12.558272,
+    45.631615,
+    12.558272,
+    45.631615
+],
   "geometry": {"coordinates":[12.558272,45.631615],"type":"Point"}
 }

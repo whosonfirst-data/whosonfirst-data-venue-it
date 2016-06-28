@@ -2,13 +2,14 @@
   "id": 303110495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.242086,46.397293,11.242086,46.397293",
     "geom:latitude":46.397293,
     "geom:longitude":11.242086,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39052 Caldaro Sulla Strada Del Vino",
     "sg:city":"Caldaro sulla strada del vino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303110495,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1466291781,
     "wof:name":"Winterhalter Gastronom Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.242086,46.397293,11.242086,46.397293],
+  "bbox": [
+    11.242086,
+    46.397293,
+    11.242086,
+    46.397293
+],
   "geometry": {"coordinates":[11.242086,46.397293],"type":"Point"}
 }

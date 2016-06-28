@@ -2,13 +2,14 @@
   "id": 286609921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.92522,44.647079,10.92522,44.647079",
     "geom:latitude":44.647079,
     "geom:longitude":10.92522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1/13, V. Watt 41012 Carpi",
     "sg:city":"Carpi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286609921,
-    "wof:lastmodified":1449016275,
+    "wof:lastmodified":1466294055,
     "wof:name":"Cadica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [10.92522,44.647079,10.92522,44.647079],
+  "bbox": [
+    10.92522,
+    44.647079,
+    10.92522,
+    44.647079
+],
   "geometry": {"coordinates":[10.92522,44.647079],"type":"Point"}
 }

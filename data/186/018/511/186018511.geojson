@@ -2,13 +2,14 @@
   "id": 186018511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.662621,45.958645,12.662621,45.958645",
     "geom:latitude":45.958645,
     "geom:longitude":12.662621,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Cossetti, 20; Pordenone; 33170",
     "sg:city":"Pordenone",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186018511,
-    "wof:lastmodified":1449051714,
+    "wof:lastmodified":1466293991,
     "wof:name":"Cassa Di Risparmio Di Udine, E Pordenone Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.662621,45.958645,12.662621,45.958645],
+  "bbox": [
+    12.662621,
+    45.958645,
+    12.662621,
+    45.958645
+],
   "geometry": {"coordinates":[12.662621,45.958645],"type":"Point"}
 }

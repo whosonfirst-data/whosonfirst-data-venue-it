@@ -2,13 +2,14 @@
   "id": 236460207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.127685,45.545879,9.127685,45.545879",
     "geom:latitude":45.545879,
     "geom:longitude":9.127685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Petrarca, 37/43 20030 Senago",
     "sg:city":"Senago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236460207,
-    "wof:lastmodified":1449005026,
+    "wof:lastmodified":1466293625,
     "wof:name":"Tormec Snc",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "resistor"
     ]
 },
-  "bbox": [9.127685,45.545879,9.127685,45.545879],
+  "bbox": [
+    9.127685,
+    45.545879,
+    9.127685,
+    45.545879
+],
   "geometry": {"coordinates":[9.127685,45.545879],"type":"Point"}
 }

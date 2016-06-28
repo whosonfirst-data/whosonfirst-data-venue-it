@@ -2,13 +2,14 @@
   "id": 186260183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.150079,44.358452,9.150079,44.358452",
     "geom:latitude":44.358452,
     "geom:longitude":9.150079,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Filippo Da Recco 21.d 16036 Recco",
     "sg:city":"Recco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186260183,
-    "wof:lastmodified":1449050864,
+    "wof:lastmodified":1466290160,
     "wof:name":"Whitesun Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "wellness"
     ]
 },
-  "bbox": [9.150079,44.358452,9.150079,44.358452],
+  "bbox": [
+    9.150079,
+    44.358452,
+    9.150079,
+    44.358452
+],
   "geometry": {"coordinates":[9.150079,44.358452],"type":"Point"}
 }

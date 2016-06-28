@@ -2,13 +2,14 @@
   "id": 336736911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.820384,45.349998,8.820384,45.349998",
     "geom:latitude":45.349998,
     "geom:longitude":8.820384,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"54, Via Trento 27023 Cassolnovo",
     "sg:city":"Cassolnovo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336736911,
-    "wof:lastmodified":1448997988,
+    "wof:lastmodified":1466295357,
     "wof:name":"Officina Meccanica Bdf Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.820384,45.349998,8.820384,45.349998],
+  "bbox": [
+    8.820384,
+    45.349998,
+    8.820384,
+    45.349998
+],
   "geometry": {"coordinates":[8.820384,45.349998],"type":"Point"}
 }

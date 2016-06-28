@@ -2,13 +2,14 @@
   "id": 186031903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.20311,46.544029,11.20311,46.544029",
     "geom:latitude":46.544029,
     "geom:longitude":11.20311,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gregor Gasser 2, 39010 Nalles, Bz",
     "sg:city":"Nalles",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186031903,
-    "wof:lastmodified":1449051376,
+    "wof:lastmodified":1466294569,
     "wof:name":"Cassa Raiffeisen Di Nalles Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.20311,46.544029,11.20311,46.544029],
+  "bbox": [
+    11.20311,
+    46.544029,
+    11.20311,
+    46.544029
+],
   "geometry": {"coordinates":[11.20311,46.544029],"type":"Point"}
 }

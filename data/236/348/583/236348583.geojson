@@ -2,13 +2,14 @@
   "id": 236348583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.081625,42.307262,12.081625,42.307262",
     "geom:latitude":42.307262,
     "geom:longitude":12.081625,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01021 Acquapendente",
     "sg:city":"Acquapendente",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236348583,
-    "wof:lastmodified":1449001786,
+    "wof:lastmodified":1466292434,
     "wof:name":"Mobilificio Toscano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.081625,42.307262,12.081625,42.307262],
+  "bbox": [
+    12.081625,
+    42.307262,
+    12.081625,
+    42.307262
+],
   "geometry": {"coordinates":[12.081625,42.307262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319857379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.05827,45.562836,8.05827,45.562836",
     "geom:latitude":45.562836,
     "geom:longitude":8.05827,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Amendola, 12/14 13836 Cossato",
     "sg:city":"Cossato",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319857379,
-    "wof:lastmodified":1449024590,
+    "wof:lastmodified":1466292946,
     "wof:name":"Lawer Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automatic"
     ]
 },
-  "bbox": [8.05827,45.562836,8.05827,45.562836],
+  "bbox": [
+    8.05827,
+    45.562836,
+    8.05827,
+    45.562836
+],
   "geometry": {"coordinates":[8.05827,45.562836],"type":"Point"}
 }

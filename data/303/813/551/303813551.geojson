@@ -2,13 +2,14 @@
   "id": 303813551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165226,45.446514,9.165226,45.446514",
     "geom:latitude":45.446514,
     "geom:longitude":9.165226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torre Carlo 29 20143 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303813551,
-    "wof:lastmodified":1448998741,
+    "wof:lastmodified":1466297856,
     "wof:name":"Prospettive D'arte Srl",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "print"
     ]
 },
-  "bbox": [9.165226,45.446514,9.165226,45.446514],
+  "bbox": [
+    9.165226,
+    45.446514,
+    9.165226,
+    45.446514
+],
   "geometry": {"coordinates":[9.165226,45.446514],"type":"Point"}
 }

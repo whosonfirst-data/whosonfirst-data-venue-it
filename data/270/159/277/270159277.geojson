@@ -2,13 +2,14 @@
   "id": 270159277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.716693,38.197388,15.716693,38.197388",
     "geom:latitude":38.197388,
     "geom:longitude":15.716693,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Imperio Inferiore 15 89050 Calanna",
     "sg:city":"Calanna",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270159277,
-    "wof:lastmodified":1449008940,
+    "wof:lastmodified":1466290883,
     "wof:name":"Ali\u00b4bruzia Di Vincenzo Barilla'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "canned"
     ]
 },
-  "bbox": [15.716693,38.197388,15.716693,38.197388],
+  "bbox": [
+    15.716693,
+    38.197388,
+    15.716693,
+    38.197388
+],
   "geometry": {"coordinates":[15.716693,38.197388],"type":"Point"}
 }

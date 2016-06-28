@@ -2,13 +2,14 @@
   "id": 303182385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.04734,45.872963,12.04734,45.872963",
     "geom:latitude":45.872963,
     "geom:longitude":12.04734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31020 Vidor",
     "sg:city":"Vidor",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303182385,
-    "wof:lastmodified":1448999666,
+    "wof:lastmodified":1466292724,
     "wof:name":"Puppetti Martino Piemme Electric Motor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.04734,45.872963,12.04734,45.872963],
+  "bbox": [
+    12.04734,
+    45.872963,
+    12.04734,
+    45.872963
+],
   "geometry": {"coordinates":[12.04734,45.872963],"type":"Point"}
 }

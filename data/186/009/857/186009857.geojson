@@ -2,13 +2,14 @@
   "id": 186009857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.620678,43.979504,12.620678,43.979504",
     "geom:latitude":43.979504,
     "geom:longitude":12.620678,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Repubblica, 49; Misano; 47046",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186009857,
-    "wof:lastmodified":1449052980,
+    "wof:lastmodified":1466290790,
     "wof:name":"Cassa Di Risparmio Di Rimini Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.620678,43.979504,12.620678,43.979504],
+  "bbox": [
+    12.620678,
+    43.979504,
+    12.620678,
+    43.979504
+],
   "geometry": {"coordinates":[12.620678,43.979504],"type":"Point"}
 }

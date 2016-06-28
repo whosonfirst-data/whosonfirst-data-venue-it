@@ -2,13 +2,14 @@
   "id": 252975469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.481461,41.905499,12.481461,41.905499",
     "geom:latitude":41.905499,
     "geom:longitude":12.481461,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Condotti 00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252975469,
-    "wof:lastmodified":1449006365,
+    "wof:lastmodified":1466291810,
     "wof:name":"Bulgari Italia S.p.a.",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [12.481461,41.905499,12.481461,41.905499],
+  "bbox": [
+    12.481461,
+    41.905499,
+    12.481461,
+    41.905499
+],
   "geometry": {"coordinates":[12.481461,41.905499],"type":"Point"}
 }

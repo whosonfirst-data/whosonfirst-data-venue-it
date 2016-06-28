@@ -2,13 +2,14 @@
   "id": 320390337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.91377,45.499554,11.91377,45.499554",
     "geom:latitude":45.499554,
     "geom:longitude":11.91377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35011 Campodarsego",
     "sg:city":"Campodarsego",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320390337,
-    "wof:lastmodified":1449015005,
+    "wof:lastmodified":1466297375,
     "wof:name":"Boldrin P.i. Marino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.91377,45.499554,11.91377,45.499554],
+  "bbox": [
+    11.91377,
+    45.499554,
+    11.91377,
+    45.499554
+],
   "geometry": {"coordinates":[11.91377,45.499554],"type":"Point"}
 }

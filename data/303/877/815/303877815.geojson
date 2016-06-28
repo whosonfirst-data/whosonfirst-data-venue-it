@@ -2,13 +2,14 @@
   "id": 303877815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.644533,45.894379,8.644533,45.894379",
     "geom:latitude":45.894379,
     "geom:longitude":8.644533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21033 Cittiglio",
     "sg:city":"Cittiglio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303877815,
-    "wof:lastmodified":1448999836,
+    "wof:lastmodified":1466297929,
     "wof:name":"Petoletti Carlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.644533,45.894379,8.644533,45.894379],
+  "bbox": [
+    8.644533,
+    45.894379,
+    8.644533,
+    45.894379
+],
   "geometry": {"coordinates":[8.644533,45.894379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336850999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.169501,45.477821,9.169501,45.477821",
     "geom:latitude":45.477821,
     "geom:longitude":9.169501,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15/a, Corso Sempione 20145 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336850999,
-    "wof:lastmodified":1448997561,
+    "wof:lastmodified":1466296466,
     "wof:name":"Dott. Bonapace & C. Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.169501,45.477821,9.169501,45.477821],
+  "bbox": [
+    9.169501,
+    45.477821,
+    9.169501,
+    45.477821
+],
   "geometry": {"coordinates":[9.169501,45.477821],"type":"Point"}
 }

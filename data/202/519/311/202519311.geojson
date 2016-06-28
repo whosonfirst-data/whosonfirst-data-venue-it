@@ -2,13 +2,14 @@
   "id": 202519311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.92665,44.92057,9.92665,44.92057",
     "geom:latitude":44.92057,
     "geom:longitude":9.92665,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29017 Fiorenzuola D'arda",
     "sg:classifiers":[],
     "sg:orig_category":"Serramenti Ed Infissi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202519311,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466289159,
     "wof:name":"B.f. Di Frati Luigi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.92665,44.92057,9.92665,44.92057],
+  "bbox": [
+    9.92665,
+    44.92057,
+    9.92665,
+    44.92057
+],
   "geometry": {"coordinates":[9.92665,44.92057],"type":"Point"}
 }

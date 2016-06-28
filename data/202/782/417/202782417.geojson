@@ -2,13 +2,14 @@
   "id": 202782417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.693143,45.069519,7.693143,45.069519",
     "geom:latitude":45.069519,
     "geom:longitude":7.693143,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10124 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":202782417,
-    "wof:lastmodified":1449060096,
+    "wof:lastmodified":1466291997,
     "wof:name":"Museo Nazionale Del Cinema - Fondazione M.a.prolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.693143,45.069519,7.693143,45.069519],
+  "bbox": [
+    7.693143,
+    45.069519,
+    7.693143,
+    45.069519
+],
   "geometry": {"coordinates":[7.693143,45.069519],"type":"Point"}
 }

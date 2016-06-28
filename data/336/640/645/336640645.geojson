@@ -2,13 +2,14 @@
   "id": 336640645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.215989,45.69849,9.215989,45.69849",
     "geom:latitude":45.69849,
     "geom:longitude":9.215989,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Via Dante Alighieri 20034 Giussano",
     "sg:city":"Giussano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336640645,
-    "wof:lastmodified":1448997421,
+    "wof:lastmodified":1466294215,
     "wof:name":"Corti Fratelli Metalmeccanica Srl",
     "wof:parent_id":85862609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.215989,45.69849,9.215989,45.69849],
+  "bbox": [
+    9.215989,
+    45.69849,
+    9.215989,
+    45.69849
+],
   "geometry": {"coordinates":[9.215989,45.69849],"type":"Point"}
 }

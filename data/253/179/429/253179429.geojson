@@ -2,13 +2,14 @@
   "id": 253179429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.364101,44.90144,11.364101,44.90144",
     "geom:latitude":44.90144,
     "geom:longitude":11.364101,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44012 Bondeno",
     "sg:city":"Bondeno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253179429,
-    "wof:lastmodified":1449065476,
+    "wof:lastmodified":1466290780,
     "wof:name":"T.m.c.i. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.364101,44.90144,11.364101,44.90144],
+  "bbox": [
+    11.364101,
+    44.90144,
+    11.364101,
+    44.90144
+],
   "geometry": {"coordinates":[11.364101,44.90144],"type":"Point"}
 }

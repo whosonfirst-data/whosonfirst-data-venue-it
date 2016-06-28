@@ -2,13 +2,14 @@
   "id": 186640841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.463777,41.832424,12.463777,41.832424",
     "geom:latitude":41.832424,
     "geom:longitude":12.463777,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00144 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186640841,
-    "wof:lastmodified":1449051533,
+    "wof:lastmodified":1466293696,
     "wof:name":"Als Super Rapid",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.463777,41.832424,12.463777,41.832424],
+  "bbox": [
+    12.463777,
+    41.832424,
+    12.463777,
+    41.832424
+],
   "geometry": {"coordinates":[12.463777,41.832424],"type":"Point"}
 }

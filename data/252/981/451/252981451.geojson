@@ -2,13 +2,14 @@
   "id": 252981451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525874,45.033825,8.525874,45.033825",
     "geom:latitude":45.033825,
     "geom:longitude":8.525874,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Mario Talice 15040 Mirabello Monferrato",
     "sg:city":"Mirabello Monferrato",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252981451,
-    "wof:lastmodified":1449006535,
+    "wof:lastmodified":1466291869,
     "wof:name":"Erika Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [8.525874,45.033825,8.525874,45.033825],
+  "bbox": [
+    8.525874,
+    45.033825,
+    8.525874,
+    45.033825
+],
   "geometry": {"coordinates":[8.525874,45.033825],"type":"Point"}
 }

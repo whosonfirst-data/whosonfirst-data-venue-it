@@ -2,13 +2,14 @@
   "id": 186607097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.020846,45.871628,11.020846,45.871628",
     "geom:latitude":45.871628,
     "geom:longitude":11.020846,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38068 Rovereto",
     "sg:city":"Rovereto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186607097,
-    "wof:lastmodified":1449050662,
+    "wof:lastmodified":1466293364,
     "wof:name":"Frigoarredo Di Slomp Franco & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.020846,45.871628,11.020846,45.871628],
+  "bbox": [
+    11.020846,
+    45.871628,
+    11.020846,
+    45.871628
+],
   "geometry": {"coordinates":[11.020846,45.871628],"type":"Point"}
 }

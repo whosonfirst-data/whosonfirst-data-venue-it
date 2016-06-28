@@ -2,13 +2,14 @@
   "id": 336880121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.424346,45.663975,9.424346,45.663975",
     "geom:latitude":45.663975,
     "geom:longitude":9.424346,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23879 Verderio Inferiore",
     "sg:city":"Verderio Inferiore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":336880121,
-    "wof:lastmodified":1448998024,
+    "wof:lastmodified":1466296829,
     "wof:name":"Start Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.424346,45.663975,9.424346,45.663975],
+  "bbox": [
+    9.424346,
+    45.663975,
+    9.424346,
+    45.663975
+],
   "geometry": {"coordinates":[9.424346,45.663975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203079849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.720441,45.679634,9.720441,45.679634",
     "geom:latitude":45.679634,
     "geom:longitude":9.720441,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24068 Seriate",
     "sg:city":"Seriate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203079849,
-    "wof:lastmodified":1449026528,
+    "wof:lastmodified":1466295838,
     "wof:name":"Rota Arredi Funebri Sas Di Rota Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.720441,45.679634,9.720441,45.679634],
+  "bbox": [
+    9.720441,
+    45.679634,
+    9.720441,
+    45.679634
+],
   "geometry": {"coordinates":[9.720441,45.679634],"type":"Point"}
 }

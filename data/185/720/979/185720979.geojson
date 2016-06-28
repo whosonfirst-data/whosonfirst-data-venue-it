@@ -2,13 +2,14 @@
   "id": 185720979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.301752,45.956345,10.301752,45.956345",
     "geom:latitude":45.956345,
     "geom:longitude":10.301752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Repubblica 2; Breno; 25043",
     "sg:city":"Breno",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185720979,
-    "wof:lastmodified":1449006995,
+    "wof:lastmodified":1466296042,
     "wof:name":"Banca Di Valle Camonica Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.301752,45.956345,10.301752,45.956345],
+  "bbox": [
+    10.301752,
+    45.956345,
+    10.301752,
+    45.956345
+],
   "geometry": {"coordinates":[10.301752,45.956345],"type":"Point"}
 }

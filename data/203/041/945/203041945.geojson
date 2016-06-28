@@ -2,13 +2,14 @@
   "id": 203041945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.339491,44.886227,7.339491,44.886227",
     "geom:latitude":44.886227,
     "geom:longitude":7.339491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10061 Cavour",
     "sg:city":"Cavour",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203041945,
-    "wof:lastmodified":1449025596,
+    "wof:lastmodified":1466295034,
     "wof:name":"Cogno Arredamenti Di Cogno Aldo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.339491,44.886227,7.339491,44.886227],
+  "bbox": [
+    7.339491,
+    44.886227,
+    7.339491,
+    44.886227
+],
   "geometry": {"coordinates":[7.339491,44.886227],"type":"Point"}
 }

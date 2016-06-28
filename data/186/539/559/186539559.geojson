@@ -2,13 +2,14 @@
   "id": 186539559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.2838,43.822716,11.2838,43.822716",
     "geom:latitude":43.822716,
     "geom:longitude":11.2838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"224, Via Bolognese 50010 Firenze",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186539559,
-    "wof:lastmodified":1449053077,
+    "wof:lastmodified":1466292689,
     "wof:name":"Albergo Villa Le Rondini (s.r.l.)",
     "wof:parent_id":85900499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.2838,43.822716,11.2838,43.822716],
+  "bbox": [
+    11.2838,
+    43.822716,
+    11.2838,
+    43.822716
+],
   "geometry": {"coordinates":[11.2838,43.822716],"type":"Point"}
 }

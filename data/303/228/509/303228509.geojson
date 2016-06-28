@@ -2,13 +2,14 @@
   "id": 303228509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.013017,45.55331,8.013017,45.55331",
     "geom:latitude":45.55331,
     "geom:longitude":8.013017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Per Muzzano 29 13897 Occhieppo Inferiore",
     "sg:city":"Occhieppo Inferiore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303228509,
-    "wof:lastmodified":1448998879,
+    "wof:lastmodified":1466293336,
     "wof:name":"Dye Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "embroidery"
     ]
 },
-  "bbox": [8.013017,45.55331,8.013017,45.55331],
+  "bbox": [
+    8.013017,
+    45.55331,
+    8.013017,
+    45.55331
+],
   "geometry": {"coordinates":[8.013017,45.55331],"type":"Point"}
 }

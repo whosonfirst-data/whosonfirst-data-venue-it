@@ -2,13 +2,14 @@
   "id": 286559151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196167,45.470764,9.196167,45.470764",
     "geom:latitude":45.470764,
     "geom:longitude":9.196167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via Della Spiga 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286559151,
-    "wof:lastmodified":1449017485,
+    "wof:lastmodified":1466293421,
     "wof:name":"Masterfil Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.196167,45.470764,9.196167,45.470764],
+  "bbox": [
+    9.196167,
+    45.470764,
+    9.196167,
+    45.470764
+],
   "geometry": {"coordinates":[9.196167,45.470764],"type":"Point"}
 }

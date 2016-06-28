@@ -2,13 +2,14 @@
   "id": 320424881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.105258,37.525234,15.105258,37.525234",
     "geom:latitude":37.525234,
     "geom:longitude":15.105258,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95126 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320424881,
-    "wof:lastmodified":1449014728,
+    "wof:lastmodified":1466297459,
     "wof:name":"Venuti Salvatore",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.105258,37.525234,15.105258,37.525234],
+  "bbox": [
+    15.105258,
+    37.525234,
+    15.105258,
+    37.525234
+],
   "geometry": {"coordinates":[15.105258,37.525234],"type":"Point"}
 }

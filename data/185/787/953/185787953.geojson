@@ -2,13 +2,14 @@
   "id": 185787953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.1229,39.0812,17.1229,39.0812",
     "geom:latitude":39.0812,
     "geom:longitude":17.1229,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Pertusola Sud S.p.a.; Crotone; 88074",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185787953,
-    "wof:lastmodified":1449007348,
+    "wof:lastmodified":1466289202,
     "wof:name":"Banca Popolare Di Crotone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.1229,39.0812,17.1229,39.0812],
+  "bbox": [
+    17.1229,
+    39.0812,
+    17.1229,
+    39.0812
+],
   "geometry": {"coordinates":[17.1229,39.0812],"type":"Point"}
 }

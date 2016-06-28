@@ -2,13 +2,14 @@
   "id": 286511077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.876821,45.495747,9.876821,45.495747",
     "geom:latitude":45.495747,
     "geom:longitude":9.876821,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"431, Via Lavoro E Industria 25030 Rudiano",
     "sg:city":"Rudiano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286511077,
-    "wof:lastmodified":1449016545,
+    "wof:lastmodified":1466292840,
     "wof:name":"Fausta (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.876821,45.495747,9.876821,45.495747],
+  "bbox": [
+    9.876821,
+    45.495747,
+    9.876821,
+    45.495747
+],
   "geometry": {"coordinates":[9.876821,45.495747],"type":"Point"}
 }

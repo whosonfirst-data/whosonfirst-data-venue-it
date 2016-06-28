@@ -2,13 +2,14 @@
   "id": 203186175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.042685,44.94458,9.042685,44.94458",
     "geom:latitude":44.94458,
     "geom:longitude":9.042685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27050 Retorbido",
     "sg:city":"Retorbido",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203186175,
-    "wof:lastmodified":1449026421,
+    "wof:lastmodified":1466289729,
     "wof:name":"Gobbi Alberto Pavimenti In Legno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.042685,44.94458,9.042685,44.94458],
+  "bbox": [
+    9.042685,
+    44.94458,
+    9.042685,
+    44.94458
+],
   "geometry": {"coordinates":[9.042685,44.94458],"type":"Point"}
 }

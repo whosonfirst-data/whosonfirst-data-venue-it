@@ -2,13 +2,14 @@
   "id": 235977609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.90946,44.978291,10.90946,44.978291",
     "geom:latitude":44.978291,
     "geom:longitude":10.90946,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74, Strada Vo' 46020 Pegognaga",
     "sg:city":"Pegognaga",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":235977609,
-    "wof:lastmodified":1449008610,
+    "wof:lastmodified":1466295690,
     "wof:name":"Societa' Cooperativa Latteria Vo' Grande A.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [10.90946,44.978291,10.90946,44.978291],
+  "bbox": [
+    10.90946,
+    44.978291,
+    10.90946,
+    44.978291
+],
   "geometry": {"coordinates":[10.90946,44.978291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286500907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.34241,44.493919,11.34241,44.493919",
     "geom:latitude":44.493919,
     "geom:longitude":11.34241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Strada Maggiore 40125 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286500907,
-    "wof:lastmodified":1449015906,
+    "wof:lastmodified":1466292721,
     "wof:name":"Di Donato Fratelli",
     "wof:parent_id":85900451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.34241,44.493919,11.34241,44.493919],
+  "bbox": [
+    11.34241,
+    44.493919,
+    11.34241,
+    44.493919
+],
   "geometry": {"coordinates":[11.34241,44.493919],"type":"Point"}
 }

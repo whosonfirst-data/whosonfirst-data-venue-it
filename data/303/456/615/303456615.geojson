@@ -2,13 +2,14 @@
   "id": 303456615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.069571,43.855358,11.069571,43.855358",
     "geom:latitude":43.855358,
     "geom:longitude":11.069571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303456615,
-    "wof:lastmodified":1448998841,
+    "wof:lastmodified":1466296169,
     "wof:name":"Comparini Mario Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.069571,43.855358,11.069571,43.855358],
+  "bbox": [
+    11.069571,
+    43.855358,
+    11.069571,
+    43.855358
+],
   "geometry": {"coordinates":[11.069571,43.855358],"type":"Point"}
 }

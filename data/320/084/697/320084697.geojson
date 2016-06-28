@@ -2,13 +2,14 @@
   "id": 320084697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.491244,45.532387,11.491244,45.532387",
     "geom:latitude":45.532387,
     "geom:longitude":11.491244,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36051 Olmo",
     "sg:city":"Olmo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320084697,
-    "wof:lastmodified":1449011648,
+    "wof:lastmodified":1466294443,
     "wof:name":"Pilatone Federico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.491244,45.532387,11.491244,45.532387],
+  "bbox": [
+    11.491244,
+    45.532387,
+    11.491244,
+    45.532387
+],
   "geometry": {"coordinates":[11.491244,45.532387],"type":"Point"}
 }

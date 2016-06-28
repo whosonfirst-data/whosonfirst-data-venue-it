@@ -2,13 +2,14 @@
   "id": 236009671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.684303,45.000626,7.684303,45.000626",
     "geom:latitude":45.000626,
     "geom:longitude":7.684303,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236009671,
-    "wof:lastmodified":1449005166,
+    "wof:lastmodified":1466288983,
     "wof:name":"Fioravanti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "-"
     ]
 },
-  "bbox": [7.684303,45.000626,7.684303,45.000626],
+  "bbox": [
+    7.684303,
+    45.000626,
+    7.684303,
+    45.000626
+],
   "geometry": {"coordinates":[7.684303,45.000626],"type":"Point"}
 }

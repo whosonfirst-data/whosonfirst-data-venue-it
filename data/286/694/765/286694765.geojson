@@ -2,13 +2,14 @@
   "id": 286694765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.456962,45.706165,12.456962,45.706165",
     "geom:latitude":45.706165,
     "geom:longitude":12.456962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73, Via Toti Enrico 31048 San Biagio Di Callalta",
     "sg:city":"San Biagio di Callalta",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286694765,
-    "wof:lastmodified":1449016018,
+    "wof:lastmodified":1466295143,
     "wof:name":"Coletto (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [12.456962,45.706165,12.456962,45.706165],
+  "bbox": [
+    12.456962,
+    45.706165,
+    12.456962,
+    45.706165
+],
   "geometry": {"coordinates":[12.456962,45.706165],"type":"Point"}
 }

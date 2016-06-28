@@ -2,13 +2,14 @@
   "id": 202535689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.612056,44.20002,10.612056,44.20002",
     "geom:latitude":44.20002,
     "geom:longitude":10.612056,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41027 Pievepelago",
     "sg:city":"Pievepelago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202535689,
-    "wof:lastmodified":1449060563,
+    "wof:lastmodified":1466289302,
     "wof:name":"Fratelli Tolari Di Tolari Roberto - Fabio & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.612056,44.20002,10.612056,44.20002],
+  "bbox": [
+    10.612056,
+    44.20002,
+    10.612056,
+    44.20002
+],
   "geometry": {"coordinates":[10.612056,44.20002],"type":"Point"}
 }

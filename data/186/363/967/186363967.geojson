@@ -2,13 +2,14 @@
   "id": 186363967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.869564,41.063759,16.869564,41.063759",
     "geom:latitude":41.063759,
     "geom:longitude":16.869564,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Mammole 34 70123 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186363967,
-    "wof:lastmodified":1449052693,
+    "wof:lastmodified":1466291036,
     "wof:name":"Antonio Cascella Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.869564,41.063759,16.869564,41.063759],
+  "bbox": [
+    16.869564,
+    41.063759,
+    16.869564,
+    41.063759
+],
   "geometry": {"coordinates":[16.869564,41.063759],"type":"Point"}
 }

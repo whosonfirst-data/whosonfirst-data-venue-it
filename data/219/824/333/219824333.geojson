@@ -2,13 +2,14 @@
   "id": 219824333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.286221,44.414394,10.286221,44.414394",
     "geom:latitude":44.414394,
     "geom:longitude":10.286221,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42014 Castellarano",
     "sg:classifiers":[],
     "sg:orig_category":"Imballaggi In Cartone",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219824333,
-    "wof:lastmodified":1449071651,
+    "wof:lastmodified":1466294520,
     "wof:name":"La Veggia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.286221,44.414394,10.286221,44.414394],
+  "bbox": [
+    10.286221,
+    44.414394,
+    10.286221,
+    44.414394
+],
   "geometry": {"coordinates":[10.286221,44.414394],"type":"Point"}
 }

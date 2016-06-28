@@ -2,13 +2,14 @@
   "id": 236007795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.413915,45.869705,8.413915,45.869705",
     "geom:latitude":45.869705,
     "geom:longitude":8.413915,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lanchetti 4 28887 Omegna",
     "sg:city":"Omegna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236007795,
-    "wof:lastmodified":1449004563,
+    "wof:lastmodified":1466288965,
     "wof:name":"Ipa Arvonio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [8.413915,45.869705,8.413915,45.869705],
+  "bbox": [
+    8.413915,
+    45.869705,
+    8.413915,
+    45.869705
+],
   "geometry": {"coordinates":[8.413915,45.869705],"type":"Point"}
 }

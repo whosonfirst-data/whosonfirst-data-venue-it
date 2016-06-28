@@ -2,13 +2,14 @@
   "id": 270510703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.753222,45.467358,8.753222,45.467358",
     "geom:latitude":45.467358,
     "geom:longitude":8.753222,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Novara 20013 Magenta",
     "sg:city":"Magenta",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270510703,
-    "wof:lastmodified":1449010103,
+    "wof:lastmodified":1466295200,
     "wof:name":"Biomedical Di Imbriani Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.753222,45.467358,8.753222,45.467358],
+  "bbox": [
+    8.753222,
+    45.467358,
+    8.753222,
+    45.467358
+],
   "geometry": {"coordinates":[8.753222,45.467358],"type":"Point"}
 }

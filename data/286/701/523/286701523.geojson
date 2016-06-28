@@ -2,13 +2,14 @@
   "id": 286701523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.303424,45.632336,9.303424,45.632336",
     "geom:latitude":45.632336,
     "geom:longitude":9.303424,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Della Cava 20050 Sovico",
     "sg:city":"Sovico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286701523,
-    "wof:lastmodified":1449017513,
+    "wof:lastmodified":1466295227,
     "wof:name":"Ica Strade (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [9.303424,45.632336,9.303424,45.632336],
+  "bbox": [
+    9.303424,
+    45.632336,
+    9.303424,
+    45.632336
+],
   "geometry": {"coordinates":[9.303424,45.632336],"type":"Point"}
 }

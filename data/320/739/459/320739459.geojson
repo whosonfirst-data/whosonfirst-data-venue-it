@@ -2,13 +2,14 @@
   "id": 320739459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.32721,45.582657,9.32721,45.582657",
     "geom:latitude":45.582657,
     "geom:longitude":9.32721,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20049 Concorezzo",
     "sg:city":"Concorezzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320739459,
-    "wof:lastmodified":1449012834,
+    "wof:lastmodified":1466298170,
     "wof:name":"Ferrario Costante & C. Di Ferrario Diego",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.32721,45.582657,9.32721,45.582657],
+  "bbox": [
+    9.32721,
+    45.582657,
+    9.32721,
+    45.582657
+],
   "geometry": {"coordinates":[9.32721,45.582657],"type":"Point"}
 }

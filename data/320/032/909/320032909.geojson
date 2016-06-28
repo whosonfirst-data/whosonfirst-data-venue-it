@@ -2,13 +2,14 @@
   "id": 320032909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.550264,45.573475,11.550264,45.573475",
     "geom:latitude":45.573475,
     "geom:longitude":11.550264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36030 Villaverla",
     "sg:city":"Villaverla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320032909,
-    "wof:lastmodified":1449013093,
+    "wof:lastmodified":1466293805,
     "wof:name":"C.o.v. Circolo Operaio Villaverla Soc.coop. A R. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.550264,45.573475,11.550264,45.573475],
+  "bbox": [
+    11.550264,
+    45.573475,
+    11.550264,
+    45.573475
+],
   "geometry": {"coordinates":[11.550264,45.573475],"type":"Point"}
 }

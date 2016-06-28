@@ -2,13 +2,14 @@
   "id": 253130837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.632545,44.678089,10.632545,44.678089",
     "geom:latitude":44.678089,
     "geom:longitude":10.632545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Acciaierie E Fonderie",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253130837,
-    "wof:lastmodified":1449063840,
+    "wof:lastmodified":1466290281,
     "wof:name":"Fonderia Vierre (s.n.c.)",
     "wof:parent_id":85904911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.632545,44.678089,10.632545,44.678089],
+  "bbox": [
+    10.632545,
+    44.678089,
+    10.632545,
+    44.678089
+],
   "geometry": {"coordinates":[10.632545,44.678089],"type":"Point"}
 }

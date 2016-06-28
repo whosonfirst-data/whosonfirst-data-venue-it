@@ -2,13 +2,14 @@
   "id": 303669263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.328055,45.433613,12.328055,45.433613",
     "geom:latitude":45.433613,
     "geom:longitude":12.328055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30124 Venezia",
     "sg:city":"San Marco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303669263,
-    "wof:lastmodified":1448998402,
+    "wof:lastmodified":1466297580,
     "wof:name":"Guadagni Arredamenti D'interni",
     "wof:parent_id":85905019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.328055,45.433613,12.328055,45.433613],
+  "bbox": [
+    12.328055,
+    45.433613,
+    12.328055,
+    45.433613
+],
   "geometry": {"coordinates":[12.328055,45.433613],"type":"Point"}
 }

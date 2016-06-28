@@ -2,13 +2,14 @@
   "id": 236548559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.761041,45.731125,11.761041,45.731125",
     "geom:latitude":45.731125,
     "geom:longitude":11.761041,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Capitano Alessio 36027 Rosa'",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236548559,
-    "wof:lastmodified":1449004027,
+    "wof:lastmodified":1466294553,
     "wof:name":"Bernardi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.761041,45.731125,11.761041,45.731125],
+  "bbox": [
+    11.761041,
+    45.731125,
+    11.761041,
+    45.731125
+],
   "geometry": {"coordinates":[11.761041,45.731125],"type":"Point"}
 }

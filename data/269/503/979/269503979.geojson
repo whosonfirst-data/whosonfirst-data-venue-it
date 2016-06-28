@@ -2,13 +2,14 @@
   "id": 269503979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.585999,43.452301,13.585999,43.452301",
     "geom:latitude":43.452301,
     "geom:longitude":13.585999,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Delle Fisarmoniche 60022 Castelfidardo",
     "sg:city":"Castelfidardo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269503979,
-    "wof:lastmodified":1449038974,
+    "wof:lastmodified":1466289179,
     "wof:name":"Tomaificio Marchigiano Di Francucci Rossana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.585999,43.452301,13.585999,43.452301],
+  "bbox": [
+    13.585999,
+    43.452301,
+    13.585999,
+    43.452301
+],
   "geometry": {"coordinates":[13.585999,43.452301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270362631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.266824,45.599812,9.266824,45.599812",
     "geom:latitude":45.599812,
     "geom:longitude":9.266824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270362631,
-    "wof:lastmodified":1449010245,
+    "wof:lastmodified":1466293408,
     "wof:name":"Residenza Sant'andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "di"
     ]
 },
-  "bbox": [9.266824,45.599812,9.266824,45.599812],
+  "bbox": [
+    9.266824,
+    45.599812,
+    9.266824,
+    45.599812
+],
   "geometry": {"coordinates":[9.266824,45.599812],"type":"Point"}
 }

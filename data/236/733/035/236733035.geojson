@@ -2,13 +2,14 @@
   "id": 236733035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.779929,45.777451,8.779929,45.777451",
     "geom:latitude":45.777451,
     "geom:longitude":8.779929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Risorgimento 19 21020 Crosio Della Valle",
     "sg:city":"Crosio della Valle",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236733035,
-    "wof:lastmodified":1449002021,
+    "wof:lastmodified":1466296290,
     "wof:name":"Rafitex Campeggio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [8.779929,45.777451,8.779929,45.777451],
+  "bbox": [
+    8.779929,
+    45.777451,
+    8.779929,
+    45.777451
+],
   "geometry": {"coordinates":[8.779929,45.777451],"type":"Point"}
 }

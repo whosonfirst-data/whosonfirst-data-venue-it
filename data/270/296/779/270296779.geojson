@@ -2,13 +2,14 @@
   "id": 270296779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.899495,40.355244,15.899495,40.355244",
     "geom:latitude":40.355244,
     "geom:longitude":15.899495,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85059 Viggiano",
     "sg:city":"Viggiano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270296779,
-    "wof:lastmodified":1449010607,
+    "wof:lastmodified":1466292571,
     "wof:name":"Informa Di Infantino Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.899495,40.355244,15.899495,40.355244],
+  "bbox": [
+    15.899495,
+    40.355244,
+    15.899495,
+    40.355244
+],
   "geometry": {"coordinates":[15.899495,40.355244],"type":"Point"}
 }

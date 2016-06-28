@@ -2,13 +2,14 @@
   "id": 220013819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.426755,44.97908,10.426755,44.97908",
     "geom:latitude":44.97908,
     "geom:longitude":10.426755,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26041 Casalmaggiore",
     "sg:city":"Casalmaggiore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220013819,
-    "wof:lastmodified":1449074597,
+    "wof:lastmodified":1466294252,
     "wof:name":"Impresa Romano Barilla (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.426755,44.97908,10.426755,44.97908],
+  "bbox": [
+    10.426755,
+    44.97908,
+    10.426755,
+    44.97908
+],
   "geometry": {"coordinates":[10.426755,44.97908],"type":"Point"}
 }

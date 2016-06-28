@@ -2,13 +2,14 @@
   "id": 220115653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.39095,46.288704,9.39095,46.288704",
     "geom:latitude":46.288704,
     "geom:longitude":9.39095,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via La Monica 23020 Prata Camportaccio",
     "sg:city":"Prata Camportaccio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220115653,
-    "wof:lastmodified":1449074051,
+    "wof:lastmodified":1466296077,
     "wof:name":"Officina De Giambattista S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [9.39095,46.288704,9.39095,46.288704],
+  "bbox": [
+    9.39095,
+    46.288704,
+    9.39095,
+    46.288704
+],
   "geometry": {"coordinates":[9.39095,46.288704],"type":"Point"}
 }

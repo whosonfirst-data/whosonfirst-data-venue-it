@@ -2,13 +2,14 @@
   "id": 253606969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.574183,43.881729,10.574183,43.881729",
     "geom:latitude":43.881729,
     "geom:longitude":10.574183,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Ville, 267/269 55010 San Colombano",
     "sg:classifiers":[],
     "sg:orig_category":"Ladies' Shoes",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253606969,
-    "wof:lastmodified":1449063272,
+    "wof:lastmodified":1466296026,
     "wof:name":"Pielle Shoes Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.574183,43.881729,10.574183,43.881729],
+  "bbox": [
+    10.574183,
+    43.881729,
+    10.574183,
+    43.881729
+],
   "geometry": {"coordinates":[10.574183,43.881729],"type":"Point"}
 }

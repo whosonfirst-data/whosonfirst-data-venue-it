@@ -2,13 +2,14 @@
   "id": 269957821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.426354,41.851063,12.426354,41.851063",
     "geom:latitude":41.851063,
     "geom:longitude":12.426354,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00148 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269957821,
-    "wof:lastmodified":1449038497,
+    "wof:lastmodified":1466294791,
     "wof:name":"Fondazione Sgm Conference Center",
     "wof:parent_id":85900349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.426354,41.851063,12.426354,41.851063],
+  "bbox": [
+    12.426354,
+    41.851063,
+    12.426354,
+    41.851063
+],
   "geometry": {"coordinates":[12.426354,41.851063],"type":"Point"}
 }

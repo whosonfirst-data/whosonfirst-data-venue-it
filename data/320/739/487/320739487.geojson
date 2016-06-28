@@ -2,13 +2,14 @@
   "id": 320739487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.380643,45.644794,10.380643,45.644794",
     "geom:latitude":45.644794,
     "geom:longitude":10.380643,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25085 Gavardo",
     "sg:city":"Gavardo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320739487,
-    "wof:lastmodified":1449012834,
+    "wof:lastmodified":1466298068,
     "wof:name":"Ferretti Fratelli (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.380643,45.644794,10.380643,45.644794],
+  "bbox": [
+    10.380643,
+    45.644794,
+    10.380643,
+    45.644794
+],
   "geometry": {"coordinates":[10.380643,45.644794],"type":"Point"}
 }

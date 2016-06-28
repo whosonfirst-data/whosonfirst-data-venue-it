@@ -2,13 +2,14 @@
   "id": 236233343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.215732,45.493858,9.215732,45.493858",
     "geom:latitude":45.493858,
     "geom:longitude":9.215732,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nicola D'apulia 9 20125 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236233343,
-    "wof:lastmodified":1449005317,
+    "wof:lastmodified":1466291240,
     "wof:name":"N Bronson Italia Srl",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "necktie"
     ]
 },
-  "bbox": [9.215732,45.493858,9.215732,45.493858],
+  "bbox": [
+    9.215732,
+    45.493858,
+    9.215732,
+    45.493858
+],
   "geometry": {"coordinates":[9.215732,45.493858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286655027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.521612,41.876068,12.521612,41.876068",
     "geom:latitude":41.876068,
     "geom:longitude":12.521612,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00181 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286655027,
-    "wof:lastmodified":1449016875,
+    "wof:lastmodified":1466294603,
     "wof:name":"S.a.e.f. Snc",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "knitwear"
     ]
 },
-  "bbox": [12.521612,41.876068,12.521612,41.876068],
+  "bbox": [
+    12.521612,
+    41.876068,
+    12.521612,
+    41.876068
+],
   "geometry": {"coordinates":[12.521612,41.876068],"type":"Point"}
 }

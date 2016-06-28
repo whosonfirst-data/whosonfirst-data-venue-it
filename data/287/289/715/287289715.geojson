@@ -2,13 +2,14 @@
   "id": 287289715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.795949,41.258904,13.795949,41.258904",
     "geom:latitude":41.258904,
     "geom:longitude":13.795949,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Torraccio 04020 Santi Cosma E Damiano",
     "sg:city":"Santi Cosma e Damiano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287289715,
-    "wof:lastmodified":1449001421,
+    "wof:lastmodified":1466293413,
     "wof:name":"Accumulatori Gari S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [13.795949,41.258904,13.795949,41.258904],
+  "bbox": [
+    13.795949,
+    41.258904,
+    13.795949,
+    41.258904
+],
   "geometry": {"coordinates":[13.795949,41.258904],"type":"Point"}
 }

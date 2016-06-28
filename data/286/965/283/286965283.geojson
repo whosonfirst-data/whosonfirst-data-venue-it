@@ -2,13 +2,14 @@
   "id": 286965283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.810349,45.759296,9.810349,45.759296",
     "geom:latitude":45.759296,
     "geom:longitude":9.810349,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24021 Albino",
     "sg:city":"Albino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286965283,
-    "wof:lastmodified":1449017241,
+    "wof:lastmodified":1466297354,
     "wof:name":"Ritorfil (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.810349,45.759296,9.810349,45.759296],
+  "bbox": [
+    9.810349,
+    45.759296,
+    9.810349,
+    45.759296
+],
   "geometry": {"coordinates":[9.810349,45.759296],"type":"Point"}
 }

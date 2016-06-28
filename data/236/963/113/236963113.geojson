@@ -2,13 +2,14 @@
   "id": 236963113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.462571,45.698696,8.462571,45.698696",
     "geom:latitude":45.698696,
     "geom:longitude":8.462571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28013 Gattico",
     "sg:city":"Gattico",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236963113,
-    "wof:lastmodified":1449001910,
+    "wof:lastmodified":1466297457,
     "wof:name":"Mora Elettromeccanica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.462571,45.698696,8.462571,45.698696],
+  "bbox": [
+    8.462571,
+    45.698696,
+    8.462571,
+    45.698696
+],
   "geometry": {"coordinates":[8.462571,45.698696],"type":"Point"}
 }

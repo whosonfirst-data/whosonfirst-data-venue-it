@@ -2,13 +2,14 @@
   "id": 203347123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.96583,45.394409,11.96583,45.394409",
     "geom:latitude":45.394409,
     "geom:longitude":11.96583,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Saonara",
     "sg:city":"Saonara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203347123,
-    "wof:lastmodified":1449025830,
+    "wof:lastmodified":1466291548,
     "wof:name":"Express Mailing Di Selmin Marina E C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.96583,45.394409,11.96583,45.394409],
+  "bbox": [
+    11.96583,
+    45.394409,
+    11.96583,
+    45.394409
+],
   "geometry": {"coordinates":[11.96583,45.394409],"type":"Point"}
 }

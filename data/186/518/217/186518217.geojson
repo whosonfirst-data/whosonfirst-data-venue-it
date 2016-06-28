@@ -2,13 +2,14 @@
   "id": 186518217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.341376,44.505623,11.341376,44.505623",
     "geom:latitude":44.505623,
     "geom:longitude":11.341376,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59, Viale Pietramellara Pietro 40121 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186518217,
-    "wof:lastmodified":1449051898,
+    "wof:lastmodified":1466292481,
     "wof:name":"Alberghi Sofitel Hotel",
     "wof:parent_id":85904597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.341376,44.505623,11.341376,44.505623],
+  "bbox": [
+    11.341376,
+    44.505623,
+    11.341376,
+    44.505623
+],
   "geometry": {"coordinates":[11.341376,44.505623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202999795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.225784,46.057343,13.225784,46.057343",
     "geom:latitude":46.057343,
     "geom:longitude":13.225784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33100 Udine",
     "sg:city":"Udine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202999795,
-    "wof:lastmodified":1449062342,
+    "wof:lastmodified":1466294191,
     "wof:name":"Studio Associato Dott. Schiavi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.225784,46.057343,13.225784,46.057343],
+  "bbox": [
+    13.225784,
+    46.057343,
+    13.225784,
+    46.057343
+],
   "geometry": {"coordinates":[13.225784,46.057343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320521081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.966514,45.380089,11.966514,45.380089",
     "geom:latitude":45.380089,
     "geom:longitude":11.966514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Irpinia 59/61 35020 Saonara",
     "sg:city":"Saonara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320521081,
-    "wof:lastmodified":1449014775,
+    "wof:lastmodified":1466297536,
     "wof:name":"Cepi S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [11.966514,45.380089,11.966514,45.380089],
+  "bbox": [
+    11.966514,
+    45.380089,
+    11.966514,
+    45.380089
+],
   "geometry": {"coordinates":[11.966514,45.380089],"type":"Point"}
 }

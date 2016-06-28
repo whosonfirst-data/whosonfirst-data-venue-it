@@ -2,13 +2,14 @@
   "id": 219646927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.213462,45.393185,9.213462,45.393185",
     "geom:latitude":45.393185,
     "geom:longitude":9.213462,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Opera",
     "sg:city":"Opera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219646927,
-    "wof:lastmodified":1449070294,
+    "wof:lastmodified":1466292772,
     "wof:name":"Provincia Di Milano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.213462,45.393185,9.213462,45.393185],
+  "bbox": [
+    9.213462,
+    45.393185,
+    9.213462,
+    45.393185
+],
   "geometry": {"coordinates":[9.213462,45.393185],"type":"Point"}
 }

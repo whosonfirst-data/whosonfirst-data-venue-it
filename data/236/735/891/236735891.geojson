@@ -2,13 +2,14 @@
   "id": 236735891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.600458,40.720798,17.600458,40.720798",
     "geom:latitude":40.720798,
     "geom:longitude":17.600458,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Industrie 1 72017 Ostuni",
     "sg:city":"Ostuni",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236735891,
-    "wof:lastmodified":1449005157,
+    "wof:lastmodified":1466296402,
     "wof:name":"Telcom Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.600458,40.720798,17.600458,40.720798],
+  "bbox": [
+    17.600458,
+    40.720798,
+    17.600458,
+    40.720798
+],
   "geometry": {"coordinates":[17.600458,40.720798],"type":"Point"}
 }

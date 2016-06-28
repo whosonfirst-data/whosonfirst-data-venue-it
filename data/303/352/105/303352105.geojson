@@ -2,13 +2,14 @@
   "id": 303352105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.349524,45.502548,11.349524,45.502548",
     "geom:latitude":45.502548,
     "geom:longitude":11.349524,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rivaltella 3b 36071 Arzignano",
     "sg:city":"Arzignano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303352105,
-    "wof:lastmodified":1448999622,
+    "wof:lastmodified":1466294869,
     "wof:name":"Bolcato Pelli S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "skin"
     ]
 },
-  "bbox": [11.349524,45.502548,11.349524,45.502548],
+  "bbox": [
+    11.349524,
+    45.502548,
+    11.349524,
+    45.502548
+],
   "geometry": {"coordinates":[11.349524,45.502548],"type":"Point"}
 }

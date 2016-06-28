@@ -2,13 +2,14 @@
   "id": 236602327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.861768,43.833073,12.861768,43.833073",
     "geom:latitude":43.833073,
     "geom:longitude":12.861768,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"141, Via Cairo 61024 Mombaroccio",
     "sg:city":"Mombaroccio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236602327,
-    "wof:lastmodified":1449003152,
+    "wof:lastmodified":1466295038,
     "wof:name":"Ima S.a.s. Di Marchesani Marco Roberto & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.861768,43.833073,12.861768,43.833073],
+  "bbox": [
+    12.861768,
+    43.833073,
+    12.861768,
+    43.833073
+],
   "geometry": {"coordinates":[12.861768,43.833073],"type":"Point"}
 }

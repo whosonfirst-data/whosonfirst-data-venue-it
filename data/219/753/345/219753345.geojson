@@ -2,13 +2,14 @@
   "id": 219753345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.202591,46.004726,11.202591,46.004726",
     "geom:latitude":46.004726,
     "geom:longitude":11.202591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"54, Via Trieste 38049 Vigolo Vattaro",
     "sg:city":"Vattaro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219753345,
-    "wof:lastmodified":1449070807,
+    "wof:lastmodified":1466293808,
     "wof:name":"Giacomelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [11.202591,46.004726,11.202591,46.004726],
+  "bbox": [
+    11.202591,
+    46.004726,
+    11.202591,
+    46.004726
+],
   "geometry": {"coordinates":[11.202591,46.004726],"type":"Point"}
 }

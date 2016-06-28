@@ -2,13 +2,14 @@
   "id": 203037809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.511744,45.680229,11.511744,45.680229",
     "geom:latitude":45.680229,
     "geom:longitude":11.511744,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36016 Thiene",
     "sg:city":"Thiene",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203037809,
-    "wof:lastmodified":1449026891,
+    "wof:lastmodified":1466294938,
     "wof:name":"Balasso Giacomo Tranciati Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.511744,45.680229,11.511744,45.680229],
+  "bbox": [
+    11.511744,
+    45.680229,
+    11.511744,
+    45.680229
+],
   "geometry": {"coordinates":[11.511744,45.680229],"type":"Point"}
 }

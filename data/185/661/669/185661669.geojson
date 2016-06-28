@@ -2,13 +2,14 @@
   "id": 185661669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.182521,45.569351,9.182521,45.569351",
     "geom:latitude":45.569351,
     "geom:longitude":9.182521,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Armstrong 9; Paderno Dugnano; 20037",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185661669,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1466295135,
     "wof:name":"Banca Di Credito Cooperativo, Di Carate Brianza Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.182521,45.569351,9.182521,45.569351],
+  "bbox": [
+    9.182521,
+    45.569351,
+    9.182521,
+    45.569351
+],
   "geometry": {"coordinates":[9.182521,45.569351],"type":"Point"}
 }

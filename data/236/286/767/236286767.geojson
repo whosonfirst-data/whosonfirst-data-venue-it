@@ -2,13 +2,14 @@
   "id": 236286767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.082381,45.528511,9.082381,45.528511",
     "geom:latitude":45.528511,
     "geom:longitude":9.082381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236286767,
-    "wof:lastmodified":1449002328,
+    "wof:lastmodified":1466291803,
     "wof:name":"Di.mo. Commerciale S.r.l.",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.082381,45.528511,9.082381,45.528511],
+  "bbox": [
+    9.082381,
+    45.528511,
+    9.082381,
+    45.528511
+],
   "geometry": {"coordinates":[9.082381,45.528511],"type":"Point"}
 }

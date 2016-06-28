@@ -2,13 +2,14 @@
   "id": 303674767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.367896,42.317436,12.367896,42.317436",
     "geom:latitude":42.317436,
     "geom:longitude":12.367896,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01030 Fabrica Di Roma",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamento Bar E Ristoranti",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303674767,
-    "wof:lastmodified":1448999947,
+    "wof:lastmodified":1466297518,
     "wof:name":"Sbarra Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.367896,42.317436,12.367896,42.317436],
+  "bbox": [
+    12.367896,
+    42.317436,
+    12.367896,
+    42.317436
+],
   "geometry": {"coordinates":[12.367896,42.317436],"type":"Point"}
 }

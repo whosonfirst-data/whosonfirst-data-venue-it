@@ -2,13 +2,14 @@
   "id": 303352231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.638095,43.144875,13.638095,43.144875",
     "geom:latitude":43.144875,
     "geom:longitude":13.638095,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Girola Di Fermo 63023 Fermo",
     "sg:city":"Fermo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303352231,
-    "wof:lastmodified":1448999622,
+    "wof:lastmodified":1466294870,
     "wof:name":"Bordificio R 79 Di Francavilla Roberto & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "skin"
     ]
 },
-  "bbox": [13.638095,43.144875,13.638095,43.144875],
+  "bbox": [
+    13.638095,
+    43.144875,
+    13.638095,
+    43.144875
+],
   "geometry": {"coordinates":[13.638095,43.144875],"type":"Point"}
 }

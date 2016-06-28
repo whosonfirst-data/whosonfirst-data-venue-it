@@ -2,13 +2,14 @@
   "id": 286602865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.658357,44.737831,10.658357,44.737831",
     "geom:latitude":44.737831,
     "geom:longitude":10.658357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Zoboli Filippo 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286602865,
-    "wof:lastmodified":1449016573,
+    "wof:lastmodified":1466293962,
     "wof:name":"Xanadu (s.p.a.)",
     "wof:parent_id":85904899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.658357,44.737831,10.658357,44.737831],
+  "bbox": [
+    10.658357,
+    44.737831,
+    10.658357,
+    44.737831
+],
   "geometry": {"coordinates":[10.658357,44.737831],"type":"Point"}
 }

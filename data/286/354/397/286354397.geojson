@@ -2,13 +2,14 @@
   "id": 286354397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.601056,45.649498,9.601056,45.649498",
     "geom:latitude":45.649498,
     "geom:longitude":9.601056,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24044 Dalmine",
     "sg:city":"Dalmine",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286354397,
-    "wof:lastmodified":1449017765,
+    "wof:lastmodified":1466290759,
     "wof:name":"Vitali Virginio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.601056,45.649498,9.601056,45.649498],
+  "bbox": [
+    9.601056,
+    45.649498,
+    9.601056,
+    45.649498
+],
   "geometry": {"coordinates":[9.601056,45.649498],"type":"Point"}
 }

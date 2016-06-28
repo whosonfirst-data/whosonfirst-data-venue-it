@@ -2,13 +2,14 @@
   "id": 286817497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.650866,44.718899,10.650866,44.718899",
     "geom:latitude":44.718899,
     "geom:longitude":10.650866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Telecomunicazioni Impianti Ed Apparecchi - Produzione E Ingrosso",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286817497,
-    "wof:lastmodified":1449017550,
+    "wof:lastmodified":1466296503,
     "wof:name":"Tel-cab Srl",
     "wof:parent_id":85904899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.650866,44.718899,10.650866,44.718899],
+  "bbox": [
+    10.650866,
+    44.718899,
+    10.650866,
+    44.718899
+],
   "geometry": {"coordinates":[10.650866,44.718899],"type":"Point"}
 }

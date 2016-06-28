@@ -2,13 +2,14 @@
   "id": 269598783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.854115,43.192539,11.854115,43.192539",
     "geom:latitude":43.192539,
     "geom:longitude":11.854115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52044 Cortona",
     "sg:city":"Cortona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269598783,
-    "wof:lastmodified":1449036252,
+    "wof:lastmodified":1466290306,
     "wof:name":"Toscolegnami Di Checconi Silvano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.854115,43.192539,11.854115,43.192539],
+  "bbox": [
+    11.854115,
+    43.192539,
+    11.854115,
+    43.192539
+],
   "geometry": {"coordinates":[11.854115,43.192539],"type":"Point"}
 }

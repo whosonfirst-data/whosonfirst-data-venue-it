@@ -2,13 +2,14 @@
   "id": 186037903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.846577,45.892212,10.846577,45.892212",
     "geom:latitude":45.892212,
     "geom:longitude":10.846577,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Trento; Riva Del Garda; 38066",
     "sg:city":"Riva del Garda",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186037903,
-    "wof:lastmodified":1449053070,
+    "wof:lastmodified":1466294799,
     "wof:name":"Cassa Rurale Di Arco",
     "wof:parent_id":85900359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.846577,45.892212,10.846577,45.892212],
+  "bbox": [
+    10.846577,
+    45.892212,
+    10.846577,
+    45.892212
+],
   "geometry": {"coordinates":[10.846577,45.892212],"type":"Point"}
 }

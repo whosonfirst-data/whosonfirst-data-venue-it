@@ -2,13 +2,14 @@
   "id": 202947269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.420109,43.229942,11.420109,43.229942",
     "geom:latitude":43.229942,
     "geom:longitude":11.420109,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53022 Buonconvento",
     "sg:city":"Buonconvento",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202947269,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466293696,
     "wof:name":"La Dolce Vita Di Pianigiani L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.420109,43.229942,11.420109,43.229942],
+  "bbox": [
+    11.420109,
+    43.229942,
+    11.420109,
+    43.229942
+],
   "geometry": {"coordinates":[11.420109,43.229942],"type":"Point"}
 }

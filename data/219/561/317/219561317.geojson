@@ -2,13 +2,14 @@
   "id": 219561317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.657769,45.453434,10.657769,45.453434",
     "geom:latitude":45.453434,
     "geom:longitude":10.657769,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37019 Peschiera Del Garda",
     "sg:city":"Peschiera del Garda",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219561317,
-    "wof:lastmodified":1449072903,
+    "wof:lastmodified":1466291937,
     "wof:name":"Hotel Ristorante Belvedere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "restaurants"
     ]
 },
-  "bbox": [10.657769,45.453434,10.657769,45.453434],
+  "bbox": [
+    10.657769,
+    45.453434,
+    10.657769,
+    45.453434
+],
   "geometry": {"coordinates":[10.657769,45.453434],"type":"Point"}
 }

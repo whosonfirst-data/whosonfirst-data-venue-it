@@ -2,13 +2,14 @@
   "id": 220108057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.530168,44.379635,7.530168,44.379635",
     "geom:latitude":44.379635,
     "geom:longitude":7.530168,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"233, Corso Francia S. Rocco C. 12100 Cuneo",
     "sg:city":"Cuneo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220108057,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466296340,
     "wof:name":"Andreis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [7.530168,44.379635,7.530168,44.379635],
+  "bbox": [
+    7.530168,
+    44.379635,
+    7.530168,
+    44.379635
+],
   "geometry": {"coordinates":[7.530168,44.379635],"type":"Point"}
 }

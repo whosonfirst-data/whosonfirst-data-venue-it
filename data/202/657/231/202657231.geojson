@@ -2,13 +2,14 @@
   "id": 202657231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.807235,42.137844,12.807235,42.137844",
     "geom:latitude":42.137844,
     "geom:longitude":12.807235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00100 Roma",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Ausiliari Dei Mezzi Di Trasporto",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202657231,
-    "wof:lastmodified":1449060391,
+    "wof:lastmodified":1466290611,
     "wof:name":"Carrozzeria Poker D'assi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.807235,42.137844,12.807235,42.137844],
+  "bbox": [
+    12.807235,
+    42.137844,
+    12.807235,
+    42.137844
+],
   "geometry": {"coordinates":[12.807235,42.137844],"type":"Point"}
 }

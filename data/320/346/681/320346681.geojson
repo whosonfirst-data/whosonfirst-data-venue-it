@@ -2,13 +2,14 @@
   "id": 320346681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.521315,45.607029,9.521315,45.607029",
     "geom:latitude":45.607029,
     "geom:longitude":9.521315,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20056 Trezzo Sull'adda",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Abbigliamento E Pelletterie",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320346681,
-    "wof:lastmodified":1449011242,
+    "wof:lastmodified":1466297151,
     "wof:name":"Carrera Gianluigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.521315,45.607029,9.521315,45.607029],
+  "bbox": [
+    9.521315,
+    45.607029,
+    9.521315,
+    45.607029
+],
   "geometry": {"coordinates":[9.521315,45.607029],"type":"Point"}
 }

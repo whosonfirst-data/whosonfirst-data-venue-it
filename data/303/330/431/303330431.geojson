@@ -2,13 +2,14 @@
   "id": 303330431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.254025,45.476833,9.254025,45.476833",
     "geom:latitude":45.476833,
     "geom:longitude":9.254025,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rubattino Raffaele 54 20134 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303330431,
-    "wof:lastmodified":1448999336,
+    "wof:lastmodified":1466294603,
     "wof:name":"Cesi Centro Elettrotecnico Sperimentale Italiano Giacinto Motta Spa",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tester"
     ]
 },
-  "bbox": [9.254025,45.476833,9.254025,45.476833],
+  "bbox": [
+    9.254025,
+    45.476833,
+    9.254025,
+    45.476833
+],
   "geometry": {"coordinates":[9.254025,45.476833],"type":"Point"}
 }

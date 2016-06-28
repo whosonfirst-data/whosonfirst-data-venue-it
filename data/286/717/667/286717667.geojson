@@ -2,13 +2,14 @@
   "id": 286717667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.182715,45.467415,9.182715,45.467415",
     "geom:latitude":45.467415,
     "geom:longitude":9.182715,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286717667,
-    "wof:lastmodified":1449015231,
+    "wof:lastmodified":1466295427,
     "wof:name":"Studio Dottori Commercialisti Associati Di Bestetti E Cattaneo",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.182715,45.467415,9.182715,45.467415],
+  "bbox": [
+    9.182715,
+    45.467415,
+    9.182715,
+    45.467415
+],
   "geometry": {"coordinates":[9.182715,45.467415],"type":"Point"}
 }

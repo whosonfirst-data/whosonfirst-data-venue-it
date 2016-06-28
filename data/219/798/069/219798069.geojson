@@ -2,13 +2,14 @@
   "id": 219798069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.613933,44.729206,10.613933,44.729206",
     "geom:latitude":44.729206,
     "geom:longitude":10.613933,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Denti 7 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219798069,
-    "wof:lastmodified":1449071053,
+    "wof:lastmodified":1466294258,
     "wof:name":"Termogomma Srl",
     "wof:parent_id":85904891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bonded"
     ]
 },
-  "bbox": [10.613933,44.729206,10.613933,44.729206],
+  "bbox": [
+    10.613933,
+    44.729206,
+    10.613933,
+    44.729206
+],
   "geometry": {"coordinates":[10.613933,44.729206],"type":"Point"}
 }

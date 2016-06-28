@@ -2,13 +2,14 @@
   "id": 219250609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.963668,43.76672,12.963668,43.76672",
     "geom:latitude":43.76672,
     "geom:longitude":12.963668,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Metauro 2 61030 Cartoceto",
     "sg:city":"Cartoceto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219250609,
-    "wof:lastmodified":1449072391,
+    "wof:lastmodified":1466296150,
     "wof:name":"S.e.v. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "design"
     ]
 },
-  "bbox": [12.963668,43.76672,12.963668,43.76672],
+  "bbox": [
+    12.963668,
+    43.76672,
+    12.963668,
+    43.76672
+],
   "geometry": {"coordinates":[12.963668,43.76672],"type":"Point"}
 }

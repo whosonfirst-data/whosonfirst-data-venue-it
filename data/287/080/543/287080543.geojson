@@ -2,13 +2,14 @@
   "id": 287080543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.120799,39.213165,9.120799,39.213165",
     "geom:latitude":39.213165,
     "geom:longitude":9.120799,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09125 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287080543,
-    "wof:lastmodified":1449001570,
+    "wof:lastmodified":1466290665,
     "wof:name":"Tre O Di Oggianu Gianluca & C. Snc",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "public"
     ]
 },
-  "bbox": [9.120799,39.213165,9.120799,39.213165],
+  "bbox": [
+    9.120799,
+    39.213165,
+    9.120799,
+    39.213165
+],
   "geometry": {"coordinates":[9.120799,39.213165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219522615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.831527,45.768669,8.831527,45.768669",
     "geom:latitude":45.768669,
     "geom:longitude":8.831527,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21020 Brebbia",
     "sg:city":"Brebbia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219522615,
-    "wof:lastmodified":1449072072,
+    "wof:lastmodified":1466291599,
     "wof:name":"Brebbia Daniela",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.831527,45.768669,8.831527,45.768669],
+  "bbox": [
+    8.831527,
+    45.768669,
+    8.831527,
+    45.768669
+],
   "geometry": {"coordinates":[8.831527,45.768669],"type":"Point"}
 }

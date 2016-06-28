@@ -2,13 +2,14 @@
   "id": 220001815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.36525,44.300377,9.36525,44.300377",
     "geom:latitude":44.300377,
     "geom:longitude":9.36525,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16033 Lavagna",
     "sg:city":"Lavagna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220001815,
-    "wof:lastmodified":1449074226,
+    "wof:lastmodified":1466290814,
     "wof:name":"Ditta Zoagli Divers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.36525,44.300377,9.36525,44.300377],
+  "bbox": [
+    9.36525,
+    44.300377,
+    9.36525,
+    44.300377
+],
   "geometry": {"coordinates":[9.36525,44.300377],"type":"Point"}
 }

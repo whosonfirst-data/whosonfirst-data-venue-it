@@ -2,13 +2,14 @@
   "id": 303178461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.335184,45.572803,9.335184,45.572803",
     "geom:latitude":45.572803,
     "geom:longitude":9.335184,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20041 Agrate Brianza",
     "sg:city":"Agrate Brianza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303178461,
-    "wof:lastmodified":1448999871,
+    "wof:lastmodified":1466292676,
     "wof:name":"Magnet Schultz Italia (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.335184,45.572803,9.335184,45.572803],
+  "bbox": [
+    9.335184,
+    45.572803,
+    9.335184,
+    45.572803
+],
   "geometry": {"coordinates":[9.335184,45.572803],"type":"Point"}
 }

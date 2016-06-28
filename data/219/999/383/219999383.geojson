@@ -2,13 +2,14 @@
   "id": 219999383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.340225,43.07251,12.340225,43.07251",
     "geom:latitude":43.07251,
     "geom:longitude":12.340225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06132 Perugia",
     "sg:city":"Perugia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219999383,
-    "wof:lastmodified":1449073477,
+    "wof:lastmodified":1466296372,
     "wof:name":"Costruttori Edili Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.340225,43.07251,12.340225,43.07251],
+  "bbox": [
+    12.340225,
+    43.07251,
+    12.340225,
+    43.07251
+],
   "geometry": {"coordinates":[12.340225,43.07251],"type":"Point"}
 }

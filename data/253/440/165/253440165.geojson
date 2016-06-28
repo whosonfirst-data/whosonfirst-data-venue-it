@@ -2,13 +2,14 @@
   "id": 253440165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.069486,45.472088,9.069486,45.472088",
     "geom:latitude":45.472088,
     "geom:longitude":9.069486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253440165,
-    "wof:lastmodified":1449063879,
+    "wof:lastmodified":1466293876,
     "wof:name":"Officine Donadon",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.069486,45.472088,9.069486,45.472088],
+  "bbox": [
+    9.069486,
+    45.472088,
+    9.069486,
+    45.472088
+],
   "geometry": {"coordinates":[9.069486,45.472088],"type":"Point"}
 }

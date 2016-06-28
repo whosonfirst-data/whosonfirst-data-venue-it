@@ -2,13 +2,14 @@
   "id": 270288421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.567037,44.679871,7.567037,44.679871",
     "geom:latitude":44.679871,
     "geom:longitude":7.567037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12030 Scarnafigi",
     "sg:city":"Scarnafigi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270288421,
-    "wof:lastmodified":1449008903,
+    "wof:lastmodified":1466292460,
     "wof:name":"Pack Service Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.567037,44.679871,7.567037,44.679871],
+  "bbox": [
+    7.567037,
+    44.679871,
+    7.567037,
+    44.679871
+],
   "geometry": {"coordinates":[7.567037,44.679871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319869439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.868813,37.559101,14.868813,37.559101",
     "geom:latitude":37.559101,
     "geom:longitude":14.868813,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95047 Paterno'",
     "sg:classifiers":[],
     "sg:orig_category":"Automazione E Macchine Per Ufficio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319869439,
-    "wof:lastmodified":1449024820,
+    "wof:lastmodified":1466293103,
     "wof:name":"Camu 2 Di Giovanni Messina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.868813,37.559101,14.868813,37.559101],
+  "bbox": [
+    14.868813,
+    37.559101,
+    14.868813,
+    37.559101
+],
   "geometry": {"coordinates":[14.868813,37.559101],"type":"Point"}
 }

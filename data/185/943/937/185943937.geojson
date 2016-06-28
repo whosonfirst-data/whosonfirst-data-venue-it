@@ -2,13 +2,14 @@
   "id": 185943937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.177151,45.467503,9.177151,45.467503",
     "geom:latitude":45.467503,
     "geom:longitude":9.177151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazzale Cadorna 5/7, 20121 Milan, Mi",
     "sg:classifiers":[
         {
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185943937,
-    "wof:lastmodified":1449007033,
+    "wof:lastmodified":1466290404,
     "wof:name":"Caboto Intesabci Sim Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.177151,45.467503,9.177151,45.467503],
+  "bbox": [
+    9.177151,
+    45.467503,
+    9.177151,
+    45.467503
+],
   "geometry": {"coordinates":[9.177151,45.467503],"type":"Point"}
 }

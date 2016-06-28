@@ -2,13 +2,14 @@
   "id": 202824021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.065621,45.816448,9.065621,45.816448",
     "geom:latitude":45.816448,
     "geom:longitude":9.065621,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202824021,
-    "wof:lastmodified":1449061009,
+    "wof:lastmodified":1466292452,
     "wof:name":"Compagnia Delle Opere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.065621,45.816448,9.065621,45.816448],
+  "bbox": [
+    9.065621,
+    45.816448,
+    9.065621,
+    45.816448
+],
   "geometry": {"coordinates":[9.065621,45.816448],"type":"Point"}
 }

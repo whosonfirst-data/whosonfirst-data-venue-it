@@ -2,13 +2,14 @@
   "id": 219258789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.915909,45.533009,9.915909,45.533009",
     "geom:latitude":45.533009,
     "geom:longitude":9.915909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro Artigiano 13/15 25032 Chiari",
     "sg:city":"Chiari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219258789,
-    "wof:lastmodified":1449073211,
+    "wof:lastmodified":1466296237,
     "wof:name":"Linear S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.915909,45.533009,9.915909,45.533009],
+  "bbox": [
+    9.915909,
+    45.533009,
+    9.915909,
+    45.533009
+],
   "geometry": {"coordinates":[9.915909,45.533009],"type":"Point"}
 }

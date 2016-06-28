@@ -2,13 +2,14 @@
   "id": 236967673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.007072,45.485542,9.007072,45.485542",
     "geom:latitude":45.485542,
     "geom:longitude":9.007072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Milano, 29/35 20010 Vittuone",
     "sg:city":"Vittuone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236967673,
-    "wof:lastmodified":1449004958,
+    "wof:lastmodified":1466297465,
     "wof:name":"C.m.l.l. Srl",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shear"
     ]
 },
-  "bbox": [9.007072,45.485542,9.007072,45.485542],
+  "bbox": [
+    9.007072,
+    45.485542,
+    9.007072,
+    45.485542
+],
   "geometry": {"coordinates":[9.007072,45.485542],"type":"Point"}
 }

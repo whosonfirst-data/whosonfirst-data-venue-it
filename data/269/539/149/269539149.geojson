@@ -2,13 +2,14 @@
   "id": 269539149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.757231,43.256321,13.757231,43.256321",
     "geom:latitude":43.256321,
     "geom:longitude":13.757231,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Via Adige 63018 Porto Sant'elpidio",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269539149,
-    "wof:lastmodified":1449039028,
+    "wof:lastmodified":1466289579,
     "wof:name":"Cognigni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.757231,43.256321,13.757231,43.256321],
+  "bbox": [
+    13.757231,
+    43.256321,
+    13.757231,
+    43.256321
+],
   "geometry": {"coordinates":[13.757231,43.256321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219259261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.061442,37.494968,14.061442,37.494968",
     "geom:latitude":37.494968,
     "geom:longitude":14.061442,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gabriele Amico Valenti 127 93100 Caltanissetta",
     "sg:city":"Caltanissetta",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219259261,
-    "wof:lastmodified":1449071193,
+    "wof:lastmodified":1466296232,
     "wof:name":"Mediterr Shock Absorbers Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.061442,37.494968,14.061442,37.494968],
+  "bbox": [
+    14.061442,
+    37.494968,
+    14.061442,
+    37.494968
+],
   "geometry": {"coordinates":[14.061442,37.494968],"type":"Point"}
 }

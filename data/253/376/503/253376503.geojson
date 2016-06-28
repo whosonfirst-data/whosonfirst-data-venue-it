@@ -2,13 +2,14 @@
   "id": 253376503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.420605,43.999683,12.420605,43.999683",
     "geom:latitude":43.999683,
     "geom:longitude":12.420605,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"391, Via Del Tesoro 47826 Verucchio",
     "sg:city":"Verucchio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253376503,
-    "wof:lastmodified":1449063835,
+    "wof:lastmodified":1466293139,
     "wof:name":"Brigliadori S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.420605,43.999683,12.420605,43.999683],
+  "bbox": [
+    12.420605,
+    43.999683,
+    12.420605,
+    43.999683
+],
   "geometry": {"coordinates":[12.420605,43.999683],"type":"Point"}
 }

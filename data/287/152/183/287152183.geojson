@@ -2,13 +2,14 @@
   "id": 287152183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.875153,45.403645,11.875153,45.403645",
     "geom:latitude":45.403645,
     "geom:longitude":11.875153,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35011 Campodarsego",
     "sg:city":"Campodarsego",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287152183,
-    "wof:lastmodified":1449001350,
+    "wof:lastmodified":1466291611,
     "wof:name":"Maran Angelo & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.875153,45.403645,11.875153,45.403645],
+  "bbox": [
+    11.875153,
+    45.403645,
+    11.875153,
+    45.403645
+],
   "geometry": {"coordinates":[11.875153,45.403645],"type":"Point"}
 }

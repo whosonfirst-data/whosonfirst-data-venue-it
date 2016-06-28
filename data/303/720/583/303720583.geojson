@@ -2,13 +2,14 @@
   "id": 303720583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.758701,45.577858,9.758701,45.577858",
     "geom:latitude":45.577858,
     "geom:longitude":9.758701,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24057 Martinengo",
     "sg:city":"Martinengo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303720583,
-    "wof:lastmodified":1448998695,
+    "wof:lastmodified":1466297560,
     "wof:name":"Eco.si.t.i.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.758701,45.577858,9.758701,45.577858],
+  "bbox": [
+    9.758701,
+    45.577858,
+    9.758701,
+    45.577858
+],
   "geometry": {"coordinates":[9.758701,45.577858],"type":"Point"}
 }

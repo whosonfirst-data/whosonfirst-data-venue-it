@@ -2,13 +2,14 @@
   "id": 303671305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.389172,43.110703,12.389172,43.110703",
     "geom:latitude":43.110703,
     "geom:longitude":12.389172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06016 S.giustino",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamenti In Stile E D'epoca",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303671305,
-    "wof:lastmodified":1448998674,
+    "wof:lastmodified":1466297581,
     "wof:name":"O. & P. Srl Mobili",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.389172,43.110703,12.389172,43.110703],
+  "bbox": [
+    12.389172,
+    43.110703,
+    12.389172,
+    43.110703
+],
   "geometry": {"coordinates":[12.389172,43.110703],"type":"Point"}
 }

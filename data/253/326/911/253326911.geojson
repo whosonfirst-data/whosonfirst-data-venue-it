@@ -2,13 +2,14 @@
   "id": 253326911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.556469,40.732929,17.556469,40.732929",
     "geom:latitude":40.732929,
     "geom:longitude":17.556469,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72017 Ostuni",
     "sg:city":"Ostuni",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253326911,
-    "wof:lastmodified":1449064086,
+    "wof:lastmodified":1466292582,
     "wof:name":"La Nostra Famiglia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.556469,40.732929,17.556469,40.732929],
+  "bbox": [
+    17.556469,
+    40.732929,
+    17.556469,
+    40.732929
+],
   "geometry": {"coordinates":[17.556469,40.732929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303769561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63448,45.077408,7.63448,45.077408",
     "geom:latitude":45.077408,
     "geom:longitude":7.63448,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10146 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303769561,
-    "wof:lastmodified":1448998928,
+    "wof:lastmodified":1466297754,
     "wof:name":"Bersano Sergio",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63448,45.077408,7.63448,45.077408],
+  "bbox": [
+    7.63448,
+    45.077408,
+    7.63448,
+    45.077408
+],
   "geometry": {"coordinates":[7.63448,45.077408],"type":"Point"}
 }

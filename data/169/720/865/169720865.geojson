@@ -2,13 +2,14 @@
   "id": 169720865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.47165,45.679249,11.47165,45.679249",
     "geom:latitude":45.679249,
     "geom:longitude":11.47165,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell' Astronautica 2 36016 Thiene",
     "sg:city":"Thiene",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169720865,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1466294336,
     "wof:name":"Mac Pan Di Marcante Ottorino & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bakery"
     ]
 },
-  "bbox": [11.47165,45.679249,11.47165,45.679249],
+  "bbox": [
+    11.47165,
+    45.679249,
+    11.47165,
+    45.679249
+],
   "geometry": {"coordinates":[11.47165,45.679249],"type":"Point"}
 }

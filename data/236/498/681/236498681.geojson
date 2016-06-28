@@ -2,13 +2,14 @@
   "id": 236498681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.548604,43.086208,11.548604,43.086208",
     "geom:latitude":43.086208,
     "geom:longitude":11.548604,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Romana 7 53024 Montalcino",
     "sg:city":"Montalcino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236498681,
-    "wof:lastmodified":1449004284,
+    "wof:lastmodified":1466294047,
     "wof:name":"Sils Laterizi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hollow"
     ]
 },
-  "bbox": [11.548604,43.086208,11.548604,43.086208],
+  "bbox": [
+    11.548604,
+    43.086208,
+    11.548604,
+    43.086208
+],
   "geometry": {"coordinates":[11.548604,43.086208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303692123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.583955,42.132099,12.583955,42.132099",
     "geom:latitude":42.132099,
     "geom:longitude":12.583955,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00065 Fiano Romano",
     "sg:city":"Fiano Romano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303692123,
-    "wof:lastmodified":1448998760,
+    "wof:lastmodified":1466297574,
     "wof:name":"Vgm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.583955,42.132099,12.583955,42.132099],
+  "bbox": [
+    12.583955,
+    42.132099,
+    12.583955,
+    42.132099
+],
   "geometry": {"coordinates":[12.583955,42.132099],"type":"Point"}
 }

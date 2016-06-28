@@ -2,13 +2,14 @@
   "id": 286770003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.37501,45.817623,9.37501,45.817623",
     "geom:latitude":45.817623,
     "geom:longitude":9.37501,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23851 Galbiate",
     "sg:city":"Galbiate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286770003,
-    "wof:lastmodified":1449018142,
+    "wof:lastmodified":1466296101,
     "wof:name":"Spreafico Ernesto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.37501,45.817623,9.37501,45.817623],
+  "bbox": [
+    9.37501,
+    45.817623,
+    9.37501,
+    45.817623
+],
   "geometry": {"coordinates":[9.37501,45.817623],"type":"Point"}
 }

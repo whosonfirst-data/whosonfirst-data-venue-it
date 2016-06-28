@@ -2,13 +2,14 @@
   "id": 253385925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.361505,46.500389,11.361505,46.500389",
     "geom:latitude":46.500389,
     "geom:longitude":11.361505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Brennero 39055 Laives",
     "sg:city":"Laives",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253385925,
-    "wof:lastmodified":1449064570,
+    "wof:lastmodified":1466293247,
     "wof:name":"Holzland Vaia S.a.s. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [11.361505,46.500389,11.361505,46.500389],
+  "bbox": [
+    11.361505,
+    46.500389,
+    11.361505,
+    46.500389
+],
   "geometry": {"coordinates":[11.361505,46.500389],"type":"Point"}
 }

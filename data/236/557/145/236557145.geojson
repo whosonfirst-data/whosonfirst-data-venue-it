@@ -2,13 +2,14 @@
   "id": 236557145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.703274,45.757915,11.703274,45.757915",
     "geom:latitude":45.757915,
     "geom:longitude":11.703274,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Marchesane 36061 Bassano Del Grappa",
     "sg:city":"Bassano del Grappa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236557145,
-    "wof:lastmodified":1449004108,
+    "wof:lastmodified":1466294630,
     "wof:name":"Caroli & Lunardon (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.703274,45.757915,11.703274,45.757915],
+  "bbox": [
+    11.703274,
+    45.757915,
+    11.703274,
+    45.757915
+],
   "geometry": {"coordinates":[11.703274,45.757915],"type":"Point"}
 }

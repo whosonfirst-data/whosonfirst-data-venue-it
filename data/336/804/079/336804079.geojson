@@ -2,13 +2,14 @@
   "id": 336804079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.606958,45.813908,9.606958,45.813908",
     "geom:latitude":45.813908,
     "geom:longitude":9.606958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Magnavacche 24012 Brembilla",
     "sg:city":"Brembilla",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336804079,
-    "wof:lastmodified":1448997681,
+    "wof:lastmodified":1466296166,
     "wof:name":"Vi.to.mec. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.606958,45.813908,9.606958,45.813908],
+  "bbox": [
+    9.606958,
+    45.813908,
+    9.606958,
+    45.813908
+],
   "geometry": {"coordinates":[9.606958,45.813908],"type":"Point"}
 }

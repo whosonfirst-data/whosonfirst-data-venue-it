@@ -2,13 +2,14 @@
   "id": 202912355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.13503,45.328667,9.13503,45.328667",
     "geom:latitude":45.328667,
     "geom:longitude":9.13503,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20080 Casarile",
     "sg:city":"Casarile",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202912355,
-    "wof:lastmodified":1449061376,
+    "wof:lastmodified":1466293348,
     "wof:name":"Moscaritolo Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.13503,45.328667,9.13503,45.328667],
+  "bbox": [
+    9.13503,
+    45.328667,
+    9.13503,
+    45.328667
+],
   "geometry": {"coordinates":[9.13503,45.328667],"type":"Point"}
 }

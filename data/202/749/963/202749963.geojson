@@ -2,13 +2,14 @@
   "id": 202749963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.655038,42.565125,12.655038,42.565125",
     "geom:latitude":42.565125,
     "geom:longitude":12.655038,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"05100 Terni",
     "sg:city":"Terni",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202749963,
-    "wof:lastmodified":1449060846,
+    "wof:lastmodified":1466291585,
     "wof:name":"Agenzia Funebre Ternana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.655038,42.565125,12.655038,42.565125],
+  "bbox": [
+    12.655038,
+    42.565125,
+    12.655038,
+    42.565125
+],
   "geometry": {"coordinates":[12.655038,42.565125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236500535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.026135,45.133499,10.026135,45.133499",
     "geom:latitude":45.133499,
     "geom:longitude":10.026135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Del Santuario 10 26041 Casalmaggiore",
     "sg:city":"Casalmaggiore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236500535,
-    "wof:lastmodified":1449002297,
+    "wof:lastmodified":1466294067,
     "wof:name":"Eridaneo Di Anversa Walter & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "textile"
     ]
 },
-  "bbox": [10.026135,45.133499,10.026135,45.133499],
+  "bbox": [
+    10.026135,
+    45.133499,
+    10.026135,
+    45.133499
+],
   "geometry": {"coordinates":[10.026135,45.133499],"type":"Point"}
 }

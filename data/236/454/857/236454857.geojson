@@ -2,13 +2,14 @@
   "id": 236454857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.601745,44.668636,10.601745,44.668636",
     "geom:latitude":44.668636,
     "geom:longitude":10.601745,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236454857,
-    "wof:lastmodified":1449004873,
+    "wof:lastmodified":1466293573,
     "wof:name":"Magnavacchi Snc Di Magnavacchi Erasmo & C.",
     "wof:parent_id":85904885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineering"
     ]
 },
-  "bbox": [10.601745,44.668636,10.601745,44.668636],
+  "bbox": [
+    10.601745,
+    44.668636,
+    10.601745,
+    44.668636
+],
   "geometry": {"coordinates":[10.601745,44.668636],"type":"Point"}
 }

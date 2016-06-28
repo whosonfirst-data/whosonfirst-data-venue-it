@@ -2,13 +2,14 @@
   "id": 303288425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.659421,38.233597,15.659421,38.233597",
     "geom:latitude":38.233597,
     "geom:longitude":15.659421,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"89018 Villa San Giovanni",
     "sg:city":"Villa San Giovanni",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303288425,
-    "wof:lastmodified":1448998378,
+    "wof:lastmodified":1466294076,
     "wof:name":"Actives Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "works"
     ]
 },
-  "bbox": [15.659421,38.233597,15.659421,38.233597],
+  "bbox": [
+    15.659421,
+    38.233597,
+    15.659421,
+    38.233597
+],
   "geometry": {"coordinates":[15.659421,38.233597],"type":"Point"}
 }

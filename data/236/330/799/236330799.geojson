@@ -2,13 +2,14 @@
   "id": 236330799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.903845,37.669163,14.903845,37.669163",
     "geom:latitude":37.669163,
     "geom:longitude":14.903845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95033 Biancavilla",
     "sg:city":"Biancavilla",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236330799,
-    "wof:lastmodified":1449003271,
+    "wof:lastmodified":1466292253,
     "wof:name":"Le Carezze Di Bianca Di Mursia Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.903845,37.669163,14.903845,37.669163],
+  "bbox": [
+    14.903845,
+    37.669163,
+    14.903845,
+    37.669163
+],
   "geometry": {"coordinates":[14.903845,37.669163],"type":"Point"}
 }

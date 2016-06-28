@@ -2,13 +2,14 @@
   "id": 320031637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.22562,45.484329,9.22562,45.484329",
     "geom:latitude":45.484329,
     "geom:longitude":9.22562,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320031637,
-    "wof:lastmodified":1449012667,
+    "wof:lastmodified":1466293786,
     "wof:name":"Vdm Italia (s.r.l.)",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.22562,45.484329,9.22562,45.484329],
+  "bbox": [
+    9.22562,
+    45.484329,
+    9.22562,
+    45.484329
+],
   "geometry": {"coordinates":[9.22562,45.484329],"type":"Point"}
 }

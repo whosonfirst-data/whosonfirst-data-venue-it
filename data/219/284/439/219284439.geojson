@@ -2,13 +2,14 @@
   "id": 219284439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.797698,45.160366,10.797698,45.160366",
     "geom:latitude":45.160366,
     "geom:longitude":10.797698,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Veneto 6a-b 46029 Suzzara",
     "sg:city":"Suzzara",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219284439,
-    "wof:lastmodified":1449072586,
+    "wof:lastmodified":1466289142,
     "wof:name":"Agriexport Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [10.797698,45.160366,10.797698,45.160366],
+  "bbox": [
+    10.797698,
+    45.160366,
+    10.797698,
+    45.160366
+],
   "geometry": {"coordinates":[10.797698,45.160366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270262717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.41674,42.246887,14.41674,42.246887",
     "geom:latitude":42.246887,
     "geom:longitude":14.41674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66030 Treglio",
     "sg:city":"Treglio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270262717,
-    "wof:lastmodified":1449010154,
+    "wof:lastmodified":1466292146,
     "wof:name":"Battistini Usato Sicuro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [14.41674,42.246887,14.41674,42.246887],
+  "bbox": [
+    14.41674,
+    42.246887,
+    14.41674,
+    42.246887
+],
   "geometry": {"coordinates":[14.41674,42.246887],"type":"Point"}
 }

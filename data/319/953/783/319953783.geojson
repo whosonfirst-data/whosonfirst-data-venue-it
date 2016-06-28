@@ -2,13 +2,14 @@
   "id": 319953783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.564174,41.915379,12.564174,41.915379",
     "geom:latitude":41.915379,
     "geom:longitude":12.564174,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00155 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319953783,
-    "wof:lastmodified":1449024610,
+    "wof:lastmodified":1466294227,
     "wof:name":"Truck Service Srl",
     "wof:parent_id":85904925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.564174,41.915379,12.564174,41.915379],
+  "bbox": [
+    12.564174,
+    41.915379,
+    12.564174,
+    41.915379
+],
   "geometry": {"coordinates":[12.564174,41.915379],"type":"Point"}
 }

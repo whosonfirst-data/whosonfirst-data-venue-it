@@ -2,13 +2,14 @@
   "id": 219208357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.653786,45.505024,9.653786,45.505024",
     "geom:latitude":45.505024,
     "geom:longitude":9.653786,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24043 Caravaggio",
     "sg:city":"Caravaggio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219208357,
-    "wof:lastmodified":1449070804,
+    "wof:lastmodified":1466295364,
     "wof:name":"Il Caff\u00c9 Del Viale Di Radaelli Annamaria & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.653786,45.505024,9.653786,45.505024],
+  "bbox": [
+    9.653786,
+    45.505024,
+    9.653786,
+    45.505024
+],
   "geometry": {"coordinates":[9.653786,45.505024],"type":"Point"}
 }

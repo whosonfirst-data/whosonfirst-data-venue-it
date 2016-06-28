@@ -2,13 +2,14 @@
   "id": 270141249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.733683,38.174973,12.733683,38.174973",
     "geom:latitude":38.174973,
     "geom:longitude":12.733683,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91010 San Vito Lo Capo",
     "sg:city":"San Vito Lo Capo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270141249,
-    "wof:lastmodified":1449009494,
+    "wof:lastmodified":1466290671,
     "wof:name":"La Noria Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "facility"
     ]
 },
-  "bbox": [12.733683,38.174973,12.733683,38.174973],
+  "bbox": [
+    12.733683,
+    38.174973,
+    12.733683,
+    38.174973
+],
   "geometry": {"coordinates":[12.733683,38.174973],"type":"Point"}
 }

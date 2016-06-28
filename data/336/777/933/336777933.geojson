@@ -2,13 +2,14 @@
   "id": 336777933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.243839,45.56181,9.243839,45.56181",
     "geom:latitude":45.56181,
     "geom:longitude":9.243839,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Casignolo 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336777933,
-    "wof:lastmodified":1448997518,
+    "wof:lastmodified":1466295857,
     "wof:name":"Sironi Zeno & C. (s.n.c.)",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.243839,45.56181,9.243839,45.56181],
+  "bbox": [
+    9.243839,
+    45.56181,
+    9.243839,
+    45.56181
+],
   "geometry": {"coordinates":[9.243839,45.56181],"type":"Point"}
 }

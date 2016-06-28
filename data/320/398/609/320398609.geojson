@@ -2,13 +2,14 @@
   "id": 320398609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.452446,44.667557,8.452446,44.667557",
     "geom:latitude":44.667557,
     "geom:longitude":8.452446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15011 Acqui Terme",
     "sg:city":"Acqui Terme",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320398609,
-    "wof:lastmodified":1449011546,
+    "wof:lastmodified":1466297398,
     "wof:name":"Bianchin Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.452446,44.667557,8.452446,44.667557],
+  "bbox": [
+    8.452446,
+    44.667557,
+    8.452446,
+    44.667557
+],
   "geometry": {"coordinates":[8.452446,44.667557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304038049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.214389,42.262352,12.214389,42.262352",
     "geom:latitude":42.262352,
     "geom:longitude":12.214389,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01015 Sutri",
     "sg:city":"Sutri",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304038049,
-    "wof:lastmodified":1449043977,
+    "wof:lastmodified":1466292669,
     "wof:name":"Sporting Center Colle Diana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.214389,42.262352,12.214389,42.262352],
+  "bbox": [
+    12.214389,
+    42.262352,
+    12.214389,
+    42.262352
+],
   "geometry": {"coordinates":[12.214389,42.262352],"type":"Point"}
 }

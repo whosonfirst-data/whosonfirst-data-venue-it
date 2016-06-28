@@ -2,13 +2,14 @@
   "id": 269870593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.606665,44.835468,11.606665,44.835468",
     "geom:latitude":44.835468,
     "geom:longitude":11.606665,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63, Via Darsena 44100 Ferrara",
     "sg:city":"Ferrara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269870593,
-    "wof:lastmodified":1449036787,
+    "wof:lastmodified":1466293819,
     "wof:name":"Riseria Campiverdi Dante (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [11.606665,44.835468,11.606665,44.835468],
+  "bbox": [
+    11.606665,
+    44.835468,
+    11.606665,
+    44.835468
+],
   "geometry": {"coordinates":[11.606665,44.835468],"type":"Point"}
 }

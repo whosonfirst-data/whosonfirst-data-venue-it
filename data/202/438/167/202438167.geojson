@@ -2,13 +2,14 @@
   "id": 202438167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.643002,45.089897,7.643002,45.089897",
     "geom:latitude":45.089897,
     "geom:longitude":7.643002,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10073 Cirie'",
     "sg:classifiers":[],
     "sg:orig_category":"Scuole E Servizi Scolastici. Ricerca, Selezione E Formazione Del Personale",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202438167,
-    "wof:lastmodified":1449060972,
+    "wof:lastmodified":1466295545,
     "wof:name":"Istituto G. Parini Srl",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.643002,45.089897,7.643002,45.089897],
+  "bbox": [
+    7.643002,
+    45.089897,
+    7.643002,
+    45.089897
+],
   "geometry": {"coordinates":[7.643002,45.089897],"type":"Point"}
 }

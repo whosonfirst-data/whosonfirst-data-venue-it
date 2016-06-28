@@ -2,13 +2,14 @@
   "id": 252727685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.632318,44.69865,10.632318,44.69865",
     "geom:latitude":44.69865,
     "geom:longitude":10.632318,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Alta Moda E Stilisti - Boutiques",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252727685,
-    "wof:lastmodified":1449005573,
+    "wof:lastmodified":1466289117,
     "wof:name":"Sergio Boutique",
     "wof:parent_id":85904881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.632318,44.69865,10.632318,44.69865],
+  "bbox": [
+    10.632318,
+    44.69865,
+    10.632318,
+    44.69865
+],
   "geometry": {"coordinates":[10.632318,44.69865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186567603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.338784,45.434338,12.338784,45.434338",
     "geom:latitude":45.434338,
     "geom:longitude":12.338784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47/b, Via Francesco Baracca Ca' Vio 30010 Cavallino - Treporti",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186567603,
-    "wof:lastmodified":1449053045,
+    "wof:lastmodified":1466292954,
     "wof:name":"Max E Bacco Sas Di Gianelli Massimiliano & C.",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.338784,45.434338,12.338784,45.434338],
+  "bbox": [
+    12.338784,
+    45.434338,
+    12.338784,
+    45.434338
+],
   "geometry": {"coordinates":[12.338784,45.434338],"type":"Point"}
 }

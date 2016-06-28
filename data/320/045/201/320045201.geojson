@@ -2,13 +2,14 @@
   "id": 320045201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.354766,38.089684,13.354766,38.089684",
     "geom:latitude":38.089684,
     "geom:longitude":13.354766,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90124 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320045201,
-    "wof:lastmodified":1449014526,
+    "wof:lastmodified":1466293955,
     "wof:name":"Calabrese Eurotec Srl",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.354766,38.089684,13.354766,38.089684],
+  "bbox": [
+    13.354766,
+    38.089684,
+    13.354766,
+    38.089684
+],
   "geometry": {"coordinates":[13.354766,38.089684],"type":"Point"}
 }

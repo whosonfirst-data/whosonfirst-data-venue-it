@@ -2,13 +2,14 @@
   "id": 286707315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.579863,40.820923,14.579863,40.820923",
     "geom:latitude":40.820923,
     "geom:longitude":14.579863,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"78, Via Striano 84087 Sarno",
     "sg:city":"Sarno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286707315,
-    "wof:lastmodified":1449017652,
+    "wof:lastmodified":1466295299,
     "wof:name":"Pappacena Costruzioni Generali Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [14.579863,40.820923,14.579863,40.820923],
+  "bbox": [
+    14.579863,
+    40.820923,
+    14.579863,
+    40.820923
+],
   "geometry": {"coordinates":[14.579863,40.820923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220036361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.504307,43.596935,13.504307,43.596935",
     "geom:latitude":43.596935,
     "geom:longitude":13.504307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60024 Filottrano",
     "sg:city":"Filottrano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220036361,
-    "wof:lastmodified":1449074211,
+    "wof:lastmodified":1466294900,
     "wof:name":"Verolo Paolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.504307,43.596935,13.504307,43.596935],
+  "bbox": [
+    13.504307,
+    43.596935,
+    13.504307,
+    43.596935
+],
   "geometry": {"coordinates":[13.504307,43.596935],"type":"Point"}
 }

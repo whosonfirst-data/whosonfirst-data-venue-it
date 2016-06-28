@@ -2,13 +2,14 @@
   "id": 253001391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.600699,43.118286,13.600699,43.118286",
     "geom:latitude":43.118286,
     "geom:longitude":13.600699,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"87, Strada Stazione 63024 Grottazzolina",
     "sg:city":"Grottazzolina",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253001391,
-    "wof:lastmodified":1449063479,
+    "wof:lastmodified":1466288933,
     "wof:name":"Surprise Di Conti Maura & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [13.600699,43.118286,13.600699,43.118286],
+  "bbox": [
+    13.600699,
+    43.118286,
+    13.600699,
+    43.118286
+],
   "geometry": {"coordinates":[13.600699,43.118286],"type":"Point"}
 }

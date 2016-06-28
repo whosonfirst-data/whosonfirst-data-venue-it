@@ -2,13 +2,14 @@
   "id": 320290615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.233996,45.493439,9.233996,45.493439",
     "geom:latitude":45.493439,
     "geom:longitude":9.233996,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20132 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320290615,
-    "wof:lastmodified":1449012861,
+    "wof:lastmodified":1466296813,
     "wof:name":"P.m.i. (s.r.l.)",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.233996,45.493439,9.233996,45.493439],
+  "bbox": [
+    9.233996,
+    45.493439,
+    9.233996,
+    45.493439
+],
   "geometry": {"coordinates":[9.233996,45.493439],"type":"Point"}
 }

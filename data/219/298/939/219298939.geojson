@@ -2,13 +2,14 @@
   "id": 219298939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.636434,45.539341,9.636434,45.539341",
     "geom:latitude":45.539341,
     "geom:longitude":9.636434,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Treviglio 44 24053 Brignano Gera D'adda",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219298939,
-    "wof:lastmodified":1449071355,
+    "wof:lastmodified":1466289290,
     "wof:name":"Officine Meccaniche Ciocca Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "special"
     ]
 },
-  "bbox": [9.636434,45.539341,9.636434,45.539341],
+  "bbox": [
+    9.636434,
+    45.539341,
+    9.636434,
+    45.539341
+],
   "geometry": {"coordinates":[9.636434,45.539341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202790581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.197135,45.563038,10.197135,45.563038",
     "geom:latitude":45.563038,
     "geom:longitude":10.197135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25017 Lonato",
     "sg:city":"Lonato",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202790581,
-    "wof:lastmodified":1449062069,
+    "wof:lastmodified":1466292091,
     "wof:name":"Corpo Musicale Di Lonato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "il"
     ]
 },
-  "bbox": [10.197135,45.563038,10.197135,45.563038],
+  "bbox": [
+    10.197135,
+    45.563038,
+    10.197135,
+    45.563038
+],
   "geometry": {"coordinates":[10.197135,45.563038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320389591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.93924,43.931602,10.93924,43.931602",
     "geom:latitude":43.931602,
     "geom:longitude":10.93924,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51010 Massa E Cozzile",
     "sg:city":"Massa e Cozzile",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320389591,
-    "wof:lastmodified":1449014199,
+    "wof:lastmodified":1466297378,
     "wof:name":"Rotocarta Baldaccini Giampaolo Di Baldaccini Alessandro E Monica Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.93924,43.931602,10.93924,43.931602],
+  "bbox": [
+    10.93924,
+    43.931602,
+    10.93924,
+    43.931602
+],
   "geometry": {"coordinates":[10.93924,43.931602],"type":"Point"}
 }

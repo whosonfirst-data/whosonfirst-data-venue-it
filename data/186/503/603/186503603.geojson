@@ -2,13 +2,14 @@
   "id": 186503603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.64845,45.110779,7.64845,45.110779",
     "geom:latitude":45.110779,
     "geom:longitude":7.64845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"243/59, Via Sansovino 10151 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186503603,
-    "wof:lastmodified":1449053040,
+    "wof:lastmodified":1466292312,
     "wof:name":"Infos Italia S.r.l.",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [7.64845,45.110779,7.64845,45.110779],
+  "bbox": [
+    7.64845,
+    45.110779,
+    7.64845,
+    45.110779
+],
   "geometry": {"coordinates":[7.64845,45.110779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186444975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.432809,45.7188,11.432809,45.7188",
     "geom:latitude":45.7188,
     "geom:longitude":11.432809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vegri 83 36010 Zane'",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186444975,
-    "wof:lastmodified":1449052652,
+    "wof:lastmodified":1466291768,
     "wof:name":"Ronda Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [11.432809,45.7188,11.432809,45.7188],
+  "bbox": [
+    11.432809,
+    45.7188,
+    11.432809,
+    45.7188
+],
   "geometry": {"coordinates":[11.432809,45.7188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286992749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.071518,43.791569,11.071518,43.791569",
     "geom:latitude":43.791569,
     "geom:longitude":11.071518,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58, Via Montefortini 59015 Carmignano",
     "sg:city":"Carmignano",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286992749,
-    "wof:lastmodified":1449016575,
+    "wof:lastmodified":1466297517,
     "wof:name":"Allegri Roberto & Fratelli (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.071518,43.791569,11.071518,43.791569],
+  "bbox": [
+    11.071518,
+    43.791569,
+    11.071518,
+    43.791569
+],
   "geometry": {"coordinates":[11.071518,43.791569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219364499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.327121,43.493439,10.327121,43.493439",
     "geom:latitude":43.493439,
     "geom:longitude":10.327121,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57037 Portoferraio",
     "sg:city":"Portoferraio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219364499,
-    "wof:lastmodified":1449072356,
+    "wof:lastmodified":1466289960,
     "wof:name":"Euromed",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.327121,43.493439,10.327121,43.493439],
+  "bbox": [
+    10.327121,
+    43.493439,
+    10.327121,
+    43.493439
+],
   "geometry": {"coordinates":[10.327121,43.493439],"type":"Point"}
 }

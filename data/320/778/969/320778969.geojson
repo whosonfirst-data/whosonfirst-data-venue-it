@@ -2,13 +2,14 @@
   "id": 320778969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.747696,45.631756,11.747696,45.631756",
     "geom:latitude":45.631756,
     "geom:longitude":11.747696,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35014 Fontaniva",
     "sg:city":"Fontaniva",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320778969,
-    "wof:lastmodified":1449011330,
+    "wof:lastmodified":1466298007,
     "wof:name":"Zulian Fratelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.747696,45.631756,11.747696,45.631756],
+  "bbox": [
+    11.747696,
+    45.631756,
+    11.747696,
+    45.631756
+],
   "geometry": {"coordinates":[11.747696,45.631756],"type":"Point"}
 }

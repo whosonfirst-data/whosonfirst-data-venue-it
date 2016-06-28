@@ -2,13 +2,14 @@
   "id": 303869451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.869724,41.121742,16.869724,41.121742",
     "geom:latitude":41.121742,
     "geom:longitude":16.869724,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70121 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303869451,
-    "wof:lastmodified":1449000370,
+    "wof:lastmodified":1466297971,
     "wof:name":"Angil Srl Casa & Casa",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.869724,41.121742,16.869724,41.121742],
+  "bbox": [
+    16.869724,
+    41.121742,
+    16.869724,
+    41.121742
+],
   "geometry": {"coordinates":[16.869724,41.121742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185847801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.808955,45.749264,8.808955,45.749264",
     "geom:latitude":45.749264,
     "geom:longitude":8.808955,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 51; Castronno; 21040",
     "sg:city":"Castronno",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185847801,
-    "wof:lastmodified":1449007181,
+    "wof:lastmodified":1466289585,
     "wof:name":"Banca Populare Di Luino, E Di Varese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.808955,45.749264,8.808955,45.749264],
+  "bbox": [
+    8.808955,
+    45.749264,
+    8.808955,
+    45.749264
+],
   "geometry": {"coordinates":[8.808955,45.749264],"type":"Point"}
 }

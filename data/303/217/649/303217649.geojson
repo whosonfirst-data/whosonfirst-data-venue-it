@@ -2,13 +2,14 @@
   "id": 303217649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.350571,45.562325,12.350571,45.562325",
     "geom:latitude":45.562325,
     "geom:longitude":12.350571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30020 Quarto D'altino",
     "sg:classifiers":[],
     "sg:orig_category":"Elettrotecnica Professionale E Di Consumo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":303217649,
-    "wof:lastmodified":1449000420,
+    "wof:lastmodified":1466293204,
     "wof:name":"Primavera Di Battaggia Luca E Miatto Maurizio S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.350571,45.562325,12.350571,45.562325],
+  "bbox": [
+    12.350571,
+    45.562325,
+    12.350571,
+    45.562325
+],
   "geometry": {"coordinates":[12.350571,45.562325],"type":"Point"}
 }

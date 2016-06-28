@@ -2,13 +2,14 @@
   "id": 202959043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.673659,45.071716,7.673659,45.071716",
     "geom:latitude":45.071716,
     "geom:longitude":7.673659,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10122 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202959043,
-    "wof:lastmodified":1449062395,
+    "wof:lastmodified":1466293807,
     "wof:name":"Montesano Di Barbera Antonetta",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.673659,45.071716,7.673659,45.071716],
+  "bbox": [
+    7.673659,
+    45.071716,
+    7.673659,
+    45.071716
+],
   "geometry": {"coordinates":[7.673659,45.071716],"type":"Point"}
 }

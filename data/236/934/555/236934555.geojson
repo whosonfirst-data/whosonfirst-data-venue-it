@@ -2,13 +2,14 @@
   "id": 236934555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.862974,36.736912,14.862974,36.736912",
     "geom:latitude":36.736912,
     "geom:longitude":14.862974,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97016 Pozzallo",
     "sg:city":"Pozzallo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236934555,
-    "wof:lastmodified":1449001800,
+    "wof:lastmodified":1466297198,
     "wof:name":"Agosta Giuseppe & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "transport"
     ]
 },
-  "bbox": [14.862974,36.736912,14.862974,36.736912],
+  "bbox": [
+    14.862974,
+    36.736912,
+    14.862974,
+    36.736912
+],
   "geometry": {"coordinates":[14.862974,36.736912],"type":"Point"}
 }

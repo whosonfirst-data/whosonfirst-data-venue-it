@@ -2,13 +2,14 @@
   "id": 287098221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.526264,45.026897,7.526264,45.026897",
     "geom:latitude":45.026897,
     "geom:longitude":7.526264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 Rivalta Di Torino",
     "sg:city":"Rivalta di Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287098221,
-    "wof:lastmodified":1449001487,
+    "wof:lastmodified":1466290886,
     "wof:name":"Ceribelli Stefano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.526264,45.026897,7.526264,45.026897],
+  "bbox": [
+    7.526264,
+    45.026897,
+    7.526264,
+    45.026897
+],
   "geometry": {"coordinates":[7.526264,45.026897],"type":"Point"}
 }

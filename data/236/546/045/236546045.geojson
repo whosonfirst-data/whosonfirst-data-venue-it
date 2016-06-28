@@ -2,13 +2,14 @@
   "id": 236546045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.683533,43.830788,12.683533,43.830788",
     "geom:latitude":43.830788,
     "geom:longitude":12.683533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Strada Provinciale Feltresca 61020 Montecalvo In Foglia",
     "sg:city":"Montecalvo in Foglia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236546045,
-    "wof:lastmodified":1449001673,
+    "wof:lastmodified":1466294530,
     "wof:name":"Balestrieri S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.683533,43.830788,12.683533,43.830788],
+  "bbox": [
+    12.683533,
+    43.830788,
+    12.683533,
+    43.830788
+],
   "geometry": {"coordinates":[12.683533,43.830788],"type":"Point"}
 }

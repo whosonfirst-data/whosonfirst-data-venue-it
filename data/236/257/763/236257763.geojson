@@ -2,13 +2,14 @@
   "id": 236257763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.001816,43.728333,11.001816,43.728333",
     "geom:latitude":43.728333,
     "geom:longitude":11.001816,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50056 Montelupo Fiorentino",
     "sg:city":"Montelupo Fiorentino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236257763,
-    "wof:lastmodified":1449002453,
+    "wof:lastmodified":1466291497,
     "wof:name":"Bitossi Filippo & Figli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.001816,43.728333,11.001816,43.728333],
+  "bbox": [
+    11.001816,
+    43.728333,
+    11.001816,
+    43.728333
+],
   "geometry": {"coordinates":[11.001816,43.728333],"type":"Point"}
 }

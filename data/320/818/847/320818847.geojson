@@ -2,13 +2,14 @@
   "id": 320818847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.376616,41.926655,12.376616,41.926655",
     "geom:latitude":41.926655,
     "geom:longitude":12.376616,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00166 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320818847,
-    "wof:lastmodified":1449013075,
+    "wof:lastmodified":1466298207,
     "wof:name":"Siderurgica Boccea Srl",
     "wof:parent_id":85900497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.376616,41.926655,12.376616,41.926655],
+  "bbox": [
+    12.376616,
+    41.926655,
+    12.376616,
+    41.926655
+],
   "geometry": {"coordinates":[12.376616,41.926655],"type":"Point"}
 }

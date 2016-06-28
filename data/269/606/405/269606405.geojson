@@ -2,13 +2,14 @@
   "id": 269606405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.989112,45.410442,11.989112,45.410442",
     "geom:latitude":45.410442,
     "geom:longitude":11.989112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35027 Noventa Padovana",
     "sg:city":"Noventa Padovana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269606405,
-    "wof:lastmodified":1449036513,
+    "wof:lastmodified":1466290388,
     "wof:name":"Noventana Imballaggi Snc Di Bilato Omero & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.989112,45.410442,11.989112,45.410442],
+  "bbox": [
+    11.989112,
+    45.410442,
+    11.989112,
+    45.410442
+],
   "geometry": {"coordinates":[11.989112,45.410442],"type":"Point"}
 }

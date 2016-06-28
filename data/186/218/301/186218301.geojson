@@ -2,13 +2,14 @@
   "id": 186218301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.357764,38.142117,13.357764,38.142117",
     "geom:latitude":38.142117,
     "geom:longitude":13.357764,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90142 Palermo",
     "sg:city":"Montepellegrino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186218301,
-    "wof:lastmodified":1449052074,
+    "wof:lastmodified":1466289813,
     "wof:name":"Correnti Salvatore",
     "wof:parent_id":85904867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "e"
     ]
 },
-  "bbox": [13.357764,38.142117,13.357764,38.142117],
+  "bbox": [
+    13.357764,
+    38.142117,
+    13.357764,
+    38.142117
+],
   "geometry": {"coordinates":[13.357764,38.142117],"type":"Point"}
 }

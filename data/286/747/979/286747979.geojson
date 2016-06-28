@@ -2,13 +2,14 @@
   "id": 286747979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.119493,45.41975,9.119493,45.41975",
     "geom:latitude":45.41975,
     "geom:longitude":9.119493,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dina Galli, 14/16 20090 Buccinasco",
     "sg:city":"Buccinasco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286747979,
-    "wof:lastmodified":1449015698,
+    "wof:lastmodified":1466295824,
     "wof:name":"Lumen Center Italia Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chandelier"
     ]
 },
-  "bbox": [9.119493,45.41975,9.119493,45.41975],
+  "bbox": [
+    9.119493,
+    45.41975,
+    9.119493,
+    45.41975
+],
   "geometry": {"coordinates":[9.119493,45.41975],"type":"Point"}
 }

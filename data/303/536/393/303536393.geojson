@@ -2,13 +2,14 @@
   "id": 303536393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.579636,41.844532,-72.579636,41.844532",
     "geom:latitude":41.844532,
     "geom:longitude":-72.579636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06074 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Apparecchiature Ed Attrezzature Meccaniche. Forniture E Materiali Per Imballaggio E Confezionamento. Apparecchiature E Sistemi Per Imballaggio E Confezionamento",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303536393,
-    "wof:lastmodified":1448999577,
+    "wof:lastmodified":1466296684,
     "wof:name":"Fustellificio M.m. Di Minciaroni Franco & C. Snc",
     "wof:parent_id":85818997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.579636,41.844532,-72.579636,41.844532],
-  "geometry": {"coordinates":[-72.579636,41.844532],"type":"Point"}
+  "bbox": [
+    -72.579636,
+    41.844532,
+    -72.579636,
+    41.844532
+],
+  "geometry": {"coordinates":[-72.57963599999999,41.844532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270087899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.295077,45.49049,9.295077,45.49049",
     "geom:latitude":45.49049,
     "geom:longitude":9.295077,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20063 Cernusco Sul Naviglio",
     "sg:city":"Cernusco sul Naviglio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270087899,
-    "wof:lastmodified":1449009771,
+    "wof:lastmodified":1466290068,
     "wof:name":"Pelletteria Lucas Di Bertolazzi Lodovico",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.295077,45.49049,9.295077,45.49049],
+  "bbox": [
+    9.295077,
+    45.49049,
+    9.295077,
+    45.49049
+],
   "geometry": {"coordinates":[9.295077,45.49049],"type":"Point"}
 }

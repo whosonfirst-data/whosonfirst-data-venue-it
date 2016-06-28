@@ -2,13 +2,14 @@
   "id": 336920531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.606944,36.991665,14.606944,36.991665",
     "geom:latitude":36.991665,
     "geom:longitude":14.606944,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97100 Ragusa",
     "sg:city":"Ragusa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336920531,
-    "wof:lastmodified":1448997789,
+    "wof:lastmodified":1466297072,
     "wof:name":"Comitini Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [14.606944,36.991665,14.606944,36.991665],
+  "bbox": [
+    14.606944,
+    36.991665,
+    14.606944,
+    36.991665
+],
   "geometry": {"coordinates":[14.606944,36.991665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236292523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.432203,46.129555,13.432203,46.129555",
     "geom:latitude":46.129555,
     "geom:longitude":13.432203,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33040 Torreano",
     "sg:city":"Torreano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236292523,
-    "wof:lastmodified":1449001881,
+    "wof:lastmodified":1466291865,
     "wof:name":"Ethon (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.432203,46.129555,13.432203,46.129555],
+  "bbox": [
+    13.432203,
+    46.129555,
+    13.432203,
+    46.129555
+],
   "geometry": {"coordinates":[13.432203,46.129555],"type":"Point"}
 }

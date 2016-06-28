@@ -2,13 +2,14 @@
   "id": 303517857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.241929,45.503479,9.241929,45.503479",
     "geom:latitude":45.503479,
     "geom:longitude":9.241929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20132 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303517857,
-    "wof:lastmodified":1448999520,
+    "wof:lastmodified":1466296564,
     "wof:name":"Riac Srl",
     "wof:parent_id":85796853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.241929,45.503479,9.241929,45.503479],
+  "bbox": [
+    9.241929,
+    45.503479,
+    9.241929,
+    45.503479
+],
   "geometry": {"coordinates":[9.241929,45.503479],"type":"Point"}
 }

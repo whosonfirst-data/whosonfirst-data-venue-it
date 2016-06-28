@@ -2,13 +2,14 @@
   "id": 253091599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.131036,45.497292,9.131036,45.497292",
     "geom:latitude":45.497292,
     "geom:longitude":9.131036,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gallarate 131 20151 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253091599,
-    "wof:lastmodified":1449063101,
+    "wof:lastmodified":1466289885,
     "wof:name":"Interimex Srl",
     "wof:parent_id":85862765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.131036,45.497292,9.131036,45.497292],
+  "bbox": [
+    9.131036,
+    45.497292,
+    9.131036,
+    45.497292
+],
   "geometry": {"coordinates":[9.131036,45.497292],"type":"Point"}
 }

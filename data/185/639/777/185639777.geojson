@@ -2,13 +2,14 @@
   "id": 185639777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.231112,45.974308,12.231112,45.974308",
     "geom:latitude":45.974308,
     "geom:longitude":12.231112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 57, 31020 Tarzo, Tv",
     "sg:city":"Tarzo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185639777,
-    "wof:lastmodified":1449008195,
+    "wof:lastmodified":1466294664,
     "wof:name":"Banca Di Credito Cooperativo Delle Prealpi (tarzo-treviso) Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.231112,45.974308,12.231112,45.974308],
+  "bbox": [
+    12.231112,
+    45.974308,
+    12.231112,
+    45.974308
+],
   "geometry": {"coordinates":[12.231112,45.974308],"type":"Point"}
 }

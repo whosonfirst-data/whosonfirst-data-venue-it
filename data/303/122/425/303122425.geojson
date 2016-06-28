@@ -2,13 +2,14 @@
   "id": 303122425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.397865,44.492298,11.397865,44.492298",
     "geom:latitude":44.492298,
     "geom:longitude":11.397865,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303122425,
-    "wof:lastmodified":1448999509,
+    "wof:lastmodified":1466291940,
     "wof:name":"Emme Servizi S.n.c.",
     "wof:parent_id":85904589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.397865,44.492298,11.397865,44.492298],
+  "bbox": [
+    11.397865,
+    44.492298,
+    11.397865,
+    44.492298
+],
   "geometry": {"coordinates":[11.397865,44.492298],"type":"Point"}
 }

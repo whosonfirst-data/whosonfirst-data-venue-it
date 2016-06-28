@@ -2,13 +2,14 @@
   "id": 287223197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.208351,45.472454,9.208351,45.472454",
     "geom:latitude":45.472454,
     "geom:longitude":9.208351,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287223197,
-    "wof:lastmodified":1449000721,
+    "wof:lastmodified":1466292571,
     "wof:name":"Inaz Paghe Srl",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.208351,45.472454,9.208351,45.472454],
+  "bbox": [
+    9.208351,
+    45.472454,
+    9.208351,
+    45.472454
+],
   "geometry": {"coordinates":[9.208351,45.472454],"type":"Point"}
 }

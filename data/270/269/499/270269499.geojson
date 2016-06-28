@@ -2,13 +2,14 @@
   "id": 270269499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.544865,41.46212,15.544865,41.46212",
     "geom:latitude":41.46212,
     "geom:longitude":15.544865,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71100 Foggia",
     "sg:city":"Foggia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270269499,
-    "wof:lastmodified":1449010186,
+    "wof:lastmodified":1466292232,
     "wof:name":"Niagara Snc Dei Fratelli Matrella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.544865,41.46212,15.544865,41.46212],
+  "bbox": [
+    15.544865,
+    41.46212,
+    15.544865,
+    41.46212
+],
   "geometry": {"coordinates":[15.544865,41.46212],"type":"Point"}
 }

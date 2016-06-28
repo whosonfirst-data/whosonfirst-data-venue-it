@@ -2,13 +2,14 @@
   "id": 270347051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.107573,43.87867,11.107573,43.87867",
     "geom:latitude":43.87867,
     "geom:longitude":11.107573,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59024 Vernio",
     "sg:city":"Vernio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270347051,
-    "wof:lastmodified":1449009814,
+    "wof:lastmodified":1466293226,
     "wof:name":"Video Fantasy Club Di Mlakar Cristina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.107573,43.87867,11.107573,43.87867],
+  "bbox": [
+    11.107573,
+    43.87867,
+    11.107573,
+    43.87867
+],
   "geometry": {"coordinates":[11.107573,43.87867],"type":"Point"}
 }

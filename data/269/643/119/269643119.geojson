@@ -2,13 +2,14 @@
   "id": 269643119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.781561,45.054195,11.781561,45.054195",
     "geom:latitude":45.054195,
     "geom:longitude":11.781561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45010 Taglio Di Po",
     "sg:classifiers":[],
     "sg:orig_category":"Litografie",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269643119,
-    "wof:lastmodified":1449038530,
+    "wof:lastmodified":1466290862,
     "wof:name":"Grafiche Adriatica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.781561,45.054195,11.781561,45.054195],
+  "bbox": [
+    11.781561,
+    45.054195,
+    11.781561,
+    45.054195
+],
   "geometry": {"coordinates":[11.781561,45.054195],"type":"Point"}
 }

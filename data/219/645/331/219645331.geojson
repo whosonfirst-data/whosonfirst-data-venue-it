@@ -2,13 +2,14 @@
   "id": 219645331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.87032,45.414623,11.87032,45.414623",
     "geom:latitude":45.414623,
     "geom:longitude":11.87032,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35137 Padova",
     "sg:city":"Padova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219645331,
-    "wof:lastmodified":1449070743,
+    "wof:lastmodified":1466292754,
     "wof:name":"Direzione Provinciale Del Lavoro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.87032,45.414623,11.87032,45.414623],
+  "bbox": [
+    11.87032,
+    45.414623,
+    11.87032,
+    45.414623
+],
   "geometry": {"coordinates":[11.87032,45.414623],"type":"Point"}
 }

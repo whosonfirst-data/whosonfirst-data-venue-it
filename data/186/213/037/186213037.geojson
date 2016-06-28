@@ -2,13 +2,14 @@
   "id": 186213037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.338784,45.434338,12.338784,45.434338",
     "geom:latitude":45.434338,
     "geom:longitude":12.338784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavour 2/a 30024 Musile Di Piave",
     "sg:city":"Musile di Piave",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186213037,
-    "wof:lastmodified":1449050289,
+    "wof:lastmodified":1466289772,
     "wof:name":"House Kit Furniture S.r.l.",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "caf\u00e9"
     ]
 },
-  "bbox": [12.338784,45.434338,12.338784,45.434338],
+  "bbox": [
+    12.338784,
+    45.434338,
+    12.338784,
+    45.434338
+],
   "geometry": {"coordinates":[12.338784,45.434338],"type":"Point"}
 }

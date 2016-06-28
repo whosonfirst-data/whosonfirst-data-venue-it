@@ -2,13 +2,14 @@
   "id": 320814771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.04519,45.385998,11.04519,45.385998",
     "geom:latitude":45.385998,
     "geom:longitude":11.04519,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37050 Oppeano",
     "sg:city":"Oppeano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320814771,
-    "wof:lastmodified":1449011944,
+    "wof:lastmodified":1466298196,
     "wof:name":"Rosa Luperio & Mario (s.n.c.)",
     "wof:parent_id":85905053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.04519,45.385998,11.04519,45.385998],
+  "bbox": [
+    11.04519,
+    45.385998,
+    11.04519,
+    45.385998
+],
   "geometry": {"coordinates":[11.04519,45.385998],"type":"Point"}
 }

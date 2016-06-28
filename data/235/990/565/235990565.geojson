@@ -2,13 +2,14 @@
   "id": 235990565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.583932,43.837624,7.583932,43.837624",
     "geom:latitude":43.837624,
     "geom:longitude":7.583932,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Edmondo De Amicis 55 18039 Ventimiglia",
     "sg:city":"Ventimiglia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235990565,
-    "wof:lastmodified":1449008470,
+    "wof:lastmodified":1466295918,
     "wof:name":"Bio.alimenta S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [7.583932,43.837624,7.583932,43.837624],
+  "bbox": [
+    7.583932,
+    43.837624,
+    7.583932,
+    43.837624
+],
   "geometry": {"coordinates":[7.583932,43.837624],"type":"Point"}
 }

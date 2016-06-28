@@ -2,13 +2,14 @@
   "id": 270218389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.661789,43.438175,13.661789,43.438175",
     "geom:latitude":43.438175,
     "geom:longitude":13.661789,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62017 Porto Recanati",
     "sg:city":"Porto Recanati",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270218389,
-    "wof:lastmodified":1449010212,
+    "wof:lastmodified":1466291652,
     "wof:name":"Fish Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.661789,43.438175,13.661789,43.438175],
+  "bbox": [
+    13.661789,
+    43.438175,
+    13.661789,
+    43.438175
+],
   "geometry": {"coordinates":[13.661789,43.438175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186274527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.821449,41.429501,12.821449,41.429501",
     "geom:latitude":41.429501,
     "geom:longitude":12.821449,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04023 Formia",
     "sg:city":"Formia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186274527,
-    "wof:lastmodified":1449050598,
+    "wof:lastmodified":1466290273,
     "wof:name":"Acquaplanet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.821449,41.429501,12.821449,41.429501],
+  "bbox": [
+    12.821449,
+    41.429501,
+    12.821449,
+    41.429501
+],
   "geometry": {"coordinates":[12.821449,41.429501],"type":"Point"}
 }

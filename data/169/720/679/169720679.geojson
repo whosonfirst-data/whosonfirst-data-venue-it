@@ -2,13 +2,14 @@
   "id": 169720679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.260115,45.406979,9.260115,45.406979",
     "geom:latitude":45.406979,
     "geom:longitude":9.260115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Grandi 1 20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169720679,
-    "wof:lastmodified":1449033482,
+    "wof:lastmodified":1466294335,
     "wof:name":"Rego Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bakery"
     ]
 },
-  "bbox": [9.260115,45.406979,9.260115,45.406979],
+  "bbox": [
+    9.260115,
+    45.406979,
+    9.260115,
+    45.406979
+],
   "geometry": {"coordinates":[9.260115,45.406979],"type":"Point"}
 }

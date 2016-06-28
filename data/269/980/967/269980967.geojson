@@ -2,13 +2,14 @@
   "id": 269980967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.788189,46.482056,11.788189,46.482056",
     "geom:latitude":46.482056,
     "geom:longitude":11.788189,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38032 Canazei",
     "sg:city":"Canazei",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269980967,
-    "wof:lastmodified":1449036316,
+    "wof:lastmodified":1466295036,
     "wof:name":"Sporthotel Bella Vista Di Fosco Paolo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.788189,46.482056,11.788189,46.482056],
+  "bbox": [
+    11.788189,
+    46.482056,
+    11.788189,
+    46.482056
+],
   "geometry": {"coordinates":[11.788189,46.482056],"type":"Point"}
 }

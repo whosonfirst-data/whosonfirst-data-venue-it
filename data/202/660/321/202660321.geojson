@@ -2,13 +2,14 @@
   "id": 202660321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.599689,45.447224,8.599689,45.447224",
     "geom:latitude":45.447224,
     "geom:longitude":8.599689,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202660321,
-    "wof:lastmodified":1449062382,
+    "wof:lastmodified":1466290641,
     "wof:name":"D'andrea Pasqualina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.599689,45.447224,8.599689,45.447224],
+  "bbox": [
+    8.599689,
+    45.447224,
+    8.599689,
+    45.447224
+],
   "geometry": {"coordinates":[8.599689,45.447224],"type":"Point"}
 }

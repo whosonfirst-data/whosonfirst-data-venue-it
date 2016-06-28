@@ -2,13 +2,14 @@
   "id": 303292705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.264049,43.86425,10.264049,43.86425",
     "geom:latitude":43.86425,
     "geom:longitude":10.264049,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Marmi 71 55049 Viareggio",
     "sg:city":"Viareggio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303292705,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1466294127,
     "wof:name":"Brama S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "industry"
     ]
 },
-  "bbox": [10.264049,43.86425,10.264049,43.86425],
+  "bbox": [
+    10.264049,
+    43.86425,
+    10.264049,
+    43.86425
+],
   "geometry": {"coordinates":[10.264049,43.86425],"type":"Point"}
 }

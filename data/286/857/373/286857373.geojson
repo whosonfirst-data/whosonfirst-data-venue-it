@@ -2,13 +2,14 @@
   "id": 286857373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.706703,45.823418,11.706703,45.823418",
     "geom:latitude":45.823418,
     "geom:longitude":11.706703,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36020 Campolongo Sul Brenta",
     "sg:city":"Campolongo sul Brenta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286857373,
-    "wof:lastmodified":1449017098,
+    "wof:lastmodified":1466297046,
     "wof:name":"Agis S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.706703,45.823418,11.706703,45.823418],
+  "bbox": [
+    11.706703,
+    45.823418,
+    11.706703,
+    45.823418
+],
   "geometry": {"coordinates":[11.706703,45.823418],"type":"Point"}
 }

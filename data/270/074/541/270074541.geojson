@@ -2,13 +2,14 @@
   "id": 270074541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.347003,40.845497,14.347003,40.845497",
     "geom:latitude":40.845497,
     "geom:longitude":14.347003,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80040 San Sebastiano Al Vesuvio",
     "sg:city":"San Sebastiano al Vesuvio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270074541,
-    "wof:lastmodified":1449009960,
+    "wof:lastmodified":1466289874,
     "wof:name":"T.e G. International",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.347003,40.845497,14.347003,40.845497],
+  "bbox": [
+    14.347003,
+    40.845497,
+    14.347003,
+    40.845497
+],
   "geometry": {"coordinates":[14.347003,40.845497],"type":"Point"}
 }

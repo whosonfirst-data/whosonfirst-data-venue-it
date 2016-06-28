@@ -2,13 +2,14 @@
   "id": 269806847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.526833,41.876007,12.526833,41.876007",
     "geom:latitude":41.876007,
     "geom:longitude":12.526833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00044 Frascati",
     "sg:city":"Frascati",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269806847,
-    "wof:lastmodified":1449036141,
+    "wof:lastmodified":1466293106,
     "wof:name":"Magnolia Garden Snc",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.526833,41.876007,12.526833,41.876007],
+  "bbox": [
+    12.526833,
+    41.876007,
+    12.526833,
+    41.876007
+],
   "geometry": {"coordinates":[12.526833,41.876007],"type":"Point"}
 }

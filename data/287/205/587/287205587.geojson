@@ -2,13 +2,14 @@
   "id": 287205587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.910447,37.568081,14.910447,37.568081",
     "geom:latitude":37.568081,
     "geom:longitude":14.910447,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95047 Paterno'",
     "sg:classifiers":[],
     "sg:orig_category":"Editoria Elettronica E Multimediale",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287205587,
-    "wof:lastmodified":1449001196,
+    "wof:lastmodified":1466292304,
     "wof:name":"Visualstudio Di Furnari Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.910447,37.568081,14.910447,37.568081],
+  "bbox": [
+    14.910447,
+    37.568081,
+    14.910447,
+    37.568081
+],
   "geometry": {"coordinates":[14.910447,37.568081],"type":"Point"}
 }

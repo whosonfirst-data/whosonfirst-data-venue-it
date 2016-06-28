@@ -2,13 +2,14 @@
   "id": 186353087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.824728,41.050262,16.824728,41.050262",
     "geom:latitude":41.050262,
     "geom:longitude":16.824728,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70020 Bitritto",
     "sg:city":"Bitritto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186353087,
-    "wof:lastmodified":1449051145,
+    "wof:lastmodified":1466290942,
     "wof:name":"Mallardi Angelantonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.824728,41.050262,16.824728,41.050262],
+  "bbox": [
+    16.824728,
+    41.050262,
+    16.824728,
+    41.050262
+],
   "geometry": {"coordinates":[16.824728,41.050262],"type":"Point"}
 }

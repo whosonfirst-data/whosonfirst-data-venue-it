@@ -2,13 +2,14 @@
   "id": 219384769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.135269,45.838978,10.135269,45.838978",
     "geom:latitude":45.838978,
     "geom:longitude":10.135269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dossi 40a 25050 Pian Camuno",
     "sg:city":"Pian Camuno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219384769,
-    "wof:lastmodified":1449070833,
+    "wof:lastmodified":1466290181,
     "wof:name":"Selenia Metalli Di Pegurri Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stamped"
     ]
 },
-  "bbox": [10.135269,45.838978,10.135269,45.838978],
+  "bbox": [
+    10.135269,
+    45.838978,
+    10.135269,
+    45.838978
+],
   "geometry": {"coordinates":[10.135269,45.838978],"type":"Point"}
 }

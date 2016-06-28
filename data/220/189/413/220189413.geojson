@@ -2,13 +2,14 @@
   "id": 220189413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.245072,43.862801,10.245072,43.862801",
     "geom:latitude":43.862801,
     "geom:longitude":10.245072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Coppino 377 55049 Viareggio",
     "sg:city":"Viareggio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220189413,
-    "wof:lastmodified":1449074613,
+    "wof:lastmodified":1466289449,
     "wof:name":"Pin-craft Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ship"
     ]
 },
-  "bbox": [10.245072,43.862801,10.245072,43.862801],
+  "bbox": [
+    10.245072,
+    43.862801,
+    10.245072,
+    43.862801
+],
   "geometry": {"coordinates":[10.245072,43.862801],"type":"Point"}
 }

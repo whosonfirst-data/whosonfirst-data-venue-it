@@ -2,13 +2,14 @@
   "id": 304006681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.978148,44.458485,8.978148,44.458485",
     "geom:latitude":44.458485,
     "geom:longitude":8.978148,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16138 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304006681,
-    "wof:lastmodified":1449044035,
+    "wof:lastmodified":1466292231,
     "wof:name":"Nover Snc",
     "wof:parent_id":85862669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.978148,44.458485,8.978148,44.458485],
+  "bbox": [
+    8.978148,
+    44.458485,
+    8.978148,
+    44.458485
+],
   "geometry": {"coordinates":[8.978148,44.458485],"type":"Point"}
 }

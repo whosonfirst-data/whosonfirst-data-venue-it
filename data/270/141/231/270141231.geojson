@@ -2,13 +2,14 @@
   "id": 270141231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.095927,37.692188,15.095927,37.692188",
     "geom:latitude":37.692188,
     "geom:longitude":15.095927,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95019 Zafferana Etnea",
     "sg:city":"Zafferana Etnea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270141231,
-    "wof:lastmodified":1449009497,
+    "wof:lastmodified":1466290670,
     "wof:name":"Hotel Ristorante Primavera Dell'etna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "facility"
     ]
 },
-  "bbox": [15.095927,37.692188,15.095927,37.692188],
+  "bbox": [
+    15.095927,
+    37.692188,
+    15.095927,
+    37.692188
+],
   "geometry": {"coordinates":[15.095927,37.692188],"type":"Point"}
 }

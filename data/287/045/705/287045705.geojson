@@ -2,13 +2,14 @@
   "id": 287045705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.687612,45.664921,9.687612,45.664921",
     "geom:latitude":45.664921,
     "geom:longitude":9.687612,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24050 Orio Al Serio",
     "sg:city":"Orio al Serio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287045705,
-    "wof:lastmodified":1449001478,
+    "wof:lastmodified":1466290160,
     "wof:name":"Carissimi Torrefazione Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.687612,45.664921,9.687612,45.664921],
+  "bbox": [
+    9.687612,
+    45.664921,
+    9.687612,
+    45.664921
+],
   "geometry": {"coordinates":[9.687612,45.664921],"type":"Point"}
 }

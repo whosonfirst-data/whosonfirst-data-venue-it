@@ -2,13 +2,14 @@
   "id": 286451735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.152863,45.519505,12.152863,45.519505",
     "geom:latitude":45.519505,
     "geom:longitude":12.152863,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80, Via Stazione 30035 Mirano",
     "sg:city":"Mirano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286451735,
-    "wof:lastmodified":1449016474,
+    "wof:lastmodified":1466292145,
     "wof:name":"Ar.co. Di Lucatello Emanuela & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.152863,45.519505,12.152863,45.519505],
+  "bbox": [
+    12.152863,
+    45.519505,
+    12.152863,
+    45.519505
+],
   "geometry": {"coordinates":[12.152863,45.519505],"type":"Point"}
 }

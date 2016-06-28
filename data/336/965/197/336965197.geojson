@@ -2,13 +2,14 @@
   "id": 336965197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.93739,44.416782,8.93739,44.416782",
     "geom:latitude":44.416782,
     "geom:longitude":8.93739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16125 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336965197,
-    "wof:lastmodified":1448997686,
+    "wof:lastmodified":1466297375,
     "wof:name":"Mereto Gian Carlo",
     "wof:parent_id":85796843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [8.93739,44.416782,8.93739,44.416782],
+  "bbox": [
+    8.93739,
+    44.416782,
+    8.93739,
+    44.416782
+],
   "geometry": {"coordinates":[8.93739,44.416782],"type":"Point"}
 }

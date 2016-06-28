@@ -2,13 +2,14 @@
   "id": 235959299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.507994,43.843014,10.507994,43.843014",
     "geom:latitude":43.843014,
     "geom:longitude":10.507994,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Puccini G. 55016 Porcari",
     "sg:city":"Porcari",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235959299,
-    "wof:lastmodified":1449008577,
+    "wof:lastmodified":1466295255,
     "wof:name":"Caseificio Artlatte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [10.507994,43.843014,10.507994,43.843014],
+  "bbox": [
+    10.507994,
+    43.843014,
+    10.507994,
+    43.843014
+],
   "geometry": {"coordinates":[10.507994,43.843014],"type":"Point"}
 }

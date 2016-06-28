@@ -2,13 +2,14 @@
   "id": 186317481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.148948,37.567444,15.148948,37.567444",
     "geom:latitude":37.567444,
     "geom:longitude":15.148948,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95021 Aci Castello",
     "sg:city":"Aci Castello",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186317481,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466290645,
     "wof:name":"Mythos Di Valastro Filippo E C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.148948,37.567444,15.148948,37.567444],
+  "bbox": [
+    15.148948,
+    37.567444,
+    15.148948,
+    37.567444
+],
   "geometry": {"coordinates":[15.148948,37.567444],"type":"Point"}
 }

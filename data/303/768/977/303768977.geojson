@@ -2,13 +2,14 @@
   "id": 303768977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.168893,45.373943,9.168893,45.373943",
     "geom:latitude":45.373943,
     "geom:longitude":9.168893,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Fizzonasco Di Pieve Emanuele",
     "sg:city":"Fizzonasco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303768977,
-    "wof:lastmodified":1448999061,
+    "wof:lastmodified":1466297757,
     "wof:name":"Aspiria Di Favat\u00c0 Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.168893,45.373943,9.168893,45.373943],
+  "bbox": [
+    9.168893,
+    45.373943,
+    9.168893,
+    45.373943
+],
   "geometry": {"coordinates":[9.168893,45.373943],"type":"Point"}
 }

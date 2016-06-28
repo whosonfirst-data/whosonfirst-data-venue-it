@@ -2,13 +2,14 @@
   "id": 185658629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.609219,45.222557,11.609219,45.222557",
     "geom:latitude":45.222557,
     "geom:longitude":11.609219,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma Ovest 25, 35045 Ospedaletto Euganeo, Pd",
     "sg:city":"Ospedaletto Euganeo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185658629,
-    "wof:lastmodified":1449006564,
+    "wof:lastmodified":1466295074,
     "wof:name":"Banca Di Credito Cooperativo Euganea Di Ospedaletto Euganeo (pd) Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.609219,45.222557,11.609219,45.222557],
+  "bbox": [
+    11.609219,
+    45.222557,
+    11.609219,
+    45.222557
+],
   "geometry": {"coordinates":[11.609219,45.222557],"type":"Point"}
 }

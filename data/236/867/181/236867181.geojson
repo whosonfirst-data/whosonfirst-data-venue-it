@@ -2,13 +2,14 @@
   "id": 236867181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.417277,45.637142,12.417277,45.637142",
     "geom:latitude":45.637142,
     "geom:longitude":12.417277,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Per Monastier 4 31056 Roncade",
     "sg:city":"Roncade",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236867181,
-    "wof:lastmodified":1449003013,
+    "wof:lastmodified":1466297043,
     "wof:name":"For.el. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [12.417277,45.637142,12.417277,45.637142],
+  "bbox": [
+    12.417277,
+    45.637142,
+    12.417277,
+    45.637142
+],
   "geometry": {"coordinates":[12.417277,45.637142],"type":"Point"}
 }

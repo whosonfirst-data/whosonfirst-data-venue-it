@@ -2,13 +2,14 @@
   "id": 219560081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.088575,39.293976,9.088575,39.293976",
     "geom:latitude":39.293976,
     "geom:longitude":9.088575,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09049 Villasimius",
     "sg:city":"Villasimius",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219560081,
-    "wof:lastmodified":1449073095,
+    "wof:lastmodified":1466291929,
     "wof:name":"Hotel Blu Marlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "restaurants"
     ]
 },
-  "bbox": [9.088575,39.293976,9.088575,39.293976],
+  "bbox": [
+    9.088575,
+    39.293976,
+    9.088575,
+    39.293976
+],
   "geometry": {"coordinates":[9.088575,39.293976],"type":"Point"}
 }

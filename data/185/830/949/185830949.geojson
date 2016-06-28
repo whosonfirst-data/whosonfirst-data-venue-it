@@ -2,13 +2,14 @@
   "id": 185830949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.514557,38.015099,12.514557,38.015099",
     "geom:latitude":38.015099,
     "geom:longitude":12.514557,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Italia 102; Trapani",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185830949,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466289483,
     "wof:name":"Banca Popolare Santa Venera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.514557,38.015099,12.514557,38.015099],
+  "bbox": [
+    12.514557,
+    38.015099,
+    12.514557,
+    38.015099
+],
   "geometry": {"coordinates":[12.514557,38.015099],"type":"Point"}
 }

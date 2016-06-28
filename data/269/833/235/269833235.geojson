@@ -2,13 +2,14 @@
   "id": 269833235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.216328,45.668415,12.216328,45.668415",
     "geom:latitude":45.668415,
     "geom:longitude":12.216328,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Castellana 31100 Treviso",
     "sg:city":"Treviso",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269833235,
-    "wof:lastmodified":1449036439,
+    "wof:lastmodified":1466293411,
     "wof:name":"Consorzio Agrario Interprovinciale Di Treviso E Belluno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.216328,45.668415,12.216328,45.668415],
+  "bbox": [
+    12.216328,
+    45.668415,
+    12.216328,
+    45.668415
+],
   "geometry": {"coordinates":[12.216328,45.668415],"type":"Point"}
 }

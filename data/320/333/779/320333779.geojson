@@ -2,13 +2,14 @@
   "id": 320333779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.200951,45.558815,9.200951,45.558815",
     "geom:latitude":45.558815,
     "geom:longitude":9.200951,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20054 Nova Milanese",
     "sg:city":"Nova Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320333779,
-    "wof:lastmodified":1449014698,
+    "wof:lastmodified":1466296962,
     "wof:name":"Ripress Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.200951,45.558815,9.200951,45.558815],
+  "bbox": [
+    9.200951,
+    45.558815,
+    9.200951,
+    45.558815
+],
   "geometry": {"coordinates":[9.200951,45.558815],"type":"Point"}
 }

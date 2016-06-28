@@ -2,13 +2,14 @@
   "id": 169766867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.464153,45.698479,8.464153,45.698479",
     "geom:latitude":45.698479,
     "geom:longitude":8.464153,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28021 Borgomanero",
     "sg:city":"Borgomanero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169766867,
-    "wof:lastmodified":1449032639,
+    "wof:lastmodified":1466295560,
     "wof:name":"Quartero Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.464153,45.698479,8.464153,45.698479],
+  "bbox": [
+    8.464153,
+    45.698479,
+    8.464153,
+    45.698479
+],
   "geometry": {"coordinates":[8.464153,45.698479],"type":"Point"}
 }

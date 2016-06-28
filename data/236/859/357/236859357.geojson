@@ -2,13 +2,14 @@
   "id": 236859357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.078488,45.803192,13.078488,45.803192",
     "geom:latitude":45.803192,
     "geom:longitude":13.078488,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Nazionale 100 33056 Palazzolo Dello Stella",
     "sg:city":"Palazzolo dello Stella",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236859357,
-    "wof:lastmodified":1449004120,
+    "wof:lastmodified":1466297002,
     "wof:name":"Ceramiche Girardi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [13.078488,45.803192,13.078488,45.803192],
+  "bbox": [
+    13.078488,
+    45.803192,
+    13.078488,
+    45.803192
+],
   "geometry": {"coordinates":[13.078488,45.803192],"type":"Point"}
 }

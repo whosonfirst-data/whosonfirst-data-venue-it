@@ -2,13 +2,14 @@
   "id": 287201661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.078601,45.700119,9.078601,45.700119",
     "geom:latitude":45.700119,
     "geom:longitude":9.078601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22072 Cermenate",
     "sg:city":"Cermenate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287201661,
-    "wof:lastmodified":1449001455,
+    "wof:lastmodified":1466292252,
     "wof:name":"Colmegna Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.078601,45.700119,9.078601,45.700119],
+  "bbox": [
+    9.078601,
+    45.700119,
+    9.078601,
+    45.700119
+],
   "geometry": {"coordinates":[9.078601,45.700119],"type":"Point"}
 }

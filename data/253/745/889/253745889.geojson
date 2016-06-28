@@ -2,13 +2,14 @@
   "id": 253745889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.642218,42.829651,13.642218,42.829651",
     "geom:latitude":42.829651,
     "geom:longitude":13.642218,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Imperia 63040 Folignano",
     "sg:city":"Folignano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253745889,
-    "wof:lastmodified":1449065666,
+    "wof:lastmodified":1466297079,
     "wof:name":"Christian Patt Di Zippi Eliseo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.642218,42.829651,13.642218,42.829651],
+  "bbox": [
+    13.642218,
+    42.829651,
+    13.642218,
+    42.829651
+],
   "geometry": {"coordinates":[13.642218,42.829651],"type":"Point"}
 }

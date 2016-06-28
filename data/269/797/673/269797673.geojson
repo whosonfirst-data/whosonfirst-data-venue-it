@@ -2,13 +2,14 @@
   "id": 269797673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.587957,39.901352,8.587957,39.901352",
     "geom:latitude":39.901352,
     "geom:longitude":8.587957,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09098 Terralba",
     "sg:city":"Terralba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269797673,
-    "wof:lastmodified":1449038752,
+    "wof:lastmodified":1466292994,
     "wof:name":"Azienda Agricola Mura Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.587957,39.901352,8.587957,39.901352],
+  "bbox": [
+    8.587957,
+    39.901352,
+    8.587957,
+    39.901352
+],
   "geometry": {"coordinates":[8.587957,39.901352],"type":"Point"}
 }

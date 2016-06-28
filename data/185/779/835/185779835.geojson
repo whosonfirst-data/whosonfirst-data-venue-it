@@ -2,13 +2,14 @@
   "id": 185779835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.942033,45.682514,11.942033,45.682514",
     "geom:latitude":45.682514,
     "geom:longitude":11.942033,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Serenissima 34; Castelfranco Veneto; 31033",
     "sg:city":"Castelfranco Veneto",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185779835,
-    "wof:lastmodified":1449006855,
+    "wof:lastmodified":1466289149,
     "wof:name":"Banca Popolare Di Castelfranco, Veneto Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.942033,45.682514,11.942033,45.682514],
+  "bbox": [
+    11.942033,
+    45.682514,
+    11.942033,
+    45.682514
+],
   "geometry": {"coordinates":[11.942033,45.682514],"type":"Point"}
 }

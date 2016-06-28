@@ -2,13 +2,14 @@
   "id": 253552333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.643161,45.117157,7.643161,45.117157",
     "geom:latitude":45.117157,
     "geom:longitude":7.643161,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10078 Venaria",
     "sg:classifiers":[],
     "sg:orig_category":"Utensili Meccanici E Materiali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253552333,
-    "wof:lastmodified":1449064065,
+    "wof:lastmodified":1466295309,
     "wof:name":"M.g. (s.p.a.)",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.643161,45.117157,7.643161,45.117157],
+  "bbox": [
+    7.643161,
+    45.117157,
+    7.643161,
+    45.117157
+],
   "geometry": {"coordinates":[7.643161,45.117157],"type":"Point"}
 }

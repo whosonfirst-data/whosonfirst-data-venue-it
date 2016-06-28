@@ -2,13 +2,14 @@
   "id": 253145831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.515047,46.254871,9.515047,46.254871",
     "geom:latitude":46.254871,
     "geom:longitude":9.515047,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23025 Novate Mezzola",
     "sg:city":"Novate Mezzola",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253145831,
-    "wof:lastmodified":1449063718,
+    "wof:lastmodified":1466290444,
     "wof:name":"Societa' Nordelettrica Sondel (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.515047,46.254871,9.515047,46.254871],
+  "bbox": [
+    9.515047,
+    46.254871,
+    9.515047,
+    46.254871
+],
   "geometry": {"coordinates":[9.515047,46.254871],"type":"Point"}
 }

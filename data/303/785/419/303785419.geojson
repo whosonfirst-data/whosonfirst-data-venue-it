@@ -2,13 +2,14 @@
   "id": 303785419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.714357,42.827839,13.714357,42.827839",
     "geom:latitude":42.827839,
     "geom:longitude":13.714357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64016 Sant'egidio Alla Vibrata",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Cucina Ed Elettrodomestici. Elettrodomestici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303785419,
-    "wof:lastmodified":1449000144,
+    "wof:lastmodified":1466297790,
     "wof:name":"Lamboni & Coccia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.714357,42.827839,13.714357,42.827839],
+  "bbox": [
+    13.714357,
+    42.827839,
+    13.714357,
+    42.827839
+],
   "geometry": {"coordinates":[13.714357,42.827839],"type":"Point"}
 }

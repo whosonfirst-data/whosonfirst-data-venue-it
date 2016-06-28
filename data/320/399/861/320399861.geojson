@@ -2,13 +2,14 @@
   "id": 320399861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.376618,43.041416,12.376618,43.041416",
     "geom:latitude":43.041416,
     "geom:longitude":12.376618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06070 San Martino In Colle",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Agricoltura E Zootecnia",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320399861,
-    "wof:lastmodified":1449011922,
+    "wof:lastmodified":1466297404,
     "wof:name":"C.m.system Perugia S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.376618,43.041416,12.376618,43.041416],
+  "bbox": [
+    12.376618,
+    43.041416,
+    12.376618,
+    43.041416
+],
   "geometry": {"coordinates":[12.376618,43.041416],"type":"Point"}
 }

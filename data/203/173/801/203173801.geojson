@@ -2,13 +2,14 @@
   "id": 203173801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.181437,45.185326,9.181437,45.185326",
     "geom:latitude":45.185326,
     "geom:longitude":9.181437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203173801,
-    "wof:lastmodified":1449025299,
+    "wof:lastmodified":1466289615,
     "wof:name":"Andreoli & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.181437,45.185326,9.181437,45.185326],
+  "bbox": [
+    9.181437,
+    45.185326,
+    9.181437,
+    45.185326
+],
   "geometry": {"coordinates":[9.181437,45.185326],"type":"Point"}
 }

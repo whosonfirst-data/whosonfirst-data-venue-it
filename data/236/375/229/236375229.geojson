@@ -2,13 +2,14 @@
   "id": 236375229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.814861,44.941998,7.814861,44.941998",
     "geom:latitude":44.941998,
     "geom:longitude":7.814861,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10046 Marocchi",
     "sg:city":"Marocchi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236375229,
-    "wof:lastmodified":1449001768,
+    "wof:lastmodified":1466292719,
     "wof:name":"Sanua Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.814861,44.941998,7.814861,44.941998],
+  "bbox": [
+    7.814861,
+    44.941998,
+    7.814861,
+    44.941998
+],
   "geometry": {"coordinates":[7.814861,44.941998],"type":"Point"}
 }

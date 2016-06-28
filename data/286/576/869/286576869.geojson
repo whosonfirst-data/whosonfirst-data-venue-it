@@ -2,13 +2,14 @@
   "id": 286576869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.606753,45.71677,11.606753,45.71677",
     "geom:latitude":45.71677,
     "geom:longitude":11.606753,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59, Via Guglielmo Marconi 36064 Mason Vicentino",
     "sg:city":"Mason Vicentino",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286576869,
-    "wof:lastmodified":1449017453,
+    "wof:lastmodified":1466293637,
     "wof:name":"Prandina & Co. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.606753,45.71677,11.606753,45.71677],
+  "bbox": [
+    11.606753,
+    45.71677,
+    11.606753,
+    45.71677
+],
   "geometry": {"coordinates":[11.606753,45.71677],"type":"Point"}
 }

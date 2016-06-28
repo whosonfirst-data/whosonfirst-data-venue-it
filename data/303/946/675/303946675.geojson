@@ -2,13 +2,14 @@
   "id": 303946675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.854377,45.112926,9.854377,45.112926",
     "geom:latitude":45.112926,
     "geom:longitude":9.854377,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26843 Castelnuovo Bocca D'adda",
     "sg:classifiers":[],
     "sg:orig_category":"Articoli Per Imballaggio E Confezionamento",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303946675,
-    "wof:lastmodified":1449000274,
+    "wof:lastmodified":1466298265,
     "wof:name":"Zibra Luciano & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.854377,45.112926,9.854377,45.112926],
+  "bbox": [
+    9.854377,
+    45.112926,
+    9.854377,
+    45.112926
+],
   "geometry": {"coordinates":[9.854377,45.112926],"type":"Point"}
 }

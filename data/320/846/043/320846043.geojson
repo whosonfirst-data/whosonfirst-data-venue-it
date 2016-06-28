@@ -2,13 +2,14 @@
   "id": 320846043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.297344,46.018623,13.297344,46.018623",
     "geom:latitude":46.018623,
     "geom:longitude":13.297344,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Nazionale 33042 Buttrio",
     "sg:city":"Buttrio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320846043,
-    "wof:lastmodified":1449014128,
+    "wof:lastmodified":1466298289,
     "wof:name":"Burimec S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "measurement"
     ]
 },
-  "bbox": [13.297344,46.018623,13.297344,46.018623],
+  "bbox": [
+    13.297344,
+    46.018623,
+    13.297344,
+    46.018623
+],
   "geometry": {"coordinates":[13.297344,46.018623],"type":"Point"}
 }

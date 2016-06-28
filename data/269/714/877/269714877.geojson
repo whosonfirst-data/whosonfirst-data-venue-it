@@ -2,13 +2,14 @@
   "id": 269714877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.718911,42.101494,14.718911,42.101494",
     "geom:latitude":42.101494,
     "geom:longitude":14.718911,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66054 Vasto",
     "sg:city":"Vasto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269714877,
-    "wof:lastmodified":1449037322,
+    "wof:lastmodified":1466291879,
     "wof:name":"Molino Immobiliare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.718911,42.101494,14.718911,42.101494],
+  "bbox": [
+    14.718911,
+    42.101494,
+    14.718911,
+    42.101494
+],
   "geometry": {"coordinates":[14.718911,42.101494],"type":"Point"}
 }

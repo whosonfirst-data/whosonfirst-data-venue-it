@@ -2,13 +2,14 @@
   "id": 286770673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.213858,45.567436,9.213858,45.567436",
     "geom:latitude":45.567436,
     "geom:longitude":9.213858,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286770673,
-    "wof:lastmodified":1449018139,
+    "wof:lastmodified":1466296109,
     "wof:name":"Spazi Palladiani",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.213858,45.567436,9.213858,45.567436],
+  "bbox": [
+    9.213858,
+    45.567436,
+    9.213858,
+    45.567436
+],
   "geometry": {"coordinates":[9.213858,45.567436],"type":"Point"}
 }

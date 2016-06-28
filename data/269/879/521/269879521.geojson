@@ -2,13 +2,14 @@
   "id": 269879521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.357627,44.561752,11.357627,44.561752",
     "geom:latitude":44.561752,
     "geom:longitude":11.357627,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"297, Via Galliera 40050 Argelato",
     "sg:city":"Argelato",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269879521,
-    "wof:lastmodified":1449036182,
+    "wof:lastmodified":1466293913,
     "wof:name":"Fantuzzi Srl",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [11.357627,44.561752,11.357627,44.561752],
+  "bbox": [
+    11.357627,
+    44.561752,
+    11.357627,
+    44.561752
+],
   "geometry": {"coordinates":[11.357627,44.561752],"type":"Point"}
 }

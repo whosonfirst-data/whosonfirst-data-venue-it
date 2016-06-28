@@ -2,13 +2,14 @@
   "id": 336931153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.141541,37.603001,15.141541,37.603001",
     "geom:latitude":37.603001,
     "geom:longitude":15.141541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95022 Aci Catena",
     "sg:city":"Aci Catena",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336931153,
-    "wof:lastmodified":1448997922,
+    "wof:lastmodified":1466297133,
     "wof:name":"Di Stefano Carmelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [15.141541,37.603001,15.141541,37.603001],
+  "bbox": [
+    15.141541,
+    37.603001,
+    15.141541,
+    37.603001
+],
   "geometry": {"coordinates":[15.141541,37.603001],"type":"Point"}
 }

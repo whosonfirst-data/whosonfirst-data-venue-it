@@ -2,13 +2,14 @@
   "id": 219280325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.907444,43.718987,10.907444,43.718987",
     "geom:latitude":43.718987,
     "geom:longitude":10.907444,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lucchese 124 50053 Empoli",
     "sg:city":"Empoli",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219280325,
-    "wof:lastmodified":1449072119,
+    "wof:lastmodified":1466289104,
     "wof:name":"Pneuservice '90 Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tyre"
     ]
 },
-  "bbox": [10.907444,43.718987,10.907444,43.718987],
+  "bbox": [
+    10.907444,
+    43.718987,
+    10.907444,
+    43.718987
+],
   "geometry": {"coordinates":[10.907444,43.718987],"type":"Point"}
 }

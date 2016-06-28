@@ -2,13 +2,14 @@
   "id": 219248731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.156563,45.185886,9.156563,45.185886",
     "geom:latitude":45.185886,
     "geom:longitude":9.156563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nuova Circonvallazione, 36/38 27023 Cassolnovo",
     "sg:city":"Cassolnovo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219248731,
-    "wof:lastmodified":1449072316,
+    "wof:lastmodified":1466296108,
     "wof:name":"Macsi Group Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "model"
     ]
 },
-  "bbox": [9.156563,45.185886,9.156563,45.185886],
+  "bbox": [
+    9.156563,
+    45.185886,
+    9.156563,
+    45.185886
+],
   "geometry": {"coordinates":[9.156563,45.185886],"type":"Point"}
 }

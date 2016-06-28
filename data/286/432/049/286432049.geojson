@@ -2,13 +2,14 @@
   "id": 286432049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.338514,38.143307,13.338514,38.143307",
     "geom:latitude":38.143307,
     "geom:longitude":13.338514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90144 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286432049,
-    "wof:lastmodified":1449015110,
+    "wof:lastmodified":1466291902,
     "wof:name":"Gds Euroclima Srl",
     "wof:parent_id":85904869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.338514,38.143307,13.338514,38.143307],
+  "bbox": [
+    13.338514,
+    38.143307,
+    13.338514,
+    38.143307
+],
   "geometry": {"coordinates":[13.338514,38.143307],"type":"Point"}
 }

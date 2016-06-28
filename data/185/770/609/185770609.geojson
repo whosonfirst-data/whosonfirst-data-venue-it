@@ -2,13 +2,14 @@
   "id": 185770609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.444383,41.783554,15.444383,41.783554",
     "geom:latitude":41.783554,
     "geom:longitude":15.444383,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 65, 71011 Apricena, Fg",
     "sg:city":"Apricena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185770609,
-    "wof:lastmodified":1449008247,
+    "wof:lastmodified":1466289087,
     "wof:name":"Banca Popolare Della Provincia Di Foggia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.444383,41.783554,15.444383,41.783554],
+  "bbox": [
+    15.444383,
+    41.783554,
+    15.444383,
+    41.783554
+],
   "geometry": {"coordinates":[15.444383,41.783554],"type":"Point"}
 }

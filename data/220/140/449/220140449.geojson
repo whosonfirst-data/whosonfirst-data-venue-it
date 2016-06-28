@@ -2,13 +2,14 @@
   "id": 220140449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.682759,45.792957,12.682759,45.792957",
     "geom:latitude":45.792957,
     "geom:longitude":12.682759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30020 Annone Veneto",
     "sg:city":"Annone Veneto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220140449,
-    "wof:lastmodified":1449074144,
+    "wof:lastmodified":1466288942,
     "wof:name":"S.r.c. Net Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.682759,45.792957,12.682759,45.792957],
+  "bbox": [
+    12.682759,
+    45.792957,
+    12.682759,
+    45.792957
+],
   "geometry": {"coordinates":[12.682759,45.792957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303083637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.693279,45.073318,7.693279,45.073318",
     "geom:latitude":45.073318,
     "geom:longitude":7.693279,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Regina Margherita 87 10124 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303083637,
-    "wof:lastmodified":1448999279,
+    "wof:lastmodified":1466291428,
     "wof:name":"E.c.r. Srl",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "module"
     ]
 },
-  "bbox": [7.693279,45.073318,7.693279,45.073318],
+  "bbox": [
+    7.693279,
+    45.073318,
+    7.693279,
+    45.073318
+],
   "geometry": {"coordinates":[7.693279,45.073318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202577141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.256747,40.869087,14.256747,40.869087",
     "geom:latitude":40.869087,
     "geom:longitude":14.256747,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80141 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202577141,
-    "wof:lastmodified":1449062746,
+    "wof:lastmodified":1466289699,
     "wof:name":"La Nuova Ferramenta Di Licenziato Salvatore & C. S.a.s.",
     "wof:parent_id":85900317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.256747,40.869087,14.256747,40.869087],
+  "bbox": [
+    14.256747,
+    40.869087,
+    14.256747,
+    40.869087
+],
   "geometry": {"coordinates":[14.256747,40.869087],"type":"Point"}
 }

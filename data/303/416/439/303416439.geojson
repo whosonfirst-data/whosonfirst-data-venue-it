@@ -2,13 +2,14 @@
   "id": 303416439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.33239,45.434895,12.33239,45.434895",
     "geom:latitude":45.434895,
     "geom:longitude":12.33239,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30124 Venezia",
     "sg:city":"San Marco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303416439,
-    "wof:lastmodified":1448999218,
+    "wof:lastmodified":1466295640,
     "wof:name":"Arte Conservazione Di Costantini Paolo",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.33239,45.434895,12.33239,45.434895],
+  "bbox": [
+    12.33239,
+    45.434895,
+    12.33239,
+    45.434895
+],
   "geometry": {"coordinates":[12.33239,45.434895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286994657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.740352,45.687496,8.740352,45.687496",
     "geom:latitude":45.687496,
     "geom:longitude":8.740352,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Del Galfione 21010 Arsago Seprio",
     "sg:city":"Arsago Seprio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286994657,
-    "wof:lastmodified":1449015312,
+    "wof:lastmodified":1466297521,
     "wof:name":"Bruno Angela & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [8.740352,45.687496,8.740352,45.687496],
+  "bbox": [
+    8.740352,
+    45.687496,
+    8.740352,
+    45.687496
+],
   "geometry": {"coordinates":[8.740352,45.687496],"type":"Point"}
 }

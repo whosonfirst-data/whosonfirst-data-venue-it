@@ -2,13 +2,14 @@
   "id": 186624285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.918524,43.932156,10.918524,43.932156",
     "geom:latitude":43.932156,
     "geom:longitude":10.918524,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Neruda 27 51100 Pistoia",
     "sg:city":"Pistoia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186624285,
-    "wof:lastmodified":1449052209,
+    "wof:lastmodified":1466293517,
     "wof:name":"Iozzelli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "suspending"
     ]
 },
-  "bbox": [10.918524,43.932156,10.918524,43.932156],
+  "bbox": [
+    10.918524,
+    43.932156,
+    10.918524,
+    43.932156
+],
   "geometry": {"coordinates":[10.918524,43.932156],"type":"Point"}
 }

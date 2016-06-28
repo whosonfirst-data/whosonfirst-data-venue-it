@@ -2,13 +2,14 @@
   "id": 252994187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.820309,43.252823,11.820309,43.252823",
     "geom:latitude":43.252823,
     "geom:longitude":11.820309,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"68, Via Gioco Del Pallone 52045 Foiano Della Chiana",
     "sg:city":"Foiano della Chiana",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252994187,
-    "wof:lastmodified":1449005452,
+    "wof:lastmodified":1466292002,
     "wof:name":"Orf S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.820309,43.252823,11.820309,43.252823],
+  "bbox": [
+    11.820309,
+    43.252823,
+    11.820309,
+    43.252823
+],
   "geometry": {"coordinates":[11.820309,43.252823],"type":"Point"}
 }

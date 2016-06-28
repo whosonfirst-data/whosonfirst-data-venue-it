@@ -2,13 +2,14 @@
   "id": 219209053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.22705,45.983856,13.22705,45.983856",
     "geom:latitude":45.983856,
     "geom:longitude":13.22705,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33100 Udine",
     "sg:city":"Udine",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219209053,
-    "wof:lastmodified":1449073543,
+    "wof:lastmodified":1466295399,
     "wof:name":"Il Paese Dei Balocchi S.c.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.22705,45.983856,13.22705,45.983856],
+  "bbox": [
+    13.22705,
+    45.983856,
+    13.22705,
+    45.983856
+],
   "geometry": {"coordinates":[13.22705,45.983856],"type":"Point"}
 }

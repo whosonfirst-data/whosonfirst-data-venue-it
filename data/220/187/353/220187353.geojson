@@ -2,13 +2,14 @@
   "id": 220187353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.722157,44.97525,7.722157,44.97525",
     "geom:latitude":44.97525,
     "geom:longitude":7.722157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Postiglione 16 10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220187353,
-    "wof:lastmodified":1449074157,
+    "wof:lastmodified":1466289428,
     "wof:name":"Mgi Coutier Italia S.r.l.",
     "wof:parent_id":85862789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "covering"
     ]
 },
-  "bbox": [7.722157,44.97525,7.722157,44.97525],
+  "bbox": [
+    7.722157,
+    44.97525,
+    7.722157,
+    44.97525
+],
   "geometry": {"coordinates":[7.722157,44.97525],"type":"Point"}
 }

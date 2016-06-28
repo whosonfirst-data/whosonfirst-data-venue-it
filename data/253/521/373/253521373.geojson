@@ -2,13 +2,14 @@
   "id": 253521373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.427495,44.27845,8.427495,44.27845",
     "geom:latitude":44.27845,
     "geom:longitude":8.427495,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17047 Quiliano",
     "sg:city":"Quiliano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253521373,
-    "wof:lastmodified":1449065653,
+    "wof:lastmodified":1466294889,
     "wof:name":"Brignone Giancarlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.427495,44.27845,8.427495,44.27845],
+  "bbox": [
+    8.427495,
+    44.27845,
+    8.427495,
+    44.27845
+],
   "geometry": {"coordinates":[8.427495,44.27845],"type":"Point"}
 }

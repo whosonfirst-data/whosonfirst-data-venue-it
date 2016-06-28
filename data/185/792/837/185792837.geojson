@@ -2,13 +2,14 @@
   "id": 185792837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.207186,40.187576,18.207186,40.187576",
     "geom:latitude":40.187576,
     "geom:longitude":18.207186,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dante; Soleto; 73010",
     "sg:city":"Soleto",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185792837,
-    "wof:lastmodified":1449006960,
+    "wof:lastmodified":1466289232,
     "wof:name":"Banca Popolare Di Lecce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.207186,40.187576,18.207186,40.187576],
+  "bbox": [
+    18.207186,
+    40.187576,
+    18.207186,
+    40.187576
+],
   "geometry": {"coordinates":[18.207186,40.187576],"type":"Point"}
 }

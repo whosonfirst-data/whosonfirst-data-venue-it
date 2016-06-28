@@ -2,13 +2,14 @@
   "id": 303266807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.165724,40.357361,18.165724,40.357361",
     "geom:latitude":40.357361,
     "geom:longitude":18.165724,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Di Valesio 73100 Lecce",
     "sg:city":"Lecce",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303266807,
-    "wof:lastmodified":1448998192,
+    "wof:lastmodified":1466293819,
     "wof:name":"Tecnosic Societa' Cooperativa R.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [18.165724,40.357361,18.165724,40.357361],
+  "bbox": [
+    18.165724,
+    40.357361,
+    18.165724,
+    40.357361
+],
   "geometry": {"coordinates":[18.165724,40.357361],"type":"Point"}
 }

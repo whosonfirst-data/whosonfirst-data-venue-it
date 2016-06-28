@@ -2,13 +2,14 @@
   "id": 203127465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.773722,45.65789,13.773722,45.65789",
     "geom:latitude":45.65789,
     "geom:longitude":13.773722,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34132 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203127465,
-    "wof:lastmodified":1449026707,
+    "wof:lastmodified":1466289165,
     "wof:name":"Crisanaz Luciano",
     "wof:parent_id":85904965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.773722,45.65789,13.773722,45.65789],
+  "bbox": [
+    13.773722,
+    45.65789,
+    13.773722,
+    45.65789
+],
   "geometry": {"coordinates":[13.773722,45.65789],"type":"Point"}
 }

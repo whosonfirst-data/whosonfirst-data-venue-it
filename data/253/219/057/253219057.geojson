@@ -2,13 +2,14 @@
   "id": 253219057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.238965,45.662987,9.238965,45.662987",
     "geom:latitude":45.662987,
     "geom:longitude":9.238965,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Tiziano 20048 Carate Brianza",
     "sg:city":"Carate Brianza",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253219057,
-    "wof:lastmodified":1449065679,
+    "wof:lastmodified":1466291179,
     "wof:name":"Meccanottica Mazza Srl",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [9.238965,45.662987,9.238965,45.662987],
+  "bbox": [
+    9.238965,
+    45.662987,
+    9.238965,
+    45.662987
+],
   "geometry": {"coordinates":[9.238965,45.662987],"type":"Point"}
 }

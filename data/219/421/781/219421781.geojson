@@ -2,13 +2,14 @@
   "id": 219421781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.681277,45.063141,7.681277,45.063141",
     "geom:latitude":45.063141,
     "geom:longitude":7.681277,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10123 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219421781,
-    "wof:lastmodified":1449072621,
+    "wof:lastmodified":1466290562,
     "wof:name":"Csa Sas",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.681277,45.063141,7.681277,45.063141],
+  "bbox": [
+    7.681277,
+    45.063141,
+    7.681277,
+    45.063141
+],
   "geometry": {"coordinates":[7.681277,45.063141],"type":"Point"}
 }

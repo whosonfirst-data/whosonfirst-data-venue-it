@@ -2,13 +2,14 @@
   "id": 303435897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.330107,44.881977,7.330107,44.881977",
     "geom:latitude":44.881977,
     "geom:longitude":7.330107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10064 Pinerolo",
     "sg:city":"Pinerolo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303435897,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1466295892,
     "wof:name":"Ditta Giordano Fratelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.330107,44.881977,7.330107,44.881977],
+  "bbox": [
+    7.330107,
+    44.881977,
+    7.330107,
+    44.881977
+],
   "geometry": {"coordinates":[7.330107,44.881977],"type":"Point"}
 }

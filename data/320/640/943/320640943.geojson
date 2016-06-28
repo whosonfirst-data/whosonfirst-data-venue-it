@@ -2,13 +2,14 @@
   "id": 320640943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.233772,44.409615,9.233772,44.409615",
     "geom:latitude":44.409615,
     "geom:longitude":9.233772,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16047 Ferrada",
     "sg:city":"Ferrada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320640943,
-    "wof:lastmodified":1449012873,
+    "wof:lastmodified":1466297873,
     "wof:name":"International Slate Company (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.233772,44.409615,9.233772,44.409615],
+  "bbox": [
+    9.233772,
+    44.409615,
+    9.233772,
+    44.409615
+],
   "geometry": {"coordinates":[9.233772,44.409615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320826805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.177735,45.474953,10.177735,45.474953",
     "geom:latitude":45.474953,
     "geom:longitude":10.177735,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25020 Flero",
     "sg:city":"Flero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320826805,
-    "wof:lastmodified":1449013967,
+    "wof:lastmodified":1466298266,
     "wof:name":"Tubindustria S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.177735,45.474953,10.177735,45.474953],
+  "bbox": [
+    10.177735,
+    45.474953,
+    10.177735,
+    45.474953
+],
   "geometry": {"coordinates":[10.177735,45.474953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253748973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.58478,43.243622,13.58478,43.243622",
     "geom:latitude":43.243622,
     "geom:longitude":13.58478,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Dell'artigianato 62015 Monte San Giusto",
     "sg:city":"Monte San Giusto",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253748973,
-    "wof:lastmodified":1449065037,
+    "wof:lastmodified":1466296955,
     "wof:name":"E.m. Company Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.58478,43.243622,13.58478,43.243622],
+  "bbox": [
+    13.58478,
+    43.243622,
+    13.58478,
+    43.243622
+],
   "geometry": {"coordinates":[13.58478,43.243622],"type":"Point"}
 }

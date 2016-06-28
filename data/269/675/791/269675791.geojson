@@ -2,13 +2,14 @@
   "id": 269675791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.2661,43.78558,11.2661,43.78558",
     "geom:latitude":43.78558,
     "geom:longitude":11.2661,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, V. Pascoli 50129 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269675791,
-    "wof:lastmodified":1449037365,
+    "wof:lastmodified":1466291302,
     "wof:name":"Creative Image Entertainment",
     "wof:parent_id":85904683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [11.2661,43.78558,11.2661,43.78558],
+  "bbox": [
+    11.2661,
+    43.78558,
+    11.2661,
+    43.78558
+],
   "geometry": {"coordinates":[11.2661,43.78558],"type":"Point"}
 }

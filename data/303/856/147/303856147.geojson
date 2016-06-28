@@ -2,13 +2,14 @@
   "id": 303856147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.014972,45.701027,9.014972,45.701027",
     "geom:latitude":45.701027,
     "geom:longitude":9.014972,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Cirimido",
     "sg:city":"Cirimido",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303856147,
-    "wof:lastmodified":1448998808,
+    "wof:lastmodified":1466297936,
     "wof:name":"Arredamenti Rusconi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.014972,45.701027,9.014972,45.701027],
+  "bbox": [
+    9.014972,
+    45.701027,
+    9.014972,
+    45.701027
+],
   "geometry": {"coordinates":[9.014972,45.701027],"type":"Point"}
 }

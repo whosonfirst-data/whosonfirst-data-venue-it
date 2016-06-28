@@ -2,13 +2,14 @@
   "id": 319846709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.747464,45.288578,7.747464,45.288578",
     "geom:latitude":45.288578,
     "geom:longitude":7.747464,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10010 Feletto Canavese",
     "sg:classifiers":[],
     "sg:orig_category":"Autofficine, Gommisti E Autolavaggi - Attrezzature",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319846709,
-    "wof:lastmodified":1449024711,
+    "wof:lastmodified":1466292815,
     "wof:name":"Zeca Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.747464,45.288578,7.747464,45.288578],
+  "bbox": [
+    7.747464,
+    45.288578,
+    7.747464,
+    45.288578
+],
   "geometry": {"coordinates":[7.747464,45.288578],"type":"Point"}
 }

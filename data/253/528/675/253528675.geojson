@@ -2,13 +2,14 @@
   "id": 253528675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.39752,43.719376,10.39752,43.719376",
     "geom:latitude":43.719376,
     "geom:longitude":10.39752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56126 Pisa",
     "sg:city":"Pisa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253528675,
-    "wof:lastmodified":1449063603,
+    "wof:lastmodified":1466294982,
     "wof:name":"Universit\u00c0 Degli Studi Di Pisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.39752,43.719376,10.39752,43.719376],
+  "bbox": [
+    10.39752,
+    43.719376,
+    10.39752,
+    43.719376
+],
   "geometry": {"coordinates":[10.39752,43.719376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287039623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.054923,45.762196,9.054923,45.762196",
     "geom:latitude":45.762196,
     "geom:longitude":9.054923,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Luisago",
     "sg:city":"Luisago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287039623,
-    "wof:lastmodified":1449001464,
+    "wof:lastmodified":1466290084,
     "wof:name":"Tintoria Filati Portichetto Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.054923,45.762196,9.054923,45.762196],
+  "bbox": [
+    9.054923,
+    45.762196,
+    9.054923,
+    45.762196
+],
   "geometry": {"coordinates":[9.054923,45.762196],"type":"Point"}
 }

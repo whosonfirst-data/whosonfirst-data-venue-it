@@ -2,13 +2,14 @@
   "id": 303862369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.892664,42.903183,13.892664,42.903183",
     "geom:latitude":42.903183,
     "geom:longitude":13.892664,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63039 S. Benedetto Del Tronto",
     "sg:classifiers":[],
     "sg:orig_category":"Articoli Da Regalo. Forniture Per Attivita' Commerciali Ed Artigianali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303862369,
-    "wof:lastmodified":1449000630,
+    "wof:lastmodified":1466297861,
     "wof:name":"Pieffe Service Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.892664,42.903183,13.892664,42.903183],
+  "bbox": [
+    13.892664,
+    42.903183,
+    13.892664,
+    42.903183
+],
   "geometry": {"coordinates":[13.892664,42.903183],"type":"Point"}
 }

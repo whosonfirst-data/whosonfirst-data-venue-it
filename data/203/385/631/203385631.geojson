@@ -2,13 +2,14 @@
   "id": 203385631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.657787,44.692333,10.657787,44.692333",
     "geom:latitude":44.692333,
     "geom:longitude":10.657787,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Per Imballaggio E Confezionamento",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203385631,
-    "wof:lastmodified":1449026073,
+    "wof:lastmodified":1466291973,
     "wof:name":"T.d.a. Snc Di Davoli & C.",
     "wof:parent_id":85904913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.657787,44.692333,10.657787,44.692333],
+  "bbox": [
+    10.657787,
+    44.692333,
+    10.657787,
+    44.692333
+],
   "geometry": {"coordinates":[10.657787,44.692333],"type":"Point"}
 }

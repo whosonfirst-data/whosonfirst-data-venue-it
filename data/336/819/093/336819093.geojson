@@ -2,13 +2,14 @@
   "id": 336819093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.907761,45.420746,8.907761,45.420746",
     "geom:latitude":45.420746,
     "geom:longitude":8.907761,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48, Via Giacomo Matteotti 20081 Cassinetta Di Lugagnano",
     "sg:city":"Cassinetta di Lugagnano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336819093,
-    "wof:lastmodified":1448997204,
+    "wof:lastmodified":1466296302,
     "wof:name":"Contatto Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.907761,45.420746,8.907761,45.420746],
+  "bbox": [
+    8.907761,
+    45.420746,
+    8.907761,
+    45.420746
+],
   "geometry": {"coordinates":[8.907761,45.420746],"type":"Point"}
 }

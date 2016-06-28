@@ -2,13 +2,14 @@
   "id": 186351441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.964829,45.347218,11.964829,45.347218",
     "geom:latitude":45.347218,
     "geom:longitude":11.964829,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Legnaro",
     "sg:city":"Legnaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186351441,
-    "wof:lastmodified":1449052607,
+    "wof:lastmodified":1466290929,
     "wof:name":"Hurry Up Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.964829,45.347218,11.964829,45.347218],
+  "bbox": [
+    11.964829,
+    45.347218,
+    11.964829,
+    45.347218
+],
   "geometry": {"coordinates":[11.964829,45.347218],"type":"Point"}
 }

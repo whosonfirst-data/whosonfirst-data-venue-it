@@ -2,13 +2,14 @@
   "id": 253670005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.808053,44.968922,8.808053,44.968922",
     "geom:latitude":44.968922,
     "geom:longitude":8.808053,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15045 Sale",
     "sg:city":"Sale",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253670005,
-    "wof:lastmodified":1449063263,
+    "wof:lastmodified":1466296501,
     "wof:name":"Csm Di Stefano Clementini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.808053,44.968922,8.808053,44.968922],
+  "bbox": [
+    8.808053,
+    44.968922,
+    8.808053,
+    44.968922
+],
   "geometry": {"coordinates":[8.808053,44.968922],"type":"Point"}
 }

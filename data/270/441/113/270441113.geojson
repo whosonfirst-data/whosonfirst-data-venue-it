@@ -2,13 +2,14 @@
   "id": 270441113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.526299,40.731583,8.526299,40.731583",
     "geom:latitude":40.731583,
     "geom:longitude":8.526299,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"07100 Sassari",
     "sg:city":"Sassari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270441113,
-    "wof:lastmodified":1449008837,
+    "wof:lastmodified":1466294376,
     "wof:name":"Nortel Networks Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.526299,40.731583,8.526299,40.731583],
+  "bbox": [
+    8.526299,
+    40.731583,
+    8.526299,
+    40.731583
+],
   "geometry": {"coordinates":[8.526299,40.731583],"type":"Point"}
 }

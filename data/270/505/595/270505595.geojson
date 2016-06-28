@@ -2,13 +2,14 @@
   "id": 270505595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.161995,45.544941,9.161995,45.544941",
     "geom:latitude":45.544941,
     "geom:longitude":9.161995,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85/87, Viale Lombardia 20036 Meda",
     "sg:city":"Meda",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270505595,
-    "wof:lastmodified":1449010677,
+    "wof:lastmodified":1466295127,
     "wof:name":"Italy's Best (s.r.l.)",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.161995,45.544941,9.161995,45.544941],
+  "bbox": [
+    9.161995,
+    45.544941,
+    9.161995,
+    45.544941
+],
   "geometry": {"coordinates":[9.161995,45.544941],"type":"Point"}
 }

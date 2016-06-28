@@ -2,13 +2,14 @@
   "id": 186525353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.25096,43.774826,11.25096,43.774826",
     "geom:latitude":43.774826,
     "geom:longitude":11.25096,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Piazza Dell' Unita' Italiana 50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186525353,
-    "wof:lastmodified":1449052448,
+    "wof:lastmodified":1466292546,
     "wof:name":"Albergo Grand Hotel Baglioni",
     "wof:parent_id":85904707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.25096,43.774826,11.25096,43.774826],
+  "bbox": [
+    11.25096,
+    43.774826,
+    11.25096,
+    43.774826
+],
   "geometry": {"coordinates":[11.25096,43.774826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203385147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.16485,40.075619,18.16485,40.075619",
     "geom:latitude":40.075619,
     "geom:longitude":18.16485,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73050 Secl\u00ec",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Per Imballaggio E Confezionamento",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203385147,
-    "wof:lastmodified":1449026075,
+    "wof:lastmodified":1466291968,
     "wof:name":"Meriplast Di De Finis Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.16485,40.075619,18.16485,40.075619],
+  "bbox": [
+    18.16485,
+    40.075619,
+    18.16485,
+    40.075619
+],
   "geometry": {"coordinates":[18.16485,40.075619],"type":"Point"}
 }

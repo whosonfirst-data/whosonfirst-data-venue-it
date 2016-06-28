@@ -2,13 +2,14 @@
   "id": 286692179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.666974,44.68235,10.666974,44.68235",
     "geom:latitude":44.68235,
     "geom:longitude":10.666974,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Via Monti Urali 42100 Reggio Emilia",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286692179,
-    "wof:lastmodified":1449015961,
+    "wof:lastmodified":1466295115,
     "wof:name":"C.s.i. - Costruzioni Stradali Ed Idrauliche (s.r.l.)",
     "wof:parent_id":85904909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [10.666974,44.68235,10.666974,44.68235],
+  "bbox": [
+    10.666974,
+    44.68235,
+    10.666974,
+    44.68235
+],
   "geometry": {"coordinates":[10.666974,44.68235],"type":"Point"}
 }

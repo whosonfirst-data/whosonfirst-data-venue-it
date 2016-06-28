@@ -2,13 +2,14 @@
   "id": 269890453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.387432,45.595657,9.387432,45.595657",
     "geom:latitude":45.595657,
     "geom:longitude":9.387432,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Strada Provinciale Per Ornago 20040 Burago Di Molgora",
     "sg:city":"Burago di Molgora",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269890453,
-    "wof:lastmodified":1449036682,
+    "wof:lastmodified":1466294028,
     "wof:name":"Antologia S.s. Di Adelio E Fabrizio Gaviraghi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [9.387432,45.595657,9.387432,45.595657],
+  "bbox": [
+    9.387432,
+    45.595657,
+    9.387432,
+    45.595657
+],
   "geometry": {"coordinates":[9.387432,45.595657],"type":"Point"}
 }

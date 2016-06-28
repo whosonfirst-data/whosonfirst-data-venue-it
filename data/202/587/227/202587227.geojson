@@ -2,13 +2,14 @@
   "id": 202587227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.416115,41.822029,12.416115,41.822029",
     "geom:latitude":41.822029,
     "geom:longitude":12.416115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00148 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202587227,
-    "wof:lastmodified":1449060980,
+    "wof:lastmodified":1466289796,
     "wof:name":"Business Centre Parco De' Medici",
     "wof:parent_id":85900349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trade"
     ]
 },
-  "bbox": [12.416115,41.822029,12.416115,41.822029],
+  "bbox": [
+    12.416115,
+    41.822029,
+    12.416115,
+    41.822029
+],
   "geometry": {"coordinates":[12.416115,41.822029],"type":"Point"}
 }

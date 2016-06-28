@@ -2,13 +2,14 @@
   "id": 169790279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.075017,45.551971,9.075017,45.551971",
     "geom:latitude":45.551971,
     "geom:longitude":9.075017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Arese",
     "sg:city":"Arese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169790279,
-    "wof:lastmodified":1449035188,
+    "wof:lastmodified":1466295937,
     "wof:name":"Osirc Organizzazione Sicurezza Industriale E Recupero Crediti (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.075017,45.551971,9.075017,45.551971],
+  "bbox": [
+    9.075017,
+    45.551971,
+    9.075017,
+    45.551971
+],
   "geometry": {"coordinates":[9.075017,45.551971],"type":"Point"}
 }

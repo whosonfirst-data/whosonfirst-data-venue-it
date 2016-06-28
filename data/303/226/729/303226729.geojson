@@ -2,13 +2,14 @@
   "id": 303226729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.908102,45.497391,8.908102,45.497391",
     "geom:latitude":45.497391,
     "geom:longitude":8.908102,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Europa, 64/66 20010 Ossona",
     "sg:city":"Ossona",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303226729,
-    "wof:lastmodified":1448999893,
+    "wof:lastmodified":1466293315,
     "wof:name":"Nuova De.ma. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [8.908102,45.497391,8.908102,45.497391],
+  "bbox": [
+    8.908102,
+    45.497391,
+    8.908102,
+    45.497391
+],
   "geometry": {"coordinates":[8.908102,45.497391],"type":"Point"}
 }

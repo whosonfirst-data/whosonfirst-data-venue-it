@@ -2,13 +2,14 @@
   "id": 219177109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.082115,37.52462,15.082115,37.52462",
     "geom:latitude":37.52462,
     "geom:longitude":15.082115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95128 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219177109,
-    "wof:lastmodified":1449073913,
+    "wof:lastmodified":1466294612,
     "wof:name":"Autoservizi Russo Di Russo Salvatore & C. Snc",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.082115,37.52462,15.082115,37.52462],
+  "bbox": [
+    15.082115,
+    37.52462,
+    15.082115,
+    37.52462
+],
   "geometry": {"coordinates":[15.082115,37.52462],"type":"Point"}
 }

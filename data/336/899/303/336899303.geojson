@@ -2,13 +2,14 @@
   "id": 336899303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.074626,45.555244,9.074626,45.555244",
     "geom:latitude":45.555244,
     "geom:longitude":9.074626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Arese",
     "sg:city":"Arese",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336899303,
-    "wof:lastmodified":1448997949,
+    "wof:lastmodified":1466296951,
     "wof:name":"Bertazzi Oscar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.074626,45.555244,9.074626,45.555244],
+  "bbox": [
+    9.074626,
+    45.555244,
+    9.074626,
+    45.555244
+],
   "geometry": {"coordinates":[9.074626,45.555244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253725917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.574977,42.8554,13.574977,42.8554",
     "geom:latitude":42.8554,
     "geom:longitude":13.574977,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via De Nicola Enrico 63023 Fermo",
     "sg:city":"Fermo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253725917,
-    "wof:lastmodified":1449063534,
+    "wof:lastmodified":1466296961,
     "wof:name":"Nuova Socopel S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [13.574977,42.8554,13.574977,42.8554],
+  "bbox": [
+    13.574977,
+    42.8554,
+    13.574977,
+    42.8554
+],
   "geometry": {"coordinates":[13.574977,42.8554],"type":"Point"}
 }

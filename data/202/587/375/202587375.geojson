@@ -2,13 +2,14 @@
   "id": 202587375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.483269,41.890724,12.483269,41.890724",
     "geom:latitude":41.890724,
     "geom:longitude":12.483269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202587375,
-    "wof:lastmodified":1449060977,
+    "wof:lastmodified":1466289798,
     "wof:name":"C.r.i.c. Consorzio Romano Interpreti Di Conferenza S.c. A R.l.",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trade"
     ]
 },
-  "bbox": [12.483269,41.890724,12.483269,41.890724],
+  "bbox": [
+    12.483269,
+    41.890724,
+    12.483269,
+    41.890724
+],
   "geometry": {"coordinates":[12.483269,41.890724],"type":"Point"}
 }

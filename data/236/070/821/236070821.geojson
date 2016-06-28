@@ -2,13 +2,14 @@
   "id": 236070821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.637999,38.220745,15.637999,38.220745",
     "geom:latitude":38.220745,
     "geom:longitude":15.637999,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"89011 Bagnara Calabra",
     "sg:city":"Bagnara Calabra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236070821,
-    "wof:lastmodified":1449003221,
+    "wof:lastmodified":1466289598,
     "wof:name":"Cundari Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.637999,38.220745,15.637999,38.220745],
+  "bbox": [
+    15.637999,
+    38.220745,
+    15.637999,
+    38.220745
+],
   "geometry": {"coordinates":[15.637999,38.220745],"type":"Point"}
 }

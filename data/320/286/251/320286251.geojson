@@ -2,13 +2,14 @@
   "id": 320286251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.626446,44.988895,7.626446,44.988895",
     "geom:latitude":44.988895,
     "geom:longitude":7.626446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10042 Nichelino",
     "sg:city":"Nichelino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320286251,
-    "wof:lastmodified":1449012243,
+    "wof:lastmodified":1466296773,
     "wof:name":"Ggt Engineering Srl",
     "wof:parent_id":85797003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.626446,44.988895,7.626446,44.988895],
+  "bbox": [
+    7.626446,
+    44.988895,
+    7.626446,
+    44.988895
+],
   "geometry": {"coordinates":[7.626446,44.988895],"type":"Point"}
 }

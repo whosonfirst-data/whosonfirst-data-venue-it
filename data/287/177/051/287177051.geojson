@@ -2,13 +2,14 @@
   "id": 287177051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.667747,41.561394,14.667747,41.561394",
     "geom:latitude":41.561394,
     "geom:longitude":14.667747,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Crispi; Campobasso; 86100",
     "sg:city":"Campobasso",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287177051,
-    "wof:lastmodified":1449001590,
+    "wof:lastmodified":1466291949,
     "wof:name":"Molise Region",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.667747,41.561394,14.667747,41.561394],
+  "bbox": [
+    14.667747,
+    41.561394,
+    14.667747,
+    41.561394
+],
   "geometry": {"coordinates":[14.667747,41.561394],"type":"Point"}
 }

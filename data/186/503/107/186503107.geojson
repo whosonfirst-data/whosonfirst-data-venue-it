@@ -2,13 +2,14 @@
   "id": 186503107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.630257,45.675449,9.630257,45.675449",
     "geom:latitude":45.675449,
     "geom:longitude":9.630257,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Via Piave 24048 Treviolo",
     "sg:city":"Treviolo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186503107,
-    "wof:lastmodified":1449053036,
+    "wof:lastmodified":1466292306,
     "wof:name":"Ufg Elettronica Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [9.630257,45.675449,9.630257,45.675449],
+  "bbox": [
+    9.630257,
+    45.675449,
+    9.630257,
+    45.675449
+],
   "geometry": {"coordinates":[9.630257,45.675449],"type":"Point"}
 }

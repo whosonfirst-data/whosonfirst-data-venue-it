@@ -2,13 +2,14 @@
   "id": 253509341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.114202,40.869617,15.114202,40.869617",
     "geom:latitude":40.869617,
     "geom:longitude":15.114202,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83051 Nusco",
     "sg:city":"Nusco",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253509341,
-    "wof:lastmodified":1449062946,
+    "wof:lastmodified":1466294746,
     "wof:name":"Dielve S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.114202,40.869617,15.114202,40.869617],
+  "bbox": [
+    15.114202,
+    40.869617,
+    15.114202,
+    40.869617
+],
   "geometry": {"coordinates":[15.114202,40.869617],"type":"Point"}
 }

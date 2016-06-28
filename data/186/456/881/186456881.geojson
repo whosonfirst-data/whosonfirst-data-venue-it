@@ -2,13 +2,14 @@
   "id": 186456881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.582978,45.429089,8.582978,45.429089",
     "geom:latitude":45.429089,
     "geom:longitude":8.582978,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"120, Corso Vercelli 28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186456881,
-    "wof:lastmodified":1449051172,
+    "wof:lastmodified":1466291877,
     "wof:name":"Barilla Alimentare (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bread"
     ]
 },
-  "bbox": [8.582978,45.429089,8.582978,45.429089],
+  "bbox": [
+    8.582978,
+    45.429089,
+    8.582978,
+    45.429089
+],
   "geometry": {"coordinates":[8.582978,45.429089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253416689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.747909,43.860737,10.747909,43.860737",
     "geom:latitude":43.860737,
     "geom:longitude":10.747909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50145 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253416689,
-    "wof:lastmodified":1449064153,
+    "wof:lastmodified":1466293591,
     "wof:name":"Squilloni & C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "houseware"
     ]
 },
-  "bbox": [10.747909,43.860737,10.747909,43.860737],
+  "bbox": [
+    10.747909,
+    43.860737,
+    10.747909,
+    43.860737
+],
   "geometry": {"coordinates":[10.747909,43.860737],"type":"Point"}
 }

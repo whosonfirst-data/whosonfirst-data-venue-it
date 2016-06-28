@@ -2,13 +2,14 @@
   "id": 270249333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.469494,45.598827,12.469494,45.598827",
     "geom:latitude":45.598827,
     "geom:longitude":12.469494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Filippo 27 30020 Meolo",
     "sg:city":"Meolo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270249333,
-    "wof:lastmodified":1449008803,
+    "wof:lastmodified":1466291985,
     "wof:name":"Industria Veneta Filati S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "carpet"
     ]
 },
-  "bbox": [12.469494,45.598827,12.469494,45.598827],
+  "bbox": [
+    12.469494,
+    45.598827,
+    12.469494,
+    45.598827
+],
   "geometry": {"coordinates":[12.469494,45.598827],"type":"Point"}
 }

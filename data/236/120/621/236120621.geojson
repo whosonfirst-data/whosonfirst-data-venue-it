@@ -2,13 +2,14 @@
   "id": 236120621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.738138,45.836174,8.738138,45.836174",
     "geom:latitude":45.836174,
     "geom:longitude":8.738138,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Verdi 37 21030 Cuvio",
     "sg:city":"Cuvio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236120621,
-    "wof:lastmodified":1449004678,
+    "wof:lastmodified":1466290097,
     "wof:name":"Valcuvia S.r.l",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plastic"
     ]
 },
-  "bbox": [8.738138,45.836174,8.738138,45.836174],
+  "bbox": [
+    8.738138,
+    45.836174,
+    8.738138,
+    45.836174
+],
   "geometry": {"coordinates":[8.738138,45.836174],"type":"Point"}
 }

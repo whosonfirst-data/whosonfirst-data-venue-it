@@ -2,13 +2,14 @@
   "id": 202998557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.170838,41.089676,15.170838,41.089676",
     "geom:latitude":41.089676,
     "geom:longitude":15.170838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80048 S.anastasia",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Agricoltura E Zootecnia. Animali Domestici",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202998557,
-    "wof:lastmodified":1449060946,
+    "wof:lastmodified":1466294174,
     "wof:name":"Parmiciano Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.170838,41.089676,15.170838,41.089676],
+  "bbox": [
+    15.170838,
+    41.089676,
+    15.170838,
+    41.089676
+],
   "geometry": {"coordinates":[15.170838,41.089676],"type":"Point"}
 }

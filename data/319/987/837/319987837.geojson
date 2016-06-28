@@ -2,13 +2,14 @@
   "id": 319987837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.612339,45.442238,8.612339,45.442238",
     "geom:latitude":45.442238,
     "geom:longitude":8.612339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pietro Custodi 12 28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319987837,
-    "wof:lastmodified":1449024517,
+    "wof:lastmodified":1466294645,
     "wof:name":"Alce Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "milk"
     ]
 },
-  "bbox": [8.612339,45.442238,8.612339,45.442238],
+  "bbox": [
+    8.612339,
+    45.442238,
+    8.612339,
+    45.442238
+],
   "geometry": {"coordinates":[8.612339,45.442238],"type":"Point"}
 }

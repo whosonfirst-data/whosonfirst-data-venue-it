@@ -2,13 +2,14 @@
   "id": 320288007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.497869,45.417068,10.497869,45.417068",
     "geom:latitude":45.417068,
     "geom:longitude":10.497869,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46043 Castiglione Stiviere",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Industria Chimica",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320288007,
-    "wof:lastmodified":1449011636,
+    "wof:lastmodified":1466296787,
     "wof:name":"Impianti Industriali Cem. El. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.497869,45.417068,10.497869,45.417068],
+  "bbox": [
+    10.497869,
+    45.417068,
+    10.497869,
+    45.417068
+],
   "geometry": {"coordinates":[10.497869,45.417068],"type":"Point"}
 }

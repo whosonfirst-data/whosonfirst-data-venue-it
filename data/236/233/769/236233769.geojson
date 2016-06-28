@@ -2,13 +2,14 @@
   "id": 236233769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.175448,45.768414,9.175448,45.768414",
     "geom:latitude":45.768414,
     "geom:longitude":9.175448,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Dosso 10 22040 Alzate Brianza",
     "sg:city":"Alzate Brianza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236233769,
-    "wof:lastmodified":1449005315,
+    "wof:lastmodified":1466291243,
     "wof:name":"Laboratorio Santina Di Manciaracina Susanna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "necktie"
     ]
 },
-  "bbox": [9.175448,45.768414,9.175448,45.768414],
+  "bbox": [
+    9.175448,
+    45.768414,
+    9.175448,
+    45.768414
+],
   "geometry": {"coordinates":[9.175448,45.768414],"type":"Point"}
 }

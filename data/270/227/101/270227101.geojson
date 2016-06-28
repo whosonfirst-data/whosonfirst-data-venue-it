@@ -2,13 +2,14 @@
   "id": 270227101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.259912,44.352318,12.259912,44.352318",
     "geom:latitude":44.352318,
     "geom:longitude":12.259912,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Salentina, 6 - Fosso Ghiaia 48020 Ravenna",
     "sg:city":"Ravenna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270227101,
-    "wof:lastmodified":1449009153,
+    "wof:lastmodified":1466291749,
     "wof:name":"Emmepi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supraregional"
     ]
 },
-  "bbox": [12.259912,44.352318,12.259912,44.352318],
+  "bbox": [
+    12.259912,
+    44.352318,
+    12.259912,
+    44.352318
+],
   "geometry": {"coordinates":[12.259912,44.352318],"type":"Point"}
 }

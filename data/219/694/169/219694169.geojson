@@ -2,13 +2,14 @@
   "id": 219694169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.947471,45.490681,8.947471,45.490681",
     "geom:latitude":45.490681,
     "geom:longitude":8.947471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Vittuone",
     "sg:city":"Vittuone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219694169,
-    "wof:lastmodified":1449071401,
+    "wof:lastmodified":1466293242,
     "wof:name":"Ristorante Spaghetteria Incontro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.947471,45.490681,8.947471,45.490681],
+  "bbox": [
+    8.947471,
+    45.490681,
+    8.947471,
+    45.490681
+],
   "geometry": {"coordinates":[8.947471,45.490681],"type":"Point"}
 }

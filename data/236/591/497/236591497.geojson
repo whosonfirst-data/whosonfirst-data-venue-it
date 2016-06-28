@@ -2,13 +2,14 @@
   "id": 236591497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.188141,45.463688,9.188141,45.463688",
     "geom:latitude":45.463688,
     "geom:longitude":9.188141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, V. Giusti 20033 Desio",
     "sg:city":"Desio",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236591497,
-    "wof:lastmodified":1449003417,
+    "wof:lastmodified":1466294939,
     "wof:name":"Gagliazzo Dino Snc",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.188141,45.463688,9.188141,45.463688],
+  "bbox": [
+    9.188141,
+    45.463688,
+    9.188141,
+    45.463688
+],
   "geometry": {"coordinates":[9.188141,45.463688],"type":"Point"}
 }

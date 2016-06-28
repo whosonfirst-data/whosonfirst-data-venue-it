@@ -2,13 +2,14 @@
   "id": 236920937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.706165,45.661407,9.706165,45.661407",
     "geom:latitude":45.661407,
     "geom:longitude":9.706165,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Aldo Moro 24050 Orio Al Serio",
     "sg:city":"Orio al Serio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236920937,
-    "wof:lastmodified":1449004345,
+    "wof:lastmodified":1466297355,
     "wof:name":"Marabini F.lli (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [9.706165,45.661407,9.706165,45.661407],
+  "bbox": [
+    9.706165,
+    45.661407,
+    9.706165,
+    45.661407
+],
   "geometry": {"coordinates":[9.706165,45.661407],"type":"Point"}
 }

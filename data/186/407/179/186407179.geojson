@@ -2,13 +2,14 @@
   "id": 186407179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.071151,40.816353,14.071151,40.816353",
     "geom:latitude":40.816353,
     "geom:longitude":14.071151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45/a, Via Lucullo 80070 Bacoli",
     "sg:city":"Bacoli",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186407179,
-    "wof:lastmodified":1449051869,
+    "wof:lastmodified":1466291419,
     "wof:name":"Cantieri Di Baia Mericraft (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.071151,40.816353,14.071151,40.816353],
+  "bbox": [
+    14.071151,
+    40.816353,
+    14.071151,
+    40.816353
+],
   "geometry": {"coordinates":[14.071151,40.816353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336642641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.228221,44.901653,8.228221,44.901653",
     "geom:latitude":44.901653,
     "geom:longitude":8.228221,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Parmetler Gaetano 14100 Asti",
     "sg:city":"Asti",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336642641,
-    "wof:lastmodified":1448996984,
+    "wof:lastmodified":1466294241,
     "wof:name":"Costruzioni Meccaniche F.lli Rampone Di Mauro Ramp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.228221,44.901653,8.228221,44.901653],
+  "bbox": [
+    8.228221,
+    44.901653,
+    8.228221,
+    44.901653
+],
   "geometry": {"coordinates":[8.228221,44.901653],"type":"Point"}
 }

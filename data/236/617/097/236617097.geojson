@@ -2,13 +2,14 @@
   "id": 236617097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.423964,46.24704,9.423964,46.24704",
     "geom:latitude":46.24704,
     "geom:longitude":9.423964,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Nazionale 107 Somaggia 23027 Samolaco",
     "sg:city":"Samolaco",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236617097,
-    "wof:lastmodified":1449001763,
+    "wof:lastmodified":1466295170,
     "wof:name":"M.v. Mobili Valchiavenna S.n.c. Di Premerlani Germano Mauro E Gianpaolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.423964,46.24704,9.423964,46.24704],
+  "bbox": [
+    9.423964,
+    46.24704,
+    9.423964,
+    46.24704
+],
   "geometry": {"coordinates":[9.423964,46.24704],"type":"Point"}
 }

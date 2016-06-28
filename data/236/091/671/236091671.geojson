@@ -2,13 +2,14 @@
   "id": 236091671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.121315,45.529118,9.121315,45.529118",
     "geom:latitude":45.529118,
     "geom:longitude":9.121315,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20021 Bollate",
     "sg:city":"Bollate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236091671,
-    "wof:lastmodified":1449001920,
+    "wof:lastmodified":1466289820,
     "wof:name":"Sammontana Srl",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.121315,45.529118,9.121315,45.529118],
+  "bbox": [
+    9.121315,
+    45.529118,
+    9.121315,
+    45.529118
+],
   "geometry": {"coordinates":[9.121315,45.529118],"type":"Point"}
 }

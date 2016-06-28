@@ -2,13 +2,14 @@
   "id": 286743487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.639709,43.977371,12.639709,43.977371",
     "geom:latitude":43.977371,
     "geom:longitude":12.639709,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell'industria 12 47832 San Clemente",
     "sg:city":"San Clemente",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286743487,
-    "wof:lastmodified":1449018065,
+    "wof:lastmodified":1466295767,
     "wof:name":"Aracne Di Mantovani Lorenzo & C. Sn C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "creative"
     ]
 },
-  "bbox": [12.639709,43.977371,12.639709,43.977371],
+  "bbox": [
+    12.639709,
+    43.977371,
+    12.639709,
+    43.977371
+],
   "geometry": {"coordinates":[12.639709,43.977371],"type":"Point"}
 }

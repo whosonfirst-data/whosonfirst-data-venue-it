@@ -2,13 +2,14 @@
   "id": 303672421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.103954,43.868492,11.103954,43.868492",
     "geom:latitude":43.868492,
     "geom:longitude":11.103954,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303672421,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466297581,
     "wof:name":"Pietruzzi Vais & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.103954,43.868492,11.103954,43.868492],
+  "bbox": [
+    11.103954,
+    43.868492,
+    11.103954,
+    43.868492
+],
   "geometry": {"coordinates":[11.103954,43.868492],"type":"Point"}
 }

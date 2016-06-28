@@ -2,13 +2,14 @@
   "id": 219726771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.218016,44.046906,8.218016,44.046906",
     "geom:latitude":44.046906,
     "geom:longitude":8.218016,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73, Via Trieste 17031 Albenga",
     "sg:city":"Albenga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219726771,
-    "wof:lastmodified":1449072805,
+    "wof:lastmodified":1466293550,
     "wof:name":"Agenzia Ponente Onoranze Funebri S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [8.218016,44.046906,8.218016,44.046906],
+  "bbox": [
+    8.218016,
+    44.046906,
+    8.218016,
+    44.046906
+],
   "geometry": {"coordinates":[8.218016,44.046906],"type":"Point"}
 }

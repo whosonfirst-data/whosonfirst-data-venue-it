@@ -2,13 +2,14 @@
   "id": 219299635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.98922,44.892521,9.98922,44.892521",
     "geom:latitude":44.892521,
     "geom:longitude":9.98922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Stazione 14 29010 Alseno",
     "sg:city":"Alseno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219299635,
-    "wof:lastmodified":1449071292,
+    "wof:lastmodified":1466289298,
     "wof:name":"Seral Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [9.98922,44.892521,9.98922,44.892521],
+  "bbox": [
+    9.98922,
+    44.892521,
+    9.98922,
+    44.892521
+],
   "geometry": {"coordinates":[9.98922,44.892521],"type":"Point"}
 }

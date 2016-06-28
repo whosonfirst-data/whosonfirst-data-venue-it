@@ -2,13 +2,14 @@
   "id": 287250521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.594282,45.58511,9.594282,45.58511",
     "geom:latitude":45.58511,
     "geom:longitude":9.594282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Campania 24040 Ciserano",
     "sg:city":"Ciserano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287250521,
-    "wof:lastmodified":1449001184,
+    "wof:lastmodified":1466292934,
     "wof:name":"Tecnoelettrica (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.594282,45.58511,9.594282,45.58511],
+  "bbox": [
+    9.594282,
+    45.58511,
+    9.594282,
+    45.58511
+],
   "geometry": {"coordinates":[9.594282,45.58511],"type":"Point"}
 }

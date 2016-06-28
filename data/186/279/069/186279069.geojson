@@ -2,13 +2,14 @@
   "id": 186279069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.944126,40.400566,17.944126,40.400566",
     "geom:latitude":40.400566,
     "geom:longitude":17.944126,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73010 Guagnano",
     "sg:city":"Guagnano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186279069,
-    "wof:lastmodified":1449051604,
+    "wof:lastmodified":1466290311,
     "wof:name":"Azienda Agricola Taurino Cosimo Sdf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.944126,40.400566,17.944126,40.400566],
+  "bbox": [
+    17.944126,
+    40.400566,
+    17.944126,
+    40.400566
+],
   "geometry": {"coordinates":[17.944126,40.400566],"type":"Point"}
 }

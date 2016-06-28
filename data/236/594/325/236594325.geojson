@@ -2,13 +2,14 @@
   "id": 236594325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.302703,45.996387,13.302703,45.996387",
     "geom:latitude":45.996387,
     "geom:longitude":13.302703,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Localita' Z.i.u. 33050 Pavia Di Udine",
     "sg:city":"Pavia di Udine",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236594325,
-    "wof:lastmodified":1449002030,
+    "wof:lastmodified":1466294966,
     "wof:name":"Gervasoni Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.302703,45.996387,13.302703,45.996387],
+  "bbox": [
+    13.302703,
+    45.996387,
+    13.302703,
+    45.996387
+],
   "geometry": {"coordinates":[13.302703,45.996387],"type":"Point"}
 }

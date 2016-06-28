@@ -2,13 +2,14 @@
   "id": 236353503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.57335,45.60334,11.57335,45.60334",
     "geom:latitude":45.60334,
     "geom:longitude":11.57335,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36066 Sandrigo",
     "sg:city":"Sandrigo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236353503,
-    "wof:lastmodified":1449002424,
+    "wof:lastmodified":1466292489,
     "wof:name":"Nord Vetro Di Biasia Giacomo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.57335,45.60334,11.57335,45.60334],
+  "bbox": [
+    11.57335,
+    45.60334,
+    11.57335,
+    45.60334
+],
   "geometry": {"coordinates":[11.57335,45.60334],"type":"Point"}
 }

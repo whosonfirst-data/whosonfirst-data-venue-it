@@ -2,13 +2,14 @@
   "id": 286305959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.446278,45.156277,7.446278,45.156277",
     "geom:latitude":45.156277,
     "geom:longitude":7.446278,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 Val Della Torre",
     "sg:city":"Val della Torre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286305959,
-    "wof:lastmodified":1449015613,
+    "wof:lastmodified":1466290029,
     "wof:name":"Myred Beauty Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "secondary"
     ]
 },
-  "bbox": [7.446278,45.156277,7.446278,45.156277],
+  "bbox": [
+    7.446278,
+    45.156277,
+    7.446278,
+    45.156277
+],
   "geometry": {"coordinates":[7.446278,45.156277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286286615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.362608,45.273113,8.362608,45.273113",
     "geom:latitude":45.273113,
     "geom:longitude":8.362608,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81, Strada Vercelli 13038 Tricerro",
     "sg:city":"Tricerro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286286615,
-    "wof:lastmodified":1449015946,
+    "wof:lastmodified":1466289756,
     "wof:name":"Zschimmer E Schwarz Italiana Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.362608,45.273113,8.362608,45.273113],
+  "bbox": [
+    8.362608,
+    45.273113,
+    8.362608,
+    45.273113
+],
   "geometry": {"coordinates":[8.362608,45.273113],"type":"Point"}
 }

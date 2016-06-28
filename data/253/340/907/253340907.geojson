@@ -2,13 +2,14 @@
   "id": 253340907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.031109,45.597504,9.031109,45.597504",
     "geom:latitude":45.597504,
     "geom:longitude":9.031109,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Garavaglia 214 21042 Caronno Pertusella",
     "sg:city":"Caronno Pertusella",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253340907,
-    "wof:lastmodified":1449065087,
+    "wof:lastmodified":1466292749,
     "wof:name":"Garavaglia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.031109,45.597504,9.031109,45.597504],
+  "bbox": [
+    9.031109,
+    45.597504,
+    9.031109,
+    45.597504
+],
   "geometry": {"coordinates":[9.031109,45.597504],"type":"Point"}
 }

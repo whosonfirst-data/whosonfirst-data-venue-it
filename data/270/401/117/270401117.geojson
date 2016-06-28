@@ -2,13 +2,14 @@
   "id": 270401117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.140048,44.416389,12.140048,44.416389",
     "geom:latitude":44.416389,
     "geom:longitude":12.140048,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48100 Ravenna",
     "sg:city":"Fornace zarattini",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270401117,
-    "wof:lastmodified":1449010716,
+    "wof:lastmodified":1466293890,
     "wof:name":"Eclat De Beaute' Di Chenu Lydia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.140048,44.416389,12.140048,44.416389],
+  "bbox": [
+    12.140048,
+    44.416389,
+    12.140048,
+    44.416389
+],
   "geometry": {"coordinates":[12.140048,44.416389],"type":"Point"}
 }

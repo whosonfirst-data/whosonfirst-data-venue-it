@@ -2,13 +2,14 @@
   "id": 236956019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.688896,45.086273,7.688896,45.086273",
     "geom:latitude":45.086273,
     "geom:longitude":7.688896,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10152 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236956019,
-    "wof:lastmodified":1449002094,
+    "wof:lastmodified":1466297234,
     "wof:name":"Fcc Fabrizio Carnino Chimica",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "machinery"
     ]
 },
-  "bbox": [7.688896,45.086273,7.688896,45.086273],
+  "bbox": [
+    7.688896,
+    45.086273,
+    7.688896,
+    45.086273
+],
   "geometry": {"coordinates":[7.688896,45.086273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320199893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.361877,45.979134,13.361877,45.979134",
     "geom:latitude":45.979134,
     "geom:longitude":13.361877,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33044 Manzano",
     "sg:city":"Manzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320199893,
-    "wof:lastmodified":1449011626,
+    "wof:lastmodified":1466295812,
     "wof:name":"Levigatura Zucchia Di Zucchia Valter & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.361877,45.979134,13.361877,45.979134],
+  "bbox": [
+    13.361877,
+    45.979134,
+    13.361877,
+    45.979134
+],
   "geometry": {"coordinates":[13.361877,45.979134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169749539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.290493,40.8419,14.290493,40.8419",
     "geom:latitude":40.8419,
     "geom:longitude":14.290493,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80146 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169749539,
-    "wof:lastmodified":1449033623,
+    "wof:lastmodified":1466295303,
     "wof:name":"Equipe Service Management Sas",
     "wof:parent_id":85904823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.290493,40.8419,14.290493,40.8419],
+  "bbox": [
+    14.290493,
+    40.8419,
+    14.290493,
+    40.8419
+],
   "geometry": {"coordinates":[14.290493,40.8419],"type":"Point"}
 }

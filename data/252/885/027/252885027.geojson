@@ -2,13 +2,14 @@
   "id": 252885027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.190432,45.376583,9.190432,45.376583",
     "geom:latitude":45.376583,
     "geom:longitude":9.190432,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20086 Motta Visconti",
     "sg:city":"Motta Visconti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252885027,
-    "wof:lastmodified":1449005996,
+    "wof:lastmodified":1466290865,
     "wof:name":"Barbieri Claudio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.190432,45.376583,9.190432,45.376583],
+  "bbox": [
+    9.190432,
+    45.376583,
+    9.190432,
+    45.376583
+],
   "geometry": {"coordinates":[9.190432,45.376583],"type":"Point"}
 }

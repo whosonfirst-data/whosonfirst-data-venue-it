@@ -2,13 +2,14 @@
   "id": 236272351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.909537,43.017517,11.909537,43.017517",
     "geom:latitude":43.017517,
     "geom:longitude":11.909537,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53043 Chiusi",
     "sg:city":"Chiusi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236272351,
-    "wof:lastmodified":1449004979,
+    "wof:lastmodified":1466291654,
     "wof:name":"Ceramiche Barbetti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.909537,43.017517,11.909537,43.017517],
+  "bbox": [
+    11.909537,
+    43.017517,
+    11.909537,
+    43.017517
+],
   "geometry": {"coordinates":[11.909537,43.017517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269672963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.187137,45.459091,9.187137,45.459091",
     "geom:latitude":45.459091,
     "geom:longitude":9.187137,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269672963,
-    "wof:lastmodified":1449036299,
+    "wof:lastmodified":1466291251,
     "wof:name":"T.r.c. Sas Di Carlos Trujllo",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "communication"
     ]
 },
-  "bbox": [9.187137,45.459091,9.187137,45.459091],
+  "bbox": [
+    9.187137,
+    45.459091,
+    9.187137,
+    45.459091
+],
   "geometry": {"coordinates":[9.187137,45.459091],"type":"Point"}
 }

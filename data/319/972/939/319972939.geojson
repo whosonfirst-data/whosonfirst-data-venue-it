@@ -2,13 +2,14 @@
   "id": 319972939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.725494,45.075024,7.725494,45.075024",
     "geom:latitude":45.075024,
     "geom:longitude":7.725494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10153 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319972939,
-    "wof:lastmodified":1449024477,
+    "wof:lastmodified":1466294458,
     "wof:name":"Autoscuola Belgio",
     "wof:parent_id":85796997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.725494,45.075024,7.725494,45.075024],
+  "bbox": [
+    7.725494,
+    45.075024,
+    7.725494,
+    45.075024
+],
   "geometry": {"coordinates":[7.725494,45.075024],"type":"Point"}
 }

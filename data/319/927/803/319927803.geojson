@@ -2,13 +2,14 @@
   "id": 319927803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.068296,46.22126,13.068296,46.22126",
     "geom:latitude":46.22126,
     "geom:longitude":13.068296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33010 Osoppo",
     "sg:city":"Osoppo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319927803,
-    "wof:lastmodified":1449024808,
+    "wof:lastmodified":1466293915,
     "wof:name":"De Simon S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.068296,46.22126,13.068296,46.22126],
+  "bbox": [
+    13.068296,
+    46.22126,
+    13.068296,
+    46.22126
+],
   "geometry": {"coordinates":[13.068296,46.22126],"type":"Point"}
 }

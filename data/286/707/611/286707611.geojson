@@ -2,13 +2,14 @@
   "id": 286707611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.782568,45.640278,11.782568,45.640278",
     "geom:latitude":45.640278,
     "geom:longitude":11.782568,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65, Via Ca' Nave 35013 Cittadella",
     "sg:city":"Cittadella",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286707611,
-    "wof:lastmodified":1449017651,
+    "wof:lastmodified":1466295303,
     "wof:name":"Pettenon Umberto & Figlio (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [11.782568,45.640278,11.782568,45.640278],
+  "bbox": [
+    11.782568,
+    45.640278,
+    11.782568,
+    45.640278
+],
   "geometry": {"coordinates":[11.782568,45.640278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270527539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.23516,45.465134,9.23516,45.465134",
     "geom:latitude":45.465134,
     "geom:longitude":9.23516,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, V. Cardinale Mezzofanti 20133 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270527539,
-    "wof:lastmodified":1449010553,
+    "wof:lastmodified":1466295405,
     "wof:name":"Leuenberger+c",
     "wof:parent_id":85796921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.23516,45.465134,9.23516,45.465134],
+  "bbox": [
+    9.23516,
+    45.465134,
+    9.23516,
+    45.465134
+],
   "geometry": {"coordinates":[9.23516,45.465134],"type":"Point"}
 }

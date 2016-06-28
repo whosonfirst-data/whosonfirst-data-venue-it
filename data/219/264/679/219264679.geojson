@@ -2,13 +2,14 @@
   "id": 219264679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.632571,45.67654,9.632571,45.67654",
     "geom:latitude":45.67654,
     "geom:longitude":9.632571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Europa 9 24048 Treviolo",
     "sg:city":"Treviolo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219264679,
-    "wof:lastmodified":1449072679,
+    "wof:lastmodified":1466288941,
     "wof:name":"Veraflex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [9.632571,45.67654,9.632571,45.67654],
+  "bbox": [
+    9.632571,
+    45.67654,
+    9.632571,
+    45.67654
+],
   "geometry": {"coordinates":[9.632571,45.67654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270228137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.150545,45.562416,9.150545,45.562416",
     "geom:latitude":45.562416,
     "geom:longitude":9.150545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Per Incirano 39 20054 Nova Milanese",
     "sg:city":"Nova Milanese",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270228137,
-    "wof:lastmodified":1449009386,
+    "wof:lastmodified":1466291762,
     "wof:name":"Notari S.n.c.",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supraregional"
     ]
 },
-  "bbox": [9.150545,45.562416,9.150545,45.562416],
+  "bbox": [
+    9.150545,
+    45.562416,
+    9.150545,
+    45.562416
+],
   "geometry": {"coordinates":[9.150545,45.562416],"type":"Point"}
 }

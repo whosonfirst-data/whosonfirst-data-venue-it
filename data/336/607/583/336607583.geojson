@@ -2,13 +2,14 @@
   "id": 336607583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.315576,45.667877,12.315576,45.667877",
     "geom:latitude":45.667877,
     "geom:longitude":12.315576,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"244, Via Postumia Ovest 31048 San Biagio Di Callalta",
     "sg:city":"San Biagio di Callalta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336607583,
-    "wof:lastmodified":1448997073,
+    "wof:lastmodified":1466293821,
     "wof:name":"Baccini S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.315576,45.667877,12.315576,45.667877],
+  "bbox": [
+    12.315576,
+    45.667877,
+    12.315576,
+    45.667877
+],
   "geometry": {"coordinates":[12.315576,45.667877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202500643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.826385,45.817604,8.826385,45.817604",
     "geom:latitude":45.817604,
     "geom:longitude":8.826385,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Ple Milano 7 21035 Cunardo",
     "sg:city":"Cunardo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202500643,
-    "wof:lastmodified":1449060754,
+    "wof:lastmodified":1466288980,
     "wof:name":"Mandelli Giacomo & C Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "construction"
     ]
 },
-  "bbox": [8.826385,45.817604,8.826385,45.817604],
+  "bbox": [
+    8.826385,
+    45.817604,
+    8.826385,
+    45.817604
+],
   "geometry": {"coordinates":[8.826385,45.817604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236623007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.201352,46.046116,13.201352,46.046116",
     "geom:latitude":46.046116,
     "geom:longitude":13.201352,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Napoleonica 33030 Campoformido",
     "sg:city":"Campoformido",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236623007,
-    "wof:lastmodified":1449004067,
+    "wof:lastmodified":1466295225,
     "wof:name":"Metaldomus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.201352,46.046116,13.201352,46.046116],
+  "bbox": [
+    13.201352,
+    46.046116,
+    13.201352,
+    46.046116
+],
   "geometry": {"coordinates":[13.201352,46.046116],"type":"Point"}
 }

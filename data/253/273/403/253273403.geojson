@@ -2,13 +2,14 @@
   "id": 253273403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.915284,45.506443,10.915284,45.506443",
     "geom:latitude":45.506443,
     "geom:longitude":10.915284,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37029 San Pietro In Cariano",
     "sg:city":"San Pietro in Cariano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253273403,
-    "wof:lastmodified":1449064355,
+    "wof:lastmodified":1466291863,
     "wof:name":"La Dolce Vita Sas Di Castiglioni Barbara E Murari Adriana E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.915284,45.506443,10.915284,45.506443],
+  "bbox": [
+    10.915284,
+    45.506443,
+    10.915284,
+    45.506443
+],
   "geometry": {"coordinates":[10.915284,45.506443],"type":"Point"}
 }

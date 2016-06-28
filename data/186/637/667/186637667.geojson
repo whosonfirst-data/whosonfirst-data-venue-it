@@ -2,13 +2,14 @@
   "id": 186637667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.126963,45.791855,9.126963,45.791855",
     "geom:latitude":45.791855,
     "geom:longitude":9.126963,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22030 Lipomo",
     "sg:city":"Lipomo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186637667,
-    "wof:lastmodified":1449050256,
+    "wof:lastmodified":1466293659,
     "wof:name":"International Dance Uisp Lipomo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.126963,45.791855,9.126963,45.791855],
+  "bbox": [
+    9.126963,
+    45.791855,
+    9.126963,
+    45.791855
+],
   "geometry": {"coordinates":[9.126963,45.791855],"type":"Point"}
 }

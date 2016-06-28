@@ -2,13 +2,14 @@
   "id": 270207921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.976799,44.26292,10.976799,44.26292",
     "geom:latitude":44.26292,
     "geom:longitude":10.976799,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40034 Castel D'aiano",
     "sg:classifiers":[],
     "sg:orig_category":"Carni, Salumi E Pesci",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270207921,
-    "wof:lastmodified":1449010366,
+    "wof:lastmodified":1466291527,
     "wof:name":"Salumificio Vitali Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.976799,44.26292,10.976799,44.26292],
+  "bbox": [
+    10.976799,
+    44.26292,
+    10.976799,
+    44.26292
+],
   "geometry": {"coordinates":[10.976799,44.26292],"type":"Point"}
 }

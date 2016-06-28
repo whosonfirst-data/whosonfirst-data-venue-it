@@ -2,13 +2,14 @@
   "id": 186302197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.242022,44.804829,7.242022,44.804829",
     "geom:latitude":44.804829,
     "geom:longitude":7.242022,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10062 Luserna San Giovanni",
     "sg:city":"Luserna",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186302197,
-    "wof:lastmodified":1449051292,
+    "wof:lastmodified":1466290523,
     "wof:name":"Pontevecchio S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.242022,44.804829,7.242022,44.804829],
+  "bbox": [
+    7.242022,
+    44.804829,
+    7.242022,
+    44.804829
+],
   "geometry": {"coordinates":[7.242022,44.804829],"type":"Point"}
 }

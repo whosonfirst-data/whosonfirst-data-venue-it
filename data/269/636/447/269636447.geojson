@@ -2,13 +2,14 @@
   "id": 269636447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.599344,41.844048,12.599344,41.844048",
     "geom:latitude":41.844048,
     "geom:longitude":12.599344,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00173 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269636447,
-    "wof:lastmodified":1449037110,
+    "wof:lastmodified":1466290778,
     "wof:name":"Piattelli Casa Ingrosso Srl",
     "wof:parent_id":85906291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "kitchen"
     ]
 },
-  "bbox": [12.599344,41.844048,12.599344,41.844048],
+  "bbox": [
+    12.599344,
+    41.844048,
+    12.599344,
+    41.844048
+],
   "geometry": {"coordinates":[12.599344,41.844048],"type":"Point"}
 }

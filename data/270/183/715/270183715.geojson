@@ -2,13 +2,14 @@
   "id": 270183715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.05827,45.562836,8.05827,45.562836",
     "geom:latitude":45.562836,
     "geom:longitude":8.05827,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Cso Giuseppe Pella 15 13900 Biella",
     "sg:city":"Biella",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270183715,
-    "wof:lastmodified":1449009959,
+    "wof:lastmodified":1466291166,
     "wof:name":"F.c.b. Filatura Cardata Biellese Aldo Boglietti - S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "yarn"
     ]
 },
-  "bbox": [8.05827,45.562836,8.05827,45.562836],
+  "bbox": [
+    8.05827,
+    45.562836,
+    8.05827,
+    45.562836
+],
   "geometry": {"coordinates":[8.05827,45.562836],"type":"Point"}
 }

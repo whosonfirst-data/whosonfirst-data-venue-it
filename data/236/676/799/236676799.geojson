@@ -2,13 +2,14 @@
   "id": 236676799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.454952,45.156303,11.454952,45.156303",
     "geom:latitude":45.156303,
     "geom:longitude":11.454952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51, Via Stradona 35040 Merlara",
     "sg:city":"Merlara",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236676799,
-    "wof:lastmodified":1449003832,
+    "wof:lastmodified":1466295729,
     "wof:name":"Vudimpex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.454952,45.156303,11.454952,45.156303],
+  "bbox": [
+    11.454952,
+    45.156303,
+    11.454952,
+    45.156303
+],
   "geometry": {"coordinates":[11.454952,45.156303],"type":"Point"}
 }

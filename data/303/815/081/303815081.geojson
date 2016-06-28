@@ -2,13 +2,14 @@
   "id": 303815081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.215222,43.774071,11.215222,43.774071",
     "geom:latitude":43.774071,
     "geom:longitude":11.215222,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50142 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303815081,
-    "wof:lastmodified":1448999302,
+    "wof:lastmodified":1466297850,
     "wof:name":"Bianchi Riccardo",
     "wof:parent_id":85904699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.215222,43.774071,11.215222,43.774071],
+  "bbox": [
+    11.215222,
+    43.774071,
+    11.215222,
+    43.774071
+],
   "geometry": {"coordinates":[11.215222,43.774071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303969821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.21902,45.61274,10.21902,45.61274",
     "geom:latitude":45.61274,
     "geom:longitude":10.21902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25062 Concesio Di Villa Carcina",
     "sg:city":"Concesio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303969821,
-    "wof:lastmodified":1448998698,
+    "wof:lastmodified":1466298235,
     "wof:name":"Pulival Service Di Bertazzi Ruggero & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.21902,45.61274,10.21902,45.61274],
+  "bbox": [
+    10.21902,
+    45.61274,
+    10.21902,
+    45.61274
+],
   "geometry": {"coordinates":[10.21902,45.61274],"type":"Point"}
 }

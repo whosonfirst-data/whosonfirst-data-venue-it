@@ -2,13 +2,14 @@
   "id": 236517455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.567796,45.589878,11.567796,45.589878",
     "geom:latitude":45.589878,
     "geom:longitude":11.567796,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36100 Vicenza",
     "sg:city":"Vicenza",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236517455,
-    "wof:lastmodified":1449003551,
+    "wof:lastmodified":1466294244,
     "wof:name":"Hotel La Terrazza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "facility"
     ]
 },
-  "bbox": [11.567796,45.589878,11.567796,45.589878],
+  "bbox": [
+    11.567796,
+    45.589878,
+    11.567796,
+    45.589878
+],
   "geometry": {"coordinates":[11.567796,45.589878],"type":"Point"}
 }

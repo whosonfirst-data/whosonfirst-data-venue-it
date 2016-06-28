@@ -2,13 +2,14 @@
   "id": 270196613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.737399,43.287327,12.737399,43.287327",
     "geom:latitude":43.287327,
     "geom:longitude":12.737399,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06022 Fossato Di Vico",
     "sg:city":"Fossato di Vico",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270196613,
-    "wof:lastmodified":1449009176,
+    "wof:lastmodified":1466291358,
     "wof:name":"Golosit\u00c0 Umbre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.737399,43.287327,12.737399,43.287327],
+  "bbox": [
+    12.737399,
+    43.287327,
+    12.737399,
+    43.287327
+],
   "geometry": {"coordinates":[12.737399,43.287327],"type":"Point"}
 }

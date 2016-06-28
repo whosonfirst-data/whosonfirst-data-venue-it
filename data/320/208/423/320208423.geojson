@@ -2,13 +2,14 @@
   "id": 320208423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.156866,45.570053,9.156866,45.570053",
     "geom:latitude":45.570053,
     "geom:longitude":9.156866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320208423,
-    "wof:lastmodified":1449011681,
+    "wof:lastmodified":1466295912,
     "wof:name":"Ormes Commercial And Services Engineering Di Ravaglia Pietro & C.(s.a.s.)",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.156866,45.570053,9.156866,45.570053],
+  "bbox": [
+    9.156866,
+    45.570053,
+    9.156866,
+    45.570053
+],
   "geometry": {"coordinates":[9.156866,45.570053],"type":"Point"}
 }

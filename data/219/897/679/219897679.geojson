@@ -2,13 +2,14 @@
   "id": 219897679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.889525,43.457851,11.889525,43.457851",
     "geom:latitude":43.457851,
     "geom:longitude":11.889525,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52100 Arezzo",
     "sg:city":"Arezzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219897679,
-    "wof:lastmodified":1449073340,
+    "wof:lastmodified":1466295273,
     "wof:name":"Gallucci Ascensori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.889525,43.457851,11.889525,43.457851],
+  "bbox": [
+    11.889525,
+    43.457851,
+    11.889525,
+    43.457851
+],
   "geometry": {"coordinates":[11.889525,43.457851],"type":"Point"}
 }

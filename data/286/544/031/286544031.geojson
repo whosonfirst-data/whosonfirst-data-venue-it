@@ -2,13 +2,14 @@
   "id": 286544031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.321486,45.930183,12.321486,45.930183",
     "geom:latitude":45.930183,
     "geom:longitude":12.321486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Menare' 31014 Colle Umberto",
     "sg:city":"Colle Umberto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286544031,
-    "wof:lastmodified":1449018080,
+    "wof:lastmodified":1466293242,
     "wof:name":"Maglificio Da Re (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.321486,45.930183,12.321486,45.930183],
+  "bbox": [
+    12.321486,
+    45.930183,
+    12.321486,
+    45.930183
+],
   "geometry": {"coordinates":[12.321486,45.930183],"type":"Point"}
 }

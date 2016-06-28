@@ -2,13 +2,14 @@
   "id": 303317493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.943598,46.797821,11.943598,46.797821",
     "geom:latitude":46.797821,
     "geom:longitude":11.943598,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dante 21 39031 Bruneck",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303317493,
-    "wof:lastmodified":1448999237,
+    "wof:lastmodified":1466294433,
     "wof:name":"Isos Snc Di Call Francesco & C International Suplay Of Pareparts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "export"
     ]
 },
-  "bbox": [11.943598,46.797821,11.943598,46.797821],
+  "bbox": [
+    11.943598,
+    46.797821,
+    11.943598,
+    46.797821
+],
   "geometry": {"coordinates":[11.943598,46.797821],"type":"Point"}
 }

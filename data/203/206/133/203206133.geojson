@@ -2,13 +2,14 @@
   "id": 203206133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.909644,41.63871,12.909644,41.63871",
     "geom:latitude":41.63871,
     "geom:longitude":12.909644,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04010 Cori",
     "sg:city":"Cori",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203206133,
-    "wof:lastmodified":1449026275,
+    "wof:lastmodified":1466289928,
     "wof:name":"Enel Societa' Per Azioni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.909644,41.63871,12.909644,41.63871],
+  "bbox": [
+    12.909644,
+    41.63871,
+    12.909644,
+    41.63871
+],
   "geometry": {"coordinates":[12.909644,41.63871],"type":"Point"}
 }

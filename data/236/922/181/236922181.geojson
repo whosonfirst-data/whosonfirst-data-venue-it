@@ -2,13 +2,14 @@
   "id": 236922181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.288828,45.738789,9.288828,45.738789",
     "geom:latitude":45.738789,
     "geom:longitude":9.288828,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Vicolo Capagiolo 23893 Cassago Brianza",
     "sg:city":"Cassago Brianza",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236922181,
-    "wof:lastmodified":1449001898,
+    "wof:lastmodified":1466297142,
     "wof:name":"Molteni (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [9.288828,45.738789,9.288828,45.738789],
+  "bbox": [
+    9.288828,
+    45.738789,
+    9.288828,
+    45.738789
+],
   "geometry": {"coordinates":[9.288828,45.738789],"type":"Point"}
 }

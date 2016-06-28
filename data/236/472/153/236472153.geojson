@@ -2,13 +2,14 @@
   "id": 236472153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.596879,45.62291,12.596879,45.62291",
     "geom:latitude":45.62291,
     "geom:longitude":12.596879,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Maestri Del Lavoro 19 30027 San Dona' Di Piave",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236472153,
-    "wof:lastmodified":1449001869,
+    "wof:lastmodified":1466293746,
     "wof:name":"Techno-steel Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "high-quality"
     ]
 },
-  "bbox": [12.596879,45.62291,12.596879,45.62291],
+  "bbox": [
+    12.596879,
+    45.62291,
+    12.596879,
+    45.62291
+],
   "geometry": {"coordinates":[12.596879,45.62291],"type":"Point"}
 }

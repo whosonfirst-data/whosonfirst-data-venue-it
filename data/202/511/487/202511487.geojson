@@ -2,13 +2,14 @@
   "id": 202511487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.72494,42.605156,12.72494,42.605156",
     "geom:latitude":42.605156,
     "geom:longitude":12.72494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06087 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Serigrafia",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202511487,
-    "wof:lastmodified":1449061292,
+    "wof:lastmodified":1466289085,
     "wof:name":"Serigrafia Serimark F.lli Marcugini Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.72494,42.605156,12.72494,42.605156],
+  "bbox": [
+    12.72494,
+    42.605156,
+    12.72494,
+    42.605156
+],
   "geometry": {"coordinates":[12.72494,42.605156],"type":"Point"}
 }

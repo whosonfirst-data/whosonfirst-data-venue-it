@@ -2,13 +2,14 @@
   "id": 202407873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.574995,45.023159,7.574995,45.023159",
     "geom:latitude":45.023159,
     "geom:longitude":7.574995,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10122 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202407873,
-    "wof:lastmodified":1449061511,
+    "wof:lastmodified":1466294876,
     "wof:name":"Centro Artistico Torinese Acconciature",
     "wof:parent_id":85796819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.574995,45.023159,7.574995,45.023159],
+  "bbox": [
+    7.574995,
+    45.023159,
+    7.574995,
+    45.023159
+],
   "geometry": {"coordinates":[7.574995,45.023159],"type":"Point"}
 }

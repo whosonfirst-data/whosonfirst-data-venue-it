@@ -2,13 +2,14 @@
   "id": 253001603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.909216,45.786209,12.909216,45.786209",
     "geom:latitude":45.786209,
     "geom:longitude":12.909216,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3/b, Via Croce Benedetto 30174 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253001603,
-    "wof:lastmodified":1449063482,
+    "wof:lastmodified":1466288934,
     "wof:name":"Tagliapietra Elio (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [12.909216,45.786209,12.909216,45.786209],
+  "bbox": [
+    12.909216,
+    45.786209,
+    12.909216,
+    45.786209
+],
   "geometry": {"coordinates":[12.909216,45.786209],"type":"Point"}
 }

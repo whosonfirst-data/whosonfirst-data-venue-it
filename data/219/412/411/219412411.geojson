@@ -2,13 +2,14 @@
   "id": 219412411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.213747,45.441986,9.213747,45.441986",
     "geom:latitude":45.441986,
     "geom:longitude":9.213747,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Breno 7 20139 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219412411,
-    "wof:lastmodified":1449071113,
+    "wof:lastmodified":1466290461,
     "wof:name":"Bint Srl",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.213747,45.441986,9.213747,45.441986],
+  "bbox": [
+    9.213747,
+    45.441986,
+    9.213747,
+    45.441986
+],
   "geometry": {"coordinates":[9.213747,45.441986],"type":"Point"}
 }

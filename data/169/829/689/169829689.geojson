@@ -2,13 +2,14 @@
   "id": 169829689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.218154,45.533546,10.218154,45.533546",
     "geom:latitude":45.533546,
     "geom:longitude":10.218154,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38/a, V. Xx Settembre 25121 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169829689,
-    "wof:lastmodified":1449035745,
+    "wof:lastmodified":1466289061,
     "wof:name":"S. Lorenzo Di Lorenzo Bonomi",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "insurance"
     ]
 },
-  "bbox": [10.218154,45.533546,10.218154,45.533546],
+  "bbox": [
+    10.218154,
+    45.533546,
+    10.218154,
+    45.533546
+],
   "geometry": {"coordinates":[10.218154,45.533546],"type":"Point"}
 }

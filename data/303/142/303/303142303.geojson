@@ -2,13 +2,14 @@
   "id": 303142303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.601546,37.411205,13.601546,37.411205",
     "geom:latitude":37.411205,
     "geom:longitude":13.601546,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92021 Aragona",
     "sg:city":"Aragona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303142303,
-    "wof:lastmodified":1449000075,
+    "wof:lastmodified":1466292213,
     "wof:name":"S.s. Strumenti Musicali Di Salamone Rosanna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.601546,37.411205,13.601546,37.411205],
+  "bbox": [
+    13.601546,
+    37.411205,
+    13.601546,
+    37.411205
+],
   "geometry": {"coordinates":[13.601546,37.411205],"type":"Point"}
 }

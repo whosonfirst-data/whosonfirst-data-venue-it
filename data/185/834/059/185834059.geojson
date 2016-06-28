@@ -2,13 +2,14 @@
   "id": 185834059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.604372,44.876369,11.604372,44.876369",
     "geom:latitude":44.876369,
     "geom:longitude":11.604372,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Padova 219; Ferrara; 44038",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185834059,
-    "wof:lastmodified":1449006761,
+    "wof:lastmodified":1466289501,
     "wof:name":"Banca Popolare Veneta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.604372,44.876369,11.604372,44.876369],
+  "bbox": [
+    11.604372,
+    44.876369,
+    11.604372,
+    44.876369
+],
   "geometry": {"coordinates":[11.604372,44.876369],"type":"Point"}
 }

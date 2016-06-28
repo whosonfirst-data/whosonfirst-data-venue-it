@@ -2,13 +2,14 @@
   "id": 336726055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.602015,45.589348,9.602015,45.589348",
     "geom:latitude":45.589348,
     "geom:longitude":9.602015,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Modena 24040 Ciserano",
     "sg:city":"Ciserano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336726055,
-    "wof:lastmodified":1448997661,
+    "wof:lastmodified":1466295232,
     "wof:name":"Nicotra Industriale S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.602015,45.589348,9.602015,45.589348],
+  "bbox": [
+    9.602015,
+    45.589348,
+    9.602015,
+    45.589348
+],
   "geometry": {"coordinates":[9.602015,45.589348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203288255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.491388,37.624336,13.491388,37.624336",
     "geom:latitude":37.624336,
     "geom:longitude":13.491388,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92020 Santo Stefano Quisquina",
     "sg:city":"Santo Stefano Quisquina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203288255,
-    "wof:lastmodified":1449025139,
+    "wof:lastmodified":1466290752,
     "wof:name":"Supermercato Giovanni Cacciatore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.491388,37.624336,13.491388,37.624336],
+  "bbox": [
+    13.491388,
+    37.624336,
+    13.491388,
+    37.624336
+],
   "geometry": {"coordinates":[13.491388,37.624336],"type":"Point"}
 }

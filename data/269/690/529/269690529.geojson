@@ -2,13 +2,14 @@
   "id": 269690529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.666268,43.866268,12.666268,43.866268",
     "geom:latitude":43.866268,
     "geom:longitude":12.666268,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47835 Saludecio",
     "sg:city":"Saludecio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269690529,
-    "wof:lastmodified":1449037397,
+    "wof:lastmodified":1466291524,
     "wof:name":"Mm Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "confezionamenti"
     ]
 },
-  "bbox": [12.666268,43.866268,12.666268,43.866268],
+  "bbox": [
+    12.666268,
+    43.866268,
+    12.666268,
+    43.866268
+],
   "geometry": {"coordinates":[12.666268,43.866268],"type":"Point"}
 }

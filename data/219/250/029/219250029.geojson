@@ -2,13 +2,14 @@
   "id": 219250029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.935596,40.833523,16.935596,40.833523",
     "geom:latitude":40.833523,
     "geom:longitude":16.935596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sda Statale 377 70017 Putignano",
     "sg:city":"Putignano",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219250029,
-    "wof:lastmodified":1449072390,
+    "wof:lastmodified":1466296346,
     "wof:name":"Fanigliuolo Paolo Arredamenti Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [16.935596,40.833523,16.935596,40.833523],
+  "bbox": [
+    16.935596,
+    40.833523,
+    16.935596,
+    40.833523
+],
   "geometry": {"coordinates":[16.935596,40.833523],"type":"Point"}
 }

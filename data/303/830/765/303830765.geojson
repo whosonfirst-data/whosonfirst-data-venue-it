@@ -2,13 +2,14 @@
   "id": 303830765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.715163,45.485874,8.715163,45.485874",
     "geom:latitude":45.485874,
     "geom:longitude":8.715163,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28066 Galliate",
     "sg:city":"Galliate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303830765,
-    "wof:lastmodified":1448998635,
+    "wof:lastmodified":1466297891,
     "wof:name":"Mapi-on Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.715163,45.485874,8.715163,45.485874],
+  "bbox": [
+    8.715163,
+    45.485874,
+    8.715163,
+    45.485874
+],
   "geometry": {"coordinates":[8.715163,45.485874],"type":"Point"}
 }

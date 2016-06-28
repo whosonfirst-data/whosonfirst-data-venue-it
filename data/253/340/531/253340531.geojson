@@ -2,13 +2,14 @@
   "id": 253340531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.222958,45.539829,10.222958,45.539829",
     "geom:latitude":45.539829,
     "geom:longitude":10.222958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piantada 9/a 25036 Palazzolo Sull'oglio",
     "sg:classifiers":[
         {
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253340531,
-    "wof:lastmodified":1449065085,
+    "wof:lastmodified":1466292744,
     "wof:name":"I.m.a. Spa",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.222958,45.539829,10.222958,45.539829],
+  "bbox": [
+    10.222958,
+    45.539829,
+    10.222958,
+    45.539829
+],
   "geometry": {"coordinates":[10.222958,45.539829],"type":"Point"}
 }

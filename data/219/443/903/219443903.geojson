@@ -2,13 +2,14 @@
   "id": 219443903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18986,45.44022,9.18986,45.44022",
     "geom:latitude":45.44022,
     "geom:longitude":9.18986,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20141 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219443903,
-    "wof:lastmodified":1449073271,
+    "wof:lastmodified":1466290802,
     "wof:name":"Nuova Epi Sas",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18986,45.44022,9.18986,45.44022],
+  "bbox": [
+    9.18986,
+    45.44022,
+    9.18986,
+    45.44022
+],
   "geometry": {"coordinates":[9.18986,45.44022],"type":"Point"}
 }

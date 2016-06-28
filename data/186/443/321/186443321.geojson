@@ -2,13 +2,14 @@
   "id": 186443321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.896263,45.626545,9.896263,45.626545",
     "geom:latitude":45.626545,
     "geom:longitude":9.896263,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24060 Castelli Calepio",
     "sg:city":"Castelli Calepio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186443321,
-    "wof:lastmodified":1449052514,
+    "wof:lastmodified":1466291756,
     "wof:name":"Bottonificio Castellese Di Bertoli Renzo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.896263,45.626545,9.896263,45.626545],
+  "bbox": [
+    9.896263,
+    45.626545,
+    9.896263,
+    45.626545
+],
   "geometry": {"coordinates":[9.896263,45.626545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320390121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.992926,44.496613,10.992926,44.496613",
     "geom:latitude":44.496613,
     "geom:longitude":10.992926,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41058 Vignola",
     "sg:city":"Vignola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320390121,
-    "wof:lastmodified":1449015005,
+    "wof:lastmodified":1466297372,
     "wof:name":"B.g. Centro Assistenza Tecnica E Vendita Di Bertarini Guido",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.992926,44.496613,10.992926,44.496613],
+  "bbox": [
+    10.992926,
+    44.496613,
+    10.992926,
+    44.496613
+],
   "geometry": {"coordinates":[10.992926,44.496613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303434517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.603035,45.685635,9.603035,45.685635",
     "geom:latitude":45.685635,
     "geom:longitude":9.603035,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24035 Curno",
     "sg:city":"Curno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303434517,
-    "wof:lastmodified":1448998644,
+    "wof:lastmodified":1466295873,
     "wof:name":"Tristar Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.603035,45.685635,9.603035,45.685635],
+  "bbox": [
+    9.603035,
+    45.685635,
+    9.603035,
+    45.685635
+],
   "geometry": {"coordinates":[9.603035,45.685635],"type":"Point"}
 }

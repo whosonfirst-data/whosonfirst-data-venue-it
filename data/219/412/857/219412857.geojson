@@ -2,13 +2,14 @@
   "id": 219412857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.945341,45.148949,9.945341,45.148949",
     "geom:latitude":45.148949,
     "geom:longitude":9.945341,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Acquaviva 18 26100 Cremona",
     "sg:city":"Cremona",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219412857,
-    "wof:lastmodified":1449071116,
+    "wof:lastmodified":1466290464,
     "wof:name":"Acciaieria Isp Di Cremona Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "strip"
     ]
 },
-  "bbox": [9.945341,45.148949,9.945341,45.148949],
+  "bbox": [
+    9.945341,
+    45.148949,
+    9.945341,
+    45.148949
+],
   "geometry": {"coordinates":[9.945341,45.148949],"type":"Point"}
 }

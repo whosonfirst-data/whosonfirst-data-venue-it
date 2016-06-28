@@ -2,13 +2,14 @@
   "id": 286324477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.688519,41.773643,12.688519,41.773643",
     "geom:latitude":41.773643,
     "geom:longitude":12.688519,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00040 Rocca Di Papa",
     "sg:city":"Marino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286324477,
-    "wof:lastmodified":1449016909,
+    "wof:lastmodified":1466290345,
     "wof:name":"P.a.m.o.m.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.688519,41.773643,12.688519,41.773643],
+  "bbox": [
+    12.688519,
+    41.773643,
+    12.688519,
+    41.773643
+],
   "geometry": {"coordinates":[12.688519,41.773643],"type":"Point"}
 }

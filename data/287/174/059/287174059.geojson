@@ -2,13 +2,14 @@
   "id": 287174059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.26482,40.892044,14.26482,40.892044",
     "geom:latitude":40.892044,
     "geom:longitude":14.26482,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Italia 12; Naples",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":287174059,
-    "wof:lastmodified":1449000778,
+    "wof:lastmodified":1466291904,
     "wof:name":"Coltur Travel Agency",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.26482,40.892044,14.26482,40.892044],
+  "bbox": [
+    14.26482,
+    40.892044,
+    14.26482,
+    40.892044
+],
   "geometry": {"coordinates":[14.26482,40.892044],"type":"Point"}
 }

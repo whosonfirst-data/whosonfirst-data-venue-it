@@ -2,13 +2,14 @@
   "id": 253729903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.762436,43.723003,10.762436,43.723003",
     "geom:latitude":43.723003,
     "geom:longitude":10.762436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Del Melaccio 56029 Santa Croce Sull'arno",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253729903,
-    "wof:lastmodified":1449064311,
+    "wof:lastmodified":1466297001,
     "wof:name":"Conceria Nuova Etruria S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [10.762436,43.723003,10.762436,43.723003],
+  "bbox": [
+    10.762436,
+    43.723003,
+    10.762436,
+    43.723003
+],
   "geometry": {"coordinates":[10.762436,43.723003],"type":"Point"}
 }

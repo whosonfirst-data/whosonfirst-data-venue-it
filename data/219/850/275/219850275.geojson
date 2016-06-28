@@ -2,13 +2,14 @@
   "id": 219850275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.281093,45.521236,9.281093,45.521236",
     "geom:latitude":45.521236,
     "geom:longitude":9.281093,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20047 Brugherio",
     "sg:city":"Brugherio",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219850275,
-    "wof:lastmodified":1449072423,
+    "wof:lastmodified":1466294755,
     "wof:name":"New Tennis System",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [9.281093,45.521236,9.281093,45.521236],
+  "bbox": [
+    9.281093,
+    45.521236,
+    9.281093,
+    45.521236
+],
   "geometry": {"coordinates":[9.281093,45.521236],"type":"Point"}
 }

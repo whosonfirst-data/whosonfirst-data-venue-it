@@ -2,13 +2,14 @@
   "id": 169855807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.499269,45.76228,12.499269,45.76228",
     "geom:latitude":45.76228,
     "geom:longitude":12.499269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza V. Emanuele Ii,23; Oderzo; 31046",
     "sg:city":"Oderzo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169855807,
-    "wof:lastmodified":1449035107,
+    "wof:lastmodified":1466289270,
     "wof:name":"Banca Antoniana, Popolare Veneta Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.499269,45.76228,12.499269,45.76228],
+  "bbox": [
+    12.499269,
+    45.76228,
+    12.499269,
+    45.76228
+],
   "geometry": {"coordinates":[12.499269,45.76228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236232429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.81459,45.65004,8.81459,45.65004",
     "geom:latitude":45.65004,
     "geom:longitude":8.81459,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Olona 123 21013 Gallarate",
     "sg:city":"Gallarate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236232429,
-    "wof:lastmodified":1449002564,
+    "wof:lastmodified":1466291230,
     "wof:name":"Cervotessile Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "necktie"
     ]
 },
-  "bbox": [8.81459,45.65004,8.81459,45.65004],
+  "bbox": [
+    8.81459,
+    45.65004,
+    8.81459,
+    45.65004
+],
   "geometry": {"coordinates":[8.81459,45.65004],"type":"Point"}
 }

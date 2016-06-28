@@ -2,13 +2,14 @@
   "id": 236575241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.228859,44.128273,8.228859,44.128273",
     "geom:latitude":44.128273,
     "geom:longitude":8.228859,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Buragi 17054 Boissano",
     "sg:city":"Boissano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236575241,
-    "wof:lastmodified":1449002434,
+    "wof:lastmodified":1466294795,
     "wof:name":"Effegi Di Fumagalli (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [8.228859,44.128273,8.228859,44.128273],
+  "bbox": [
+    8.228859,
+    44.128273,
+    8.228859,
+    44.128273
+],
   "geometry": {"coordinates":[8.228859,44.128273],"type":"Point"}
 }

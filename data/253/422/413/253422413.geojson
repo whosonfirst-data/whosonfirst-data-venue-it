@@ -2,13 +2,14 @@
   "id": 253422413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.54141,40.63028,14.54141,40.63028",
     "geom:latitude":40.63028,
     "geom:longitude":14.54141,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Villani 8 80051 Agerola",
     "sg:city":"Agerola",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253422413,
-    "wof:lastmodified":1449063026,
+    "wof:lastmodified":1466293653,
     "wof:name":"Fusco Elvira Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothes"
     ]
 },
-  "bbox": [14.54141,40.63028,14.54141,40.63028],
+  "bbox": [
+    14.54141,
+    40.63028,
+    14.54141,
+    40.63028
+],
   "geometry": {"coordinates":[14.54141,40.63028],"type":"Point"}
 }

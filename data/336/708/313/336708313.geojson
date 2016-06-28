@@ -2,13 +2,14 @@
   "id": 336708313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.355117,44.556313,11.355117,44.556313",
     "geom:latitude":44.556313,
     "geom:longitude":11.355117,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Galliera 40050 Argelato",
     "sg:city":"Argelato",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336708313,
-    "wof:lastmodified":1448997115,
+    "wof:lastmodified":1466295021,
     "wof:name":"Macchine Suprema",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.355117,44.556313,11.355117,44.556313],
+  "bbox": [
+    11.355117,
+    44.556313,
+    11.355117,
+    44.556313
+],
   "geometry": {"coordinates":[11.355117,44.556313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219411815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.303897,45.649632,12.303897,45.649632",
     "geom:latitude":45.649632,
     "geom:longitude":12.303897,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Galilei 31048 San Biagio Di Callalta",
     "sg:city":"San Biagio di Callalta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219411815,
-    "wof:lastmodified":1449070537,
+    "wof:lastmodified":1466290454,
     "wof:name":"Trecieffe Di Crosato Ivo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stainless"
     ]
 },
-  "bbox": [12.303897,45.649632,12.303897,45.649632],
+  "bbox": [
+    12.303897,
+    45.649632,
+    12.303897,
+    45.649632
+],
   "geometry": {"coordinates":[12.303897,45.649632],"type":"Point"}
 }

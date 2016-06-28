@@ -2,13 +2,14 @@
   "id": 270133549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.628601,43.834641,10.628601,43.834641",
     "geom:latitude":43.834641,
     "geom:longitude":10.628601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55016 Porcari",
     "sg:city":"Porcari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270133549,
-    "wof:lastmodified":1449010643,
+    "wof:lastmodified":1466290579,
     "wof:name":"Emmeemme Caravan Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.628601,43.834641,10.628601,43.834641],
+  "bbox": [
+    10.628601,
+    43.834641,
+    10.628601,
+    43.834641
+],
   "geometry": {"coordinates":[10.628601,43.834641],"type":"Point"}
 }

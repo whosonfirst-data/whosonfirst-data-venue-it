@@ -2,13 +2,14 @@
   "id": 270417903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.435485,44.499512,11.435485,44.499512",
     "geom:latitude":44.499512,
     "geom:longitude":11.435485,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Matteotti 20 40055 Villanova",
     "sg:city":"Villanova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270417903,
-    "wof:lastmodified":1449009640,
+    "wof:lastmodified":1466294113,
     "wof:name":"Sea Societa' Per L' Elettronica Applicata Srl",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.435485,44.499512,11.435485,44.499512],
+  "bbox": [
+    11.435485,
+    44.499512,
+    11.435485,
+    44.499512
+],
   "geometry": {"coordinates":[11.435485,44.499512],"type":"Point"}
 }

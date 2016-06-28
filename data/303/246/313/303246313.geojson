@@ -2,13 +2,14 @@
   "id": 303246313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.748055,45.612572,8.748055,45.612572",
     "geom:latitude":45.612572,
     "geom:longitude":8.748055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46, Via Adige 21010 Ferno",
     "sg:city":"Ferno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303246313,
-    "wof:lastmodified":1448998284,
+    "wof:lastmodified":1466293562,
     "wof:name":"Ingranaggi Vezzaro Di Vezzaro Dario E C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [8.748055,45.612572,8.748055,45.612572],
+  "bbox": [
+    8.748055,
+    45.612572,
+    8.748055,
+    45.612572
+],
   "geometry": {"coordinates":[8.748055,45.612572],"type":"Point"}
 }

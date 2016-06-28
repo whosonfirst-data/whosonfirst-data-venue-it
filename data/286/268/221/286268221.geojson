@@ -2,13 +2,14 @@
   "id": 286268221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.816019,45.529663,10.816019,45.529663",
     "geom:latitude":45.529663,
     "geom:longitude":10.816019,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"226, Via Primo Maggio 37020 Dolce'",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286268221,
-    "wof:lastmodified":1449016860,
+    "wof:lastmodified":1466289512,
     "wof:name":"Tenax S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [10.816019,45.529663,10.816019,45.529663],
+  "bbox": [
+    10.816019,
+    45.529663,
+    10.816019,
+    45.529663
+],
   "geometry": {"coordinates":[10.816019,45.529663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219403673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.771545,45.630051,8.771545,45.630051",
     "geom:latitude":45.630051,
     "geom:longitude":8.771545,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Agusta 112 21017 Samarate",
     "sg:city":"Samarate",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219403673,
-    "wof:lastmodified":1449073415,
+    "wof:lastmodified":1466290374,
     "wof:name":"Ritorcitura Bardelli Gianfranco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "yarn"
     ]
 },
-  "bbox": [8.771545,45.630051,8.771545,45.630051],
+  "bbox": [
+    8.771545,
+    45.630051,
+    8.771545,
+    45.630051
+],
   "geometry": {"coordinates":[8.771545,45.630051],"type":"Point"}
 }

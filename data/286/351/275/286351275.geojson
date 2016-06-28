@@ -2,13 +2,14 @@
   "id": 286351275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.590469,41.881969,12.590469,41.881969",
     "geom:latitude":41.881969,
     "geom:longitude":12.590469,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00155 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286351275,
-    "wof:lastmodified":1449017669,
+    "wof:lastmodified":1466290715,
     "wof:name":"Ottica Poma",
     "wof:parent_id":85904927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.590469,41.881969,12.590469,41.881969],
+  "bbox": [
+    12.590469,
+    41.881969,
+    12.590469,
+    41.881969
+],
   "geometry": {"coordinates":[12.590469,41.881969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186019537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.734294,45.764938,11.734294,45.764938",
     "geom:latitude":45.764938,
     "geom:longitude":11.734294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marinali 52; Bassano",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186019537,
-    "wof:lastmodified":1449051921,
+    "wof:lastmodified":1466294078,
     "wof:name":"Cassa Di Risparmio Di Venezia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.734294,45.764938,11.734294,45.764938],
+  "bbox": [
+    11.734294,
+    45.764938,
+    11.734294,
+    45.764938
+],
   "geometry": {"coordinates":[11.734294,45.764938],"type":"Point"}
 }

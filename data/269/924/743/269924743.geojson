@@ -2,13 +2,14 @@
   "id": 269924743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.598071,41.849869,12.598071,41.849869",
     "geom:latitude":41.849869,
     "geom:longitude":12.598071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Orazio Raimondo 19 00173 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269924743,
-    "wof:lastmodified":1449036828,
+    "wof:lastmodified":1466294428,
     "wof:name":"Metalco Srl",
     "wof:parent_id":85906291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [12.598071,41.849869,12.598071,41.849869],
+  "bbox": [
+    12.598071,
+    41.849869,
+    12.598071,
+    41.849869
+],
   "geometry": {"coordinates":[12.598071,41.849869],"type":"Point"}
 }

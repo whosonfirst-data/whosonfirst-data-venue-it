@@ -2,13 +2,14 @@
   "id": 203174443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.138788,39.236443,9.138788,39.236443",
     "geom:latitude":39.236443,
     "geom:longitude":9.138788,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09131 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203174443,
-    "wof:lastmodified":1449025198,
+    "wof:lastmodified":1466289623,
     "wof:name":"B.c. Marmi Di Crobeddu & Pisu & C. Snc",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.138788,39.236443,9.138788,39.236443],
+  "bbox": [
+    9.138788,
+    39.236443,
+    9.138788,
+    39.236443
+],
   "geometry": {"coordinates":[9.138788,39.236443],"type":"Point"}
 }

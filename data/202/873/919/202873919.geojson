@@ -2,13 +2,14 @@
   "id": 202873919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.109468,45.55875,8.109468,45.55875",
     "geom:latitude":45.55875,
     "geom:longitude":8.109468,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13878 Candelo",
     "sg:city":"Candelo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202873919,
-    "wof:lastmodified":1449060646,
+    "wof:lastmodified":1466292936,
     "wof:name":"Belluati Mariella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.109468,45.55875,8.109468,45.55875],
+  "bbox": [
+    8.109468,
+    45.55875,
+    8.109468,
+    45.55875
+],
   "geometry": {"coordinates":[8.109468,45.55875],"type":"Point"}
 }

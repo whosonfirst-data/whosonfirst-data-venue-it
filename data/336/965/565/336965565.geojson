@@ -2,13 +2,14 @@
   "id": 336965565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.813148,41.233776,14.813148,41.233776",
     "geom:latitude":41.233776,
     "geom:longitude":14.813148,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82020 Pesco Sannita",
     "sg:city":"Pesco Sannita",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336965565,
-    "wof:lastmodified":1448997687,
+    "wof:lastmodified":1466297380,
     "wof:name":"Meola Pietro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [14.813148,41.233776,14.813148,41.233776],
+  "bbox": [
+    14.813148,
+    41.233776,
+    14.813148,
+    41.233776
+],
   "geometry": {"coordinates":[14.813148,41.233776],"type":"Point"}
 }

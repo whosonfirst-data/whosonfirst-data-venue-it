@@ -2,13 +2,14 @@
   "id": 303595403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.473446,37.308262,13.473446,37.308262",
     "geom:latitude":37.308262,
     "geom:longitude":13.473446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92010 Realmonte",
     "sg:city":"Realmonte",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303595403,
-    "wof:lastmodified":1449000329,
+    "wof:lastmodified":1466297272,
     "wof:name":"Eurodesign Snc Di Brancato & Miceli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.473446,37.308262,13.473446,37.308262],
+  "bbox": [
+    13.473446,
+    37.308262,
+    13.473446,
+    37.308262
+],
   "geometry": {"coordinates":[13.473446,37.308262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303317587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.210402,45.478619,9.210402,45.478619",
     "geom:latitude":45.478619,
     "geom:longitude":9.210402,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Redi 6 20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303317587,
-    "wof:lastmodified":1448999236,
+    "wof:lastmodified":1466294435,
     "wof:name":"Liptus Company Srl",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "export"
     ]
 },
-  "bbox": [9.210402,45.478619,9.210402,45.478619],
+  "bbox": [
+    9.210402,
+    45.478619,
+    9.210402,
+    45.478619
+],
   "geometry": {"coordinates":[9.210402,45.478619],"type":"Point"}
 }

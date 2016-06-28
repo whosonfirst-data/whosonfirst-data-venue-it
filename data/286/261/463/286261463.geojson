@@ -2,13 +2,14 @@
   "id": 286261463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.107252,45.445171,9.107252,45.445171",
     "geom:latitude":45.445171,
     "geom:longitude":9.107252,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Volta Alessandro 20094 Corsico",
     "sg:city":"Corsico",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286261463,
-    "wof:lastmodified":1449015208,
+    "wof:lastmodified":1466296264,
     "wof:name":"Preo S.r.l.",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.107252,45.445171,9.107252,45.445171],
+  "bbox": [
+    9.107252,
+    45.445171,
+    9.107252,
+    45.445171
+],
   "geometry": {"coordinates":[9.107252,45.445171],"type":"Point"}
 }

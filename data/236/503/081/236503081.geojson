@@ -2,13 +2,14 @@
   "id": 236503081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.916983,45.503033,11.916983,45.503033",
     "geom:latitude":45.503033,
     "geom:longitude":11.916983,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pioga 210 35011 Campodarsego",
     "sg:city":"Campodarsego",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236503081,
-    "wof:lastmodified":1449005260,
+    "wof:lastmodified":1466294092,
     "wof:name":"Lasm Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "honing"
     ]
 },
-  "bbox": [11.916983,45.503033,11.916983,45.503033],
+  "bbox": [
+    11.916983,
+    45.503033,
+    11.916983,
+    45.503033
+],
   "geometry": {"coordinates":[11.916983,45.503033],"type":"Point"}
 }

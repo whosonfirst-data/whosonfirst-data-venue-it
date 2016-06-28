@@ -2,13 +2,14 @@
   "id": 320482837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.686162,45.538795,11.686162,45.538795",
     "geom:latitude":45.538795,
     "geom:longitude":11.686162,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36043 Rampazzo",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Industria Alimentare E Bevande",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320482837,
-    "wof:lastmodified":1449012598,
+    "wof:lastmodified":1466297563,
     "wof:name":"Pillan Fratelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.686162,45.538795,11.686162,45.538795],
+  "bbox": [
+    11.686162,
+    45.538795,
+    11.686162,
+    45.538795
+],
   "geometry": {"coordinates":[11.686162,45.538795],"type":"Point"}
 }

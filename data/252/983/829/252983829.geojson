@@ -2,13 +2,14 @@
   "id": 252983829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.505185,45.587238,11.505185,45.587238",
     "geom:latitude":45.587238,
     "geom:longitude":11.505185,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28, Via Volta 36030 Costabissara",
     "sg:city":"Costabissara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252983829,
-    "wof:lastmodified":1449006421,
+    "wof:lastmodified":1466291894,
     "wof:name":"G.m. Silver Srl - Societa' Unipersonale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.505185,45.587238,11.505185,45.587238],
+  "bbox": [
+    11.505185,
+    45.587238,
+    11.505185,
+    45.587238
+],
   "geometry": {"coordinates":[11.505185,45.587238],"type":"Point"}
 }

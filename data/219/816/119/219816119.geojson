@@ -2,13 +2,14 @@
   "id": 219816119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.606087,40.668652,16.606087,40.668652",
     "geom:latitude":40.668652,
     "geom:longitude":16.606087,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Commercio-paip 2 75100 Matera",
     "sg:city":"Matera",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219816119,
-    "wof:lastmodified":1449072441,
+    "wof:lastmodified":1466294439,
     "wof:name":"Brecav S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cable"
     ]
 },
-  "bbox": [16.606087,40.668652,16.606087,40.668652],
+  "bbox": [
+    16.606087,
+    40.668652,
+    16.606087,
+    40.668652
+],
   "geometry": {"coordinates":[16.606087,40.668652],"type":"Point"}
 }

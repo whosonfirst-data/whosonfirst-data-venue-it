@@ -2,13 +2,14 @@
   "id": 287237663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.904559,45.469173,7.904559,45.469173",
     "geom:latitude":45.469173,
     "geom:longitude":7.904559,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"332, Corso Vercelli 10015 Ivrea",
     "sg:city":"Ivrea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287237663,
-    "wof:lastmodified":1449000692,
+    "wof:lastmodified":1466292773,
     "wof:name":"Radel (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "electronic"
     ]
 },
-  "bbox": [7.904559,45.469173,7.904559,45.469173],
+  "bbox": [
+    7.904559,
+    45.469173,
+    7.904559,
+    45.469173
+],
   "geometry": {"coordinates":[7.904559,45.469173],"type":"Point"}
 }

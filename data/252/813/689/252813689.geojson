@@ -2,13 +2,14 @@
   "id": 252813689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.471581,41.895435,12.471581,41.895435",
     "geom:latitude":41.895435,
     "geom:longitude":12.471581,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252813689,
-    "wof:lastmodified":1449005702,
+    "wof:lastmodified":1466290101,
     "wof:name":"Baulla' Di Gerbasio Teresa",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.471581,41.895435,12.471581,41.895435],
+  "bbox": [
+    12.471581,
+    41.895435,
+    12.471581,
+    41.895435
+],
   "geometry": {"coordinates":[12.471581,41.895435],"type":"Point"}
 }

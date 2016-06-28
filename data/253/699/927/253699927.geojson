@@ -2,13 +2,14 @@
   "id": 253699927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.876594,44.516666,8.876594,44.516666",
     "geom:latitude":44.516666,
     "geom:longitude":8.876594,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16014 Campomorone",
     "sg:city":"Campomorone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253699927,
-    "wof:lastmodified":1449063226,
+    "wof:lastmodified":1466296828,
     "wof:name":"Patrone Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.876594,44.516666,8.876594,44.516666],
+  "bbox": [
+    8.876594,
+    44.516666,
+    8.876594,
+    44.516666
+],
   "geometry": {"coordinates":[8.876594,44.516666],"type":"Point"}
 }

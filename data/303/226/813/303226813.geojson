@@ -2,13 +2,14 @@
   "id": 303226813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.482325,41.895466,12.482325,41.895466",
     "geom:latitude":41.895466,
     "geom:longitude":12.482325,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sagramoso Pier Luigi 45 00194 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303226813,
-    "wof:lastmodified":1448999893,
+    "wof:lastmodified":1466293316,
     "wof:name":"Mazzarda Ascensori Srl",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "persons"
     ]
 },
-  "bbox": [12.482325,41.895466,12.482325,41.895466],
+  "bbox": [
+    12.482325,
+    41.895466,
+    12.482325,
+    41.895466
+],
   "geometry": {"coordinates":[12.482325,41.895466],"type":"Point"}
 }

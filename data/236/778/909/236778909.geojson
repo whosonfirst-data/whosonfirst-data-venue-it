@@ -2,13 +2,14 @@
   "id": 236778909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.063314,45.56123,8.063314,45.56123",
     "geom:latitude":45.56123,
     "geom:longitude":8.063314,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13900 Biella",
     "sg:city":"Biella",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236778909,
-    "wof:lastmodified":1449001730,
+    "wof:lastmodified":1466296480,
     "wof:name":"Art From Italy Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "business"
     ]
 },
-  "bbox": [8.063314,45.56123,8.063314,45.56123],
+  "bbox": [
+    8.063314,
+    45.56123,
+    8.063314,
+    45.56123
+],
   "geometry": {"coordinates":[8.063314,45.56123],"type":"Point"}
 }

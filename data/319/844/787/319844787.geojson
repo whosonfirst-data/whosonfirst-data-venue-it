@@ -2,13 +2,14 @@
   "id": 319844787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165167,45.183678,9.165167,45.183678",
     "geom:latitude":45.183678,
     "geom:longitude":9.165167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27036 Mortara",
     "sg:city":"Mortara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319844787,
-    "wof:lastmodified":1449024423,
+    "wof:lastmodified":1466292792,
     "wof:name":"Papetti Luigino Di Papetti Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.165167,45.183678,9.165167,45.183678],
+  "bbox": [
+    9.165167,
+    45.183678,
+    9.165167,
+    45.183678
+],
   "geometry": {"coordinates":[9.165167,45.183678],"type":"Point"}
 }

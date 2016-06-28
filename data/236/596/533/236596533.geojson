@@ -2,13 +2,14 @@
   "id": 236596533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.214087,45.494049,9.214087,45.494049",
     "geom:latitude":45.494049,
     "geom:longitude":9.214087,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56, Via Aporti Ferrante 20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236596533,
-    "wof:lastmodified":1449003319,
+    "wof:lastmodified":1466294986,
     "wof:name":"Grandimpianti Ali Spa",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.214087,45.494049,9.214087,45.494049],
+  "bbox": [
+    9.214087,
+    45.494049,
+    9.214087,
+    45.494049
+],
   "geometry": {"coordinates":[9.214087,45.494049],"type":"Point"}
 }

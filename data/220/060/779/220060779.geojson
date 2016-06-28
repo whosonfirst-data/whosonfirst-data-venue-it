@@ -2,13 +2,14 @@
   "id": 220060779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.263209,44.541603,11.263209,44.541603",
     "geom:latitude":44.541603,
     "geom:longitude":11.263209,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40012 Calderara Di Reno",
     "sg:city":"Calderara di Reno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220060779,
-    "wof:lastmodified":1449074802,
+    "wof:lastmodified":1466295401,
     "wof:name":"Al.fer Srl",
     "wof:parent_id":85904561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "industrial"
     ]
 },
-  "bbox": [11.263209,44.541603,11.263209,44.541603],
+  "bbox": [
+    11.263209,
+    44.541603,
+    11.263209,
+    44.541603
+],
   "geometry": {"coordinates":[11.263209,44.541603],"type":"Point"}
 }

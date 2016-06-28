@@ -2,13 +2,14 @@
   "id": 185796329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.344112,44.500061,11.344112,44.500061",
     "geom:latitude":44.500061,
     "geom:longitude":11.344112,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Indipendenza 57; Bologna",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185796329,
-    "wof:lastmodified":1449007376,
+    "wof:lastmodified":1466289255,
     "wof:name":"Banca Popolare Di Lodi",
     "wof:parent_id":85904599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.344112,44.500061,11.344112,44.500061],
+  "bbox": [
+    11.344112,
+    44.500061,
+    11.344112,
+    44.500061
+],
   "geometry": {"coordinates":[11.344112,44.500061],"type":"Point"}
 }

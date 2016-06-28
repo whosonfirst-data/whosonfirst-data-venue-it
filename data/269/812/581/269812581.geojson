@@ -2,13 +2,14 @@
   "id": 269812581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.269194,45.543186,9.269194,45.543186",
     "geom:latitude":45.543186,
     "geom:longitude":9.269194,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269812581,
-    "wof:lastmodified":1449036205,
+    "wof:lastmodified":1466293178,
     "wof:name":"Terenghi Pierangelo",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.269194,45.543186,9.269194,45.543186],
+  "bbox": [
+    9.269194,
+    45.543186,
+    9.269194,
+    45.543186
+],
   "geometry": {"coordinates":[9.269194,45.543186],"type":"Point"}
 }

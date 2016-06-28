@@ -2,13 +2,14 @@
   "id": 336604261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.505853,45.654636,9.505853,45.654636",
     "geom:latitude":45.654636,
     "geom:longitude":9.505853,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Viale Europa 24040 Bottanuco",
     "sg:city":"Bottanuco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336604261,
-    "wof:lastmodified":1448997893,
+    "wof:lastmodified":1466293782,
     "wof:name":"Automac Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.505853,45.654636,9.505853,45.654636],
+  "bbox": [
+    9.505853,
+    45.654636,
+    9.505853,
+    45.654636
+],
   "geometry": {"coordinates":[9.505853,45.654636],"type":"Point"}
 }

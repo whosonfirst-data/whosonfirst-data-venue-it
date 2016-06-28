@@ -2,13 +2,14 @@
   "id": 219923277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.622297,37.393768,13.622297,37.393768",
     "geom:latitude":37.393768,
     "geom:longitude":13.622297,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92021 Aragona",
     "sg:city":"Aragona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219923277,
-    "wof:lastmodified":1449073793,
+    "wof:lastmodified":1466295532,
     "wof:name":"Terrasi Antincendio Di Terrasi Alfonso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.622297,37.393768,13.622297,37.393768],
+  "bbox": [
+    13.622297,
+    37.393768,
+    13.622297,
+    37.393768
+],
   "geometry": {"coordinates":[13.622297,37.393768],"type":"Point"}
 }

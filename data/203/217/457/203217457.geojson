@@ -2,13 +2,14 @@
   "id": 203217457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.682076,41.567284,14.682076,41.567284",
     "geom:latitude":41.567284,
     "geom:longitude":14.682076,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86100 Campobasso",
     "sg:city":"Campobasso",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203217457,
-    "wof:lastmodified":1449026761,
+    "wof:lastmodified":1466290060,
     "wof:name":"Am.co. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.682076,41.567284,14.682076,41.567284],
+  "bbox": [
+    14.682076,
+    41.567284,
+    14.682076,
+    41.567284
+],
   "geometry": {"coordinates":[14.682076,41.567284],"type":"Point"}
 }

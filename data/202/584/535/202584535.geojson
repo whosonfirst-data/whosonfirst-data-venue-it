@@ -2,13 +2,14 @@
   "id": 202584535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.682105,41.350231,14.682105,41.350231",
     "geom:latitude":41.350231,
     "geom:longitude":14.682105,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82026 Morcone",
     "sg:city":"Morcone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202584535,
-    "wof:lastmodified":1449060380,
+    "wof:lastmodified":1466289770,
     "wof:name":"C.i.a.l.p. Snc Di Palmino Parcesepe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.682105,41.350231,14.682105,41.350231],
+  "bbox": [
+    14.682105,
+    41.350231,
+    14.682105,
+    41.350231
+],
   "geometry": {"coordinates":[14.682105,41.350231],"type":"Point"}
 }

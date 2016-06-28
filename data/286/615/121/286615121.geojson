@@ -2,13 +2,14 @@
   "id": 286615121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.009115,45.66465,12.009115,45.66465",
     "geom:latitude":45.66465,
     "geom:longitude":12.009115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60, Via Gazzie 31050 Vedelago",
     "sg:city":"Vedelago",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286615121,
-    "wof:lastmodified":1449016111,
+    "wof:lastmodified":1466294121,
     "wof:name":"Fasten Italia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [12.009115,45.66465,12.009115,45.66465],
+  "bbox": [
+    12.009115,
+    45.66465,
+    12.009115,
+    45.66465
+],
   "geometry": {"coordinates":[12.009115,45.66465],"type":"Point"}
 }

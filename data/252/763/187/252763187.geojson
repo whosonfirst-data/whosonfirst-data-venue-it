@@ -2,13 +2,14 @@
   "id": 252763187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.2606,40.847332,14.2606,40.847332",
     "geom:latitude":40.847332,
     "geom:longitude":14.2606,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80138 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252763187,
-    "wof:lastmodified":1449006508,
+    "wof:lastmodified":1466289493,
     "wof:name":"Ciannella Mariano",
     "wof:parent_id":85904825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.2606,40.847332,14.2606,40.847332],
+  "bbox": [
+    14.2606,
+    40.847332,
+    14.2606,
+    40.847332
+],
   "geometry": {"coordinates":[14.2606,40.847332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336880131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.152108,39.200058,9.152108,39.200058",
     "geom:latitude":39.200058,
     "geom:longitude":9.152108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09126 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":336880131,
-    "wof:lastmodified":1448998021,
+    "wof:lastmodified":1466296830,
     "wof:name":"Cabras Dr. Sergio",
     "wof:parent_id":85862617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.152108,39.200058,9.152108,39.200058],
+  "bbox": [
+    9.152108,
+    39.200058,
+    9.152108,
+    39.200058
+],
   "geometry": {"coordinates":[9.152108,39.200058],"type":"Point"}
 }

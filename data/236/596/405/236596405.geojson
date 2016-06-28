@@ -2,13 +2,14 @@
   "id": 236596405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.49774,45.806225,12.49774,45.806225",
     "geom:latitude":45.806225,
     "geom:longitude":12.49774,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Baite 31046 Oderzo",
     "sg:city":"Oderzo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236596405,
-    "wof:lastmodified":1449003323,
+    "wof:lastmodified":1466294985,
     "wof:name":"Glass Idromassaggio Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.49774,45.806225,12.49774,45.806225],
+  "bbox": [
+    12.49774,
+    45.806225,
+    12.49774,
+    45.806225
+],
   "geometry": {"coordinates":[12.49774,45.806225],"type":"Point"}
 }

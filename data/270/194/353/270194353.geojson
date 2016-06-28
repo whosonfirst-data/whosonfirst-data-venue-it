@@ -2,13 +2,14 @@
   "id": 270194353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.474966,41.901775,12.474966,41.901775",
     "geom:latitude":41.901775,
     "geom:longitude":12.474966,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270194353,
-    "wof:lastmodified":1449010730,
+    "wof:lastmodified":1466291322,
     "wof:name":"Fadda Antonio",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.474966,41.901775,12.474966,41.901775],
+  "bbox": [
+    12.474966,
+    41.901775,
+    12.474966,
+    41.901775
+],
   "geometry": {"coordinates":[12.474966,41.901775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185657183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.79963,41.9618,12.79963,41.9618",
     "geom:latitude":41.9618,
     "geom:longitude":12.79963,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell'inversata 10, 00019 Tivoli, Rm",
     "sg:city":"Tivoli",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185657183,
-    "wof:lastmodified":1449006785,
+    "wof:lastmodified":1466295028,
     "wof:name":"Banca Di Credito Cooperativo Di Tivoli E Valle Dell'aniene Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.79963,41.9618,12.79963,41.9618],
+  "bbox": [
+    12.79963,
+    41.9618,
+    12.79963,
+    41.9618
+],
   "geometry": {"coordinates":[12.79963,41.9618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286454033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.527504,41.887516,12.527504,41.887516",
     "geom:latitude":41.887516,
     "geom:longitude":12.527504,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1890/n, V. Casilina - Ter 00132 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286454033,
-    "wof:lastmodified":1449017814,
+    "wof:lastmodified":1466292171,
     "wof:name":"Babyplanet",
     "wof:parent_id":85904931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.527504,41.887516,12.527504,41.887516],
+  "bbox": [
+    12.527504,
+    41.887516,
+    12.527504,
+    41.887516
+],
   "geometry": {"coordinates":[12.527504,41.887516],"type":"Point"}
 }

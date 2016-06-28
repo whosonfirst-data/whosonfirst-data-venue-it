@@ -2,13 +2,14 @@
   "id": 287060267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.254167,43.257221,11.254167,43.257221",
     "geom:latitude":43.257221,
     "geom:longitude":11.254167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Localita' Bellaria 53018 Sovicille",
     "sg:city":"Sovicille",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287060267,
-    "wof:lastmodified":1449001500,
+    "wof:lastmodified":1466290360,
     "wof:name":"Bayer Biologicals Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [11.254167,43.257221,11.254167,43.257221],
+  "bbox": [
+    11.254167,
+    43.257221,
+    11.254167,
+    43.257221
+],
   "geometry": {"coordinates":[11.254167,43.257221],"type":"Point"}
 }

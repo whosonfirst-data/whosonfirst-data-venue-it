@@ -2,13 +2,14 @@
   "id": 270390901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.419116,43.067799,12.419116,43.067799",
     "geom:latitude":43.067799,
     "geom:longitude":12.419116,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Gomma 13 06087 Perugia",
     "sg:classifiers":[
         {
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":270390901,
-    "wof:lastmodified":1449011134,
+    "wof:lastmodified":1466293758,
     "wof:name":"Becchetti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boiler"
     ]
 },
-  "bbox": [12.419116,43.067799,12.419116,43.067799],
+  "bbox": [
+    12.419116,
+    43.067799,
+    12.419116,
+    43.067799
+],
   "geometry": {"coordinates":[12.419116,43.067799],"type":"Point"}
 }

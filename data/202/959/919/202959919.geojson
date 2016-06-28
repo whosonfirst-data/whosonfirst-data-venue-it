@@ -2,13 +2,14 @@
   "id": 202959919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.134995,39.24102,9.134995,39.24102",
     "geom:latitude":39.24102,
     "geom:longitude":9.134995,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09134 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202959919,
-    "wof:lastmodified":1449062393,
+    "wof:lastmodified":1466293815,
     "wof:name":"Sartoria Graffi Di Moda Di Farci Cabanu G.",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.134995,39.24102,9.134995,39.24102],
+  "bbox": [
+    9.134995,
+    39.24102,
+    9.134995,
+    39.24102
+],
   "geometry": {"coordinates":[9.134995,39.24102],"type":"Point"}
 }

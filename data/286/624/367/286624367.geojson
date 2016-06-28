@@ -2,13 +2,14 @@
   "id": 286624367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.055482,45.761963,9.055482,45.761963",
     "geom:latitude":45.761963,
     "geom:longitude":9.055482,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Industria 22070 Luisago",
     "sg:city":"Luisago",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286624367,
-    "wof:lastmodified":1449017206,
+    "wof:lastmodified":1466294236,
     "wof:name":"Ostinelli Seta Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.055482,45.761963,9.055482,45.761963],
+  "bbox": [
+    9.055482,
+    45.761963,
+    9.055482,
+    45.761963
+],
   "geometry": {"coordinates":[9.055482,45.761963],"type":"Point"}
 }

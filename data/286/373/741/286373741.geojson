@@ -2,13 +2,14 @@
   "id": 286373741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.868306,45.761181,8.868306,45.761181",
     "geom:latitude":45.761181,
     "geom:longitude":8.868306,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21043 Castiglione Olona",
     "sg:city":"Castiglione Olona",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286373741,
-    "wof:lastmodified":1449016714,
+    "wof:lastmodified":1466291024,
     "wof:name":"M.c.f. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "optical"
     ]
 },
-  "bbox": [8.868306,45.761181,8.868306,45.761181],
+  "bbox": [
+    8.868306,
+    45.761181,
+    8.868306,
+    45.761181
+],
   "geometry": {"coordinates":[8.868306,45.761181],"type":"Point"}
 }

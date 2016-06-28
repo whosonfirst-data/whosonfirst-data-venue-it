@@ -2,13 +2,14 @@
   "id": 219823437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.762424,45.125999,10.762424,45.125999",
     "geom:latitude":45.125999,
     "geom:longitude":10.762424,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46030 Borgoforte",
     "sg:city":"Borgoforte",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219823437,
-    "wof:lastmodified":1449073881,
+    "wof:lastmodified":1466294513,
     "wof:name":"Unisac Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.762424,45.125999,10.762424,45.125999],
+  "bbox": [
+    10.762424,
+    45.125999,
+    10.762424,
+    45.125999
+],
   "geometry": {"coordinates":[10.762424,45.125999],"type":"Point"}
 }

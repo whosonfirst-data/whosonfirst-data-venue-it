@@ -2,13 +2,14 @@
   "id": 270081131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18,45.481705,9.18,45.481705",
     "geom:latitude":45.481705,
     "geom:longitude":9.18,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20154 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270081131,
-    "wof:lastmodified":1449009373,
+    "wof:lastmodified":1466289977,
     "wof:name":"Anna Di Chen Ping",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18,45.481705,9.18,45.481705],
+  "bbox": [
+    9.18,
+    45.481705,
+    9.18,
+    45.481705
+],
   "geometry": {"coordinates":[9.18,45.481705],"type":"Point"}
 }

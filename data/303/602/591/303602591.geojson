@@ -2,13 +2,14 @@
   "id": 303602591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.975356,45.680466,11.975356,45.680466",
     "geom:latitude":45.680466,
     "geom:longitude":11.975356,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31033 Castelfranco Veneto",
     "sg:city":"Castelfranco Veneto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303602591,
-    "wof:lastmodified":1448999266,
+    "wof:lastmodified":1466297202,
     "wof:name":"Rondana Luigi Art Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.975356,45.680466,11.975356,45.680466],
+  "bbox": [
+    11.975356,
+    45.680466,
+    11.975356,
+    45.680466
+],
   "geometry": {"coordinates":[11.975356,45.680466],"type":"Point"}
 }

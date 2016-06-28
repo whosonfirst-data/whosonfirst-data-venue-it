@@ -2,13 +2,14 @@
   "id": 303504685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.217531,45.495434,10.217531,45.495434",
     "geom:latitude":45.495434,
     "geom:longitude":10.217531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25020 Offlaga",
     "sg:city":"Offlaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303504685,
-    "wof:lastmodified":1448998548,
+    "wof:lastmodified":1466296616,
     "wof:name":"Hidro - Press Di Maiandi Gianfranco & C. (s.n.c.)",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.217531,45.495434,10.217531,45.495434],
+  "bbox": [
+    10.217531,
+    45.495434,
+    10.217531,
+    45.495434
+],
   "geometry": {"coordinates":[10.217531,45.495434],"type":"Point"}
 }

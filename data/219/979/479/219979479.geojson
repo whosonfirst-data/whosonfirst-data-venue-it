@@ -2,13 +2,14 @@
   "id": 219979479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.333777,45.724854,12.333777,45.724854",
     "geom:latitude":45.724854,
     "geom:longitude":12.333777,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31038 Paese",
     "sg:city":"Paese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219979479,
-    "wof:lastmodified":1449072883,
+    "wof:lastmodified":1466296134,
     "wof:name":"Ceron Giorgio Termoidraulica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.333777,45.724854,12.333777,45.724854],
+  "bbox": [
+    12.333777,
+    45.724854,
+    12.333777,
+    45.724854
+],
   "geometry": {"coordinates":[12.333777,45.724854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287232565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.24159,45.501659,9.24159,45.501659",
     "geom:latitude":45.501659,
     "geom:longitude":9.24159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Picco Madre Anna Eugenia 20132 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287232565,
-    "wof:lastmodified":1449000941,
+    "wof:lastmodified":1466292702,
     "wof:name":"Ingun Distribuzione S.p.a.",
     "wof:parent_id":85796853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.24159,45.501659,9.24159,45.501659],
+  "bbox": [
+    9.24159,
+    45.501659,
+    9.24159,
+    45.501659
+],
   "geometry": {"coordinates":[9.24159,45.501659],"type":"Point"}
 }

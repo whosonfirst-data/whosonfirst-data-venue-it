@@ -2,13 +2,14 @@
   "id": 336713027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.383868,44.586906,11.383868,44.586906",
     "geom:latitude":44.586906,
     "geom:longitude":11.383868,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Notai 40050 Argelato",
     "sg:city":"Argelato",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336713027,
-    "wof:lastmodified":1448997919,
+    "wof:lastmodified":1466295079,
     "wof:name":"Mb Autoattrezzature (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.383868,44.586906,11.383868,44.586906],
+  "bbox": [
+    11.383868,
+    44.586906,
+    11.383868,
+    44.586906
+],
   "geometry": {"coordinates":[11.383868,44.586906],"type":"Point"}
 }

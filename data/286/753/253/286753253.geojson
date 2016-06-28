@@ -2,13 +2,14 @@
   "id": 286753253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.930229,45.564426,11.930229,45.564426",
     "geom:latitude":45.564426,
     "geom:longitude":11.930229,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 S.giorgio Pertiche",
     "sg:classifiers":[],
     "sg:orig_category":"Cucine, Forni E Fornelli Uso Domestico",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286753253,
-    "wof:lastmodified":1449015522,
+    "wof:lastmodified":1466295885,
     "wof:name":"Filippi Elettrodomestici Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.930229,45.564426,11.930229,45.564426],
+  "bbox": [
+    11.930229,
+    45.564426,
+    11.930229,
+    45.564426
+],
   "geometry": {"coordinates":[11.930229,45.564426],"type":"Point"}
 }

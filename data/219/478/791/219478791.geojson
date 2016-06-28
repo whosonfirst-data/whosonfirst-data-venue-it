@@ -2,13 +2,14 @@
   "id": 219478791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.084157,45.700542,9.084157,45.700542",
     "geom:latitude":45.700542,
     "geom:longitude":9.084157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22072 Cermenate",
     "sg:city":"Cermenate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219478791,
-    "wof:lastmodified":1449070487,
+    "wof:lastmodified":1466291197,
     "wof:name":"Molteni Gabriele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.084157,45.700542,9.084157,45.700542],
+  "bbox": [
+    9.084157,
+    45.700542,
+    9.084157,
+    45.700542
+],
   "geometry": {"coordinates":[9.084157,45.700542],"type":"Point"}
 }

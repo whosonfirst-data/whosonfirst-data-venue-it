@@ -2,13 +2,14 @@
   "id": 270308759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.1875,35.2616,-81.1875,35.2616",
     "geom:latitude":35.2616,
     "geom:longitude":-81.1875,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28055 Ghiffa",
     "sg:classifiers":[],
     "sg:orig_category":"Cartotecnica E Servizi. Articoli Per Imballaggio E Confezionamento",
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270308759,
-    "wof:lastmodified":1449011161,
+    "wof:lastmodified":1466292731,
     "wof:name":"Diemme Srl",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.1875,35.2616,-81.1875,35.2616],
+  "bbox": [
+    -81.1875,
+    35.2616,
+    -81.1875,
+    35.2616
+],
   "geometry": {"coordinates":[-81.1875,35.2616],"type":"Point"}
 }

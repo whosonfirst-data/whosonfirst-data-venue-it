@@ -2,13 +2,14 @@
   "id": 186488581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.460882,45.565102,9.460882,45.565102",
     "geom:latitude":45.565102,
     "geom:longitude":9.460882,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Risorgimento 2 20060 Masate",
     "sg:city":"Masate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186488581,
-    "wof:lastmodified":1449052971,
+    "wof:lastmodified":1466292172,
     "wof:name":"Societa' Industria E Commercio Tessile Sictess Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcloth"
     ]
 },
-  "bbox": [9.460882,45.565102,9.460882,45.565102],
+  "bbox": [
+    9.460882,
+    45.565102,
+    9.460882,
+    45.565102
+],
   "geometry": {"coordinates":[9.460882,45.565102],"type":"Point"}
 }

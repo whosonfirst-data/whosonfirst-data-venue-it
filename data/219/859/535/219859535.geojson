@@ -2,13 +2,14 @@
   "id": 219859535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.904346,45.38974,10.904346,45.38974",
     "geom:latitude":45.38974,
     "geom:longitude":10.904346,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37069 Villafranca Di Verona",
     "sg:city":"Villafranca di Verona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219859535,
-    "wof:lastmodified":1449072923,
+    "wof:lastmodified":1466294832,
     "wof:name":"Italia Impianti Elettrici Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.904346,45.38974,10.904346,45.38974],
+  "bbox": [
+    10.904346,
+    45.38974,
+    10.904346,
+    45.38974
+],
   "geometry": {"coordinates":[10.904346,45.38974],"type":"Point"}
 }

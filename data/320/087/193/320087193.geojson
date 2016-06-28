@@ -2,13 +2,14 @@
   "id": 320087193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.26,43.767212,11.26,43.767212",
     "geom:latitude":43.767212,
     "geom:longitude":11.26,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50012 Bagno A Ripoli",
     "sg:city":"Bagno a Ripoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320087193,
-    "wof:lastmodified":1449012979,
+    "wof:lastmodified":1466294477,
     "wof:name":"Agritecnica S.a.s. Di Pedretti Pierino E C.",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.26,43.767212,11.26,43.767212],
+  "bbox": [
+    11.26,
+    43.767212,
+    11.26,
+    43.767212
+],
   "geometry": {"coordinates":[11.26,43.767212],"type":"Point"}
 }

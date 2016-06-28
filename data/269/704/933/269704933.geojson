@@ -2,13 +2,14 @@
   "id": 269704933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.190227,45.54882,9.190227,45.54882",
     "geom:latitude":45.54882,
     "geom:longitude":9.190227,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20095 Cusano Milanino",
     "sg:city":"Cusano Milanino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269704933,
-    "wof:lastmodified":1449036778,
+    "wof:lastmodified":1466291712,
     "wof:name":"Carati Andrea",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.190227,45.54882,9.190227,45.54882],
+  "bbox": [
+    9.190227,
+    45.54882,
+    9.190227,
+    45.54882
+],
   "geometry": {"coordinates":[9.190227,45.54882],"type":"Point"}
 }

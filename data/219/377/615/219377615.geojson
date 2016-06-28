@@ -2,13 +2,14 @@
   "id": 219377615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.235323,44.491852,11.235323,44.491852",
     "geom:latitude":44.491852,
     "geom:longitude":11.235323,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vicolo Del Lavoro 8 40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219377615,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466290107,
     "wof:name":"Cono Di Pasquini Giorgio & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tongs"
     ]
 },
-  "bbox": [11.235323,44.491852,11.235323,44.491852],
+  "bbox": [
+    11.235323,
+    44.491852,
+    11.235323,
+    44.491852
+],
   "geometry": {"coordinates":[11.235323,44.491852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336769995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.444955,44.502689,11.444955,44.502689",
     "geom:latitude":44.502689,
     "geom:longitude":11.444955,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"286, Via Tosarelli Bruno 40055 Castenaso",
     "sg:city":"Castenaso",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336769995,
-    "wof:lastmodified":1448997292,
+    "wof:lastmodified":1466295757,
     "wof:name":"Sampingranaggi (s.r.l.)",
     "wof:parent_id":85900453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.444955,44.502689,11.444955,44.502689],
+  "bbox": [
+    11.444955,
+    44.502689,
+    11.444955,
+    44.502689
+],
   "geometry": {"coordinates":[11.444955,44.502689],"type":"Point"}
 }

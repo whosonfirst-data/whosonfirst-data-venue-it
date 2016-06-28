@@ -2,13 +2,14 @@
   "id": 253715483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.728732,43.300766,13.728732,43.300766",
     "geom:latitude":43.300766,
     "geom:longitude":13.728732,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, V. Castelfidardo 62012 Civitanova M.",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253715483,
-    "wof:lastmodified":1449065174,
+    "wof:lastmodified":1466296905,
     "wof:name":"Comes Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [13.728732,43.300766,13.728732,43.300766],
+  "bbox": [
+    13.728732,
+    43.300766,
+    13.728732,
+    43.300766
+],
   "geometry": {"coordinates":[13.728732,43.300766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220042687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.730645,45.127983,7.730645,45.127983",
     "geom:latitude":45.127983,
     "geom:longitude":7.730645,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10072 Caselle Torinese",
     "sg:city":"Caselle Torinese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220042687,
-    "wof:lastmodified":1449074649,
+    "wof:lastmodified":1466295050,
     "wof:name":"Edilevra Snc",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.730645,45.127983,7.730645,45.127983],
+  "bbox": [
+    7.730645,
+    45.127983,
+    7.730645,
+    45.127983
+],
   "geometry": {"coordinates":[7.730645,45.127983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270459283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.179969,43.847801,11.179969,43.847801",
     "geom:latitude":43.847801,
     "geom:longitude":11.179969,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Dante Alighieri 50041 Calenzano",
     "sg:city":"Calenzano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270459283,
-    "wof:lastmodified":1449009635,
+    "wof:lastmodified":1466294576,
     "wof:name":"Icea (s.r.l.)",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramic"
     ]
 },
-  "bbox": [11.179969,43.847801,11.179969,43.847801],
+  "bbox": [
+    11.179969,
+    43.847801,
+    11.179969,
+    43.847801
+],
   "geometry": {"coordinates":[11.179969,43.847801],"type":"Point"}
 }

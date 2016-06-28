@@ -2,13 +2,14 @@
   "id": 236459981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.044705,45.525436,9.044705,45.525436",
     "geom:latitude":45.525436,
     "geom:longitude":9.044705,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Milano 11 20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236459981,
-    "wof:lastmodified":1449002908,
+    "wof:lastmodified":1466293624,
     "wof:name":"Elsi S.r.l.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resistor"
     ]
 },
-  "bbox": [9.044705,45.525436,9.044705,45.525436],
+  "bbox": [
+    9.044705,
+    45.525436,
+    9.044705,
+    45.525436
+],
   "geometry": {"coordinates":[9.044705,45.525436],"type":"Point"}
 }

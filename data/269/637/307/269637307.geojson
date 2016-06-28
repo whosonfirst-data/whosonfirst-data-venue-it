@@ -2,13 +2,14 @@
   "id": 269637307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.652667,43.030315,12.652667,43.030315",
     "geom:latitude":43.030315,
     "geom:longitude":12.652667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06081 Assisi",
     "sg:city":"Assisi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269637307,
-    "wof:lastmodified":1449036154,
+    "wof:lastmodified":1466290789,
     "wof:name":"Saco Di Proietti Salvatore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drapery"
     ]
 },
-  "bbox": [12.652667,43.030315,12.652667,43.030315],
+  "bbox": [
+    12.652667,
+    43.030315,
+    12.652667,
+    43.030315
+],
   "geometry": {"coordinates":[12.652667,43.030315],"type":"Point"}
 }

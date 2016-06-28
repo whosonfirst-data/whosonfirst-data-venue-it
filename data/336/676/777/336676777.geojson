@@ -2,13 +2,14 @@
   "id": 336676777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.698531,42.66127,13.698531,42.66127",
     "geom:latitude":42.66127,
     "geom:longitude":13.698531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Zona Industriale 64025 Pineto",
     "sg:city":"Pineto",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336676777,
-    "wof:lastmodified":1448997617,
+    "wof:lastmodified":1466294645,
     "wof:name":"Gapis Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [13.698531,42.66127,13.698531,42.66127],
+  "bbox": [
+    13.698531,
+    42.66127,
+    13.698531,
+    42.66127
+],
   "geometry": {"coordinates":[13.698531,42.66127],"type":"Point"}
 }

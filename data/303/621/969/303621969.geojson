@@ -2,13 +2,14 @@
   "id": 303621969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.974014,43.261726,11.974014,43.261726",
     "geom:latitude":43.261726,
     "geom:longitude":11.974014,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52044 Cortona",
     "sg:city":"Cortona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303621969,
-    "wof:lastmodified":1449000275,
+    "wof:lastmodified":1466297299,
     "wof:name":"Edilarredo Snc Di Schettino Carlo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.974014,43.261726,11.974014,43.261726],
+  "bbox": [
+    11.974014,
+    43.261726,
+    11.974014,
+    43.261726
+],
   "geometry": {"coordinates":[11.974014,43.261726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253256703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.232526,45.460972,9.232526,45.460972",
     "geom:latitude":45.460972,
     "geom:longitude":9.232526,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20060 Liscate",
     "sg:city":"Liscate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253256703,
-    "wof:lastmodified":1449065058,
+    "wof:lastmodified":1466291647,
     "wof:name":"Conca Sabrina",
     "wof:parent_id":85796921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.232526,45.460972,9.232526,45.460972],
+  "bbox": [
+    9.232526,
+    45.460972,
+    9.232526,
+    45.460972
+],
   "geometry": {"coordinates":[9.232526,45.460972],"type":"Point"}
 }

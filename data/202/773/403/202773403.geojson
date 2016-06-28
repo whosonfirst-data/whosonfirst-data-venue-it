@@ -2,13 +2,14 @@
   "id": 202773403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.190792,41.85902,12.190792,41.85902",
     "geom:latitude":41.85902,
     "geom:longitude":12.190792,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00050 Fregene",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Culturali E Per Lo Spettacolo. Servizi Al Turismo. Acqua, Luce, Gas E Societa' Di Esercizio Pubblico",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202773403,
-    "wof:lastmodified":1449060425,
+    "wof:lastmodified":1466291880,
     "wof:name":"Associazione Arte Cultura Terzo Millennio Pianeta Azzurro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.190792,41.85902,12.190792,41.85902],
+  "bbox": [
+    12.190792,
+    41.85902,
+    12.190792,
+    41.85902
+],
   "geometry": {"coordinates":[12.190792,41.85902],"type":"Point"}
 }

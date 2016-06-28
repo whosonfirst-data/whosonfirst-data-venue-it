@@ -2,13 +2,14 @@
   "id": 253648565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.750054,45.15337,7.750054,45.15337",
     "geom:latitude":45.15337,
     "geom:longitude":7.750054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10036 Settimo Torinese",
     "sg:city":"Settimo Torinese",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253648565,
-    "wof:lastmodified":1449063623,
+    "wof:lastmodified":1466296357,
     "wof:name":"M.en.t. Di Luciani Luca",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.750054,45.15337,7.750054,45.15337],
+  "bbox": [
+    7.750054,
+    45.15337,
+    7.750054,
+    45.15337
+],
   "geometry": {"coordinates":[7.750054,45.15337],"type":"Point"}
 }

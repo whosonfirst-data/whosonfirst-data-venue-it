@@ -2,13 +2,14 @@
   "id": 269984009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.84159,37.291153,14.84159,37.291153",
     "geom:latitude":37.291153,
     "geom:longitude":14.84159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95013 Fiumefreddo Sicilia",
     "sg:classifiers":[],
     "sg:orig_category":"Alimentare E Conserviera Industria - Macchine",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269984009,
-    "wof:lastmodified":1449037491,
+    "wof:lastmodified":1466295069,
     "wof:name":"Nicotra Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.84159,37.291153,14.84159,37.291153],
+  "bbox": [
+    14.84159,
+    37.291153,
+    14.84159,
+    37.291153
+],
   "geometry": {"coordinates":[14.84159,37.291153],"type":"Point"}
 }

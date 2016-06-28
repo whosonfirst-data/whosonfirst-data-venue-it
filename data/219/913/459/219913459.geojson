@@ -2,13 +2,14 @@
   "id": 219913459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.455259,41.876446,12.455259,41.876446",
     "geom:latitude":41.876446,
     "geom:longitude":12.455259,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00152 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219913459,
-    "wof:lastmodified":1449071749,
+    "wof:lastmodified":1466295430,
     "wof:name":"Termoidraulica 2000 Di Fumaselli",
     "wof:parent_id":85904947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.455259,41.876446,12.455259,41.876446],
+  "bbox": [
+    12.455259,
+    41.876446,
+    12.455259,
+    41.876446
+],
   "geometry": {"coordinates":[12.455259,41.876446],"type":"Point"}
 }

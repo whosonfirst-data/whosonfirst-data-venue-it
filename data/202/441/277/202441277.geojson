@@ -2,13 +2,14 @@
   "id": 202441277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.61104,41.260635,13.61104,41.260635",
     "geom:latitude":41.260635,
     "geom:longitude":13.61104,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04023 Formia",
     "sg:city":"Formia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202441277,
-    "wof:lastmodified":1449060304,
+    "wof:lastmodified":1466295572,
     "wof:name":"Istituto Tecnico Commerciale Di Colabello Ada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.61104,41.260635,13.61104,41.260635],
+  "bbox": [
+    13.61104,
+    41.260635,
+    13.61104,
+    41.260635
+],
   "geometry": {"coordinates":[13.61104,41.260635],"type":"Point"}
 }

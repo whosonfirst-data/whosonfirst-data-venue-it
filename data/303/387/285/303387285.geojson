@@ -2,13 +2,14 @@
   "id": 303387285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.196121,45.54089,10.196121,45.54089",
     "geom:latitude":45.54089,
     "geom:longitude":10.196121,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25126 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303387285,
-    "wof:lastmodified":1449000233,
+    "wof:lastmodified":1466295282,
     "wof:name":"Com-pac Srl",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.196121,45.54089,10.196121,45.54089],
+  "bbox": [
+    10.196121,
+    45.54089,
+    10.196121,
+    45.54089
+],
   "geometry": {"coordinates":[10.196121,45.54089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270198041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.399782,45.373779,9.399782,45.373779",
     "geom:latitude":45.373779,
     "geom:longitude":9.399782,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26837 Mulazzano",
     "sg:city":"Mulazzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270198041,
-    "wof:lastmodified":1449009526,
+    "wof:lastmodified":1466291376,
     "wof:name":"La Baita Del Casaro Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.399782,45.373779,9.399782,45.373779],
+  "bbox": [
+    9.399782,
+    45.373779,
+    9.399782,
+    45.373779
+],
   "geometry": {"coordinates":[9.399782,45.373779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203236583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.912485,41.11832,14.912485,41.11832",
     "geom:latitude":41.11832,
     "geom:longitude":14.912485,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82021 Apice",
     "sg:city":"Apice",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203236583,
-    "wof:lastmodified":1449025145,
+    "wof:lastmodified":1466290239,
     "wof:name":"Apice Termoidraulica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.912485,41.11832,14.912485,41.11832],
+  "bbox": [
+    14.912485,
+    41.11832,
+    14.912485,
+    41.11832
+],
   "geometry": {"coordinates":[14.912485,41.11832],"type":"Point"}
 }

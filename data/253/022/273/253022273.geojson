@@ -2,13 +2,14 @@
   "id": 253022273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.083132,45.429817,9.083132,45.429817",
     "geom:latitude":45.429817,
     "geom:longitude":9.083132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253022273,
-    "wof:lastmodified":1449063807,
+    "wof:lastmodified":1466289142,
     "wof:name":"Gerd Altmann Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.083132,45.429817,9.083132,45.429817],
+  "bbox": [
+    9.083132,
+    45.429817,
+    9.083132,
+    45.429817
+],
   "geometry": {"coordinates":[9.083132,45.429817],"type":"Point"}
 }

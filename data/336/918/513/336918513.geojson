@@ -2,13 +2,14 @@
   "id": 336918513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.667502,45.063889,7.667502,45.063889",
     "geom:latitude":45.063889,
     "geom:longitude":7.667502,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10129 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336918513,
-    "wof:lastmodified":1448997657,
+    "wof:lastmodified":1466297071,
     "wof:name":"Cisternino Susanna",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [7.667502,45.063889,7.667502,45.063889],
+  "bbox": [
+    7.667502,
+    45.063889,
+    7.667502,
+    45.063889
+],
   "geometry": {"coordinates":[7.667502,45.063889],"type":"Point"}
 }

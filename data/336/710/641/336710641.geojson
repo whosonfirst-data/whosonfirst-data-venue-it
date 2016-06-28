@@ -2,13 +2,14 @@
   "id": 336710641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.931159,41.508556,12.931159,41.508556",
     "geom:latitude":41.508556,
     "geom:longitude":12.931159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Km. 1.400, Via Epitaffio 04100 Latina",
     "sg:city":"Latina",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336710641,
-    "wof:lastmodified":1448996993,
+    "wof:lastmodified":1466295052,
     "wof:name":"Manzo Riscaldamenti S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.931159,41.508556,12.931159,41.508556],
+  "bbox": [
+    12.931159,
+    41.508556,
+    12.931159,
+    41.508556
+],
   "geometry": {"coordinates":[12.931159,41.508556],"type":"Point"}
 }

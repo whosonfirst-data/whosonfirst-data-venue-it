@@ -2,13 +2,14 @@
   "id": 336731971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.248713,40.928574,14.248713,40.928574",
     "geom:latitude":40.928574,
     "geom:longitude":14.248713,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"113/b, Via Napoli 80025 Casandrino",
     "sg:city":"Casandrino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336731971,
-    "wof:lastmodified":1448997899,
+    "wof:lastmodified":1466295302,
     "wof:name":"O.m.d. Di D'amato Vincenzo & C. Sas",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [14.248713,40.928574,14.248713,40.928574],
+  "bbox": [
+    14.248713,
+    40.928574,
+    14.248713,
+    40.928574
+],
   "geometry": {"coordinates":[14.248713,40.928574],"type":"Point"}
 }

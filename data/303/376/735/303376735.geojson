@@ -2,13 +2,14 @@
   "id": 303376735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.20644,45.492985,10.20644,45.492985",
     "geom:latitude":45.492985,
     "geom:longitude":10.20644,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Rescatti Pietro 25010 Brescia",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303376735,
-    "wof:lastmodified":1448998953,
+    "wof:lastmodified":1466295148,
     "wof:name":"Ce.a.b.",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [10.20644,45.492985,10.20644,45.492985],
+  "bbox": [
+    10.20644,
+    45.492985,
+    10.20644,
+    45.492985
+],
   "geometry": {"coordinates":[10.20644,45.492985],"type":"Point"}
 }

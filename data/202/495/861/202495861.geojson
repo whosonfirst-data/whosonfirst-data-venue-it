@@ -2,13 +2,14 @@
   "id": 202495861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.751205,40.677914,14.751205,40.677914",
     "geom:latitude":40.677914,
     "geom:longitude":14.751205,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"49, Via Porto 84121 Salerno",
     "sg:city":"Salerno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202495861,
-    "wof:lastmodified":1449061242,
+    "wof:lastmodified":1466288933,
     "wof:name":"Gallozzi Shipping Limited Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sea"
     ]
 },
-  "bbox": [14.751205,40.677914,14.751205,40.677914],
+  "bbox": [
+    14.751205,
+    40.677914,
+    14.751205,
+    40.677914
+],
   "geometry": {"coordinates":[14.751205,40.677914],"type":"Point"}
 }

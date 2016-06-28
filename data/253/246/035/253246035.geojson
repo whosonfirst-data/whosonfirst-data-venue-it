@@ -2,13 +2,14 @@
   "id": 253246035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.868261,44.897999,8.868261,44.897999",
     "geom:latitude":44.897999,
     "geom:longitude":8.868261,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15057 Tortona",
     "sg:city":"Tortona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253246035,
-    "wof:lastmodified":1449063020,
+    "wof:lastmodified":1466291520,
     "wof:name":"Bios Soc.coop.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.868261,44.897999,8.868261,44.897999],
+  "bbox": [
+    8.868261,
+    44.897999,
+    8.868261,
+    44.897999
+],
   "geometry": {"coordinates":[8.868261,44.897999],"type":"Point"}
 }

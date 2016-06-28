@@ -2,13 +2,14 @@
   "id": 303803831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.879105,33.990067,-83.879105,33.990067",
     "geom:latitude":33.990067,
     "geom:longitude":-83.879105,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30019 Sottomarina",
     "sg:classifiers":[],
     "sg:orig_category":"Arredo Cucina Ed Elettrodomestici. Frigotecnica, Apparecchiature E Servizi. Elettrodomestici",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":303803831,
-    "wof:lastmodified":1449000594,
+    "wof:lastmodified":1466297933,
     "wof:name":"Frigoveneta 2001",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.879105,33.990067,-83.879105,33.990067],
+  "bbox": [
+    -83.879105,
+    33.990067,
+    -83.879105,
+    33.990067
+],
   "geometry": {"coordinates":[-83.879105,33.990067],"type":"Point"}
 }

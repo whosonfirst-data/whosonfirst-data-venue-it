@@ -2,13 +2,14 @@
   "id": 303272093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.247924,45.395195,9.247924,45.395195",
     "geom:latitude":45.395195,
     "geom:longitude":9.247924,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, V. Mentana 20098 S. Giuliano Milanese",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303272093,
-    "wof:lastmodified":1449000396,
+    "wof:lastmodified":1466293884,
     "wof:name":"Essebidue Di Sampellegrini",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [9.247924,45.395195,9.247924,45.395195],
+  "bbox": [
+    9.247924,
+    45.395195,
+    9.247924,
+    45.395195
+],
   "geometry": {"coordinates":[9.247924,45.395195],"type":"Point"}
 }

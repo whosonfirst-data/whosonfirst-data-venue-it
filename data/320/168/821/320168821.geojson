@@ -2,13 +2,14 @@
   "id": 320168821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.083926,45.570629,10.083926,45.570629",
     "geom:latitude":45.570629,
     "geom:longitude":10.083926,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25066 Lumezzane Gazzolo",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine Utensili - Produzione",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":320168821,
-    "wof:lastmodified":1449013209,
+    "wof:lastmodified":1466295424,
     "wof:name":"Officine Meccaniche Sabadini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.083926,45.570629,10.083926,45.570629],
+  "bbox": [
+    10.083926,
+    45.570629,
+    10.083926,
+    45.570629
+],
   "geometry": {"coordinates":[10.083926,45.570629],"type":"Point"}
 }

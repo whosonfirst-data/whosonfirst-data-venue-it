@@ -2,13 +2,14 @@
   "id": 269874321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.28444,37.066483,15.28444,37.066483",
     "geom:latitude":37.066483,
     "geom:longitude":15.28444,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Cucco 96016 Lentini",
     "sg:city":"Lentini",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269874321,
-    "wof:lastmodified":1449038816,
+    "wof:lastmodified":1466293859,
     "wof:name":"Azienda Agro Biologica Cucco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [15.28444,37.066483,15.28444,37.066483],
+  "bbox": [
+    15.28444,
+    37.066483,
+    15.28444,
+    37.066483
+],
   "geometry": {"coordinates":[15.28444,37.066483],"type":"Point"}
 }

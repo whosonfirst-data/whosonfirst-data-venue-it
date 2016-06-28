@@ -2,13 +2,14 @@
   "id": 269829211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.858614,45.513027,11.858614,45.513027",
     "geom:latitude":45.513027,
     "geom:longitude":11.858614,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"106, Via Monte Nero 35010 Curtarolo",
     "sg:city":"Curtarolo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269829211,
-    "wof:lastmodified":1449038814,
+    "wof:lastmodified":1466293364,
     "wof:name":"Alessi Macchine Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.858614,45.513027,11.858614,45.513027],
+  "bbox": [
+    11.858614,
+    45.513027,
+    11.858614,
+    45.513027
+],
   "geometry": {"coordinates":[11.858614,45.513027],"type":"Point"}
 }

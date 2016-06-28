@@ -2,13 +2,14 @@
   "id": 336709861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.995291,45.310173,9.995291,45.310173",
     "geom:latitude":45.310173,
     "geom:longitude":9.995291,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3/5, Via Enrico Fermi 25027 Quinzano D'oglio",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336709861,
-    "wof:lastmodified":1448997164,
+    "wof:lastmodified":1466295042,
     "wof:name":"Makros S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.995291,45.310173,9.995291,45.310173],
+  "bbox": [
+    9.995291,
+    45.310173,
+    9.995291,
+    45.310173
+],
   "geometry": {"coordinates":[9.995291,45.310173],"type":"Point"}
 }

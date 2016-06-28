@@ -2,13 +2,14 @@
   "id": 253543757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.883916,45.626202,8.883916,45.626202",
     "geom:latitude":45.626202,
     "geom:longitude":8.883916,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21057 Olgiate Olona",
     "sg:city":"Olgiate Olona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253543757,
-    "wof:lastmodified":1449063391,
+    "wof:lastmodified":1466295186,
     "wof:name":"Eredi Di Vismara Luigi Di Vismara D. & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.883916,45.626202,8.883916,45.626202],
+  "bbox": [
+    8.883916,
+    45.626202,
+    8.883916,
+    45.626202
+],
   "geometry": {"coordinates":[8.883916,45.626202],"type":"Point"}
 }

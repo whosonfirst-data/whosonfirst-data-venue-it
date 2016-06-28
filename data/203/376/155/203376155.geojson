@@ -2,13 +2,14 @@
   "id": 203376155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.328624,45.892399,12.328624,45.892399",
     "geom:latitude":45.892399,
     "geom:longitude":12.328624,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31020 San Vendemiano",
     "sg:city":"San Vendemiano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203376155,
-    "wof:lastmodified":1449025564,
+    "wof:lastmodified":1466291858,
     "wof:name":"Viaco - Agenzia Viaggi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.328624,45.892399,12.328624,45.892399],
+  "bbox": [
+    12.328624,
+    45.892399,
+    12.328624,
+    45.892399
+],
   "geometry": {"coordinates":[12.328624,45.892399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236618303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.121487,45.256104,11.121487,45.256104",
     "geom:latitude":45.256104,
     "geom:longitude":11.121487,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Battisti 37050 San Pietro Di Morubio",
     "sg:city":"San Pietro di Morubio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236618303,
-    "wof:lastmodified":1449003750,
+    "wof:lastmodified":1466295181,
     "wof:name":"Manara Fratelli Di Manara Giancarlo & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.121487,45.256104,11.121487,45.256104],
+  "bbox": [
+    11.121487,
+    45.256104,
+    11.121487,
+    45.256104
+],
   "geometry": {"coordinates":[11.121487,45.256104],"type":"Point"}
 }

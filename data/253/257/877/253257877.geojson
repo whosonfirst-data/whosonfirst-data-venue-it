@@ -2,13 +2,14 @@
   "id": 253257877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.264884,41.735126,12.264884,41.735126",
     "geom:latitude":41.735126,
     "geom:longitude":12.264884,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00121 Lido Di Ostia",
     "sg:classifiers":[],
     "sg:orig_category":"Ospedali E Servizi Sanitari",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253257877,
-    "wof:lastmodified":1449063682,
+    "wof:lastmodified":1466291661,
     "wof:name":"Cooperativa Futura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.264884,41.735126,12.264884,41.735126],
+  "bbox": [
+    12.264884,
+    41.735126,
+    12.264884,
+    41.735126
+],
   "geometry": {"coordinates":[12.264884,41.735126],"type":"Point"}
 }

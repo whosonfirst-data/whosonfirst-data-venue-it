@@ -2,13 +2,14 @@
   "id": 253423577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.962861,45.830326,8.962861,45.830326",
     "geom:latitude":45.830326,
     "geom:longitude":8.962861,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Somazzo, 6/8 22029 Uggiate Trevano",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253423577,
-    "wof:lastmodified":1449063306,
+    "wof:lastmodified":1466293665,
     "wof:name":"Maglificio Pierina Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothes"
     ]
 },
-  "bbox": [8.962861,45.830326,8.962861,45.830326],
+  "bbox": [
+    8.962861,
+    45.830326,
+    8.962861,
+    45.830326
+],
   "geometry": {"coordinates":[8.962861,45.830326],"type":"Point"}
 }

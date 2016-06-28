@@ -2,13 +2,14 @@
   "id": 186283761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124107,46.211338,11.124107,46.211338",
     "geom:latitude":46.211338,
     "geom:longitude":11.124107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38016 Mezzocorona",
     "sg:city":"Mezzocorona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186283761,
-    "wof:lastmodified":1449051171,
+    "wof:lastmodified":1466290352,
     "wof:name":"Cantine Mezza Corona Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.124107,46.211338,11.124107,46.211338],
+  "bbox": [
+    11.124107,
+    46.211338,
+    11.124107,
+    46.211338
+],
   "geometry": {"coordinates":[11.124107,46.211338],"type":"Point"}
 }

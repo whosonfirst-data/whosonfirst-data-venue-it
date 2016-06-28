@@ -2,13 +2,14 @@
   "id": 270109653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.722872,45.531944,12.722872,45.531944",
     "geom:latitude":45.531944,
     "geom:longitude":12.722872,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30016 Jesolo",
     "sg:classifiers":[],
     "sg:orig_category":"Campeggi, Ostelli E Villaggi Turistici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270109653,
-    "wof:lastmodified":1449009486,
+    "wof:lastmodified":1466290305,
     "wof:name":"Sacea Spa Villaggio Turistico Adriatico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.722872,45.531944,12.722872,45.531944],
+  "bbox": [
+    12.722872,
+    45.531944,
+    12.722872,
+    45.531944
+],
   "geometry": {"coordinates":[12.722872,45.531944],"type":"Point"}
 }

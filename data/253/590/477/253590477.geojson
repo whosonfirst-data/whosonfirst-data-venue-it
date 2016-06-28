@@ -2,13 +2,14 @@
   "id": 253590477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.061929,43.866329,11.061929,43.866329",
     "geom:latitude":43.866329,
     "geom:longitude":11.061929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cava 215d 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253590477,
-    "wof:lastmodified":1449064574,
+    "wof:lastmodified":1466295835,
     "wof:name":"Confezioni Cristiana Di Borchi Massimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.061929,43.866329,11.061929,43.866329],
+  "bbox": [
+    11.061929,
+    43.866329,
+    11.061929,
+    43.866329
+],
   "geometry": {"coordinates":[11.061929,43.866329],"type":"Point"}
 }

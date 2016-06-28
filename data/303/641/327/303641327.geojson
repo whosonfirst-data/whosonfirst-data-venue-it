@@ -2,13 +2,14 @@
   "id": 303641327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.390239,44.544342,11.390239,44.544342",
     "geom:latitude":44.544342,
     "geom:longitude":11.390239,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40057 Granarolo Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamenti E Mobili Professionali. Arredi Ed Attrezzature Per Uffici",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303641327,
-    "wof:lastmodified":1448999976,
+    "wof:lastmodified":1466297286,
     "wof:name":"Molinari Srl",
     "wof:parent_id":85904581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.390239,44.544342,11.390239,44.544342],
+  "bbox": [
+    11.390239,
+    44.544342,
+    11.390239,
+    44.544342
+],
   "geometry": {"coordinates":[11.390239,44.544342],"type":"Point"}
 }

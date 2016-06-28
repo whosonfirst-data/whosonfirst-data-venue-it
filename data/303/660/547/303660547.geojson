@@ -2,13 +2,14 @@
   "id": 303660547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.651017,41.864285,12.651017,41.864285",
     "geom:latitude":41.864285,
     "geom:longitude":12.651017,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00133 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303660547,
-    "wof:lastmodified":1449000313,
+    "wof:lastmodified":1466297476,
     "wof:name":"F.c. S.n.c.di Fiaschetti L. & Corami E.",
     "wof:parent_id":85906291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.651017,41.864285,12.651017,41.864285],
+  "bbox": [
+    12.651017,
+    41.864285,
+    12.651017,
+    41.864285
+],
   "geometry": {"coordinates":[12.651017,41.864285],"type":"Point"}
 }

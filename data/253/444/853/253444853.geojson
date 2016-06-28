@@ -2,13 +2,14 @@
   "id": 253444853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.604196,45.591312,9.604196,45.591312",
     "geom:latitude":45.591312,
     "geom:longitude":9.604196,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24040 Pontirolo Nuovo",
     "sg:city":"Pontirolo Nuovo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253444853,
-    "wof:lastmodified":1449065370,
+    "wof:lastmodified":1466293936,
     "wof:name":"Termaf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.604196,45.591312,9.604196,45.591312],
+  "bbox": [
+    9.604196,
+    45.591312,
+    9.604196,
+    45.591312
+],
   "geometry": {"coordinates":[9.604196,45.591312],"type":"Point"}
 }

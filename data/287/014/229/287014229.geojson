@@ -2,13 +2,14 @@
   "id": 287014229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.979533,44.30661,11.979533,44.30661",
     "geom:latitude":44.30661,
     "geom:longitude":11.979533,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46, Via Gasparetta 48018 Faenza",
     "sg:city":"Faenza",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287014229,
-    "wof:lastmodified":1449001093,
+    "wof:lastmodified":1466289782,
     "wof:name":"Intimo Italiano S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.979533,44.30661,11.979533,44.30661],
+  "bbox": [
+    11.979533,
+    44.30661,
+    11.979533,
+    44.30661
+],
   "geometry": {"coordinates":[11.979533,44.30661],"type":"Point"}
 }

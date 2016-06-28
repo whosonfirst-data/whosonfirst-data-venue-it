@@ -2,13 +2,14 @@
   "id": 219226567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.482833,40.771721,14.482833,40.771721",
     "geom:latitude":40.771721,
     "geom:longitude":14.482833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80041 Boscoreale",
     "sg:city":"Boscoreale",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219226567,
-    "wof:lastmodified":1449072962,
+    "wof:lastmodified":1466295762,
     "wof:name":"Tirrenia Plast Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "setting"
     ]
 },
-  "bbox": [14.482833,40.771721,14.482833,40.771721],
+  "bbox": [
+    14.482833,
+    40.771721,
+    14.482833,
+    40.771721
+],
   "geometry": {"coordinates":[14.482833,40.771721],"type":"Point"}
 }

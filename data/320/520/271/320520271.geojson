@@ -2,13 +2,14 @@
   "id": 320520271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.680804,45.456997,8.680804,45.456997",
     "geom:latitude":45.456997,
     "geom:longitude":8.680804,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Per Trecate 19/a 28068 Romentino",
     "sg:city":"Romentino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320520271,
-    "wof:lastmodified":1449012505,
+    "wof:lastmodified":1466297621,
     "wof:name":"Ferrari & Malerba Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cover"
     ]
 },
-  "bbox": [8.680804,45.456997,8.680804,45.456997],
+  "bbox": [
+    8.680804,
+    45.456997,
+    8.680804,
+    45.456997
+],
   "geometry": {"coordinates":[8.680804,45.456997],"type":"Point"}
 }

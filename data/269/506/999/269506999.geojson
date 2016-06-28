@@ -2,13 +2,14 @@
   "id": 269506999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.68684,42.863468,13.68684,42.863468",
     "geom:latitude":42.863468,
     "geom:longitude":13.68684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Frazione Campolungo 63100 Ascoli Piceno",
     "sg:city":"Ascoli Piceno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269506999,
-    "wof:lastmodified":1449036197,
+    "wof:lastmodified":1466289219,
     "wof:name":"Ykk Mediterraneo S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.68684,42.863468,13.68684,42.863468],
+  "bbox": [
+    13.68684,
+    42.863468,
+    13.68684,
+    42.863468
+],
   "geometry": {"coordinates":[13.68684,42.863468],"type":"Point"}
 }

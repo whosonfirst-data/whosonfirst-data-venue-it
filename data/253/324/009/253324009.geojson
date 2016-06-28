@@ -2,13 +2,14 @@
   "id": 253324009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.675093,45.066814,7.675093,45.066814",
     "geom:latitude":45.066814,
     "geom:longitude":7.675093,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10121 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253324009,
-    "wof:lastmodified":1449064542,
+    "wof:lastmodified":1466292536,
     "wof:name":"Associazione Donatori Di Sangue Del Piemonte",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.675093,45.066814,7.675093,45.066814],
+  "bbox": [
+    7.675093,
+    45.066814,
+    7.675093,
+    45.066814
+],
   "geometry": {"coordinates":[7.675093,45.066814],"type":"Point"}
 }

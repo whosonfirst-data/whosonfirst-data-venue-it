@@ -2,13 +2,14 @@
   "id": 186059915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.380064,39.982601,18.380064,39.982601",
     "geom:latitude":39.982601,
     "geom:longitude":18.380064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Michelangelo 42; Andrano; 73032",
     "sg:city":"Andrano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186059915,
-    "wof:lastmodified":1449051121,
+    "wof:lastmodified":1466295283,
     "wof:name":"Consorzio Di Banca Private Del Sud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.380064,39.982601,18.380064,39.982601],
+  "bbox": [
+    18.380064,
+    39.982601,
+    18.380064,
+    39.982601
+],
   "geometry": {"coordinates":[18.380064,39.982601],"type":"Point"}
 }

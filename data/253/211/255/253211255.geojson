@@ -2,13 +2,14 @@
   "id": 253211255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.308011,43.551876,10.308011,43.551876",
     "geom:latitude":43.551876,
     "geom:longitude":10.308011,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Loc La California 42 57020 Bibbona",
     "sg:city":"Bibbona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253211255,
-    "wof:lastmodified":1449063542,
+    "wof:lastmodified":1466291091,
     "wof:name":"Salvadori Franco & C. Snc",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "olive-oil"
     ]
 },
-  "bbox": [10.308011,43.551876,10.308011,43.551876],
+  "bbox": [
+    10.308011,
+    43.551876,
+    10.308011,
+    43.551876
+],
   "geometry": {"coordinates":[10.308011,43.551876],"type":"Point"}
 }

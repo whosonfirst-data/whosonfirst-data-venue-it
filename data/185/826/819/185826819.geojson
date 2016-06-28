@@ -2,13 +2,14 @@
   "id": 185826819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.24812,45.670135,12.24812,45.670135",
     "geom:latitude":45.670135,
     "geom:longitude":12.24812,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cairoli 167; Treviso; 3100",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185826819,
-    "wof:lastmodified":1449007759,
+    "wof:lastmodified":1466289456,
     "wof:name":"Banca Popolare Friuladria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.24812,45.670135,12.24812,45.670135],
+  "bbox": [
+    12.24812,
+    45.670135,
+    12.24812,
+    45.670135
+],
   "geometry": {"coordinates":[12.24812,45.670135],"type":"Point"}
 }

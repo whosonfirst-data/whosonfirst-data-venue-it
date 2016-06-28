@@ -2,13 +2,14 @@
   "id": 336812057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.509595,45.706276,11.509595,45.706276",
     "geom:latitude":45.706276,
     "geom:longitude":11.509595,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12/16, Viale Dell' Economia 36016 Thiene",
     "sg:city":"Thiene",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336812057,
-    "wof:lastmodified":1448996942,
+    "wof:lastmodified":1466296523,
     "wof:name":"Adi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.509595,45.706276,11.509595,45.706276],
+  "bbox": [
+    11.509595,
+    45.706276,
+    11.509595,
+    45.706276
+],
   "geometry": {"coordinates":[11.509595,45.706276],"type":"Point"}
 }

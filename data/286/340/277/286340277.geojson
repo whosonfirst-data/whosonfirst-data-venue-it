@@ -2,13 +2,14 @@
   "id": 286340277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.933989,44.407063,8.933989,44.407063",
     "geom:latitude":44.407063,
     "geom:longitude":8.933989,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via De Rossi Di Santarosa Santorre 16167 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286340277,
-    "wof:lastmodified":1449017455,
+    "wof:lastmodified":1466290562,
     "wof:name":"Cafco Srl",
     "wof:parent_id":85862663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candy"
     ]
 },
-  "bbox": [8.933989,44.407063,8.933989,44.407063],
+  "bbox": [
+    8.933989,
+    44.407063,
+    8.933989,
+    44.407063
+],
   "geometry": {"coordinates":[8.933989,44.407063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202740353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.513411,41.241234,16.513411,41.241234",
     "geom:latitude":41.241234,
     "geom:longitude":16.513411,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70052 Bisceglie",
     "sg:city":"Bisceglie",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202740353,
-    "wof:lastmodified":1449061281,
+    "wof:lastmodified":1466291483,
     "wof:name":"Dell'olio Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.513411,41.241234,16.513411,41.241234],
+  "bbox": [
+    16.513411,
+    41.241234,
+    16.513411,
+    41.241234
+],
   "geometry": {"coordinates":[16.513411,41.241234],"type":"Point"}
 }

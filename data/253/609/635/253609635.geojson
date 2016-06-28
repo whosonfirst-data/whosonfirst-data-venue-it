@@ -2,13 +2,14 @@
   "id": 253609635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.835866,43.78299,10.835866,43.78299",
     "geom:latitude":43.78299,
     "geom:longitude":10.835866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via M. Bercilli 64 50050 Stabbia",
     "sg:city":"Stabbia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253609635,
-    "wof:lastmodified":1449063933,
+    "wof:lastmodified":1466296056,
     "wof:name":"Nuova Iside Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.835866,43.78299,10.835866,43.78299],
+  "bbox": [
+    10.835866,
+    43.78299,
+    10.835866,
+    43.78299
+],
   "geometry": {"coordinates":[10.835866,43.78299],"type":"Point"}
 }

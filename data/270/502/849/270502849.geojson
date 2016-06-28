@@ -2,13 +2,14 @@
   "id": 270502849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172786,45.459129,9.172786,45.459129",
     "geom:latitude":45.459129,
     "geom:longitude":9.172786,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Ariberto 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270502849,
-    "wof:lastmodified":1449009750,
+    "wof:lastmodified":1466295090,
     "wof:name":"Bellini (s.a.s.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.172786,45.459129,9.172786,45.459129],
+  "bbox": [
+    9.172786,
+    45.459129,
+    9.172786,
+    45.459129
+],
   "geometry": {"coordinates":[9.172786,45.459129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186543181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.220426,40.856091,14.220426,40.856091",
     "geom:latitude":40.856091,
     "geom:longitude":14.220426,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Via Partenope 80121 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186543181,
-    "wof:lastmodified":1449050932,
+    "wof:lastmodified":1466292724,
     "wof:name":"Errezetauno Srl",
     "wof:parent_id":85904785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [14.220426,40.856091,14.220426,40.856091],
+  "bbox": [
+    14.220426,
+    40.856091,
+    14.220426,
+    40.856091
+],
   "geometry": {"coordinates":[14.220426,40.856091],"type":"Point"}
 }

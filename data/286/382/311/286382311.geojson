@@ -2,13 +2,14 @@
   "id": 286382311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.500344,41.906113,12.500344,41.906113",
     "geom:latitude":41.906113,
     "geom:longitude":12.500344,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00185 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286382311,
-    "wof:lastmodified":1449015962,
+    "wof:lastmodified":1466291191,
     "wof:name":"Medusa Film Spa",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.500344,41.906113,12.500344,41.906113],
+  "bbox": [
+    12.500344,
+    41.906113,
+    12.500344,
+    41.906113
+],
   "geometry": {"coordinates":[12.500344,41.906113],"type":"Point"}
 }

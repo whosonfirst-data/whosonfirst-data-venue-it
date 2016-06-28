@@ -2,13 +2,14 @@
   "id": 303057519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.365653,45.924084,12.365653,45.924084",
     "geom:latitude":45.924084,
     "geom:longitude":12.365653,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Mescolino 31020 San Fior",
     "sg:city":"San Fior",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303057519,
-    "wof:lastmodified":1448999326,
+    "wof:lastmodified":1466291073,
     "wof:name":"Tata S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.365653,45.924084,12.365653,45.924084],
+  "bbox": [
+    12.365653,
+    45.924084,
+    12.365653,
+    45.924084
+],
   "geometry": {"coordinates":[12.365653,45.924084],"type":"Point"}
 }

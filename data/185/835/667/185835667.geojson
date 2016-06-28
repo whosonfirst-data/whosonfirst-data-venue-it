@@ -2,13 +2,14 @@
   "id": 185835667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.840996,45.734966,11.840996,45.734966",
     "geom:latitude":45.734966,
     "geom:longitude":11.840996,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dante Alighieri 22; Bessica Di Loria; 31030",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185835667,
-    "wof:lastmodified":1449006841,
+    "wof:lastmodified":1466289510,
     "wof:name":"Banca Popolare Vicentina Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.840996,45.734966,11.840996,45.734966],
+  "bbox": [
+    11.840996,
+    45.734966,
+    11.840996,
+    45.734966
+],
   "geometry": {"coordinates":[11.840996,45.734966],"type":"Point"}
 }

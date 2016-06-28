@@ -2,13 +2,14 @@
   "id": 203249629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.195332,43.833054,11.195332,43.833054",
     "geom:latitude":43.833054,
     "geom:longitude":11.195332,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50041 Calenzano",
     "sg:city":"Calenzano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203249629,
-    "wof:lastmodified":1449025052,
+    "wof:lastmodified":1466290356,
     "wof:name":"Gruppo Ecology Sistem Italia Spa",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.195332,43.833054,11.195332,43.833054],
+  "bbox": [
+    11.195332,
+    43.833054,
+    11.195332,
+    43.833054
+],
   "geometry": {"coordinates":[11.195332,43.833054],"type":"Point"}
 }

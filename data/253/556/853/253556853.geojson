@@ -2,13 +2,14 @@
   "id": 253556853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.450566,44.476624,11.450566,44.476624",
     "geom:latitude":44.476624,
     "geom:longitude":11.450566,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40068 S. Lazzaro Di Savena",
     "sg:classifiers":[],
     "sg:orig_category":"Utensili Meccanici E Materiali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253556853,
-    "wof:lastmodified":1449063544,
+    "wof:lastmodified":1466295371,
     "wof:name":"Nuova Dari Spa",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.450566,44.476624,11.450566,44.476624],
+  "bbox": [
+    11.450566,
+    44.476624,
+    11.450566,
+    44.476624
+],
   "geometry": {"coordinates":[11.450566,44.476624],"type":"Point"}
 }

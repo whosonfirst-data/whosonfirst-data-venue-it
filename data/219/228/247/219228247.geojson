@@ -2,13 +2,14 @@
   "id": 219228247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.638289,45.079304,7.638289,45.079304",
     "geom:latitude":45.079304,
     "geom:longitude":7.638289,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10145 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219228247,
-    "wof:lastmodified":1449071497,
+    "wof:lastmodified":1466295794,
     "wof:name":"Video Torino Sas",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sexy"
     ]
 },
-  "bbox": [7.638289,45.079304,7.638289,45.079304],
+  "bbox": [
+    7.638289,
+    45.079304,
+    7.638289,
+    45.079304
+],
   "geometry": {"coordinates":[7.638289,45.079304],"type":"Point"}
 }

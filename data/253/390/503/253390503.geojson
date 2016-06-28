@@ -2,13 +2,14 @@
   "id": 253390503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.144156,46.458107,11.144156,46.458107",
     "geom:latitude":46.458107,
     "geom:longitude":11.144156,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93, Via Palade 38013 Fondo",
     "sg:city":"Fondo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253390503,
-    "wof:lastmodified":1449065839,
+    "wof:lastmodified":1466293297,
     "wof:name":"Legnoalpi Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [11.144156,46.458107,11.144156,46.458107],
+  "bbox": [
+    11.144156,
+    46.458107,
+    11.144156,
+    46.458107
+],
   "geometry": {"coordinates":[11.144156,46.458107],"type":"Point"}
 }

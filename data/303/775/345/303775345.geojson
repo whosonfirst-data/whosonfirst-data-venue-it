@@ -2,13 +2,14 @@
   "id": 303775345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.315192,40.88932,14.315192,40.88932",
     "geom:latitude":40.88932,
     "geom:longitude":14.315192,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80026 Casoria",
     "sg:city":"Casoria",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303775345,
-    "wof:lastmodified":1448999928,
+    "wof:lastmodified":1466297765,
     "wof:name":"D'ambrosio Michele E Figli Sas Di M. D'ambrosio",
     "wof:parent_id":85904801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.315192,40.88932,14.315192,40.88932],
+  "bbox": [
+    14.315192,
+    40.88932,
+    14.315192,
+    40.88932
+],
   "geometry": {"coordinates":[14.315192,40.88932],"type":"Point"}
 }

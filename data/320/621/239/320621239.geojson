@@ -2,13 +2,14 @@
   "id": 320621239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.954361,45.539261,10.954361,45.539261",
     "geom:latitude":45.539261,
     "geom:longitude":10.954361,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37024 Fane Di Negrar",
     "sg:city":"Negrar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320621239,
-    "wof:lastmodified":1449014515,
+    "wof:lastmodified":1466297924,
     "wof:name":"Guardini Pietre Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "marble"
     ]
 },
-  "bbox": [10.954361,45.539261,10.954361,45.539261],
+  "bbox": [
+    10.954361,
+    45.539261,
+    10.954361,
+    45.539261
+],
   "geometry": {"coordinates":[10.954361,45.539261],"type":"Point"}
 }

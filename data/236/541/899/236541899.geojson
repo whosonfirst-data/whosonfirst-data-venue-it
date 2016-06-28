@@ -2,13 +2,14 @@
   "id": 236541899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.330514,43.318661,11.330514,43.318661",
     "geom:latitude":43.318661,
     "geom:longitude":11.330514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localita' La Villa 53017 Radda In Chianti",
     "sg:city":"Radda in Chianti",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236541899,
-    "wof:lastmodified":1449001951,
+    "wof:lastmodified":1466294488,
     "wof:name":"Arri Mobili Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.330514,43.318661,11.330514,43.318661],
+  "bbox": [
+    11.330514,
+    43.318661,
+    11.330514,
+    43.318661
+],
   "geometry": {"coordinates":[11.330514,43.318661],"type":"Point"}
 }

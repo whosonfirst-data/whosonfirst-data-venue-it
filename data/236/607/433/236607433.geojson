@@ -2,13 +2,14 @@
   "id": 236607433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.51304,43.627094,11.51304,43.627094",
     "geom:latitude":43.627094,
     "geom:longitude":11.51304,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Del Varco-faella 52026 Pian Di Sco",
     "sg:city":"Faella",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236607433,
-    "wof:lastmodified":1449002002,
+    "wof:lastmodified":1466295084,
     "wof:name":"L'arte Di Nacchi Renzi & Del Sala S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.51304,43.627094,11.51304,43.627094],
+  "bbox": [
+    11.51304,
+    43.627094,
+    11.51304,
+    43.627094
+],
   "geometry": {"coordinates":[11.51304,43.627094],"type":"Point"}
 }

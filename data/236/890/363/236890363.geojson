@@ -2,13 +2,14 @@
   "id": 236890363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.294053,40.84111,14.294053,40.84111",
     "geom:latitude":40.84111,
     "geom:longitude":14.294053,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"76, Via Nuova Pazzigno 80146 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236890363,
-    "wof:lastmodified":1449002220,
+    "wof:lastmodified":1466297151,
     "wof:name":"Vemar Sas",
     "wof:parent_id":85904823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.294053,40.84111,14.294053,40.84111],
+  "bbox": [
+    14.294053,
+    40.84111,
+    14.294053,
+    40.84111
+],
   "geometry": {"coordinates":[14.294053,40.84111],"type":"Point"}
 }

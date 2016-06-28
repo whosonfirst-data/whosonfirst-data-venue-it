@@ -2,13 +2,14 @@
   "id": 253174747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.31849,38.156761,13.31849,38.156761",
     "geom:latitude":38.156761,
     "geom:longitude":13.31849,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90147 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253174747,
-    "wof:lastmodified":1449063220,
+    "wof:lastmodified":1466290736,
     "wof:name":"Cieffe Srl",
     "wof:parent_id":85904843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.31849,38.156761,13.31849,38.156761],
+  "bbox": [
+    13.31849,
+    38.156761,
+    13.31849,
+    38.156761
+],
   "geometry": {"coordinates":[13.31849,38.156761],"type":"Point"}
 }

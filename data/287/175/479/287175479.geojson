@@ -2,13 +2,14 @@
   "id": 287175479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.343809,45.43399,12.343809,45.43399",
     "geom:latitude":45.43399,
     "geom:longitude":12.343809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Riva Degli Schiavoni 4171; Venice; 30122",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":287175479,
-    "wof:lastmodified":1449001297,
+    "wof:lastmodified":1466291926,
     "wof:name":"Hotel Londra Palace",
     "wof:parent_id":85905023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.343809,45.43399,12.343809,45.43399],
+  "bbox": [
+    12.343809,
+    45.43399,
+    12.343809,
+    45.43399
+],
   "geometry": {"coordinates":[12.343809,45.43399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219175331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.879664,46.169281,9.879664,46.169281",
     "geom:latitude":46.169281,
     "geom:longitude":9.879664,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23100 Sondrio",
     "sg:city":"Sondrio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219175331,
-    "wof:lastmodified":1449072835,
+    "wof:lastmodified":1466294547,
     "wof:name":"Parco Orobie Valtellinesi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.879664,46.169281,9.879664,46.169281],
+  "bbox": [
+    9.879664,
+    46.169281,
+    9.879664,
+    46.169281
+],
   "geometry": {"coordinates":[9.879664,46.169281],"type":"Point"}
 }

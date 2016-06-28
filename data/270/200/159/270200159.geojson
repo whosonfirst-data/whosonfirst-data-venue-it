@@ -2,13 +2,14 @@
   "id": 270200159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.566064,41.886501,12.566064,41.886501",
     "geom:latitude":41.886501,
     "geom:longitude":12.566064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00171 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270200159,
-    "wof:lastmodified":1449009608,
+    "wof:lastmodified":1466291405,
     "wof:name":"Mancinelli Roberto",
     "wof:parent_id":85900331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.566064,41.886501,12.566064,41.886501],
+  "bbox": [
+    12.566064,
+    41.886501,
+    12.566064,
+    41.886501
+],
   "geometry": {"coordinates":[12.566064,41.886501],"type":"Point"}
 }

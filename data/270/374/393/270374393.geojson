@@ -2,13 +2,14 @@
   "id": 270374393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.750114,45.125469,7.750114,45.125469",
     "geom:latitude":45.125469,
     "geom:longitude":7.750114,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10036 Settimo Torinese",
     "sg:city":"Settimo Torinese",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270374393,
-    "wof:lastmodified":1449009693,
+    "wof:lastmodified":1466293563,
     "wof:name":"Potent Srl",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.750114,45.125469,7.750114,45.125469],
+  "bbox": [
+    7.750114,
+    45.125469,
+    7.750114,
+    45.125469
+],
   "geometry": {"coordinates":[7.750114,45.125469],"type":"Point"}
 }

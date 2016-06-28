@@ -2,13 +2,14 @@
   "id": 185647099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.489609,45.7374,7.489609,45.7374",
     "geom:latitude":45.7374,
     "geom:longitude":7.489609,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localita' Chez-sapin, 11020 Fenis, Ao",
     "sg:city":"Fenis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185647099,
-    "wof:lastmodified":1449007383,
+    "wof:lastmodified":1466294861,
     "wof:name":"Banca Di Credito Cooperativo Di Fenis Nus E St Marcel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.489609,45.7374,7.489609,45.7374],
+  "bbox": [
+    7.489609,
+    45.7374,
+    7.489609,
+    45.7374
+],
   "geometry": {"coordinates":[7.489609,45.7374],"type":"Point"}
 }

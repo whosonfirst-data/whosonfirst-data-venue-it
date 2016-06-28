@@ -2,13 +2,14 @@
   "id": 270497171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.957829,45.676781,11.957829,45.676781",
     "geom:latitude":45.676781,
     "geom:longitude":11.957829,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31033 Castelfranco Veneto",
     "sg:city":"Castelfranco Veneto",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270497171,
-    "wof:lastmodified":1449011104,
+    "wof:lastmodified":1466295019,
     "wof:name":"Bru.impianti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "machinery"
     ]
 },
-  "bbox": [11.957829,45.676781,11.957829,45.676781],
+  "bbox": [
+    11.957829,
+    45.676781,
+    11.957829,
+    45.676781
+],
   "geometry": {"coordinates":[11.957829,45.676781],"type":"Point"}
 }

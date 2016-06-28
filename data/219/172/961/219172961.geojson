@@ -2,13 +2,14 @@
   "id": 219172961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.471232,46.499668,12.471232,46.499668",
     "geom:latitude":46.499668,
     "geom:longitude":12.471232,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32040 Vigo Di Cadore",
     "sg:city":"Vigo di Cadore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219172961,
-    "wof:lastmodified":1449071811,
+    "wof:lastmodified":1466294424,
     "wof:name":"Magnifica Regola Di Vigo Laggio Con Pinie' E Pelos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.471232,46.499668,12.471232,46.499668],
+  "bbox": [
+    12.471232,
+    46.499668,
+    12.471232,
+    46.499668
+],
   "geometry": {"coordinates":[12.471232,46.499668],"type":"Point"}
 }

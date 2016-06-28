@@ -2,13 +2,14 @@
   "id": 253155203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.823638,45.408531,11.823638,45.408531",
     "geom:latitude":45.408531,
     "geom:longitude":11.823638,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G. Galilei 2/i 35030 Caselle Di Selvazzano",
     "sg:city":"Caselle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253155203,
-    "wof:lastmodified":1449065244,
+    "wof:lastmodified":1466290542,
     "wof:name":"Baap Bergamaschi Antincendi Antinfortunistica Padova Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prevention"
     ]
 },
-  "bbox": [11.823638,45.408531,11.823638,45.408531],
+  "bbox": [
+    11.823638,
+    45.408531,
+    11.823638,
+    45.408531
+],
   "geometry": {"coordinates":[11.823638,45.408531],"type":"Point"}
 }

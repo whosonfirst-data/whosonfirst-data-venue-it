@@ -2,13 +2,14 @@
   "id": 286832527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.187419,45.517014,12.187419,45.517014",
     "geom:latitude":45.517014,
     "geom:longitude":12.187419,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30030 Martellago",
     "sg:city":"Martellago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286832527,
-    "wof:lastmodified":1449015177,
+    "wof:lastmodified":1466296585,
     "wof:name":"Simion Guerrino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.187419,45.517014,12.187419,45.517014],
+  "bbox": [
+    12.187419,
+    45.517014,
+    12.187419,
+    45.517014
+],
   "geometry": {"coordinates":[12.187419,45.517014],"type":"Point"}
 }

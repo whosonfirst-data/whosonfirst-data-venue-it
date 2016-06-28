@@ -2,13 +2,14 @@
   "id": 269814909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.548148,45.816647,8.548148,45.816647",
     "geom:latitude":45.816647,
     "geom:longitude":8.548148,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28040 Arona",
     "sg:city":"Lesa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269814909,
-    "wof:lastmodified":1449036576,
+    "wof:lastmodified":1466293205,
     "wof:name":"Botanica Del Lago Maggiore Di Geom. Claudio Menegazzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.548148,45.816647,8.548148,45.816647],
+  "bbox": [
+    8.548148,
+    45.816647,
+    8.548148,
+    45.816647
+],
   "geometry": {"coordinates":[8.548148,45.816647],"type":"Point"}
 }

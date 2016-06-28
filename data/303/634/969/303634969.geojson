@@ -2,13 +2,14 @@
   "id": 303634969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.918135,40.955307,16.918135,40.955307",
     "geom:latitude":40.955307,
     "geom:longitude":16.918135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70010 Casamassima",
     "sg:city":"Casamassima",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303634969,
-    "wof:lastmodified":1448999287,
+    "wof:lastmodified":1466297239,
     "wof:name":"Spettacolo Di Insalata Michelangelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.918135,40.955307,16.918135,40.955307],
+  "bbox": [
+    16.918135,
+    40.955307,
+    16.918135,
+    40.955307
+],
   "geometry": {"coordinates":[16.918135,40.955307],"type":"Point"}
 }

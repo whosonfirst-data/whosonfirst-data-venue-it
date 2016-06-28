@@ -2,13 +2,14 @@
   "id": 303995771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.773536,45.032219,11.773536,45.032219",
     "geom:latitude":45.032219,
     "geom:longitude":11.773536,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45030 Borsea",
     "sg:classifiers":[],
     "sg:orig_category":"Ascensori - Costruzione",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303995771,
-    "wof:lastmodified":1449000298,
+    "wof:lastmodified":1466298260,
     "wof:name":"Pasotto & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.773536,45.032219,11.773536,45.032219],
+  "bbox": [
+    11.773536,
+    45.032219,
+    11.773536,
+    45.032219
+],
   "geometry": {"coordinates":[11.773536,45.032219],"type":"Point"}
 }

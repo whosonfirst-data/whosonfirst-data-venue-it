@@ -2,13 +2,14 @@
   "id": 269631759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.750078,37.16132,14.750078,37.16132",
     "geom:latitude":37.16132,
     "geom:longitude":14.750078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctr Risicone S. N. 95049 Vizzini",
     "sg:city":"Vizzini",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269631759,
-    "wof:lastmodified":1449036899,
+    "wof:lastmodified":1466290716,
     "wof:name":"Di Blasi Industriale S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motorcycles"
     ]
 },
-  "bbox": [14.750078,37.16132,14.750078,37.16132],
+  "bbox": [
+    14.750078,
+    37.16132,
+    14.750078,
+    37.16132
+],
   "geometry": {"coordinates":[14.750078,37.16132],"type":"Point"}
 }

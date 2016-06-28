@@ -2,13 +2,14 @@
   "id": 269794865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.617217,41.682758,12.617217,41.682758",
     "geom:latitude":41.682758,
     "geom:longitude":12.617217,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00041 Albano Laziale",
     "sg:city":"Albano Laziale",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269794865,
-    "wof:lastmodified":1449037294,
+    "wof:lastmodified":1466292966,
     "wof:name":"Agri - Mass Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.617217,41.682758,12.617217,41.682758],
+  "bbox": [
+    12.617217,
+    41.682758,
+    12.617217,
+    41.682758
+],
   "geometry": {"coordinates":[12.617217,41.682758],"type":"Point"}
 }

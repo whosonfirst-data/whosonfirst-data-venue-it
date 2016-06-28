@@ -2,13 +2,14 @@
   "id": 236716077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.237979,44.500023,11.237979,44.500023",
     "geom:latitude":44.500023,
     "geom:longitude":11.237979,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Calari M. 40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236716077,
-    "wof:lastmodified":1449002025,
+    "wof:lastmodified":1466296151,
     "wof:name":"Martini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [11.237979,44.500023,11.237979,44.500023],
+  "bbox": [
+    11.237979,
+    44.500023,
+    11.237979,
+    44.500023
+],
   "geometry": {"coordinates":[11.237979,44.500023],"type":"Point"}
 }

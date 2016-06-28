@@ -2,13 +2,14 @@
   "id": 320691011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.727258,43.309395,13.727258,43.309395",
     "geom:latitude":43.309395,
     "geom:longitude":13.727258,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62012 Civitanova Marche",
     "sg:city":"Civitanova Marche",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320691011,
-    "wof:lastmodified":1449011555,
+    "wof:lastmodified":1466298120,
     "wof:name":"Gaetani Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.727258,43.309395,13.727258,43.309395],
+  "bbox": [
+    13.727258,
+    43.309395,
+    13.727258,
+    43.309395
+],
   "geometry": {"coordinates":[13.727258,43.309395],"type":"Point"}
 }

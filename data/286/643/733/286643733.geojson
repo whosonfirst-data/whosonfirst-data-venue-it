@@ -2,13 +2,14 @@
   "id": 286643733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.030711,43.916904,11.030711,43.916904",
     "geom:latitude":43.916904,
     "geom:longitude":11.030711,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via R. Scarpettini, 212/214/216/218 59013 Montemurlo",
     "sg:city":"Montemurlo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286643733,
-    "wof:lastmodified":1449017712,
+    "wof:lastmodified":1466294468,
     "wof:name":"Imta Desii Mode Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabric"
     ]
 },
-  "bbox": [11.030711,43.916904,11.030711,43.916904],
+  "bbox": [
+    11.030711,
+    43.916904,
+    11.030711,
+    43.916904
+],
   "geometry": {"coordinates":[11.030711,43.916904],"type":"Point"}
 }

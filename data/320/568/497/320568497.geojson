@@ -2,13 +2,14 @@
   "id": 320568497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.404824,43.949337,11.404824,43.949337",
     "geom:latitude":43.949337,
     "geom:longitude":11.404824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50032 Borgo San Lorenzo",
     "sg:city":"Borgo San Lorenzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320568497,
-    "wof:lastmodified":1449011182,
+    "wof:lastmodified":1466297731,
     "wof:name":"Landi & Arrighini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.404824,43.949337,11.404824,43.949337],
+  "bbox": [
+    11.404824,
+    43.949337,
+    11.404824,
+    43.949337
+],
   "geometry": {"coordinates":[11.404824,43.949337],"type":"Point"}
 }

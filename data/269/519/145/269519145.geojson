@@ -2,13 +2,14 @@
   "id": 269519145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.662486,43.678993,10.662486,43.678993",
     "geom:latitude":43.678993,
     "geom:longitude":10.662486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Pesco 56020 Santa Maria A Monte",
     "sg:city":"Santa Maria a Monte",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269519145,
-    "wof:lastmodified":1449038804,
+    "wof:lastmodified":1466289357,
     "wof:name":"Calzaturificio Equipe Di Gori & Fontanelli (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.662486,43.678993,10.662486,43.678993],
+  "bbox": [
+    10.662486,
+    43.678993,
+    10.662486,
+    43.678993
+],
   "geometry": {"coordinates":[10.662486,43.678993],"type":"Point"}
 }

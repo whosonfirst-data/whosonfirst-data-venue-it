@@ -2,13 +2,14 @@
   "id": 270391713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.560784,44.7206,10.560784,44.7206",
     "geom:latitude":44.7206,
     "geom:longitude":10.560784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giacomo Balla 18 42040 Cella",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270391713,
-    "wof:lastmodified":1449010230,
+    "wof:lastmodified":1466293767,
     "wof:name":"Filcar Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [10.560784,44.7206,10.560784,44.7206],
+  "bbox": [
+    10.560784,
+    44.7206,
+    10.560784,
+    44.7206
+],
   "geometry": {"coordinates":[10.560784,44.7206],"type":"Point"}
 }

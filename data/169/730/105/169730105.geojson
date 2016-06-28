@@ -2,13 +2,14 @@
   "id": 169730105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.578364,45.062443,7.578364,45.062443",
     "geom:latitude":45.062443,
     "geom:longitude":7.578364,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10121 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169730105,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466294675,
     "wof:name":"B.n.p. Sim S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.578364,45.062443,7.578364,45.062443],
+  "bbox": [
+    7.578364,
+    45.062443,
+    7.578364,
+    45.062443
+],
   "geometry": {"coordinates":[7.578364,45.062443],"type":"Point"}
 }

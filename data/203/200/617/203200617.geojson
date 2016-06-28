@@ -2,13 +2,14 @@
   "id": 203200617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.108243,42.766041,11.108243,42.766041",
     "geom:latitude":42.766041,
     "geom:longitude":11.108243,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58100 Grosseto",
     "sg:city":"Grosseto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203200617,
-    "wof:lastmodified":1449025678,
+    "wof:lastmodified":1466289869,
     "wof:name":"Acquedotto Del Fiora Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.108243,42.766041,11.108243,42.766041],
+  "bbox": [
+    11.108243,
+    42.766041,
+    11.108243,
+    42.766041
+],
   "geometry": {"coordinates":[11.108243,42.766041],"type":"Point"}
 }

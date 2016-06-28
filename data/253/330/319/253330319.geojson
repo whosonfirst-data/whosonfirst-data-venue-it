@@ -2,13 +2,14 @@
   "id": 253330319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.403744,45.724552,9.403744,45.724552",
     "geom:latitude":45.724552,
     "geom:longitude":9.403744,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23885 Calco",
     "sg:city":"Calco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253330319,
-    "wof:lastmodified":1449064303,
+    "wof:lastmodified":1466292619,
     "wof:name":"Tecnottica Consonni Di Consonni Ester & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.403744,45.724552,9.403744,45.724552],
+  "bbox": [
+    9.403744,
+    45.724552,
+    9.403744,
+    45.724552
+],
   "geometry": {"coordinates":[9.403744,45.724552],"type":"Point"}
 }

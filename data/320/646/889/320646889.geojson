@@ -2,13 +2,14 @@
   "id": 320646889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.348447,45.434441,12.348447,45.434441",
     "geom:latitude":45.434441,
     "geom:longitude":12.348447,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30122 Venezia",
     "sg:city":"Castello",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320646889,
-    "wof:lastmodified":1449011170,
+    "wof:lastmodified":1466297980,
     "wof:name":"Arte Del Mosaico (s.n.c.)",
     "wof:parent_id":85905023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.348447,45.434441,12.348447,45.434441],
+  "bbox": [
+    12.348447,
+    45.434441,
+    12.348447,
+    45.434441
+],
   "geometry": {"coordinates":[12.348447,45.434441],"type":"Point"}
 }

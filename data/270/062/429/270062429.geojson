@@ -2,13 +2,14 @@
   "id": 270062429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.292947,43.734119,11.292947,43.734119",
     "geom:latitude":43.734119,
     "geom:longitude":11.292947,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50012 Bagno A Ripoli",
     "sg:city":"Bagno a Ripoli",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":270062429,
-    "wof:lastmodified":1449010933,
+    "wof:lastmodified":1466289726,
     "wof:name":"Fantoni Srl",
     "wof:parent_id":85906289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.292947,43.734119,11.292947,43.734119],
+  "bbox": [
+    11.292947,
+    43.734119,
+    11.292947,
+    43.734119
+],
   "geometry": {"coordinates":[11.292947,43.734119],"type":"Point"}
 }

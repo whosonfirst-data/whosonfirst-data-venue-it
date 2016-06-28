@@ -2,13 +2,14 @@
   "id": 236119109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.547111,44.388798,7.547111,44.388798",
     "geom:latitude":44.388798,
     "geom:longitude":7.547111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Loc. Catena Rossa 2/c 12040 Piobesi D'alba",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236119109,
-    "wof:lastmodified":1449004113,
+    "wof:lastmodified":1466290085,
     "wof:name":"Ipa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [7.547111,44.388798,7.547111,44.388798],
+  "bbox": [
+    7.547111,
+    44.388798,
+    7.547111,
+    44.388798
+],
   "geometry": {"coordinates":[7.547111,44.388798],"type":"Point"}
 }

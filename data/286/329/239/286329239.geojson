@@ -2,13 +2,14 @@
   "id": 286329239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.29492,44.823208,10.29492,44.823208",
     "geom:latitude":44.823208,
     "geom:longitude":10.29492,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trento 41 43100 Parma",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286329239,
-    "wof:lastmodified":1449016003,
+    "wof:lastmodified":1466290428,
     "wof:name":"Confezioni Sif Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [10.29492,44.823208,10.29492,44.823208],
+  "bbox": [
+    10.29492,
+    44.823208,
+    10.29492,
+    44.823208
+],
   "geometry": {"coordinates":[10.29492,44.823208],"type":"Point"}
 }

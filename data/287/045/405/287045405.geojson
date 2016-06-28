@@ -2,13 +2,14 @@
   "id": 287045405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.301574,43.767601,11.301574,43.767601",
     "geom:latitude":43.767601,
     "geom:longitude":11.301574,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50136 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287045405,
-    "wof:lastmodified":1449001476,
+    "wof:lastmodified":1466290155,
     "wof:name":"Cesare Magnelli Spa",
     "wof:parent_id":85904729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.301574,43.767601,11.301574,43.767601],
+  "bbox": [
+    11.301574,
+    43.767601,
+    11.301574,
+    43.767601
+],
   "geometry": {"coordinates":[11.301574,43.767601],"type":"Point"}
 }

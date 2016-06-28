@@ -2,13 +2,14 @@
   "id": 303827929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.812878,45.61504,13.812878,45.61504",
     "geom:latitude":45.61504,
     "geom:longitude":13.812878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34147 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303827929,
-    "wof:lastmodified":1448998995,
+    "wof:lastmodified":1466297902,
     "wof:name":"Forniture Grafiche Ferluga Srl",
     "wof:parent_id":85905007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.812878,45.61504,13.812878,45.61504],
+  "bbox": [
+    13.812878,
+    45.61504,
+    13.812878,
+    45.61504
+],
   "geometry": {"coordinates":[13.812878,45.61504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303630257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.840773,41.065815,15.840773,41.065815",
     "geom:latitude":41.065815,
     "geom:longitude":15.840773,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85024 Lavello",
     "sg:city":"Lavello",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303630257,
-    "wof:lastmodified":1448998992,
+    "wof:lastmodified":1466297321,
     "wof:name":"Rizzitiello Tommaso Massimo (automatic Services)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.840773,41.065815,15.840773,41.065815],
+  "bbox": [
+    15.840773,
+    41.065815,
+    15.840773,
+    41.065815
+],
   "geometry": {"coordinates":[15.840773,41.065815],"type":"Point"}
 }

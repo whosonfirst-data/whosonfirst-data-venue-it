@@ -2,13 +2,14 @@
   "id": 203396381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.970515,45.801113,6.970515,45.801113",
     "geom:latitude":45.801113,
     "geom:longitude":6.970515,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11013 Courmayeur",
     "sg:city":"Courmayeur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203396381,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1466292059,
     "wof:name":"Rifugio Bertone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.970515,45.801113,6.970515,45.801113],
+  "bbox": [
+    6.970515,
+    45.801113,
+    6.970515,
+    45.801113
+],
   "geometry": {"coordinates":[6.970515,45.801113],"type":"Point"}
 }

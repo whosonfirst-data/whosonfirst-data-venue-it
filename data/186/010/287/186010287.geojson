@@ -2,13 +2,14 @@
   "id": 186010287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.741321,43.965599,12.741321,43.965599",
     "geom:latitude":43.965599,
     "geom:longitude":12.741321,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bovio, 45; Cattolica; 47033",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186010287,
-    "wof:lastmodified":1449052036,
+    "wof:lastmodified":1466292060,
     "wof:name":"Cassa Di Risparmio Di Rimini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.741321,43.965599,12.741321,43.965599],
+  "bbox": [
+    12.741321,
+    43.965599,
+    12.741321,
+    43.965599
+],
   "geometry": {"coordinates":[12.741321,43.965599],"type":"Point"}
 }

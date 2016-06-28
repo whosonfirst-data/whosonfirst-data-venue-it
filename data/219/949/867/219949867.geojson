@@ -2,13 +2,14 @@
   "id": 219949867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.557299,40.83511,16.557299,40.83511",
     "geom:latitude":40.83511,
     "geom:longitude":16.557299,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70022 Altamura",
     "sg:city":"Altamura",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219949867,
-    "wof:lastmodified":1449072584,
+    "wof:lastmodified":1466295805,
     "wof:name":"E.di.car. Estintori Di Divanno E Carlucci Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.557299,40.83511,16.557299,40.83511],
+  "bbox": [
+    16.557299,
+    40.83511,
+    16.557299,
+    40.83511
+],
   "geometry": {"coordinates":[16.557299,40.83511],"type":"Point"}
 }

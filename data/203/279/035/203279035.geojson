@@ -2,13 +2,14 @@
   "id": 203279035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.773577,45.134556,7.773577,45.134556",
     "geom:latitude":45.134556,
     "geom:longitude":7.773577,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10088 Volpiano",
     "sg:city":"Volpiano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203279035,
-    "wof:lastmodified":1449025782,
+    "wof:lastmodified":1466290668,
     "wof:name":"Occhiena Emilio",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.773577,45.134556,7.773577,45.134556],
+  "bbox": [
+    7.773577,
+    45.134556,
+    7.773577,
+    45.134556
+],
   "geometry": {"coordinates":[7.773577,45.134556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219581411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.190824,39.245079,9.190824,39.245079",
     "geom:latitude":39.245079,
     "geom:longitude":9.190824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09045 Quartu Sant'elena",
     "sg:classifiers":[],
     "sg:orig_category":"Ricambi E Componenti Dei Mezzi Di Trasporto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219581411,
-    "wof:lastmodified":1449071138,
+    "wof:lastmodified":1466292112,
     "wof:name":"Argiolas Giorgio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.190824,39.245079,9.190824,39.245079],
+  "bbox": [
+    9.190824,
+    39.245079,
+    9.190824,
+    39.245079
+],
   "geometry": {"coordinates":[9.190824,39.245079],"type":"Point"}
 }

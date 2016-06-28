@@ -2,13 +2,14 @@
   "id": 287148297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.695216,45.134071,7.695216,45.134071",
     "geom:latitude":45.134071,
     "geom:longitude":7.695216,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10071 Borgaro Torinese",
     "sg:city":"Borgaro Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287148297,
-    "wof:lastmodified":1449001430,
+    "wof:lastmodified":1466291560,
     "wof:name":"Ing. G. Lattes Srl",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.695216,45.134071,7.695216,45.134071],
+  "bbox": [
+    7.695216,
+    45.134071,
+    7.695216,
+    45.134071
+],
   "geometry": {"coordinates":[7.695216,45.134071],"type":"Point"}
 }

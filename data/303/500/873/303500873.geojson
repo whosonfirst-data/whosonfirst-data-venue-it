@@ -2,13 +2,14 @@
   "id": 303500873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.914675,45.235924,8.914675,45.235924",
     "geom:latitude":45.235924,
     "geom:longitude":8.914675,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27020 Borgo San Siro",
     "sg:city":"Borgo San Siro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303500873,
-    "wof:lastmodified":1448998723,
+    "wof:lastmodified":1466296589,
     "wof:name":"Expo Acciai Inossidabili Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.914675,45.235924,8.914675,45.235924],
+  "bbox": [
+    8.914675,
+    45.235924,
+    8.914675,
+    45.235924
+],
   "geometry": {"coordinates":[8.914675,45.235924],"type":"Point"}
 }

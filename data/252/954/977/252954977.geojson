@@ -2,13 +2,14 @@
   "id": 252954977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.734077,41.912727,12.734077,41.912727",
     "geom:latitude":41.912727,
     "geom:longitude":12.734077,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00010 Roma",
     "sg:classifiers":[],
     "sg:orig_category":"Zootecnia E Pesca, Allevamento Piccoli Animali. Servizi Per Lo Sport E Il Tempo Libero",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":252954977,
-    "wof:lastmodified":1449006376,
+    "wof:lastmodified":1466291601,
     "wof:name":"Il Polense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.734077,41.912727,12.734077,41.912727],
+  "bbox": [
+    12.734077,
+    41.912727,
+    12.734077,
+    41.912727
+],
   "geometry": {"coordinates":[12.734077,41.912727],"type":"Point"}
 }

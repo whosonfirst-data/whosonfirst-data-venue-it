@@ -2,13 +2,14 @@
   "id": 253380779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.073939,45.757187,9.073939,45.757187",
     "geom:latitude":45.757187,
     "geom:longitude":9.073939,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Torre 22063 Cantu'",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253380779,
-    "wof:lastmodified":1449064190,
+    "wof:lastmodified":1466293188,
     "wof:name":"Cugini Bianchi Snc Di Bianchi Franco Daniele E Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [9.073939,45.757187,9.073939,45.757187],
+  "bbox": [
+    9.073939,
+    45.757187,
+    9.073939,
+    45.757187
+],
   "geometry": {"coordinates":[9.073939,45.757187],"type":"Point"}
 }

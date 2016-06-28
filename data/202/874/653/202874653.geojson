@@ -2,13 +2,14 @@
   "id": 202874653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.411088,45.33234,8.411088,45.33234",
     "geom:latitude":45.33234,
     "geom:longitude":8.411088,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13045 Gattinara",
     "sg:city":"Gattinara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202874653,
-    "wof:lastmodified":1449062480,
+    "wof:lastmodified":1466292943,
     "wof:name":"Berto Oriana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.411088,45.33234,8.411088,45.33234],
+  "bbox": [
+    8.411088,
+    45.33234,
+    8.411088,
+    45.33234
+],
   "geometry": {"coordinates":[8.411088,45.33234],"type":"Point"}
 }

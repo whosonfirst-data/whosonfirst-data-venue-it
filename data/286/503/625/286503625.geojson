@@ -2,13 +2,14 @@
   "id": 286503625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.645909,45.227077,11.645909,45.227077",
     "geom:latitude":45.227077,
     "geom:longitude":11.645909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Bassano Del Grappa 35042 Este",
     "sg:city":"Este",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286503625,
-    "wof:lastmodified":1449018091,
+    "wof:lastmodified":1466292755,
     "wof:name":"Eden 2000 Soc. Coop. A.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.645909,45.227077,11.645909,45.227077],
+  "bbox": [
+    11.645909,
+    45.227077,
+    11.645909,
+    45.227077
+],
   "geometry": {"coordinates":[11.645909,45.227077],"type":"Point"}
 }

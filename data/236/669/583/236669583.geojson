@@ -2,13 +2,14 @@
   "id": 236669583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.39878,45.987309,13.39878,45.987309",
     "geom:latitude":45.987309,
     "geom:longitude":13.39878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"106/c, Via S. Giovanni 33044 Manzano",
     "sg:city":"Manzano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236669583,
-    "wof:lastmodified":1449001962,
+    "wof:lastmodified":1466295659,
     "wof:name":"Tiemmeset S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.39878,45.987309,13.39878,45.987309],
+  "bbox": [
+    13.39878,
+    45.987309,
+    13.39878,
+    45.987309
+],
   "geometry": {"coordinates":[13.39878,45.987309],"type":"Point"}
 }

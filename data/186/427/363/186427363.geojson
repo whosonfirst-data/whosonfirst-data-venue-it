@@ -2,13 +2,14 @@
   "id": 186427363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.111256,45.500542,9.111256,45.500542",
     "geom:latitude":45.500542,
     "geom:longitude":9.111256,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Busto Arsizio 40 20151 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186427363,
-    "wof:lastmodified":1449051186,
+    "wof:lastmodified":1466291608,
     "wof:name":"Dott. A. Giuffre' Editore Spa",
     "wof:parent_id":85862765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.111256,45.500542,9.111256,45.500542],
+  "bbox": [
+    9.111256,
+    45.500542,
+    9.111256,
+    45.500542
+],
   "geometry": {"coordinates":[9.111256,45.500542],"type":"Point"}
 }

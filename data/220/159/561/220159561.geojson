@@ -2,13 +2,14 @@
   "id": 220159561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.488204,41.684746,12.488204,41.684746",
     "geom:latitude":41.684746,
     "geom:longitude":12.488204,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Pisacane Carlo 00040 Pomezia",
     "sg:city":"Pomezia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220159561,
-    "wof:lastmodified":1449074132,
+    "wof:lastmodified":1466289163,
     "wof:name":"Expotel Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "technology"
     ]
 },
-  "bbox": [12.488204,41.684746,12.488204,41.684746],
+  "bbox": [
+    12.488204,
+    41.684746,
+    12.488204,
+    41.684746
+],
   "geometry": {"coordinates":[12.488204,41.684746],"type":"Point"}
 }

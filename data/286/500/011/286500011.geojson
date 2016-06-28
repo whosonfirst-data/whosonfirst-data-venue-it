@@ -2,13 +2,14 @@
   "id": 286500011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.568451,45.689156,12.568451,45.689156",
     "geom:latitude":45.689156,
     "geom:longitude":12.568451,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56, Via Guaiane 30020 Noventa Di Piave",
     "sg:city":"Noventa di Piave",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286500011,
-    "wof:lastmodified":1449015906,
+    "wof:lastmodified":1466292709,
     "wof:name":"Dany Confezioni (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.568451,45.689156,12.568451,45.689156],
+  "bbox": [
+    12.568451,
+    45.689156,
+    12.568451,
+    45.689156
+],
   "geometry": {"coordinates":[12.568451,45.689156],"type":"Point"}
 }

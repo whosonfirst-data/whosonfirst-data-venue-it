@@ -2,13 +2,14 @@
   "id": 269571469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.464817,41.815918,12.464817,41.815918",
     "geom:latitude":41.815918,
     "geom:longitude":12.464817,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00144 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269571469,
-    "wof:lastmodified":1449037750,
+    "wof:lastmodified":1466289980,
     "wof:name":"Antonio Alessi Manassero S.a.s - Studio Rappresentanze Industriali",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.464817,41.815918,12.464817,41.815918],
+  "bbox": [
+    12.464817,
+    41.815918,
+    12.464817,
+    41.815918
+],
   "geometry": {"coordinates":[12.464817,41.815918],"type":"Point"}
 }

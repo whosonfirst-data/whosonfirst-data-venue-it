@@ -2,13 +2,14 @@
   "id": 320833095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.804368,45.690685,8.804368,45.690685",
     "geom:latitude":45.690685,
     "geom:longitude":8.804368,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21044 Cavaria",
     "sg:classifiers":[],
     "sg:orig_category":"Materie Plastiche - Produzione E Lavorazione",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320833095,
-    "wof:lastmodified":1449011728,
+    "wof:lastmodified":1466298223,
     "wof:name":"New Glass Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.804368,45.690685,8.804368,45.690685],
+  "bbox": [
+    8.804368,
+    45.690685,
+    8.804368,
+    45.690685
+],
   "geometry": {"coordinates":[8.804368,45.690685],"type":"Point"}
 }

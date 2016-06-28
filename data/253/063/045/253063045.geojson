@@ -2,13 +2,14 @@
   "id": 253063045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.99559,33.717766,-83.99559,33.717766",
     "geom:latitude":33.717766,
     "geom:longitude":-83.99559,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30012 Burano",
     "sg:classifiers":[],
     "sg:orig_category":"Accessori Moda D'abbigliamento. Forniture Per Abbigliamento E Pelletterie",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":253063045,
-    "wof:lastmodified":1449063075,
+    "wof:lastmodified":1466289579,
     "wof:name":"B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.99559,33.717766,-83.99559,33.717766],
-  "geometry": {"coordinates":[-83.99559,33.717766],"type":"Point"}
+  "bbox": [
+    -83.99559,
+    33.717766,
+    -83.99559,
+    33.717766
+],
+  "geometry": {"coordinates":[-83.99559000000001,33.717766],"type":"Point"}
 }

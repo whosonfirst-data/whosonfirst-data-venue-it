@@ -2,13 +2,14 @@
   "id": 186617175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.375646,43.117943,12.375646,43.117943",
     "geom:latitude":43.117943,
     "geom:longitude":12.375646,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06125 Perugia",
     "sg:city":"Perugia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186617175,
-    "wof:lastmodified":1449050360,
+    "wof:lastmodified":1466293455,
     "wof:name":"Moretti G. & R. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.375646,43.117943,12.375646,43.117943],
+  "bbox": [
+    12.375646,
+    43.117943,
+    12.375646,
+    43.117943
+],
   "geometry": {"coordinates":[12.375646,43.117943],"type":"Point"}
 }

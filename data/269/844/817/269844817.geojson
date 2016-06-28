@@ -2,13 +2,14 @@
   "id": 269844817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.051482,45.191486,11.051482,45.191486",
     "geom:latitude":45.191486,
     "geom:longitude":11.051482,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56, Via Molino Di Sopra 37054 Nogara",
     "sg:city":"Nogara",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269844817,
-    "wof:lastmodified":1449037155,
+    "wof:lastmodified":1466293539,
     "wof:name":"Rotomec (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.051482,45.191486,11.051482,45.191486],
+  "bbox": [
+    11.051482,
+    45.191486,
+    11.051482,
+    45.191486
+],
   "geometry": {"coordinates":[11.051482,45.191486],"type":"Point"}
 }

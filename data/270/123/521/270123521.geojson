@@ -2,13 +2,14 @@
   "id": 270123521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.977969,44.546692,8.977969,44.546692",
     "geom:latitude":44.546692,
     "geom:longitude":8.977969,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16010 Savignone",
     "sg:city":"Savignone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270123521,
-    "wof:lastmodified":1449009344,
+    "wof:lastmodified":1466290468,
     "wof:name":"M.i.c.i (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.977969,44.546692,8.977969,44.546692],
+  "bbox": [
+    8.977969,
+    44.546692,
+    8.977969,
+    44.546692
+],
   "geometry": {"coordinates":[8.977969,44.546692],"type":"Point"}
 }

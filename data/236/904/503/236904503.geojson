@@ -2,13 +2,14 @@
   "id": 236904503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.207815,45.506111,8.207815,45.506111",
     "geom:latitude":45.506111,
     "geom:longitude":8.207815,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13874 Mottalciata",
     "sg:city":"Mottalciata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236904503,
-    "wof:lastmodified":1449005338,
+    "wof:lastmodified":1466297297,
     "wof:name":"C.g.f. Di Franza Mauro & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.207815,45.506111,8.207815,45.506111],
+  "bbox": [
+    8.207815,
+    45.506111,
+    8.207815,
+    45.506111
+],
   "geometry": {"coordinates":[8.207815,45.506111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320539947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.41097,46.055779,9.41097,46.055779",
     "geom:latitude":46.055779,
     "geom:longitude":9.41097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 53 23834 Premana",
     "sg:city":"Premana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320539947,
-    "wof:lastmodified":1449015042,
+    "wof:lastmodified":1466297597,
     "wof:name":"Borghetti Enrico & C Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pedicure"
     ]
 },
-  "bbox": [9.41097,46.055779,9.41097,46.055779],
+  "bbox": [
+    9.41097,
+    46.055779,
+    9.41097,
+    46.055779
+],
   "geometry": {"coordinates":[9.41097,46.055779],"type":"Point"}
 }

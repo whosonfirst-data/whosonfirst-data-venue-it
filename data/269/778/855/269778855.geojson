@@ -2,13 +2,14 @@
   "id": 269778855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.106885,43.903316,11.106885,43.903316",
     "geom:latitude":43.903316,
     "geom:longitude":11.106885,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269778855,
-    "wof:lastmodified":1449036191,
+    "wof:lastmodified":1466292784,
     "wof:name":"Intrepido Viaggi Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.106885,43.903316,11.106885,43.903316],
+  "bbox": [
+    11.106885,
+    43.903316,
+    11.106885,
+    43.903316
+],
   "geometry": {"coordinates":[11.106885,43.903316],"type":"Point"}
 }

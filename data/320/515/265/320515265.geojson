@@ -2,13 +2,14 @@
   "id": 320515265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.510848,44.695858,10.510848,44.695858",
     "geom:latitude":44.695858,
     "geom:longitude":10.510848,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42025 Cavriago",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Strumenti Ed Apparecchi Per Attivita' Industriali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320515265,
-    "wof:lastmodified":1449012128,
+    "wof:lastmodified":1466297616,
     "wof:name":"Emilos (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.510848,44.695858,10.510848,44.695858],
+  "bbox": [
+    10.510848,
+    44.695858,
+    10.510848,
+    44.695858
+],
   "geometry": {"coordinates":[10.510848,44.695858],"type":"Point"}
 }

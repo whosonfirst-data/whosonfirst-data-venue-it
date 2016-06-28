@@ -2,13 +2,14 @@
   "id": 203275507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.849321,40.890408,16.849321,40.890408",
     "geom:latitude":40.890408,
     "geom:longitude":16.849321,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70021 Acquaviva Delle Fonti",
     "sg:city":"Acquaviva delle Fonti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203275507,
-    "wof:lastmodified":1449025524,
+    "wof:lastmodified":1466290633,
     "wof:name":"L & S Motors S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.849321,40.890408,16.849321,40.890408],
+  "bbox": [
+    16.849321,
+    40.890408,
+    16.849321,
+    40.890408
+],
   "geometry": {"coordinates":[16.849321,40.890408],"type":"Point"}
 }

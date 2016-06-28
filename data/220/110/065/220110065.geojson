@@ -2,13 +2,14 @@
   "id": 220110065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.073309,37.472145,15.073309,37.472145",
     "geom:latitude":37.472145,
     "geom:longitude":15.073309,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Melilli 95121 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220110065,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466296006,
     "wof:name":"Comer Sud (s.p.a.)",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [15.073309,37.472145,15.073309,37.472145],
+  "bbox": [
+    15.073309,
+    37.472145,
+    15.073309,
+    37.472145
+],
   "geometry": {"coordinates":[15.073309,37.472145],"type":"Point"}
 }

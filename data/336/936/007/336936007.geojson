@@ -2,13 +2,14 @@
   "id": 336936007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.801705,40.635887,15.801705,40.635887",
     "geom:latitude":40.635887,
     "geom:longitude":15.801705,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85100 Potenza",
     "sg:city":"Potenza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336936007,
-    "wof:lastmodified":1448997296,
+    "wof:lastmodified":1466297269,
     "wof:name":"Federici Giorgio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [15.801705,40.635887,15.801705,40.635887],
+  "bbox": [
+    15.801705,
+    40.635887,
+    15.801705,
+    40.635887
+],
   "geometry": {"coordinates":[15.801705,40.635887],"type":"Point"}
 }

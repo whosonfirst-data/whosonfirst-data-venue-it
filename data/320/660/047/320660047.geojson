@@ -2,13 +2,14 @@
   "id": 320660047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.36554,44.579906,11.36554,44.579906",
     "geom:latitude":44.579906,
     "geom:longitude":11.36554,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40013 Castel Maggiore",
     "sg:city":"Castel Maggiore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320660047,
-    "wof:lastmodified":1449014575,
+    "wof:lastmodified":1466297819,
     "wof:name":"Chinni Gastone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.36554,44.579906,11.36554,44.579906],
+  "bbox": [
+    11.36554,
+    44.579906,
+    11.36554,
+    44.579906
+],
   "geometry": {"coordinates":[11.36554,44.579906],"type":"Point"}
 }

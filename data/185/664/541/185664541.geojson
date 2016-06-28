@@ -2,13 +2,14 @@
   "id": 185664541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.292068,37.063316,15.292068,37.063316",
     "geom:latitude":37.063316,
     "geom:longitude":15.292068,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Savoia 31/33, 96100 Siracusa, Sr",
     "sg:city":"Siracusa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185664541,
-    "wof:lastmodified":1449007196,
+    "wof:lastmodified":1466295142,
     "wof:name":"Banca Di Credito Popolare Di Siracusa Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.292068,37.063316,15.292068,37.063316],
+  "bbox": [
+    15.292068,
+    37.063316,
+    15.292068,
+    37.063316
+],
   "geometry": {"coordinates":[15.292068,37.063316],"type":"Point"}
 }

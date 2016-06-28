@@ -2,13 +2,14 @@
   "id": 169809479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.256902,43.768734,11.256902,43.768734",
     "geom:latitude":43.768734,
     "geom:longitude":11.256902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Dei Sassetti 50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169809479,
-    "wof:lastmodified":1449035370,
+    "wof:lastmodified":1466296197,
     "wof:name":"Banca Steinhausling & C.",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "institution"
     ]
 },
-  "bbox": [11.256902,43.768734,11.256902,43.768734],
+  "bbox": [
+    11.256902,
+    43.768734,
+    11.256902,
+    43.768734
+],
   "geometry": {"coordinates":[11.256902,43.768734],"type":"Point"}
 }

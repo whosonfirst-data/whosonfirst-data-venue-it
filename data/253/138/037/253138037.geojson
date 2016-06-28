@@ -2,13 +2,14 @@
   "id": 253138037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.430076,45.725979,8.430076,45.725979",
     "geom:latitude":45.725979,
     "geom:longitude":8.430076,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28010 Gargallo",
     "sg:city":"Gargallo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253138037,
-    "wof:lastmodified":1449063668,
+    "wof:lastmodified":1466290359,
     "wof:name":"Matta Salvatore E C.snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.430076,45.725979,8.430076,45.725979],
+  "bbox": [
+    8.430076,
+    45.725979,
+    8.430076,
+    45.725979
+],
   "geometry": {"coordinates":[8.430076,45.725979],"type":"Point"}
 }

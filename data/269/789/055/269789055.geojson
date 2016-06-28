@@ -2,13 +2,14 @@
   "id": 269789055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.278107,38.075035,13.278107,38.075035",
     "geom:latitude":38.075035,
     "geom:longitude":13.278107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90046 Monreale",
     "sg:city":"Monreale",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269789055,
-    "wof:lastmodified":1449037221,
+    "wof:lastmodified":1466292904,
     "wof:name":"Ferreri Srl",
     "wof:parent_id":85904855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.278107,38.075035,13.278107,38.075035],
+  "bbox": [
+    13.278107,
+    38.075035,
+    13.278107,
+    38.075035
+],
   "geometry": {"coordinates":[13.278107,38.075035],"type":"Point"}
 }

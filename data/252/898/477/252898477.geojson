@@ -2,13 +2,14 @@
   "id": 252898477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.208547,42.380795,14.208547,42.380795",
     "geom:latitude":42.380795,
     "geom:longitude":14.208547,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66010 Torrevecchia Teatina",
     "sg:city":"Torrevecchia Teatina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252898477,
-    "wof:lastmodified":1449005380,
+    "wof:lastmodified":1466291010,
     "wof:name":"Arca Wearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.208547,42.380795,14.208547,42.380795],
+  "bbox": [
+    14.208547,
+    42.380795,
+    14.208547,
+    42.380795
+],
   "geometry": {"coordinates":[14.208547,42.380795],"type":"Point"}
 }

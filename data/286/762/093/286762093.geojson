@@ -2,13 +2,14 @@
   "id": 286762093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.680794,45.717232,11.680794,45.717232",
     "geom:latitude":45.717232,
     "geom:longitude":11.680794,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Segavecchia 48 36055 Nove",
     "sg:city":"Nove",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286762093,
-    "wof:lastmodified":1449017262,
+    "wof:lastmodified":1466296005,
     "wof:name":"Sele Arte Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensils"
     ]
 },
-  "bbox": [11.680794,45.717232,11.680794,45.717232],
+  "bbox": [
+    11.680794,
+    45.717232,
+    11.680794,
+    45.717232
+],
   "geometry": {"coordinates":[11.680794,45.717232],"type":"Point"}
 }

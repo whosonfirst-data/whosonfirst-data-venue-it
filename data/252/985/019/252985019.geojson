@@ -2,13 +2,14 @@
   "id": 252985019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.739396,45.09293,8.739396,45.09293",
     "geom:latitude":45.09293,
     "geom:longitude":8.739396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Strada Lambertenga 27035 Mede",
     "sg:city":"Mede",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252985019,
-    "wof:lastmodified":1449005956,
+    "wof:lastmodified":1466291906,
     "wof:name":"Giollaro Di Malvisini Francesco & C. - S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [8.739396,45.09293,8.739396,45.09293],
+  "bbox": [
+    8.739396,
+    45.09293,
+    8.739396,
+    45.09293
+],
   "geometry": {"coordinates":[8.739396,45.09293],"type":"Point"}
 }

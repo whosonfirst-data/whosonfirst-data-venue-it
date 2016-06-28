@@ -2,13 +2,14 @@
   "id": 286708363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.048759,45.432762,9.048759,45.432762",
     "geom:latitude":45.432762,
     "geom:longitude":9.048759,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Corso Europa 20090 Cusago",
     "sg:city":"Cusago",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286708363,
-    "wof:lastmodified":1449015632,
+    "wof:lastmodified":1466295312,
     "wof:name":"Rappo Parchi E Giardini Di Rappo Fabio Ernesto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [9.048759,45.432762,9.048759,45.432762],
+  "bbox": [
+    9.048759,
+    45.432762,
+    9.048759,
+    45.432762
+],
   "geometry": {"coordinates":[9.048759,45.432762],"type":"Point"}
 }

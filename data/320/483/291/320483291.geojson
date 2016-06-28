@@ -2,13 +2,14 @@
   "id": 320483291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.238358,45.550892,9.238358,45.550892",
     "geom:latitude":45.550892,
     "geom:longitude":9.238358,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320483291,
-    "wof:lastmodified":1449014169,
+    "wof:lastmodified":1466297650,
     "wof:name":"Ramsey Italia",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.238358,45.550892,9.238358,45.550892],
+  "bbox": [
+    9.238358,
+    45.550892,
+    9.238358,
+    45.550892
+],
   "geometry": {"coordinates":[9.238358,45.550892],"type":"Point"}
 }

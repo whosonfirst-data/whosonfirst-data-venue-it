@@ -2,13 +2,14 @@
   "id": 270025943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.673098,45.684204,9.673098,45.684204",
     "geom:latitude":45.684204,
     "geom:longitude":9.673098,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Zanica 87 24126 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270025943,
-    "wof:lastmodified":1449010668,
+    "wof:lastmodified":1466289298,
     "wof:name":"Cortinovis Spa",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cable"
     ]
 },
-  "bbox": [9.673098,45.684204,9.673098,45.684204],
+  "bbox": [
+    9.673098,
+    45.684204,
+    9.673098,
+    45.684204
+],
   "geometry": {"coordinates":[9.673098,45.684204],"type":"Point"}
 }

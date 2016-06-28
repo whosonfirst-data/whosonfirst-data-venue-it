@@ -2,13 +2,14 @@
   "id": 169706941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.87463,45.541729,11.87463,45.541729",
     "geom:latitude":45.541729,
     "geom:longitude":11.87463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35100 Arsego",
     "sg:classifiers":[],
     "sg:orig_category":"Bagno - Accessori E Mobili",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169706941,
-    "wof:lastmodified":1449032914,
+    "wof:lastmodified":1466289594,
     "wof:name":"Bagni Di Lusso Di Betto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.87463,45.541729,11.87463,45.541729],
+  "bbox": [
+    11.87463,
+    45.541729,
+    11.87463,
+    45.541729
+],
   "geometry": {"coordinates":[11.87463,45.541729],"type":"Point"}
 }

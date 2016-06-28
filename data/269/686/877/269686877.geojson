@@ -2,13 +2,14 @@
   "id": 269686877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.66322,45.021645,7.66322,45.021645",
     "geom:latitude":45.021645,
     "geom:longitude":7.66322,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nizza 312 10127 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269686877,
-    "wof:lastmodified":1449038220,
+    "wof:lastmodified":1466291478,
     "wof:name":"Fiatavio Spa",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aerospace"
     ]
 },
-  "bbox": [7.66322,45.021645,7.66322,45.021645],
+  "bbox": [
+    7.66322,
+    45.021645,
+    7.66322,
+    45.021645
+],
   "geometry": {"coordinates":[7.66322,45.021645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186220087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.536047,38.188492,15.536047,38.188492",
     "geom:latitude":38.188492,
     "geom:longitude":15.536047,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98027 Roccalumera",
     "sg:city":"Roccalumera",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186220087,
-    "wof:lastmodified":1449052939,
+    "wof:lastmodified":1466289827,
     "wof:name":"La Coccinella Di Ard\u00cc Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "e"
     ]
 },
-  "bbox": [15.536047,38.188492,15.536047,38.188492],
+  "bbox": [
+    15.536047,
+    38.188492,
+    15.536047,
+    38.188492
+],
   "geometry": {"coordinates":[15.536047,38.188492],"type":"Point"}
 }

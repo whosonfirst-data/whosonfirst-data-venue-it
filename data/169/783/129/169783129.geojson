@@ -2,13 +2,14 @@
   "id": 169783129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.215313,45.543228,10.215313,45.543228",
     "geom:latitude":45.543228,
     "geom:longitude":10.215313,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25122 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169783129,
-    "wof:lastmodified":1449032794,
+    "wof:lastmodified":1466295859,
     "wof:name":"Agenzia Delle Entrate - Brescia 1",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.215313,45.543228,10.215313,45.543228],
+  "bbox": [
+    10.215313,
+    45.543228,
+    10.215313,
+    45.543228
+],
   "geometry": {"coordinates":[10.215313,45.543228],"type":"Point"}
 }

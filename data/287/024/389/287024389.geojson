@@ -2,13 +2,14 @@
   "id": 287024389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.568959,40.739487,14.568959,40.739487",
     "geom:latitude":40.739487,
     "geom:longitude":14.568959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Po 84012 Angri",
     "sg:city":"Angri",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287024389,
-    "wof:lastmodified":1449001080,
+    "wof:lastmodified":1466289898,
     "wof:name":"Societa' Cooperativa Conf.it. Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [14.568959,40.739487,14.568959,40.739487],
+  "bbox": [
+    14.568959,
+    40.739487,
+    14.568959,
+    40.739487
+],
   "geometry": {"coordinates":[14.568959,40.739487],"type":"Point"}
 }

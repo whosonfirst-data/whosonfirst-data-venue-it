@@ -2,13 +2,14 @@
   "id": 202737763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.010855,45.534485,10.010855,45.534485",
     "geom:latitude":45.534485,
     "geom:longitude":10.010855,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25122 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202737763,
-    "wof:lastmodified":1449060687,
+    "wof:lastmodified":1466291459,
     "wof:name":"Vigilanza Notturna Per La Citt\u00c0 Di Brescia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.010855,45.534485,10.010855,45.534485],
+  "bbox": [
+    10.010855,
+    45.534485,
+    10.010855,
+    45.534485
+],
   "geometry": {"coordinates":[10.010855,45.534485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186173455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.035259,44.700863,8.035259,44.700863",
     "geom:latitude":44.700863,
     "geom:longitude":8.035259,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Alba, Cn",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186173455,
-    "wof:lastmodified":1449050924,
+    "wof:lastmodified":1466289427,
     "wof:name":"P Ferrero & C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.035259,44.700863,8.035259,44.700863],
+  "bbox": [
+    8.035259,
+    44.700863,
+    8.035259,
+    44.700863
+],
   "geometry": {"coordinates":[8.035259,44.700863],"type":"Point"}
 }

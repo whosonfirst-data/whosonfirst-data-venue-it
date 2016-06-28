@@ -2,13 +2,14 @@
   "id": 186357887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.288549,37.556252,14.288549,37.556252",
     "geom:latitude":37.556252,
     "geom:longitude":14.288549,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94100 Enna",
     "sg:city":"Enna",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186357887,
-    "wof:lastmodified":1449052690,
+    "wof:lastmodified":1466290985,
     "wof:name":"Tundra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.288549,37.556252,14.288549,37.556252],
+  "bbox": [
+    14.288549,
+    37.556252,
+    14.288549,
+    37.556252
+],
   "geometry": {"coordinates":[14.288549,37.556252],"type":"Point"}
 }

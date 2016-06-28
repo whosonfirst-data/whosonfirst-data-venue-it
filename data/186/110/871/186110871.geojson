@@ -2,13 +2,14 @@
   "id": 186110871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.188632,45.466908,9.188632,45.466908",
     "geom:latitude":45.466908,
     "geom:longitude":9.188632,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Paolo Ferrari 10, 20121 Milan, Mi",
     "sg:classifiers":[
         {
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":186110871,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466296216,
     "wof:name":"Immobiliare Maram Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.188632,45.466908,9.188632,45.466908],
+  "bbox": [
+    9.188632,
+    45.466908,
+    9.188632,
+    45.466908
+],
   "geometry": {"coordinates":[9.188632,45.466908],"type":"Point"}
 }

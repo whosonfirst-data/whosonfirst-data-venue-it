@@ -2,13 +2,14 @@
   "id": 286764931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.540307,45.545906,11.540307,45.545906",
     "geom:latitude":45.545906,
     "geom:longitude":11.540307,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Vle Seconda Strada 57 36071 Arzignano",
     "sg:city":"Arzignano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286764931,
-    "wof:lastmodified":1449017955,
+    "wof:lastmodified":1466296039,
     "wof:name":"Officine Meccaniche Alpe Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tannery"
     ]
 },
-  "bbox": [11.540307,45.545906,11.540307,45.545906],
+  "bbox": [
+    11.540307,
+    45.545906,
+    11.540307,
+    45.545906
+],
   "geometry": {"coordinates":[11.540307,45.545906],"type":"Point"}
 }

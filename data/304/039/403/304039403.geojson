@@ -2,13 +2,14 @@
   "id": 304039403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.63005,45.136414,7.63005,45.136414",
     "geom:latitude":45.136414,
     "geom:longitude":7.63005,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10078 Venaria",
     "sg:classifiers":[],
     "sg:orig_category":"Associazioni Ed Organismi Di Interesse Pubblico",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304039403,
-    "wof:lastmodified":1449044089,
+    "wof:lastmodified":1466292689,
     "wof:name":"A.n.p.i.",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.63005,45.136414,7.63005,45.136414],
+  "bbox": [
+    7.63005,
+    45.136414,
+    7.63005,
+    45.136414
+],
   "geometry": {"coordinates":[7.63005,45.136414],"type":"Point"}
 }

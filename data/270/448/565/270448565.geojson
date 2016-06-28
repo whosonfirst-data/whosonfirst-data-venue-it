@@ -2,13 +2,14 @@
   "id": 270448565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.921174,44.654366,10.921174,44.654366",
     "geom:latitude":44.654366,
     "geom:longitude":10.921174,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41049 Sassuolo",
     "sg:city":"Sassuolo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270448565,
-    "wof:lastmodified":1449011012,
+    "wof:lastmodified":1466294460,
     "wof:name":"K. Erremme S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.921174,44.654366,10.921174,44.654366],
+  "bbox": [
+    10.921174,
+    44.654366,
+    10.921174,
+    44.654366
+],
   "geometry": {"coordinates":[10.921174,44.654366],"type":"Point"}
 }

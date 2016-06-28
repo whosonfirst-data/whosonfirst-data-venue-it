@@ -2,13 +2,14 @@
   "id": 186549657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.248357,44.649132,12.248357,44.649132",
     "geom:latitude":44.649132,
     "geom:longitude":12.248357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56, Viale Leonardo Da Vinci 44022 Comacchio",
     "sg:city":"Comacchio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186549657,
-    "wof:lastmodified":1449051121,
+    "wof:lastmodified":1466292786,
     "wof:name":"Hotel Caravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.248357,44.649132,12.248357,44.649132],
+  "bbox": [
+    12.248357,
+    44.649132,
+    12.248357,
+    44.649132
+],
   "geometry": {"coordinates":[12.248357,44.649132],"type":"Point"}
 }

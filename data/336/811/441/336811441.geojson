@@ -2,13 +2,14 @@
   "id": 336811441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.323039,44.854881,7.323039,44.854881",
     "geom:latitude":44.854881,
     "geom:longitude":7.323039,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67, Via Val Pellice 10060 San Secondo Di Pinerolo",
     "sg:city":"San Secondo di Pinerolo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336811441,
-    "wof:lastmodified":1448997470,
+    "wof:lastmodified":1466296352,
     "wof:name":"Simav Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.323039,44.854881,7.323039,44.854881],
+  "bbox": [
+    7.323039,
+    44.854881,
+    7.323039,
+    44.854881
+],
   "geometry": {"coordinates":[7.323039,44.854881],"type":"Point"}
 }

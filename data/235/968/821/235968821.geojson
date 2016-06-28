@@ -2,13 +2,14 @@
   "id": 235968821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.780433,40.764557,14.780433,40.764557",
     "geom:latitude":40.764557,
     "geom:longitude":14.780433,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"110, V. Del Centenario 84084 Fisciano",
     "sg:city":"Fisciano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":235968821,
-    "wof:lastmodified":1449008296,
+    "wof:lastmodified":1466295445,
     "wof:name":"Gelateria Matteo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [14.780433,40.764557,14.780433,40.764557],
+  "bbox": [
+    14.780433,
+    40.764557,
+    14.780433,
+    40.764557
+],
   "geometry": {"coordinates":[14.780433,40.764557],"type":"Point"}
 }

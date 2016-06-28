@@ -2,13 +2,14 @@
   "id": 286749581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.111841,43.500725,13.111841,43.500725",
     "geom:latitude":43.500725,
     "geom:longitude":13.111841,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60031 Castelplanio",
     "sg:city":"Castelplanio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286749581,
-    "wof:lastmodified":1449016030,
+    "wof:lastmodified":1466295841,
     "wof:name":"Linea Quattro Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.111841,43.500725,13.111841,43.500725],
+  "bbox": [
+    13.111841,
+    43.500725,
+    13.111841,
+    43.500725
+],
   "geometry": {"coordinates":[13.111841,43.500725],"type":"Point"}
 }

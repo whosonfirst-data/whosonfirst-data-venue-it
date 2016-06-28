@@ -2,13 +2,14 @@
   "id": 185769833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.413219,41.15197,16.413219,41.15197",
     "geom:latitude":41.15197,
     "geom:longitude":16.413219,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Mazzini, 12; Corato; 70033",
     "sg:city":"Corato",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185769833,
-    "wof:lastmodified":1449007126,
+    "wof:lastmodified":1466289083,
     "wof:name":"Banca Popolare Della Murgia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.413219,41.15197,16.413219,41.15197],
+  "bbox": [
+    16.413219,
+    41.15197,
+    16.413219,
+    41.15197
+],
   "geometry": {"coordinates":[16.413219,41.15197],"type":"Point"}
 }

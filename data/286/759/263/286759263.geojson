@@ -2,13 +2,14 @@
   "id": 286759263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.222958,45.539829,10.222958,45.539829",
     "geom:latitude":45.539829,
     "geom:longitude":10.222958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bernocchi 48 25060 Villa Carcina",
     "sg:classifiers":[
         {
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286759263,
-    "wof:lastmodified":1449018128,
+    "wof:lastmodified":1466295967,
     "wof:name":"Inoxriv Spa",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cutlery"
     ]
 },
-  "bbox": [10.222958,45.539829,10.222958,45.539829],
+  "bbox": [
+    10.222958,
+    45.539829,
+    10.222958,
+    45.539829
+],
   "geometry": {"coordinates":[10.222958,45.539829],"type":"Point"}
 }

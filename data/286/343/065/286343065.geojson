@@ -2,13 +2,14 @@
   "id": 286343065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.633925,45.628464,9.633925,45.628464",
     "geom:latitude":45.628464,
     "geom:longitude":9.633925,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24043 Caravaggio",
     "sg:city":"Caravaggio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286343065,
-    "wof:lastmodified":1449017273,
+    "wof:lastmodified":1466290599,
     "wof:name":"Chiesa Santuario 's. Maria Del Fonte'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "religious"
     ]
 },
-  "bbox": [9.633925,45.628464,9.633925,45.628464],
+  "bbox": [
+    9.633925,
+    45.628464,
+    9.633925,
+    45.628464
+],
   "geometry": {"coordinates":[9.633925,45.628464],"type":"Point"}
 }

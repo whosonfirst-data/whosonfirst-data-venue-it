@@ -2,13 +2,14 @@
   "id": 286544261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.185968,46.219406,13.185968,46.219406",
     "geom:latitude":46.219406,
     "geom:longitude":13.185968,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Tarcentina 33010 Magnano In Riviera",
     "sg:city":"Magnano in Riviera",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286544261,
-    "wof:lastmodified":1449018080,
+    "wof:lastmodified":1466293245,
     "wof:name":"Maglificio Della Riviera Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [13.185968,46.219406,13.185968,46.219406],
+  "bbox": [
+    13.185968,
+    46.219406,
+    13.185968,
+    46.219406
+],
   "geometry": {"coordinates":[13.185968,46.219406],"type":"Point"}
 }

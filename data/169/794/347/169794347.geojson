@@ -2,13 +2,14 @@
   "id": 169794347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.504993,45.31432,9.504993,45.31432",
     "geom:latitude":45.31432,
     "geom:longitude":9.504993,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26900 Lodi",
     "sg:city":"Lodi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169794347,
-    "wof:lastmodified":1449034267,
+    "wof:lastmodified":1466295977,
     "wof:name":"Banca Popolare Di Lodi Soc.coop.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.504993,45.31432,9.504993,45.31432],
+  "bbox": [
+    9.504993,
+    45.31432,
+    9.504993,
+    45.31432
+],
   "geometry": {"coordinates":[9.504993,45.31432],"type":"Point"}
 }

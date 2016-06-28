@@ -2,13 +2,14 @@
   "id": 202949907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.941452,45.557098,8.941452,45.557098",
     "geom:latitude":45.557098,
     "geom:longitude":8.941452,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20015 Parabiago",
     "sg:city":"Parabiago",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202949907,
-    "wof:lastmodified":1449061681,
+    "wof:lastmodified":1466293723,
     "wof:name":"Taglieria Tranceria Tizeta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.941452,45.557098,8.941452,45.557098],
+  "bbox": [
+    8.941452,
+    45.557098,
+    8.941452,
+    45.557098
+],
   "geometry": {"coordinates":[8.941452,45.557098],"type":"Point"}
 }

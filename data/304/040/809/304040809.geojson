@@ -2,13 +2,14 @@
   "id": 304040809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.313387,43.546524,10.313387,43.546524",
     "geom:latitude":43.546524,
     "geom:longitude":10.313387,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57125 Livorno",
     "sg:city":"Livorno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304040809,
-    "wof:lastmodified":1449044139,
+    "wof:lastmodified":1466292708,
     "wof:name":"Associazione Consumatori Utenti Adiconsum",
     "wof:parent_id":85900469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.313387,43.546524,10.313387,43.546524],
+  "bbox": [
+    10.313387,
+    43.546524,
+    10.313387,
+    43.546524
+],
   "geometry": {"coordinates":[10.313387,43.546524],"type":"Point"}
 }

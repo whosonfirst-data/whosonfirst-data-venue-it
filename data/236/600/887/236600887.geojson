@@ -2,13 +2,14 @@
   "id": 236600887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.226455,45.486446,9.226455,45.486446",
     "geom:latitude":45.486446,
     "geom:longitude":9.226455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"102, Via Ampere Andrea Maria 20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236600887,
-    "wof:lastmodified":1449001902,
+    "wof:lastmodified":1466295025,
     "wof:name":"Ideal Standard Divisione Di American Standard Italia S.r.l.",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.226455,45.486446,9.226455,45.486446],
+  "bbox": [
+    9.226455,
+    45.486446,
+    9.226455,
+    45.486446
+],
   "geometry": {"coordinates":[9.226455,45.486446],"type":"Point"}
 }

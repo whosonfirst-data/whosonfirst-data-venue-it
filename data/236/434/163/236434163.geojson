@@ -2,13 +2,14 @@
   "id": 236434163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.594956,41.929733,12.594956,41.929733",
     "geom:latitude":41.929733,
     "geom:longitude":12.594956,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Licenza 00155 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236434163,
-    "wof:lastmodified":1449002213,
+    "wof:lastmodified":1466293335,
     "wof:name":"Biotecnica Instruments S.r.l.",
     "wof:parent_id":85904925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instrument"
     ]
 },
-  "bbox": [12.594956,41.929733,12.594956,41.929733],
+  "bbox": [
+    12.594956,
+    41.929733,
+    12.594956,
+    41.929733
+],
   "geometry": {"coordinates":[12.594956,41.929733],"type":"Point"}
 }

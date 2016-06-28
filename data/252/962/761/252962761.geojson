@@ -2,13 +2,14 @@
   "id": 252962761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.003393,43.234665,12.003393,43.234665",
     "geom:latitude":43.234665,
     "geom:longitude":12.003393,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52044 Cortona",
     "sg:city":"Cortona",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252962761,
-    "wof:lastmodified":1449006066,
+    "wof:lastmodified":1466291683,
     "wof:name":"Shine Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "silversmith"
     ]
 },
-  "bbox": [12.003393,43.234665,12.003393,43.234665],
+  "bbox": [
+    12.003393,
+    43.234665,
+    12.003393,
+    43.234665
+],
   "geometry": {"coordinates":[12.003393,43.234665],"type":"Point"}
 }

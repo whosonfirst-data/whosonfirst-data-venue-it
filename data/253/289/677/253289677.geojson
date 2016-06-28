@@ -2,13 +2,14 @@
   "id": 253289677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.952007,44.844307,10.952007,44.844307",
     "geom:latitude":44.844307,
     "geom:longitude":10.952007,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41012 Carpi",
     "sg:city":"Carpi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253289677,
-    "wof:lastmodified":1449065276,
+    "wof:lastmodified":1466292077,
     "wof:name":"Serenity Assistenza Privata",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.952007,44.844307,10.952007,44.844307],
+  "bbox": [
+    10.952007,
+    44.844307,
+    10.952007,
+    44.844307
+],
   "geometry": {"coordinates":[10.952007,44.844307],"type":"Point"}
 }

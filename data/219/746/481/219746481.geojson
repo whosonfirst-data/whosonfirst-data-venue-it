@@ -2,13 +2,14 @@
   "id": 219746481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.114809,40.832424,14.114809,40.832424",
     "geom:latitude":40.832424,
     "geom:longitude":14.114809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Via Luciano 80078 Pozzuoli",
     "sg:city":"Pozzuoli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219746481,
-    "wof:lastmodified":1449070352,
+    "wof:lastmodified":1466293735,
     "wof:name":"De Simone Rosario & Figli Sas",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [14.114809,40.832424,14.114809,40.832424],
+  "bbox": [
+    14.114809,
+    40.832424,
+    14.114809,
+    40.832424
+],
   "geometry": {"coordinates":[14.114809,40.832424],"type":"Point"}
 }

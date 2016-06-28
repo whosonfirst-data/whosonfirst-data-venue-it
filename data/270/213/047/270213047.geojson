@@ -2,13 +2,14 @@
   "id": 270213047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.80104,46.315365,10.80104,46.315365",
     "geom:latitude":46.315365,
     "geom:longitude":10.80104,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38020 Mezzana",
     "sg:city":"Mezzana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270213047,
-    "wof:lastmodified":1449008690,
+    "wof:lastmodified":1466291591,
     "wof:name":"La Scanzia Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.80104,46.315365,10.80104,46.315365],
+  "bbox": [
+    10.80104,
+    46.315365,
+    10.80104,
+    46.315365
+],
   "geometry": {"coordinates":[10.80104,46.315365],"type":"Point"}
 }

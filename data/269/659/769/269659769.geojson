@@ -2,13 +2,14 @@
   "id": 269659769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.993048,43.672215,10.993048,43.672215",
     "geom:latitude":43.672215,
     "geom:longitude":10.993048,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Orme 295 50025 Martignana",
     "sg:city":"Martignana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269659769,
-    "wof:lastmodified":1449036401,
+    "wof:lastmodified":1466291081,
     "wof:name":"Magis Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "promoter"
     ]
 },
-  "bbox": [10.993048,43.672215,10.993048,43.672215],
+  "bbox": [
+    10.993048,
+    43.672215,
+    10.993048,
+    43.672215
+],
   "geometry": {"coordinates":[10.993048,43.672215],"type":"Point"}
 }

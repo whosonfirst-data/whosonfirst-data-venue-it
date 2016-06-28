@@ -2,13 +2,14 @@
   "id": 219371577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.188723,45.512421,12.188723,45.512421",
     "geom:latitude":45.512421,
     "geom:longitude":12.188723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nazario Sauro 38 30030 Olmo Di Martellago",
     "sg:city":"Martellago",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219371577,
-    "wof:lastmodified":1449073156,
+    "wof:lastmodified":1466290034,
     "wof:name":"Ciegi Industries S.a.s. Di Castaldello Pietro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [12.188723,45.512421,12.188723,45.512421],
+  "bbox": [
+    12.188723,
+    45.512421,
+    12.188723,
+    45.512421
+],
   "geometry": {"coordinates":[12.188723,45.512421],"type":"Point"}
 }

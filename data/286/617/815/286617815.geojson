@@ -2,13 +2,14 @@
   "id": 286617815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.818265,45.63118,9.818265,45.63118",
     "geom:latitude":45.63118,
     "geom:longitude":9.818265,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, V. Della Libert\u00e0 24060 Bolgare",
     "sg:city":"Bolgare",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286617815,
-    "wof:lastmodified":1449015262,
+    "wof:lastmodified":1466294155,
     "wof:name":"Il Bottone Di Ranica Terenzio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.818265,45.63118,9.818265,45.63118],
+  "bbox": [
+    9.818265,
+    45.63118,
+    9.818265,
+    45.63118
+],
   "geometry": {"coordinates":[9.818265,45.63118],"type":"Point"}
 }

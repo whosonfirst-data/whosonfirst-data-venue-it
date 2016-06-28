@@ -2,13 +2,14 @@
   "id": 270180011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.631214,45.116108,7.631214,45.116108",
     "geom:latitude":45.116108,
     "geom:longitude":7.631214,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Cso Cuneo 57 10078 Venaria",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270180011,
-    "wof:lastmodified":1449008773,
+    "wof:lastmodified":1466291121,
     "wof:name":"R.c.a. Di F.lli Cossentino S.n.c.",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carburettor"
     ]
 },
-  "bbox": [7.631214,45.116108,7.631214,45.116108],
+  "bbox": [
+    7.631214,
+    45.116108,
+    7.631214,
+    45.116108
+],
   "geometry": {"coordinates":[7.631214,45.116108],"type":"Point"}
 }

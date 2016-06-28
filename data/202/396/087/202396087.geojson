@@ -2,13 +2,14 @@
   "id": 202396087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.438735,41.924904,12.438735,41.924904",
     "geom:latitude":41.924904,
     "geom:longitude":12.438735,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00040 Montecompatri",
     "sg:city":"Montecompatri",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202396087,
-    "wof:lastmodified":1449061751,
+    "wof:lastmodified":1466294454,
     "wof:name":"Scuola Elementare",
     "wof:parent_id":85900395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.438735,41.924904,12.438735,41.924904],
+  "bbox": [
+    12.438735,
+    41.924904,
+    12.438735,
+    41.924904
+],
   "geometry": {"coordinates":[12.438735,41.924904],"type":"Point"}
 }

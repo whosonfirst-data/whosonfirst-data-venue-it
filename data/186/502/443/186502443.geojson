@@ -2,13 +2,14 @@
   "id": 186502443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.057931,45.420578,9.057931,45.420578",
     "geom:latitude":45.420578,
     "geom:longitude":9.057931,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"149, Viale Leonardo Da Vinci 20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186502443,
-    "wof:lastmodified":1449051597,
+    "wof:lastmodified":1466292299,
     "wof:name":"Elettrotex Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [9.057931,45.420578,9.057931,45.420578],
+  "bbox": [
+    9.057931,
+    45.420578,
+    9.057931,
+    45.420578
+],
   "geometry": {"coordinates":[9.057931,45.420578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236074691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.215951,38.141533,15.215951,38.141533",
     "geom:latitude":38.141533,
     "geom:longitude":15.215951,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98051 Barcellona Pozzo Di Gotto",
     "sg:city":"Barcellona Pozzo di Gotto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236074691,
-    "wof:lastmodified":1449003431,
+    "wof:lastmodified":1466289637,
     "wof:name":"Fazio Anna 'rio Bar'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.215951,38.141533,15.215951,38.141533],
+  "bbox": [
+    15.215951,
+    38.141533,
+    15.215951,
+    38.141533
+],
   "geometry": {"coordinates":[15.215951,38.141533],"type":"Point"}
 }

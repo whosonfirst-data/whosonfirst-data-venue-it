@@ -2,13 +2,14 @@
   "id": 202576683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.882037,46.126427,12.882037,46.126427",
     "geom:latitude":46.126427,
     "geom:longitude":12.882037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33097 Spilimbergo",
     "sg:city":"Istrago",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202576683,
-    "wof:lastmodified":1449062078,
+    "wof:lastmodified":1466289695,
     "wof:name":"Fornasier Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.882037,46.126427,12.882037,46.126427],
+  "bbox": [
+    12.882037,
+    46.126427,
+    12.882037,
+    46.126427
+],
   "geometry": {"coordinates":[12.882037,46.126427],"type":"Point"}
 }

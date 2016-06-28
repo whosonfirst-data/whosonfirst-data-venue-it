@@ -2,13 +2,14 @@
   "id": 203355573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.763348,42.615967,13.763348,42.615967",
     "geom:latitude":42.615967,
     "geom:longitude":13.763348,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64100 Teramo",
     "sg:city":"Teramo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203355573,
-    "wof:lastmodified":1449025436,
+    "wof:lastmodified":1466291635,
     "wof:name":"Italbandiere Produzione",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.763348,42.615967,13.763348,42.615967],
+  "bbox": [
+    13.763348,
+    42.615967,
+    13.763348,
+    42.615967
+],
   "geometry": {"coordinates":[13.763348,42.615967],"type":"Point"}
 }

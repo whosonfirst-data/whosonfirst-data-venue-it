@@ -2,13 +2,14 @@
   "id": 270320485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.995074,44.725677,10.995074,44.725677",
     "geom:latitude":44.725677,
     "geom:longitude":10.995074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41030 Bomporto",
     "sg:city":"Bomporto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270320485,
-    "wof:lastmodified":1449009241,
+    "wof:lastmodified":1466292881,
     "wof:name":"Emilplast (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.995074,44.725677,10.995074,44.725677],
+  "bbox": [
+    10.995074,
+    44.725677,
+    10.995074,
+    44.725677
+],
   "geometry": {"coordinates":[10.995074,44.725677],"type":"Point"}
 }

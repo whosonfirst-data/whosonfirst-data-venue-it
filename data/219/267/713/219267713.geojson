@@ -2,13 +2,14 @@
   "id": 219267713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.910046,45.464085,8.910046,45.464085",
     "geom:latitude":45.464085,
     "geom:longitude":8.910046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Monte Bianco 10 20011 Corbetta",
     "sg:city":"Corbetta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219267713,
-    "wof:lastmodified":1449073598,
+    "wof:lastmodified":1466288972,
     "wof:name":"Btm S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "item"
     ]
 },
-  "bbox": [8.910046,45.464085,8.910046,45.464085],
+  "bbox": [
+    8.910046,
+    45.464085,
+    8.910046,
+    45.464085
+],
   "geometry": {"coordinates":[8.910046,45.464085],"type":"Point"}
 }

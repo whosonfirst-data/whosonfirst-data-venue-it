@@ -2,13 +2,14 @@
   "id": 286827643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.015355,43.940052,8.015355,43.940052",
     "geom:latitude":43.940052,
     "geom:longitude":8.015355,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18027 Pontedassio",
     "sg:city":"Pontedassio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286827643,
-    "wof:lastmodified":1449016240,
+    "wof:lastmodified":1466296686,
     "wof:name":"Scooter Service Di Tassi Agostino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.015355,43.940052,8.015355,43.940052],
+  "bbox": [
+    8.015355,
+    43.940052,
+    8.015355,
+    43.940052
+],
   "geometry": {"coordinates":[8.015355,43.940052],"type":"Point"}
 }

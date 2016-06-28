@@ -2,13 +2,14 @@
   "id": 252806349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.18615,45.477432,9.18615,45.477432",
     "geom:latitude":45.477432,
     "geom:longitude":9.18615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252806349,
-    "wof:lastmodified":1449005403,
+    "wof:lastmodified":1466290008,
     "wof:name":"Lavota Giuseppe",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.18615,45.477432,9.18615,45.477432],
+  "bbox": [
+    9.18615,
+    45.477432,
+    9.18615,
+    45.477432
+],
   "geometry": {"coordinates":[9.18615,45.477432],"type":"Point"}
 }

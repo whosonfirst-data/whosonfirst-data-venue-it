@@ -2,13 +2,14 @@
   "id": 303682277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.790615,41.12149,14.790615,41.12149",
     "geom:latitude":41.12149,
     "geom:longitude":14.790615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82100 Benevento",
     "sg:city":"Benevento",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303682277,
-    "wof:lastmodified":1448998541,
+    "wof:lastmodified":1466297460,
     "wof:name":"Tre A Dei F.lli Aversano Giovanni E Vittorio Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.790615,41.12149,14.790615,41.12149],
+  "bbox": [
+    14.790615,
+    41.12149,
+    14.790615,
+    41.12149
+],
   "geometry": {"coordinates":[14.790615,41.12149],"type":"Point"}
 }

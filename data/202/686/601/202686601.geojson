@@ -2,13 +2,14 @@
   "id": 202686601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.216106,42.461727,14.216106,42.461727",
     "geom:latitude":42.461727,
     "geom:longitude":14.216106,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65127 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202686601,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466290924,
     "wof:name":"Camera Di Commercio Industria Artigianato E Agricoltura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.216106,42.461727,14.216106,42.461727],
+  "bbox": [
+    14.216106,
+    42.461727,
+    14.216106,
+    42.461727
+],
   "geometry": {"coordinates":[14.216106,42.461727],"type":"Point"}
 }

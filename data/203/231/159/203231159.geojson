@@ -2,13 +2,14 @@
   "id": 203231159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.734739,45.766273,11.734739,45.766273",
     "geom:latitude":45.766273,
     "geom:longitude":11.734739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36061 Bassano Del Grappa",
     "sg:city":"Bassano del Grappa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203231159,
-    "wof:lastmodified":1449025900,
+    "wof:lastmodified":1466290186,
     "wof:name":"Agenzia D'affari Immobiliare Roma Di Grando Giampaolo & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.734739,45.766273,11.734739,45.766273],
+  "bbox": [
+    11.734739,
+    45.766273,
+    11.734739,
+    45.766273
+],
   "geometry": {"coordinates":[11.734739,45.766273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287124149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.78642,45.187599,10.78642,45.187599",
     "geom:latitude":45.187599,
     "geom:longitude":10.78642,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46047 Porto Mantovano",
     "sg:city":"Porto Mantovano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287124149,
-    "wof:lastmodified":1449001518,
+    "wof:lastmodified":1466291250,
     "wof:name":"Trenitalia Spa Divisione Cargo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.78642,45.187599,10.78642,45.187599],
+  "bbox": [
+    10.78642,
+    45.187599,
+    10.78642,
+    45.187599
+],
   "geometry": {"coordinates":[10.78642,45.187599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236790571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.007385,37.520374,15.007385,37.520374",
     "geom:latitude":37.520374,
     "geom:longitude":15.007385,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"237, Via Matteotti Giacomo 95045 Misterbianco",
     "sg:city":"Misterbianco",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236790571,
-    "wof:lastmodified":1449004322,
+    "wof:lastmodified":1466296533,
     "wof:name":"Teorema Pubblicita' Di Cali' Mirella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.007385,37.520374,15.007385,37.520374],
+  "bbox": [
+    15.007385,
+    37.520374,
+    15.007385,
+    37.520374
+],
   "geometry": {"coordinates":[15.007385,37.520374],"type":"Point"}
 }

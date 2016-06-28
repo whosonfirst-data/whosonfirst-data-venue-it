@@ -2,13 +2,14 @@
   "id": 220086471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.208034,45.509293,9.208034,45.509293",
     "geom:latitude":45.509293,
     "geom:longitude":9.208034,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Basilio 17 20125 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220086471,
-    "wof:lastmodified":1449074594,
+    "wof:lastmodified":1466295710,
     "wof:name":"Bcs Di Tamburini Alberto",
     "wof:parent_id":85862735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [9.208034,45.509293,9.208034,45.509293],
+  "bbox": [
+    9.208034,
+    45.509293,
+    9.208034,
+    45.509293
+],
   "geometry": {"coordinates":[9.208034,45.509293],"type":"Point"}
 }

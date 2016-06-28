@@ -2,13 +2,14 @@
   "id": 186273533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.596333,39.905273,8.596333,39.905273",
     "geom:latitude":39.905273,
     "geom:longitude":8.596333,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Zona Industriale - Cirras 09096 Santa Giusta",
     "sg:city":"Santa Giusta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186273533,
-    "wof:lastmodified":1449051759,
+    "wof:lastmodified":1466290264,
     "wof:name":"Societa' Sarda Di Bentonite Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.596333,39.905273,8.596333,39.905273],
+  "bbox": [
+    8.596333,
+    39.905273,
+    8.596333,
+    39.905273
+],
   "geometry": {"coordinates":[8.596333,39.905273],"type":"Point"}
 }

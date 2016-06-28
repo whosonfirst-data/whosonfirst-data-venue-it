@@ -2,13 +2,14 @@
   "id": 303576383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.179607,40.353313,18.179607,40.353313",
     "geom:latitude":40.353313,
     "geom:longitude":18.179607,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73100 Lecce",
     "sg:city":"Lecce",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303576383,
-    "wof:lastmodified":1448999997,
+    "wof:lastmodified":1466296950,
     "wof:name":"Iacovelli Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.179607,40.353313,18.179607,40.353313],
+  "bbox": [
+    18.179607,
+    40.353313,
+    18.179607,
+    40.353313
+],
   "geometry": {"coordinates":[18.179607,40.353313],"type":"Point"}
 }

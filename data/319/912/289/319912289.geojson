@@ -2,13 +2,14 @@
   "id": 319912289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.522563,36.949051,14.522563,36.949051",
     "geom:latitude":36.949051,
     "geom:longitude":14.522563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97019 Vittoria",
     "sg:city":"Vittoria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319912289,
-    "wof:lastmodified":1449024465,
+    "wof:lastmodified":1466293717,
     "wof:name":"Accetta Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.522563,36.949051,14.522563,36.949051],
+  "bbox": [
+    14.522563,
+    36.949051,
+    14.522563,
+    36.949051
+],
   "geometry": {"coordinates":[14.522563,36.949051],"type":"Point"}
 }

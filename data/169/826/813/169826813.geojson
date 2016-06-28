@@ -2,13 +2,14 @@
   "id": 169826813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.198003,45.465839,9.198003,45.465839",
     "geom:latitude":45.465839,
     "geom:longitude":9.198003,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Largo Toscanini Arturo 20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169826813,
-    "wof:lastmodified":1449035071,
+    "wof:lastmodified":1466289033,
     "wof:name":"Cardif Assicuarazioni Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "insurance"
     ]
 },
-  "bbox": [9.198003,45.465839,9.198003,45.465839],
+  "bbox": [
+    9.198003,
+    45.465839,
+    9.198003,
+    45.465839
+],
   "geometry": {"coordinates":[9.198003,45.465839],"type":"Point"}
 }

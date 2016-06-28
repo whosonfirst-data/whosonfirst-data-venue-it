@@ -2,13 +2,14 @@
   "id": 287233729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.160269,45.38641,9.160269,45.38641",
     "geom:latitude":45.38641,
     "geom:longitude":9.160269,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Viale Lazio 20135 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287233729,
-    "wof:lastmodified":1449001601,
+    "wof:lastmodified":1466292719,
     "wof:name":"Logitec Automazione (s.r.l.)",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.160269,45.38641,9.160269,45.38641],
+  "bbox": [
+    9.160269,
+    45.38641,
+    9.160269,
+    45.38641
+],
   "geometry": {"coordinates":[9.160269,45.38641],"type":"Point"}
 }

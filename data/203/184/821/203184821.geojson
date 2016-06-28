@@ -2,13 +2,14 @@
   "id": 203184821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.86887,41.003853,16.86887,41.003853",
     "geom:latitude":41.003853,
     "geom:longitude":16.86887,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70010 Adelfia",
     "sg:city":"Adelfia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203184821,
-    "wof:lastmodified":1449025266,
+    "wof:lastmodified":1466289717,
     "wof:name":"Fiore Supremo Di Ungari Patrizia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.86887,41.003853,16.86887,41.003853],
+  "bbox": [
+    16.86887,
+    41.003853,
+    16.86887,
+    41.003853
+],
   "geometry": {"coordinates":[16.86887,41.003853],"type":"Point"}
 }

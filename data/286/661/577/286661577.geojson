@@ -2,13 +2,14 @@
   "id": 286661577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.608999,45.592621,8.608999,45.592621",
     "geom:latitude":45.592621,
     "geom:longitude":8.608999,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28047 Oleggio",
     "sg:city":"Oleggio",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286661577,
-    "wof:lastmodified":1449017783,
+    "wof:lastmodified":1466294684,
     "wof:name":"Confezioni Sporting Di Mazzei Giovanna E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [8.608999,45.592621,8.608999,45.592621],
+  "bbox": [
+    8.608999,
+    45.592621,
+    8.608999,
+    45.592621
+],
   "geometry": {"coordinates":[8.608999,45.592621],"type":"Point"}
 }

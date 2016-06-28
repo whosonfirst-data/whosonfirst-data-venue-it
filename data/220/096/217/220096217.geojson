@@ -2,13 +2,14 @@
   "id": 220096217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.378229,44.155373,12.378229,44.155373",
     "geom:latitude":44.155373,
     "geom:longitude":12.378229,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, V. Stradone 47042 Sala Di Cesenatico",
     "sg:city":"Cesenatico",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220096217,
-    "wof:lastmodified":1449074279,
+    "wof:lastmodified":1466295906,
     "wof:name":"Eredi Parini Primo Di Parini Vinicio & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [12.378229,44.155373,12.378229,44.155373],
+  "bbox": [
+    12.378229,
+    44.155373,
+    12.378229,
+    44.155373
+],
   "geometry": {"coordinates":[12.378229,44.155373],"type":"Point"}
 }

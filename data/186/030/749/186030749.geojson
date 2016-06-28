@@ -2,13 +2,14 @@
   "id": 186030749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.282098,46.732384,12.282098,46.732384",
     "geom:latitude":46.732384,
     "geom:longitude":12.282098,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Del Magistrato 3, 39038 San Candido, Bz",
     "sg:city":"San Candido",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186030749,
-    "wof:lastmodified":1449051367,
+    "wof:lastmodified":1466294536,
     "wof:name":"Cassa Raiffeisen Alta Pusteria Scrl- Raiffeisenkasse Hochpustertal Gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.282098,46.732384,12.282098,46.732384],
+  "bbox": [
+    12.282098,
+    46.732384,
+    12.282098,
+    46.732384
+],
   "geometry": {"coordinates":[12.282098,46.732384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320542811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.786167,42.1395,11.786167,42.1395",
     "geom:latitude":42.1395,
     "geom:longitude":11.786167,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00165 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320542811,
-    "wof:lastmodified":1449014130,
+    "wof:lastmodified":1466297678,
     "wof:name":"Alfredo Neri & Figli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.786167,42.1395,11.786167,42.1395],
+  "bbox": [
+    11.786167,
+    42.1395,
+    11.786167,
+    42.1395
+],
   "geometry": {"coordinates":[11.786167,42.1395],"type":"Point"}
 }

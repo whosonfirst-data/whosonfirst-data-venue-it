@@ -2,13 +2,14 @@
   "id": 203068777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.08375,45.8148,9.08375,45.8148",
     "geom:latitude":45.8148,
     "geom:longitude":9.08375,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22060 Cabiate",
     "sg:city":"Cabiate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203068777,
-    "wof:lastmodified":1449025904,
+    "wof:lastmodified":1466295577,
     "wof:name":"A.d.l. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.08375,45.8148,9.08375,45.8148],
+  "bbox": [
+    9.08375,
+    45.8148,
+    9.08375,
+    45.8148
+],
   "geometry": {"coordinates":[9.08375,45.8148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185753433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.450973,45.138119,8.450973,45.138119",
     "geom:latitude":45.138119,
     "geom:longitude":8.450973,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Paleologi, 6/8; Casale Monferrato; 15033",
     "sg:city":"Casale Monferrato",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185753433,
-    "wof:lastmodified":1449006792,
+    "wof:lastmodified":1466288977,
     "wof:name":"Banca Nazionale Dell'agricoltura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.450973,45.138119,8.450973,45.138119],
+  "bbox": [
+    8.450973,
+    45.138119,
+    8.450973,
+    45.138119
+],
   "geometry": {"coordinates":[8.450973,45.138119],"type":"Point"}
 }

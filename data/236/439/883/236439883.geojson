@@ -2,13 +2,14 @@
   "id": 236439883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.151203,45.559822,9.151203,45.559822",
     "geom:latitude":45.559822,
     "geom:longitude":9.151203,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17/19, Via Mattei Enrico 20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236439883,
-    "wof:lastmodified":1449002377,
+    "wof:lastmodified":1466293411,
     "wof:name":"L & T Di Ermanno Lucini & C. (s.n.c.)",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instrument"
     ]
 },
-  "bbox": [9.151203,45.559822,9.151203,45.559822],
+  "bbox": [
+    9.151203,
+    45.559822,
+    9.151203,
+    45.559822
+],
   "geometry": {"coordinates":[9.151203,45.559822],"type":"Point"}
 }

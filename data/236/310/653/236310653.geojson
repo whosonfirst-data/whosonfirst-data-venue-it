@@ -2,13 +2,14 @@
   "id": 236310653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.213446,44.970795,10.213446,44.970795",
     "geom:latitude":44.970795,
     "geom:longitude":10.213446,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43010 Fontanelle",
     "sg:city":"Fontanelle",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236310653,
-    "wof:lastmodified":1449003722,
+    "wof:lastmodified":1466292048,
     "wof:name":"Giuncoarredo (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.213446,44.970795,10.213446,44.970795],
+  "bbox": [
+    10.213446,
+    44.970795,
+    10.213446,
+    44.970795
+],
   "geometry": {"coordinates":[10.213446,44.970795],"type":"Point"}
 }

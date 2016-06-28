@@ -2,13 +2,14 @@
   "id": 236683311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39358,45.352596,8.39358,45.352596",
     "geom:latitude":45.352596,
     "geom:longitude":8.39358,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Papa Giovanni Xxiii 4 13030 Caresanablot",
     "sg:city":"Caresanablot",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236683311,
-    "wof:lastmodified":1449002746,
+    "wof:lastmodified":1466295792,
     "wof:name":"O.m.v. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [8.39358,45.352596,8.39358,45.352596],
+  "bbox": [
+    8.39358,
+    45.352596,
+    8.39358,
+    45.352596
+],
   "geometry": {"coordinates":[8.39358,45.352596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236527115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.468137,44.130291,12.468137,44.130291",
     "geom:latitude":44.130291,
     "geom:longitude":12.468137,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Gagliani 10/a 47814 Bellaria",
     "sg:city":"Bellaria",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236527115,
-    "wof:lastmodified":1449004426,
+    "wof:lastmodified":1466294337,
     "wof:name":"Metalcarrelli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hotels"
     ]
 },
-  "bbox": [12.468137,44.130291,12.468137,44.130291],
+  "bbox": [
+    12.468137,
+    44.130291,
+    12.468137,
+    44.130291
+],
   "geometry": {"coordinates":[12.468137,44.130291],"type":"Point"}
 }

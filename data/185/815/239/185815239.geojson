@@ -2,13 +2,14 @@
   "id": 185815239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.850252,46.264542,9.850252,46.264542",
     "geom:latitude":46.264542,
     "geom:longitude":9.850252,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 138; Chiesa Valmalenco; 23023",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185815239,
-    "wof:lastmodified":1449007405,
+    "wof:lastmodified":1466289384,
     "wof:name":"Banca Popolare Di Sondrio Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.850252,46.264542,9.850252,46.264542],
+  "bbox": [
+    9.850252,
+    46.264542,
+    9.850252,
+    46.264542
+],
   "geometry": {"coordinates":[9.850252,46.264542],"type":"Point"}
 }

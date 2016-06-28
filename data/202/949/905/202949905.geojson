@@ -2,13 +2,14 @@
   "id": 202949905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.843511,45.306484,8.843511,45.306484",
     "geom:latitude":45.306484,
     "geom:longitude":8.843511,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202949905,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466293723,
     "wof:name":"Studio Kim Di Nguyen Kim Suyen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.843511,45.306484,8.843511,45.306484],
+  "bbox": [
+    8.843511,
+    45.306484,
+    8.843511,
+    45.306484
+],
   "geometry": {"coordinates":[8.843511,45.306484],"type":"Point"}
 }

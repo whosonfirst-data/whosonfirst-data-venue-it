@@ -2,13 +2,14 @@
   "id": 303108721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.414628,44.131142,10.414628,44.131142",
     "geom:latitude":44.131142,
     "geom:longitude":10.414628,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55036 Pieve Fosciana",
     "sg:city":"Pieve Fosciana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303108721,
-    "wof:lastmodified":1448998162,
+    "wof:lastmodified":1466291755,
     "wof:name":"Multicom Di Bacci & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.414628,44.131142,10.414628,44.131142],
+  "bbox": [
+    10.414628,
+    44.131142,
+    10.414628,
+    44.131142
+],
   "geometry": {"coordinates":[10.414628,44.131142],"type":"Point"}
 }

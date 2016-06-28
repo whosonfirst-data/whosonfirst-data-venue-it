@@ -2,13 +2,14 @@
   "id": 286801233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.70833,43.691525,12.70833,43.691525",
     "geom:latitude":43.691525,
     "geom:longitude":12.70833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61029 Urbino",
     "sg:city":"Urbino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286801233,
-    "wof:lastmodified":1449017609,
+    "wof:lastmodified":1466296507,
     "wof:name":"Drin Telefonia Di Tasca F. & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.70833,43.691525,12.70833,43.691525],
+  "bbox": [
+    12.70833,
+    43.691525,
+    12.70833,
+    43.691525
+],
   "geometry": {"coordinates":[12.70833,43.691525],"type":"Point"}
 }

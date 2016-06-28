@@ -2,13 +2,14 @@
   "id": 320000869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.415979,38.166416,15.415979,38.166416",
     "geom:latitude":38.166416,
     "geom:longitude":15.415979,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98043 Rometta",
     "sg:city":"Rometta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320000869,
-    "wof:lastmodified":1449011856,
+    "wof:lastmodified":1466296284,
     "wof:name":"Azienda Agricola Romano Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.415979,38.166416,15.415979,38.166416],
+  "bbox": [
+    15.415979,
+    38.166416,
+    15.415979,
+    38.166416
+],
   "geometry": {"coordinates":[15.415979,38.166416],"type":"Point"}
 }

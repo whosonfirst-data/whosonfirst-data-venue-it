@@ -2,13 +2,14 @@
   "id": 219188275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.24256,41.740696,12.24256,41.740696",
     "geom:latitude":41.740696,
     "geom:longitude":12.24256,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00121 Lido Di Ostia",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Per Lo Sport E Il Tempo Libero. Servizi Ausiliari Dei Mezzi Di Trasporto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219188275,
-    "wof:lastmodified":1449072129,
+    "wof:lastmodified":1466294887,
     "wof:name":"Marina Porto Di Roma S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.24256,41.740696,12.24256,41.740696],
+  "bbox": [
+    12.24256,
+    41.740696,
+    12.24256,
+    41.740696
+],
   "geometry": {"coordinates":[12.24256,41.740696],"type":"Point"}
 }

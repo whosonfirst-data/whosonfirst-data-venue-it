@@ -2,13 +2,14 @@
   "id": 219186841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.302857,41.02673,14.302857,41.02673",
     "geom:latitude":41.02673,
     "geom:longitude":14.302857,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81025 Marcianise",
     "sg:city":"Marcianise",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219186841,
-    "wof:lastmodified":1449073161,
+    "wof:lastmodified":1466294884,
     "wof:name":"Hawk Di Bellaiuto Gennaro & C.s.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.302857,41.02673,14.302857,41.02673],
+  "bbox": [
+    14.302857,
+    41.02673,
+    14.302857,
+    41.02673
+],
   "geometry": {"coordinates":[14.302857,41.02673],"type":"Point"}
 }

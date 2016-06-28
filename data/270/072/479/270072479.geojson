@@ -2,13 +2,14 @@
   "id": 270072479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.62781,43.223068,13.62781,43.223068",
     "geom:latitude":43.223068,
     "geom:longitude":13.62781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63014 Montegranaro",
     "sg:city":"Montegranaro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270072479,
-    "wof:lastmodified":1449009938,
+    "wof:lastmodified":1466289848,
     "wof:name":"Pupilli Franca - Calzaturificio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.62781,43.223068,13.62781,43.223068],
+  "bbox": [
+    13.62781,
+    43.223068,
+    13.62781,
+    43.223068
+],
   "geometry": {"coordinates":[13.62781,43.223068],"type":"Point"}
 }

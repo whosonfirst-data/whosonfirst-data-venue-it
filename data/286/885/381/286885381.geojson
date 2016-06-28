@@ -2,13 +2,14 @@
   "id": 286885381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.005,45.616261,9.005,45.616261",
     "geom:latitude":45.616261,
     "geom:longitude":9.005,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21040 Uboldo",
     "sg:city":"Uboldo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286885381,
-    "wof:lastmodified":1449016748,
+    "wof:lastmodified":1466296987,
     "wof:name":"Lu-ve Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.005,45.616261,9.005,45.616261],
+  "bbox": [
+    9.005,
+    45.616261,
+    9.005,
+    45.616261
+],
   "geometry": {"coordinates":[9.005,45.616261],"type":"Point"}
 }

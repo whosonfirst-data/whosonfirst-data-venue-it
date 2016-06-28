@@ -2,13 +2,14 @@
   "id": 235983589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.352417,45.4575,12.352417,45.4575",
     "geom:latitude":45.4575,
     "geom:longitude":12.352417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle Del Cristo 8 30141 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235983589,
-    "wof:lastmodified":1449008588,
+    "wof:lastmodified":1466295783,
     "wof:name":"Ongaro & Fuga Snc",
     "wof:parent_id":85905013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mirror"
     ]
 },
-  "bbox": [12.352417,45.4575,12.352417,45.4575],
+  "bbox": [
+    12.352417,
+    45.4575,
+    12.352417,
+    45.4575
+],
   "geometry": {"coordinates":[12.352417,45.4575],"type":"Point"}
 }

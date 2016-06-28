@@ -2,13 +2,14 @@
   "id": 186570143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.188498,45.463535,9.188498,45.463535",
     "geom:latitude":45.463535,
     "geom:longitude":9.188498,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Mazzini Giuseppe 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186570143,
-    "wof:lastmodified":1449051961,
+    "wof:lastmodified":1466292982,
     "wof:name":"Pikenz (s.p.a.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [9.188498,45.463535,9.188498,45.463535],
+  "bbox": [
+    9.188498,
+    45.463535,
+    9.188498,
+    45.463535
+],
   "geometry": {"coordinates":[9.188498,45.463535],"type":"Point"}
 }

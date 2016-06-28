@@ -2,13 +2,14 @@
   "id": 219377203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.233541,45.554668,9.233541,45.554668",
     "geom:latitude":45.554668,
     "geom:longitude":9.233541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pelizza Da Volpedo 46 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219377203,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466290102,
     "wof:name":"M.a.d.e.r.a. Acciai Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.233541,45.554668,9.233541,45.554668],
+  "bbox": [
+    9.233541,
+    45.554668,
+    9.233541,
+    45.554668
+],
   "geometry": {"coordinates":[9.233541,45.554668],"type":"Point"}
 }

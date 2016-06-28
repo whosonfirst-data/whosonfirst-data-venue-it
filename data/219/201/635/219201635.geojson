@@ -2,13 +2,14 @@
   "id": 219201635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.685962,45.363461,9.685962,45.363461",
     "geom:latitude":45.363461,
     "geom:longitude":9.685962,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26013 Crema",
     "sg:city":"Crema",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219201635,
-    "wof:lastmodified":1449073437,
+    "wof:lastmodified":1466295221,
     "wof:name":"Bio Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.685962,45.363461,9.685962,45.363461],
+  "bbox": [
+    9.685962,
+    45.363461,
+    9.685962,
+    45.363461
+],
   "geometry": {"coordinates":[9.685962,45.363461],"type":"Point"}
 }

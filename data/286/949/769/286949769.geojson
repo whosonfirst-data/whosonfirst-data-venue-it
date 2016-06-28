@@ -2,13 +2,14 @@
   "id": 286949769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.065006,43.896629,11.065006,43.896629",
     "geom:latitude":43.896629,
     "geom:longitude":11.065006,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286949769,
-    "wof:lastmodified":1449017024,
+    "wof:lastmodified":1466297409,
     "wof:name":"Lanificio T.o. Nesi & Figli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.065006,43.896629,11.065006,43.896629],
+  "bbox": [
+    11.065006,
+    43.896629,
+    11.065006,
+    43.896629
+],
   "geometry": {"coordinates":[11.065006,43.896629],"type":"Point"}
 }

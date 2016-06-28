@@ -2,13 +2,14 @@
   "id": 303712409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.61637,45.664677,8.61637,45.664677",
     "geom:latitude":45.664677,
     "geom:longitude":8.61637,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28040 Borgo Ticino",
     "sg:city":"Borgo Ticino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303712409,
-    "wof:lastmodified":1448999167,
+    "wof:lastmodified":1466297635,
     "wof:name":"A.s.i.e.m. Miscelatori Brevettati Di Moreno Tondini & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.61637,45.664677,8.61637,45.664677],
+  "bbox": [
+    8.61637,
+    45.664677,
+    8.61637,
+    45.664677
+],
   "geometry": {"coordinates":[8.61637,45.664677],"type":"Point"}
 }

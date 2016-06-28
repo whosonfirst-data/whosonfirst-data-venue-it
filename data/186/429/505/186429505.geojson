@@ -2,13 +2,14 @@
   "id": 186429505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.249529,45.503994,9.249529,45.503994",
     "geom:latitude":45.503994,
     "geom:longitude":9.249529,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rizzoli Angelo 2 20132 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186429505,
-    "wof:lastmodified":1449052894,
+    "wof:lastmodified":1466291634,
     "wof:name":"R.c.s. Editori S.p.a.",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.249529,45.503994,9.249529,45.503994],
+  "bbox": [
+    9.249529,
+    45.503994,
+    9.249529,
+    45.503994
+],
   "geometry": {"coordinates":[9.249529,45.503994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303101745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.047124,37.549294,15.047124,37.549294",
     "geom:latitude":37.549294,
     "geom:longitude":15.047124,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95040 Catania",
     "sg:classifiers":[],
     "sg:orig_category":"Elettrodomestici. Elettronica Professionale E Di Consumo. Arredi Ed Attrezzature Per Attivita' Commerciali Ed Artigianali. Macchine, Strumenti Ed Apparecchi Per Attivita' Industriali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303101745,
-    "wof:lastmodified":1448999409,
+    "wof:lastmodified":1466291665,
     "wof:name":"Caruso Agostino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.047124,37.549294,15.047124,37.549294],
+  "bbox": [
+    15.047124,
+    37.549294,
+    15.047124,
+    37.549294
+],
   "geometry": {"coordinates":[15.047124,37.549294],"type":"Point"}
 }

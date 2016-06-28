@@ -2,13 +2,14 @@
   "id": 269524203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.300117,41.315372,16.300117,41.315372",
     "geom:latitude":41.315372,
     "geom:longitude":16.300117,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"72, Via Trani 70051 Barletta",
     "sg:city":"Barletta",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269524203,
-    "wof:lastmodified":1449036120,
+    "wof:lastmodified":1466289411,
     "wof:name":"Calzaturificio Isa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [16.300117,41.315372,16.300117,41.315372],
+  "bbox": [
+    16.300117,
+    41.315372,
+    16.300117,
+    41.315372
+],
   "geometry": {"coordinates":[16.300117,41.315372],"type":"Point"}
 }

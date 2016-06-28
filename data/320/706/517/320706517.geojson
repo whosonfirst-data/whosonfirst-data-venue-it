@@ -2,13 +2,14 @@
   "id": 320706517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.49774,45.806225,12.49774,45.806225",
     "geom:latitude":45.806225,
     "geom:longitude":12.49774,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31046 Oderzo",
     "sg:city":"Oderzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320706517,
-    "wof:lastmodified":1449011511,
+    "wof:lastmodified":1466298012,
     "wof:name":"Sedes Group S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.49774,45.806225,12.49774,45.806225],
+  "bbox": [
+    12.49774,
+    45.806225,
+    12.49774,
+    45.806225
+],
   "geometry": {"coordinates":[12.49774,45.806225],"type":"Point"}
 }

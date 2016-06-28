@@ -2,13 +2,14 @@
   "id": 270376811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.346189,45.509651,11.346189,45.509651",
     "geom:latitude":45.509651,
     "geom:longitude":11.346189,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Commercio 19 36071 Arzignano",
     "sg:city":"Arzignano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270376811,
-    "wof:lastmodified":1449009472,
+    "wof:lastmodified":1466293591,
     "wof:name":"Cora Industria Grafica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catalogue"
     ]
 },
-  "bbox": [11.346189,45.509651,11.346189,45.509651],
+  "bbox": [
+    11.346189,
+    45.509651,
+    11.346189,
+    45.509651
+],
   "geometry": {"coordinates":[11.346189,45.509651],"type":"Point"}
 }

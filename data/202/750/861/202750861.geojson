@@ -2,13 +2,14 @@
   "id": 202750861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.814444,46.162411,11.814444,46.162411",
     "geom:latitude":46.162411,
     "geom:longitude":11.814444,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38054 Primiero",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Ausiliari Per Il Trasporto. Servizi Vari Di Interesse Pubblico",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202750861,
-    "wof:lastmodified":1449061660,
+    "wof:lastmodified":1466291593,
     "wof:name":"Bernardin Enea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.814444,46.162411,11.814444,46.162411],
+  "bbox": [
+    11.814444,
+    46.162411,
+    11.814444,
+    46.162411
+],
   "geometry": {"coordinates":[11.814444,46.162411],"type":"Point"}
 }

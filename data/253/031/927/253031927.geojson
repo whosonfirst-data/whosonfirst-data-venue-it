@@ -2,13 +2,14 @@
   "id": 253031927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.871143,41.090748,16.871143,41.090748",
     "geom:latitude":41.090748,
     "geom:longitude":16.871143,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70125 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253031927,
-    "wof:lastmodified":1449063932,
+    "wof:lastmodified":1466289248,
     "wof:name":"Cazzato Simone",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.871143,41.090748,16.871143,41.090748],
+  "bbox": [
+    16.871143,
+    41.090748,
+    16.871143,
+    41.090748
+],
   "geometry": {"coordinates":[16.871143,41.090748],"type":"Point"}
 }

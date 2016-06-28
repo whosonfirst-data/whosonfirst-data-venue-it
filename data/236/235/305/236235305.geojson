@@ -2,13 +2,14 @@
   "id": 236235305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.208578,45.520634,10.208578,45.520634",
     "geom:latitude":45.520634,
     "geom:longitude":10.208578,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25124 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236235305,
-    "wof:lastmodified":1449002099,
+    "wof:lastmodified":1466291259,
     "wof:name":"Il Giardino Uno - Asilo Nido",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.208578,45.520634,10.208578,45.520634],
+  "bbox": [
+    10.208578,
+    45.520634,
+    10.208578,
+    45.520634
+],
   "geometry": {"coordinates":[10.208578,45.520634],"type":"Point"}
 }

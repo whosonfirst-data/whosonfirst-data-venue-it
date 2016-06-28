@@ -2,13 +2,14 @@
   "id": 236754381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.381097,45.555096,11.381097,45.555096",
     "geom:latitude":45.555096,
     "geom:longitude":11.381097,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro 33 36070 Trissino",
     "sg:city":"Trissino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236754381,
-    "wof:lastmodified":1449003884,
+    "wof:lastmodified":1466296491,
     "wof:name":"Nanis Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "jewellery"
     ]
 },
-  "bbox": [11.381097,45.555096,11.381097,45.555096],
+  "bbox": [
+    11.381097,
+    45.555096,
+    11.381097,
+    45.555096
+],
   "geometry": {"coordinates":[11.381097,45.555096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202464259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.244181,40.465775,17.244181,40.465775",
     "geom:latitude":40.465775,
     "geom:longitude":17.244181,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74100 Taranto",
     "sg:city":"Taranto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202464259,
-    "wof:lastmodified":1449060806,
+    "wof:lastmodified":1466295760,
     "wof:name":"Centro Velico Alto Jonio",
     "wof:parent_id":85900341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.244181,40.465775,17.244181,40.465775],
+  "bbox": [
+    17.244181,
+    40.465775,
+    17.244181,
+    40.465775
+],
   "geometry": {"coordinates":[17.244181,40.465775],"type":"Point"}
 }

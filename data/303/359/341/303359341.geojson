@@ -2,13 +2,14 @@
   "id": 303359341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.268672,45.561119,11.268672,45.561119",
     "geom:latitude":45.561119,
     "geom:longitude":11.268672,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Arso 26 36072 Chiampo",
     "sg:city":"Chiampo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303359341,
-    "wof:lastmodified":1448998079,
+    "wof:lastmodified":1466294951,
     "wof:name":"Signorin Ilario Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "skin"
     ]
 },
-  "bbox": [11.268672,45.561119,11.268672,45.561119],
+  "bbox": [
+    11.268672,
+    45.561119,
+    11.268672,
+    45.561119
+],
   "geometry": {"coordinates":[11.268672,45.561119],"type":"Point"}
 }

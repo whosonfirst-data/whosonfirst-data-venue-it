@@ -2,13 +2,14 @@
   "id": 269837799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.792116,41.104332,16.792116,41.104332",
     "geom:latitude":41.104332,
     "geom:longitude":16.792116,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Dei Gigli 70026 Modugno",
     "sg:city":"Modugno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269837799,
-    "wof:lastmodified":1449036521,
+    "wof:lastmodified":1466293460,
     "wof:name":"Hideco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [16.792116,41.104332,16.792116,41.104332],
+  "bbox": [
+    16.792116,
+    41.104332,
+    16.792116,
+    41.104332
+],
   "geometry": {"coordinates":[16.792116,41.104332],"type":"Point"}
 }

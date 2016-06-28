@@ -2,13 +2,14 @@
   "id": 304033029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.699599,40.899506,14.699599,40.899506",
     "geom:latitude":40.899506,
     "geom:longitude":14.699599,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83024 Monteforte Irpino",
     "sg:city":"Monteforte Irpino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304033029,
-    "wof:lastmodified":1449043675,
+    "wof:lastmodified":1466292599,
     "wof:name":"Iannuzzi Carmine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.699599,40.899506,14.699599,40.899506],
+  "bbox": [
+    14.699599,
+    40.899506,
+    14.699599,
+    40.899506
+],
   "geometry": {"coordinates":[14.699599,40.899506],"type":"Point"}
 }

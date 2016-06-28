@@ -2,13 +2,14 @@
   "id": 186097233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.148463,44.722172,11.148463,44.722172",
     "geom:latitude":44.722172,
     "geom:longitude":11.148463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Matteotti, 67; Crevalcore; 40014",
     "sg:city":"Crevalcore",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186097233,
-    "wof:lastmodified":1449051424,
+    "wof:lastmodified":1466296341,
     "wof:name":"Credito Romagnolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.148463,44.722172,11.148463,44.722172],
+  "bbox": [
+    11.148463,
+    44.722172,
+    11.148463,
+    44.722172
+],
   "geometry": {"coordinates":[11.148463,44.722172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252816103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.181067,45.159046,11.181067,45.159046",
     "geom:latitude":45.159046,
     "geom:longitude":11.181067,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37052 Casaleone",
     "sg:city":"Casaleone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252816103,
-    "wof:lastmodified":1449006052,
+    "wof:lastmodified":1466290128,
     "wof:name":"Camiceria Gepri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.181067,45.159046,11.181067,45.159046],
+  "bbox": [
+    11.181067,
+    45.159046,
+    11.181067,
+    45.159046
+],
   "geometry": {"coordinates":[11.181067,45.159046],"type":"Point"}
 }

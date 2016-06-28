@@ -2,13 +2,14 @@
   "id": 336925005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.507061,41.879105,12.507061,41.879105",
     "geom:latitude":41.879105,
     "geom:longitude":12.507061,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00183 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336925005,
-    "wof:lastmodified":1448996932,
+    "wof:lastmodified":1466296967,
     "wof:name":"De Angelis Angelo",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.507061,41.879105,12.507061,41.879105],
+  "bbox": [
+    12.507061,
+    41.879105,
+    12.507061,
+    41.879105
+],
   "geometry": {"coordinates":[12.507061,41.879105],"type":"Point"}
 }

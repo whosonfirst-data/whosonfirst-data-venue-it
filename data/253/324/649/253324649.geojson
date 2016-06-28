@@ -2,13 +2,14 @@
   "id": 253324649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.210165,43.51675,12.210165,43.51675",
     "geom:latitude":43.51675,
     "geom:longitude":12.210165,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06016 S. Giustino",
     "sg:city":"Lama",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253324649,
-    "wof:lastmodified":1449064542,
+    "wof:lastmodified":1466292545,
     "wof:name":"Associazione Genitori Oggi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.210165,43.51675,12.210165,43.51675],
+  "bbox": [
+    12.210165,
+    43.51675,
+    12.210165,
+    43.51675
+],
   "geometry": {"coordinates":[12.210165,43.51675],"type":"Point"}
 }

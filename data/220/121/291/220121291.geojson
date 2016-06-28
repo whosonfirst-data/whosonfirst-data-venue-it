@@ -2,13 +2,14 @@
   "id": 220121291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.651541,45.035839,7.651541,45.035839",
     "geom:latitude":45.035839,
     "geom:longitude":7.651541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10152 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220121291,
-    "wof:lastmodified":1449074660,
+    "wof:lastmodified":1466296154,
     "wof:name":"Emondofactory.com",
     "wof:parent_id":85796879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.651541,45.035839,7.651541,45.035839],
+  "bbox": [
+    7.651541,
+    45.035839,
+    7.651541,
+    45.035839
+],
   "geometry": {"coordinates":[7.651541,45.035839],"type":"Point"}
 }

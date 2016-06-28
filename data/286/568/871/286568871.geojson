@@ -2,13 +2,14 @@
   "id": 286568871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.962882,45.794518,11.962882,45.794518",
     "geom:latitude":45.794518,
     "geom:longitude":11.962882,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Via Marosticana 31010 Maser",
     "sg:city":"Maser",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286568871,
-    "wof:lastmodified":1449015088,
+    "wof:lastmodified":1466293536,
     "wof:name":"Nuova Asolana (soc.coop.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.962882,45.794518,11.962882,45.794518],
+  "bbox": [
+    11.962882,
+    45.794518,
+    11.962882,
+    45.794518
+],
   "geometry": {"coordinates":[11.962882,45.794518],"type":"Point"}
 }

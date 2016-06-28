@@ -2,13 +2,14 @@
   "id": 253084803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.499486,41.896332,12.499486,41.896332",
     "geom:latitude":41.896332,
     "geom:longitude":12.499486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00185 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253084803,
-    "wof:lastmodified":1449063137,
+    "wof:lastmodified":1466289815,
     "wof:name":"Lombardi Giuseppina",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.499486,41.896332,12.499486,41.896332],
+  "bbox": [
+    12.499486,
+    41.896332,
+    12.499486,
+    41.896332
+],
   "geometry": {"coordinates":[12.499486,41.896332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236974889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.389169,37.495728,14.389169,37.495728",
     "geom:latitude":37.495728,
     "geom:longitude":14.389169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94019 Valguarnera",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento - Produzione E Ingrosso",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236974889,
-    "wof:lastmodified":1449004724,
+    "wof:lastmodified":1466297406,
     "wof:name":"Denaro Cristofero",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.389169,37.495728,14.389169,37.495728],
+  "bbox": [
+    14.389169,
+    37.495728,
+    14.389169,
+    37.495728
+],
   "geometry": {"coordinates":[14.389169,37.495728],"type":"Point"}
 }

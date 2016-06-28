@@ -2,13 +2,14 @@
   "id": 269836193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.937475,40.628849,16.937475,40.628849",
     "geom:latitude":40.628849,
     "geom:longitude":16.937475,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"161, Via Roma 74011 Castellaneta",
     "sg:city":"Castellaneta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269836193,
-    "wof:lastmodified":1449037704,
+    "wof:lastmodified":1466293442,
     "wof:name":"G. Costa S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [16.937475,40.628849,16.937475,40.628849],
+  "bbox": [
+    16.937475,
+    40.628849,
+    16.937475,
+    40.628849
+],
   "geometry": {"coordinates":[16.937475,40.628849],"type":"Point"}
 }

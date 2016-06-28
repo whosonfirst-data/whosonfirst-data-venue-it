@@ -2,13 +2,14 @@
   "id": 287082759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.085329,43.912445,8.085329,43.912445",
     "geom:latitude":43.912445,
     "geom:longitude":8.085329,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18013 Diano Marina",
     "sg:city":"Diano Marina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287082759,
-    "wof:lastmodified":1449000695,
+    "wof:lastmodified":1466290694,
     "wof:name":"T3 Traslochi Di Morro Casimira & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.085329,43.912445,8.085329,43.912445],
+  "bbox": [
+    8.085329,
+    43.912445,
+    8.085329,
+    43.912445
+],
   "geometry": {"coordinates":[8.085329,43.912445],"type":"Point"}
 }

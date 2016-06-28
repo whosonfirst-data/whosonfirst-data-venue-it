@@ -2,13 +2,14 @@
   "id": 319822899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.129475,45.795677,9.129475,45.795677",
     "geom:latitude":45.795677,
     "geom:longitude":9.129475,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22031 Albavilla",
     "sg:city":"Albavilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319822899,
-    "wof:lastmodified":1449024860,
+    "wof:lastmodified":1466292519,
     "wof:name":"Algo Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.129475,45.795677,9.129475,45.795677],
+  "bbox": [
+    9.129475,
+    45.795677,
+    9.129475,
+    45.795677
+],
   "geometry": {"coordinates":[9.129475,45.795677],"type":"Point"}
 }

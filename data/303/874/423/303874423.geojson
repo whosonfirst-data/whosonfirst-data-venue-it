@@ -2,13 +2,14 @@
   "id": 303874423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.593904,45.03056,7.593904,45.03056",
     "geom:latitude":45.03056,
     "geom:longitude":7.593904,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10092 Beinasco",
     "sg:city":"Beinasco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303874423,
-    "wof:lastmodified":1449000407,
+    "wof:lastmodified":1466297913,
     "wof:name":"Gilli Mauro",
     "wof:parent_id":85796819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.593904,45.03056,7.593904,45.03056],
+  "bbox": [
+    7.593904,
+    45.03056,
+    7.593904,
+    45.03056
+],
   "geometry": {"coordinates":[7.593904,45.03056],"type":"Point"}
 }

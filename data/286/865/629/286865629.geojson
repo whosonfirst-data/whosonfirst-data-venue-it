@@ -2,13 +2,14 @@
   "id": 286865629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.30803,45.544968,9.30803,45.544968",
     "geom:latitude":45.544968,
     "geom:longitude":9.30803,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20047 Brugherio",
     "sg:city":"Brugherio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286865629,
-    "wof:lastmodified":1449017407,
+    "wof:lastmodified":1466296980,
     "wof:name":"Celsius (s.a.s)",
     "wof:parent_id":85796833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.30803,45.544968,9.30803,45.544968],
+  "bbox": [
+    9.30803,
+    45.544968,
+    9.30803,
+    45.544968
+],
   "geometry": {"coordinates":[9.30803,45.544968],"type":"Point"}
 }

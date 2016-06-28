@@ -2,13 +2,14 @@
   "id": 219767135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.248111,45.525288,9.248111,45.525288",
     "geom:latitude":45.525288,
     "geom:longitude":9.248111,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64, Via Di Dio Fratelli 20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219767135,
-    "wof:lastmodified":1449071416,
+    "wof:lastmodified":1466293951,
     "wof:name":"Ragh",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "road"
     ]
 },
-  "bbox": [9.248111,45.525288,9.248111,45.525288],
+  "bbox": [
+    9.248111,
+    45.525288,
+    9.248111,
+    45.525288
+],
   "geometry": {"coordinates":[9.248111,45.525288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203005043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.124786,45.014229,9.124786,45.014229",
     "geom:latitude":45.014229,
     "geom:longitude":9.124786,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27045 Casteggio",
     "sg:city":"Casteggio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203005043,
-    "wof:lastmodified":1449026710,
+    "wof:lastmodified":1466290797,
     "wof:name":"Studio Associato Dr. Agr. P.a. Barbieri - Dr. Agr. G.l. Rognoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.124786,45.014229,9.124786,45.014229],
+  "bbox": [
+    9.124786,
+    45.014229,
+    9.124786,
+    45.014229
+],
   "geometry": {"coordinates":[9.124786,45.014229],"type":"Point"}
 }

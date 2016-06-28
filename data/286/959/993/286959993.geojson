@@ -2,13 +2,14 @@
   "id": 286959993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.126281,45.517315,10.126281,45.517315",
     "geom:latitude":45.517315,
     "geom:longitude":10.126281,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25030 Torbole Casaglia",
     "sg:city":"Torbole Casaglia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286959993,
-    "wof:lastmodified":1449017799,
+    "wof:lastmodified":1466297437,
     "wof:name":"Comofil Di Comotti Pierino E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.126281,45.517315,10.126281,45.517315],
+  "bbox": [
+    10.126281,
+    45.517315,
+    10.126281,
+    45.517315
+],
   "geometry": {"coordinates":[10.126281,45.517315],"type":"Point"}
 }

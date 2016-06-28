@@ -2,13 +2,14 @@
   "id": 287302819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.746194,43.095036,13.746194,43.095036",
     "geom:latitude":43.095036,
     "geom:longitude":13.746194,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Monti 63026 Monterubbiano",
     "sg:city":"Monterubbiano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287302819,
-    "wof:lastmodified":1449000955,
+    "wof:lastmodified":1466293572,
     "wof:name":"Faam (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [13.746194,43.095036,13.746194,43.095036],
+  "bbox": [
+    13.746194,
+    43.095036,
+    13.746194,
+    43.095036
+],
   "geometry": {"coordinates":[13.746194,43.095036],"type":"Point"}
 }

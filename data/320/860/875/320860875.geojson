@@ -2,13 +2,14 @@
   "id": 320860875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.027613,45.503895,9.027613,45.503895",
     "geom:latitude":45.503895,
     "geom:longitude":9.027613,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rho, 2/8 20010 Cornaredo",
     "sg:city":"Cornaredo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320860875,
-    "wof:lastmodified":1449012913,
+    "wof:lastmodified":1466298266,
     "wof:name":"Industria Salumi Invernizzi Srl",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sausage"
     ]
 },
-  "bbox": [9.027613,45.503895,9.027613,45.503895],
+  "bbox": [
+    9.027613,
+    45.503895,
+    9.027613,
+    45.503895
+],
   "geometry": {"coordinates":[9.027613,45.503895],"type":"Point"}
 }

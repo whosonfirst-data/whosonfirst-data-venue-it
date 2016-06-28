@@ -2,13 +2,14 @@
   "id": 236525065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.249726,43.777702,11.249726,43.777702",
     "geom:latitude":43.777702,
     "geom:longitude":11.249726,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236525065,
-    "wof:lastmodified":1449004421,
+    "wof:lastmodified":1466294319,
     "wof:name":"Erina Sas Di Sergio Calabrese",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "hotels"
     ]
 },
-  "bbox": [11.249726,43.777702,11.249726,43.777702],
+  "bbox": [
+    11.249726,
+    43.777702,
+    11.249726,
+    43.777702
+],
   "geometry": {"coordinates":[11.249726,43.777702],"type":"Point"}
 }

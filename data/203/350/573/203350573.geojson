@@ -2,13 +2,14 @@
   "id": 203350573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.192037,46.229389,13.192037,46.229389",
     "geom:latitude":46.229389,
     "geom:longitude":13.192037,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33010 Magnano In Riviera",
     "sg:city":"Magnano in Riviera",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203350573,
-    "wof:lastmodified":1449025895,
+    "wof:lastmodified":1466291585,
     "wof:name":"Green Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.192037,46.229389,13.192037,46.229389],
+  "bbox": [
+    13.192037,
+    46.229389,
+    13.192037,
+    46.229389
+],
   "geometry": {"coordinates":[13.192037,46.229389],"type":"Point"}
 }

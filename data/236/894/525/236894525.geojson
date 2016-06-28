@@ -2,13 +2,14 @@
   "id": 236894525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.363767,45.614147,12.363767,45.614147",
     "geom:latitude":45.614147,
     "geom:longitude":12.363767,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86, Via Belvedere 31032 Casale Sul Sile",
     "sg:city":"Casale sul Sile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236894525,
-    "wof:lastmodified":1449002934,
+    "wof:lastmodified":1466297167,
     "wof:name":"Vetrofond (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.363767,45.614147,12.363767,45.614147],
+  "bbox": [
+    12.363767,
+    45.614147,
+    12.363767,
+    45.614147
+],
   "geometry": {"coordinates":[12.363767,45.614147],"type":"Point"}
 }

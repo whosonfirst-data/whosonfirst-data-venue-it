@@ -2,13 +2,14 @@
   "id": 185781413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.060822,37.618313,15.060822,37.618313",
     "geom:latitude":37.618313,
     "geom:longitude":15.060822,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Ara Di Giove, 115; Pedara; 95030",
     "sg:city":"Pedara",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185781413,
-    "wof:lastmodified":1449006923,
+    "wof:lastmodified":1466289161,
     "wof:name":"Banca Popolare Di Catania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.060822,37.618313,15.060822,37.618313],
+  "bbox": [
+    15.060822,
+    37.618313,
+    15.060822,
+    37.618313
+],
   "geometry": {"coordinates":[15.060822,37.618313],"type":"Point"}
 }

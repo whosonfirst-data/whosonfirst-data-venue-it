@@ -2,13 +2,14 @@
   "id": 186541213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.139029,46.540413,10.139029,46.540413",
     "geom:latitude":46.540413,
     "geom:longitude":10.139029,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Pontiglia 23030 Livigno",
     "sg:city":"Livigno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186541213,
-    "wof:lastmodified":1449050542,
+    "wof:lastmodified":1466292704,
     "wof:name":"Baita Della Luna Sas Di Cusini Laura E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [10.139029,46.540413,10.139029,46.540413],
+  "bbox": [
+    10.139029,
+    46.540413,
+    10.139029,
+    46.540413
+],
   "geometry": {"coordinates":[10.139029,46.540413],"type":"Point"}
 }

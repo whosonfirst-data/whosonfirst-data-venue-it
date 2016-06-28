@@ -2,13 +2,14 @@
   "id": 303129583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.45398,45.514679,11.45398,45.514679",
     "geom:latitude":45.514679,
     "geom:longitude":11.45398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36050 Sovizzo",
     "sg:city":"Sovizzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303129583,
-    "wof:lastmodified":1449000097,
+    "wof:lastmodified":1466292039,
     "wof:name":"Colorcom (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.45398,45.514679,11.45398,45.514679],
+  "bbox": [
+    11.45398,
+    45.514679,
+    11.45398,
+    45.514679
+],
   "geometry": {"coordinates":[11.45398,45.514679],"type":"Point"}
 }

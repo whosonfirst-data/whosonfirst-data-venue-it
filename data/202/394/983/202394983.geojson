@@ -2,13 +2,14 @@
   "id": 202394983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.224765,45.486065,9.224765,45.486065",
     "geom:latitude":45.486065,
     "geom:longitude":9.224765,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202394983,
-    "wof:lastmodified":1449060604,
+    "wof:lastmodified":1466294367,
     "wof:name":"Ruglioni Iole Scuola Priv. Casa Dei Bambini",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.224765,45.486065,9.224765,45.486065],
+  "bbox": [
+    9.224765,
+    45.486065,
+    9.224765,
+    45.486065
+],
   "geometry": {"coordinates":[9.224765,45.486065],"type":"Point"}
 }

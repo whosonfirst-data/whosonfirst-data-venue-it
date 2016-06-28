@@ -2,13 +2,14 @@
   "id": 186526157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.253809,39.298264,16.253809,39.298264",
     "geom:latitude":39.298264,
     "geom:longitude":16.253809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Stazione Guardia Piemontese Terme 87020 Acquappesa",
     "sg:city":"Acquappesa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186526157,
-    "wof:lastmodified":1449051197,
+    "wof:lastmodified":1466292555,
     "wof:name":"Albergo Grand Hotel Delle Terme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [16.253809,39.298264,16.253809,39.298264],
+  "bbox": [
+    16.253809,
+    39.298264,
+    16.253809,
+    39.298264
+],
   "geometry": {"coordinates":[16.253809,39.298264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253136867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.216653,45.732449,9.216653,45.732449",
     "geom:latitude":45.732449,
     "geom:longitude":9.216653,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22044 Inverigo",
     "sg:city":"Inverigo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253136867,
-    "wof:lastmodified":1449065762,
+    "wof:lastmodified":1466290347,
     "wof:name":"Le Fonderie Comasche Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.216653,45.732449,9.216653,45.732449],
+  "bbox": [
+    9.216653,
+    45.732449,
+    9.216653,
+    45.732449
+],
   "geometry": {"coordinates":[9.216653,45.732449],"type":"Point"}
 }

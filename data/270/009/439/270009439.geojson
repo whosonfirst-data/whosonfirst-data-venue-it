@@ -2,13 +2,14 @@
   "id": 270009439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.485869,40.469986,9.485869,40.469986",
     "geom:latitude":40.469986,
     "geom:longitude":9.485869,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"08020 Lula",
     "sg:city":"Lula",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270009439,
-    "wof:lastmodified":1449011087,
+    "wof:lastmodified":1466289109,
     "wof:name":"F.lli Sanguinetti Snc Di Sanguinetti Giovanni & Graziano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.485869,40.469986,9.485869,40.469986],
+  "bbox": [
+    9.485869,
+    40.469986,
+    9.485869,
+    40.469986
+],
   "geometry": {"coordinates":[9.485869,40.469986],"type":"Point"}
 }

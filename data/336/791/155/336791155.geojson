@@ -2,13 +2,14 @@
   "id": 336791155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.17275,44.726105,10.17275,44.726105",
     "geom:latitude":44.726105,
     "geom:longitude":10.17275,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Battilocchi 43044 Collecchio",
     "sg:city":"Collecchio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336791155,
-    "wof:lastmodified":1448997788,
+    "wof:lastmodified":1466296014,
     "wof:name":"Tecnomec Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.17275,44.726105,10.17275,44.726105],
+  "bbox": [
+    10.17275,
+    44.726105,
+    10.17275,
+    44.726105
+],
   "geometry": {"coordinates":[10.17275,44.726105],"type":"Point"}
 }

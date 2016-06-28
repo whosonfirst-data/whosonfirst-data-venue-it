@@ -2,13 +2,14 @@
   "id": 235982983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.978766,43.720634,10.978766,43.720634",
     "geom:latitude":43.720634,
     "geom:longitude":10.978766,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tosco Romagnola 128 50053 Empoli",
     "sg:city":"Empoli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235982983,
-    "wof:lastmodified":1449008324,
+    "wof:lastmodified":1466295758,
     "wof:name":"Vetreria S.a.v.e. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bottles"
     ]
 },
-  "bbox": [10.978766,43.720634,10.978766,43.720634],
+  "bbox": [
+    10.978766,
+    43.720634,
+    10.978766,
+    43.720634
+],
   "geometry": {"coordinates":[10.978766,43.720634],"type":"Point"}
 }

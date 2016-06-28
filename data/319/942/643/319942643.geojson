@@ -2,13 +2,14 @@
   "id": 319942643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.810199,46.186314,9.810199,46.186314",
     "geom:latitude":46.186314,
     "geom:longitude":9.810199,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23012 Castione Andevenno",
     "sg:city":"Castione Andevenno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319942643,
-    "wof:lastmodified":1449024447,
+    "wof:lastmodified":1466294097,
     "wof:name":"Moronicar Di Moroni Livio & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.810199,46.186314,9.810199,46.186314],
+  "bbox": [
+    9.810199,
+    46.186314,
+    9.810199,
+    46.186314
+],
   "geometry": {"coordinates":[9.810199,46.186314],"type":"Point"}
 }

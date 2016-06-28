@@ -2,13 +2,14 @@
   "id": 303975029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.620758,43.447433,13.620758,43.447433",
     "geom:latitude":43.447433,
     "geom:longitude":13.620758,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60025 Loreto",
     "sg:city":"Loreto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303975029,
-    "wof:lastmodified":1449000225,
+    "wof:lastmodified":1466298239,
     "wof:name":"Oste M. Antonietta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.620758,43.447433,13.620758,43.447433],
+  "bbox": [
+    13.620758,
+    43.447433,
+    13.620758,
+    43.447433
+],
   "geometry": {"coordinates":[13.620758,43.447433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236091155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.903538,37.570057,14.903538,37.570057",
     "geom:latitude":37.570057,
     "geom:longitude":14.903538,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95047 Paterno'",
     "sg:classifiers":[],
     "sg:orig_category":"Dolciumi E Gelati",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236091155,
-    "wof:lastmodified":1449001922,
+    "wof:lastmodified":1466289814,
     "wof:name":"Rizzuto Barbara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.903538,37.570057,14.903538,37.570057],
+  "bbox": [
+    14.903538,
+    37.570057,
+    14.903538,
+    37.570057
+],
   "geometry": {"coordinates":[14.903538,37.570057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185810063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.981739,38.474827,15.981739,38.474827",
     "geom:latitude":38.474827,
     "geom:longitude":15.981739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Ig.marcello Ammendolea 2; S. Giorgio; 89025",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185810063,
-    "wof:lastmodified":1449007080,
+    "wof:lastmodified":1466289349,
     "wof:name":"Banca Popolare Di Polist.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.981739,38.474827,15.981739,38.474827],
+  "bbox": [
+    15.981739,
+    38.474827,
+    15.981739,
+    38.474827
+],
   "geometry": {"coordinates":[15.981739,38.474827],"type":"Point"}
 }

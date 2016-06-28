@@ -2,13 +2,14 @@
   "id": 220188839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.848013,45.815823,11.848013,45.815823",
     "geom:latitude":45.815823,
     "geom:longitude":11.848013,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Asolana 27 31017 Crespano Del Grappa",
     "sg:city":"Crespano del Grappa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220188839,
-    "wof:lastmodified":1449074435,
+    "wof:lastmodified":1466289443,
     "wof:name":"Morex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "decoration"
     ]
 },
-  "bbox": [11.848013,45.815823,11.848013,45.815823],
+  "bbox": [
+    11.848013,
+    45.815823,
+    11.848013,
+    45.815823
+],
   "geometry": {"coordinates":[11.848013,45.815823],"type":"Point"}
 }

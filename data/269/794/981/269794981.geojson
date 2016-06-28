@@ -2,13 +2,14 @@
   "id": 269794981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.572957,44.792942,7.572957,44.792942",
     "geom:latitude":44.792942,
     "geom:longitude":7.572957,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10067 Vigone",
     "sg:city":"Vigone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269794981,
-    "wof:lastmodified":1449037296,
+    "wof:lastmodified":1466292967,
     "wof:name":"Agri Farm Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.572957,44.792942,7.572957,44.792942],
+  "bbox": [
+    7.572957,
+    44.792942,
+    7.572957,
+    44.792942
+],
   "geometry": {"coordinates":[7.572957,44.792942],"type":"Point"}
 }

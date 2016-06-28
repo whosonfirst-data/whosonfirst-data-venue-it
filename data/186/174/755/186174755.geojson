@@ -2,13 +2,14 @@
   "id": 186174755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.252494,45.543831,12.252494,45.543831",
     "geom:latitude":45.543831,
     "geom:longitude":12.252494,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marocchesa 14, 31021 Mogliano Veneto, Tv",
     "sg:city":"Mogliano Veneto",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186174755,
-    "wof:lastmodified":1449050701,
+    "wof:lastmodified":1466289442,
     "wof:name":"Previnet Servizi Per La Previdenza Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.252494,45.543831,12.252494,45.543831],
+  "bbox": [
+    12.252494,
+    45.543831,
+    12.252494,
+    45.543831
+],
   "geometry": {"coordinates":[12.252494,45.543831],"type":"Point"}
 }

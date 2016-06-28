@@ -2,13 +2,14 @@
   "id": 202499817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.05133,44.035469,10.05133,44.035469",
     "geom:latitude":44.035469,
     "geom:longitude":10.05133,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"49/a, Via Cadorna Luigi 54033 Carrara",
     "sg:city":"Carrara",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202499817,
-    "wof:lastmodified":1449060594,
+    "wof:lastmodified":1466288974,
     "wof:name":"Vittorio Bogazzi & Figli S.p.a.",
     "wof:parent_id":85900387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sea"
     ]
 },
-  "bbox": [10.05133,44.035469,10.05133,44.035469],
+  "bbox": [
+    10.05133,
+    44.035469,
+    10.05133,
+    44.035469
+],
   "geometry": {"coordinates":[10.05133,44.035469],"type":"Point"}
 }

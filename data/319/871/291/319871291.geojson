@@ -2,13 +2,14 @@
   "id": 319871291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.468056,42.022804,12.468056,42.022804",
     "geom:latitude":42.022804,
     "geom:longitude":12.468056,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00188 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319871291,
-    "wof:lastmodified":1449024325,
+    "wof:lastmodified":1466293135,
     "wof:name":"Digital Copy Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.468056,42.022804,12.468056,42.022804],
+  "bbox": [
+    12.468056,
+    42.022804,
+    12.468056,
+    42.022804
+],
   "geometry": {"coordinates":[12.468056,42.022804],"type":"Point"}
 }

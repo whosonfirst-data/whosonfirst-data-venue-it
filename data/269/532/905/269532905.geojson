@@ -2,13 +2,14 @@
   "id": 269532905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.674836,43.206665,13.674836,43.206665",
     "geom:latitude":43.206665,
     "geom:longitude":13.674836,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, V. Dante 63015 Monte Urano",
     "sg:city":"Monte Urano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269532905,
-    "wof:lastmodified":1449036963,
+    "wof:lastmodified":1466289510,
     "wof:name":"Calzaturificio R.g. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.674836,43.206665,13.674836,43.206665],
+  "bbox": [
+    13.674836,
+    43.206665,
+    13.674836,
+    43.206665
+],
   "geometry": {"coordinates":[13.674836,43.206665],"type":"Point"}
 }

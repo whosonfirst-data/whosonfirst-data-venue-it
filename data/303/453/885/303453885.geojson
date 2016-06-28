@@ -2,13 +2,14 @@
   "id": 303453885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.68133,41.559067,14.68133,41.559067",
     "geom:latitude":41.559067,
     "geom:longitude":14.68133,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86100 Campobasso",
     "sg:city":"Campobasso",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303453885,
-    "wof:lastmodified":1448999956,
+    "wof:lastmodified":1466296133,
     "wof:name":"Camillo Tosto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.68133,41.559067,14.68133,41.559067],
+  "bbox": [
+    14.68133,
+    41.559067,
+    14.68133,
+    41.559067
+],
   "geometry": {"coordinates":[14.68133,41.559067],"type":"Point"}
 }

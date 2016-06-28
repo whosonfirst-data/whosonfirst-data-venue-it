@@ -2,13 +2,14 @@
   "id": 270035287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.547296,40.74791,8.547296,40.74791",
     "geom:latitude":40.74791,
     "geom:longitude":8.547296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"07010 Benetutti",
     "sg:city":"Benetutti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270035287,
-    "wof:lastmodified":1449010592,
+    "wof:lastmodified":1466289406,
     "wof:name":"F.lli Cherchi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.547296,40.74791,8.547296,40.74791],
+  "bbox": [
+    8.547296,
+    40.74791,
+    8.547296,
+    40.74791
+],
   "geometry": {"coordinates":[8.547296,40.74791],"type":"Point"}
 }

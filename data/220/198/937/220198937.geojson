@@ -2,13 +2,14 @@
   "id": 220198937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.87638,44.637081,10.87638,44.637081",
     "geom:latitude":44.637081,
     "geom:longitude":10.87638,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220198937,
-    "wof:lastmodified":1449074315,
+    "wof:lastmodified":1466289547,
     "wof:name":"P.m. Di Montecchi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.87638,44.637081,10.87638,44.637081],
+  "bbox": [
+    10.87638,
+    44.637081,
+    10.87638,
+    44.637081
+],
   "geometry": {"coordinates":[10.87638,44.637081],"type":"Point"}
 }

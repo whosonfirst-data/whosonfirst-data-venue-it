@@ -2,13 +2,14 @@
   "id": 269941223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.067925,37.52388,15.067925,37.52388",
     "geom:latitude":37.52388,
     "geom:longitude":15.067925,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95123 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269941223,
-    "wof:lastmodified":1449037578,
+    "wof:lastmodified":1466294615,
     "wof:name":"Associazione Sacro Cuore",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.067925,37.52388,15.067925,37.52388],
+  "bbox": [
+    15.067925,
+    37.52388,
+    15.067925,
+    37.52388
+],
   "geometry": {"coordinates":[15.067925,37.52388],"type":"Point"}
 }

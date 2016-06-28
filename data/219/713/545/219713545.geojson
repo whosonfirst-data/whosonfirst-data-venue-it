@@ -2,13 +2,14 @@
   "id": 219713545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.501427,41.890228,12.501427,41.890228",
     "geom:latitude":41.890228,
     "geom:longitude":12.501427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00184 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219713545,
-    "wof:lastmodified":1449073587,
+    "wof:lastmodified":1466293424,
     "wof:name":"A.c. Torlonia Ricevimenti",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.501427,41.890228,12.501427,41.890228],
+  "bbox": [
+    12.501427,
+    41.890228,
+    12.501427,
+    41.890228
+],
   "geometry": {"coordinates":[12.501427,41.890228],"type":"Point"}
 }

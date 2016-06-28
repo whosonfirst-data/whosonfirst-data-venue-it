@@ -2,13 +2,14 @@
   "id": 336884317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.046961,41.475399,14.046961,41.475399",
     "geom:latitude":41.475399,
     "geom:longitude":14.046961,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86079 Venafro",
     "sg:city":"Venafro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":336884317,
-    "wof:lastmodified":1448997822,
+    "wof:lastmodified":1466296699,
     "wof:name":"Martone Dr. Fulvio Rocco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.046961,41.475399,14.046961,41.475399],
+  "bbox": [
+    14.046961,
+    41.475399,
+    14.046961,
+    41.475399
+],
   "geometry": {"coordinates":[14.046961,41.475399],"type":"Point"}
 }

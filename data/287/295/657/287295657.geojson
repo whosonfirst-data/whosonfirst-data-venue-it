@@ -2,13 +2,14 @@
   "id": 287295657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.176301,45.543842,9.176301,45.543842",
     "geom:latitude":45.543842,
     "geom:longitude":9.176301,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Via Acquati 20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287295657,
-    "wof:lastmodified":1449001030,
+    "wof:lastmodified":1466293486,
     "wof:name":"Coel Distribution Srl",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.176301,45.543842,9.176301,45.543842],
+  "bbox": [
+    9.176301,
+    45.543842,
+    9.176301,
+    45.543842
+],
   "geometry": {"coordinates":[9.176301,45.543842],"type":"Point"}
 }

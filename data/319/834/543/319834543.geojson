@@ -2,13 +2,14 @@
   "id": 319834543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.311255,41.644257,13.311255,41.644257",
     "geom:latitude":41.644257,
     "geom:longitude":13.311255,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03100 Frosinone",
     "sg:city":"Frosinone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319834543,
-    "wof:lastmodified":1449024180,
+    "wof:lastmodified":1466292660,
     "wof:name":"Autofficina Monti Lepini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.311255,41.644257,13.311255,41.644257],
+  "bbox": [
+    13.311255,
+    41.644257,
+    13.311255,
+    41.644257
+],
   "geometry": {"coordinates":[13.311255,41.644257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169857075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.250958,45.76255,12.250958,45.76255",
     "geom:latitude":45.76255,
     "geom:longitude":12.250958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gritti 135/137; Spresiano; 31027",
     "sg:city":"Spresiano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169857075,
-    "wof:lastmodified":1449034825,
+    "wof:lastmodified":1466289277,
     "wof:name":"Banca Antoniana, Popolare Veneta Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.250958,45.76255,12.250958,45.76255],
+  "bbox": [
+    12.250958,
+    45.76255,
+    12.250958,
+    45.76255
+],
   "geometry": {"coordinates":[12.250958,45.76255],"type":"Point"}
 }

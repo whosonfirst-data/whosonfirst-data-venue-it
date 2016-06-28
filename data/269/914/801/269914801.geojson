@@ -2,13 +2,14 @@
   "id": 269914801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.229159,45.546509,9.229159,45.546509",
     "geom:latitude":45.546509,
     "geom:longitude":9.229159,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Fulvio Testi 196 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269914801,
-    "wof:lastmodified":1449037063,
+    "wof:lastmodified":1466294295,
     "wof:name":"C.t.p. Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [9.229159,45.546509,9.229159,45.546509],
+  "bbox": [
+    9.229159,
+    45.546509,
+    9.229159,
+    45.546509
+],
   "geometry": {"coordinates":[9.229159,45.546509],"type":"Point"}
 }

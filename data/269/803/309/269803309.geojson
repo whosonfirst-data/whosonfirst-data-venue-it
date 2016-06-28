@@ -2,13 +2,14 @@
   "id": 269803309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.824419,41.486675,12.824419,41.486675",
     "geom:latitude":41.486675,
     "geom:longitude":12.824419,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"04012 Cisterna Di Latina",
     "sg:city":"Cisterna di Latina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269803309,
-    "wof:lastmodified":1449039001,
+    "wof:lastmodified":1466293063,
     "wof:name":"Europa Verde Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.824419,41.486675,12.824419,41.486675],
+  "bbox": [
+    12.824419,
+    41.486675,
+    12.824419,
+    41.486675
+],
   "geometry": {"coordinates":[12.824419,41.486675],"type":"Point"}
 }

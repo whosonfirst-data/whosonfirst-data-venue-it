@@ -2,13 +2,14 @@
   "id": 287009997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.183712,45.544949,9.183712,45.544949",
     "geom:latitude":45.544949,
     "geom:longitude":9.183712,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Verdi Giuseppe 20095 Cusano Milanino",
     "sg:city":"Cusano Milanino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287009997,
-    "wof:lastmodified":1449001581,
+    "wof:lastmodified":1466289734,
     "wof:name":"I Licci Di Camarda & Lorenzon S.a.s",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [9.183712,45.544949,9.183712,45.544949],
+  "bbox": [
+    9.183712,
+    45.544949,
+    9.183712,
+    45.544949
+],
   "geometry": {"coordinates":[9.183712,45.544949],"type":"Point"}
 }

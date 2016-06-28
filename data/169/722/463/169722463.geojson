@@ -2,13 +2,14 @@
   "id": 169722463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.461798,41.850445,12.461798,41.850445",
     "geom:latitude":41.850445,
     "geom:longitude":12.461798,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sesto Fiorentino 27 00146 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169722463,
-    "wof:lastmodified":1449033847,
+    "wof:lastmodified":1466294400,
     "wof:name":"Maurizio Monti & Figli Srl",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "balance"
     ]
 },
-  "bbox": [12.461798,41.850445,12.461798,41.850445],
+  "bbox": [
+    12.461798,
+    41.850445,
+    12.461798,
+    41.850445
+],
   "geometry": {"coordinates":[12.461798,41.850445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303730421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.258241,45.393406,9.258241,45.393406",
     "geom:latitude":45.393406,
     "geom:longitude":9.258241,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303730421,
-    "wof:lastmodified":1449000166,
+    "wof:lastmodified":1466297763,
     "wof:name":"S.f.a. Italia S.p.a.",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.258241,45.393406,9.258241,45.393406],
+  "bbox": [
+    9.258241,
+    45.393406,
+    9.258241,
+    45.393406
+],
   "geometry": {"coordinates":[9.258241,45.393406],"type":"Point"}
 }

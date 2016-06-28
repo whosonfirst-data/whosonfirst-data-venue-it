@@ -2,13 +2,14 @@
   "id": 253724415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.27631,43.736275,11.27631,43.736275",
     "geom:latitude":43.736275,
     "geom:longitude":11.27631,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6/b, Via Di Vacciano 50012 Bagno A Ripoli",
     "sg:city":"Bagno a Ripoli",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253724415,
-    "wof:lastmodified":1449065746,
+    "wof:lastmodified":1466296823,
     "wof:name":"Lamb (s.r.l.)",
     "wof:parent_id":85906289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "-"
     ]
 },
-  "bbox": [11.27631,43.736275,11.27631,43.736275],
+  "bbox": [
+    11.27631,
+    43.736275,
+    11.27631,
+    43.736275
+],
   "geometry": {"coordinates":[11.27631,43.736275],"type":"Point"}
 }

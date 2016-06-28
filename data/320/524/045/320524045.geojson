@@ -2,13 +2,14 @@
   "id": 320524045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.29434,43.759705,11.29434,43.759705",
     "geom:latitude":43.759705,
     "geom:longitude":11.29434,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50126 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320524045,
-    "wof:lastmodified":1449011224,
+    "wof:lastmodified":1466297639,
     "wof:name":"O.c.e.m. Srl",
     "wof:parent_id":85904725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [11.29434,43.759705,11.29434,43.759705],
+  "bbox": [
+    11.29434,
+    43.759705,
+    11.29434,
+    43.759705
+],
   "geometry": {"coordinates":[11.29434,43.759705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236859301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.684158,45.731434,11.684158,45.731434",
     "geom:latitude":45.731434,
     "geom:longitude":11.684158,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"75, Via Molini 36055 Nove",
     "sg:city":"Nove",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236859301,
-    "wof:lastmodified":1449004116,
+    "wof:lastmodified":1466296873,
     "wof:name":"Ceramiche Fratelli Lorenzon Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [11.684158,45.731434,11.684158,45.731434],
+  "bbox": [
+    11.684158,
+    45.731434,
+    11.684158,
+    45.731434
+],
   "geometry": {"coordinates":[11.684158,45.731434],"type":"Point"}
 }

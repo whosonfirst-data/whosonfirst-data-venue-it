@@ -2,13 +2,14 @@
   "id": 219707229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.961944,44.416756,8.961944,44.416756",
     "geom:latitude":44.416756,
     "geom:longitude":8.961944,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16144 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219707229,
-    "wof:lastmodified":1449073360,
+    "wof:lastmodified":1466293364,
     "wof:name":"O'sole Mio Da Franco",
     "wof:parent_id":85796885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.961944,44.416756,8.961944,44.416756],
+  "bbox": [
+    8.961944,
+    44.416756,
+    8.961944,
+    44.416756
+],
   "geometry": {"coordinates":[8.961944,44.416756],"type":"Point"}
 }

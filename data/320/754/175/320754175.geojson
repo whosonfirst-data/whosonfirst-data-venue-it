@@ -2,13 +2,14 @@
   "id": 320754175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.258505,44.407284,8.258505,44.407284",
     "geom:latitude":44.407284,
     "geom:longitude":8.258505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17014 Cairo Montenotte",
     "sg:city":"Cairo Montenotte",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320754175,
-    "wof:lastmodified":1449013717,
+    "wof:lastmodified":1466298085,
     "wof:name":"Ligure Piemontese Laterizi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.258505,44.407284,8.258505,44.407284],
+  "bbox": [
+    8.258505,
+    44.407284,
+    8.258505,
+    44.407284
+],
   "geometry": {"coordinates":[8.258505,44.407284],"type":"Point"}
 }

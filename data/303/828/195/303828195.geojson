@@ -2,13 +2,14 @@
   "id": 303828195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.237557,45.513493,9.237557,45.513493",
     "geom:latitude":45.513493,
     "geom:longitude":9.237557,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20128 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303828195,
-    "wof:lastmodified":1448999358,
+    "wof:lastmodified":1466297982,
     "wof:name":"Weko Italia Srl",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.237557,45.513493,9.237557,45.513493],
+  "bbox": [
+    9.237557,
+    45.513493,
+    9.237557,
+    45.513493
+],
   "geometry": {"coordinates":[9.237557,45.513493],"type":"Point"}
 }

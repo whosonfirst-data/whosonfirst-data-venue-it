@@ -2,13 +2,14 @@
   "id": 236145423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.262365,45.478146,11.262365,45.478146",
     "geom:latitude":45.478146,
     "geom:longitude":11.262365,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53, Via Alpone 37030 Montecchia Di Crosara",
     "sg:city":"Montecchia di Crosara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236145423,
-    "wof:lastmodified":1449002489,
+    "wof:lastmodified":1466290330,
     "wof:name":"Cantina Sociale Di Montecchia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [11.262365,45.478146,11.262365,45.478146],
+  "bbox": [
+    11.262365,
+    45.478146,
+    11.262365,
+    45.478146
+],
   "geometry": {"coordinates":[11.262365,45.478146],"type":"Point"}
 }

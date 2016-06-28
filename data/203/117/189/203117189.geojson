@@ -2,13 +2,14 @@
   "id": 203117189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.045963,39.385963,9.045963,39.385963",
     "geom:latitude":39.385963,
     "geom:longitude":9.045963,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09100 Cagliari",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Ecologia E Smaltimento Rifiuti",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203117189,
-    "wof:lastmodified":1449026271,
+    "wof:lastmodified":1466289057,
     "wof:name":"Eco.ge.m.m.a. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.045963,39.385963,9.045963,39.385963],
+  "bbox": [
+    9.045963,
+    39.385963,
+    9.045963,
+    39.385963
+],
   "geometry": {"coordinates":[9.045963,39.385963],"type":"Point"}
 }

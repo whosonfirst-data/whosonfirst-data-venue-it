@@ -2,13 +2,14 @@
   "id": 253158725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.8485,44.56369,10.8485,44.56369",
     "geom:latitude":44.56369,
     "geom:longitude":10.8485,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vanoni ,9/11 41043 Formigine",
     "sg:city":"Formigine",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253158725,
-    "wof:lastmodified":1449064812,
+    "wof:lastmodified":1466290575,
     "wof:name":"Minilux Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furniture"
     ]
 },
-  "bbox": [10.8485,44.56369,10.8485,44.56369],
+  "bbox": [
+    10.8485,
+    44.56369,
+    10.8485,
+    44.56369
+],
   "geometry": {"coordinates":[10.8485,44.56369],"type":"Point"}
 }

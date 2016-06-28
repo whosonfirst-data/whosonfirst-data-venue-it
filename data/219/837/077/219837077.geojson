@@ -2,13 +2,14 @@
   "id": 219837077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.042833,37.54324,15.042833,37.54324",
     "geom:latitude":37.54324,
     "geom:longitude":15.042833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95045 Misterbianco",
     "sg:city":"Misterbianco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219837077,
-    "wof:lastmodified":1449070937,
+    "wof:lastmodified":1466294635,
     "wof:name":"Fratelli Scillato Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.042833,37.54324,15.042833,37.54324],
+  "bbox": [
+    15.042833,
+    37.54324,
+    15.042833,
+    37.54324
+],
   "geometry": {"coordinates":[15.042833,37.54324],"type":"Point"}
 }

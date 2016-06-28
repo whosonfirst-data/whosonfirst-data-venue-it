@@ -2,13 +2,14 @@
   "id": 253157935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.165406,45.779873,9.165406,45.779873",
     "geom:latitude":45.779873,
     "geom:longitude":9.165406,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 10 22040 Brenna",
     "sg:city":"Brenna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253157935,
-    "wof:lastmodified":1449065359,
+    "wof:lastmodified":1466290568,
     "wof:name":"Gdm 2000 Srl Guerini Designing Mobili",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furniture"
     ]
 },
-  "bbox": [9.165406,45.779873,9.165406,45.779873],
+  "bbox": [
+    9.165406,
+    45.779873,
+    9.165406,
+    45.779873
+],
   "geometry": {"coordinates":[9.165406,45.779873],"type":"Point"}
 }

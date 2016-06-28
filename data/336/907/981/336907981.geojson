@@ -2,13 +2,14 @@
   "id": 336907981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.242397,37.071621,14.242397,37.071621",
     "geom:latitude":37.071621,
     "geom:longitude":14.242397,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93012 Gela",
     "sg:city":"Gela",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336907981,
-    "wof:lastmodified":1448997935,
+    "wof:lastmodified":1466296873,
     "wof:name":"Cannizzaro Bianca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [14.242397,37.071621,14.242397,37.071621],
+  "bbox": [
+    14.242397,
+    37.071621,
+    14.242397,
+    37.071621
+],
   "geometry": {"coordinates":[14.242397,37.071621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320033607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.125436,37.55912,15.125436,37.55912",
     "geom:latitude":37.55912,
     "geom:longitude":15.125436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95020 Ficarazzi Di Catania",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine E Forniture Per Arredamento E Industria Del Legno. Macchine Utensili E Impianti",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320033607,
-    "wof:lastmodified":1449012025,
+    "wof:lastmodified":1466293810,
     "wof:name":"Fabio Guardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.125436,37.55912,15.125436,37.55912],
+  "bbox": [
+    15.125436,
+    37.55912,
+    15.125436,
+    37.55912
+],
   "geometry": {"coordinates":[15.125436,37.55912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253405227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.0168,45.525658,11.0168,45.525658",
     "geom:latitude":45.525658,
     "geom:longitude":11.0168,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Viale Lavoro 37023 Grezzana",
     "sg:city":"Grezzana",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253405227,
-    "wof:lastmodified":1449065540,
+    "wof:lastmodified":1466293464,
     "wof:name":"Tacchella F.lli S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [11.0168,45.525658,11.0168,45.525658],
+  "bbox": [
+    11.0168,
+    45.525658,
+    11.0168,
+    45.525658
+],
   "geometry": {"coordinates":[11.0168,45.525658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219256663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.755375,45.734436,11.755375,45.734436",
     "geom:latitude":45.734436,
     "geom:longitude":11.755375,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Borgo Lunardon 5 36027 Rosa'",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219256663,
-    "wof:lastmodified":1449073089,
+    "wof:lastmodified":1466296186,
     "wof:name":"Spallinificio Fmg Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pad"
     ]
 },
-  "bbox": [11.755375,45.734436,11.755375,45.734436],
+  "bbox": [
+    11.755375,
+    45.734436,
+    11.755375,
+    45.734436
+],
   "geometry": {"coordinates":[11.755375,45.734436],"type":"Point"}
 }

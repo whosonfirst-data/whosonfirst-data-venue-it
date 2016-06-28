@@ -2,13 +2,14 @@
   "id": 320603911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.347682,44.5546,11.347682,44.5546",
     "geom:latitude":44.5546,
     "geom:longitude":11.347682,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40013 Castel Maggiore",
     "sg:city":"Castel Maggiore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320603911,
-    "wof:lastmodified":1449014397,
+    "wof:lastmodified":1466297817,
     "wof:name":"Veggetti Giuseppe Surl",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.347682,44.5546,11.347682,44.5546],
+  "bbox": [
+    11.347682,
+    44.5546,
+    11.347682,
+    44.5546
+],
   "geometry": {"coordinates":[11.347682,44.5546],"type":"Point"}
 }

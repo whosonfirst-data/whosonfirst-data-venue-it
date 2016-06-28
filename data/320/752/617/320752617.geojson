@@ -2,13 +2,14 @@
   "id": 320752617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.472437,44.311005,8.472437,44.311005",
     "geom:latitude":44.311005,
     "geom:longitude":8.472437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17017 Millesimo",
     "sg:city":"Millesimo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320752617,
-    "wof:lastmodified":1449011884,
+    "wof:lastmodified":1466297981,
     "wof:name":"Lagorio S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.472437,44.311005,8.472437,44.311005],
+  "bbox": [
+    8.472437,
+    44.311005,
+    8.472437,
+    44.311005
+],
   "geometry": {"coordinates":[8.472437,44.311005],"type":"Point"}
 }

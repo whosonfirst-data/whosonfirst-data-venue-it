@@ -2,13 +2,14 @@
   "id": 270040139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.113679,39.214931,9.113679,39.214931",
     "geom:latitude":39.214931,
     "geom:longitude":9.113679,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09012 Capoterra",
     "sg:city":"Capoterra",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270040139,
-    "wof:lastmodified":1449011063,
+    "wof:lastmodified":1466289465,
     "wof:name":"Dessi Anselmo",
     "wof:parent_id":85862631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.113679,39.214931,9.113679,39.214931],
+  "bbox": [
+    9.113679,
+    39.214931,
+    9.113679,
+    39.214931
+],
   "geometry": {"coordinates":[9.113679,39.214931],"type":"Point"}
 }

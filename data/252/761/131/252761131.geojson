@@ -2,13 +2,14 @@
   "id": 252761131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.487312,41.017525,14.487312,41.017525",
     "geom:latitude":41.017525,
     "geom:longitude":14.487312,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81027 San Felice A Cancello",
     "sg:city":"San Felice a Cancello",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252761131,
-    "wof:lastmodified":1449006243,
+    "wof:lastmodified":1466289469,
     "wof:name":"Vinca Jeans Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.487312,41.017525,14.487312,41.017525],
+  "bbox": [
+    14.487312,
+    41.017525,
+    14.487312,
+    41.017525
+],
   "geometry": {"coordinates":[14.487312,41.017525],"type":"Point"}
 }

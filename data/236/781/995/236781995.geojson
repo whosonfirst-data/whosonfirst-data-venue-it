@@ -2,13 +2,14 @@
   "id": 236781995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.197967,43.793903,11.197967,43.793903",
     "geom:latitude":43.793903,
     "geom:longitude":11.197967,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, V. Della Stazione Delle Cascine 50145 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236781995,
-    "wof:lastmodified":1449002142,
+    "wof:lastmodified":1466296492,
     "wof:name":"Br Di Bucelli Renza",
     "wof:parent_id":85904661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.197967,43.793903,11.197967,43.793903],
+  "bbox": [
+    11.197967,
+    43.793903,
+    11.197967,
+    43.793903
+],
   "geometry": {"coordinates":[11.197967,43.793903],"type":"Point"}
 }

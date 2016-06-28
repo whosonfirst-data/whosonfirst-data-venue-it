@@ -2,13 +2,14 @@
   "id": 186517705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.371889,41.757809,12.371889,41.757809",
     "geom:latitude":41.757809,
     "geom:longitude":12.371889,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Via Anacreonte 00125 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186517705,
-    "wof:lastmodified":1449051915,
+    "wof:lastmodified":1466292475,
     "wof:name":"Sdl Italia Srl Uninominale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [12.371889,41.757809,12.371889,41.757809],
+  "bbox": [
+    12.371889,
+    41.757809,
+    12.371889,
+    41.757809
+],
   "geometry": {"coordinates":[12.371889,41.757809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270232789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.327876,46.15065,12.327876,46.15065",
     "geom:latitude":46.15065,
     "geom:longitude":12.327876,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32010 Pieve D'alpago",
     "sg:classifiers":[],
     "sg:orig_category":"Carpenterie Ferro",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270232789,
-    "wof:lastmodified":1449009416,
+    "wof:lastmodified":1466291813,
     "wof:name":"Metalcarpenteria Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.327876,46.15065,12.327876,46.15065],
+  "bbox": [
+    12.327876,
+    46.15065,
+    12.327876,
+    46.15065
+],
   "geometry": {"coordinates":[12.327876,46.15065],"type":"Point"}
 }

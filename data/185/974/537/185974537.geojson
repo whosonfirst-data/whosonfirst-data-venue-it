@@ -2,13 +2,14 @@
   "id": 185974537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.616273,45.576355,9.616273,45.576355",
     "geom:latitude":45.576355,
     "geom:longitude":9.616273,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavour 15/17; Verdello; 24049",
     "sg:city":"Verdello",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185974537,
-    "wof:lastmodified":1449008008,
+    "wof:lastmodified":1466290595,
     "wof:name":"Cassa Di Risparmio Delle Provincie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.616273,45.576355,9.616273,45.576355],
+  "bbox": [
+    9.616273,
+    45.576355,
+    9.616273,
+    45.576355
+],
   "geometry": {"coordinates":[9.616273,45.576355],"type":"Point"}
 }

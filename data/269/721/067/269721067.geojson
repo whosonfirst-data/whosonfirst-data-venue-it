@@ -2,13 +2,14 @@
   "id": 269721067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.321959,38.977711,16.321959,38.977711",
     "geom:latitude":38.977711,
     "geom:longitude":16.321959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88046 Lamezia Terme",
     "sg:city":"Lamezia Terme",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269721067,
-    "wof:lastmodified":1449038959,
+    "wof:lastmodified":1466291968,
     "wof:name":"Servizi Tecnici Di Critelli Giorgio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.321959,38.977711,16.321959,38.977711],
+  "bbox": [
+    16.321959,
+    38.977711,
+    16.321959,
+    38.977711
+],
   "geometry": {"coordinates":[16.321959,38.977711],"type":"Point"}
 }

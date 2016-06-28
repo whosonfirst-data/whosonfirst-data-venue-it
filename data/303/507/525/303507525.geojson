@@ -2,13 +2,14 @@
   "id": 303507525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.663629,45.096367,7.663629,45.096367",
     "geom:latitude":45.096367,
     "geom:longitude":7.663629,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10149 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303507525,
-    "wof:lastmodified":1448999377,
+    "wof:lastmodified":1466296630,
     "wof:name":"Kaber Di Berlovan & C. (s.a.s.)",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.663629,45.096367,7.663629,45.096367],
+  "bbox": [
+    7.663629,
+    45.096367,
+    7.663629,
+    45.096367
+],
   "geometry": {"coordinates":[7.663629,45.096367],"type":"Point"}
 }

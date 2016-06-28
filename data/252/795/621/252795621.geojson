@@ -2,13 +2,14 @@
   "id": 252795621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.350796,40.847511,14.350796,40.847511",
     "geom:latitude":40.847511,
     "geom:longitude":14.350796,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80040 Cercola",
     "sg:city":"Cercola",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252795621,
-    "wof:lastmodified":1449006071,
+    "wof:lastmodified":1466289858,
     "wof:name":"Italtex Di Brisciano Giuseppe S.a.s.",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.350796,40.847511,14.350796,40.847511],
+  "bbox": [
+    14.350796,
+    40.847511,
+    14.350796,
+    40.847511
+],
   "geometry": {"coordinates":[14.350796,40.847511],"type":"Point"}
 }

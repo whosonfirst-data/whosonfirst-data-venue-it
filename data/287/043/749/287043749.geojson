@@ -2,13 +2,14 @@
   "id": 287043749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.275561,45.075508,9.275561,45.075508",
     "geom:latitude":45.075508,
     "geom:longitude":9.275561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Cipriano 2 27043 Broni",
     "sg:city":"Broni",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287043749,
-    "wof:lastmodified":1449001342,
+    "wof:lastmodified":1466290134,
     "wof:name":"Martello Officina Di Fratelli Giorgi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "working"
     ]
 },
-  "bbox": [9.275561,45.075508,9.275561,45.075508],
+  "bbox": [
+    9.275561,
+    45.075508,
+    9.275561,
+    45.075508
+],
   "geometry": {"coordinates":[9.275561,45.075508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202587839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.404388,45.666119,9.404388,45.666119",
     "geom:latitude":45.666119,
     "geom:longitude":9.404388,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20050 Ronco Briantino",
     "sg:city":"Ronco Briantino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202587839,
-    "wof:lastmodified":1449060981,
+    "wof:lastmodified":1466289804,
     "wof:name":"C.i.t.i. Centro Italiano Traduttori Interpreti Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trade"
     ]
 },
-  "bbox": [9.404388,45.666119,9.404388,45.666119],
+  "bbox": [
+    9.404388,
+    45.666119,
+    9.404388,
+    45.666119
+],
   "geometry": {"coordinates":[9.404388,45.666119],"type":"Point"}
 }

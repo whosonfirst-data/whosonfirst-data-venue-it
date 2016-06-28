@@ -2,13 +2,14 @@
   "id": 286631873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.788029,45.726093,11.788029,45.726093",
     "geom:latitude":45.726093,
     "geom:longitude":11.788029,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82, V. Balbi",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286631873,
-    "wof:lastmodified":1449016096,
+    "wof:lastmodified":1466294329,
     "wof:name":"Makina Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [11.788029,45.726093,11.788029,45.726093],
+  "bbox": [
+    11.788029,
+    45.726093,
+    11.788029,
+    45.726093
+],
   "geometry": {"coordinates":[11.788029,45.726093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219835153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.193383,45.531803,9.193383,45.531803",
     "geom:latitude":45.531803,
     "geom:longitude":9.193383,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20091 Bresso",
     "sg:city":"Bresso",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219835153,
-    "wof:lastmodified":1449070899,
+    "wof:lastmodified":1466294620,
     "wof:name":"Lopez C. Damiano",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.193383,45.531803,9.193383,45.531803],
+  "bbox": [
+    9.193383,
+    45.531803,
+    9.193383,
+    45.531803
+],
   "geometry": {"coordinates":[9.193383,45.531803],"type":"Point"}
 }

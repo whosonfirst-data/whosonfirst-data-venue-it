@@ -2,13 +2,14 @@
   "id": 336817513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.16282,45.478054,9.16282,45.478054",
     "geom:latitude":45.478054,
     "geom:longitude":9.16282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41, Via Nievo Ippolito 20145 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336817513,
-    "wof:lastmodified":1448997820,
+    "wof:lastmodified":1466296405,
     "wof:name":"Clarkson Italiana (s.p.a.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.16282,45.478054,9.16282,45.478054],
+  "bbox": [
+    9.16282,
+    45.478054,
+    9.16282,
+    45.478054
+],
   "geometry": {"coordinates":[9.16282,45.478054],"type":"Point"}
 }

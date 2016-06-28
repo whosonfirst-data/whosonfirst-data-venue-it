@@ -2,13 +2,14 @@
   "id": 253753017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.4286,45.674084,9.4286,45.674084",
     "geom:latitude":45.674084,
     "geom:longitude":9.4286,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Via Sernovella 23878 Verderio Superiore",
     "sg:city":"Verderio Superiore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253753017,
-    "wof:lastmodified":1449063172,
+    "wof:lastmodified":1466297100,
     "wof:name":"G.b. Srl Allestimenti Sellerie Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [9.4286,45.674084,9.4286,45.674084],
+  "bbox": [
+    9.4286,
+    45.674084,
+    9.4286,
+    45.674084
+],
   "geometry": {"coordinates":[9.4286,45.674084],"type":"Point"}
 }

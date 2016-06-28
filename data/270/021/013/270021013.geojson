@@ -2,13 +2,14 @@
   "id": 270021013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.395723,44.465332,11.395723,44.465332",
     "geom:latitude":44.465332,
     "geom:longitude":11.395723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Altura 13-caselle 40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270021013,
-    "wof:lastmodified":1449010195,
+    "wof:lastmodified":1466289246,
     "wof:name":"Madrigali Fratelli Srl",
     "wof:parent_id":85900389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminium"
     ]
 },
-  "bbox": [11.395723,44.465332,11.395723,44.465332],
+  "bbox": [
+    11.395723,
+    44.465332,
+    11.395723,
+    44.465332
+],
   "geometry": {"coordinates":[11.395723,44.465332],"type":"Point"}
 }

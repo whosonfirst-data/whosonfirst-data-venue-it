@@ -2,13 +2,14 @@
   "id": 236526569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.375489,45.741497,7.375489,45.741497",
     "geom:latitude":45.741497,
     "geom:longitude":7.375489,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Regione Amerique - S. S. 26 37/39 11020 Quart",
     "sg:city":"Quart",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236526569,
-    "wof:lastmodified":1449002502,
+    "wof:lastmodified":1466294334,
     "wof:name":"Centrhotel Snc Di Colella D. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "restaurant"
     ]
 },
-  "bbox": [7.375489,45.741497,7.375489,45.741497],
+  "bbox": [
+    7.375489,
+    45.741497,
+    7.375489,
+    45.741497
+],
   "geometry": {"coordinates":[7.375489,45.741497],"type":"Point"}
 }

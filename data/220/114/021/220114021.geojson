@@ -2,13 +2,14 @@
   "id": 220114021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.379434,40.93502,14.379434,40.93502",
     "geom:latitude":40.93502,
     "geom:longitude":14.379434,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Via Minghetti 80011 Acerra",
     "sg:city":"Acerra",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220114021,
-    "wof:lastmodified":1449074376,
+    "wof:lastmodified":1466296343,
     "wof:name":"Liguori Veicoli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [14.379434,40.93502,14.379434,40.93502],
+  "bbox": [
+    14.379434,
+    40.93502,
+    14.379434,
+    40.93502
+],
   "geometry": {"coordinates":[14.379434,40.93502],"type":"Point"}
 }

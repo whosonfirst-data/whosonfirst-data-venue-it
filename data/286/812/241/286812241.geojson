@@ -2,13 +2,14 @@
   "id": 286812241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.21783,42.463692,14.21783,42.463692",
     "geom:latitude":42.463692,
     "geom:longitude":14.21783,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65127 Pescara",
     "sg:city":"Pescara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286812241,
-    "wof:lastmodified":1449015238,
+    "wof:lastmodified":1466296446,
     "wof:name":"Teleradio Cecamore Di D'agostino Carlo Maria & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.21783,42.463692,14.21783,42.463692],
+  "bbox": [
+    14.21783,
+    42.463692,
+    14.21783,
+    42.463692
+],
   "geometry": {"coordinates":[14.21783,42.463692],"type":"Point"}
 }

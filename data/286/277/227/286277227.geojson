@@ -2,13 +2,14 @@
   "id": 286277227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.21319,44.046589,8.21319,44.046589",
     "geom:latitude":44.046589,
     "geom:longitude":8.21319,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Del Molino 17031 Albenga",
     "sg:city":"Albenga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286277227,
-    "wof:lastmodified":1449015505,
+    "wof:lastmodified":1466289629,
     "wof:name":"Tecnotermo S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.21319,44.046589,8.21319,44.046589],
+  "bbox": [
+    8.21319,
+    44.046589,
+    8.21319,
+    44.046589
+],
   "geometry": {"coordinates":[8.21319,44.046589],"type":"Point"}
 }

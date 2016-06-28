@@ -2,13 +2,14 @@
   "id": 320805961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.517558,45.530972,11.517558,45.530972",
     "geom:latitude":45.530972,
     "geom:longitude":11.517558,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36040 Meledo",
     "sg:city":"Meledo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320805961,
-    "wof:lastmodified":1449012523,
+    "wof:lastmodified":1466298174,
     "wof:name":"Menti Metal Meccanica Di Menti G. & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.517558,45.530972,11.517558,45.530972],
+  "bbox": [
+    11.517558,
+    45.530972,
+    11.517558,
+    45.530972
+],
   "geometry": {"coordinates":[11.517558,45.530972],"type":"Point"}
 }

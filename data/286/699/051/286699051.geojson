@@ -2,13 +2,14 @@
   "id": 286699051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.019763,43.017033,12.019763,43.017033",
     "geom:latitude":43.017033,
     "geom:longitude":12.019763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Stradone 06062 Citta' Della Pieve",
     "sg:classifiers":[
         {
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":286699051,
-    "wof:lastmodified":1449015573,
+    "wof:lastmodified":1466295197,
     "wof:name":"Fagiolari Adelmo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "public"
     ]
 },
-  "bbox": [12.019763,43.017033,12.019763,43.017033],
+  "bbox": [
+    12.019763,
+    43.017033,
+    12.019763,
+    43.017033
+],
   "geometry": {"coordinates":[12.019763,43.017033],"type":"Point"}
 }

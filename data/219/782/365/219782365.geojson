@@ -2,13 +2,14 @@
   "id": 219782365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.477821,46.135387,9.477821,46.135387",
     "geom:latitude":46.135387,
     "geom:longitude":9.477821,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Industrie 4a 23014 Andalo Valtellino",
     "sg:city":"Andalo Valtellino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219782365,
-    "wof:lastmodified":1449070363,
+    "wof:lastmodified":1466294102,
     "wof:name":"Gimoka Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roasted"
     ]
 },
-  "bbox": [9.477821,46.135387,9.477821,46.135387],
+  "bbox": [
+    9.477821,
+    46.135387,
+    9.477821,
+    46.135387
+],
   "geometry": {"coordinates":[9.477821,46.135387],"type":"Point"}
 }

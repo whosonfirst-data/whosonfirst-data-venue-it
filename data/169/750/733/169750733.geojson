@@ -2,13 +2,14 @@
   "id": 169750733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.533757,41.865955,12.533757,41.865955",
     "geom:latitude":41.865955,
     "geom:longitude":12.533757,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00179 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169750733,
-    "wof:lastmodified":1449034674,
+    "wof:lastmodified":1466295302,
     "wof:name":"Expertise Di Catanzaro Igino",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.533757,41.865955,12.533757,41.865955],
+  "bbox": [
+    12.533757,
+    41.865955,
+    12.533757,
+    41.865955
+],
   "geometry": {"coordinates":[12.533757,41.865955],"type":"Point"}
 }

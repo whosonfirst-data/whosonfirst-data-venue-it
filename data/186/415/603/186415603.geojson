@@ -2,13 +2,14 @@
   "id": 186415603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.886148,44.476936,8.886148,44.476936",
     "geom:latitude":44.476936,
     "geom:longitude":8.886148,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"55, Salita Guardia 16014 Ceranesi",
     "sg:city":"Ceranesi",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186415603,
-    "wof:lastmodified":1449052289,
+    "wof:lastmodified":1466291497,
     "wof:name":"Navalimpianti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.886148,44.476936,8.886148,44.476936],
+  "bbox": [
+    8.886148,
+    44.476936,
+    8.886148,
+    44.476936
+],
   "geometry": {"coordinates":[8.886148,44.476936],"type":"Point"}
 }

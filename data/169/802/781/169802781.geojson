@@ -2,13 +2,14 @@
   "id": 169802781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.670169,45.039875,7.670169,45.039875",
     "geom:latitude":45.039875,
     "geom:longitude":7.670169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"150, Via Nizza 10126 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169802781,
-    "wof:lastmodified":1449035340,
+    "wof:lastmodified":1466296071,
     "wof:name":"Banca Cassa Di Risparmio Di Torino",
     "wof:parent_id":85796879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "institution"
     ]
 },
-  "bbox": [7.670169,45.039875,7.670169,45.039875],
+  "bbox": [
+    7.670169,
+    45.039875,
+    7.670169,
+    45.039875
+],
   "geometry": {"coordinates":[7.670169,45.039875],"type":"Point"}
 }

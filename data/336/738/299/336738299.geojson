@@ -2,13 +2,14 @@
   "id": 336738299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.030924,43.922878,11.030924,43.922878",
     "geom:latitude":43.922878,
     "geom:longitude":11.030924,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, V. Livorno 59013 Montemurlo",
     "sg:city":"Montemurlo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336738299,
-    "wof:lastmodified":1448997717,
+    "wof:lastmodified":1466295373,
     "wof:name":"Officina Meccanica Me.ca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.030924,43.922878,11.030924,43.922878],
+  "bbox": [
+    11.030924,
+    43.922878,
+    11.030924,
+    43.922878
+],
   "geometry": {"coordinates":[11.030924,43.922878],"type":"Point"}
 }

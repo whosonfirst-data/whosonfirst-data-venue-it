@@ -2,13 +2,14 @@
   "id": 186376983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.973394,44.604187,10.973394,44.604187",
     "geom:latitude":44.604187,
     "geom:longitude":10.973394,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Stradello Aggazzotti 104 41010 San Damaso",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186376983,
-    "wof:lastmodified":1449051311,
+    "wof:lastmodified":1466291156,
     "wof:name":"Neotron Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "analysis"
     ]
 },
-  "bbox": [10.973394,44.604187,10.973394,44.604187],
+  "bbox": [
+    10.973394,
+    44.604187,
+    10.973394,
+    44.604187
+],
   "geometry": {"coordinates":[10.973394,44.604187],"type":"Point"}
 }

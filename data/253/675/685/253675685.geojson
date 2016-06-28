@@ -2,13 +2,14 @@
   "id": 253675685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.811715,43.730755,11.811715,43.730755",
     "geom:latitude":43.730755,
     "geom:longitude":11.811715,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"52011 Bibbiena",
     "sg:city":"Bibbiena",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253675685,
-    "wof:lastmodified":1449064322,
+    "wof:lastmodified":1466296535,
     "wof:name":"Bendoni Inox Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.811715,43.730755,11.811715,43.730755],
+  "bbox": [
+    11.811715,
+    43.730755,
+    11.811715,
+    43.730755
+],
   "geometry": {"coordinates":[11.811715,43.730755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236719709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.478588,41.897522,12.478588,41.897522",
     "geom:latitude":41.897522,
     "geom:longitude":12.478588,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40/41, V. Pi\u00e8 Di Marmo 00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236719709,
-    "wof:lastmodified":1449001996,
+    "wof:lastmodified":1466296192,
     "wof:name":"Poggi G. Ditta Di Poggi Giampiero & Fabio Snc",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [12.478588,41.897522,12.478588,41.897522],
+  "bbox": [
+    12.478588,
+    41.897522,
+    12.478588,
+    41.897522
+],
   "geometry": {"coordinates":[12.478588,41.897522],"type":"Point"}
 }

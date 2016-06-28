@@ -2,13 +2,14 @@
   "id": 186021709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.34294,44.38549,11.34294,44.38549",
     "geom:latitude":44.38549,
     "geom:longitude":11.34294,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Dei Martiri 2; Pianoro",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186021709,
-    "wof:lastmodified":1449052061,
+    "wof:lastmodified":1466294182,
     "wof:name":"Cassa Di Risparmio In Bologna Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.34294,44.38549,11.34294,44.38549],
+  "bbox": [
+    11.34294,
+    44.38549,
+    11.34294,
+    44.38549
+],
   "geometry": {"coordinates":[11.34294,44.38549],"type":"Point"}
 }

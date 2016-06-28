@@ -2,13 +2,14 @@
   "id": 236875431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.595024,43.643536,10.595024,43.643536",
     "geom:latitude":43.643536,
     "geom:longitude":10.595024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Toscana 56025 Pontedera",
     "sg:city":"Pontedera",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236875431,
-    "wof:lastmodified":1449004224,
+    "wof:lastmodified":1466296950,
     "wof:name":"Az Imballaggi (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.595024,43.643536,10.595024,43.643536],
+  "bbox": [
+    10.595024,
+    43.643536,
+    10.595024,
+    43.643536
+],
   "geometry": {"coordinates":[10.595024,43.643536],"type":"Point"}
 }

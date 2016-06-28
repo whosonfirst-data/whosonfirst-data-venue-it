@@ -2,13 +2,14 @@
   "id": 236878895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.227089,45.662819,9.227089,45.662819",
     "geom:latitude":45.662819,
     "geom:longitude":9.227089,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43, Via Della Valle 20048 Carate Brianza",
     "sg:city":"Carate Brianza",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236878895,
-    "wof:lastmodified":1449003366,
+    "wof:lastmodified":1466297104,
     "wof:name":"Ennerre Di Nobili Davide E Ronchi Dorina Snc",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.227089,45.662819,9.227089,45.662819],
+  "bbox": [
+    9.227089,
+    45.662819,
+    9.227089,
+    45.662819
+],
   "geometry": {"coordinates":[9.227089,45.662819],"type":"Point"}
 }

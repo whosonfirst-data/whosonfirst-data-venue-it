@@ -2,13 +2,14 @@
   "id": 236458957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.308685,45.728642,7.308685,45.728642",
     "geom:latitude":45.728642,
     "geom:longitude":7.308685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Garin 1 11100 Aosta",
     "sg:city":"Aosta",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236458957,
-    "wof:lastmodified":1449004104,
+    "wof:lastmodified":1466293614,
     "wof:name":"Framavetri E Serramenti Pvc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heat-insulating"
     ]
 },
-  "bbox": [7.308685,45.728642,7.308685,45.728642],
+  "bbox": [
+    7.308685,
+    45.728642,
+    7.308685,
+    45.728642
+],
   "geometry": {"coordinates":[7.308685,45.728642],"type":"Point"}
 }

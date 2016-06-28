@@ -2,13 +2,14 @@
   "id": 202440661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.20345,45.449886,9.20345,45.449886",
     "geom:latitude":45.449886,
     "geom:longitude":9.20345,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20135 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202440661,
-    "wof:lastmodified":1449061003,
+    "wof:lastmodified":1466295565,
     "wof:name":"Istituto U. Foscolo",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.20345,45.449886,9.20345,45.449886],
+  "bbox": [
+    9.20345,
+    45.449886,
+    9.20345,
+    45.449886
+],
   "geometry": {"coordinates":[9.20345,45.449886],"type":"Point"}
 }

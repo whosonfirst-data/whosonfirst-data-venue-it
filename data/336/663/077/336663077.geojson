@@ -2,13 +2,14 @@
   "id": 336663077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.207454,44.542248,11.207454,44.542248",
     "geom:latitude":44.542248,
     "geom:longitude":11.207454,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Di Vittorio Giuseppe 40011 Anzola Dell'emilia",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336663077,
-    "wof:lastmodified":1448997723,
+    "wof:lastmodified":1466294483,
     "wof:name":"F.lli Scandellari (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.207454,44.542248,11.207454,44.542248],
+  "bbox": [
+    11.207454,
+    44.542248,
+    11.207454,
+    44.542248
+],
   "geometry": {"coordinates":[11.207454,44.542248],"type":"Point"}
 }

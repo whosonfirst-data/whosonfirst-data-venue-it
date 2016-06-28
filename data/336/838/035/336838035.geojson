@@ -2,13 +2,14 @@
   "id": 336838035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.349013,44.55545,11.349013,44.55545",
     "geom:latitude":44.55545,
     "geom:longitude":11.349013,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39, Via Costa Andrea 40013 Castel Maggiore",
     "sg:city":"Castel Maggiore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336838035,
-    "wof:lastmodified":1448997060,
+    "wof:lastmodified":1466296385,
     "wof:name":"Poli Dante Di Poli Dante & C. (s.n.c.)",
     "wof:parent_id":85904569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.349013,44.55545,11.349013,44.55545],
+  "bbox": [
+    11.349013,
+    44.55545,
+    11.349013,
+    44.55545
+],
   "geometry": {"coordinates":[11.349013,44.55545],"type":"Point"}
 }

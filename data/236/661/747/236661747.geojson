@@ -2,13 +2,14 @@
   "id": 236661747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.835151,45.772823,12.835151,45.772823",
     "geom:latitude":45.772823,
     "geom:longitude":12.835151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43, Via Matteotti Giacomo 30026 Portogruaro",
     "sg:city":"Portogruaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236661747,
-    "wof:lastmodified":1449004813,
+    "wof:lastmodified":1466295583,
     "wof:name":"Societa' Gestione Servizi E Appalti Portogruaro S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.835151,45.772823,12.835151,45.772823],
+  "bbox": [
+    12.835151,
+    45.772823,
+    12.835151,
+    45.772823
+],
   "geometry": {"coordinates":[12.835151,45.772823],"type":"Point"}
 }

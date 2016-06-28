@@ -2,13 +2,14 @@
   "id": 286424261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.157743,45.548038,10.157743,45.548038",
     "geom:latitude":45.548038,
     "geom:longitude":10.157743,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25132 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286424261,
-    "wof:lastmodified":1449017906,
+    "wof:lastmodified":1466291801,
     "wof:name":"Zanini & Maselli Srl Clima Mio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.157743,45.548038,10.157743,45.548038],
+  "bbox": [
+    10.157743,
+    45.548038,
+    10.157743,
+    45.548038
+],
   "geometry": {"coordinates":[10.157743,45.548038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236914829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.933603,45.690025,8.933603,45.690025",
     "geom:latitude":45.690025,
     "geom:longitude":8.933603,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Alessandro Volta 22070 Locate Varesino",
     "sg:city":"Locate Varesino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236914829,
-    "wof:lastmodified":1449002809,
+    "wof:lastmodified":1466297214,
     "wof:name":"Faes Impianti (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [8.933603,45.690025,8.933603,45.690025],
+  "bbox": [
+    8.933603,
+    45.690025,
+    8.933603,
+    45.690025
+],
   "geometry": {"coordinates":[8.933603,45.690025],"type":"Point"}
 }

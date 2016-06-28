@@ -2,13 +2,14 @@
   "id": 320723131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.471615,44.337536,7.471615,44.337536",
     "geom:latitude":44.337536,
     "geom:longitude":7.471615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 Bernezzo",
     "sg:city":"Bernezzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320723131,
-    "wof:lastmodified":1449013441,
+    "wof:lastmodified":1466298039,
     "wof:name":"Calce Dolomia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.471615,44.337536,7.471615,44.337536],
+  "bbox": [
+    7.471615,
+    44.337536,
+    7.471615,
+    44.337536
+],
   "geometry": {"coordinates":[7.471615,44.337536],"type":"Point"}
 }

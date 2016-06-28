@@ -2,13 +2,14 @@
   "id": 185782945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.314668,45.427753,9.314668,45.427753",
     "geom:latitude":45.427753,
     "geom:longitude":9.314668,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Liberazione N.55/b; Peschiera Borromeo",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185782945,
-    "wof:lastmodified":1449006584,
+    "wof:lastmodified":1466289171,
     "wof:name":"Banca Popolare Di Crema",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.314668,45.427753,9.314668,45.427753],
+  "bbox": [
+    9.314668,
+    45.427753,
+    9.314668,
+    45.427753
+],
   "geometry": {"coordinates":[9.314668,45.427753],"type":"Point"}
 }

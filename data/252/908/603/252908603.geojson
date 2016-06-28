@@ -2,13 +2,14 @@
   "id": 252908603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.178606,45.374264,9.178606,45.374264",
     "geom:latitude":45.374264,
     "geom:longitude":9.178606,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fratelli Rosselli 44 20090 Pieve Emanuele",
     "sg:city":"Pieve Emanuele",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252908603,
-    "wof:lastmodified":1449006035,
+    "wof:lastmodified":1466291125,
     "wof:name":"Pai Cristal Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paste"
     ]
 },
-  "bbox": [9.178606,45.374264,9.178606,45.374264],
+  "bbox": [
+    9.178606,
+    45.374264,
+    9.178606,
+    45.374264
+],
   "geometry": {"coordinates":[9.178606,45.374264],"type":"Point"}
 }

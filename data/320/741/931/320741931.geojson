@@ -2,13 +2,14 @@
   "id": 320741931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.890152,45.428833,11.890152,45.428833",
     "geom:latitude":45.428833,
     "geom:longitude":11.890152,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Limena",
     "sg:city":"Limena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320741931,
-    "wof:lastmodified":1449011451,
+    "wof:lastmodified":1466298070,
     "wof:name":"Fornaci Calce Grigolin S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.890152,45.428833,11.890152,45.428833],
+  "bbox": [
+    11.890152,
+    45.428833,
+    11.890152,
+    45.428833
+],
   "geometry": {"coordinates":[11.890152,45.428833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236041993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.494887,41.889893,12.494887,41.889893",
     "geom:latitude":41.889893,
     "geom:longitude":12.494887,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza San Giovanni In Laterano 26 00184 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236041993,
-    "wof:lastmodified":1449002714,
+    "wof:lastmodified":1466289319,
     "wof:name":"B & C Srl",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "heart-lung"
     ]
 },
-  "bbox": [12.494887,41.889893,12.494887,41.889893],
+  "bbox": [
+    12.494887,
+    41.889893,
+    12.494887,
+    41.889893
+],
   "geometry": {"coordinates":[12.494887,41.889893],"type":"Point"}
 }

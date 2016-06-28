@@ -2,13 +2,14 @@
   "id": 253620255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.739807,45.530212,8.739807,45.530212",
     "geom:latitude":45.530212,
     "geom:longitude":8.739807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Arluno",
     "sg:city":"Arluno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253620255,
-    "wof:lastmodified":1449065533,
+    "wof:lastmodified":1466296189,
     "wof:name":"Flow Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.739807,45.530212,8.739807,45.530212],
+  "bbox": [
+    8.739807,
+    45.530212,
+    8.739807,
+    45.530212
+],
   "geometry": {"coordinates":[8.739807,45.530212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185718719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.136725,46.438057,11.136725,46.438057",
     "geom:latitude":46.438057,
     "geom:longitude":11.136725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via C. Battisti 20; Fondo; 38013",
     "sg:city":"Fondo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185718719,
-    "wof:lastmodified":1449006965,
+    "wof:lastmodified":1466295972,
     "wof:name":"Banca Di Trento E Bolzano Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.136725,46.438057,11.136725,46.438057],
+  "bbox": [
+    11.136725,
+    46.438057,
+    11.136725,
+    46.438057
+],
   "geometry": {"coordinates":[11.136725,46.438057],"type":"Point"}
 }

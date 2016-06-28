@@ -2,13 +2,14 @@
   "id": 235952293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.214094,42.464825,14.214094,42.464825",
     "geom:latitude":42.464825,
     "geom:longitude":14.214094,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctr. Campotino 35/c 65010 Collecorvino",
     "sg:city":"Collecorvino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235952293,
-    "wof:lastmodified":1449008495,
+    "wof:lastmodified":1466295057,
     "wof:name":"Tenuta Del Priore Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "italian"
     ]
 },
-  "bbox": [14.214094,42.464825,14.214094,42.464825],
+  "bbox": [
+    14.214094,
+    42.464825,
+    14.214094,
+    42.464825
+],
   "geometry": {"coordinates":[14.214094,42.464825],"type":"Point"}
 }

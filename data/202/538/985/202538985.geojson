@@ -2,13 +2,14 @@
   "id": 202538985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.523823,40.689705,14.523823,40.689705",
     "geom:latitude":40.689705,
     "geom:longitude":14.523823,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80054 Gragnano",
     "sg:city":"Gragnano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202538985,
-    "wof:lastmodified":1449060421,
+    "wof:lastmodified":1466289331,
     "wof:name":"Infissi 2000 Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.523823,40.689705,14.523823,40.689705],
+  "bbox": [
+    14.523823,
+    40.689705,
+    14.523823,
+    40.689705
+],
   "geometry": {"coordinates":[14.523823,40.689705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320791037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.576802,46.581104,12.576802,46.581104",
     "geom:latitude":46.581104,
     "geom:longitude":12.576802,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32040 Costalta",
     "sg:city":"Costalta",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320791037,
-    "wof:lastmodified":1449014100,
+    "wof:lastmodified":1466298024,
     "wof:name":"De Bernardin Egidio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.576802,46.581104,12.576802,46.581104],
+  "bbox": [
+    12.576802,
+    46.581104,
+    12.576802,
+    46.581104
+],
   "geometry": {"coordinates":[12.576802,46.581104],"type":"Point"}
 }

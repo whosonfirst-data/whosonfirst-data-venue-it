@@ -2,13 +2,14 @@
   "id": 336785131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.731864,44.31102,10.731864,44.31102",
     "geom:latitude":44.31102,
     "geom:longitude":10.731864,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Indipendenza 41023 Lama Mocogno",
     "sg:city":"Lama",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336785131,
-    "wof:lastmodified":1448997848,
+    "wof:lastmodified":1466295945,
     "wof:name":"T.m.p. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.731864,44.31102,10.731864,44.31102],
+  "bbox": [
+    10.731864,
+    44.31102,
+    10.731864,
+    44.31102
+],
   "geometry": {"coordinates":[10.731864,44.31102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319834403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.515851,41.950989,12.515851,41.950989",
     "geom:latitude":41.950989,
     "geom:longitude":12.515851,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00139 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319834403,
-    "wof:lastmodified":1449024180,
+    "wof:lastmodified":1466292656,
     "wof:name":"Montaione Srl",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.515851,41.950989,12.515851,41.950989],
+  "bbox": [
+    12.515851,
+    41.950989,
+    12.515851,
+    41.950989
+],
   "geometry": {"coordinates":[12.515851,41.950989],"type":"Point"}
 }

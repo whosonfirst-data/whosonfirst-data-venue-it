@@ -2,13 +2,14 @@
   "id": 320724157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.378839,40.690639,17.378839,40.690639",
     "geom:latitude":40.690639,
     "geom:longitude":17.378839,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74015 Martina Franca",
     "sg:city":"Martina Franca",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320724157,
-    "wof:lastmodified":1449014891,
+    "wof:lastmodified":1466298041,
     "wof:name":"Calcesud Di Petronella Cosimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.378839,40.690639,17.378839,40.690639],
+  "bbox": [
+    17.378839,
+    40.690639,
+    17.378839,
+    40.690639
+],
   "geometry": {"coordinates":[17.378839,40.690639],"type":"Point"}
 }

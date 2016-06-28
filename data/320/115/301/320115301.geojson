@@ -2,13 +2,14 @@
   "id": 320115301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.652626,45.150764,7.652626,45.150764",
     "geom:latitude":45.150764,
     "geom:longitude":7.652626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10071 Borgaro Torinese",
     "sg:city":"Borgaro Torinese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320115301,
-    "wof:lastmodified":1449011229,
+    "wof:lastmodified":1466294800,
     "wof:name":"Mescer Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.652626,45.150764,7.652626,45.150764],
+  "bbox": [
+    7.652626,
+    45.150764,
+    7.652626,
+    45.150764
+],
   "geometry": {"coordinates":[7.652626,45.150764],"type":"Point"}
 }

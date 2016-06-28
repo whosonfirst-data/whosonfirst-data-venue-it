@@ -2,13 +2,14 @@
   "id": 336962793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.064613,41.068802,15.064613,41.068802",
     "geom:latitude":41.068802,
     "geom:longitude":15.064613,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83035 Grottaminarda",
     "sg:city":"Grottaminarda",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336962793,
-    "wof:lastmodified":1448997575,
+    "wof:lastmodified":1466297353,
     "wof:name":"Mascolini Nadia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [15.064613,41.068802,15.064613,41.068802],
+  "bbox": [
+    15.064613,
+    41.068802,
+    15.064613,
+    41.068802
+],
   "geometry": {"coordinates":[15.064613,41.068802],"type":"Point"}
 }

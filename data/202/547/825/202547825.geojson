@@ -2,13 +2,14 @@
   "id": 202547825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.07172,45.882092,11.07172,45.882092",
     "geom:latitude":45.882092,
     "geom:longitude":11.07172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38068 Trambileno",
     "sg:city":"Trambileno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202547825,
-    "wof:lastmodified":1449060371,
+    "wof:lastmodified":1466289410,
     "wof:name":"Piccolroaz Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.07172,45.882092,11.07172,45.882092],
+  "bbox": [
+    11.07172,
+    45.882092,
+    11.07172,
+    45.882092
+],
   "geometry": {"coordinates":[11.07172,45.882092],"type":"Point"}
 }

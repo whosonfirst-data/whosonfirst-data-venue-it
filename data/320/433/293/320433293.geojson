@@ -2,13 +2,14 @@
   "id": 320433293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.198018,44.272858,11.198018,44.272858",
     "geom:latitude":44.272858,
     "geom:longitude":11.198018,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40036 Monzuno",
     "sg:city":"Monzuno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320433293,
-    "wof:lastmodified":1449011676,
+    "wof:lastmodified":1466297478,
     "wof:name":"Ferramenta Ruggeri Marino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.198018,44.272858,11.198018,44.272858],
+  "bbox": [
+    11.198018,
+    44.272858,
+    11.198018,
+    44.272858
+],
   "geometry": {"coordinates":[11.198018,44.272858],"type":"Point"}
 }

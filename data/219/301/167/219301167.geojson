@@ -2,13 +2,14 @@
   "id": 219301167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.5504,45.632317,11.5504,45.632317",
     "geom:latitude":45.632317,
     "geom:longitude":11.5504,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Galilei 43/45 36066 Sandrigo",
     "sg:city":"Sandrigo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219301167,
-    "wof:lastmodified":1449071298,
+    "wof:lastmodified":1466289313,
     "wof:name":"Isotex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "special"
     ]
 },
-  "bbox": [11.5504,45.632317,11.5504,45.632317],
+  "bbox": [
+    11.5504,
+    45.632317,
+    11.5504,
+    45.632317
+],
   "geometry": {"coordinates":[11.5504,45.632317],"type":"Point"}
 }

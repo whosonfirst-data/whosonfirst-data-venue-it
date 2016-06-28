@@ -2,13 +2,14 @@
   "id": 320584445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.893596,45.506966,10.893596,45.506966",
     "geom:latitude":45.506966,
     "geom:longitude":10.893596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37029 San Pietro In Cariano",
     "sg:city":"San Pietro in Cariano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320584445,
-    "wof:lastmodified":1449011650,
+    "wof:lastmodified":1466297673,
     "wof:name":"Savoia F.lli Sas Di Savoia Giuseppe & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.893596,45.506966,10.893596,45.506966],
+  "bbox": [
+    10.893596,
+    45.506966,
+    10.893596,
+    45.506966
+],
   "geometry": {"coordinates":[10.893596,45.506966],"type":"Point"}
 }

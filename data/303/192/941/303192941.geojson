@@ -2,13 +2,14 @@
   "id": 303192941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.370556,45.989044,13.370556,45.989044",
     "geom:latitude":45.989044,
     "geom:longitude":13.370556,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33044 Manzano",
     "sg:city":"Manzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303192941,
-    "wof:lastmodified":1448999849,
+    "wof:lastmodified":1466292864,
     "wof:name":"S.m.a. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.370556,45.989044,13.370556,45.989044],
+  "bbox": [
+    13.370556,
+    45.989044,
+    13.370556,
+    45.989044
+],
   "geometry": {"coordinates":[13.370556,45.989044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336597125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.43843,37.800705,12.43843,37.800705",
     "geom:latitude":37.800705,
     "geom:longitude":12.43843,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, V. Sardegna 91025 Marsala",
     "sg:city":"Marsala",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336597125,
-    "wof:lastmodified":1448997986,
+    "wof:lastmodified":1466293698,
     "wof:name":"Albergo Casa Vacanze Laguna Blu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [12.43843,37.800705,12.43843,37.800705],
+  "bbox": [
+    12.43843,
+    37.800705,
+    12.43843,
+    37.800705
+],
   "geometry": {"coordinates":[12.43843,37.800705],"type":"Point"}
 }

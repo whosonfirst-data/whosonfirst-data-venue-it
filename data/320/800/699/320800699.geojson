@@ -2,13 +2,14 @@
   "id": 320800699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.841398,40.635921,14.841398,40.635921",
     "geom:latitude":40.635921,
     "geom:longitude":14.841398,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84131 Salerno",
     "sg:city":"Salerno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320800699,
-    "wof:lastmodified":1449011542,
+    "wof:lastmodified":1466298069,
     "wof:name":"Ilvaform S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.841398,40.635921,14.841398,40.635921],
+  "bbox": [
+    14.841398,
+    40.635921,
+    14.841398,
+    40.635921
+],
   "geometry": {"coordinates":[14.841398,40.635921],"type":"Point"}
 }

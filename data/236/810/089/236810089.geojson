@@ -2,13 +2,14 @@
   "id": 236810089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.487027,41.86829,12.487027,41.86829",
     "geom:latitude":41.86829,
     "geom:longitude":12.487027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236810089,
-    "wof:lastmodified":1449002434,
+    "wof:lastmodified":1466296915,
     "wof:name":"G.m. Di Galeno & C. Snc",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.487027,41.86829,12.487027,41.86829],
+  "bbox": [
+    12.487027,
+    41.86829,
+    12.487027,
+    41.86829
+],
   "geometry": {"coordinates":[12.487027,41.86829],"type":"Point"}
 }

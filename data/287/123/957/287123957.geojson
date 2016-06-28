@@ -2,13 +2,14 @@
   "id": 287123957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.440869,38.077572,13.440869,38.077572",
     "geom:latitude":38.077572,
     "geom:longitude":13.440869,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90123 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287123957,
-    "wof:lastmodified":1449000913,
+    "wof:lastmodified":1466291248,
     "wof:name":"Trenitalia Spa - Direzione Zona Passeggeri Sicilia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.440869,38.077572,13.440869,38.077572],
+  "bbox": [
+    13.440869,
+    38.077572,
+    13.440869,
+    38.077572
+],
   "geometry": {"coordinates":[13.440869,38.077572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185766045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.927325,44.645744,10.927325,44.645744",
     "geom:latitude":44.645744,
     "geom:longitude":10.927325,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Carlo, 8/20; Modena; 41100",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185766045,
-    "wof:lastmodified":1449006579,
+    "wof:lastmodified":1466289058,
     "wof:name":"Banca Popolare Dell'emilia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.927325,44.645744,10.927325,44.645744],
+  "bbox": [
+    10.927325,
+    44.645744,
+    10.927325,
+    44.645744
+],
   "geometry": {"coordinates":[10.927325,44.645744],"type":"Point"}
 }

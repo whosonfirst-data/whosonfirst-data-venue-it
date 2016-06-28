@@ -2,13 +2,14 @@
   "id": 303369437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.909445,41.543056,12.909445,41.543056",
     "geom:latitude":41.543056,
     "geom:longitude":12.909445,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4/6, Via Lago Ascianghi 04100 Latina",
     "sg:city":"Latina",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303369437,
-    "wof:lastmodified":1449000441,
+    "wof:lastmodified":1466295068,
     "wof:name":"Galanti Imo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [12.909445,41.543056,12.909445,41.543056],
+  "bbox": [
+    12.909445,
+    41.543056,
+    12.909445,
+    41.543056
+],
   "geometry": {"coordinates":[12.909445,41.543056],"type":"Point"}
 }

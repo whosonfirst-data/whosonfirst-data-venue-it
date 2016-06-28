@@ -2,13 +2,14 @@
   "id": 203074691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.765733,45.71402,11.765733,45.71402",
     "geom:latitude":45.71402,
     "geom:longitude":11.765733,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36027 Ros\u00e0",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Arredamento E Industria Del Legno. Arte Ed Artigianato Artistico",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203074691,
-    "wof:lastmodified":1449025963,
+    "wof:lastmodified":1466295779,
     "wof:name":"Rinaldo Antichit\u00c1 Restauri Di Rinaldo Luigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.765733,45.71402,11.765733,45.71402],
+  "bbox": [
+    11.765733,
+    45.71402,
+    11.765733,
+    45.71402
+],
   "geometry": {"coordinates":[11.765733,45.71402],"type":"Point"}
 }

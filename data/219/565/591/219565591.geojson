@@ -2,13 +2,14 @@
   "id": 219565591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.340935,40.700642,17.340935,40.700642",
     "geom:latitude":40.700642,
     "geom:longitude":17.340935,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74015 Martina Franca",
     "sg:city":"Martina Franca",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219565591,
-    "wof:lastmodified":1449073606,
+    "wof:lastmodified":1466291972,
     "wof:name":"Puglia Alberghiera Srl - Gestione Park Hotel San Michele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "restaurants"
     ]
 },
-  "bbox": [17.340935,40.700642,17.340935,40.700642],
+  "bbox": [
+    17.340935,
+    40.700642,
+    17.340935,
+    40.700642
+],
   "geometry": {"coordinates":[17.340935,40.700642],"type":"Point"}
 }

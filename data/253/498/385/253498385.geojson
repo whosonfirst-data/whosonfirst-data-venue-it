@@ -2,13 +2,14 @@
   "id": 253498385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.662066,45.023457,7.662066,45.023457",
     "geom:latitude":45.023457,
     "geom:longitude":7.662066,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10127 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253498385,
-    "wof:lastmodified":1449065046,
+    "wof:lastmodified":1466294616,
     "wof:name":"Lombardo Snc Di Lombardo Mario & C.",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.662066,45.023457,7.662066,45.023457],
+  "bbox": [
+    7.662066,
+    45.023457,
+    7.662066,
+    45.023457
+],
   "geometry": {"coordinates":[7.662066,45.023457],"type":"Point"}
 }

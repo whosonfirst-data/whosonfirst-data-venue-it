@@ -2,13 +2,14 @@
   "id": 185613233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.102497,43.876472,11.102497,43.876472",
     "geom:latitude":43.876472,
     "geom:longitude":11.102497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Francesco Ferrucci 41; Prato; 50047",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185613233,
-    "wof:lastmodified":1449007366,
+    "wof:lastmodified":1466292361,
     "wof:name":"Banca D'america E D'italia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.102497,43.876472,11.102497,43.876472],
+  "bbox": [
+    11.102497,
+    43.876472,
+    11.102497,
+    43.876472
+],
   "geometry": {"coordinates":[11.102497,43.876472],"type":"Point"}
 }

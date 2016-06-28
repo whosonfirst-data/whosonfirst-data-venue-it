@@ -2,13 +2,14 @@
   "id": 253422305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.748438,45.857872,12.748438,45.857872",
     "geom:latitude":45.857872,
     "geom:longitude":12.748438,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Seneca 13 33083 Chions",
     "sg:city":"Chions",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253422305,
-    "wof:lastmodified":1449063026,
+    "wof:lastmodified":1466293652,
     "wof:name":"Corini Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothes"
     ]
 },
-  "bbox": [12.748438,45.857872,12.748438,45.857872],
+  "bbox": [
+    12.748438,
+    45.857872,
+    12.748438,
+    45.857872
+],
   "geometry": {"coordinates":[12.748438,45.857872],"type":"Point"}
 }

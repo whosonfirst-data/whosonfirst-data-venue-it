@@ -2,13 +2,14 @@
   "id": 269515473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.024077,45.390087,12.024077,45.390087",
     "geom:latitude":45.390087,
     "geom:longitude":12.024077,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Trieste 30030 Vigonovo",
     "sg:city":"Vigonovo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269515473,
-    "wof:lastmodified":1449036695,
+    "wof:lastmodified":1466289316,
     "wof:name":"Calzaturificio Chellis Di Bugin Nereo & Cacco Giorgio (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [12.024077,45.390087,12.024077,45.390087],
+  "bbox": [
+    12.024077,
+    45.390087,
+    12.024077,
+    45.390087
+],
   "geometry": {"coordinates":[12.024077,45.390087],"type":"Point"}
 }

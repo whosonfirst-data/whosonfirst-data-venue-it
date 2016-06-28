@@ -2,13 +2,14 @@
   "id": 186388927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.230724,46.064941,13.230724,46.064941",
     "geom:latitude":46.064941,
     "geom:longitude":13.230724,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada Per Oselin 16/18 33047 Remanzacco",
     "sg:city":"Remanzacco",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186388927,
-    "wof:lastmodified":1449050375,
+    "wof:lastmodified":1466291257,
     "wof:name":"Sandix Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "black-out"
     ]
 },
-  "bbox": [13.230724,46.064941,13.230724,46.064941],
+  "bbox": [
+    13.230724,
+    46.064941,
+    13.230724,
+    46.064941
+],
   "geometry": {"coordinates":[13.230724,46.064941],"type":"Point"}
 }

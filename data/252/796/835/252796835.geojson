@@ -2,13 +2,14 @@
   "id": 252796835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.026177,43.933525,11.026177,43.933525",
     "geom:latitude":43.933525,
     "geom:longitude":11.026177,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51037 Montale",
     "sg:city":"Montale",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252796835,
-    "wof:lastmodified":1449005923,
+    "wof:lastmodified":1466289871,
     "wof:name":"Nerini Sauro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.026177,43.933525,11.026177,43.933525],
+  "bbox": [
+    11.026177,
+    43.933525,
+    11.026177,
+    43.933525
+],
   "geometry": {"coordinates":[11.026177,43.933525],"type":"Point"}
 }

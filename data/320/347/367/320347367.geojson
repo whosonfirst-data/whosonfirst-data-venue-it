@@ -2,13 +2,14 @@
   "id": 320347367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.500575,41.894943,12.500575,41.894943",
     "geom:latitude":41.894943,
     "geom:longitude":12.500575,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00185 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320347367,
-    "wof:lastmodified":1449013068,
+    "wof:lastmodified":1466297154,
     "wof:name":"Ciotti Barbara",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.500575,41.894943,12.500575,41.894943],
+  "bbox": [
+    12.500575,
+    41.894943,
+    12.500575,
+    41.894943
+],
   "geometry": {"coordinates":[12.500575,41.894943],"type":"Point"}
 }

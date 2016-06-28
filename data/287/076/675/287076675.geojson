@@ -2,13 +2,14 @@
   "id": 287076675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.608992,43.792213,7.608992,43.792213",
     "geom:latitude":43.792213,
     "geom:longitude":7.608992,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Hanbury 18039 Ventimiglia",
     "sg:city":"Ventimiglia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287076675,
-    "wof:lastmodified":1449001362,
+    "wof:lastmodified":1466290615,
     "wof:name":"Veltrans Int. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [7.608992,43.792213,7.608992,43.792213],
+  "bbox": [
+    7.608992,
+    43.792213,
+    7.608992,
+    43.792213
+],
   "geometry": {"coordinates":[7.608992,43.792213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219194089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.379663,42.137684,12.379663,42.137684",
     "geom:latitude":42.137684,
     "geom:longitude":12.379663,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219194089,
-    "wof:lastmodified":1449073401,
+    "wof:lastmodified":1466294993,
     "wof:name":"Agenzia Ippica Iovinelli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.379663,42.137684,12.379663,42.137684],
+  "bbox": [
+    12.379663,
+    42.137684,
+    12.379663,
+    42.137684
+],
   "geometry": {"coordinates":[12.379663,42.137684],"type":"Point"}
 }

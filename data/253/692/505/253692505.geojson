@@ -2,13 +2,14 @@
   "id": 253692505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.704121,45.600716,9.704121,45.600716",
     "geom:latitude":45.600716,
     "geom:longitude":9.704121,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24059 Urgnano",
     "sg:city":"Urgnano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253692505,
-    "wof:lastmodified":1449063596,
+    "wof:lastmodified":1466296633,
     "wof:name":"Longo Donato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.704121,45.600716,9.704121,45.600716],
+  "bbox": [
+    9.704121,
+    45.600716,
+    9.704121,
+    45.600716
+],
   "geometry": {"coordinates":[9.704121,45.600716],"type":"Point"}
 }

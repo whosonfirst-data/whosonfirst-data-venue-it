@@ -2,13 +2,14 @@
   "id": 270219301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.584415,37.654499,12.584415,37.654499",
     "geom:latitude":37.654499,
     "geom:longitude":12.584415,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91026 Mazara Del Vallo",
     "sg:city":"Mazara del Vallo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270219301,
-    "wof:lastmodified":1449011029,
+    "wof:lastmodified":1466291664,
     "wof:name":"Genovese Sea Food Sas Di Genovese Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.584415,37.654499,12.584415,37.654499],
+  "bbox": [
+    12.584415,
+    37.654499,
+    12.584415,
+    37.654499
+],
   "geometry": {"coordinates":[12.584415,37.654499],"type":"Point"}
 }

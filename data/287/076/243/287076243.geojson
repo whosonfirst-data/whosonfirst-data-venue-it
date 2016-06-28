@@ -2,13 +2,14 @@
   "id": 287076243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.772481,45.655628,13.772481,45.655628",
     "geom:latitude":45.655628,
     "geom:longitude":13.772481,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Della Geppa 34132 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287076243,
-    "wof:lastmodified":1449001363,
+    "wof:lastmodified":1466290611,
     "wof:name":"Vecchiutti E Revini S.r.l.",
     "wof:parent_id":85904965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [13.772481,45.655628,13.772481,45.655628],
+  "bbox": [
+    13.772481,
+    45.655628,
+    13.772481,
+    45.655628
+],
   "geometry": {"coordinates":[13.772481,45.655628],"type":"Point"}
 }

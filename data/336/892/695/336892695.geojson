@@ -2,13 +2,14 @@
   "id": 336892695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.246072,46.068909,13.246072,46.068909",
     "geom:latitude":46.068909,
     "geom:longitude":13.246072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33100 Udine",
     "sg:city":"Udine",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336892695,
-    "wof:lastmodified":1448997096,
+    "wof:lastmodified":1466296771,
     "wof:name":"Andreoli Sandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [13.246072,46.068909,13.246072,46.068909],
+  "bbox": [
+    13.246072,
+    46.068909,
+    13.246072,
+    46.068909
+],
   "geometry": {"coordinates":[13.246072,46.068909],"type":"Point"}
 }

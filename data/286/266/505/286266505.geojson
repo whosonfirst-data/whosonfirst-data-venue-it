@@ -2,13 +2,14 @@
   "id": 286266505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.594938,45.782219,12.594938,45.782219",
     "geom:latitude":45.782219,
     "geom:longitude":12.594938,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Via Postumia 31045 Motta Di Livenza",
     "sg:city":"Motta di Livenza",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286266505,
-    "wof:lastmodified":1449015248,
+    "wof:lastmodified":1466289487,
     "wof:name":"So.rap S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [12.594938,45.782219,12.594938,45.782219],
+  "bbox": [
+    12.594938,
+    45.782219,
+    12.594938,
+    45.782219
+],
   "geometry": {"coordinates":[12.594938,45.782219],"type":"Point"}
 }

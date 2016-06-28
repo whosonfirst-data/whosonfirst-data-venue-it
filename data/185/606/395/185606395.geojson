@@ -2,13 +2,14 @@
   "id": 185606395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.7922,45.157112,10.7922,45.157112",
     "geom:latitude":45.157112,
     "geom:longitude":10.7922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 8; Mantova; 46100",
     "sg:city":"Mantova",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185606395,
-    "wof:lastmodified":1449006862,
+    "wof:lastmodified":1466289367,
     "wof:name":"Banca Commerciale Italiana Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.7922,45.157112,10.7922,45.157112],
+  "bbox": [
+    10.7922,
+    45.157112,
+    10.7922,
+    45.157112
+],
   "geometry": {"coordinates":[10.7922,45.157112],"type":"Point"}
 }

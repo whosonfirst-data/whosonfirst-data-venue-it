@@ -2,13 +2,14 @@
   "id": 253194681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.290222,45.654057,12.290222,45.654057",
     "geom:latitude":45.654057,
     "geom:longitude":12.290222,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Treviso 38 31057 Silea",
     "sg:city":"Silea",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253194681,
-    "wof:lastmodified":1449065345,
+    "wof:lastmodified":1466290935,
     "wof:name":"Md Modern Design Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [12.290222,45.654057,12.290222,45.654057],
+  "bbox": [
+    12.290222,
+    45.654057,
+    12.290222,
+    45.654057
+],
   "geometry": {"coordinates":[12.290222,45.654057],"type":"Point"}
 }

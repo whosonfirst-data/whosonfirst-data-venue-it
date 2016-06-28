@@ -2,13 +2,14 @@
   "id": 252861449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.193499,45.457706,9.193499,45.457706",
     "geom:latitude":45.457706,
     "geom:longitude":9.193499,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252861449,
-    "wof:lastmodified":1449006502,
+    "wof:lastmodified":1466290608,
     "wof:name":"Campogrande Paolo",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.193499,45.457706,9.193499,45.457706],
+  "bbox": [
+    9.193499,
+    45.457706,
+    9.193499,
+    45.457706
+],
   "geometry": {"coordinates":[9.193499,45.457706],"type":"Point"}
 }

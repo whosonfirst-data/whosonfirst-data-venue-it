@@ -2,13 +2,14 @@
   "id": 269892199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.311417,41.150539,14.311417,41.150539",
     "geom:latitude":41.150539,
     "geom:longitude":14.311417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fagianeria 81013 Piana Di Monte Verna",
     "sg:city":"Piana di Monte Verna",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269892199,
-    "wof:lastmodified":1449036490,
+    "wof:lastmodified":1466294048,
     "wof:name":"Cirio Agricola Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [14.311417,41.150539,14.311417,41.150539],
+  "bbox": [
+    14.311417,
+    41.150539,
+    14.311417,
+    41.150539
+],
   "geometry": {"coordinates":[14.311417,41.150539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253107843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.155876,45.484776,9.155876,45.484776",
     "geom:latitude":45.484776,
     "geom:longitude":9.155876,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20149 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253107843,
-    "wof:lastmodified":1449062835,
+    "wof:lastmodified":1466290047,
     "wof:name":"3k Componenti Snc",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.155876,45.484776,9.155876,45.484776],
+  "bbox": [
+    9.155876,
+    45.484776,
+    9.155876,
+    45.484776
+],
   "geometry": {"coordinates":[9.155876,45.484776],"type":"Point"}
 }

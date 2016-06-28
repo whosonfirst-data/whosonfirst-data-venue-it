@@ -2,13 +2,14 @@
   "id": 303474237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.024522,45.141636,10.024522,45.141636",
     "geom:latitude":45.141636,
     "geom:longitude":10.024522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26034 Drizzona",
     "sg:city":"Drizzona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303474237,
-    "wof:lastmodified":1448998221,
+    "wof:lastmodified":1466296446,
     "wof:name":"Promec Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.024522,45.141636,10.024522,45.141636],
+  "bbox": [
+    10.024522,
+    45.141636,
+    10.024522,
+    45.141636
+],
   "geometry": {"coordinates":[10.024522,45.141636],"type":"Point"}
 }

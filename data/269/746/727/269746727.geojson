@@ -2,13 +2,14 @@
   "id": 269746727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.16117,44.017982,8.16117,44.017982",
     "geom:latitude":44.017982,
     "geom:longitude":8.16117,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17021 Alassio",
     "sg:city":"Alassio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269746727,
-    "wof:lastmodified":1449036126,
+    "wof:lastmodified":1466292370,
     "wof:name":"Hotel Badano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.16117,44.017982,8.16117,44.017982],
+  "bbox": [
+    8.16117,
+    44.017982,
+    8.16117,
+    44.017982
+],
   "geometry": {"coordinates":[8.16117,44.017982],"type":"Point"}
 }

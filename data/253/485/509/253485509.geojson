@@ -2,13 +2,14 @@
   "id": 253485509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.383304,45.478878,10.383304,45.478878",
     "geom:latitude":45.478878,
     "geom:longitude":10.383304,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25011 Calcinato",
     "sg:city":"Calcinato",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253485509,
-    "wof:lastmodified":1449064608,
+    "wof:lastmodified":1466294453,
     "wof:name":"Bre - Ver 2 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.383304,45.478878,10.383304,45.478878],
+  "bbox": [
+    10.383304,
+    45.478878,
+    10.383304,
+    45.478878
+],
   "geometry": {"coordinates":[10.383304,45.478878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236588469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.70563,45.187786,11.70563,45.187786",
     "geom:latitude":45.187786,
     "geom:longitude":11.70563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Viale Delle Industrie 35040 Sant'elena",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236588469,
-    "wof:lastmodified":1449004465,
+    "wof:lastmodified":1466294913,
     "wof:name":"Frassiflex (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.70563,45.187786,11.70563,45.187786],
+  "bbox": [
+    11.70563,
+    45.187786,
+    11.70563,
+    45.187786
+],
   "geometry": {"coordinates":[11.70563,45.187786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287078663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.919547,44.115898,9.919547,44.115898",
     "geom:latitude":44.115898,
     "geom:longitude":9.919547,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Caduti Del Lavoro 37 19021 Arcola",
     "sg:city":"Arcola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287078663,
-    "wof:lastmodified":1449001433,
+    "wof:lastmodified":1466290638,
     "wof:name":"Ser.ma.trans. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [9.919547,44.115898,9.919547,44.115898],
+  "bbox": [
+    9.919547,
+    44.115898,
+    9.919547,
+    44.115898
+],
   "geometry": {"coordinates":[9.919547,44.115898],"type":"Point"}
 }

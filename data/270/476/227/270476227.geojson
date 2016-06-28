@@ -2,13 +2,14 @@
   "id": 270476227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.835417,44.617321,11.835417,44.617321",
     "geom:latitude":44.617321,
     "geom:longitude":11.835417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Circonvallazione 44011 Argenta",
     "sg:city":"Argenta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270476227,
-    "wof:lastmodified":1449009625,
+    "wof:lastmodified":1466294770,
     "wof:name":"Sima Consorzio Per Lo Sviluppo Agricolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cereal"
     ]
 },
-  "bbox": [11.835417,44.617321,11.835417,44.617321],
+  "bbox": [
+    11.835417,
+    44.617321,
+    11.835417,
+    44.617321
+],
   "geometry": {"coordinates":[11.835417,44.617321],"type":"Point"}
 }

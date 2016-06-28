@@ -2,13 +2,14 @@
   "id": 186438903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.266882,44.539181,11.266882,44.539181",
     "geom:latitude":44.539181,
     "geom:longitude":11.266882,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bizzari 5/b 40010 Sala Bolognese",
     "sg:city":"Sala Bolognese",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186438903,
-    "wof:lastmodified":1449051294,
+    "wof:lastmodified":1466291717,
     "wof:name":"Kronimpianti Srl",
     "wof:parent_id":85904561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bottle"
     ]
 },
-  "bbox": [11.266882,44.539181,11.266882,44.539181],
+  "bbox": [
+    11.266882,
+    44.539181,
+    11.266882,
+    44.539181
+],
   "geometry": {"coordinates":[11.266882,44.539181],"type":"Point"}
 }

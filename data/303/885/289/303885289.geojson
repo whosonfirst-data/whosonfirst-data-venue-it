@@ -2,13 +2,14 @@
   "id": 303885289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.372561,41.916122,12.372561,41.916122",
     "geom:latitude":41.916122,
     "geom:longitude":12.372561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00166 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303885289,
-    "wof:lastmodified":1448999421,
+    "wof:lastmodified":1466298028,
     "wof:name":"Sciucco Alessandra",
     "wof:parent_id":85900497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.372561,41.916122,12.372561,41.916122],
+  "bbox": [
+    12.372561,
+    41.916122,
+    12.372561,
+    41.916122
+],
   "geometry": {"coordinates":[12.372561,41.916122],"type":"Point"}
 }

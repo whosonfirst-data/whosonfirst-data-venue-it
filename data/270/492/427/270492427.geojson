@@ -2,13 +2,14 @@
   "id": 270492427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.619713,45.360405,9.619713,45.360405",
     "geom:latitude":45.360405,
     "geom:longitude":9.619713,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Crema 68 26010 Bagnolo Cremasco",
     "sg:city":"Bagnolo Cremasco",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270492427,
-    "wof:lastmodified":1449008662,
+    "wof:lastmodified":1466294963,
     "wof:name":"Paride Venturelli & C Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tablet"
     ]
 },
-  "bbox": [9.619713,45.360405,9.619713,45.360405],
+  "bbox": [
+    9.619713,
+    45.360405,
+    9.619713,
+    45.360405
+],
   "geometry": {"coordinates":[9.619713,45.360405],"type":"Point"}
 }

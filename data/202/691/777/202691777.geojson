@@ -2,13 +2,14 @@
   "id": 202691777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.604509,45.333035,7.604509,45.333035",
     "geom:latitude":45.333035,
     "geom:longitude":7.604509,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10051 Avigliana",
     "sg:city":"Avigliana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202691777,
-    "wof:lastmodified":1449060327,
+    "wof:lastmodified":1466290974,
     "wof:name":"S.i.t.a.f. S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.604509,45.333035,7.604509,45.333035],
+  "bbox": [
+    7.604509,
+    45.333035,
+    7.604509,
+    45.333035
+],
   "geometry": {"coordinates":[7.604509,45.333035],"type":"Point"}
 }

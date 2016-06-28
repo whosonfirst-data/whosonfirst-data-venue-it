@@ -2,13 +2,14 @@
   "id": 252742341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.193343,37.301121,14.193343,37.301121",
     "geom:latitude":37.301121,
     "geom:longitude":14.193343,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"93013 Mazzarino",
     "sg:city":"Mazzarino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252742341,
-    "wof:lastmodified":1449005485,
+    "wof:lastmodified":1466289276,
     "wof:name":"Cravana Giovanni - Sam.da. '... Il Pigiama'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.193343,37.301121,14.193343,37.301121],
+  "bbox": [
+    14.193343,
+    37.301121,
+    14.193343,
+    37.301121
+],
   "geometry": {"coordinates":[14.193343,37.301121],"type":"Point"}
 }

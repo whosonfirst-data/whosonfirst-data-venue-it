@@ -2,13 +2,14 @@
   "id": 236783561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.174015,40.353291,18.174015,40.353291",
     "geom:latitude":40.353291,
     "geom:longitude":18.174015,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via 275 73039 Tricase",
     "sg:city":"Tricase",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236783561,
-    "wof:lastmodified":1449001757,
+    "wof:lastmodified":1466296629,
     "wof:name":"Coop Agricola Acli Dino Penazzato Arl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.174015,40.353291,18.174015,40.353291],
+  "bbox": [
+    18.174015,
+    40.353291,
+    18.174015,
+    40.353291
+],
   "geometry": {"coordinates":[18.174015,40.353291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287198351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.600579,44.494736,7.600579,44.494736",
     "geom:latitude":44.494736,
     "geom:longitude":7.600579,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12044 Centallo",
     "sg:city":"Centallo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":287198351,
-    "wof:lastmodified":1449000984,
+    "wof:lastmodified":1466292214,
     "wof:name":"Retifer Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.600579,44.494736,7.600579,44.494736],
+  "bbox": [
+    7.600579,
+    44.494736,
+    7.600579,
+    44.494736
+],
   "geometry": {"coordinates":[7.600579,44.494736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303945949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.742064,45.430317,8.742064,45.430317",
     "geom:latitude":45.430317,
     "geom:longitude":8.742064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28069 Trecate",
     "sg:city":"Trecate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303945949,
-    "wof:lastmodified":1448998325,
+    "wof:lastmodified":1466298127,
     "wof:name":"Verna Beatrice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.742064,45.430317,8.742064,45.430317],
+  "bbox": [
+    8.742064,
+    45.430317,
+    8.742064,
+    45.430317
+],
   "geometry": {"coordinates":[8.742064,45.430317],"type":"Point"}
 }

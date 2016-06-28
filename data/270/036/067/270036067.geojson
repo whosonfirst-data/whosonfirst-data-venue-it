@@ -2,13 +2,14 @@
   "id": 270036067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.860909,42.40028,12.860909,42.40028",
     "geom:latitude":42.40028,
     "geom:longitude":12.860909,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"02019 Posta",
     "sg:city":"Posta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270036067,
-    "wof:lastmodified":1449009167,
+    "wof:lastmodified":1466289414,
     "wof:name":"Carpelone Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.860909,42.40028,12.860909,42.40028],
+  "bbox": [
+    12.860909,
+    42.40028,
+    12.860909,
+    42.40028
+],
   "geometry": {"coordinates":[12.860909,42.40028],"type":"Point"}
 }

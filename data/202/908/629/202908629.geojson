@@ -2,13 +2,14 @@
   "id": 202908629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.557259,45.588749,9.557259,45.588749",
     "geom:latitude":45.588749,
     "geom:longitude":9.557259,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24040 Pontirolo Nuovo",
     "sg:city":"Pontirolo Nuovo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202908629,
-    "wof:lastmodified":1449061545,
+    "wof:lastmodified":1466293306,
     "wof:name":"M.i.b.- Manifattura Italiana Del Brembo - Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.557259,45.588749,9.557259,45.588749],
+  "bbox": [
+    9.557259,
+    45.588749,
+    9.557259,
+    45.588749
+],
   "geometry": {"coordinates":[9.557259,45.588749],"type":"Point"}
 }

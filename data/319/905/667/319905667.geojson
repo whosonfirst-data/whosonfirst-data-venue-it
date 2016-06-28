@@ -2,13 +2,14 @@
   "id": 319905667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.825963,41.075165,14.825963,41.075165",
     "geom:latitude":41.075165,
     "geom:longitude":14.825963,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82010 San Nicola Manfredi",
     "sg:city":"Iannassi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319905667,
-    "wof:lastmodified":1449024392,
+    "wof:lastmodified":1466293634,
     "wof:name":"Antonio Pirozzolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.825963,41.075165,14.825963,41.075165],
+  "bbox": [
+    14.825963,
+    41.075165,
+    14.825963,
+    41.075165
+],
   "geometry": {"coordinates":[14.825963,41.075165],"type":"Point"}
 }

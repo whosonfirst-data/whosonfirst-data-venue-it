@@ -2,13 +2,14 @@
   "id": 303236885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.676863,45.693859,9.676863,45.693859",
     "geom:latitude":45.693859,
     "geom:longitude":9.676863,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, V. Manzoni 24020 Ranica",
     "sg:city":"Ranica",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303236885,
-    "wof:lastmodified":1448998381,
+    "wof:lastmodified":1466293437,
     "wof:name":"L'autogas Orobica",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "energy"
     ]
 },
-  "bbox": [9.676863,45.693859,9.676863,45.693859],
+  "bbox": [
+    9.676863,
+    45.693859,
+    9.676863,
+    45.693859
+],
   "geometry": {"coordinates":[9.676863,45.693859],"type":"Point"}
 }

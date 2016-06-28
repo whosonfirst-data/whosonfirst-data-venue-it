@@ -2,13 +2,14 @@
   "id": 236591411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.624838,45.805984,12.624838,45.805984",
     "geom:latitude":45.805984,
     "geom:longitude":12.624838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Postumia 31040 Gorgo Al Monticano",
     "sg:city":"Gorgo al Monticano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236591411,
-    "wof:lastmodified":1449003414,
+    "wof:lastmodified":1466294938,
     "wof:name":"G.m.c. Cornici (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.624838,45.805984,12.624838,45.805984],
+  "bbox": [
+    12.624838,
+    45.805984,
+    12.624838,
+    45.805984
+],
   "geometry": {"coordinates":[12.624838,45.805984],"type":"Point"}
 }

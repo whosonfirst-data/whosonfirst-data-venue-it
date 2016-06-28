@@ -2,13 +2,14 @@
   "id": 203071367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.163708,45.445393,9.163708,45.445393",
     "geom:latitude":45.445393,
     "geom:longitude":9.163708,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20143 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203071367,
-    "wof:lastmodified":1449026153,
+    "wof:lastmodified":1466295660,
     "wof:name":"Ghiringhelli Luigi",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.163708,45.445393,9.163708,45.445393],
+  "bbox": [
+    9.163708,
+    45.445393,
+    9.163708,
+    45.445393
+],
   "geometry": {"coordinates":[9.163708,45.445393],"type":"Point"}
 }

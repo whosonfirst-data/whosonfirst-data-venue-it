@@ -2,13 +2,14 @@
   "id": 186051423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.380071,46.091793,13.380071,46.091793",
     "geom:latitude":46.091793,
     "geom:longitude":13.380071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma; Moimacco; 33040",
     "sg:city":"Moimacco",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186051423,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1466295086,
     "wof:name":"Cassa Rurale Ed Artigiana, Di Manzano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.380071,46.091793,13.380071,46.091793],
+  "bbox": [
+    13.380071,
+    46.091793,
+    13.380071,
+    46.091793
+],
   "geometry": {"coordinates":[13.380071,46.091793],"type":"Point"}
 }

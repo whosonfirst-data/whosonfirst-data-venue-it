@@ -2,13 +2,14 @@
   "id": 219580549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.217201,45.487564,9.217201,45.487564",
     "geom:latitude":45.487564,
     "geom:longitude":9.217201,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20127 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219580549,
-    "wof:lastmodified":1449072763,
+    "wof:lastmodified":1466292102,
     "wof:name":"Anzelmo Nicola",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.217201,45.487564,9.217201,45.487564],
+  "bbox": [
+    9.217201,
+    45.487564,
+    9.217201,
+    45.487564
+],
   "geometry": {"coordinates":[9.217201,45.487564],"type":"Point"}
 }

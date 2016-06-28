@@ -2,13 +2,14 @@
   "id": 186541369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.374417,44.522617,11.374417,44.522617",
     "geom:latitude":44.522617,
     "geom:longitude":11.374417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Romita 40127 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186541369,
-    "wof:lastmodified":1449050545,
+    "wof:lastmodified":1466292706,
     "wof:name":"Campeggio Citta' Di Bologna (s.r.l.)",
     "wof:parent_id":85900353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.374417,44.522617,11.374417,44.522617],
+  "bbox": [
+    11.374417,
+    44.522617,
+    11.374417,
+    44.522617
+],
   "geometry": {"coordinates":[11.374417,44.522617],"type":"Point"}
 }

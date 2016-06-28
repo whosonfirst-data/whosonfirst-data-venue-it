@@ -2,13 +2,14 @@
   "id": 252824061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.979488,44.410332,8.979488,44.410332",
     "geom:latitude":44.410332,
     "geom:longitude":8.979488,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16132 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252824061,
-    "wof:lastmodified":1449005789,
+    "wof:lastmodified":1466290220,
     "wof:name":"Handy Knitwear Di Matarrese Antonia",
     "wof:parent_id":85862641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.979488,44.410332,8.979488,44.410332],
+  "bbox": [
+    8.979488,
+    44.410332,
+    8.979488,
+    44.410332
+],
   "geometry": {"coordinates":[8.979488,44.410332],"type":"Point"}
 }

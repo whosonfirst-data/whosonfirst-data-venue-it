@@ -2,13 +2,14 @@
   "id": 252834539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.663145,41.768921,12.663145,41.768921",
     "geom:latitude":41.768921,
     "geom:longitude":12.663145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00047 Marino",
     "sg:city":"Marino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252834539,
-    "wof:lastmodified":1449005518,
+    "wof:lastmodified":1466290338,
     "wof:name":"Sabrina Minucci Abiti Da Sposa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.663145,41.768921,12.663145,41.768921],
+  "bbox": [
+    12.663145,
+    41.768921,
+    12.663145,
+    41.768921
+],
   "geometry": {"coordinates":[12.663145,41.768921],"type":"Point"}
 }

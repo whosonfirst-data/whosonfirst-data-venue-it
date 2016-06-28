@@ -2,13 +2,14 @@
   "id": 320462413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.997303,38.134094,14.997303,38.134094",
     "geom:latitude":38.134094,
     "geom:longitude":14.997303,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98066 Patti",
     "sg:city":"Patti",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320462413,
-    "wof:lastmodified":1449014814,
+    "wof:lastmodified":1466297626,
     "wof:name":"Elettromek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.997303,38.134094,14.997303,38.134094],
+  "bbox": [
+    14.997303,
+    38.134094,
+    14.997303,
+    38.134094
+],
   "geometry": {"coordinates":[14.997303,38.134094],"type":"Point"}
 }

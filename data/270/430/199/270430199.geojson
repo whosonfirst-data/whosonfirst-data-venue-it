@@ -2,13 +2,14 @@
   "id": 270430199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.920863,44.64159,10.920863,44.64159",
     "geom:latitude":44.64159,
     "geom:longitude":10.920863,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41051 Castelnuovo Rangone",
     "sg:city":"Castelnuovo Rangone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270430199,
-    "wof:lastmodified":1449010222,
+    "wof:lastmodified":1466294249,
     "wof:name":"Vezzali Costruzioni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.920863,44.64159,10.920863,44.64159],
+  "bbox": [
+    10.920863,
+    44.64159,
+    10.920863,
+    44.64159
+],
   "geometry": {"coordinates":[10.920863,44.64159],"type":"Point"}
 }

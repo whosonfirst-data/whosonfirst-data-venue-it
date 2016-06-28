@@ -2,13 +2,14 @@
   "id": 269823309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.914829,45.383419,8.914829,45.383419",
     "geom:latitude":45.383419,
     "geom:longitude":8.914829,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giuseppe Bollini 7 20081 Abbiategrasso",
     "sg:city":"Abbiategrasso",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269823309,
-    "wof:lastmodified":1449038931,
+    "wof:lastmodified":1466293301,
     "wof:name":"Bruni Macchine Agricole Di Bruni R.e. & C S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "machinery"
     ]
 },
-  "bbox": [8.914829,45.383419,8.914829,45.383419],
+  "bbox": [
+    8.914829,
+    45.383419,
+    8.914829,
+    45.383419
+],
   "geometry": {"coordinates":[8.914829,45.383419],"type":"Point"}
 }

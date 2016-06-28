@@ -2,13 +2,14 @@
   "id": 202601707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.506463,41.948444,12.506463,41.948444",
     "geom:latitude":41.948444,
     "geom:longitude":12.506463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00138 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202601707,
-    "wof:lastmodified":1449061260,
+    "wof:lastmodified":1466289992,
     "wof:name":"Aero Club Di Roma Scuola Regionale Di Volo",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.506463,41.948444,12.506463,41.948444],
+  "bbox": [
+    12.506463,
+    41.948444,
+    12.506463,
+    41.948444
+],
   "geometry": {"coordinates":[12.506463,41.948444],"type":"Point"}
 }

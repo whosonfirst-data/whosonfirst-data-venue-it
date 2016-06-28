@@ -2,13 +2,14 @@
   "id": 269954797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.899286,40.719566,13.899286,40.719566",
     "geom:latitude":40.719566,
     "geom:longitude":13.899286,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80070 Serrara Fontana",
     "sg:city":"Fontana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269954797,
-    "wof:lastmodified":1449038573,
+    "wof:lastmodified":1466294756,
     "wof:name":"Terme Cava Del Fresco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.899286,40.719566,13.899286,40.719566],
+  "bbox": [
+    13.899286,
+    40.719566,
+    13.899286,
+    40.719566
+],
   "geometry": {"coordinates":[13.899286,40.719566],"type":"Point"}
 }

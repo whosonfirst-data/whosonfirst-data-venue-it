@@ -2,13 +2,14 @@
   "id": 253591789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.208582,43.837093,11.208582,43.837093",
     "geom:latitude":43.837093,
     "geom:longitude":11.208582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Meucci 101 50041 Calenzano",
     "sg:city":"Calenzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253591789,
-    "wof:lastmodified":1449064409,
+    "wof:lastmodified":1466295852,
     "wof:name":"Maglificio Monika Di Luconi Ada",
     "wof:parent_id":85900345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.208582,43.837093,11.208582,43.837093],
+  "bbox": [
+    11.208582,
+    43.837093,
+    11.208582,
+    43.837093
+],
   "geometry": {"coordinates":[11.208582,43.837093],"type":"Point"}
 }

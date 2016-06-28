@@ -2,13 +2,14 @@
   "id": 269739767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.181157,45.463299,9.181157,45.463299",
     "geom:latitude":45.463299,
     "geom:longitude":9.181157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269739767,
-    "wof:lastmodified":1449037143,
+    "wof:lastmodified":1466292271,
     "wof:name":"I.s.d.a.c.i. Istituto Per Lo Studio E La Diffusione Dell'arbitrato E Del Diritto Commerciale Interna",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.181157,45.463299,9.181157,45.463299],
+  "bbox": [
+    9.181157,
+    45.463299,
+    9.181157,
+    45.463299
+],
   "geometry": {"coordinates":[9.181157,45.463299],"type":"Point"}
 }

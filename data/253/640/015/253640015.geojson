@@ -2,13 +2,14 @@
   "id": 253640015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.684099,44.771076,7.684099,44.771076",
     "geom:latitude":44.771076,
     "geom:longitude":7.684099,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12048 Sommariva Bosco",
     "sg:classifiers":[],
     "sg:orig_category":"Lavorazioni Meccaniche E Servizi",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253640015,
-    "wof:lastmodified":1449064106,
+    "wof:lastmodified":1466296459,
     "wof:name":"C.m.s. Snc Di Verre E Galat\u00c0",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.684099,44.771076,7.684099,44.771076],
+  "bbox": [
+    7.684099,
+    44.771076,
+    7.684099,
+    44.771076
+],
   "geometry": {"coordinates":[7.684099,44.771076],"type":"Point"}
 }

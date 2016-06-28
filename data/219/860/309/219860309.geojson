@@ -2,13 +2,14 @@
   "id": 219860309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.14489,45.448162,9.14489,45.448162",
     "geom:latitude":45.448162,
     "geom:longitude":9.14489,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20146 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219860309,
-    "wof:lastmodified":1449071966,
+    "wof:lastmodified":1466294842,
     "wof:name":"I.co.m.e.s. Di Papa Michele",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.14489,45.448162,9.14489,45.448162],
+  "bbox": [
+    9.14489,
+    45.448162,
+    9.14489,
+    45.448162
+],
   "geometry": {"coordinates":[9.14489,45.448162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286356713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.739373,45.903446,8.739373,45.903446",
     "geom:latitude":45.903446,
     "geom:longitude":8.739373,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21100 Varese",
     "sg:city":"Varese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286356713,
-    "wof:lastmodified":1449017604,
+    "wof:lastmodified":1466290793,
     "wof:name":"Giorgi Luigi Sas Di Canossi A. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.739373,45.903446,8.739373,45.903446],
+  "bbox": [
+    8.739373,
+    45.903446,
+    8.739373,
+    45.903446
+],
   "geometry": {"coordinates":[8.739373,45.903446],"type":"Point"}
 }

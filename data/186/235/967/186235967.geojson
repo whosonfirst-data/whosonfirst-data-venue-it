@@ -2,13 +2,14 @@
   "id": 186235967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.612682,45.602791,9.612682,45.602791",
     "geom:latitude":45.602791,
     "geom:longitude":9.612682,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Colleoni 15/17 24040 Ciserano",
     "sg:city":"Ciserano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186235967,
-    "wof:lastmodified":1449050879,
+    "wof:lastmodified":1466289966,
     "wof:name":"Cosma Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "basic"
     ]
 },
-  "bbox": [9.612682,45.602791,9.612682,45.602791],
+  "bbox": [
+    9.612682,
+    45.602791,
+    9.612682,
+    45.602791
+],
   "geometry": {"coordinates":[9.612682,45.602791],"type":"Point"}
 }

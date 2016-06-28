@@ -2,13 +2,14 @@
   "id": 320168477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.908183,45.596138,8.908183,45.596138",
     "geom:latitude":45.596138,
     "geom:longitude":8.908183,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21053 Castellanza",
     "sg:city":"Castellanza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320168477,
-    "wof:lastmodified":1449013210,
+    "wof:lastmodified":1466295420,
     "wof:name":"Rimoldi Pietro E C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.908183,45.596138,8.908183,45.596138],
+  "bbox": [
+    8.908183,
+    45.596138,
+    8.908183,
+    45.596138
+],
   "geometry": {"coordinates":[8.908183,45.596138],"type":"Point"}
 }

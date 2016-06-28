@@ -2,13 +2,14 @@
   "id": 303077179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.510918,45.51123,11.510918,45.51123",
     "geom:latitude":45.51123,
     "geom:longitude":11.510918,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Volta 9 36057 Arcugnano",
     "sg:city":"Arcugnano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303077179,
-    "wof:lastmodified":1448998509,
+    "wof:lastmodified":1466291336,
     "wof:name":"Asa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "apparatus"
     ]
 },
-  "bbox": [11.510918,45.51123,11.510918,45.51123],
+  "bbox": [
+    11.510918,
+    45.51123,
+    11.510918,
+    45.51123
+],
   "geometry": {"coordinates":[11.510918,45.51123],"type":"Point"}
 }

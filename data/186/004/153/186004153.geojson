@@ -2,13 +2,14 @@
   "id": 186004153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.241429,43.776409,11.241429,43.776409",
     "geom:latitude":43.776409,
     "geom:longitude":11.241429,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Il Prato 56; Florence; 50123",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186004153,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1466288921,
     "wof:name":"Cassa Di Risparmio Di Prato Spa",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.241429,43.776409,11.241429,43.776409],
+  "bbox": [
+    11.241429,
+    43.776409,
+    11.241429,
+    43.776409
+],
   "geometry": {"coordinates":[11.241429,43.776409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320612137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.035966,44.221401,10.035966,44.221401",
     "geom:latitude":44.221401,
     "geom:longitude":10.035966,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Xx Settembre 175 54033 Carrara",
     "sg:city":"Carrara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320612137,
-    "wof:lastmodified":1449012908,
+    "wof:lastmodified":1466297821,
     "wof:name":"Frugoli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "marble"
     ]
 },
-  "bbox": [10.035966,44.221401,10.035966,44.221401],
+  "bbox": [
+    10.035966,
+    44.221401,
+    10.035966,
+    44.221401
+],
   "geometry": {"coordinates":[10.035966,44.221401],"type":"Point"}
 }

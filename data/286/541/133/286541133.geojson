@@ -2,13 +2,14 @@
   "id": 286541133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.192958,45.469967,9.192958,45.469967",
     "geom:latitude":45.469967,
     "geom:longitude":9.192958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Via Monte Napoleone 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286541133,
-    "wof:lastmodified":1449015501,
+    "wof:lastmodified":1466293208,
     "wof:name":"Maglificio Alessandra Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.192958,45.469967,9.192958,45.469967],
+  "bbox": [
+    9.192958,
+    45.469967,
+    9.192958,
+    45.469967
+],
   "geometry": {"coordinates":[9.192958,45.469967],"type":"Point"}
 }

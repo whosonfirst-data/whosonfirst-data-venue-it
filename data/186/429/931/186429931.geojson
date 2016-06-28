@@ -2,13 +2,14 @@
   "id": 186429931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.700809,45.659634,9.700809,45.659634",
     "geom:latitude":45.659634,
     "geom:longitude":9.700809,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Emilia 25 24052 Azzano San Paolo",
     "sg:city":"Azzano San Paolo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186429931,
-    "wof:lastmodified":1449052895,
+    "wof:lastmodified":1466291641,
     "wof:name":"Poligrafiche Bolis Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.700809,45.659634,9.700809,45.659634],
+  "bbox": [
+    9.700809,
+    45.659634,
+    9.700809,
+    45.659634
+],
   "geometry": {"coordinates":[9.700809,45.659634],"type":"Point"}
 }

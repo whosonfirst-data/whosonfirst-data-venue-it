@@ -2,13 +2,14 @@
   "id": 269559429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.832609,40.834755,14.832609,40.834755",
     "geom:latitude":40.834755,
     "geom:longitude":14.832609,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via San Vito 11 83029 Solofra",
     "sg:city":"Solofra",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269559429,
-    "wof:lastmodified":1449038310,
+    "wof:lastmodified":1466289827,
     "wof:name":"Conceria San Vito Di Covino Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [14.832609,40.834755,14.832609,40.834755],
+  "bbox": [
+    14.832609,
+    40.834755,
+    14.832609,
+    40.834755
+],
   "geometry": {"coordinates":[14.832609,40.834755],"type":"Point"}
 }

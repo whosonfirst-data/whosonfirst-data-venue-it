@@ -2,13 +2,14 @@
   "id": 303719935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.367341,45.769318,9.367341,45.769318",
     "geom:latitude":45.769318,
     "geom:longitude":9.367341,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23880 Casatenovo",
     "sg:city":"Casatenovo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303719935,
-    "wof:lastmodified":1448998435,
+    "wof:lastmodified":1466297553,
     "wof:name":"Voleno Felice S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.367341,45.769318,9.367341,45.769318],
+  "bbox": [
+    9.367341,
+    45.769318,
+    9.367341,
+    45.769318
+],
   "geometry": {"coordinates":[9.367341,45.769318],"type":"Point"}
 }

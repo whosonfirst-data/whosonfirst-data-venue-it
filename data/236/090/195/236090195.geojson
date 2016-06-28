@@ -2,13 +2,14 @@
   "id": 236090195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.226245,45.512192,9.226245,45.512192",
     "geom:latitude":45.512192,
     "geom:longitude":9.226245,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20128 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236090195,
-    "wof:lastmodified":1449004439,
+    "wof:lastmodified":1466289804,
     "wof:name":"Rinaldi Diego",
     "wof:parent_id":85862735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.226245,45.512192,9.226245,45.512192],
+  "bbox": [
+    9.226245,
+    45.512192,
+    9.226245,
+    45.512192
+],
   "geometry": {"coordinates":[9.226245,45.512192],"type":"Point"}
 }

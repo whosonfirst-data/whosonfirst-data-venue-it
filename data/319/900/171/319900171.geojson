@@ -2,13 +2,14 @@
   "id": 319900171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.551157,44.638031,10.551157,44.638031",
     "geom:latitude":44.638031,
     "geom:longitude":10.551157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Allende 15 42020 Quattro Castella",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":319900171,
-    "wof:lastmodified":1449024432,
+    "wof:lastmodified":1466293563,
     "wof:name":"G 3 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [10.551157,44.638031,10.551157,44.638031],
+  "bbox": [
+    10.551157,
+    44.638031,
+    10.551157,
+    44.638031
+],
   "geometry": {"coordinates":[10.551157,44.638031],"type":"Point"}
 }

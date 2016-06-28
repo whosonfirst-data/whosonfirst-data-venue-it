@@ -2,13 +2,14 @@
   "id": 287023813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.05636,42.336651,12.05636,42.336651",
     "geom:latitude":42.336651,
     "geom:longitude":12.05636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cassia 01019 Vetralla",
     "sg:city":"Vetralla",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287023813,
-    "wof:lastmodified":1449001496,
+    "wof:lastmodified":1466289894,
     "wof:name":"Scuderi S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "clothing"
     ]
 },
-  "bbox": [12.05636,42.336651,12.05636,42.336651],
+  "bbox": [
+    12.05636,
+    42.336651,
+    12.05636,
+    42.336651
+],
   "geometry": {"coordinates":[12.05636,42.336651],"type":"Point"}
 }

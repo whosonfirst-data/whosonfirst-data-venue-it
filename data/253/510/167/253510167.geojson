@@ -2,13 +2,14 @@
   "id": 253510167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.195971,40.824406,14.195971,40.824406",
     "geom:latitude":40.824406,
     "geom:longitude":14.195971,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80125 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253510167,
-    "wof:lastmodified":1449064583,
+    "wof:lastmodified":1466294755,
     "wof:name":"Vetrotecnica",
     "wof:parent_id":85904777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.195971,40.824406,14.195971,40.824406],
+  "bbox": [
+    14.195971,
+    40.824406,
+    14.195971,
+    40.824406
+],
   "geometry": {"coordinates":[14.195971,40.824406],"type":"Point"}
 }

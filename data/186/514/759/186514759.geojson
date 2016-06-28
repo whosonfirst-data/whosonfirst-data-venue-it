@@ -2,13 +2,14 @@
   "id": 186514759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.660389,45.704361,9.660389,45.704361",
     "geom:latitude":45.704361,
     "geom:longitude":9.660389,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Via Salvecchio 24129 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186514759,
-    "wof:lastmodified":1449051723,
+    "wof:lastmodified":1466292439,
     "wof:name":"Universita' Di Bergamo",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [9.660389,45.704361,9.660389,45.704361],
+  "bbox": [
+    9.660389,
+    45.704361,
+    9.660389,
+    45.704361
+],
   "geometry": {"coordinates":[9.660389,45.704361],"type":"Point"}
 }

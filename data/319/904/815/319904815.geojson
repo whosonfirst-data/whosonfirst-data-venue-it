@@ -2,13 +2,14 @@
   "id": 319904815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.485282,45.017685,7.485282,45.017685",
     "geom:latitude":45.017685,
     "geom:longitude":7.485282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Bruino",
     "sg:city":"Bruino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319904815,
-    "wof:lastmodified":1449024895,
+    "wof:lastmodified":1466293624,
     "wof:name":"Autobruino Snc Di Palmisano A. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.485282,45.017685,7.485282,45.017685],
+  "bbox": [
+    7.485282,
+    45.017685,
+    7.485282,
+    45.017685
+],
   "geometry": {"coordinates":[7.485282,45.017685],"type":"Point"}
 }

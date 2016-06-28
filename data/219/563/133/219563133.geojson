@@ -2,13 +2,14 @@
   "id": 219563133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.957437,45.621822,9.957437,45.621822",
     "geom:latitude":45.621822,
     "geom:longitude":9.957437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25030 Adro",
     "sg:city":"Adro",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219563133,
-    "wof:lastmodified":1449070426,
+    "wof:lastmodified":1466291953,
     "wof:name":"Lancini Luigi Azienda Agricola Cornaleto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "restaurants"
     ]
 },
-  "bbox": [9.957437,45.621822,9.957437,45.621822],
+  "bbox": [
+    9.957437,
+    45.621822,
+    9.957437,
+    45.621822
+],
   "geometry": {"coordinates":[9.957437,45.621822],"type":"Point"}
 }

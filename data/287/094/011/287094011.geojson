@@ -2,13 +2,14 @@
   "id": 287094011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.235887,43.370659,12.235887,43.370659",
     "geom:latitude":43.370659,
     "geom:longitude":12.235887,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06012 Citt\u00e0 Di Castello",
     "sg:classifiers":[],
     "sg:orig_category":"Trasporti E Spedizioni Merci",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287094011,
-    "wof:lastmodified":1449001229,
+    "wof:lastmodified":1466290835,
     "wof:name":"Bianchini Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.235887,43.370659,12.235887,43.370659],
+  "bbox": [
+    12.235887,
+    43.370659,
+    12.235887,
+    43.370659
+],
   "geometry": {"coordinates":[12.235887,43.370659],"type":"Point"}
 }

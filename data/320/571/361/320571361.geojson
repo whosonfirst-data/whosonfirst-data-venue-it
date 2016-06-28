@@ -2,13 +2,14 @@
   "id": 320571361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.202275,45.471546,12.202275,45.471546",
     "geom:latitude":45.471546,
     "geom:longitude":12.202275,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30175 Marghera",
     "sg:city":"Marghera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320571361,
-    "wof:lastmodified":1449013823,
+    "wof:lastmodified":1466297733,
     "wof:name":"Marmitre (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.202275,45.471546,12.202275,45.471546],
+  "bbox": [
+    12.202275,
+    45.471546,
+    12.202275,
+    45.471546
+],
   "geometry": {"coordinates":[12.202275,45.471546],"type":"Point"}
 }

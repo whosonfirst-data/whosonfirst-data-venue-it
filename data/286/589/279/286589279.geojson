@@ -2,13 +2,14 @@
   "id": 286589279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.259459,45.493137,12.259459,45.493137",
     "geom:latitude":45.493137,
     "geom:longitude":12.259459,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74, Via Bissuola 30100 Venezia",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":286589279,
-    "wof:lastmodified":1449016758,
+    "wof:lastmodified":1466293790,
     "wof:name":"Sirema S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.259459,45.493137,12.259459,45.493137],
+  "bbox": [
+    12.259459,
+    45.493137,
+    12.259459,
+    45.493137
+],
   "geometry": {"coordinates":[12.259459,45.493137],"type":"Point"}
 }

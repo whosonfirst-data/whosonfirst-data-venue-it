@@ -2,13 +2,14 @@
   "id": 203326433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.153074,45.183487,9.153074,45.183487",
     "geom:latitude":45.183487,
     "geom:longitude":9.153074,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27100 Pavia",
     "sg:city":"Pavia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203326433,
-    "wof:lastmodified":1449025733,
+    "wof:lastmodified":1466291314,
     "wof:name":"Libreria Edizioni Cardano Di Multimedia Cardano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.153074,45.183487,9.153074,45.183487],
+  "bbox": [
+    9.153074,
+    45.183487,
+    9.153074,
+    45.183487
+],
   "geometry": {"coordinates":[9.153074,45.183487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236667361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.501883,43.80862,10.501883,43.80862",
     "geom:latitude":43.80862,
     "geom:longitude":10.501883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, V. Campitello - Guamo 55012 Capannori",
     "sg:city":"Capannori",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236667361,
-    "wof:lastmodified":1449003884,
+    "wof:lastmodified":1466295635,
     "wof:name":"Tarpac Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [10.501883,43.80862,10.501883,43.80862],
+  "bbox": [
+    10.501883,
+    43.80862,
+    10.501883,
+    43.80862
+],
   "geometry": {"coordinates":[10.501883,43.80862],"type":"Point"}
 }

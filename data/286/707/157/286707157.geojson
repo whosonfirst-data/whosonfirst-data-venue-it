@@ -2,13 +2,14 @@
   "id": 286707157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.530519,41.291431,13.530519,41.291431",
     "geom:latitude":41.291431,
     "geom:longitude":13.530519,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Don Ernesto Iallonghi 04020 Itri",
     "sg:city":"Itri",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286707157,
-    "wof:lastmodified":1449017653,
+    "wof:lastmodified":1466295295,
     "wof:name":"Papa Umberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [13.530519,41.291431,13.530519,41.291431],
+  "bbox": [
+    13.530519,
+    41.291431,
+    13.530519,
+    41.291431
+],
   "geometry": {"coordinates":[13.530519,41.291431],"type":"Point"}
 }

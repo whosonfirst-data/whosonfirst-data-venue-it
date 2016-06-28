@@ -2,13 +2,14 @@
   "id": 286698135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.24563,45.665714,12.24563,45.665714",
     "geom:latitude":45.665714,
     "geom:longitude":12.24563,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Piazza Moro Aldo 31020 Villorba",
     "sg:city":"Villorba",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286698135,
-    "wof:lastmodified":1449017912,
+    "wof:lastmodified":1466295186,
     "wof:name":"Edilstrade (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [12.24563,45.665714,12.24563,45.665714],
+  "bbox": [
+    12.24563,
+    45.665714,
+    12.24563,
+    45.665714
+],
   "geometry": {"coordinates":[12.24563,45.665714],"type":"Point"}
 }

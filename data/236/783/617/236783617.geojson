@@ -2,13 +2,14 @@
   "id": 236783617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.306619,40.900391,14.306619,40.900391",
     "geom:latitude":40.900391,
     "geom:longitude":14.306619,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39, V. Castagna 80026 Casoria",
     "sg:city":"Casoria",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236783617,
-    "wof:lastmodified":1449001756,
+    "wof:lastmodified":1466296503,
     "wof:name":"De Luxe By Minervini",
     "wof:parent_id":85904801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.306619,40.900391,14.306619,40.900391],
+  "bbox": [
+    14.306619,
+    40.900391,
+    14.306619,
+    40.900391
+],
   "geometry": {"coordinates":[14.306619,40.900391],"type":"Point"}
 }

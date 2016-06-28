@@ -2,13 +2,14 @@
   "id": 320123279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.923737,44.545532,10.923737,44.545532",
     "geom:latitude":44.545532,
     "geom:longitude":10.923737,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41043 Formigine",
     "sg:city":"Formigine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320123279,
-    "wof:lastmodified":1449012377,
+    "wof:lastmodified":1466294896,
     "wof:name":"S.i.r.t.e. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.923737,44.545532,10.923737,44.545532],
+  "bbox": [
+    10.923737,
+    44.545532,
+    10.923737,
+    44.545532
+],
   "geometry": {"coordinates":[10.923737,44.545532],"type":"Point"}
 }

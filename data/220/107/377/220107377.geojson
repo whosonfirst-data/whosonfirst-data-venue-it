@@ -2,13 +2,14 @@
   "id": 220107377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.339958,44.10207,12.339958,44.10207",
     "geom:latitude":44.10207,
     "geom:longitude":12.339958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2620, V. Emilia 47020 Longiano",
     "sg:city":"Longiano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220107377,
-    "wof:lastmodified":1449074064,
+    "wof:lastmodified":1466295977,
     "wof:name":"Zavalloni Arnaldo Stefano Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [12.339958,44.10207,12.339958,44.10207],
+  "bbox": [
+    12.339958,
+    44.10207,
+    12.339958,
+    44.10207
+],
   "geometry": {"coordinates":[12.339958,44.10207],"type":"Point"}
 }

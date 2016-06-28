@@ -2,13 +2,14 @@
   "id": 185987083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.120959,43.815731,11.120959,43.815731",
     "geom:latitude":43.815731,
     "geom:longitude":11.120959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Val Di Setta; Capalle; 50100",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185987083,
-    "wof:lastmodified":1449007506,
+    "wof:lastmodified":1466290678,
     "wof:name":"Cassa Di Risparmio Di Firenze Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.120959,43.815731,11.120959,43.815731],
+  "bbox": [
+    11.120959,
+    43.815731,
+    11.120959,
+    43.815731
+],
   "geometry": {"coordinates":[11.120959,43.815731],"type":"Point"}
 }

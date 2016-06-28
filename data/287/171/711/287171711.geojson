@@ -2,13 +2,14 @@
   "id": 287171711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.140795,40.88147,14.140795,40.88147",
     "geom:latitude":40.88147,
     "geom:longitude":14.140795,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Kennedy 8-10; Pzzo 16; Quarto; Naples; 80010",
     "sg:city":"Quarto",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287171711,
-    "wof:lastmodified":1449001597,
+    "wof:lastmodified":1466291870,
     "wof:name":"103 Connection Travel Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.140795,40.88147,14.140795,40.88147],
+  "bbox": [
+    14.140795,
+    40.88147,
+    14.140795,
+    40.88147
+],
   "geometry": {"coordinates":[14.140795,40.88147],"type":"Point"}
 }

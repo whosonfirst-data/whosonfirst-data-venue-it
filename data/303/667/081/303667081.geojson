@@ -2,13 +2,14 @@
   "id": 303667081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.048979,42.441536,12.048979,42.441536",
     "geom:latitude":42.441536,
     "geom:longitude":12.048979,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01100 Viterbo",
     "sg:city":"Viterbo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303667081,
-    "wof:lastmodified":1448999717,
+    "wof:lastmodified":1466297499,
     "wof:name":"Idee In Pietra Di Errichiello Arcangelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.048979,42.441536,12.048979,42.441536],
+  "bbox": [
+    12.048979,
+    42.441536,
+    12.048979,
+    42.441536
+],
   "geometry": {"coordinates":[12.048979,42.441536],"type":"Point"}
 }

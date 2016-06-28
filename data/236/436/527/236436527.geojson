@@ -2,13 +2,14 @@
   "id": 236436527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.232521,45.483536,12.232521,45.483536",
     "geom:latitude":45.483536,
     "geom:longitude":12.232521,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"147, Via Piave 30100 Venezia",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236436527,
-    "wof:lastmodified":1449004869,
+    "wof:lastmodified":1466293369,
     "wof:name":"Crai Medical Di Sandra Suman E C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "instrument"
     ]
 },
-  "bbox": [12.232521,45.483536,12.232521,45.483536],
+  "bbox": [
+    12.232521,
+    45.483536,
+    12.232521,
+    45.483536
+],
   "geometry": {"coordinates":[12.232521,45.483536],"type":"Point"}
 }

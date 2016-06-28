@@ -2,13 +2,14 @@
   "id": 303371623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.021031,46.09227,13.021031,46.09227",
     "geom:latitude":46.09227,
     "geom:longitude":13.021031,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"310, Via Provinciale 33030 Coseano",
     "sg:city":"Coseano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303371623,
-    "wof:lastmodified":1449000020,
+    "wof:lastmodified":1466295093,
     "wof:name":"Chezzi (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "breeding"
     ]
 },
-  "bbox": [13.021031,46.09227,13.021031,46.09227],
+  "bbox": [
+    13.021031,
+    46.09227,
+    13.021031,
+    46.09227
+],
   "geometry": {"coordinates":[13.021031,46.09227],"type":"Point"}
 }

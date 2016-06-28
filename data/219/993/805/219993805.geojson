@@ -2,13 +2,14 @@
   "id": 219993805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.658634,45.697536,8.658634,45.697536",
     "geom:latitude":45.697536,
     "geom:longitude":8.658634,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21010 Golasecca",
     "sg:city":"Golasecca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219993805,
-    "wof:lastmodified":1449071959,
+    "wof:lastmodified":1466296358,
     "wof:name":"Briante Martegani Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.658634,45.697536,8.658634,45.697536],
+  "bbox": [
+    8.658634,
+    45.697536,
+    8.658634,
+    45.697536
+],
   "geometry": {"coordinates":[8.658634,45.697536],"type":"Point"}
 }

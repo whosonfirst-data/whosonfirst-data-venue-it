@@ -2,13 +2,14 @@
   "id": 236595985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.163506,40.225929,15.163506,40.225929",
     "geom:latitude":40.225929,
     "geom:longitude":15.163506,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"130, Via Nazionale 84040 Castelnuovo Cilento",
     "sg:city":"Castelnuovo Cilento",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236595985,
-    "wof:lastmodified":1449004864,
+    "wof:lastmodified":1466294979,
     "wof:name":"Giglietti Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [15.163506,40.225929,15.163506,40.225929],
+  "bbox": [
+    15.163506,
+    40.225929,
+    15.163506,
+    40.225929
+],
   "geometry": {"coordinates":[15.163506,40.225929],"type":"Point"}
 }

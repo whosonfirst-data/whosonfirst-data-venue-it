@@ -2,13 +2,14 @@
   "id": 203105453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.756612,45.429455,10.756612,45.429455",
     "geom:latitude":45.429455,
     "geom:longitude":10.756612,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37014 Castelnuovo Del Garda",
     "sg:city":"Castelnuovo del Garda",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203105453,
-    "wof:lastmodified":1449025641,
+    "wof:lastmodified":1466288946,
     "wof:name":"Vall Eros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.756612,45.429455,10.756612,45.429455],
+  "bbox": [
+    10.756612,
+    45.429455,
+    10.756612,
+    45.429455
+],
   "geometry": {"coordinates":[10.756612,45.429455],"type":"Point"}
 }

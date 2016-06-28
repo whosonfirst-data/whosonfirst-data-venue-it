@@ -2,13 +2,14 @@
   "id": 236028739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.251522,43.774117,11.251522,43.774117",
     "geom:latitude":43.774117,
     "geom:longitude":11.251522,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50053 Empoli",
     "sg:city":"Empoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236028739,
-    "wof:lastmodified":1449003436,
+    "wof:lastmodified":1466289184,
     "wof:name":"Cei Antonella",
     "wof:parent_id":85904707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.251522,43.774117,11.251522,43.774117],
+  "bbox": [
+    11.251522,
+    43.774117,
+    11.251522,
+    43.774117
+],
   "geometry": {"coordinates":[11.251522,43.774117],"type":"Point"}
 }

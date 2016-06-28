@@ -2,13 +2,14 @@
   "id": 202564803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.161138,45.458054,9.161138,45.458054",
     "geom:latitude":45.458054,
     "geom:longitude":9.161138,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202564803,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466289583,
     "wof:name":"La Torraca Giuliano",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.161138,45.458054,9.161138,45.458054],
+  "bbox": [
+    9.161138,
+    45.458054,
+    9.161138,
+    45.458054
+],
   "geometry": {"coordinates":[9.161138,45.458054],"type":"Point"}
 }

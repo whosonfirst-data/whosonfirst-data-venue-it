@@ -2,13 +2,14 @@
   "id": 320507799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.950488,44.421528,8.950488,44.421528",
     "geom:latitude":44.421528,
     "geom:longitude":8.950488,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16139 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320507799,
-    "wof:lastmodified":1449013177,
+    "wof:lastmodified":1466297680,
     "wof:name":"Gay Ernesto & Figlio Snc",
     "wof:parent_id":85796885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.950488,44.421528,8.950488,44.421528],
+  "bbox": [
+    8.950488,
+    44.421528,
+    8.950488,
+    44.421528
+],
   "geometry": {"coordinates":[8.950488,44.421528],"type":"Point"}
 }

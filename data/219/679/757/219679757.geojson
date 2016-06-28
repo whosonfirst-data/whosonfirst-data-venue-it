@@ -2,13 +2,14 @@
   "id": 219679757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.44077,43.301006,13.44077,43.301006",
     "geom:latitude":43.301006,
     "geom:longitude":13.44077,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62010 Appignano",
     "sg:city":"Appignano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219679757,
-    "wof:lastmodified":1449072653,
+    "wof:lastmodified":1466293081,
     "wof:name":"Lma Tecnocar Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.44077,43.301006,13.44077,43.301006],
+  "bbox": [
+    13.44077,
+    43.301006,
+    13.44077,
+    43.301006
+],
   "geometry": {"coordinates":[13.44077,43.301006],"type":"Point"}
 }

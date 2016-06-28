@@ -2,13 +2,14 @@
   "id": 287192813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.27016,44.464966,11.27016,44.464966",
     "geom:latitude":44.464966,
     "geom:longitude":11.27016,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fattori 5 40033 Casalecchio Di Reno",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287192813,
-    "wof:lastmodified":1449001308,
+    "wof:lastmodified":1466292149,
     "wof:name":"Kabelmatic Srl",
     "wof:parent_id":85904637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "edging"
     ]
 },
-  "bbox": [11.27016,44.464966,11.27016,44.464966],
+  "bbox": [
+    11.27016,
+    44.464966,
+    11.27016,
+    44.464966
+],
   "geometry": {"coordinates":[11.27016,44.464966],"type":"Point"}
 }

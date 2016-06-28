@@ -2,13 +2,14 @@
   "id": 219340315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.218936,45.537636,10.218936,45.537636",
     "geom:latitude":45.537636,
     "geom:longitude":10.218936,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25060 Lodrino",
     "sg:city":"Lodrino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219340315,
-    "wof:lastmodified":1449073130,
+    "wof:lastmodified":1466289713,
     "wof:name":"Peli Narciso",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.218936,45.537636,10.218936,45.537636],
+  "bbox": [
+    10.218936,
+    45.537636,
+    10.218936,
+    45.537636
+],
   "geometry": {"coordinates":[10.218936,45.537636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304005149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.469069,45.126301,8.469069,45.126301",
     "geom:latitude":45.126301,
     "geom:longitude":8.469069,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15033 Casale Monferrato",
     "sg:city":"Casale Monferrato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":304005149,
-    "wof:lastmodified":1449044118,
+    "wof:lastmodified":1466292214,
     "wof:name":"Mussano & Baracco Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.469069,45.126301,8.469069,45.126301],
+  "bbox": [
+    8.469069,
+    45.126301,
+    8.469069,
+    45.126301
+],
   "geometry": {"coordinates":[8.469069,45.126301],"type":"Point"}
 }

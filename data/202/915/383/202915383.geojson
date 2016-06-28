@@ -2,13 +2,14 @@
   "id": 202915383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.178816,45.441917,9.178816,45.441917",
     "geom:latitude":45.441917,
     "geom:longitude":9.178816,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20141 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202915383,
-    "wof:lastmodified":1449062610,
+    "wof:lastmodified":1466293379,
     "wof:name":"Palumbo Anna",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.178816,45.441917,9.178816,45.441917],
+  "bbox": [
+    9.178816,
+    45.441917,
+    9.178816,
+    45.441917
+],
   "geometry": {"coordinates":[9.178816,45.441917],"type":"Point"}
 }

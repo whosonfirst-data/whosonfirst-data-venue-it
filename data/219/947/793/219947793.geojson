@@ -2,13 +2,14 @@
   "id": 219947793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.211898,42.460419,14.211898,42.460419",
     "geom:latitude":42.460419,
     "geom:longitude":14.211898,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65010 Spoltore",
     "sg:city":"Spoltore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219947793,
-    "wof:lastmodified":1449072955,
+    "wof:lastmodified":1466295787,
     "wof:name":"C.s.q. Centro Sicurezza E Qualita'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.211898,42.460419,14.211898,42.460419],
+  "bbox": [
+    14.211898,
+    42.460419,
+    14.211898,
+    42.460419
+],
   "geometry": {"coordinates":[14.211898,42.460419],"type":"Point"}
 }

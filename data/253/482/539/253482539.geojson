@@ -2,13 +2,14 @@
   "id": 253482539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.145079,45.447857,9.145079,45.447857",
     "geom:latitude":45.447857,
     "geom:longitude":9.145079,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20146 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":253482539,
-    "wof:lastmodified":1449063884,
+    "wof:lastmodified":1466294417,
     "wof:name":"Ghelardoni Rexson Srl",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.145079,45.447857,9.145079,45.447857],
+  "bbox": [
+    9.145079,
+    45.447857,
+    9.145079,
+    45.447857
+],
   "geometry": {"coordinates":[9.145079,45.447857],"type":"Point"}
 }

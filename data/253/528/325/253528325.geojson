@@ -2,13 +2,14 @@
   "id": 253528325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.40224,43.721298,10.40224,43.721298",
     "geom:latitude":43.721298,
     "geom:longitude":10.40224,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56127 Pisa",
     "sg:city":"Pisa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253528325,
-    "wof:lastmodified":1449063604,
+    "wof:lastmodified":1466294978,
     "wof:name":"Scuola Superiore Di Studi Universitari E Di Perfezionamento S. Anna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.40224,43.721298,10.40224,43.721298],
+  "bbox": [
+    10.40224,
+    43.721298,
+    10.40224,
+    43.721298
+],
   "geometry": {"coordinates":[10.40224,43.721298],"type":"Point"}
 }

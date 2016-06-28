@@ -2,13 +2,14 @@
   "id": 286551633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.155666,43.761925,11.155666,43.761925",
     "geom:latitude":43.761925,
     "geom:longitude":11.155666,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Helsinki 50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286551633,
-    "wof:lastmodified":1449015755,
+    "wof:lastmodified":1466293331,
     "wof:name":"Maglificio S.d.",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.155666,43.761925,11.155666,43.761925],
+  "bbox": [
+    11.155666,
+    43.761925,
+    11.155666,
+    43.761925
+],
   "geometry": {"coordinates":[11.155666,43.761925],"type":"Point"}
 }

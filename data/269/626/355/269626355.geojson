@@ -2,13 +2,14 @@
   "id": 269626355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.090336,45.796215,9.090336,45.796215",
     "geom:latitude":45.796215,
     "geom:longitude":9.090336,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269626355,
-    "wof:lastmodified":1449038970,
+    "wof:lastmodified":1466290637,
     "wof:name":"Idea Divaneria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "letti"
     ]
 },
-  "bbox": [9.090336,45.796215,9.090336,45.796215],
+  "bbox": [
+    9.090336,
+    45.796215,
+    9.090336,
+    45.796215
+],
   "geometry": {"coordinates":[9.090336,45.796215],"type":"Point"}
 }

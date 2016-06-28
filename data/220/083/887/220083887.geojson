@@ -2,13 +2,14 @@
   "id": 220083887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.341546,45.513157,9.341546,45.513157",
     "geom:latitude":45.513157,
     "geom:longitude":9.341546,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Aosta 3 20063 Cernusco Sul Naviglio",
     "sg:city":"Cernusco sul Naviglio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220083887,
-    "wof:lastmodified":1449074404,
+    "wof:lastmodified":1466295698,
     "wof:name":"Atlantic Industria Vernici Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "lacquer"
     ]
 },
-  "bbox": [9.341546,45.513157,9.341546,45.513157],
+  "bbox": [
+    9.341546,
+    45.513157,
+    9.341546,
+    45.513157
+],
   "geometry": {"coordinates":[9.341546,45.513157],"type":"Point"}
 }

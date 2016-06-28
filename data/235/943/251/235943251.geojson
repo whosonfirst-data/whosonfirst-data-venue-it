@@ -2,13 +2,14 @@
   "id": 235943251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.555151,38.229977,15.555151,38.229977",
     "geom:latitude":38.229977,
     "geom:longitude":15.555151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Militare 23 98149 Messina",
     "sg:city":"Messina",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235943251,
-    "wof:lastmodified":1449008341,
+    "wof:lastmodified":1466294669,
     "wof:name":"Cantine Colosi Snc Di Piero Colosi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "italian"
     ]
 },
-  "bbox": [15.555151,38.229977,15.555151,38.229977],
+  "bbox": [
+    15.555151,
+    38.229977,
+    15.555151,
+    38.229977
+],
   "geometry": {"coordinates":[15.555151,38.229977],"type":"Point"}
 }

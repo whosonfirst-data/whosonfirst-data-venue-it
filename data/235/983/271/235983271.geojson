@@ -2,13 +2,14 @@
   "id": 235983271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.153183,43.861542,11.153183,43.861542",
     "geom:latitude":43.861542,
     "geom:longitude":11.153183,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Di Pagnelle 25 50041 Calenzano",
     "sg:city":"Calenzano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":235983271,
-    "wof:lastmodified":1449008589,
+    "wof:lastmodified":1466295779,
     "wof:name":"Decortex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decorative"
     ]
 },
-  "bbox": [11.153183,43.861542,11.153183,43.861542],
+  "bbox": [
+    11.153183,
+    43.861542,
+    11.153183,
+    43.861542
+],
   "geometry": {"coordinates":[11.153183,43.861542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186584199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.301712,40.920975,14.301712,40.920975",
     "geom:latitude":40.920975,
     "geom:longitude":14.301712,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80021 Afragola",
     "sg:city":"Afragola",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186584199,
-    "wof:lastmodified":1449050536,
+    "wof:lastmodified":1466293138,
     "wof:name":"Ortopedia Ruggiero",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.301712,40.920975,14.301712,40.920975],
+  "bbox": [
+    14.301712,
+    40.920975,
+    14.301712,
+    40.920975
+],
   "geometry": {"coordinates":[14.301712,40.920975],"type":"Point"}
 }

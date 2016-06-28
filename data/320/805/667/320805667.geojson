@@ -2,13 +2,14 @@
   "id": 320805667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.612277,45.693188,9.612277,45.693188",
     "geom:latitude":45.693188,
     "geom:longitude":9.612277,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24123 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320805667,
-    "wof:lastmodified":1449012519,
+    "wof:lastmodified":1466298173,
     "wof:name":"Mazzoleni Div. Trafilerie Bergamasche Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.612277,45.693188,9.612277,45.693188],
+  "bbox": [
+    9.612277,
+    45.693188,
+    9.612277,
+    45.693188
+],
   "geometry": {"coordinates":[9.612277,45.693188],"type":"Point"}
 }

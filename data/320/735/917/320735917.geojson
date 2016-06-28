@@ -2,13 +2,14 @@
   "id": 320735917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.167169,40.978378,14.167169,40.978378",
     "geom:latitude":40.978378,
     "geom:longitude":14.167169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81038 Trentola Ducenta",
     "sg:classifiers":[],
     "sg:orig_category":"Materiali Edili",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320735917,
-    "wof:lastmodified":1449014881,
+    "wof:lastmodified":1466298169,
     "wof:name":"Erario Andrea",
     "wof:parent_id":85900413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.167169,40.978378,14.167169,40.978378],
+  "bbox": [
+    14.167169,
+    40.978378,
+    14.167169,
+    40.978378
+],
   "geometry": {"coordinates":[14.167169,40.978378],"type":"Point"}
 }

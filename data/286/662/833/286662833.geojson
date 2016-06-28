@@ -2,13 +2,14 @@
   "id": 286662833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.957725,45.380718,11.957725,45.380718",
     "geom:latitude":45.380718,
     "geom:longitude":11.957725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Veneto 30 35020 Villatora",
     "sg:city":"Villatora",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286662833,
-    "wof:lastmodified":1449017176,
+    "wof:lastmodified":1466294702,
     "wof:name":"Impex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.957725,45.380718,11.957725,45.380718],
+  "bbox": [
+    11.957725,
+    45.380718,
+    11.957725,
+    45.380718
+],
   "geometry": {"coordinates":[11.957725,45.380718],"type":"Point"}
 }

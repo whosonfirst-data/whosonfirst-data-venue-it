@@ -2,13 +2,14 @@
   "id": 270324391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.296263,44.872547,8.296263,44.872547",
     "geom:latitude":44.872547,
     "geom:longitude":8.296263,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14030 Rocca D'arazzo",
     "sg:classifiers":[],
     "sg:orig_category":"Cartotecnica E Servizi. Forniture Per Attivita' Commerciali Ed Artigianali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270324391,
-    "wof:lastmodified":1449010079,
+    "wof:lastmodified":1466292934,
     "wof:name":"Campiolam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.296263,44.872547,8.296263,44.872547],
+  "bbox": [
+    8.296263,
+    44.872547,
+    8.296263,
+    44.872547
+],
   "geometry": {"coordinates":[8.296263,44.872547],"type":"Point"}
 }

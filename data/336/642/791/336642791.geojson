@@ -2,13 +2,14 @@
   "id": 336642791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.124668,43.68066,11.124668,43.68066",
     "geom:latitude":43.68066,
     "geom:longitude":11.124668,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dell' Artigianato 50025 Montespertoli",
     "sg:city":"Montespertoli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336642791,
-    "wof:lastmodified":1448996984,
+    "wof:lastmodified":1466294242,
     "wof:name":"Costruzioni Meccaniche Giani E Grazzi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.124668,43.68066,11.124668,43.68066],
+  "bbox": [
+    11.124668,
+    43.68066,
+    11.124668,
+    43.68066
+],
   "geometry": {"coordinates":[11.124668,43.68066],"type":"Point"}
 }

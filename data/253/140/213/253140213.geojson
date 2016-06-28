@@ -2,13 +2,14 @@
   "id": 253140213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.041574,45.656113,9.041574,45.656113",
     "geom:latitude":45.656113,
     "geom:longitude":9.041574,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Rovello Porro",
     "sg:city":"Rovello Porro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253140213,
-    "wof:lastmodified":1449063245,
+    "wof:lastmodified":1466290383,
     "wof:name":"Morial Cicli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.041574,45.656113,9.041574,45.656113],
+  "bbox": [
+    9.041574,
+    45.656113,
+    9.041574,
+    45.656113
+],
   "geometry": {"coordinates":[9.041574,45.656113],"type":"Point"}
 }

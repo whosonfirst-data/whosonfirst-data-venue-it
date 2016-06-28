@@ -2,13 +2,14 @@
   "id": 287167729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.999603,44.730152,10.999603,44.730152",
     "geom:latitude":44.730152,
     "geom:longitude":10.999603,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41030 Bastiglia",
     "sg:city":"Bastiglia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287167729,
-    "wof:lastmodified":1449001125,
+    "wof:lastmodified":1466291815,
     "wof:name":"Zincatura Bastigliese Di Esposito L. Guidotti G. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.999603,44.730152,10.999603,44.730152],
+  "bbox": [
+    10.999603,
+    44.730152,
+    10.999603,
+    44.730152
+],
   "geometry": {"coordinates":[10.999603,44.730152],"type":"Point"}
 }

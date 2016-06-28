@@ -2,13 +2,14 @@
   "id": 269824885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.573792,45.600922,11.573792,45.600922",
     "geom:latitude":45.600922,
     "geom:longitude":11.573792,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, V. Marconi 36010 Monticello Conte Otto",
     "sg:city":"Monticello Conte Otto",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269824885,
-    "wof:lastmodified":1449036985,
+    "wof:lastmodified":1466293319,
     "wof:name":"Comm -avi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.573792,45.600922,11.573792,45.600922],
+  "bbox": [
+    11.573792,
+    45.600922,
+    11.573792,
+    45.600922
+],
   "geometry": {"coordinates":[11.573792,45.600922],"type":"Point"}
 }

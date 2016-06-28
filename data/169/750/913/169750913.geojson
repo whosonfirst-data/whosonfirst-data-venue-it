@@ -2,13 +2,14 @@
   "id": 169750913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.20854,45.483295,9.20854,45.483295",
     "geom:latitude":45.483295,
     "geom:longitude":9.20854,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169750913,
-    "wof:lastmodified":1449034675,
+    "wof:lastmodified":1466295304,
     "wof:name":"Extra Change Di Castella Bruno",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.20854,45.483295,9.20854,45.483295],
+  "bbox": [
+    9.20854,
+    45.483295,
+    9.20854,
+    45.483295
+],
   "geometry": {"coordinates":[9.20854,45.483295],"type":"Point"}
 }

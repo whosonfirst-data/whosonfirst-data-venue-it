@@ -2,13 +2,14 @@
   "id": 303112419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.727302,45.193909,10.727302,45.193909",
     "geom:latitude":45.193909,
     "geom:longitude":10.727302,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46044 Goito",
     "sg:city":"Goito",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303112419,
-    "wof:lastmodified":1448999247,
+    "wof:lastmodified":1466291801,
     "wof:name":"Elettromeccanica Grassi Sergio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.727302,45.193909,10.727302,45.193909],
+  "bbox": [
+    10.727302,
+    45.193909,
+    10.727302,
+    45.193909
+],
   "geometry": {"coordinates":[10.727302,45.193909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287301391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.690735,41.905979,12.690735,41.905979",
     "geom:latitude":41.905979,
     "geom:longitude":12.690735,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Km 1, V. Prenestina Nuova 00010 Castelverde",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287301391,
-    "wof:lastmodified":1449000881,
+    "wof:lastmodified":1466293554,
     "wof:name":"Elettrotecnica Prenestina Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.690735,41.905979,12.690735,41.905979],
+  "bbox": [
+    12.690735,
+    41.905979,
+    12.690735,
+    41.905979
+],
   "geometry": {"coordinates":[12.690735,41.905979],"type":"Point"}
 }

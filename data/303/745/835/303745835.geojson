@@ -2,13 +2,14 @@
   "id": 303745835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.106703,43.860168,11.106703,43.860168",
     "geom:latitude":43.860168,
     "geom:longitude":11.106703,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303745835,
-    "wof:lastmodified":1449000455,
+    "wof:lastmodified":1466297696,
     "wof:name":"Materassi E Materassi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.106703,43.860168,11.106703,43.860168],
+  "bbox": [
+    11.106703,
+    43.860168,
+    11.106703,
+    43.860168
+],
   "geometry": {"coordinates":[11.106703,43.860168],"type":"Point"}
 }

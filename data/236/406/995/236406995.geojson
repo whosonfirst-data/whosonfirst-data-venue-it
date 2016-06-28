@@ -2,13 +2,14 @@
   "id": 236406995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228008,45.482967,9.228008,45.482967",
     "geom:latitude":45.482967,
     "geom:longitude":9.228008,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Poggi Felice 14 20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236406995,
-    "wof:lastmodified":1449003423,
+    "wof:lastmodified":1466293061,
     "wof:name":"Sabbadini Mauro Srl",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ware"
     ]
 },
-  "bbox": [9.228008,45.482967,9.228008,45.482967],
+  "bbox": [
+    9.228008,
+    45.482967,
+    9.228008,
+    45.482967
+],
   "geometry": {"coordinates":[9.228008,45.482967],"type":"Point"}
 }

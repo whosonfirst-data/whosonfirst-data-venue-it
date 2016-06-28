@@ -2,13 +2,14 @@
   "id": 169784441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.462385,41.927895,12.462385,41.927895",
     "geom:latitude":41.927895,
     "geom:longitude":12.462385,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00196 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169784441,
-    "wof:lastmodified":1449034891,
+    "wof:lastmodified":1466295865,
     "wof:name":"Torelli Maurizio",
     "wof:parent_id":85904943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.462385,41.927895,12.462385,41.927895],
+  "bbox": [
+    12.462385,
+    41.927895,
+    12.462385,
+    41.927895
+],
   "geometry": {"coordinates":[12.462385,41.927895],"type":"Point"}
 }

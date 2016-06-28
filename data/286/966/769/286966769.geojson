@@ -2,13 +2,14 @@
   "id": 286966769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.016428,45.769627,9.016428,45.769627",
     "geom:latitude":45.769627,
     "geom:longitude":9.016428,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22079 Villa Guardia",
     "sg:city":"Villa Guardia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286966769,
-    "wof:lastmodified":1449015182,
+    "wof:lastmodified":1466297364,
     "wof:name":"Tedo Stampati (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.016428,45.769627,9.016428,45.769627],
+  "bbox": [
+    9.016428,
+    45.769627,
+    9.016428,
+    45.769627
+],
   "geometry": {"coordinates":[9.016428,45.769627],"type":"Point"}
 }

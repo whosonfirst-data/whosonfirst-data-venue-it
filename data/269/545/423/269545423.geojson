@@ -2,13 +2,14 @@
   "id": 269545423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.245519,40.849274,14.245519,40.849274",
     "geom:latitude":40.849274,
     "geom:longitude":14.245519,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Avellino A Tarsia 80135 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269545423,
-    "wof:lastmodified":1449036722,
+    "wof:lastmodified":1466289653,
     "wof:name":"Jean Marie Srl",
     "wof:parent_id":85904789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [14.245519,40.849274,14.245519,40.849274],
+  "bbox": [
+    14.245519,
+    40.849274,
+    14.245519,
+    40.849274
+],
   "geometry": {"coordinates":[14.245519,40.849274],"type":"Point"}
 }

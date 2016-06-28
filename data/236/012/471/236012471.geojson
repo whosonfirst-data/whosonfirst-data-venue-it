@@ -2,13 +2,14 @@
   "id": 236012471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.775311,45.920185,8.775311,45.920185",
     "geom:latitude":45.920185,
     "geom:longitude":8.775311,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Valganna 12 21030 Rancio Valcuvia",
     "sg:city":"Rancio Valcuvia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236012471,
-    "wof:lastmodified":1449004845,
+    "wof:lastmodified":1466289012,
     "wof:name":"A - 27 S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dessert"
     ]
 },
-  "bbox": [8.775311,45.920185,8.775311,45.920185],
+  "bbox": [
+    8.775311,
+    45.920185,
+    8.775311,
+    45.920185
+],
   "geometry": {"coordinates":[8.775311,45.920185],"type":"Point"}
 }

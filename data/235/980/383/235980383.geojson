@@ -2,13 +2,14 @@
   "id": 235980383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.181205,43.832462,11.181205,43.832462",
     "geom:latitude":43.832462,
     "geom:longitude":11.181205,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50019 Sesto Fiorentino",
     "sg:city":"Sesto Fiorentino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":235980383,
-    "wof:lastmodified":1449008306,
+    "wof:lastmodified":1466295696,
     "wof:name":"S.i.a.p. Snc",
     "wof:parent_id":85904647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.181205,43.832462,11.181205,43.832462],
+  "bbox": [
+    11.181205,
+    43.832462,
+    11.181205,
+    43.832462
+],
   "geometry": {"coordinates":[11.181205,43.832462],"type":"Point"}
 }

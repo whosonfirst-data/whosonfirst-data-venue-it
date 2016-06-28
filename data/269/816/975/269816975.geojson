@@ -2,13 +2,14 @@
   "id": 269816975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.35064,38.120789,13.35064,38.120789",
     "geom:latitude":38.120789,
     "geom:longitude":13.35064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90138 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269816975,
-    "wof:lastmodified":1449037546,
+    "wof:lastmodified":1466293229,
     "wof:name":"Vitale Michelangelo, Fedele & Nicola",
     "wof:parent_id":85904875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.35064,38.120789,13.35064,38.120789],
+  "bbox": [
+    13.35064,
+    38.120789,
+    13.35064,
+    38.120789
+],
   "geometry": {"coordinates":[13.35064,38.120789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286730941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.433998,44.503002,11.433998,44.503002",
     "geom:latitude":44.503002,
     "geom:longitude":11.433998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40050 Castenaso",
     "sg:classifiers":[],
     "sg:orig_category":"Copisterie",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286730941,
-    "wof:lastmodified":1449017642,
+    "wof:lastmodified":1466295610,
     "wof:name":"Color Dimension Snc Di Davide E Daniele Sanguin",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.433998,44.503002,11.433998,44.503002],
+  "bbox": [
+    11.433998,
+    44.503002,
+    11.433998,
+    44.503002
+],
   "geometry": {"coordinates":[11.433998,44.503002],"type":"Point"}
 }

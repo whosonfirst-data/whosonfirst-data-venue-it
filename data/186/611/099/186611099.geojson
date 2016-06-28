@@ -2,13 +2,14 @@
   "id": 186611099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.201929,37.791451,15.201929,37.791451",
     "geom:latitude":37.791451,
     "geom:longitude":15.201929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95013 Fiumefreddo Di Sicilia",
     "sg:city":"Fiumefreddo di Sicilia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186611099,
-    "wof:lastmodified":1449052442,
+    "wof:lastmodified":1466293401,
     "wof:name":"Mobili Casa Bella Di Santamaria Isabella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.201929,37.791451,15.201929,37.791451],
+  "bbox": [
+    15.201929,
+    37.791451,
+    15.201929,
+    37.791451
+],
   "geometry": {"coordinates":[15.201929,37.791451],"type":"Point"}
 }

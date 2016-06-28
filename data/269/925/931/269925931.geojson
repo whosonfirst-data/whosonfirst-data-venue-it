@@ -2,13 +2,14 @@
   "id": 269925931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.075558,45.770653,12.075558,45.770653",
     "geom:latitude":45.770653,
     "geom:longitude":12.075558,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Feltrina Sud 125 31044 Montebelluna",
     "sg:city":"Montebelluna",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269925931,
-    "wof:lastmodified":1449036175,
+    "wof:lastmodified":1466294444,
     "wof:name":"Gino Solimene Export-import Pneumatici S.a.s. Di G. Solimene & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tyre"
     ]
 },
-  "bbox": [12.075558,45.770653,12.075558,45.770653],
+  "bbox": [
+    12.075558,
+    45.770653,
+    12.075558,
+    45.770653
+],
   "geometry": {"coordinates":[12.075558,45.770653],"type":"Point"}
 }

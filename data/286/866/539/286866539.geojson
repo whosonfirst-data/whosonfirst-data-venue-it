@@ -2,13 +2,14 @@
   "id": 286866539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.892777,45.451122,11.892777,45.451122",
     "geom:latitude":45.451122,
     "geom:longitude":11.892777,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35010 Vigodarzere",
     "sg:city":"Vigodarzere",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286866539,
-    "wof:lastmodified":1449016591,
+    "wof:lastmodified":1466296978,
     "wof:name":"Cesaro Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.892777,45.451122,11.892777,45.451122],
+  "bbox": [
+    11.892777,
+    45.451122,
+    11.892777,
+    45.451122
+],
   "geometry": {"coordinates":[11.892777,45.451122],"type":"Point"}
 }

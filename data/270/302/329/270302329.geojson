@@ -2,13 +2,14 @@
   "id": 270302329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.409971,42.294209,12.409971,42.294209",
     "geom:latitude":42.294209,
     "geom:longitude":12.409971,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"01033 Civita Castellana",
     "sg:city":"Civita Castellana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270302329,
-    "wof:lastmodified":1449009454,
+    "wof:lastmodified":1466292651,
     "wof:name":"Il Discolibro Snc Di Santopietro M. & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.409971,42.294209,12.409971,42.294209],
+  "bbox": [
+    12.409971,
+    42.294209,
+    12.409971,
+    42.294209
+],
   "geometry": {"coordinates":[12.409971,42.294209],"type":"Point"}
 }

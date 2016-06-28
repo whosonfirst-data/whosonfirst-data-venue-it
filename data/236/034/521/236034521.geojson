@@ -2,13 +2,14 @@
   "id": 236034521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.785223,45.052319,11.785223,45.052319",
     "geom:latitude":45.052319,
     "geom:longitude":11.785223,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Del Lavoro 10 45100 Rovigo",
     "sg:city":"Rovigo",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236034521,
-    "wof:lastmodified":1449001953,
+    "wof:lastmodified":1466289244,
     "wof:name":"Esoform Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disinfectant"
     ]
 },
-  "bbox": [11.785223,45.052319,11.785223,45.052319],
+  "bbox": [
+    11.785223,
+    45.052319,
+    11.785223,
+    45.052319
+],
   "geometry": {"coordinates":[11.785223,45.052319],"type":"Point"}
 }

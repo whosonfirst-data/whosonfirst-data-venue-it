@@ -2,13 +2,14 @@
   "id": 253362885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.280946,44.717747,8.280946,44.717747",
     "geom:latitude":44.717747,
     "geom:longitude":8.280946,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14053 Canelli",
     "sg:city":"Canelli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253362885,
-    "wof:lastmodified":1449064748,
+    "wof:lastmodified":1466292992,
     "wof:name":"Sirena Mario Sugherificio Sirena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "semi-finished"
     ]
 },
-  "bbox": [8.280946,44.717747,8.280946,44.717747],
+  "bbox": [
+    8.280946,
+    44.717747,
+    8.280946,
+    44.717747
+],
   "geometry": {"coordinates":[8.280946,44.717747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203179273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.399885,44.193615,12.399885,44.193615",
     "geom:latitude":44.193615,
     "geom:longitude":12.399885,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47042 Cesenatico",
     "sg:city":"Cesenatico",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203179273,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466289669,
     "wof:name":"Co.ve.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.399885,44.193615,12.399885,44.193615],
+  "bbox": [
+    12.399885,
+    44.193615,
+    12.399885,
+    44.193615
+],
   "geometry": {"coordinates":[12.399885,44.193615],"type":"Point"}
 }

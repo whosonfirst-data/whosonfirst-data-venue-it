@@ -2,13 +2,14 @@
   "id": 202968303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.206055,46.428185,13.206055,46.428185",
     "geom:latitude":46.428185,
     "geom:longitude":13.206055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33030 Moruzzo",
     "sg:city":"Moruzzo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202968303,
-    "wof:lastmodified":1449060266,
+    "wof:lastmodified":1466293888,
     "wof:name":"Associazione Allevatori Del Friuli Venezia Giulia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.206055,46.428185,13.206055,46.428185],
+  "bbox": [
+    13.206055,
+    46.428185,
+    13.206055,
+    46.428185
+],
   "geometry": {"coordinates":[13.206055,46.428185],"type":"Point"}
 }

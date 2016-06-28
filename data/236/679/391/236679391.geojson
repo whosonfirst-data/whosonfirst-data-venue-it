@@ -2,13 +2,14 @@
   "id": 236679391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.423707,45.886894,9.423707,45.886894",
     "geom:latitude":45.886894,
     "geom:longitude":9.423707,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39/b, Via Morterone 23811 Ballabio",
     "sg:city":"Ballabio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236679391,
-    "wof:lastmodified":1449003841,
+    "wof:lastmodified":1466295752,
     "wof:name":"Lorenzo Invernizzi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.423707,45.886894,9.423707,45.886894],
+  "bbox": [
+    9.423707,
+    45.886894,
+    9.423707,
+    45.886894
+],
   "geometry": {"coordinates":[9.423707,45.886894],"type":"Point"}
 }

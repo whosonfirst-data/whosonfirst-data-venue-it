@@ -2,13 +2,14 @@
   "id": 320207467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.594619,45.045902,7.594619,45.045902",
     "geom:latitude":45.045902,
     "geom:longitude":7.594619,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10095 Grugliasco",
     "sg:city":"Grugliasco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320207467,
-    "wof:lastmodified":1449013880,
+    "wof:lastmodified":1466295900,
     "wof:name":"Ocemi Impianti Di Bachis Franco E C.(s.n.c.)",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.594619,45.045902,7.594619,45.045902],
+  "bbox": [
+    7.594619,
+    45.045902,
+    7.594619,
+    45.045902
+],
   "geometry": {"coordinates":[7.594619,45.045902],"type":"Point"}
 }

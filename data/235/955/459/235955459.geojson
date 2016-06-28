@@ -2,13 +2,14 @@
   "id": 235955459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.986404,44.915718,8.986404,44.915718",
     "geom:latitude":44.915718,
     "geom:longitude":8.986404,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59, Via Voghera 15052 Casalnoceto",
     "sg:city":"Casalnoceto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235955459,
-    "wof:lastmodified":1449008476,
+    "wof:lastmodified":1466295186,
     "wof:name":"Al.gro - S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [8.986404,44.915718,8.986404,44.915718],
+  "bbox": [
+    8.986404,
+    44.915718,
+    8.986404,
+    44.915718
+],
   "geometry": {"coordinates":[8.986404,44.915718],"type":"Point"}
 }

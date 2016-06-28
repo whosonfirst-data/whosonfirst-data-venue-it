@@ -2,13 +2,14 @@
   "id": 236401337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.012024,45.431183,11.012024,45.431183",
     "geom:latitude":45.431183,
     "geom:longitude":11.012024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37133 Verona",
     "sg:city":"Verona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236401337,
-    "wof:lastmodified":1449004659,
+    "wof:lastmodified":1466292995,
     "wof:name":"Zanardi Augusto",
     "wof:parent_id":85905041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.012024,45.431183,11.012024,45.431183],
+  "bbox": [
+    11.012024,
+    45.431183,
+    11.012024,
+    45.431183
+],
   "geometry": {"coordinates":[11.012024,45.431183],"type":"Point"}
 }

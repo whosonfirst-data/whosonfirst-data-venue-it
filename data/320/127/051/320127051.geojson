@@ -2,13 +2,14 @@
   "id": 320127051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.015183,40.483761,15.015183,40.483761",
     "geom:latitude":40.483761,
     "geom:longitude":15.015183,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84047 Capaccio",
     "sg:city":"Capaccio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320127051,
-    "wof:lastmodified":1449014657,
+    "wof:lastmodified":1466294943,
     "wof:name":"Super Sele (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.015183,40.483761,15.015183,40.483761],
+  "bbox": [
+    15.015183,
+    40.483761,
+    15.015183,
+    40.483761
+],
   "geometry": {"coordinates":[15.015183,40.483761],"type":"Point"}
 }

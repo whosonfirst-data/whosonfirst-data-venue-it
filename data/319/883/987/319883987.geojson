@@ -2,13 +2,14 @@
   "id": 319883987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.294165,40.840076,14.294165,40.840076",
     "geom:latitude":40.840076,
     "geom:longitude":14.294165,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80146 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":319883987,
-    "wof:lastmodified":1449024700,
+    "wof:lastmodified":1466293333,
     "wof:name":"Con.te Control Tecno Srl",
     "wof:parent_id":85904823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.294165,40.840076,14.294165,40.840076],
+  "bbox": [
+    14.294165,
+    40.840076,
+    14.294165,
+    40.840076
+],
   "geometry": {"coordinates":[14.294165,40.840076],"type":"Point"}
 }

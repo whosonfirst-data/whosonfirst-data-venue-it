@@ -2,13 +2,14 @@
   "id": 269559461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.992083,43.673279,10.992083,43.673279",
     "geom:latitude":43.673279,
     "geom:longitude":10.992083,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Orme, 209 - Martignana 50025 Montespertoli",
     "sg:city":"Martignana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269559461,
-    "wof:lastmodified":1449038308,
+    "wof:lastmodified":1466289828,
     "wof:name":"Compagnia Delle Pelli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [10.992083,43.673279,10.992083,43.673279],
+  "bbox": [
+    10.992083,
+    43.673279,
+    10.992083,
+    43.673279
+],
   "geometry": {"coordinates":[10.992083,43.673279],"type":"Point"}
 }

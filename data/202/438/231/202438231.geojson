@@ -2,13 +2,14 @@
   "id": 202438231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.282045,40.856991,14.282045,40.856991",
     "geom:latitude":40.856991,
     "geom:longitude":14.282045,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80143 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202438231,
-    "wof:lastmodified":1449060972,
+    "wof:lastmodified":1466295547,
     "wof:name":"Istituto G. Verdi Sas",
     "wof:parent_id":85904755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.282045,40.856991,14.282045,40.856991],
+  "bbox": [
+    14.282045,
+    40.856991,
+    14.282045,
+    40.856991
+],
   "geometry": {"coordinates":[14.282045,40.856991],"type":"Point"}
 }

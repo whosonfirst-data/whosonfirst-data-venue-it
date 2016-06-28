@@ -2,13 +2,14 @@
   "id": 303172973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.094766,39.24815,9.094766,39.24815",
     "geom:latitude":39.24815,
     "geom:longitude":9.094766,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09122 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303172973,
-    "wof:lastmodified":1448999103,
+    "wof:lastmodified":1466292603,
     "wof:name":"Forel Forniture Elettriche Spa",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.094766,39.24815,9.094766,39.24815],
+  "bbox": [
+    9.094766,
+    39.24815,
+    9.094766,
+    39.24815
+],
   "geometry": {"coordinates":[9.094766,39.24815],"type":"Point"}
 }

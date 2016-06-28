@@ -2,13 +2,14 @@
   "id": 320069237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.270902,44.460728,11.270902,44.460728",
     "geom:latitude":44.460728,
     "geom:longitude":11.270902,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40033 Casalecchio Di Reno",
     "sg:city":"Casalecchio di Reno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320069237,
-    "wof:lastmodified":1449013616,
+    "wof:lastmodified":1466294237,
     "wof:name":"Coman Filtri Di Mancino Rosanna",
     "wof:parent_id":85904637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.270902,44.460728,11.270902,44.460728],
+  "bbox": [
+    11.270902,
+    44.460728,
+    11.270902,
+    44.460728
+],
   "geometry": {"coordinates":[11.270902,44.460728],"type":"Point"}
 }

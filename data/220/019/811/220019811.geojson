@@ -2,13 +2,14 @@
   "id": 220019811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.247929,43.794861,11.247929,43.794861",
     "geom:latitude":43.794861,
     "geom:longitude":11.247929,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50139 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220019811,
-    "wof:lastmodified":1449074514,
+    "wof:lastmodified":1466294455,
     "wof:name":"Monducci Paolo",
     "wof:parent_id":85904665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.247929,43.794861,11.247929,43.794861],
+  "bbox": [
+    11.247929,
+    43.794861,
+    11.247929,
+    43.794861
+],
   "geometry": {"coordinates":[11.247929,43.794861],"type":"Point"}
 }

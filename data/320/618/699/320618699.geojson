@@ -2,13 +2,14 @@
   "id": 320618699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.709109,45.70187,11.709109,45.70187",
     "geom:latitude":45.70187,
     "geom:longitude":11.709109,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bassano, 8 - Granella 36056 Tezze Sul Brenta",
     "sg:city":"Tezze sul Brenta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320618699,
-    "wof:lastmodified":1449013572,
+    "wof:lastmodified":1466297828,
     "wof:name":"Intermarmor Di Polo Pietro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "marble"
     ]
 },
-  "bbox": [11.709109,45.70187,11.709109,45.70187],
+  "bbox": [
+    11.709109,
+    45.70187,
+    11.709109,
+    45.70187
+],
   "geometry": {"coordinates":[11.709109,45.70187],"type":"Point"}
 }

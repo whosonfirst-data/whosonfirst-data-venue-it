@@ -2,13 +2,14 @@
   "id": 236600497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.236131,44.49366,11.236131,44.49366",
     "geom:latitude":44.49366,
     "geom:longitude":11.236131,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Via Roma 40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236600497,
-    "wof:lastmodified":1449001902,
+    "wof:lastmodified":1466295021,
     "wof:name":"I.p.e. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [11.236131,44.49366,11.236131,44.49366],
+  "bbox": [
+    11.236131,
+    44.49366,
+    11.236131,
+    44.49366
+],
   "geometry": {"coordinates":[11.236131,44.49366],"type":"Point"}
 }

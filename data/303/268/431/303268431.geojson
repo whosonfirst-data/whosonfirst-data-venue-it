@@ -2,13 +2,14 @@
   "id": 303268431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.779449,45.763264,11.779449,45.763264",
     "geom:latitude":45.763264,
     "geom:longitude":11.779449,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Cima 12 36060 Romano D'ezzelino",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303268431,
-    "wof:lastmodified":1448999513,
+    "wof:lastmodified":1466293841,
     "wof:name":"Alberton F.lli Di Alberton Bruno & C. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [11.779449,45.763264,11.779449,45.763264],
+  "bbox": [
+    11.779449,
+    45.763264,
+    11.779449,
+    45.763264
+],
   "geometry": {"coordinates":[11.779449,45.763264],"type":"Point"}
 }

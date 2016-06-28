@@ -2,13 +2,14 @@
   "id": 336625027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.32546,44.365402,8.32546,44.365402",
     "geom:latitude":44.365402,
     "geom:longitude":8.32546,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"179, Corso Marconi 17014 Cairo Montenotte",
     "sg:city":"Cairo Montenotte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336625027,
-    "wof:lastmodified":1448998034,
+    "wof:lastmodified":1466294032,
     "wof:name":"Campini S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [8.32546,44.365402,8.32546,44.365402],
+  "bbox": [
+    8.32546,
+    44.365402,
+    8.32546,
+    44.365402
+],
   "geometry": {"coordinates":[8.32546,44.365402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202842709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.008884,44.690529,11.008884,44.690529",
     "geom:latitude":44.690529,
     "geom:longitude":11.008884,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41030 Villavara Di Bomporto",
     "sg:city":"Bomporto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202842709,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466292636,
     "wof:name":"Ma.bor. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.008884,44.690529,11.008884,44.690529],
+  "bbox": [
+    11.008884,
+    44.690529,
+    11.008884,
+    44.690529
+],
   "geometry": {"coordinates":[11.008884,44.690529],"type":"Point"}
 }

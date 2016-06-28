@@ -2,13 +2,14 @@
   "id": 202542695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.459562,46.291626,11.459562,46.291626",
     "geom:latitude":46.291626,
     "geom:longitude":11.459562,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"38033 Cavalese",
     "sg:city":"Cavalese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202542695,
-    "wof:lastmodified":1449062093,
+    "wof:lastmodified":1466289364,
     "wof:name":"Magnifica Comunit\u00c0 Di Fiemme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.459562,46.291626,11.459562,46.291626],
+  "bbox": [
+    11.459562,
+    46.291626,
+    11.459562,
+    46.291626
+],
   "geometry": {"coordinates":[11.459562,46.291626],"type":"Point"}
 }

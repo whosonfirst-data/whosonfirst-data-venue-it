@@ -2,13 +2,14 @@
   "id": 236564825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.174015,40.353291,18.174015,40.353291",
     "geom:latitude":40.353291,
     "geom:longitude":18.174015,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Collegamento Lecce-leuca",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236564825,
-    "wof:lastmodified":1449005014,
+    "wof:lastmodified":1466294701,
     "wof:name":"Corniceria Salentina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [18.174015,40.353291,18.174015,40.353291],
+  "bbox": [
+    18.174015,
+    40.353291,
+    18.174015,
+    40.353291
+],
   "geometry": {"coordinates":[18.174015,40.353291],"type":"Point"}
 }

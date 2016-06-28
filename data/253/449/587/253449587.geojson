@@ -2,13 +2,14 @@
   "id": 253449587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.793339,45.157917,10.793339,45.157917",
     "geom:latitude":45.157917,
     "geom:longitude":10.793339,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46030 Cerese",
     "sg:city":"Cerese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253449587,
-    "wof:lastmodified":1449065573,
+    "wof:lastmodified":1466293996,
     "wof:name":"R.b.c. Di Rosa Danilo & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.793339,45.157917,10.793339,45.157917],
+  "bbox": [
+    10.793339,
+    45.157917,
+    10.793339,
+    45.157917
+],
   "geometry": {"coordinates":[10.793339,45.157917],"type":"Point"}
 }

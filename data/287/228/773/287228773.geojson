@@ -2,13 +2,14 @@
   "id": 287228773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.259761,45.419693,9.259761,45.419693",
     "geom:latitude":45.419693,
     "geom:longitude":9.259761,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Monte Nero 20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287228773,
-    "wof:lastmodified":1449000930,
+    "wof:lastmodified":1466292650,
     "wof:name":"Elettronica S. Donato Di Baroncelli Claudio",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.259761,45.419693,9.259761,45.419693],
+  "bbox": [
+    9.259761,
+    45.419693,
+    9.259761,
+    45.419693
+],
   "geometry": {"coordinates":[9.259761,45.419693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253194531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.767062,45.117088,11.767062,45.117088",
     "geom:latitude":45.117088,
     "geom:longitude":11.767062,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Europa 6 35040 Vescovana",
     "sg:city":"Vescovana",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253194531,
-    "wof:lastmodified":1449065343,
+    "wof:lastmodified":1466290932,
     "wof:name":"Linea Ufficio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [11.767062,45.117088,11.767062,45.117088],
+  "bbox": [
+    11.767062,
+    45.117088,
+    11.767062,
+    45.117088
+],
   "geometry": {"coordinates":[11.767062,45.117088],"type":"Point"}
 }

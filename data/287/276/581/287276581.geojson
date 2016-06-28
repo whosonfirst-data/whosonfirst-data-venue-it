@@ -2,13 +2,14 @@
   "id": 287276581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.191275,45.428898,9.191275,45.428898",
     "geom:latitude":45.428898,
     "geom:longitude":9.191275,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53/33, Via Campazzino 20141 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287276581,
-    "wof:lastmodified":1449000701,
+    "wof:lastmodified":1466293253,
     "wof:name":"I.c.m.",
     "wof:parent_id":85862725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [9.191275,45.428898,9.191275,45.428898],
+  "bbox": [
+    9.191275,
+    45.428898,
+    9.191275,
+    45.428898
+],
   "geometry": {"coordinates":[9.191275,45.428898],"type":"Point"}
 }

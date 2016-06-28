@@ -2,13 +2,14 @@
   "id": 186010657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.540607,41.880863,12.540607,41.880863",
     "geom:latitude":41.880863,
     "geom:longitude":12.540607,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Casilina, 419/427; Roma",
     "sg:classifiers":[
         {
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":186010657,
-    "wof:lastmodified":1449052036,
+    "wof:lastmodified":1466292066,
     "wof:name":"Cassa Di Risparmio Di Roma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.540607,41.880863,12.540607,41.880863],
+  "bbox": [
+    12.540607,
+    41.880863,
+    12.540607,
+    41.880863
+],
   "geometry": {"coordinates":[12.540607,41.880863],"type":"Point"}
 }

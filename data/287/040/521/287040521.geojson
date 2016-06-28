@@ -2,13 +2,14 @@
   "id": 287040521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.638137,45.451233,8.638137,45.451233",
     "geom:latitude":45.451233,
     "geom:longitude":8.638137,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287040521,
-    "wof:lastmodified":1449001570,
+    "wof:lastmodified":1466290096,
     "wof:name":"Nuova Tipografia San Gaudenzio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.638137,45.451233,8.638137,45.451233],
+  "bbox": [
+    8.638137,
+    45.451233,
+    8.638137,
+    45.451233
+],
   "geometry": {"coordinates":[8.638137,45.451233],"type":"Point"}
 }

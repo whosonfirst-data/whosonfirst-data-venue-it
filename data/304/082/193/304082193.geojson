@@ -2,13 +2,14 @@
   "id": 304082193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.203226,45.482468,9.203226,45.482468",
     "geom:latitude":45.482468,
     "geom:longitude":9.203226,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"327, Viale Testi Fulvio 20162 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":304082193,
-    "wof:lastmodified":1449043601,
+    "wof:lastmodified":1466293286,
     "wof:name":"Sun Microsystems Italia Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [9.203226,45.482468,9.203226,45.482468],
+  "bbox": [
+    9.203226,
+    45.482468,
+    9.203226,
+    45.482468
+],
   "geometry": {"coordinates":[9.203226,45.482468],"type":"Point"}
 }

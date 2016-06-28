@@ -2,13 +2,14 @@
   "id": 286792889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.08781,45.549232,9.08781,45.549232",
     "geom:latitude":45.549232,
     "geom:longitude":9.08781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Campo Gallo 20020 Arese",
     "sg:city":"Arese",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286792889,
-    "wof:lastmodified":1449015801,
+    "wof:lastmodified":1466296313,
     "wof:name":"Telesystem (s.r.l.)",
     "wof:parent_id":85862699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [9.08781,45.549232,9.08781,45.549232],
+  "bbox": [
+    9.08781,
+    45.549232,
+    9.08781,
+    45.549232
+],
   "geometry": {"coordinates":[9.08781,45.549232],"type":"Point"}
 }

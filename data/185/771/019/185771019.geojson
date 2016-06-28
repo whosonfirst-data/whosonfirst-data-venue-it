@@ -2,13 +2,14 @@
   "id": 185771019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.450948,43.299648,13.450948,43.299648",
     "geom:latitude":43.299648,
     "geom:longitude":13.450948,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Oberdan 8; Macerata; 62100",
     "sg:city":"Macerata",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185771019,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466289091,
     "wof:name":"Banca Popolare Di Ancona Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.450948,43.299648,13.450948,43.299648],
+  "bbox": [
+    13.450948,
+    43.299648,
+    13.450948,
+    43.299648
+],
   "geometry": {"coordinates":[13.450948,43.299648],"type":"Point"}
 }

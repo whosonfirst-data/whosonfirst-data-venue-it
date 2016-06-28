@@ -2,13 +2,14 @@
   "id": 236672351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.169706,45.673737,9.169706,45.673737",
     "geom:latitude":45.673737,
     "geom:longitude":9.169706,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Via Dante 22060 Carugo",
     "sg:city":"Carugo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236672351,
-    "wof:lastmodified":1449001837,
+    "wof:lastmodified":1466295684,
     "wof:name":"Unimob (s.n.c.)",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.169706,45.673737,9.169706,45.673737],
+  "bbox": [
+    9.169706,
+    45.673737,
+    9.169706,
+    45.673737
+],
   "geometry": {"coordinates":[9.169706,45.673737],"type":"Point"}
 }

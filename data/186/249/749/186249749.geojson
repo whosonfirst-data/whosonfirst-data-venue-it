@@ -2,13 +2,14 @@
   "id": 186249749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.294978,45.52977,9.294978,45.52977",
     "geom:latitude":45.52977,
     "geom:longitude":9.294978,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Verona 5 20063 Cernusco Sul Naviglio",
     "sg:city":"Cernusco sul Naviglio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186249749,
-    "wof:lastmodified":1449050406,
+    "wof:lastmodified":1466290076,
     "wof:name":"Mecaplast Commerciali Srl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitting"
     ]
 },
-  "bbox": [9.294978,45.52977,9.294978,45.52977],
+  "bbox": [
+    9.294978,
+    45.52977,
+    9.294978,
+    45.52977
+],
   "geometry": {"coordinates":[9.294978,45.52977],"type":"Point"}
 }

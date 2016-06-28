@@ -2,13 +2,14 @@
   "id": 253248295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.74536,45.140156,7.74536,45.140156",
     "geom:latitude":45.140156,
     "geom:longitude":7.74536,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10155 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253248295,
-    "wof:lastmodified":1449064451,
+    "wof:lastmodified":1466291548,
     "wof:name":"Carasso Teppa Dr. Maria Cristina",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.74536,45.140156,7.74536,45.140156],
+  "bbox": [
+    7.74536,
+    45.140156,
+    7.74536,
+    45.140156
+],
   "geometry": {"coordinates":[7.74536,45.140156],"type":"Point"}
 }

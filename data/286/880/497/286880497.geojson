@@ -2,13 +2,14 @@
   "id": 286880497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.675977,43.6437,10.675977,43.6437",
     "geom:latitude":43.6437,
     "geom:longitude":10.675977,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56025 Pontedera",
     "sg:city":"Pontedera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286880497,
-    "wof:lastmodified":1449018113,
+    "wof:lastmodified":1466296963,
     "wof:name":"I.l.t. Industria Lavorazioni Tecnologiche Di Benedetti P. & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.675977,43.6437,10.675977,43.6437],
+  "bbox": [
+    10.675977,
+    43.6437,
+    10.675977,
+    43.6437
+],
   "geometry": {"coordinates":[10.675977,43.6437],"type":"Point"}
 }

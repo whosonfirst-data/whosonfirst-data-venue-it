@@ -2,13 +2,14 @@
   "id": 303260425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.949799,45.397846,8.949799,45.397846",
     "geom:latitude":45.397846,
     "geom:longitude":8.949799,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via Mendosio 20081 Abbiategrasso",
     "sg:city":"Abbiategrasso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303260425,
-    "wof:lastmodified":1448998524,
+    "wof:lastmodified":1466293738,
     "wof:name":"Andreoni Marcello Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [8.949799,45.397846,8.949799,45.397846],
+  "bbox": [
+    8.949799,
+    45.397846,
+    8.949799,
+    45.397846
+],
   "geometry": {"coordinates":[8.949799,45.397846],"type":"Point"}
 }

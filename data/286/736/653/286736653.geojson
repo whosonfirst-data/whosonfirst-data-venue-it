@@ -2,13 +2,14 @@
   "id": 286736653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.701959,45.062534,7.701959,45.062534",
     "geom:latitude":45.062534,
     "geom:longitude":7.701959,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10073 Cirie'",
     "sg:classifiers":[],
     "sg:orig_category":"Cosmetici, Prodotti Di Bellezza E Di Igiene",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286736653,
-    "wof:lastmodified":1449018045,
+    "wof:lastmodified":1466295687,
     "wof:name":"Valnat\u00cc Sas Di Valvason Natalia",
     "wof:parent_id":85797019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.701959,45.062534,7.701959,45.062534],
+  "bbox": [
+    7.701959,
+    45.062534,
+    7.701959,
+    45.062534
+],
   "geometry": {"coordinates":[7.701959,45.062534],"type":"Point"}
 }

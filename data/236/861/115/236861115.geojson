@@ -2,13 +2,14 @@
   "id": 236861115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.240009,40.469238,17.240009,40.469238",
     "geom:latitude":40.469238,
     "geom:longitude":17.240009,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Baronia 74027 San Giorgio Jonico",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236861115,
-    "wof:lastmodified":1449005221,
+    "wof:lastmodified":1466296885,
     "wof:name":"Donzella",
     "wof:parent_id":85900341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [17.240009,40.469238,17.240009,40.469238],
+  "bbox": [
+    17.240009,
+    40.469238,
+    17.240009,
+    40.469238
+],
   "geometry": {"coordinates":[17.240009,40.469238],"type":"Point"}
 }

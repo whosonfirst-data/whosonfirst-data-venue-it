@@ -2,13 +2,14 @@
   "id": 252789767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.293656,45.512985,9.293656,45.512985",
     "geom:latitude":45.512985,
     "geom:longitude":9.293656,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20063 Cernusco Naviglio",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Esterno, Maglierie E Pelliccerie. Forniture Industriali Per Prevenzione, Controllo E Sicurezza",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252789767,
-    "wof:lastmodified":1449005900,
+    "wof:lastmodified":1466289791,
     "wof:name":"Ergon Srl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.293656,45.512985,9.293656,45.512985],
+  "bbox": [
+    9.293656,
+    45.512985,
+    9.293656,
+    45.512985
+],
   "geometry": {"coordinates":[9.293656,45.512985],"type":"Point"}
 }

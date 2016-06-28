@@ -2,13 +2,14 @@
   "id": 219396653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.425417,45.783485,11.425417,45.783485",
     "geom:latitude":45.783485,
     "geom:longitude":11.425417,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Trieste 13 36010 Cogollo Del Cengio",
     "sg:city":"Cogollo del Cengio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219396653,
-    "wof:lastmodified":1449072696,
+    "wof:lastmodified":1466290312,
     "wof:name":"Rizzato Inox Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "working"
     ]
 },
-  "bbox": [11.425417,45.783485,11.425417,45.783485],
+  "bbox": [
+    11.425417,
+    45.783485,
+    11.425417,
+    45.783485
+],
   "geometry": {"coordinates":[11.425417,45.783485],"type":"Point"}
 }

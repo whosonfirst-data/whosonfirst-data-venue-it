@@ -2,13 +2,14 @@
   "id": 303790943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.636401,45.024689,11.636401,45.024689",
     "geom:latitude":45.024689,
     "geom:longitude":11.636401,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45025 Fratta Polesine",
     "sg:city":"Fratta Polesine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303790943,
-    "wof:lastmodified":1448999992,
+    "wof:lastmodified":1466297698,
     "wof:name":"Prearo Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.636401,45.024689,11.636401,45.024689],
+  "bbox": [
+    11.636401,
+    45.024689,
+    11.636401,
+    45.024689
+],
   "geometry": {"coordinates":[11.636401,45.024689],"type":"Point"}
 }

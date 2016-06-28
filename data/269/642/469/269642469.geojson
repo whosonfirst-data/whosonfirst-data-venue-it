@@ -2,13 +2,14 @@
   "id": 269642469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.211549,45.529617,10.211549,45.529617",
     "geom:latitude":45.529617,
     "geom:longitude":10.211549,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Privata De Vitalis 26c 25124 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269642469,
-    "wof:lastmodified":1449036284,
+    "wof:lastmodified":1466290854,
     "wof:name":"Ilb Impianti Litografici Brescia Snc Di Panni G Sabattoli P E Panni R",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.211549,45.529617,10.211549,45.529617],
+  "bbox": [
+    10.211549,
+    45.529617,
+    10.211549,
+    45.529617
+],
   "geometry": {"coordinates":[10.211549,45.529617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236250741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.008568,43.803841,11.008568,43.803841",
     "geom:latitude":43.803841,
     "geom:longitude":11.008568,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59015 Santa Cristina A Mezzana",
     "sg:classifiers":[],
     "sg:orig_category":"Non-classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236250741,
-    "wof:lastmodified":1449003544,
+    "wof:lastmodified":1466291425,
     "wof:name":"Attucci Antonella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.008568,43.803841,11.008568,43.803841],
+  "bbox": [
+    11.008568,
+    43.803841,
+    11.008568,
+    43.803841
+],
   "geometry": {"coordinates":[11.008568,43.803841],"type":"Point"}
 }

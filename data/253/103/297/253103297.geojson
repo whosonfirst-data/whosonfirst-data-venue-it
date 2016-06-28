@@ -2,13 +2,14 @@
   "id": 253103297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.897492,45.626419,9.897492,45.626419",
     "geom:latitude":45.626419,
     "geom:longitude":9.897492,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cercone 18 24060 Castelli Calepio",
     "sg:city":"Castelli Calepio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253103297,
-    "wof:lastmodified":1449064661,
+    "wof:lastmodified":1466290002,
     "wof:name":"Antonio Bertoli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.897492,45.626419,9.897492,45.626419],
+  "bbox": [
+    9.897492,
+    45.626419,
+    9.897492,
+    45.626419
+],
   "geometry": {"coordinates":[9.897492,45.626419],"type":"Point"}
 }

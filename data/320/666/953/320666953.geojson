@@ -2,13 +2,14 @@
   "id": 320666953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.08147,45.617405,9.08147,45.617405",
     "geom:latitude":45.617405,
     "geom:longitude":9.08147,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20020 Solaro",
     "sg:city":"Solaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320666953,
-    "wof:lastmodified":1449012648,
+    "wof:lastmodified":1466297944,
     "wof:name":"Microcircuiti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.08147,45.617405,9.08147,45.617405],
+  "bbox": [
+    9.08147,
+    45.617405,
+    9.08147,
+    45.617405
+],
   "geometry": {"coordinates":[9.08147,45.617405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336934421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.113797,39.218624,9.113797,39.218624",
     "geom:latitude":39.218624,
     "geom:longitude":9.113797,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09124 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336934421,
-    "wof:lastmodified":1448996967,
+    "wof:lastmodified":1466297036,
     "wof:name":"Falqui Antonio Maria",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.113797,39.218624,9.113797,39.218624],
+  "bbox": [
+    9.113797,
+    39.218624,
+    9.113797,
+    39.218624
+],
   "geometry": {"coordinates":[9.113797,39.218624],"type":"Point"}
 }

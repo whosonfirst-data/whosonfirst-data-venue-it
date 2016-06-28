@@ -2,13 +2,14 @@
   "id": 219535239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.683908,44.959888,10.683908,44.959888",
     "geom:latitude":44.959888,
     "geom:longitude":10.683908,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Lorenzini 3b 42045 Luzzara",
     "sg:classifiers":[],
     "sg:orig_category":"Refrigeration Systems For Laboratories",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219535239,
-    "wof:lastmodified":1449071033,
+    "wof:lastmodified":1466291713,
     "wof:name":"Cf Di Fiocchetti Ciro E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.683908,44.959888,10.683908,44.959888],
+  "bbox": [
+    10.683908,
+    44.959888,
+    10.683908,
+    44.959888
+],
   "geometry": {"coordinates":[10.683908,44.959888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253726111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.078519,45.502506,9.078519,45.502506",
     "geom:latitude":45.502506,
     "geom:longitude":9.078519,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Buonarroti Michelangelo 20016 Pero",
     "sg:city":"Pero",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253726111,
-    "wof:lastmodified":1449064874,
+    "wof:lastmodified":1466296842,
     "wof:name":"Portolano Pelli Snc",
     "wof:parent_id":85862765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "-"
     ]
 },
-  "bbox": [9.078519,45.502506,9.078519,45.502506],
+  "bbox": [
+    9.078519,
+    45.502506,
+    9.078519,
+    45.502506
+],
   "geometry": {"coordinates":[9.078519,45.502506],"type":"Point"}
 }

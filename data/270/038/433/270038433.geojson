@@ -2,13 +2,14 @@
   "id": 270038433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.982727,43.390682,12.982727,43.390682",
     "geom:latitude":43.390682,
     "geom:longitude":12.982727,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Frazione Valtreara 83 60040 Genga",
     "sg:city":"Genga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270038433,
-    "wof:lastmodified":1449010233,
+    "wof:lastmodified":1466289443,
     "wof:name":"Nuova S.i.m.a Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "carbonate"
     ]
 },
-  "bbox": [12.982727,43.390682,12.982727,43.390682],
+  "bbox": [
+    12.982727,
+    43.390682,
+    12.982727,
+    43.390682
+],
   "geometry": {"coordinates":[12.982727,43.390682],"type":"Point"}
 }

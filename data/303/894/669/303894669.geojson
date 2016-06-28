@@ -2,13 +2,14 @@
   "id": 303894669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.625503,44.977627,7.625503,44.977627",
     "geom:latitude":44.977627,
     "geom:longitude":7.625503,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10048 Vinovo",
     "sg:city":"Vinovo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303894669,
-    "wof:lastmodified":1448999126,
+    "wof:lastmodified":1466298063,
     "wof:name":"Varrone Giuseppe",
     "wof:parent_id":85797003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.625503,44.977627,7.625503,44.977627],
+  "bbox": [
+    7.625503,
+    44.977627,
+    7.625503,
+    44.977627
+],
   "geometry": {"coordinates":[7.625503,44.977627],"type":"Point"}
 }

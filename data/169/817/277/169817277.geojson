@@ -2,13 +2,14 @@
   "id": 169817277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.641078,45.043457,7.641078,45.043457",
     "geom:latitude":45.043457,
     "geom:longitude":7.641078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"162, Via Filadelfia 10137 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169817277,
-    "wof:lastmodified":1449035313,
+    "wof:lastmodified":1466288931,
     "wof:name":"Fox E Parker 1975 S.r.l.",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "institution"
     ]
 },
-  "bbox": [7.641078,45.043457,7.641078,45.043457],
+  "bbox": [
+    7.641078,
+    45.043457,
+    7.641078,
+    45.043457
+],
   "geometry": {"coordinates":[7.641078,45.043457],"type":"Point"}
 }

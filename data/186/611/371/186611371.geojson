@@ -2,13 +2,14 @@
   "id": 186611371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.841462,45.820152,8.841462,45.820152",
     "geom:latitude":45.820152,
     "geom:longitude":8.841462,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21100 Varese",
     "sg:city":"Varese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186611371,
-    "wof:lastmodified":1449052442,
+    "wof:lastmodified":1466293404,
     "wof:name":"Mobilstil Di Rossini Pietro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.841462,45.820152,8.841462,45.820152],
+  "bbox": [
+    8.841462,
+    45.820152,
+    8.841462,
+    45.820152
+],
   "geometry": {"coordinates":[8.841462,45.820152],"type":"Point"}
 }

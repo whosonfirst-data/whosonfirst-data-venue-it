@@ -2,13 +2,14 @@
   "id": 336619437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.691127,43.837349,10.691127,43.837349",
     "geom:latitude":43.837349,
     "geom:longitude":10.691127,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Mammianese 55011 Altopascio",
     "sg:city":"Altopascio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336619437,
-    "wof:lastmodified":1448997139,
+    "wof:lastmodified":1466293967,
     "wof:name":"C.l.l.a.t. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.691127,43.837349,10.691127,43.837349],
+  "bbox": [
+    10.691127,
+    43.837349,
+    10.691127,
+    43.837349
+],
   "geometry": {"coordinates":[10.691127,43.837349],"type":"Point"}
 }

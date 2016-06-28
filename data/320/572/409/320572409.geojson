@@ -2,13 +2,14 @@
   "id": 320572409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.509534,41.936531,12.509534,41.936531",
     "geom:latitude":41.936531,
     "geom:longitude":12.509534,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00199 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320572409,
-    "wof:lastmodified":1449013539,
+    "wof:lastmodified":1466297738,
     "wof:name":"Metecno Spa",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.509534,41.936531,12.509534,41.936531],
+  "bbox": [
+    12.509534,
+    41.936531,
+    12.509534,
+    41.936531
+],
   "geometry": {"coordinates":[12.509534,41.936531],"type":"Point"}
 }

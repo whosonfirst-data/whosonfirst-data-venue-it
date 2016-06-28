@@ -2,13 +2,14 @@
   "id": 286758041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.259172,45.527081,9.259172,45.527081",
     "geom:latitude":45.527081,
     "geom:longitude":9.259172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":286758041,
-    "wof:lastmodified":1449016076,
+    "wof:lastmodified":1466295951,
     "wof:name":"Rollon Spa",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.259172,45.527081,9.259172,45.527081],
+  "bbox": [
+    9.259172,
+    45.527081,
+    9.259172,
+    45.527081
+],
   "geometry": {"coordinates":[9.259172,45.527081],"type":"Point"}
 }

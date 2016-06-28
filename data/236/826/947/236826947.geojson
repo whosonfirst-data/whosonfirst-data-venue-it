@@ -2,13 +2,14 @@
   "id": 236826947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.188227,45.539879,9.188227,45.539879",
     "geom:latitude":45.539879,
     "geom:longitude":9.188227,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236826947,
-    "wof:lastmodified":1449004162,
+    "wof:lastmodified":1466296695,
     "wof:name":"Araba Fenice - Bjoux E Accessori",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.188227,45.539879,9.188227,45.539879],
+  "bbox": [
+    9.188227,
+    45.539879,
+    9.188227,
+    45.539879
+],
   "geometry": {"coordinates":[9.188227,45.539879],"type":"Point"}
 }

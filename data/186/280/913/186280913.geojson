@@ -2,13 +2,14 @@
   "id": 186280913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.256042,40.887718,14.256042,40.887718",
     "geom:latitude":40.887718,
     "geom:longitude":14.256042,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80145 Miano",
     "sg:city":"Miano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186280913,
-    "wof:lastmodified":1449051697,
+    "wof:lastmodified":1466290327,
     "wof:name":"Birra Peroni Industriale",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.256042,40.887718,14.256042,40.887718],
+  "bbox": [
+    14.256042,
+    40.887718,
+    14.256042,
+    40.887718
+],
   "geometry": {"coordinates":[14.256042,40.887718],"type":"Point"}
 }

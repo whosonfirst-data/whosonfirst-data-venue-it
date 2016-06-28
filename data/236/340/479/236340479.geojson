@@ -2,13 +2,14 @@
   "id": 236340479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.257313,42.340759,14.257313,42.340759",
     "geom:latitude":42.340759,
     "geom:longitude":14.257313,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66010 Miglianico",
     "sg:city":"Miglianico",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236340479,
-    "wof:lastmodified":1449004342,
+    "wof:lastmodified":1466292355,
     "wof:name":"Marino Marini Arredamenti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.257313,42.340759,14.257313,42.340759],
+  "bbox": [
+    14.257313,
+    42.340759,
+    14.257313,
+    42.340759
+],
   "geometry": {"coordinates":[14.257313,42.340759],"type":"Point"}
 }

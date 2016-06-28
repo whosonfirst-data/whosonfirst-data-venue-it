@@ -2,13 +2,14 @@
   "id": 219776285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.313234,45.735001,7.313234,45.735001",
     "geom:latitude":45.735001,
     "geom:longitude":7.313234,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Loc. Predumaz Falcoz 11010 Saint Rhemy En Bosses",
     "sg:city":"Bosses",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219776285,
-    "wof:lastmodified":1449071165,
+    "wof:lastmodified":1466294044,
     "wof:name":"Traforo Del Gran San Bernardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "road"
     ]
 },
-  "bbox": [7.313234,45.735001,7.313234,45.735001],
+  "bbox": [
+    7.313234,
+    45.735001,
+    7.313234,
+    45.735001
+],
   "geometry": {"coordinates":[7.313234,45.735001],"type":"Point"}
 }

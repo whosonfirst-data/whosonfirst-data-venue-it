@@ -2,13 +2,14 @@
   "id": 270035231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.55894,41.660557,13.55894,41.660557",
     "geom:latitude":41.660557,
     "geom:longitude":13.55894,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03036 Isola Del Liri",
     "sg:city":"Isola del Liri",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270035231,
-    "wof:lastmodified":1449010596,
+    "wof:lastmodified":1466289406,
     "wof:name":"A.ma.c.la.m. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.55894,41.660557,13.55894,41.660557],
+  "bbox": [
+    13.55894,
+    41.660557,
+    13.55894,
+    41.660557
+],
   "geometry": {"coordinates":[13.55894,41.660557],"type":"Point"}
 }

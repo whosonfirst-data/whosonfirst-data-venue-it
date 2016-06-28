@@ -2,13 +2,14 @@
   "id": 185664847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.273554,40.899052,14.273554,40.899052",
     "geom:latitude":40.899052,
     "geom:longitude":14.273554,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Salvator Rosa 24; Casavatore; 80020",
     "sg:city":"Casavatore",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185664847,
-    "wof:lastmodified":1449007195,
+    "wof:lastmodified":1466295143,
     "wof:name":"Banca Di Credito Popolare Scarl",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.273554,40.899052,14.273554,40.899052],
+  "bbox": [
+    14.273554,
+    40.899052,
+    14.273554,
+    40.899052
+],
   "geometry": {"coordinates":[14.273554,40.899052],"type":"Point"}
 }

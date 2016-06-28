@@ -2,13 +2,14 @@
   "id": 320794019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.217348,45.48806,9.217348,45.48806",
     "geom:latitude":45.48806,
     "geom:longitude":9.217348,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20060 Bussero",
     "sg:city":"Bussero",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320794019,
-    "wof:lastmodified":1449013053,
+    "wof:lastmodified":1466298225,
     "wof:name":"F.a.i.s. Di Cusanna & Fabbri (s.n.c.)",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.217348,45.48806,9.217348,45.48806],
+  "bbox": [
+    9.217348,
+    45.48806,
+    9.217348,
+    45.48806
+],
   "geometry": {"coordinates":[9.217348,45.48806],"type":"Point"}
 }

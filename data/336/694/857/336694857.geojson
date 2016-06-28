@@ -2,13 +2,14 @@
   "id": 336694857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.999735,42.63821,13.999735,42.63821",
     "geom:latitude":42.63821,
     "geom:longitude":13.999735,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Stracca 64032 Atri",
     "sg:city":"Atri",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336694857,
-    "wof:lastmodified":1448997251,
+    "wof:lastmodified":1466294867,
     "wof:name":"Italprefabbicati Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [13.999735,42.63821,13.999735,42.63821],
+  "bbox": [
+    13.999735,
+    42.63821,
+    13.999735,
+    42.63821
+],
   "geometry": {"coordinates":[13.999735,42.63821],"type":"Point"}
 }

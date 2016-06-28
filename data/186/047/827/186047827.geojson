@@ -2,13 +2,14 @@
   "id": 186047827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.908971,45.790661,12.908971,45.790661",
     "geom:latitude":45.790661,
     "geom:longitude":12.908971,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V.v. Emanuele, 16; Teglio Veneto; 30020",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186047827,
-    "wof:lastmodified":1449052102,
+    "wof:lastmodified":1466295014,
     "wof:name":"Cassa Rurale Ed Artigiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.908971,45.790661,12.908971,45.790661],
+  "bbox": [
+    12.908971,
+    45.790661,
+    12.908971,
+    45.790661
+],
   "geometry": {"coordinates":[12.908971,45.790661],"type":"Point"}
 }

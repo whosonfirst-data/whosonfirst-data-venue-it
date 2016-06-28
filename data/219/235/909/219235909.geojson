@@ -2,13 +2,14 @@
   "id": 219235909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.801754,45.667103,11.801754,45.667103",
     "geom:latitude":45.667103,
     "geom:longitude":11.801754,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S. Antonio 24 36056 Tezze Sul Brenta",
     "sg:city":"Tezze sul Brenta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219235909,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466295908,
     "wof:name":"Parolin S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "system"
     ]
 },
-  "bbox": [11.801754,45.667103,11.801754,45.667103],
+  "bbox": [
+    11.801754,
+    45.667103,
+    11.801754,
+    45.667103
+],
   "geometry": {"coordinates":[11.801754,45.667103],"type":"Point"}
 }

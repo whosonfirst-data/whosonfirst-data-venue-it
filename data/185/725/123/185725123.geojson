@@ -2,13 +2,14 @@
   "id": 185725123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.664799,41.560085,14.664799,41.560085",
     "geom:latitude":41.560085,
     "geom:longitude":14.664799,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Largo Cavour 1, 86044 Colletorto, Cb",
     "sg:city":"Colletorto",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185725123,
-    "wof:lastmodified":1449007002,
+    "wof:lastmodified":1466296134,
     "wof:name":"Banca Molisana Di Credito Cooperativo Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.664799,41.560085,14.664799,41.560085],
+  "bbox": [
+    14.664799,
+    41.560085,
+    14.664799,
+    41.560085
+],
   "geometry": {"coordinates":[14.664799,41.560085],"type":"Point"}
 }

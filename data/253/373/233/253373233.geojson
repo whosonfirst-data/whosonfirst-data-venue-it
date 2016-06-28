@@ -2,13 +2,14 @@
   "id": 253373233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.616951,44.913216,8.616951,44.913216",
     "geom:latitude":44.913216,
     "geom:longitude":8.616951,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Strada St. 35 Bis Dei Giovi 15065 Frugarolo",
     "sg:city":"Frugarolo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253373233,
-    "wof:lastmodified":1449064353,
+    "wof:lastmodified":1466293103,
     "wof:name":"Aschiero Wood Import S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [8.616951,44.913216,8.616951,44.913216],
+  "bbox": [
+    8.616951,
+    44.913216,
+    8.616951,
+    44.913216
+],
   "geometry": {"coordinates":[8.616951,44.913216],"type":"Point"}
 }

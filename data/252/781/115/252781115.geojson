@@ -2,13 +2,14 @@
   "id": 252781115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.430734,41.900837,12.430734,41.900837",
     "geom:latitude":41.900837,
     "geom:longitude":12.430734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00165 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252781115,
-    "wof:lastmodified":1449005620,
+    "wof:lastmodified":1466289699,
     "wof:name":"Blasio Enterprise Italia",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.430734,41.900837,12.430734,41.900837],
+  "bbox": [
+    12.430734,
+    41.900837,
+    12.430734,
+    41.900837
+],
   "geometry": {"coordinates":[12.430734,41.900837],"type":"Point"}
 }

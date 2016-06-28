@@ -2,13 +2,14 @@
   "id": 220087301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.092647,46.099354,12.092647,46.099354",
     "geom:latitude":46.099354,
     "geom:longitude":12.092647,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavalieri Di Vittorio Veneto 25 32030 Bribano",
     "sg:classifiers":[
         {
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220087301,
-    "wof:lastmodified":1449074390,
+    "wof:lastmodified":1466295708,
     "wof:name":"Polaris Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [12.092647,46.099354,12.092647,46.099354],
+  "bbox": [
+    12.092647,
+    46.099354,
+    12.092647,
+    46.099354
+],
   "geometry": {"coordinates":[12.092647,46.099354],"type":"Point"}
 }

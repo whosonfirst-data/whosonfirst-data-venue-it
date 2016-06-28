@@ -2,13 +2,14 @@
   "id": 286537343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.813516,43.728973,10.813516,43.728973",
     "geom:latitude":43.728973,
     "geom:longitude":10.813516,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Delle Fornaci 50054 Fucecchio",
     "sg:city":"Fucecchio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286537343,
-    "wof:lastmodified":1449015895,
+    "wof:lastmodified":1466293166,
     "wof:name":"Ma Kei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.813516,43.728973,10.813516,43.728973],
+  "bbox": [
+    10.813516,
+    43.728973,
+    10.813516,
+    43.728973
+],
   "geometry": {"coordinates":[10.813516,43.728973],"type":"Point"}
 }

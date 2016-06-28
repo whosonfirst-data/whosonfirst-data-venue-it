@@ -2,13 +2,14 @@
   "id": 320493235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.085605,45.446289,9.085605,45.446289",
     "geom:latitude":45.446289,
     "geom:longitude":9.085605,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Cesano Boscone",
     "sg:city":"Cesano Boscone",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320493235,
-    "wof:lastmodified":1449012453,
+    "wof:lastmodified":1466297511,
     "wof:name":"Zini Prodotti Alimentari Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.085605,45.446289,9.085605,45.446289],
+  "bbox": [
+    9.085605,
+    45.446289,
+    9.085605,
+    45.446289
+],
   "geometry": {"coordinates":[9.085605,45.446289],"type":"Point"}
 }

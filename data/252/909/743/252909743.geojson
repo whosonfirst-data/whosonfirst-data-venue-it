@@ -2,13 +2,14 @@
   "id": 252909743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.663723,45.107666,7.663723,45.107666",
     "geom:latitude":45.107666,
     "geom:longitude":7.663723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sparone 14c 10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252909743,
-    "wof:lastmodified":1449006230,
+    "wof:lastmodified":1466291139,
     "wof:name":"Ialta Srl",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abrasive"
     ]
 },
-  "bbox": [7.663723,45.107666,7.663723,45.107666],
+  "bbox": [
+    7.663723,
+    45.107666,
+    7.663723,
+    45.107666
+],
   "geometry": {"coordinates":[7.663723,45.107666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286732777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.217649,40.89072,14.217649,40.89072",
     "geom:latitude":40.89072,
     "geom:longitude":14.217649,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80133 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286732777,
-    "wof:lastmodified":1449018183,
+    "wof:lastmodified":1466295637,
     "wof:name":"Petacca Anna",
     "wof:parent_id":85900333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.217649,40.89072,14.217649,40.89072],
+  "bbox": [
+    14.217649,
+    40.89072,
+    14.217649,
+    40.89072
+],
   "geometry": {"coordinates":[14.217649,40.89072],"type":"Point"}
 }

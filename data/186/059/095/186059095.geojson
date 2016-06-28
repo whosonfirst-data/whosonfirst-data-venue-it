@@ -2,13 +2,14 @@
   "id": 186059095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.191468,45.474442,9.191468,45.474442",
     "geom:latitude":45.474442,
     "geom:longitude":9.191468,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Sorso Di Porta Nuova 5, 20121 Milan, Mi",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186059095,
-    "wof:lastmodified":1449051119,
+    "wof:lastmodified":1466295275,
     "wof:name":"Concordia Sim Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.191468,45.474442,9.191468,45.474442],
+  "bbox": [
+    9.191468,
+    45.474442,
+    9.191468,
+    45.474442
+],
   "geometry": {"coordinates":[9.191468,45.474442],"type":"Point"}
 }

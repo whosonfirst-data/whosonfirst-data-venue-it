@@ -2,13 +2,14 @@
   "id": 186640319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.3505,41.648586,13.3505,41.648586",
     "geom:latitude":41.648586,
     "geom:longitude":13.3505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03100 Frosinone",
     "sg:city":"Frosinone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186640319,
-    "wof:lastmodified":1449051534,
+    "wof:lastmodified":1466293690,
     "wof:name":"Polistudio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "di"
     ]
 },
-  "bbox": [13.3505,41.648586,13.3505,41.648586],
+  "bbox": [
+    13.3505,
+    41.648586,
+    13.3505,
+    41.648586
+],
   "geometry": {"coordinates":[13.3505,41.648586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303227357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.359787,45.596588,9.359787,45.596588",
     "geom:latitude":45.596588,
     "geom:longitude":9.359787,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Po 5 20059 Vimercate",
     "sg:city":"Vimercate",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303227357,
-    "wof:lastmodified":1448998655,
+    "wof:lastmodified":1466293322,
     "wof:name":"Silap Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "embossed"
     ]
 },
-  "bbox": [9.359787,45.596588,9.359787,45.596588],
+  "bbox": [
+    9.359787,
+    45.596588,
+    9.359787,
+    45.596588
+],
   "geometry": {"coordinates":[9.359787,45.596588],"type":"Point"}
 }

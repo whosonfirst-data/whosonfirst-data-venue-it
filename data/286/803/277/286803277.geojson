@@ -2,13 +2,14 @@
   "id": 286803277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.819169,44.622665,9.819169,44.622665",
     "geom:latitude":44.622665,
     "geom:longitude":9.819169,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43058 Sorbolo",
     "sg:city":"Sorbolo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286803277,
-    "wof:lastmodified":1449018116,
+    "wof:lastmodified":1466296355,
     "wof:name":"Ge.sa. Impianti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.819169,44.622665,9.819169,44.622665],
+  "bbox": [
+    9.819169,
+    44.622665,
+    9.819169,
+    44.622665
+],
   "geometry": {"coordinates":[9.819169,44.622665],"type":"Point"}
 }

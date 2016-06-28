@@ -2,13 +2,14 @@
   "id": 236155633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.843911,37.352833,13.843911,37.352833",
     "geom:latitude":37.352833,
     "geom:longitude":13.843911,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98, Vl. Della Vittoria 92024 Canicatti'",
     "sg:classifiers":[
         {
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236155633,
-    "wof:lastmodified":1449004553,
+    "wof:lastmodified":1466290429,
     "wof:name":"Enoteca La Botte Import Export",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [13.843911,37.352833,13.843911,37.352833],
+  "bbox": [
+    13.843911,
+    37.352833,
+    13.843911,
+    37.352833
+],
   "geometry": {"coordinates":[13.843911,37.352833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320020975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.143184,45.199013,11.143184,45.199013",
     "geom:latitude":45.199013,
     "geom:longitude":11.143184,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37050 Concamarise",
     "sg:city":"Concamarise",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320020975,
-    "wof:lastmodified":1449012999,
+    "wof:lastmodified":1466293650,
     "wof:name":"Sandri Daniele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.143184,45.199013,11.143184,45.199013],
+  "bbox": [
+    11.143184,
+    45.199013,
+    11.143184,
+    45.199013
+],
   "geometry": {"coordinates":[11.143184,45.199013],"type":"Point"}
 }

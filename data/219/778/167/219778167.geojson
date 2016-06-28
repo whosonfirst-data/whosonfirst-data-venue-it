@@ -2,13 +2,14 @@
   "id": 219778167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.009381,45.565773,9.009381,45.565773",
     "geom:latitude":45.565773,
     "geom:longitude":9.009381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Via Varese 20020 Lainate",
     "sg:city":"Arese",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219778167,
-    "wof:lastmodified":1449070437,
+    "wof:lastmodified":1466294062,
     "wof:name":"Traslochi F.lli Di Dio S.n.c. Di Di Dio Cottonaro Vincenzo E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [9.009381,45.565773,9.009381,45.565773],
+  "bbox": [
+    9.009381,
+    45.565773,
+    9.009381,
+    45.565773
+],
   "geometry": {"coordinates":[9.009381,45.565773],"type":"Point"}
 }

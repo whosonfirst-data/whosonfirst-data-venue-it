@@ -2,13 +2,14 @@
   "id": 236603533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.080541,45.871864,12.080541,45.871864",
     "geom:latitude":45.871864,
     "geom:longitude":12.080541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Aldo Moro 31010 Moriago Della Battaglia",
     "sg:city":"Moriago della Battaglia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236603533,
-    "wof:lastmodified":1449004632,
+    "wof:lastmodified":1466295048,
     "wof:name":"Industria Mobili Corazzin S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.080541,45.871864,12.080541,45.871864],
+  "bbox": [
+    12.080541,
+    45.871864,
+    12.080541,
+    45.871864
+],
   "geometry": {"coordinates":[12.080541,45.871864],"type":"Point"}
 }

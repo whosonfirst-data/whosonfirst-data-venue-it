@@ -2,13 +2,14 @@
   "id": 270360467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.017351,41.532211,14.017351,41.532211",
     "geom:latitude":41.532211,
     "geom:longitude":14.017351,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"86077 Pozzilli",
     "sg:city":"Pozzilli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270360467,
-    "wof:lastmodified":1449010502,
+    "wof:lastmodified":1466293384,
     "wof:name":"Istituto Neurologico Mediterraneo Neuromed Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "di"
     ]
 },
-  "bbox": [14.017351,41.532211,14.017351,41.532211],
+  "bbox": [
+    14.017351,
+    41.532211,
+    14.017351,
+    41.532211
+],
   "geometry": {"coordinates":[14.017351,41.532211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336896013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.148733,45.473167,9.148733,45.473167",
     "geom:latitude":45.473167,
     "geom:longitude":9.148733,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20149 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336896013,
-    "wof:lastmodified":1448997329,
+    "wof:lastmodified":1466296803,
     "wof:name":"Barca Massimo",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.148733,45.473167,9.148733,45.473167],
+  "bbox": [
+    9.148733,
+    45.473167,
+    9.148733,
+    45.473167
+],
   "geometry": {"coordinates":[9.148733,45.473167],"type":"Point"}
 }

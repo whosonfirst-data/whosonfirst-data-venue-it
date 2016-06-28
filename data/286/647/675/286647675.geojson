@@ -2,13 +2,14 @@
   "id": 286647675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.003471,43.904278,11.003471,43.904278",
     "geom:latitude":43.904278,
     "geom:longitude":11.003471,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma ,15/17/19/21 59013 Montemurlo",
     "sg:city":"Montemurlo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286647675,
-    "wof:lastmodified":1449016583,
+    "wof:lastmodified":1466294514,
     "wof:name":"Pontetorto Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabric"
     ]
 },
-  "bbox": [11.003471,43.904278,11.003471,43.904278],
+  "bbox": [
+    11.003471,
+    43.904278,
+    11.003471,
+    43.904278
+],
   "geometry": {"coordinates":[11.003471,43.904278],"type":"Point"}
 }

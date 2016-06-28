@@ -2,13 +2,14 @@
   "id": 269998621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.955068,42.3899,12.955068,42.3899",
     "geom:latitude":42.3899,
     "geom:longitude":12.955068,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"02015 Cittaducale",
     "sg:city":"Cittaducale",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269998621,
-    "wof:lastmodified":1449036940,
+    "wof:lastmodified":1466295235,
     "wof:name":"Pasquini Ennio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.955068,42.3899,12.955068,42.3899],
+  "bbox": [
+    12.955068,
+    42.3899,
+    12.955068,
+    42.3899
+],
   "geometry": {"coordinates":[12.955068,42.3899],"type":"Point"}
 }

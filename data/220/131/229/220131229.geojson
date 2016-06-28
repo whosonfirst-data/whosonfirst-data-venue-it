@@ -2,13 +2,14 @@
   "id": 220131229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.491248,45.528889,11.491248,45.528889",
     "geom:latitude":45.528889,
     "geom:longitude":11.491248,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36051 Creazzo",
     "sg:city":"Creazzo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220131229,
-    "wof:lastmodified":1449074261,
+    "wof:lastmodified":1466296212,
     "wof:name":"Media Point Di Capanna F. E C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.491248,45.528889,11.491248,45.528889],
+  "bbox": [
+    11.491248,
+    45.528889,
+    11.491248,
+    45.528889
+],
   "geometry": {"coordinates":[11.491248,45.528889],"type":"Point"}
 }

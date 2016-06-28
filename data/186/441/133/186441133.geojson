@@ -2,13 +2,14 @@
   "id": 186441133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.396585,43.716137,10.396585,43.716137",
     "geom:latitude":43.716137,
     "geom:longitude":10.396585,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Turati, 7/9 56024 Ponte A Egola",
     "sg:city":"Ponte a egola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186441133,
-    "wof:lastmodified":1449050454,
+    "wof:lastmodified":1466291735,
     "wof:name":"Cuoificio Toscano Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bottom"
     ]
 },
-  "bbox": [10.396585,43.716137,10.396585,43.716137],
+  "bbox": [
+    10.396585,
+    43.716137,
+    10.396585,
+    43.716137
+],
   "geometry": {"coordinates":[10.396585,43.716137],"type":"Point"}
 }

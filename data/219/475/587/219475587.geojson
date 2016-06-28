@@ -2,13 +2,14 @@
   "id": 219475587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.522365,45.074211,7.522365,45.074211",
     "geom:latitude":45.074211,
     "geom:longitude":7.522365,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10098 Rivoli",
     "sg:city":"Rivoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219475587,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1466291159,
     "wof:name":"Abbracchio Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.522365,45.074211,7.522365,45.074211],
+  "bbox": [
+    7.522365,
+    45.074211,
+    7.522365,
+    45.074211
+],
   "geometry": {"coordinates":[7.522365,45.074211],"type":"Point"}
 }

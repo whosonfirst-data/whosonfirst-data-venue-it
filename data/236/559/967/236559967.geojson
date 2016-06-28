@@ -2,13 +2,14 @@
   "id": 236559967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.506786,43.84515,10.506786,43.84515",
     "geom:latitude":43.84515,
     "geom:longitude":10.506786,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Canuleia 55100 Lucca",
     "sg:city":"Lucca",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236559967,
-    "wof:lastmodified":1449004381,
+    "wof:lastmodified":1466294656,
     "wof:name":"Ceramiche Di Mastro D'ascia S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [10.506786,43.84515,10.506786,43.84515],
+  "bbox": [
+    10.506786,
+    43.84515,
+    10.506786,
+    43.84515
+],
   "geometry": {"coordinates":[10.506786,43.84515],"type":"Point"}
 }

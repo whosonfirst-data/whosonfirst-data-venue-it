@@ -2,13 +2,14 @@
   "id": 219324613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.273702,45.521202,10.273702,45.521202",
     "geom:latitude":45.521202,
     "geom:longitude":10.273702,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25060 Marcheno",
     "sg:city":"Marcheno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219324613,
-    "wof:lastmodified":1449072443,
+    "wof:lastmodified":1466289549,
     "wof:name":"Caem Renato",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.273702,45.521202,10.273702,45.521202],
+  "bbox": [
+    10.273702,
+    45.521202,
+    10.273702,
+    45.521202
+],
   "geometry": {"coordinates":[10.273702,45.521202],"type":"Point"}
 }

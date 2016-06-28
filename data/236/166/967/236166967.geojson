@@ -2,13 +2,14 @@
   "id": 236166967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.223438,44.939068,8.223438,44.939068",
     "geom:latitude":44.939068,
     "geom:longitude":8.223438,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"94, V. Valgera 14100 Asti",
     "sg:city":"Asti",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236166967,
-    "wof:lastmodified":1449003510,
+    "wof:lastmodified":1466290536,
     "wof:name":"Perlino Srl V.n.p. V.a.l.s.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [8.223438,44.939068,8.223438,44.939068],
+  "bbox": [
+    8.223438,
+    44.939068,
+    8.223438,
+    44.939068
+],
   "geometry": {"coordinates":[8.223438,44.939068],"type":"Point"}
 }

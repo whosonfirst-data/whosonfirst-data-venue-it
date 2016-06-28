@@ -2,13 +2,14 @@
   "id": 219877415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.46576,41.870148,12.46576,41.870148",
     "geom:latitude":41.870148,
     "geom:longitude":12.46576,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00146 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219877415,
-    "wof:lastmodified":1449072878,
+    "wof:lastmodified":1466295039,
     "wof:name":"Medeco Srl",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.46576,41.870148,12.46576,41.870148],
+  "bbox": [
+    12.46576,
+    41.870148,
+    12.46576,
+    41.870148
+],
   "geometry": {"coordinates":[12.46576,41.870148],"type":"Point"}
 }

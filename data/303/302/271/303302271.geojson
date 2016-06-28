@@ -2,13 +2,14 @@
   "id": 303302271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.251855,45.851479,12.251855,45.851479",
     "geom:latitude":45.851479,
     "geom:longitude":12.251855,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31058 Susegana",
     "sg:city":"Susegana",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303302271,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1466294249,
     "wof:name":"Istituto Fabbiana Di F. Lorenzetto Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.251855,45.851479,12.251855,45.851479],
+  "bbox": [
+    12.251855,
+    45.851479,
+    12.251855,
+    45.851479
+],
   "geometry": {"coordinates":[12.251855,45.851479],"type":"Point"}
 }

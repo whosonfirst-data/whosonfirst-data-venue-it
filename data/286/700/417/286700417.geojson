@@ -2,13 +2,14 @@
   "id": 286700417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.096449,37.512394,15.096449,37.512394",
     "geom:latitude":37.512394,
     "geom:longitude":15.096449,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Costa Andrea 95129 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286700417,
-    "wof:lastmodified":1449017841,
+    "wof:lastmodified":1466295214,
     "wof:name":"Greco Rodolfo",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [15.096449,37.512394,15.096449,37.512394],
+  "bbox": [
+    15.096449,
+    37.512394,
+    15.096449,
+    37.512394
+],
   "geometry": {"coordinates":[15.096449,37.512394],"type":"Point"}
 }

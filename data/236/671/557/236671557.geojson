@@ -2,13 +2,14 @@
   "id": 236671557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.496531,40.940048,9.496531,40.940048",
     "geom:latitude":40.940048,
     "geom:longitude":9.496531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Verrocchio 07026 Olbia",
     "sg:city":"Olbia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236671557,
-    "wof:lastmodified":1449002253,
+    "wof:lastmodified":1466295676,
     "wof:name":"Tramellino Benito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.496531,40.940048,9.496531,40.940048],
+  "bbox": [
+    9.496531,
+    40.940048,
+    9.496531,
+    40.940048
+],
   "geometry": {"coordinates":[9.496531,40.940048],"type":"Point"}
 }

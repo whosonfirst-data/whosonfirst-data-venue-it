@@ -2,13 +2,14 @@
   "id": 236057969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.870539,45.360981,11.870539,45.360981",
     "geom:latitude":45.360981,
     "geom:longitude":11.870539,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35125 Padova",
     "sg:city":"Padova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236057969,
-    "wof:lastmodified":1449003250,
+    "wof:lastmodified":1466289468,
     "wof:name":"Pasticceria Guariento",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.870539,45.360981,11.870539,45.360981],
+  "bbox": [
+    11.870539,
+    45.360981,
+    11.870539,
+    45.360981
+],
   "geometry": {"coordinates":[11.870539,45.360981],"type":"Point"}
 }

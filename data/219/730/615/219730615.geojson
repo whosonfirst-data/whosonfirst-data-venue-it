@@ -2,13 +2,14 @@
   "id": 219730615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172157,45.684605,9.172157,45.684605",
     "geom:latitude":45.684605,
     "geom:longitude":9.172157,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81/83, Via Per Cabiate 22066 Mariano Comense",
     "sg:city":"Mariano Comense",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219730615,
-    "wof:lastmodified":1449073345,
+    "wof:lastmodified":1466293586,
     "wof:name":"Autotrasporti Donato Di Donato Maurizio E C. Sas",
     "wof:parent_id":85862609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "road"
     ]
 },
-  "bbox": [9.172157,45.684605,9.172157,45.684605],
+  "bbox": [
+    9.172157,
+    45.684605,
+    9.172157,
+    45.684605
+],
   "geometry": {"coordinates":[9.172157,45.684605],"type":"Point"}
 }

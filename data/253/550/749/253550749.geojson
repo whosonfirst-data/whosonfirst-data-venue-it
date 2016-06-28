@@ -2,13 +2,14 @@
   "id": 253550749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.65027,45.718643,11.65027,45.718643",
     "geom:latitude":45.718643,
     "geom:longitude":11.65027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36050 Cartigliano",
     "sg:city":"Cartigliano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253550749,
-    "wof:lastmodified":1449064435,
+    "wof:lastmodified":1466295289,
     "wof:name":"Italstampi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.65027,45.718643,11.65027,45.718643],
+  "bbox": [
+    11.65027,
+    45.718643,
+    11.65027,
+    45.718643
+],
   "geometry": {"coordinates":[11.65027,45.718643],"type":"Point"}
 }

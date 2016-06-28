@@ -2,13 +2,14 @@
   "id": 236411767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.397894,44.200222,12.397894,44.200222",
     "geom:latitude":44.200222,
     "geom:longitude":12.397894,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fiorentini 55 47042 Cesenatico",
     "sg:city":"Cesenatico",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236411767,
-    "wof:lastmodified":1449001794,
+    "wof:lastmodified":1466293104,
     "wof:name":"Stamperia Braghittoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hand"
     ]
 },
-  "bbox": [12.397894,44.200222,12.397894,44.200222],
+  "bbox": [
+    12.397894,
+    44.200222,
+    12.397894,
+    44.200222
+],
   "geometry": {"coordinates":[12.397894,44.200222],"type":"Point"}
 }

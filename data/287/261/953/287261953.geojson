@@ -2,13 +2,14 @@
   "id": 287261953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.017054,44.676064,11.017054,44.676064",
     "geom:latitude":44.676064,
     "geom:longitude":11.017054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88, V. Copernico 41015 Nonantola",
     "sg:city":"Nonantola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287261953,
-    "wof:lastmodified":1449000680,
+    "wof:lastmodified":1466293076,
     "wof:name":"Alice Club Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.017054,44.676064,11.017054,44.676064],
+  "bbox": [
+    11.017054,
+    44.676064,
+    11.017054,
+    44.676064
+],
   "geometry": {"coordinates":[11.017054,44.676064],"type":"Point"}
 }

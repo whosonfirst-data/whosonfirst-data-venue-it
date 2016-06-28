@@ -2,13 +2,14 @@
   "id": 320445673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.19697,45.569206,12.19697,45.569206",
     "geom:latitude":45.569206,
     "geom:longitude":12.19697,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30037 Gardigiano",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Agricoltura E Zootecnia. Macchine, Strumenti Ed Apparecchi Per Attivita' Industriali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320445673,
-    "wof:lastmodified":1449011750,
+    "wof:lastmodified":1466297496,
     "wof:name":"Tecno Galvanica Novello E Rachki Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.19697,45.569206,12.19697,45.569206],
+  "bbox": [
+    12.19697,
+    45.569206,
+    12.19697,
+    45.569206
+],
   "geometry": {"coordinates":[12.19697,45.569206],"type":"Point"}
 }

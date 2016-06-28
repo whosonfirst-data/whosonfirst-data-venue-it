@@ -2,13 +2,14 @@
   "id": 303156301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.384521,45.111141,7.384521,45.111141",
     "geom:latitude":45.111141,
     "geom:longitude":7.384521,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 Villar Dora",
     "sg:city":"Villar Dora",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303156301,
-    "wof:lastmodified":1448998598,
+    "wof:lastmodified":1466292396,
     "wof:name":"A.e.m. 2000 Di Scanzano Alessandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.384521,45.111141,7.384521,45.111141],
+  "bbox": [
+    7.384521,
+    45.111141,
+    7.384521,
+    45.111141
+],
   "geometry": {"coordinates":[7.384521,45.111141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303312927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.842842,44.687767,10.842842,44.687767",
     "geom:latitude":44.687767,
     "geom:longitude":10.842842,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41011 Campogalliano",
     "sg:city":"Campogalliano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303312927,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466294375,
     "wof:name":"Gographic Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.842842,44.687767,10.842842,44.687767],
+  "bbox": [
+    10.842842,
+    44.687767,
+    10.842842,
+    44.687767
+],
   "geometry": {"coordinates":[10.842842,44.687767],"type":"Point"}
 }

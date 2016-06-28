@@ -2,13 +2,14 @@
   "id": 303363499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.068444,43.195961,13.068444,43.195961",
     "geom:latitude":43.195961,
     "geom:longitude":13.068444,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"62010 Montecassiano",
     "sg:city":"Montecassiano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303363499,
-    "wof:lastmodified":1449000269,
+    "wof:lastmodified":1466294994,
     "wof:name":"Isobox Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.068444,43.195961,13.068444,43.195961],
+  "bbox": [
+    13.068444,
+    43.195961,
+    13.068444,
+    43.195961
+],
   "geometry": {"coordinates":[13.068444,43.195961],"type":"Point"}
 }

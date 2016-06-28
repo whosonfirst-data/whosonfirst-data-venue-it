@@ -2,13 +2,14 @@
   "id": 303612635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.492668,40.738506,14.492668,40.738506",
     "geom:latitude":40.738506,
     "geom:longitude":14.492668,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80045 Pompei",
     "sg:city":"Pompei",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303612635,
-    "wof:lastmodified":1448999199,
+    "wof:lastmodified":1466297146,
     "wof:name":"Piedepalumbo Salvatore & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.492668,40.738506,14.492668,40.738506],
+  "bbox": [
+    14.492668,
+    40.738506,
+    14.492668,
+    40.738506
+],
   "geometry": {"coordinates":[14.492668,40.738506],"type":"Point"}
 }

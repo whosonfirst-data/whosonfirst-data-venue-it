@@ -2,13 +2,14 @@
   "id": 320229453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.575733,45.017303,7.575733,45.017303",
     "geom:latitude":45.017303,
     "geom:longitude":7.575733,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320229453,
-    "wof:lastmodified":1449014211,
+    "wof:lastmodified":1466296170,
     "wof:name":"Nuova Filuc S.n.c.",
     "wof:parent_id":85796819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.575733,45.017303,7.575733,45.017303],
+  "bbox": [
+    7.575733,
+    45.017303,
+    7.575733,
+    45.017303
+],
   "geometry": {"coordinates":[7.575733,45.017303],"type":"Point"}
 }

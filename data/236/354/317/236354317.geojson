@@ -2,13 +2,14 @@
   "id": 236354317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.392264,45.956833,12.392264,45.956833",
     "geom:latitude":45.956833,
     "geom:longitude":12.392264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31016 Silvella",
     "sg:classifiers":[],
     "sg:orig_category":"Non-classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236354317,
-    "wof:lastmodified":1449004796,
+    "wof:lastmodified":1466292495,
     "wof:name":"Nuova Coan S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.392264,45.956833,12.392264,45.956833],
+  "bbox": [
+    12.392264,
+    45.956833,
+    12.392264,
+    45.956833
+],
   "geometry": {"coordinates":[12.392264,45.956833],"type":"Point"}
 }

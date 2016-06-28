@@ -2,13 +2,14 @@
   "id": 186533539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.368987,40.610916,14.368987,40.610916",
     "geom:latitude":40.610916,
     "geom:longitude":14.368987,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Deserto 80061 Massa Lubrense",
     "sg:city":"Massa Lubrense",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186533539,
-    "wof:lastmodified":1449050216,
+    "wof:lastmodified":1466292630,
     "wof:name":"Albergo O Sole Mio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [14.368987,40.610916,14.368987,40.610916],
+  "bbox": [
+    14.368987,
+    40.610916,
+    14.368987,
+    40.610916
+],
   "geometry": {"coordinates":[14.368987,40.610916],"type":"Point"}
 }

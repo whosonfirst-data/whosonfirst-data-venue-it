@@ -2,13 +2,14 @@
   "id": 303292897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.682891,45.109505,9.682891,45.109505",
     "geom:latitude":45.109505,
     "geom:longitude":9.682891,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via De Gasperi 4 26862 Guardamiglio",
     "sg:city":"Guardamiglio",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303292897,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1466294130,
     "wof:name":"Servizi Generali Metano Acqua Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "industry"
     ]
 },
-  "bbox": [9.682891,45.109505,9.682891,45.109505],
+  "bbox": [
+    9.682891,
+    45.109505,
+    9.682891,
+    45.109505
+],
   "geometry": {"coordinates":[9.682891,45.109505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286416295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.816734,42.07209,11.816734,42.07209",
     "geom:latitude":42.07209,
     "geom:longitude":11.816734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00053 Civitavecchia",
     "sg:city":"Civitavecchia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286416295,
-    "wof:lastmodified":1449016513,
+    "wof:lastmodified":1466291693,
     "wof:name":"Elettramika Di Grossi Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.816734,42.07209,11.816734,42.07209],
+  "bbox": [
+    11.816734,
+    42.07209,
+    11.816734,
+    42.07209
+],
   "geometry": {"coordinates":[11.816734,42.07209],"type":"Point"}
 }

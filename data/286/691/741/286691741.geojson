@@ -2,13 +2,14 @@
   "id": 286691741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.052341,45.063049,12.052341,45.063049",
     "geom:latitude":45.063049,
     "geom:longitude":12.052341,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Emanuele Filiberto 45011 Adria",
     "sg:city":"Adria",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286691741,
-    "wof:lastmodified":1449015424,
+    "wof:lastmodified":1466295109,
     "wof:name":"Botti Elio Sas Di Botti Fabio E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [12.052341,45.063049,12.052341,45.063049],
+  "bbox": [
+    12.052341,
+    45.063049,
+    12.052341,
+    45.063049
+],
   "geometry": {"coordinates":[12.052341,45.063049],"type":"Point"}
 }

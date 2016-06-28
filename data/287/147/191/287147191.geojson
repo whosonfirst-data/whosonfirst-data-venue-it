@@ -2,13 +2,14 @@
   "id": 287147191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.263547,45.644634,10.263547,45.644634",
     "geom:latitude":45.644634,
     "geom:longitude":10.263547,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25065 Lumezzane",
     "sg:city":"Lumezzane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287147191,
-    "wof:lastmodified":1449001483,
+    "wof:lastmodified":1466291546,
     "wof:name":"Giulipas Snc Di Pasotti & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.263547,45.644634,10.263547,45.644634],
+  "bbox": [
+    10.263547,
+    45.644634,
+    10.263547,
+    45.644634
+],
   "geometry": {"coordinates":[10.263547,45.644634],"type":"Point"}
 }

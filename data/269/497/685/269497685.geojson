@@ -2,13 +2,14 @@
   "id": 269497685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.638028,43.397114,13.638028,43.397114",
     "geom:latitude":43.397114,
     "geom:longitude":13.638028,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Marignano 62018 Potenza Picena",
     "sg:city":"Potenza Picena",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269497685,
-    "wof:lastmodified":1449038914,
+    "wof:lastmodified":1466289107,
     "wof:name":"R.p.m. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.638028,43.397114,13.638028,43.397114],
+  "bbox": [
+    13.638028,
+    43.397114,
+    13.638028,
+    43.397114
+],
   "geometry": {"coordinates":[13.638028,43.397114],"type":"Point"}
 }

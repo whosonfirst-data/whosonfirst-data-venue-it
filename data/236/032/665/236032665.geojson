@@ -2,13 +2,14 @@
   "id": 236032665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.506741,42.101276,12.506741,42.101276",
     "geom:latitude":42.101276,
     "geom:longitude":12.506741,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00060 Riano",
     "sg:city":"Riano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236032665,
-    "wof:lastmodified":1449003227,
+    "wof:lastmodified":1466289226,
     "wof:name":"Criacci Massimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.506741,42.101276,12.506741,42.101276],
+  "bbox": [
+    12.506741,
+    42.101276,
+    12.506741,
+    42.101276
+],
   "geometry": {"coordinates":[12.506741,42.101276],"type":"Point"}
 }

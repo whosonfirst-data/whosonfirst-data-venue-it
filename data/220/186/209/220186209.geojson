@@ -2,13 +2,14 @@
   "id": 220186209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.148807,45.525776,9.148807,45.525776",
     "geom:latitude":45.525776,
     "geom:longitude":9.148807,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bovisasca 24/26 20026 Novate Milanese",
     "sg:city":"Novate Milanese",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220186209,
-    "wof:lastmodified":1449074667,
+    "wof:lastmodified":1466289412,
     "wof:name":"Erim Srl",
     "wof:parent_id":85862707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "insulator"
     ]
 },
-  "bbox": [9.148807,45.525776,9.148807,45.525776],
+  "bbox": [
+    9.148807,
+    45.525776,
+    9.148807,
+    45.525776
+],
   "geometry": {"coordinates":[9.148807,45.525776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202904281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.216665,45.542145,10.216665,45.542145",
     "geom:latitude":45.542145,
     "geom:longitude":10.216665,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25122 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202904281,
-    "wof:lastmodified":1449062728,
+    "wof:lastmodified":1466293255,
     "wof:name":"Lavanderia Self - Service Acqua Azzurra Di Raineri Mario",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.216665,45.542145,10.216665,45.542145],
+  "bbox": [
+    10.216665,
+    45.542145,
+    10.216665,
+    45.542145
+],
   "geometry": {"coordinates":[10.216665,45.542145],"type":"Point"}
 }

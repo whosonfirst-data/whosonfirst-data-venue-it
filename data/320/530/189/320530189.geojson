@@ -2,13 +2,14 @@
   "id": 320530189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.27225,40.897423,14.27225,40.897423",
     "geom:latitude":40.897423,
     "geom:longitude":14.27225,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Circumvallazione Esterna ,107 80020 Casavatore",
     "sg:city":"Casavatore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320530189,
-    "wof:lastmodified":1449013251,
+    "wof:lastmodified":1466297754,
     "wof:name":"Eutectique Spa",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machining"
     ]
 },
-  "bbox": [14.27225,40.897423,14.27225,40.897423],
+  "bbox": [
+    14.27225,
+    40.897423,
+    14.27225,
+    40.897423
+],
   "geometry": {"coordinates":[14.27225,40.897423],"type":"Point"}
 }

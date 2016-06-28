@@ -2,13 +2,14 @@
   "id": 253339033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.782601,45.771244,11.782601,45.771244",
     "geom:latitude":45.771244,
     "geom:longitude":11.782601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36060 Romano D'ezzelino",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253339033,
-    "wof:lastmodified":1449064144,
+    "wof:lastmodified":1466292727,
     "wof:name":"Disegna Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gold-"
     ]
 },
-  "bbox": [11.782601,45.771244,11.782601,45.771244],
+  "bbox": [
+    11.782601,
+    45.771244,
+    11.782601,
+    45.771244
+],
   "geometry": {"coordinates":[11.782601,45.771244],"type":"Point"}
 }

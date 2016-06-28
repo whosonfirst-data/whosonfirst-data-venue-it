@@ -2,13 +2,14 @@
   "id": 270099907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.341408,45.434361,12.341408,45.434361",
     "geom:latitude":45.434361,
     "geom:longitude":12.341408,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30122 Venezia",
     "sg:city":"Castello",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270099907,
-    "wof:lastmodified":1449010261,
+    "wof:lastmodified":1466290201,
     "wof:name":"Alloggi Stemar Srl",
     "wof:parent_id":85905023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.341408,45.434361,12.341408,45.434361],
+  "bbox": [
+    12.341408,
+    45.434361,
+    12.341408,
+    45.434361
+],
   "geometry": {"coordinates":[12.341408,45.434361],"type":"Point"}
 }

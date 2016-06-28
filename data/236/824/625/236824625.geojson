@@ -2,13 +2,14 @@
   "id": 236824625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.182172,45.544212,10.182172,45.544212",
     "geom:latitude":45.544212,
     "geom:longitude":10.182172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25126 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236824625,
-    "wof:lastmodified":1449002697,
+    "wof:lastmodified":1466296673,
     "wof:name":"Maraccani Edmondo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.182172,45.544212,10.182172,45.544212],
+  "bbox": [
+    10.182172,
+    45.544212,
+    10.182172,
+    45.544212
+],
   "geometry": {"coordinates":[10.182172,45.544212],"type":"Point"}
 }

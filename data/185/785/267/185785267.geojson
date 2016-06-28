@@ -2,13 +2,14 @@
   "id": 185785267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.765089,45.294945,9.765089,45.294945",
     "geom:latitude":45.294945,
     "geom:longitude":9.765089,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Borgo Isso 5; Castelleone",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185785267,
-    "wof:lastmodified":1449007957,
+    "wof:lastmodified":1466289184,
     "wof:name":"Banca Popolare Di Cremona Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.765089,45.294945,9.765089,45.294945],
+  "bbox": [
+    9.765089,
+    45.294945,
+    9.765089,
+    45.294945
+],
   "geometry": {"coordinates":[9.765089,45.294945],"type":"Point"}
 }

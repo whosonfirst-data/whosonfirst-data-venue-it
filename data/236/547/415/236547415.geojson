@@ -2,13 +2,14 @@
   "id": 236547415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.128589,45.67384,9.128589,45.67384",
     "geom:latitude":45.67384,
     "geom:longitude":9.128589,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Viale Italia 20030 Lentate Sul Seveso",
     "sg:city":"Lentate sul Seveso",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236547415,
-    "wof:lastmodified":1449001928,
+    "wof:lastmodified":1466294542,
     "wof:name":"Bazzi Fratelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [9.128589,45.67384,9.128589,45.67384],
+  "bbox": [
+    9.128589,
+    45.67384,
+    9.128589,
+    45.67384
+],
   "geometry": {"coordinates":[9.128589,45.67384],"type":"Point"}
 }

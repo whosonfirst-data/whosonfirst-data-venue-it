@@ -2,13 +2,14 @@
   "id": 236154833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.858658,44.724327,8.858658,44.724327",
     "geom:latitude":44.724327,
     "geom:longitude":8.858658,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Garibaldi 15069 Serravalle Scrivia",
     "sg:city":"Serravalle Scrivia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236154833,
-    "wof:lastmodified":1449005300,
+    "wof:lastmodified":1466290420,
     "wof:name":"Distillerie Inga & C. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [8.858658,44.724327,8.858658,44.724327],
+  "bbox": [
+    8.858658,
+    44.724327,
+    8.858658,
+    44.724327
+],
   "geometry": {"coordinates":[8.858658,44.724327],"type":"Point"}
 }

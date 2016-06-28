@@ -2,13 +2,14 @@
   "id": 286702237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.0971,44.142666,12.0971,44.142666",
     "geom:latitude":44.142666,
     "geom:longitude":12.0971,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1345, Via Meldola 47032 Bertinoro",
     "sg:city":"Bertinoro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286702237,
-    "wof:lastmodified":1449016652,
+    "wof:lastmodified":1466295236,
     "wof:name":"Impresa Coromano (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [12.0971,44.142666,12.0971,44.142666],
+  "bbox": [
+    12.0971,
+    44.142666,
+    12.0971,
+    44.142666
+],
   "geometry": {"coordinates":[12.0971,44.142666],"type":"Point"}
 }

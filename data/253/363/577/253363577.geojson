@@ -2,13 +2,14 @@
   "id": 253363577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.246432,45.398964,9.246432,45.398964",
     "geom:latitude":45.398964,
     "geom:longitude":9.246432,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253363577,
-    "wof:lastmodified":1449065419,
+    "wof:lastmodified":1466292999,
     "wof:name":"Venilia Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "machinery"
     ]
 },
-  "bbox": [9.246432,45.398964,9.246432,45.398964],
+  "bbox": [
+    9.246432,
+    45.398964,
+    9.246432,
+    45.398964
+],
   "geometry": {"coordinates":[9.246432,45.398964],"type":"Point"}
 }

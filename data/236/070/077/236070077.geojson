@@ -2,13 +2,14 @@
   "id": 236070077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.109947,37.687866,15.109947,37.687866",
     "geom:latitude":37.687866,
     "geom:longitude":15.109947,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95019 Zafferana Etnea",
     "sg:city":"Zafferana Etnea",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":236070077,
-    "wof:lastmodified":1449003219,
+    "wof:lastmodified":1466289590,
     "wof:name":"Cooperativa Apicultori Etnea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.109947,37.687866,15.109947,37.687866],
+  "bbox": [
+    15.109947,
+    37.687866,
+    15.109947,
+    37.687866
+],
   "geometry": {"coordinates":[15.109947,37.687866],"type":"Point"}
 }

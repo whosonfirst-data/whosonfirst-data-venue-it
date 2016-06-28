@@ -2,13 +2,14 @@
   "id": 320821003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.420654,44.592304,8.420654,44.592304",
     "geom:latitude":44.592304,
     "geom:longitude":8.420654,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15015 Cartosio",
     "sg:city":"Cartosio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320821003,
-    "wof:lastmodified":1449013300,
+    "wof:lastmodified":1466298260,
     "wof:name":"Ssab Swedish Steel Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.420654,44.592304,8.420654,44.592304],
+  "bbox": [
+    8.420654,
+    44.592304,
+    8.420654,
+    44.592304
+],
   "geometry": {"coordinates":[8.420654,44.592304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236390117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.623774,45.456528,8.623774,45.456528",
     "geom:latitude":45.456528,
     "geom:longitude":8.623774,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236390117,
-    "wof:lastmodified":1449005290,
+    "wof:lastmodified":1466292872,
     "wof:name":"Toys Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.623774,45.456528,8.623774,45.456528],
+  "bbox": [
+    8.623774,
+    45.456528,
+    8.623774,
+    45.456528
+],
   "geometry": {"coordinates":[8.623774,45.456528],"type":"Point"}
 }

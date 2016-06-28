@@ -2,13 +2,14 @@
   "id": 235967133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.574977,42.8554,13.574977,42.8554",
     "geom:latitude":42.8554,
     "geom:longitude":13.574977,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Pian Di Contro 63021 Amandola",
     "sg:city":"Amandola",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235967133,
-    "wof:lastmodified":1449008596,
+    "wof:lastmodified":1466295407,
     "wof:name":"Fattorie Marchigiane Cons.coop.ar.l",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [13.574977,42.8554,13.574977,42.8554],
+  "bbox": [
+    13.574977,
+    42.8554,
+    13.574977,
+    42.8554
+],
   "geometry": {"coordinates":[13.574977,42.8554],"type":"Point"}
 }

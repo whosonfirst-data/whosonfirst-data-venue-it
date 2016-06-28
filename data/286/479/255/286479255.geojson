@@ -2,13 +2,14 @@
   "id": 286479255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.627128,45.077362,11.627128,45.077362",
     "geom:latitude":45.077362,
     "geom:longitude":11.627128,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Via Marchefave 45026 Lendinara",
     "sg:city":"Lendinara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286479255,
-    "wof:lastmodified":1449017196,
+    "wof:lastmodified":1466292467,
     "wof:name":"Confezioni Amsterdam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.627128,45.077362,11.627128,45.077362],
+  "bbox": [
+    11.627128,
+    45.077362,
+    11.627128,
+    45.077362
+],
   "geometry": {"coordinates":[11.627128,45.077362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320363285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.915677,44.940422,10.915677,44.940422",
     "geom:latitude":44.940422,
     "geom:longitude":10.915677,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46024 Moglia",
     "sg:city":"Moglia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320363285,
-    "wof:lastmodified":1449014509,
+    "wof:lastmodified":1466297238,
     "wof:name":"Leoni Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.915677,44.940422,10.915677,44.940422],
+  "bbox": [
+    10.915677,
+    44.940422,
+    10.915677,
+    44.940422
+],
   "geometry": {"coordinates":[10.915677,44.940422],"type":"Point"}
 }

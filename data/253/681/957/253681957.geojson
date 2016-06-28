@@ -2,13 +2,14 @@
   "id": 253681957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.49611,45.048519,7.49611,45.048519",
     "geom:latitude":45.048519,
     "geom:longitude":7.49611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Villarbasse",
     "sg:city":"Villarbasse",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253681957,
-    "wof:lastmodified":1449064619,
+    "wof:lastmodified":1466296726,
     "wof:name":"Delta Macchine Utensili Snc Di Baldin L. E Santin A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.49611,45.048519,7.49611,45.048519],
+  "bbox": [
+    7.49611,
+    45.048519,
+    7.49611,
+    45.048519
+],
   "geometry": {"coordinates":[7.49611,45.048519],"type":"Point"}
 }

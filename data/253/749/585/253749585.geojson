@@ -2,13 +2,14 @@
   "id": 253749585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.553282,45.62513,11.553282,45.62513",
     "geom:latitude":45.62513,
     "geom:longitude":11.553282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Vl. Vicenza 36031 Dueville",
     "sg:city":"Dueville",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253749585,
-    "wof:lastmodified":1449063653,
+    "wof:lastmodified":1466296960,
     "wof:name":"Emme & Erre Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.553282,45.62513,11.553282,45.62513],
+  "bbox": [
+    11.553282,
+    45.62513,
+    11.553282,
+    45.62513
+],
   "geometry": {"coordinates":[11.553282,45.62513],"type":"Point"}
 }

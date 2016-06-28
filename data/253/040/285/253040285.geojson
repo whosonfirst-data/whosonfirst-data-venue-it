@@ -2,13 +2,14 @@
   "id": 253040285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.402116,43.718037,10.402116,43.718037",
     "geom:latitude":43.718037,
     "geom:longitude":10.402116,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56127 Pisa",
     "sg:city":"Pisa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253040285,
-    "wof:lastmodified":1449065712,
+    "wof:lastmodified":1466289335,
     "wof:name":"Casa Del Guanto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.402116,43.718037,10.402116,43.718037],
+  "bbox": [
+    10.402116,
+    43.718037,
+    10.402116,
+    43.718037
+],
   "geometry": {"coordinates":[10.402116,43.718037],"type":"Point"}
 }

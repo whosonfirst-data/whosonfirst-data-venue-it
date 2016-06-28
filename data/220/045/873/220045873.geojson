@@ -2,13 +2,14 @@
   "id": 220045873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.217473,44.551399,11.217473,44.551399",
     "geom:latitude":44.551399,
     "geom:longitude":11.217473,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40011 Anzola Dell'emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Imprese Di Costruzioni Civili Ed Industriali. Servizi E Lavori Per Ecologia E Smaltimento Rifiuti",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220045873,
-    "wof:lastmodified":1449074779,
+    "wof:lastmodified":1466295150,
     "wof:name":"Venturi Bruno Autotrasporti E Spurghi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.217473,44.551399,11.217473,44.551399],
+  "bbox": [
+    11.217473,
+    44.551399,
+    11.217473,
+    44.551399
+],
   "geometry": {"coordinates":[11.217473,44.551399],"type":"Point"}
 }

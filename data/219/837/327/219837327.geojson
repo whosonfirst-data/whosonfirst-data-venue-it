@@ -2,13 +2,14 @@
   "id": 219837327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.853778,43.40987,12.853778,43.40987",
     "geom:latitude":43.40987,
     "geom:longitude":12.853778,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60040 Sassoferrato",
     "sg:classifiers":[],
     "sg:orig_category":"Impermeabilizzanti",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219837327,
-    "wof:lastmodified":1449070937,
+    "wof:lastmodified":1466294640,
     "wof:name":"Mingarelli Floriano Italsolventi Fabriano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.853778,43.40987,12.853778,43.40987],
+  "bbox": [
+    12.853778,
+    43.40987,
+    12.853778,
+    43.40987
+],
   "geometry": {"coordinates":[12.853778,43.40987],"type":"Point"}
 }

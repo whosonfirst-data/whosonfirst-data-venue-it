@@ -2,13 +2,14 @@
   "id": 186274933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.719063,42.862637,13.719063,42.862637",
     "geom:latitude":42.862637,
     "geom:longitude":13.719063,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63020 Falerone",
     "sg:city":"Falerone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186274933,
-    "wof:lastmodified":1449050593,
+    "wof:lastmodified":1466290275,
     "wof:name":"Fermani Cannucce Di Tarulli & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.719063,42.862637,13.719063,42.862637],
+  "bbox": [
+    13.719063,
+    42.862637,
+    13.719063,
+    42.862637
+],
   "geometry": {"coordinates":[13.719063,42.862637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270170521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.955282,45.435528,11.955282,45.435528",
     "geom:latitude":45.435528,
     "geom:longitude":11.955282,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro, 19 - Peraga 35010 Vigonza",
     "sg:city":"Vigonza",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270170521,
-    "wof:lastmodified":1449008872,
+    "wof:lastmodified":1466291010,
     "wof:name":"Audiotop Di Antonio Castelli & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equalizer"
     ]
 },
-  "bbox": [11.955282,45.435528,11.955282,45.435528],
+  "bbox": [
+    11.955282,
+    45.435528,
+    11.955282,
+    45.435528
+],
   "geometry": {"coordinates":[11.955282,45.435528],"type":"Point"}
 }

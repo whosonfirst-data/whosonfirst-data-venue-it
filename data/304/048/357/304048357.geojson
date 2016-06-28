@@ -2,13 +2,14 @@
   "id": 304048357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.278818,45.222168,12.278818,45.222168",
     "geom:latitude":45.222168,
     "geom:longitude":12.278818,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30015 Chioggia",
     "sg:city":"Chioggia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":304048357,
-    "wof:lastmodified":1449043760,
+    "wof:lastmodified":1466292827,
     "wof:name":"Associazione Artigiani Confartigianato Chioggia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.278818,45.222168,12.278818,45.222168],
+  "bbox": [
+    12.278818,
+    45.222168,
+    12.278818,
+    45.222168
+],
   "geometry": {"coordinates":[12.278818,45.222168],"type":"Point"}
 }

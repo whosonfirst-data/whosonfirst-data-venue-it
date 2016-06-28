@@ -2,13 +2,14 @@
   "id": 336959851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.071151,43.918556,8.071151,43.918556",
     "geom:latitude":43.918556,
     "geom:longitude":8.071151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18013 Diano Castello",
     "sg:city":"Diano Castello",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336959851,
-    "wof:lastmodified":1448997912,
+    "wof:lastmodified":1466297221,
     "wof:name":"Mannari Andrea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [8.071151,43.918556,8.071151,43.918556],
+  "bbox": [
+    8.071151,
+    43.918556,
+    8.071151,
+    43.918556
+],
   "geometry": {"coordinates":[8.071151,43.918556],"type":"Point"}
 }

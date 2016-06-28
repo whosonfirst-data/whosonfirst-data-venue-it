@@ -2,13 +2,14 @@
   "id": 219834437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.84652,45.593891,8.84652,45.593891",
     "geom:latitude":45.593891,
     "geom:longitude":8.84652,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21052 Busto Arsizio",
     "sg:city":"Busto Arsizio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219834437,
-    "wof:lastmodified":1449070717,
+    "wof:lastmodified":1466294615,
     "wof:name":"Agili Carlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.84652,45.593891,8.84652,45.593891],
+  "bbox": [
+    8.84652,
+    45.593891,
+    8.84652,
+    45.593891
+],
   "geometry": {"coordinates":[8.84652,45.593891],"type":"Point"}
 }

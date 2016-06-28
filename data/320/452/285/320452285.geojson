@@ -2,13 +2,14 @@
   "id": 320452285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.082491,43.566704,11.082491,43.566704",
     "geom:latitude":43.566704,
     "geom:longitude":11.082491,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50052 Certaldo",
     "sg:city":"Certaldo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320452285,
-    "wof:lastmodified":1449012140,
+    "wof:lastmodified":1466297600,
     "wof:name":"Baragatti Brunetto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.082491,43.566704,11.082491,43.566704],
+  "bbox": [
+    11.082491,
+    43.566704,
+    11.082491,
+    43.566704
+],
   "geometry": {"coordinates":[11.082491,43.566704],"type":"Point"}
 }

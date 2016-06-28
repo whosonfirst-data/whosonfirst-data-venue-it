@@ -2,13 +2,14 @@
   "id": 320653583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.276966,43.76326,11.276966,43.76326",
     "geom:latitude":43.76326,
     "geom:longitude":11.276966,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50126 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320653583,
-    "wof:lastmodified":1449011515,
+    "wof:lastmodified":1466297908,
     "wof:name":"Se Mal Snc Di Sebastiani Maria Luisa & C.",
     "wof:parent_id":85904717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.276966,43.76326,11.276966,43.76326],
+  "bbox": [
+    11.276966,
+    43.76326,
+    11.276966,
+    43.76326
+],
   "geometry": {"coordinates":[11.276966,43.76326],"type":"Point"}
 }

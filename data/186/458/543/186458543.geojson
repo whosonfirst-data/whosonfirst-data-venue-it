@@ -2,13 +2,14 @@
   "id": 186458543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.70592,40.821983,14.70592,40.821983",
     "geom:latitude":40.821983,
     "geom:longitude":14.70592,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Francesco D'amato 84082 Bracigliano",
     "sg:city":"Bracigliano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186458543,
-    "wof:lastmodified":1449052265,
+    "wof:lastmodified":1466291892,
     "wof:name":"Calabrese 1812 Di Gennaro E Ferdinando Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bread"
     ]
 },
-  "bbox": [14.70592,40.821983,14.70592,40.821983],
+  "bbox": [
+    14.70592,
+    40.821983,
+    14.70592,
+    40.821983
+],
   "geometry": {"coordinates":[14.70592,40.821983],"type":"Point"}
 }

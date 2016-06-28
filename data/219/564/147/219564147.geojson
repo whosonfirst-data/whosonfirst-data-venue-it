@@ -2,13 +2,14 @@
   "id": 219564147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.649781,42.893654,12.649781,42.893654",
     "geom:latitude":42.893654,
     "geom:longitude":12.649781,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06036 Montefalco",
     "sg:city":"Montefalco",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219564147,
-    "wof:lastmodified":1449073702,
+    "wof:lastmodified":1466291962,
     "wof:name":"Nuovo Mondo Mito Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "restaurants"
     ]
 },
-  "bbox": [12.649781,42.893654,12.649781,42.893654],
+  "bbox": [
+    12.649781,
+    42.893654,
+    12.649781,
+    42.893654
+],
   "geometry": {"coordinates":[12.649781,42.893654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253015645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.485896,44.995621,10.485896,44.995621",
     "geom:latitude":44.995621,
     "geom:longitude":10.485896,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46018 Sabbioneta",
     "sg:city":"Sabbioneta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253015645,
-    "wof:lastmodified":1449063483,
+    "wof:lastmodified":1466289074,
     "wof:name":"Carface S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.485896,44.995621,10.485896,44.995621],
+  "bbox": [
+    10.485896,
+    44.995621,
+    10.485896,
+    44.995621
+],
   "geometry": {"coordinates":[10.485896,44.995621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236039889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.208983,45.521061,10.208983,45.521061",
     "geom:latitude":45.521061,
     "geom:longitude":10.208983,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25124 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":236039889,
-    "wof:lastmodified":1449004750,
+    "wof:lastmodified":1466289299,
     "wof:name":"Bmb Service Di Mario Berardi & C. Snc",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.208983,45.521061,10.208983,45.521061],
+  "bbox": [
+    10.208983,
+    45.521061,
+    10.208983,
+    45.521061
+],
   "geometry": {"coordinates":[10.208983,45.521061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236157353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.113415,46.044361,11.113415,46.044361",
     "geom:latitude":46.044361,
     "geom:longitude":11.113415,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Via Del Ponte 38100 Trento",
     "sg:city":"Trento",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236157353,
-    "wof:lastmodified":1449004681,
+    "wof:lastmodified":1466290444,
     "wof:name":"Ferrari F.lli Lunelli (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [11.113415,46.044361,11.113415,46.044361],
+  "bbox": [
+    11.113415,
+    46.044361,
+    11.113415,
+    46.044361
+],
   "geometry": {"coordinates":[11.113415,46.044361],"type":"Point"}
 }

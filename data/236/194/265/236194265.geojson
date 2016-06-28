@@ -2,13 +2,14 @@
   "id": 236194265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.344883,44.350002,9.344883,44.350002",
     "geom:latitude":44.350002,
     "geom:longitude":9.344883,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16042 Carasco",
     "sg:city":"Carasco",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236194265,
-    "wof:lastmodified":1449004670,
+    "wof:lastmodified":1466290815,
     "wof:name":"Mercanautic 2000 Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.344883,44.350002,9.344883,44.350002],
+  "bbox": [
+    9.344883,
+    44.350002,
+    9.344883,
+    44.350002
+],
   "geometry": {"coordinates":[9.344883,44.350002],"type":"Point"}
 }

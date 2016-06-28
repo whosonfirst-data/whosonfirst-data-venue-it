@@ -2,13 +2,14 @@
   "id": 219281015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.0168,45.525658,11.0168,45.525658",
     "geom:latitude":45.525658,
     "geom:longitude":11.0168,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Lavoro 6 37023 Grezzana",
     "sg:city":"Grezzana",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219281015,
-    "wof:lastmodified":1449073371,
+    "wof:lastmodified":1466289111,
     "wof:name":"Armo Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wood"
     ]
 },
-  "bbox": [11.0168,45.525658,11.0168,45.525658],
+  "bbox": [
+    11.0168,
+    45.525658,
+    11.0168,
+    45.525658
+],
   "geometry": {"coordinates":[11.0168,45.525658],"type":"Point"}
 }

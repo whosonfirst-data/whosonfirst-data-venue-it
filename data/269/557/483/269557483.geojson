@@ -2,13 +2,14 @@
   "id": 269557483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.585655,43.237263,13.585655,43.237263",
     "geom:latitude":43.237263,
     "geom:longitude":13.585655,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Padre Pio 62015 Monte San Giusto",
     "sg:city":"Monte San Giusto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269557483,
-    "wof:lastmodified":1449037886,
+    "wof:lastmodified":1466289801,
     "wof:name":"Workshoes S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.585655,43.237263,13.585655,43.237263],
+  "bbox": [
+    13.585655,
+    43.237263,
+    13.585655,
+    43.237263
+],
   "geometry": {"coordinates":[13.585655,43.237263],"type":"Point"}
 }

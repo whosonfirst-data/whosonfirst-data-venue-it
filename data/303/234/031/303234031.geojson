@@ -2,13 +2,14 @@
   "id": 303234031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.808552,45.5228,10.808552,45.5228",
     "geom:latitude":45.5228,
     "geom:longitude":10.808552,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, V. Napoleone 37015 Domegliara",
     "sg:city":"Domegliara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303234031,
-    "wof:lastmodified":1449000432,
+    "wof:lastmodified":1466293404,
     "wof:name":"A.a.t.c. & Co. Srl Trading Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [10.808552,45.5228,10.808552,45.5228],
+  "bbox": [
+    10.808552,
+    45.5228,
+    10.808552,
+    45.5228
+],
   "geometry": {"coordinates":[10.808552,45.5228],"type":"Point"}
 }

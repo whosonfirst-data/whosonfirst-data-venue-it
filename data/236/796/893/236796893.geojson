@@ -2,13 +2,14 @@
   "id": 236796893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.318551,45.680695,9.318551,45.680695",
     "geom:latitude":45.680695,
     "geom:longitude":9.318551,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23880 Casatenovo",
     "sg:city":"Casatenovo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236796893,
-    "wof:lastmodified":1449003161,
+    "wof:lastmodified":1466296862,
     "wof:name":"Co.ri. Sas Di Colombo Dario, Fausto & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.318551,45.680695,9.318551,45.680695],
+  "bbox": [
+    9.318551,
+    45.680695,
+    9.318551,
+    45.680695
+],
   "geometry": {"coordinates":[9.318551,45.680695],"type":"Point"}
 }

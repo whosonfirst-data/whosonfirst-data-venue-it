@@ -2,13 +2,14 @@
   "id": 269623383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.232311,40.86998,14.232311,40.86998",
     "geom:latitude":40.86998,
     "geom:longitude":14.232311,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80131 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269623383,
-    "wof:lastmodified":1449037828,
+    "wof:lastmodified":1466290596,
     "wof:name":"Ottica In Srl",
     "wof:parent_id":85904785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.232311,40.86998,14.232311,40.86998],
+  "bbox": [
+    14.232311,
+    40.86998,
+    14.232311,
+    40.86998
+],
   "geometry": {"coordinates":[14.232311,40.86998],"type":"Point"}
 }

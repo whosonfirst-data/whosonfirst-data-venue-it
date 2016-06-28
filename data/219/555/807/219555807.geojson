@@ -2,13 +2,14 @@
   "id": 219555807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.044497,45.82753,10.044497,45.82753",
     "geom:latitude":45.82753,
     "geom:longitude":10.044497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24060 Bossico",
     "sg:city":"Bossico",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219555807,
-    "wof:lastmodified":1449073407,
+    "wof:lastmodified":1466291894,
     "wof:name":"Albergo Miralago Di Arrighetti Angelo E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "restaurants"
     ]
 },
-  "bbox": [10.044497,45.82753,10.044497,45.82753],
+  "bbox": [
+    10.044497,
+    45.82753,
+    10.044497,
+    45.82753
+],
   "geometry": {"coordinates":[10.044497,45.82753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186260829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.262274,43.76693,11.262274,43.76693",
     "geom:latitude":43.76693,
     "geom:longitude":11.262274,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50123 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186260829,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466290166,
     "wof:name":"Nicla Make-up Artist Center",
     "wof:parent_id":85904713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [11.262274,43.76693,11.262274,43.76693],
+  "bbox": [
+    11.262274,
+    43.76693,
+    11.262274,
+    43.76693
+],
   "geometry": {"coordinates":[11.262274,43.76693],"type":"Point"}
 }

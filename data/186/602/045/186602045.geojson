@@ -2,13 +2,14 @@
   "id": 186602045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.601958,45.647549,9.601958,45.647549",
     "geom:latitude":45.647549,
     "geom:longitude":9.601958,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24044 Dalmine",
     "sg:city":"Dalmine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186602045,
-    "wof:lastmodified":1449051646,
+    "wof:lastmodified":1466293315,
     "wof:name":"Bonomelli Arreda Di Bonomelli Ivana & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.601958,45.647549,9.601958,45.647549],
+  "bbox": [
+    9.601958,
+    45.647549,
+    9.601958,
+    45.647549
+],
   "geometry": {"coordinates":[9.601958,45.647549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320193975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.519444,38.042309,13.519444,38.042309",
     "geom:latitude":38.042309,
     "geom:longitude":13.519444,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90014 Casteldaccia",
     "sg:city":"Casteldaccia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320193975,
-    "wof:lastmodified":1449011862,
+    "wof:lastmodified":1466295740,
     "wof:name":"Giannitrapani Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.519444,38.042309,13.519444,38.042309],
+  "bbox": [
+    13.519444,
+    38.042309,
+    13.519444,
+    38.042309
+],
   "geometry": {"coordinates":[13.519444,38.042309],"type":"Point"}
 }

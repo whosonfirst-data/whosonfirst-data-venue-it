@@ -2,13 +2,14 @@
   "id": 287131503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.739626,45.53751,8.739626,45.53751",
     "geom:latitude":45.53751,
     "geom:longitude":8.739626,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20029 Turbigo",
     "sg:city":"Turbigo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287131503,
-    "wof:lastmodified":1449000919,
+    "wof:lastmodified":1466291356,
     "wof:name":"Bama Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.739626,45.53751,8.739626,45.53751],
+  "bbox": [
+    8.739626,
+    45.53751,
+    8.739626,
+    45.53751
+],
   "geometry": {"coordinates":[8.739626,45.53751],"type":"Point"}
 }

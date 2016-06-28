@@ -2,13 +2,14 @@
   "id": 320280907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.510298,43.989796,12.510298,43.989796",
     "geom:latitude":43.989796,
     "geom:longitude":12.510298,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47031 Repubblica Di San Marino",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti E Forniture Per Industria Grafica, Cartaria E Cartotecnica. Prodotti Chimici Secondari",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":320280907,
-    "wof:lastmodified":1449013100,
+    "wof:lastmodified":1466296745,
     "wof:name":"Polichem S.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.510298,43.989796,12.510298,43.989796],
+  "bbox": [
+    12.510298,
+    43.989796,
+    12.510298,
+    43.989796
+],
   "geometry": {"coordinates":[12.510298,43.989796],"type":"Point"}
 }

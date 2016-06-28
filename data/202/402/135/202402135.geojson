@@ -2,13 +2,14 @@
   "id": 202402135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.515463,41.867729,12.515463,41.867729",
     "geom:latitude":41.867729,
     "geom:longitude":12.515463,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00179 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202402135,
-    "wof:lastmodified":1449060926,
+    "wof:lastmodified":1466294665,
     "wof:name":"Collegio Missionario Rosmini",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.515463,41.867729,12.515463,41.867729],
+  "bbox": [
+    12.515463,
+    41.867729,
+    12.515463,
+    41.867729
+],
   "geometry": {"coordinates":[12.515463,41.867729],"type":"Point"}
 }

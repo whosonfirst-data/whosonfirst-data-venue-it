@@ -2,13 +2,14 @@
   "id": 270183075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.776186,40.71743,14.776186,40.71743",
     "geom:latitude":40.71743,
     "geom:longitude":14.776186,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Fratte 2 84080 Coperchia",
     "sg:city":"Coperchia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270183075,
-    "wof:lastmodified":1449009956,
+    "wof:lastmodified":1466291159,
     "wof:name":"Cartesar S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cardboard"
     ]
 },
-  "bbox": [14.776186,40.71743,14.776186,40.71743],
+  "bbox": [
+    14.776186,
+    40.71743,
+    14.776186,
+    40.71743
+],
   "geometry": {"coordinates":[14.776186,40.71743],"type":"Point"}
 }

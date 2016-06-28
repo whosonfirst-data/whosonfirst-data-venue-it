@@ -2,13 +2,14 @@
   "id": 270521399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.863287,44.418175,8.863287,44.418175",
     "geom:latitude":44.418175,
     "geom:longitude":8.863287,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Erzelli 16152 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270521399,
-    "wof:lastmodified":1449011006,
+    "wof:lastmodified":1466295332,
     "wof:name":"Gallo Andrea Di Luigi (s.r.l.)",
     "wof:parent_id":85796861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [8.863287,44.418175,8.863287,44.418175],
+  "bbox": [
+    8.863287,
+    44.418175,
+    8.863287,
+    44.418175
+],
   "geometry": {"coordinates":[8.863287,44.418175],"type":"Point"}
 }

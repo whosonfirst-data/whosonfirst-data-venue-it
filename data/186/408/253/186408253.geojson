@@ -2,13 +2,14 @@
   "id": 186408253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.224353,44.074627,8.224353,44.074627",
     "geom:latitude":44.074627,
     "geom:longitude":8.224353,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Strada Carenda 17023 Ceriale",
     "sg:city":"Ceriale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186408253,
-    "wof:lastmodified":1449050626,
+    "wof:lastmodified":1466291429,
     "wof:name":"Cantieri Navali Sciallino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.224353,44.074627,8.224353,44.074627],
+  "bbox": [
+    8.224353,
+    44.074627,
+    8.224353,
+    44.074627
+],
   "geometry": {"coordinates":[8.224353,44.074627],"type":"Point"}
 }

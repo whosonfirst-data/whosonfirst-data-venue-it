@@ -2,13 +2,14 @@
   "id": 287173851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.251118,43.775288,11.251118,43.775288",
     "geom:latitude":43.775288,
     "geom:longitude":11.251118,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sant' Antonino 6 R; Florence; 50123",
     "sg:classifiers":[
         {
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287173851,
-    "wof:lastmodified":1449000833,
+    "wof:lastmodified":1466291901,
     "wof:name":"Caf Tour & Travel",
     "wof:parent_id":85904707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.251118,43.775288,11.251118,43.775288],
+  "bbox": [
+    11.251118,
+    43.775288,
+    11.251118,
+    43.775288
+],
   "geometry": {"coordinates":[11.251118,43.775288],"type":"Point"}
 }

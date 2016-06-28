@@ -2,13 +2,14 @@
   "id": 336839565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.214094,42.464825,14.214094,42.464825",
     "geom:latitude":42.464825,
     "geom:longitude":14.214094,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via Teramo 65024 Manoppello",
     "sg:city":"Manoppello",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336839565,
-    "wof:lastmodified":1448997589,
+    "wof:lastmodified":1466296403,
     "wof:name":"Remu Di Marasca Giorgio S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [14.214094,42.464825,14.214094,42.464825],
+  "bbox": [
+    14.214094,
+    42.464825,
+    14.214094,
+    42.464825
+],
   "geometry": {"coordinates":[14.214094,42.464825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253157509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.266019,45.60181,9.266019,45.60181",
     "geom:latitude":45.60181,
     "geom:longitude":9.266019,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ramazzotti 20 20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253157509,
-    "wof:lastmodified":1449065354,
+    "wof:lastmodified":1466290564,
     "wof:name":"Euro Expert Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "furniture"
     ]
 },
-  "bbox": [9.266019,45.60181,9.266019,45.60181],
+  "bbox": [
+    9.266019,
+    45.60181,
+    9.266019,
+    45.60181
+],
   "geometry": {"coordinates":[9.266019,45.60181],"type":"Point"}
 }

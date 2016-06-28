@@ -2,13 +2,14 @@
   "id": 303499747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.079416,44.509426,11.079416,44.509426",
     "geom:latitude":44.509426,
     "geom:longitude":11.079416,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40053 Bazzano",
     "sg:city":"Bazzano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303499747,
-    "wof:lastmodified":1448998580,
+    "wof:lastmodified":1466296445,
     "wof:name":"Emil Graf Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.079416,44.509426,11.079416,44.509426],
+  "bbox": [
+    11.079416,
+    44.509426,
+    11.079416,
+    44.509426
+],
   "geometry": {"coordinates":[11.079416,44.509426],"type":"Point"}
 }

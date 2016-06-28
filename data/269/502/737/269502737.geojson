@@ -2,13 +2,14 @@
   "id": 269502737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.973516,45.423374,11.973516,45.423374",
     "geom:latitude":45.423374,
     "geom:longitude":11.973516,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Parenzo 35010 Vigonza",
     "sg:city":"Vigonza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269502737,
-    "wof:lastmodified":1449037243,
+    "wof:lastmodified":1466289165,
     "wof:name":"Thermoshoe Di Baldin & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.973516,45.423374,11.973516,45.423374],
+  "bbox": [
+    11.973516,
+    45.423374,
+    11.973516,
+    45.423374
+],
   "geometry": {"coordinates":[11.973516,45.423374],"type":"Point"}
 }

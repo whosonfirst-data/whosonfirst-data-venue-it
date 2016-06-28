@@ -2,13 +2,14 @@
   "id": 185627481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.222362,40.85146,14.222362,40.85146",
     "geom:latitude":40.85146,
     "geom:longitude":14.222362,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Simone Martini, 58/a; Napoli; 80100",
     "sg:classifiers":[
         {
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":185627481,
-    "wof:lastmodified":1449008254,
+    "wof:lastmodified":1466294321,
     "wof:name":"Banca Della Provincia Di Napoli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.222362,40.85146,14.222362,40.85146],
+  "bbox": [
+    14.222362,
+    40.85146,
+    14.222362,
+    40.85146
+],
   "geometry": {"coordinates":[14.222362,40.85146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286782123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.274206,45.512104,9.274206,45.512104",
     "geom:latitude":45.512104,
     "geom:longitude":9.274206,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92/94, Strada Padana Superiore 20090 Vimodrone",
     "sg:city":"Vimodrone",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286782123,
-    "wof:lastmodified":1449015151,
+    "wof:lastmodified":1466296263,
     "wof:name":"Eliosneon Srl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [9.274206,45.512104,9.274206,45.512104],
+  "bbox": [
+    9.274206,
+    45.512104,
+    9.274206,
+    45.512104
+],
   "geometry": {"coordinates":[9.274206,45.512104],"type":"Point"}
 }

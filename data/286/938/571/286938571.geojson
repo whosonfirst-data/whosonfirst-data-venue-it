@@ -2,13 +2,14 @@
   "id": 286938571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.860104,45.326111,7.860104,45.326111",
     "geom:latitude":45.326111,
     "geom:longitude":7.860104,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10010 Orio Canavese",
     "sg:city":"Orio Canavese",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286938571,
-    "wof:lastmodified":1449017374,
+    "wof:lastmodified":1466297362,
     "wof:name":"Trapuntificio Motta Di Motta Livio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.860104,45.326111,7.860104,45.326111],
+  "bbox": [
+    7.860104,
+    45.326111,
+    7.860104,
+    45.326111
+],
   "geometry": {"coordinates":[7.860104,45.326111],"type":"Point"}
 }

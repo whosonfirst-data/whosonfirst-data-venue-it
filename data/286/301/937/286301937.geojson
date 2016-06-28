@@ -2,13 +2,14 @@
   "id": 286301937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.164903,44.166672,12.164903,44.166672",
     "geom:latitude":44.166672,
     "geom:longitude":12.164903,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Siena 268 47032 Capocolle Di Bertinoro",
     "sg:city":"Bertinoro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286301937,
-    "wof:lastmodified":1449015923,
+    "wof:lastmodified":1466289980,
     "wof:name":"Vaas Industria Chimica Farmaceutica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [12.164903,44.166672,12.164903,44.166672],
+  "bbox": [
+    12.164903,
+    44.166672,
+    12.164903,
+    44.166672
+],
   "geometry": {"coordinates":[12.164903,44.166672],"type":"Point"}
 }

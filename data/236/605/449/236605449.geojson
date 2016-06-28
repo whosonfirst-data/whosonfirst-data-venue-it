@@ -2,13 +2,14 @@
   "id": 236605449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.07997,37.492409,15.07997,37.492409",
     "geom:latitude":37.492409,
     "geom:longitude":15.07997,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46, Via Barcellona 95121 Catania",
     "sg:city":"Catania",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236605449,
-    "wof:lastmodified":1449003218,
+    "wof:lastmodified":1466295067,
     "wof:name":"Italsedia Srl",
     "wof:parent_id":85900339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [15.07997,37.492409,15.07997,37.492409],
+  "bbox": [
+    15.07997,
+    37.492409,
+    15.07997,
+    37.492409
+],
   "geometry": {"coordinates":[15.07997,37.492409],"type":"Point"}
 }

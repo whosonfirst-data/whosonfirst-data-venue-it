@@ -2,13 +2,14 @@
   "id": 202470901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.63263,44.700855,10.63263,44.700855",
     "geom:latitude":44.700855,
     "geom:longitude":10.63263,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Scuole E Servizi Scolastici. Servizi Per Lo Sport E Il Tempo Libero",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202470901,
-    "wof:lastmodified":1449060726,
+    "wof:lastmodified":1466295887,
     "wof:name":"Musician World",
     "wof:parent_id":85904879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.63263,44.700855,10.63263,44.700855],
+  "bbox": [
+    10.63263,
+    44.700855,
+    10.63263,
+    44.700855
+],
   "geometry": {"coordinates":[10.63263,44.700855],"type":"Point"}
 }

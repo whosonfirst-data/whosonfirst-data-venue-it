@@ -2,13 +2,14 @@
   "id": 269907005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.779401,42.955296,13.779401,42.955296",
     "geom:latitude":42.955296,
     "geom:longitude":13.779401,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63038 Ripatransone",
     "sg:city":"Ripatransone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269907005,
-    "wof:lastmodified":1449038800,
+    "wof:lastmodified":1466294210,
     "wof:name":"Agriturismo Ristorante Country House 'la Cascina Dei Ciliegi'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.779401,42.955296,13.779401,42.955296],
+  "bbox": [
+    13.779401,
+    42.955296,
+    13.779401,
+    42.955296
+],
   "geometry": {"coordinates":[13.779401,42.955296],"type":"Point"}
 }

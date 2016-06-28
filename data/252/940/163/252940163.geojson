@@ -2,13 +2,14 @@
   "id": 252940163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.314569,43.922607,12.314569,43.922607",
     "geom:latitude":43.922607,
     "geom:longitude":12.314569,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61015 Novafeltria",
     "sg:city":"Novafeltria",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":252940163,
-    "wof:lastmodified":1449005696,
+    "wof:lastmodified":1466291439,
     "wof:name":"Allevamento Della Genga Di Antonellini Alfonsina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.314569,43.922607,12.314569,43.922607],
+  "bbox": [
+    12.314569,
+    43.922607,
+    12.314569,
+    43.922607
+],
   "geometry": {"coordinates":[12.314569,43.922607],"type":"Point"}
 }

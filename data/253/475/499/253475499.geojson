@@ -2,13 +2,14 @@
   "id": 253475499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.079088,40.407593,18.079088,40.407593",
     "geom:latitude":40.407593,
     "geom:longitude":18.079088,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58, Via Volta A. 73019 Trepuzzi",
     "sg:city":"Trepuzzi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253475499,
-    "wof:lastmodified":1449064053,
+    "wof:lastmodified":1466294329,
     "wof:name":"Officine Meccaniche E Ferroviarie Del Salento (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "transport"
     ]
 },
-  "bbox": [18.079088,40.407593,18.079088,40.407593],
+  "bbox": [
+    18.079088,
+    40.407593,
+    18.079088,
+    40.407593
+],
   "geometry": {"coordinates":[18.079088,40.407593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219533287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.428501,45.439159,8.428501,45.439159",
     "geom:latitude":45.439159,
     "geom:longitude":8.428501,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 59/t 28060 San Nazzaro Sesia",
     "sg:city":"San Nazzaro Sesia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219533287,
-    "wof:lastmodified":1449070335,
+    "wof:lastmodified":1466291697,
     "wof:name":"Politex Conf Di Robboni Daniele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.428501,45.439159,8.428501,45.439159],
+  "bbox": [
+    8.428501,
+    45.439159,
+    8.428501,
+    45.439159
+],
   "geometry": {"coordinates":[8.428501,45.439159],"type":"Point"}
 }

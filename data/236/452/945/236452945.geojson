@@ -2,13 +2,14 @@
   "id": 236452945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.005118,45.5406,11.005118,45.5406",
     "geom:latitude":45.5406,
     "geom:longitude":11.005118,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37023 Grezzana",
     "sg:city":"Grezzana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236452945,
-    "wof:lastmodified":1449002261,
+    "wof:lastmodified":1466293556,
     "wof:name":"Albrigi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineering"
     ]
 },
-  "bbox": [11.005118,45.5406,11.005118,45.5406],
+  "bbox": [
+    11.005118,
+    45.5406,
+    11.005118,
+    45.5406
+],
   "geometry": {"coordinates":[11.005118,45.5406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186105419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.84738,43.678509,10.84738,43.678509",
     "geom:latitude":43.678509,
     "geom:longitude":10.84738,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Grifoni 12, 56027 San Miniato, Pi",
     "sg:classifiers":[
         {
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186105419,
-    "wof:lastmodified":1449051404,
+    "wof:lastmodified":1466296103,
     "wof:name":"Finanziaria Cassa Di Risparmio Di San Miniato Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.84738,43.678509,10.84738,43.678509],
+  "bbox": [
+    10.84738,
+    43.678509,
+    10.84738,
+    43.678509
+],
   "geometry": {"coordinates":[10.84738,43.678509],"type":"Point"}
 }

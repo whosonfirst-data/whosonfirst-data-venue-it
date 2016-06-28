@@ -2,13 +2,14 @@
   "id": 269564109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.308231,39.300621,16.308231,39.300621",
     "geom:latitude":39.300621,
     "geom:longitude":16.308231,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via P. Mancini 2 87050 Rovito",
     "sg:city":"Rovito",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269564109,
-    "wof:lastmodified":1449038826,
+    "wof:lastmodified":1466289885,
     "wof:name":"Simonetta Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.308231,39.300621,16.308231,39.300621],
+  "bbox": [
+    16.308231,
+    39.300621,
+    16.308231,
+    39.300621
+],
   "geometry": {"coordinates":[16.308231,39.300621],"type":"Point"}
 }

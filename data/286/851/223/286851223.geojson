@@ -2,13 +2,14 @@
   "id": 286851223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.242998,40.574089,17.242998,40.574089",
     "geom:latitude":40.574089,
     "geom:longitude":17.242998,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74027 San Giorgio Jonico",
     "sg:classifiers":[],
     "sg:orig_category":"Tempo Libero - Articoli E Forniture. Shopping. Regalistica Aziendale",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":286851223,
-    "wof:lastmodified":1449017121,
+    "wof:lastmodified":1466296754,
     "wof:name":"Il Regno Dei Bimbi Di Caiazzo P.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.242998,40.574089,17.242998,40.574089],
+  "bbox": [
+    17.242998,
+    40.574089,
+    17.242998,
+    40.574089
+],
   "geometry": {"coordinates":[17.242998,40.574089],"type":"Point"}
 }

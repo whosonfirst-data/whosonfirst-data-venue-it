@@ -2,13 +2,14 @@
   "id": 236724769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.195542,45.699181,10.195542,45.699181",
     "geom:latitude":45.699181,
     "geom:longitude":10.195542,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39/41, Via Valtrompia 25063 Gardone Val Trompia",
     "sg:city":"Gardone Val Trompia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236724769,
-    "wof:lastmodified":1449005163,
+    "wof:lastmodified":1466296244,
     "wof:name":"Tanfoglio Fratelli S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [10.195542,45.699181,10.195542,45.699181],
+  "bbox": [
+    10.195542,
+    45.699181,
+    10.195542,
+    45.699181
+],
   "geometry": {"coordinates":[10.195542,45.699181],"type":"Point"}
 }

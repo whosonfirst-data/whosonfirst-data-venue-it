@@ -2,13 +2,14 @@
   "id": 252923915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.855927,41.122513,16.855927,41.122513",
     "geom:latitude":41.122513,
     "geom:longitude":16.855927,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70052 Bisceglie",
     "sg:city":"Bisceglie",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252923915,
-    "wof:lastmodified":1449006464,
+    "wof:lastmodified":1466291289,
     "wof:name":"Co.pro.mar. Srl",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.855927,41.122513,16.855927,41.122513],
+  "bbox": [
+    16.855927,
+    41.122513,
+    16.855927,
+    41.122513
+],
   "geometry": {"coordinates":[16.855927,41.122513],"type":"Point"}
 }

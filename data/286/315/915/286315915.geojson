@@ -2,13 +2,14 @@
   "id": 286315915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.533195,41.884373,12.533195,41.884373",
     "geom:latitude":41.884373,
     "geom:longitude":12.533195,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00176 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286315915,
-    "wof:lastmodified":1449017936,
+    "wof:lastmodified":1466290192,
     "wof:name":"Chiesa Di Altri Culti Evangelica =assemblee Di Dio=",
     "wof:parent_id":85904931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.533195,41.884373,12.533195,41.884373],
+  "bbox": [
+    12.533195,
+    41.884373,
+    12.533195,
+    41.884373
+],
   "geometry": {"coordinates":[12.533195,41.884373],"type":"Point"}
 }

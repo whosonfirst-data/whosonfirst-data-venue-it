@@ -2,13 +2,14 @@
   "id": 320773123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.188601,40.92107,14.188601,40.92107",
     "geom:latitude":40.92107,
     "geom:longitude":14.188601,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80142 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320773123,
-    "wof:lastmodified":1449011722,
+    "wof:lastmodified":1466298117,
     "wof:name":"Tecnotre Studio E D&co Non Solo Ceramiche",
     "wof:parent_id":85900399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.188601,40.92107,14.188601,40.92107],
+  "bbox": [
+    14.188601,
+    40.92107,
+    14.188601,
+    40.92107
+],
   "geometry": {"coordinates":[14.188601,40.92107],"type":"Point"}
 }

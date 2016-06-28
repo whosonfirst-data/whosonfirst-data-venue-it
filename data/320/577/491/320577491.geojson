@@ -2,13 +2,14 @@
   "id": 320577491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.202155,45.500065,12.202155,45.500065",
     "geom:latitude":45.500065,
     "geom:longitude":12.202155,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30174 Mestre",
     "sg:city":"Mestre",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320577491,
-    "wof:lastmodified":1449015071,
+    "wof:lastmodified":1466297743,
     "wof:name":"Pedrocco Massimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.202155,45.500065,12.202155,45.500065],
+  "bbox": [
+    12.202155,
+    45.500065,
+    12.202155,
+    45.500065
+],
   "geometry": {"coordinates":[12.202155,45.500065],"type":"Point"}
 }

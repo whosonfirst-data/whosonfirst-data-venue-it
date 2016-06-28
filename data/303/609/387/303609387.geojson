@@ -2,13 +2,14 @@
   "id": 303609387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.405908,45.197769,9.405908,45.197769",
     "geom:latitude":45.197769,
     "geom:longitude":9.405908,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27010 Inverno E Monteleone",
     "sg:city":"Inverno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303609387,
-    "wof:lastmodified":1448999029,
+    "wof:lastmodified":1466297236,
     "wof:name":"Arredamenti Raffaldi Di Raffaldi Siro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.405908,45.197769,9.405908,45.197769],
+  "bbox": [
+    9.405908,
+    45.197769,
+    9.405908,
+    45.197769
+],
   "geometry": {"coordinates":[9.405908,45.197769],"type":"Point"}
 }

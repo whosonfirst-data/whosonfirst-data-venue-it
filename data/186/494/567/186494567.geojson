@@ -2,13 +2,14 @@
   "id": 186494567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.979852,45.738609,8.979852,45.738609",
     "geom:latitude":45.738609,
     "geom:longitude":8.979852,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22070 Appiano Gentile",
     "sg:city":"Appiano Gentile",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186494567,
-    "wof:lastmodified":1449052727,
+    "wof:lastmodified":1466292225,
     "wof:name":"Cagnotti Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.979852,45.738609,8.979852,45.738609],
+  "bbox": [
+    8.979852,
+    45.738609,
+    8.979852,
+    45.738609
+],
   "geometry": {"coordinates":[8.979852,45.738609],"type":"Point"}
 }

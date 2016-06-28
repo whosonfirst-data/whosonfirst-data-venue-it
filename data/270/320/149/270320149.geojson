@@ -2,13 +2,14 @@
   "id": 270320149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.573774,43.469719,13.573774,43.469719",
     "geom:latitude":43.469719,
     "geom:longitude":13.573774,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60022 Crocette",
     "sg:classifiers":[],
     "sg:orig_category":"Cartotecnica E Servizi. Composizione, Stampa E Confezione. Servizi E Lavori Industria Delle Materie Plastiche. Servizi Per Imballaggio E Confezionamento",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270320149,
-    "wof:lastmodified":1449009237,
+    "wof:lastmodified":1466292875,
     "wof:name":"Ditta C.m. Di Chiucconi Marj",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.573774,43.469719,13.573774,43.469719],
+  "bbox": [
+    13.573774,
+    43.469719,
+    13.573774,
+    43.469719
+],
   "geometry": {"coordinates":[13.573774,43.469719],"type":"Point"}
 }

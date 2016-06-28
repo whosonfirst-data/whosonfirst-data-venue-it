@@ -2,13 +2,14 @@
   "id": 286617473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.899453,44.658936,10.899453,44.658936",
     "geom:latitude":44.658936,
     "geom:longitude":10.899453,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90, Strada Nazionale Per Carpi 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286617473,
-    "wof:lastmodified":1449015260,
+    "wof:lastmodified":1466294152,
     "wof:name":"I.b.a.m. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [10.899453,44.658936,10.899453,44.658936],
+  "bbox": [
+    10.899453,
+    44.658936,
+    10.899453,
+    44.658936
+],
   "geometry": {"coordinates":[10.899453,44.658936],"type":"Point"}
 }

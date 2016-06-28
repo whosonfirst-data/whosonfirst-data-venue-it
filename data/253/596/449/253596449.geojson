@@ -2,13 +2,14 @@
   "id": 253596449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.046849,45.376587,12.046849,45.376587",
     "geom:latitude":45.376587,
     "geom:longitude":12.046849,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Provinciale Sud 135 30030 Fosso'",
     "sg:classifiers":[],
     "sg:orig_category":"Ladies' Shoes",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253596449,
-    "wof:lastmodified":1449064340,
+    "wof:lastmodified":1466295906,
     "wof:name":"Calzaturificio Dial Di Ditadi Adriano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.046849,45.376587,12.046849,45.376587],
+  "bbox": [
+    12.046849,
+    45.376587,
+    12.046849,
+    45.376587
+],
   "geometry": {"coordinates":[12.046849,45.376587],"type":"Point"}
 }

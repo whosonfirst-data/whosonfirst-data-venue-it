@@ -2,13 +2,14 @@
   "id": 219261449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.049845,43.54047,12.049845,43.54047",
     "geom:latitude":43.54047,
     "geom:longitude":12.049845,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Martiri Della Libbia 25 52031 Anghiari",
     "sg:city":"Anghiari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219261449,
-    "wof:lastmodified":1449070428,
+    "wof:lastmodified":1466288913,
     "wof:name":"Nicol Preziosi Di Piantini Nicoletta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [12.049845,43.54047,12.049845,43.54047],
+  "bbox": [
+    12.049845,
+    43.54047,
+    12.049845,
+    43.54047
+],
   "geometry": {"coordinates":[12.049845,43.54047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236752035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.800295,41.116142,16.800295,41.116142",
     "geom:latitude":41.116142,
     "geom:longitude":16.800295,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70123 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236752035,
-    "wof:lastmodified":1449002090,
+    "wof:lastmodified":1466296487,
     "wof:name":"Frigo Stock Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.800295,41.116142,16.800295,41.116142],
+  "bbox": [
+    16.800295,
+    41.116142,
+    16.800295,
+    41.116142
+],
   "geometry": {"coordinates":[16.800295,41.116142],"type":"Point"}
 }

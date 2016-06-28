@@ -2,13 +2,14 @@
   "id": 270013911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.323974,45.694939,10.323974,45.694939",
     "geom:latitude":45.694939,
     "geom:longitude":10.323974,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 46 25070 Casto",
     "sg:city":"Casto",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270013911,
-    "wof:lastmodified":1449010322,
+    "wof:lastmodified":1466289163,
     "wof:name":"Pres Metal Srl Di F.lli Vidani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "casting"
     ]
 },
-  "bbox": [10.323974,45.694939,10.323974,45.694939],
+  "bbox": [
+    10.323974,
+    45.694939,
+    10.323974,
+    45.694939
+],
   "geometry": {"coordinates":[10.323974,45.694939],"type":"Point"}
 }

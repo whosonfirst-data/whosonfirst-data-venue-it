@@ -2,13 +2,14 @@
   "id": 287233435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.159536,45.563068,9.159536,45.563068",
     "geom:latitude":45.563068,
     "geom:longitude":9.159536,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88, Via Roma 20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287233435,
-    "wof:lastmodified":1449001604,
+    "wof:lastmodified":1466292715,
     "wof:name":"Lares Cozzi Spa",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.159536,45.563068,9.159536,45.563068],
+  "bbox": [
+    9.159536,
+    45.563068,
+    9.159536,
+    45.563068
+],
   "geometry": {"coordinates":[9.159536,45.563068],"type":"Point"}
 }

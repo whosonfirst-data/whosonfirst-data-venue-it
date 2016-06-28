@@ -2,13 +2,14 @@
   "id": 303313747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.947646,46.810394,11.947646,46.810394",
     "geom:latitude":46.810394,
     "geom:longitude":11.947646,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Rost 13 39031 Brunico",
     "sg:city":"Brunico",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303313747,
-    "wof:lastmodified":1448998190,
+    "wof:lastmodified":1466294386,
     "wof:name":"K\u00dchltec Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "evaporators"
     ]
 },
-  "bbox": [11.947646,46.810394,11.947646,46.810394],
+  "bbox": [
+    11.947646,
+    46.810394,
+    11.947646,
+    46.810394
+],
   "geometry": {"coordinates":[11.947646,46.810394],"type":"Point"}
 }

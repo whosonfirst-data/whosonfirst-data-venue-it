@@ -2,13 +2,14 @@
   "id": 286619309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.649421,45.740059,9.649421,45.740059",
     "geom:latitude":45.740059,
     "geom:longitude":9.649421,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"117, Via Degli Assonica 24010 Sorisole",
     "sg:city":"Sorisole",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286619309,
-    "wof:lastmodified":1449015690,
+    "wof:lastmodified":1466294173,
     "wof:name":"La Madreperla S.n.c. Di Bresciani Ermenegildo Ed Elena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [9.649421,45.740059,9.649421,45.740059],
+  "bbox": [
+    9.649421,
+    45.740059,
+    9.649421,
+    45.740059
+],
   "geometry": {"coordinates":[9.649421,45.740059],"type":"Point"}
 }

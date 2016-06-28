@@ -2,13 +2,14 @@
   "id": 319944855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.501794,41.669292,12.501794,41.669292",
     "geom:latitude":41.669292,
     "geom:longitude":12.501794,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00040 Pomezia",
     "sg:city":"Pomezia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319944855,
-    "wof:lastmodified":1449024473,
+    "wof:lastmodified":1466294123,
     "wof:name":"Officine Aeronavali Venezia S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.501794,41.669292,12.501794,41.669292],
+  "bbox": [
+    12.501794,
+    41.669292,
+    12.501794,
+    41.669292
+],
   "geometry": {"coordinates":[12.501794,41.669292],"type":"Point"}
 }

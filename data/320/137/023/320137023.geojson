@@ -2,13 +2,14 @@
   "id": 320137023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.428505,45.785038,9.428505,45.785038",
     "geom:latitude":45.785038,
     "geom:longitude":9.428505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23854 Olginate",
     "sg:city":"Olginate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320137023,
-    "wof:lastmodified":1449014459,
+    "wof:lastmodified":1466295058,
     "wof:name":"Osca Automazioni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.428505,45.785038,9.428505,45.785038],
+  "bbox": [
+    9.428505,
+    45.785038,
+    9.428505,
+    45.785038
+],
   "geometry": {"coordinates":[9.428505,45.785038],"type":"Point"}
 }

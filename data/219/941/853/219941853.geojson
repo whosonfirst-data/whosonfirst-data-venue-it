@@ -2,13 +2,14 @@
   "id": 219941853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.149879,39.258656,9.149879,39.258656",
     "geom:latitude":39.258656,
     "geom:longitude":9.149879,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09044 Quartucciu",
     "sg:city":"Quartucciu",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219941853,
-    "wof:lastmodified":1449072494,
+    "wof:lastmodified":1466295721,
     "wof:name":"Elettrica Service Snc",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.149879,39.258656,9.149879,39.258656],
+  "bbox": [
+    9.149879,
+    39.258656,
+    9.149879,
+    39.258656
+],
   "geometry": {"coordinates":[9.149879,39.258656],"type":"Point"}
 }

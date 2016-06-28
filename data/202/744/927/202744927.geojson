@@ -2,13 +2,14 @@
   "id": 202744927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.564576,41.440998,15.564576,41.440998",
     "geom:latitude":41.440998,
     "geom:longitude":15.564576,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71043 Manfredonia",
     "sg:city":"Manfredonia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202744927,
-    "wof:lastmodified":1449061025,
+    "wof:lastmodified":1466291532,
     "wof:name":"Adriatic Star Di Trotta Giacomo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.564576,41.440998,15.564576,41.440998],
+  "bbox": [
+    15.564576,
+    41.440998,
+    15.564576,
+    41.440998
+],
   "geometry": {"coordinates":[15.564576,41.440998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253449463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.542788,41.458248,15.542788,41.458248",
     "geom:latitude":41.458248,
     "geom:longitude":15.542788,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71100 Foggia",
     "sg:city":"Foggia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253449463,
-    "wof:lastmodified":1449065575,
+    "wof:lastmodified":1466293994,
     "wof:name":"Le.co. Di Carretta Armando",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.542788,41.458248,15.542788,41.458248],
+  "bbox": [
+    15.542788,
+    41.458248,
+    15.542788,
+    41.458248
+],
   "geometry": {"coordinates":[15.542788,41.458248],"type":"Point"}
 }

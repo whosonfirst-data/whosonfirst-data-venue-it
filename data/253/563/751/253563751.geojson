@@ -2,13 +2,14 @@
   "id": 253563751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.770326,40.675312,14.770326,40.675312",
     "geom:latitude":40.675312,
     "geom:longitude":14.770326,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"84123 Salerno",
     "sg:city":"Salerno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253563751,
-    "wof:lastmodified":1449062861,
+    "wof:lastmodified":1466295470,
     "wof:name":"Siam Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.770326,40.675312,14.770326,40.675312],
+  "bbox": [
+    14.770326,
+    40.675312,
+    14.770326,
+    40.675312
+],
   "geometry": {"coordinates":[14.770326,40.675312],"type":"Point"}
 }

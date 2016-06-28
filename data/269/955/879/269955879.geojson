@@ -2,13 +2,14 @@
   "id": 269955879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.935945,43.43063,12.935945,43.43063",
     "geom:latitude":43.43063,
     "geom:longitude":12.935945,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60040 Genga",
     "sg:city":"Genga",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269955879,
-    "wof:lastmodified":1449037777,
+    "wof:lastmodified":1466294767,
     "wof:name":"Terme San Vittore Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.935945,43.43063,12.935945,43.43063],
+  "bbox": [
+    12.935945,
+    43.43063,
+    12.935945,
+    43.43063
+],
   "geometry": {"coordinates":[12.935945,43.43063],"type":"Point"}
 }

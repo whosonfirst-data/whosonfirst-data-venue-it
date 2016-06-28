@@ -2,13 +2,14 @@
   "id": 336625329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.847955,45.39624,7.847955,45.39624",
     "geom:latitude":45.39624,
     "geom:longitude":7.847955,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Via Romano 10010 Scarmagno",
     "sg:city":"Scarmagno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336625329,
-    "wof:lastmodified":1448998034,
+    "wof:lastmodified":1466294036,
     "wof:name":"Canavesana Petroli (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.847955,45.39624,7.847955,45.39624],
+  "bbox": [
+    7.847955,
+    45.39624,
+    7.847955,
+    45.39624
+],
   "geometry": {"coordinates":[7.847955,45.39624],"type":"Point"}
 }

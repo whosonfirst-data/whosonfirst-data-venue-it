@@ -2,13 +2,14 @@
   "id": 286518751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.409498,44.504078,11.409498,44.504078",
     "geom:latitude":44.504078,
     "geom:longitude":11.409498,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via Intagliatore 40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286518751,
-    "wof:lastmodified":1449016844,
+    "wof:lastmodified":1466292931,
     "wof:name":"Giemme Due (s.r.l.)",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.409498,44.504078,11.409498,44.504078],
+  "bbox": [
+    11.409498,
+    44.504078,
+    11.409498,
+    44.504078
+],
   "geometry": {"coordinates":[11.409498,44.504078],"type":"Point"}
 }

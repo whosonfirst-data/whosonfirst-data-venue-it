@@ -2,13 +2,14 @@
   "id": 287020609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.160381,45.475662,9.160381,45.475662",
     "geom:latitude":45.475662,
     "geom:longitude":9.160381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Rotondi Giovanni 20145 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287020609,
-    "wof:lastmodified":1449001070,
+    "wof:lastmodified":1466289859,
     "wof:name":"Parsec S.a.s. Di Giudici Ermanno & C.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [9.160381,45.475662,9.160381,45.475662],
+  "bbox": [
+    9.160381,
+    45.475662,
+    9.160381,
+    45.475662
+],
   "geometry": {"coordinates":[9.160381,45.475662],"type":"Point"}
 }

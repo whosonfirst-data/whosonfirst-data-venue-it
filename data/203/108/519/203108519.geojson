@@ -2,13 +2,14 @@
   "id": 203108519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.65811,42.568134,12.65811,42.568134",
     "geom:latitude":42.568134,
     "geom:longitude":12.65811,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"05100 Terni",
     "sg:city":"Terni",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203108519,
-    "wof:lastmodified":1449024982,
+    "wof:lastmodified":1466288979,
     "wof:name":"Iter Snc Di Nitti Paola & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.65811,42.568134,12.65811,42.568134],
+  "bbox": [
+    12.65811,
+    42.568134,
+    12.65811,
+    42.568134
+],
   "geometry": {"coordinates":[12.65811,42.568134],"type":"Point"}
 }

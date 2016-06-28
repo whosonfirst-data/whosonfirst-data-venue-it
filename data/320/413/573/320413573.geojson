@@ -2,13 +2,14 @@
   "id": 320413573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.01231,44.746021,11.01231,44.746021",
     "geom:latitude":44.746021,
     "geom:longitude":11.01231,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41030 Bomporto",
     "sg:city":"Bomporto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320413573,
-    "wof:lastmodified":1449011846,
+    "wof:lastmodified":1466297430,
     "wof:name":"Mandolesi Luciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.01231,44.746021,11.01231,44.746021],
+  "bbox": [
+    11.01231,
+    44.746021,
+    11.01231,
+    44.746021
+],
   "geometry": {"coordinates":[11.01231,44.746021],"type":"Point"}
 }

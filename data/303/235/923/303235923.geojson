@@ -2,13 +2,14 @@
   "id": 303235923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.695873,45.595745,9.695873,45.595745",
     "geom:latitude":45.595745,
     "geom:longitude":9.695873,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Vicolo Enrico Scuri 24059 Urgnano",
     "sg:city":"Urgnano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303235923,
-    "wof:lastmodified":1448998542,
+    "wof:lastmodified":1466293425,
     "wof:name":"Co.gas S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "energy"
     ]
 },
-  "bbox": [9.695873,45.595745,9.695873,45.595745],
+  "bbox": [
+    9.695873,
+    45.595745,
+    9.695873,
+    45.595745
+],
   "geometry": {"coordinates":[9.695873,45.595745],"type":"Point"}
 }

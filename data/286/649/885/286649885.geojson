@@ -2,13 +2,14 @@
   "id": 286649885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.575172,44.639183,10.575172,44.639183",
     "geom:latitude":44.639183,
     "geom:longitude":10.575172,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42020 Quattro Castella",
     "sg:classifiers":[],
     "sg:orig_category":"Clothing, Accessories",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286649885,
-    "wof:lastmodified":1449017189,
+    "wof:lastmodified":1466294542,
     "wof:name":"Cravattificio Conti Di Conti & Camellini Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.575172,44.639183,10.575172,44.639183],
+  "bbox": [
+    10.575172,
+    44.639183,
+    10.575172,
+    44.639183
+],
   "geometry": {"coordinates":[10.575172,44.639183],"type":"Point"}
 }

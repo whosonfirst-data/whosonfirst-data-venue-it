@@ -2,13 +2,14 @@
   "id": 270359111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.454531,45.557781,8.454531,45.557781",
     "geom:latitude":45.557781,
     "geom:longitude":8.454531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28073 Fara Novarese",
     "sg:city":"Fara Novarese",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270359111,
-    "wof:lastmodified":1449008632,
+    "wof:lastmodified":1466293370,
     "wof:name":"I Cedri Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "di"
     ]
 },
-  "bbox": [8.454531,45.557781,8.454531,45.557781],
+  "bbox": [
+    8.454531,
+    45.557781,
+    8.454531,
+    45.557781
+],
   "geometry": {"coordinates":[8.454531,45.557781],"type":"Point"}
 }

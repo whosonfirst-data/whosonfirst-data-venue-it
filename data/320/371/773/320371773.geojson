@@ -2,13 +2,14 @@
   "id": 320371773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.285995,40.851242,14.285995,40.851242",
     "geom:latitude":40.851242,
     "geom:longitude":14.285995,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80142 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320371773,
-    "wof:lastmodified":1449014133,
+    "wof:lastmodified":1466297176,
     "wof:name":"Pa.mi.tex 2000 S.r.l.",
     "wof:parent_id":85904755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.285995,40.851242,14.285995,40.851242],
+  "bbox": [
+    14.285995,
+    40.851242,
+    14.285995,
+    40.851242
+],
   "geometry": {"coordinates":[14.285995,40.851242],"type":"Point"}
 }

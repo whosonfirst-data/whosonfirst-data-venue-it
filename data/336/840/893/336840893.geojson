@@ -2,13 +2,14 @@
   "id": 336840893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.548738,44.849045,10.548738,44.849045",
     "geom:latitude":44.849045,
     "geom:longitude":10.548738,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27/1, Via Grande 42028 Poviglio",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336840893,
-    "wof:lastmodified":1448997792,
+    "wof:lastmodified":1466296418,
     "wof:name":"S.c.s. S.r.l. Costruzioni Meccaniche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.548738,44.849045,10.548738,44.849045],
+  "bbox": [
+    10.548738,
+    44.849045,
+    10.548738,
+    44.849045
+],
   "geometry": {"coordinates":[10.548738,44.849045],"type":"Point"}
 }

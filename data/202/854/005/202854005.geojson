@@ -2,13 +2,14 @@
   "id": 202854005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.281916,45.384846,11.281916,45.384846",
     "geom:latitude":45.384846,
     "geom:longitude":11.281916,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37047 San Bonifacio",
     "sg:city":"San Bonifacio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202854005,
-    "wof:lastmodified":1449062551,
+    "wof:lastmodified":1466292746,
     "wof:name":"Mondardo Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.281916,45.384846,11.281916,45.384846],
+  "bbox": [
+    11.281916,
+    45.384846,
+    11.281916,
+    45.384846
+],
   "geometry": {"coordinates":[11.281916,45.384846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270489297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.400023,42.349949,13.400023,42.349949",
     "geom:latitude":42.349949,
     "geom:longitude":13.400023,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Del Guastatore 7; L'aquila; 67100",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270489297,
-    "wof:lastmodified":1449009980,
+    "wof:lastmodified":1466294924,
     "wof:name":"L'aquila Cci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commerce"
     ]
 },
-  "bbox": [13.400023,42.349949,13.400023,42.349949],
+  "bbox": [
+    13.400023,
+    42.349949,
+    13.400023,
+    42.349949
+],
   "geometry": {"coordinates":[13.400023,42.349949],"type":"Point"}
 }

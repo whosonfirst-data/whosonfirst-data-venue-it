@@ -2,13 +2,14 @@
   "id": 202452251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.294795,45.440887,9.294795,45.440887",
     "geom:latitude":45.440887,
     "geom:longitude":9.294795,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20068 Mezzate",
     "sg:city":"Mezzate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202452251,
-    "wof:lastmodified":1449060703,
+    "wof:lastmodified":1466295708,
     "wof:name":"Scuola Elementare",
     "wof:parent_id":85935827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.294795,45.440887,9.294795,45.440887],
+  "bbox": [
+    9.294795,
+    45.440887,
+    9.294795,
+    45.440887
+],
   "geometry": {"coordinates":[9.294795,45.440887],"type":"Point"}
 }

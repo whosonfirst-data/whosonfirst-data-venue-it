@@ -2,13 +2,14 @@
   "id": 320844377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.146095,45.46629,9.146095,45.46629",
     "geom:latitude":45.46629,
     "geom:longitude":9.146095,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Viale Bezzi Ergisto 20146 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320844377,
-    "wof:lastmodified":1449012850,
+    "wof:lastmodified":1466298179,
     "wof:name":"Atec (s.r.l.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "measurement"
     ]
 },
-  "bbox": [9.146095,45.46629,9.146095,45.46629],
+  "bbox": [
+    9.146095,
+    45.46629,
+    9.146095,
+    45.46629
+],
   "geometry": {"coordinates":[9.146095,45.46629],"type":"Point"}
 }

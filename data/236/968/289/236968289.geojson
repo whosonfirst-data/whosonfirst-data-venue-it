@@ -2,13 +2,14 @@
   "id": 236968289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.203912,45.700367,10.203912,45.700367",
     "geom:latitude":45.700367,
     "geom:longitude":10.203912,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via 2 Giugno,4 25060 Marcheno",
     "sg:city":"Marcheno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236968289,
-    "wof:lastmodified":1449001834,
+    "wof:lastmodified":1466297381,
     "wof:name":"Tavana Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.203912,45.700367,10.203912,45.700367],
+  "bbox": [
+    10.203912,
+    45.700367,
+    10.203912,
+    45.700367
+],
   "geometry": {"coordinates":[10.203912,45.700367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269847267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.142434,45.093987,11.142434,45.093987",
     "geom:latitude":45.093987,
     "geom:longitude":11.142434,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Via Abetone Brennero Nord 46035 Ostiglia",
     "sg:city":"Ostiglia",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269847267,
-    "wof:lastmodified":1449037013,
+    "wof:lastmodified":1466293565,
     "wof:name":"Tecnofer (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.142434,45.093987,11.142434,45.093987],
+  "bbox": [
+    11.142434,
+    45.093987,
+    11.142434,
+    45.093987
+],
   "geometry": {"coordinates":[11.142434,45.093987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286443199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.479343,41.893379,12.479343,41.893379",
     "geom:latitude":41.893379,
     "geom:longitude":12.479343,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, P. Campitelli 00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286443199,
-    "wof:lastmodified":1449017576,
+    "wof:lastmodified":1466292045,
     "wof:name":"Litrico Alta Moda",
     "wof:parent_id":85900471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.479343,41.893379,12.479343,41.893379],
+  "bbox": [
+    12.479343,
+    41.893379,
+    12.479343,
+    41.893379
+],
   "geometry": {"coordinates":[12.479343,41.893379],"type":"Point"}
 }

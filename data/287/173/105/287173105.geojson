@@ -2,13 +2,14 @@
   "id": 287173105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.263405,37.815369,15.263405,37.815369",
     "geom:latitude":37.815369,
     "geom:longitude":15.263405,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Recanati, 26; Sicilia; 98035",
     "sg:classifiers":[
         {
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287173105,
-    "wof:lastmodified":1449000833,
+    "wof:lastmodified":1466291891,
     "wof:name":"Atahotel Naxos Beach Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.263405,37.815369,15.263405,37.815369],
+  "bbox": [
+    15.263405,
+    37.815369,
+    15.263405,
+    37.815369
+],
   "geometry": {"coordinates":[15.263405,37.815369],"type":"Point"}
 }

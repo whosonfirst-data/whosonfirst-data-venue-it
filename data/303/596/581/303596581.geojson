@@ -2,13 +2,14 @@
   "id": 303596581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.962878,43.859013,10.962878,43.859013",
     "geom:latitude":43.859013,
     "geom:longitude":10.962878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"51039 Quarrata",
     "sg:city":"Quarrata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303596581,
-    "wof:lastmodified":1448999373,
+    "wof:lastmodified":1466297051,
     "wof:name":"Arredamenti Innocenti Snc Di Innocenti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.962878,43.859013,10.962878,43.859013],
+  "bbox": [
+    10.962878,
+    43.859013,
+    10.962878,
+    43.859013
+],
   "geometry": {"coordinates":[10.962878,43.859013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270394955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.227117,45.484459,9.227117,45.484459",
     "geom:latitude":45.484459,
     "geom:longitude":9.227117,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270394955,
-    "wof:lastmodified":1449009112,
+    "wof:lastmodified":1466293809,
     "wof:name":"B&b Bellezza E Benessere",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.227117,45.484459,9.227117,45.484459],
+  "bbox": [
+    9.227117,
+    45.484459,
+    9.227117,
+    45.484459
+],
   "geometry": {"coordinates":[9.227117,45.484459],"type":"Point"}
 }

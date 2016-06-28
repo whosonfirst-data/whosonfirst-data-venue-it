@@ -2,13 +2,14 @@
   "id": 269801233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.032751,40.176105,18.032751,40.176105",
     "geom:latitude":40.176105,
     "geom:longitude":18.032751,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73048 Nard\u00f2",
     "sg:classifiers":[],
     "sg:orig_category":"Agricoltura, Orticoltura E Floricoltura",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269801233,
-    "wof:lastmodified":1449038433,
+    "wof:lastmodified":1466293035,
     "wof:name":"De Benedittis Cosimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.032751,40.176105,18.032751,40.176105],
+  "bbox": [
+    18.032751,
+    40.176105,
+    18.032751,
+    40.176105
+],
   "geometry": {"coordinates":[18.032751,40.176105],"type":"Point"}
 }

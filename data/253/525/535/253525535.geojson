@@ -2,13 +2,14 @@
   "id": 253525535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.847013,45.646179,8.847013,45.646179",
     "geom:latitude":45.646179,
     "geom:longitude":8.847013,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bonicalza 180 21012 Cassano Magnago",
     "sg:city":"Cassano Magnago",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253525535,
-    "wof:lastmodified":1449065145,
+    "wof:lastmodified":1466294939,
     "wof:name":"Coba Lingerie Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.847013,45.646179,8.847013,45.646179],
+  "bbox": [
+    8.847013,
+    45.646179,
+    8.847013,
+    45.646179
+],
   "geometry": {"coordinates":[8.847013,45.646179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320611211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.553497,44.397709,7.553497,44.397709",
     "geom:latitude":44.397709,
     "geom:longitude":7.553497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cimitero 3 12100 Cuneo",
     "sg:city":"Cuneo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320611211,
-    "wof:lastmodified":1449014174,
+    "wof:lastmodified":1466297817,
     "wof:name":"Cuneo Marmi Di Ghibaudo Domenico Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "marble"
     ]
 },
-  "bbox": [7.553497,44.397709,7.553497,44.397709],
+  "bbox": [
+    7.553497,
+    44.397709,
+    7.553497,
+    44.397709
+],
   "geometry": {"coordinates":[7.553497,44.397709],"type":"Point"}
 }

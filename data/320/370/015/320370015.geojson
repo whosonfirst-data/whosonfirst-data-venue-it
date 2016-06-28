@@ -2,13 +2,14 @@
   "id": 320370015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.215894,45.450497,10.215894,45.450497",
     "geom:latitude":45.450497,
     "geom:longitude":10.215894,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25010 Montirone",
     "sg:city":"Montirone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320370015,
-    "wof:lastmodified":1449013303,
+    "wof:lastmodified":1466297382,
     "wof:name":"Nuova Marc Tex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.215894,45.450497,10.215894,45.450497],
+  "bbox": [
+    10.215894,
+    45.450497,
+    10.215894,
+    45.450497
+],
   "geometry": {"coordinates":[10.215894,45.450497],"type":"Point"}
 }

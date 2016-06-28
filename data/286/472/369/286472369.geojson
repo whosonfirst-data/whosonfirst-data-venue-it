@@ -2,13 +2,14 @@
   "id": 286472369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.732033,45.527374,8.732033,45.527374",
     "geom:latitude":45.527374,
     "geom:longitude":8.732033,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Via Roma 20029 Turbigo",
     "sg:city":"Turbigo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286472369,
-    "wof:lastmodified":1449015410,
+    "wof:lastmodified":1466292386,
     "wof:name":"Cavalleri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [8.732033,45.527374,8.732033,45.527374],
+  "bbox": [
+    8.732033,
+    45.527374,
+    8.732033,
+    45.527374
+],
   "geometry": {"coordinates":[8.732033,45.527374],"type":"Point"}
 }

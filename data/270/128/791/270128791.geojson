@@ -2,13 +2,14 @@
   "id": 270128791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"17.16543,39.033646,17.16543,39.033646",
     "geom:latitude":39.033646,
     "geom:longitude":17.16543,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88900 Crotone",
     "sg:city":"Crotone",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270128791,
-    "wof:lastmodified":1449009583,
+    "wof:lastmodified":1466290522,
     "wof:name":"So.ge.al. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [17.16543,39.033646,17.16543,39.033646],
+  "bbox": [
+    17.16543,
+    39.033646,
+    17.16543,
+    39.033646
+],
   "geometry": {"coordinates":[17.16543,39.033646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236487503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.489364,41.903824,12.489364,41.903824",
     "geom:latitude":41.903824,
     "geom:longitude":12.489364,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236487503,
-    "wof:lastmodified":1449002580,
+    "wof:lastmodified":1466293937,
     "wof:name":"Roma Numismatica Srl",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.489364,41.903824,12.489364,41.903824],
+  "bbox": [
+    12.489364,
+    41.903824,
+    12.489364,
+    41.903824
+],
   "geometry": {"coordinates":[12.489364,41.903824],"type":"Point"}
 }

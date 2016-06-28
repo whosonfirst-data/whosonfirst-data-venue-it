@@ -2,13 +2,14 @@
   "id": 253436101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.487684,45.757065,8.487684,45.757065",
     "geom:latitude":45.757065,
     "geom:longitude":8.487684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28045 Invorio",
     "sg:city":"Invorio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253436101,
-    "wof:lastmodified":1449065499,
+    "wof:lastmodified":1466293820,
     "wof:name":"Curioni Franco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.487684,45.757065,8.487684,45.757065],
+  "bbox": [
+    8.487684,
+    45.757065,
+    8.487684,
+    45.757065
+],
   "geometry": {"coordinates":[8.487684,45.757065],"type":"Point"}
 }

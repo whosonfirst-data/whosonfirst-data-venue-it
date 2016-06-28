@@ -2,13 +2,14 @@
   "id": 219551813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.502075,42.575783,11.502075,42.575783",
     "geom:latitude":42.575783,
     "geom:longitude":11.502075,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58014 Manciano",
     "sg:city":"Manciano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219551813,
-    "wof:lastmodified":1449071103,
+    "wof:lastmodified":1466291859,
     "wof:name":"Lo Strambotto - San Sisto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.502075,42.575783,11.502075,42.575783],
+  "bbox": [
+    11.502075,
+    42.575783,
+    11.502075,
+    42.575783
+],
   "geometry": {"coordinates":[11.502075,42.575783],"type":"Point"}
 }

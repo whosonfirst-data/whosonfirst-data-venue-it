@@ -2,13 +2,14 @@
   "id": 286595905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.346481,44.494221,11.346481,44.494221",
     "geom:latitude":44.494221,
     "geom:longitude":11.346481,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Blocco 8 - Centergross 40050 Funo Di Argelato",
     "sg:city":"Argelato",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286595905,
-    "wof:lastmodified":1449017805,
+    "wof:lastmodified":1466293873,
     "wof:name":"Tiemme Export Srl",
     "wof:parent_id":85900451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.346481,44.494221,11.346481,44.494221],
+  "bbox": [
+    11.346481,
+    44.494221,
+    11.346481,
+    44.494221
+],
   "geometry": {"coordinates":[11.346481,44.494221],"type":"Point"}
 }

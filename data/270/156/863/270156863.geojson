@@ -2,13 +2,14 @@
   "id": 270156863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.215856,45.752995,9.215856,45.752995",
     "geom:latitude":45.752995,
     "geom:longitude":9.215856,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Madonnina 12 22040 Lurago D'erba",
     "sg:classifiers":[],
     "sg:orig_category":"Cane For Furniture",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270156863,
-    "wof:lastmodified":1449009117,
+    "wof:lastmodified":1466290857,
     "wof:name":"Vittorio Bonacina Di Mario Bonacina & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.215856,45.752995,9.215856,45.752995],
+  "bbox": [
+    9.215856,
+    45.752995,
+    9.215856,
+    45.752995
+],
   "geometry": {"coordinates":[9.215856,45.752995],"type":"Point"}
 }

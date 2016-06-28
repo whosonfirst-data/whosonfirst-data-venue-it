@@ -2,13 +2,14 @@
   "id": 202548863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.114289,45.551891,10.114289,45.551891",
     "geom:latitude":45.551891,
     "geom:longitude":10.114289,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25045 Castegnato",
     "sg:city":"Castegnato",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202548863,
-    "wof:lastmodified":1449061844,
+    "wof:lastmodified":1466289418,
     "wof:name":"R.b. Compomenti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.114289,45.551891,10.114289,45.551891],
+  "bbox": [
+    10.114289,
+    45.551891,
+    10.114289,
+    45.551891
+],
   "geometry": {"coordinates":[10.114289,45.551891],"type":"Point"}
 }

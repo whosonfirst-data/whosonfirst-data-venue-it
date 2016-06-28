@@ -2,13 +2,14 @@
   "id": 186070367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.537876,40.959427,14.537876,40.959427",
     "geom:latitude":40.959427,
     "geom:longitude":14.537876,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nola, 68; Cicciano; 80033",
     "sg:city":"Cicciano",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186070367,
-    "wof:lastmodified":1449051681,
+    "wof:lastmodified":1466295502,
     "wof:name":"Credito Di Cicciano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.537876,40.959427,14.537876,40.959427],
+  "bbox": [
+    14.537876,
+    40.959427,
+    14.537876,
+    40.959427
+],
   "geometry": {"coordinates":[14.537876,40.959427],"type":"Point"}
 }

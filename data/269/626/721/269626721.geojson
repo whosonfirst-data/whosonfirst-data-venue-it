@@ -2,13 +2,14 @@
   "id": 269626721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.628304,45.9002,8.628304,45.9002",
     "geom:latitude":45.9002,
     "geom:longitude":8.628304,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21014 Laveno Mombello",
     "sg:city":"Laveno",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269626721,
-    "wof:lastmodified":1449038972,
+    "wof:lastmodified":1466290643,
     "wof:name":"Griggio Mario & Figli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "letti"
     ]
 },
-  "bbox": [8.628304,45.9002,8.628304,45.9002],
+  "bbox": [
+    8.628304,
+    45.9002,
+    8.628304,
+    45.9002
+],
   "geometry": {"coordinates":[8.628304,45.9002],"type":"Point"}
 }

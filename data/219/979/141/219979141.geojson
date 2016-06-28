@@ -2,13 +2,14 @@
   "id": 219979141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.5194,41.919109,12.5194,41.919109",
     "geom:latitude":41.919109,
     "geom:longitude":12.5194,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00162 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219979141,
-    "wof:lastmodified":1449072882,
+    "wof:lastmodified":1466296130,
     "wof:name":"Co.m.it. 3 Srl",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.5194,41.919109,12.5194,41.919109],
+  "bbox": [
+    12.5194,
+    41.919109,
+    12.5194,
+    41.919109
+],
   "geometry": {"coordinates":[12.5194,41.919109],"type":"Point"}
 }

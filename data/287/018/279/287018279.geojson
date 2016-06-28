@@ -2,13 +2,14 @@
   "id": 287018279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.048771,45.275448,12.048771,45.275448",
     "geom:latitude":45.275448,
     "geom:longitude":12.048771,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Dell' Industria 35020 Arzergrande",
     "sg:city":"Arzergrande",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287018279,
-    "wof:lastmodified":1449001107,
+    "wof:lastmodified":1466289831,
     "wof:name":"Marlin (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [12.048771,45.275448,12.048771,45.275448],
+  "bbox": [
+    12.048771,
+    45.275448,
+    12.048771,
+    45.275448
+],
   "geometry": {"coordinates":[12.048771,45.275448],"type":"Point"}
 }

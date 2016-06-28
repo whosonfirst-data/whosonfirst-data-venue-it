@@ -2,13 +2,14 @@
   "id": 270528533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.186595,43.703506,11.186595,43.703506",
     "geom:latitude":43.703506,
     "geom:longitude":11.186595,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Via Rossa Guido 50023 Impruneta",
     "sg:city":"Impruneta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270528533,
-    "wof:lastmodified":1449009265,
+    "wof:lastmodified":1466295419,
     "wof:name":"M.r.f. Snc",
     "wof:parent_id":85900323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [11.186595,43.703506,11.186595,43.703506],
+  "bbox": [
+    11.186595,
+    43.703506,
+    11.186595,
+    43.703506
+],
   "geometry": {"coordinates":[11.186595,43.703506],"type":"Point"}
 }

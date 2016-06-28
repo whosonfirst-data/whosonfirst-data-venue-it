@@ -2,13 +2,14 @@
   "id": 186039649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.543214,45.835514,10.543214,45.835514",
     "geom:latitude":45.835514,
     "geom:longitude":10.543214,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via T C Marini 33, Darzo, 38080 Storo, Tn",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186039649,
-    "wof:lastmodified":1449052680,
+    "wof:lastmodified":1466294826,
     "wof:name":"Cassa Rurale Di Darzo E Lodrone-banca Di Credito Cooperativo Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.543214,45.835514,10.543214,45.835514],
+  "bbox": [
+    10.543214,
+    45.835514,
+    10.543214,
+    45.835514
+],
   "geometry": {"coordinates":[10.543214,45.835514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186603839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.380882,45.898407,13.380882,45.898407",
     "geom:latitude":45.898407,
     "geom:longitude":13.380882,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33050 San Vito Al Torre",
     "sg:city":"San Vito al Torre",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186603839,
-    "wof:lastmodified":1449052591,
+    "wof:lastmodified":1466293334,
     "wof:name":"Croma Di Colautti & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.380882,45.898407,13.380882,45.898407],
+  "bbox": [
+    13.380882,
+    45.898407,
+    13.380882,
+    45.898407
+],
   "geometry": {"coordinates":[13.380882,45.898407],"type":"Point"}
 }

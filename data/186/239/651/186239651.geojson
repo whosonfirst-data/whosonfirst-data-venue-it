@@ -2,13 +2,14 @@
   "id": 186239651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.675542,44.920971,11.675542,44.920971",
     "geom:latitude":44.920971,
     "geom:longitude":11.675542,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nazionale 42/a 45030 Santa Maria Maddalena",
     "sg:city":"Santa Maria Maddalena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186239651,
-    "wof:lastmodified":1449050498,
+    "wof:lastmodified":1466289996,
     "wof:name":"Hi.tec Sports Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "basic"
     ]
 },
-  "bbox": [11.675542,44.920971,11.675542,44.920971],
+  "bbox": [
+    11.675542,
+    44.920971,
+    11.675542,
+    44.920971
+],
   "geometry": {"coordinates":[11.675542,44.920971],"type":"Point"}
 }

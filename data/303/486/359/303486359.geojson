@@ -2,13 +2,14 @@
   "id": 303486359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.153264,45.533741,9.153264,45.533741",
     "geom:latitude":45.533741,
     "geom:longitude":9.153264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20026 Novate Milanese",
     "sg:city":"Novate Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303486359,
-    "wof:lastmodified":1448999483,
+    "wof:lastmodified":1466296530,
     "wof:name":"Foltran Trasporti Di Foltran Gabriele",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.153264,45.533741,9.153264,45.533741],
+  "bbox": [
+    9.153264,
+    45.533741,
+    9.153264,
+    45.533741
+],
   "geometry": {"coordinates":[9.153264,45.533741],"type":"Point"}
 }

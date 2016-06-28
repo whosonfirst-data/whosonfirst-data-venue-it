@@ -2,13 +2,14 @@
   "id": 169785233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.23688,45.491802,12.23688,45.491802",
     "geom:latitude":45.491802,
     "geom:longitude":12.23688,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30175 Mestre",
     "sg:city":"Mestre",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169785233,
-    "wof:lastmodified":1449035400,
+    "wof:lastmodified":1466295863,
     "wof:name":"Uffici Finanziari/commissione Tributaria Regionale Di Venezia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.23688,45.491802,12.23688,45.491802],
+  "bbox": [
+    12.23688,
+    45.491802,
+    12.23688,
+    45.491802
+],
   "geometry": {"coordinates":[12.23688,45.491802],"type":"Point"}
 }

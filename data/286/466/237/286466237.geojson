@@ -2,13 +2,14 @@
   "id": 286466237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.175731,45.484772,10.175731,45.484772",
     "geom:latitude":45.484772,
     "geom:longitude":10.175731,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Buozzi Bruno 25021 Bagnolo Mella",
     "sg:city":"Bagnolo Mella",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286466237,
-    "wof:lastmodified":1449016068,
+    "wof:lastmodified":1466292309,
     "wof:name":"Calzificio Facenti S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.175731,45.484772,10.175731,45.484772],
+  "bbox": [
+    10.175731,
+    45.484772,
+    10.175731,
+    45.484772
+],
   "geometry": {"coordinates":[10.175731,45.484772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253265577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.661132,45.060165,7.661132,45.060165",
     "geom:latitude":45.060165,
     "geom:longitude":7.661132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10129 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253265577,
-    "wof:lastmodified":1449063833,
+    "wof:lastmodified":1466291760,
     "wof:name":"Falone Percivale Dr. Maurizia",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.661132,45.060165,7.661132,45.060165],
+  "bbox": [
+    7.661132,
+    45.060165,
+    7.661132,
+    45.060165
+],
   "geometry": {"coordinates":[7.661132,45.060165],"type":"Point"}
 }

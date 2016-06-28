@@ -2,13 +2,14 @@
   "id": 269599381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.653648,44.875149,9.653648,44.875149",
     "geom:latitude":44.875149,
     "geom:longitude":9.653648,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29028 Ponte Dell'olio",
     "sg:classifiers":[],
     "sg:orig_category":"Legno E Semilavorati",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269599381,
-    "wof:lastmodified":1449037249,
+    "wof:lastmodified":1466290314,
     "wof:name":"Valnure Legno Di Cigalla Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.653648,44.875149,9.653648,44.875149],
+  "bbox": [
+    9.653648,
+    44.875149,
+    9.653648,
+    44.875149
+],
   "geometry": {"coordinates":[9.653648,44.875149],"type":"Point"}
 }

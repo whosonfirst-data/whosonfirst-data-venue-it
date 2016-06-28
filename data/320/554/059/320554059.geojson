@@ -2,13 +2,14 @@
   "id": 320554059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.600233,44.715435,10.600233,44.715435",
     "geom:latitude":44.715435,
     "geom:longitude":10.600233,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Manufacturers: Prefabbricati",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320554059,
-    "wof:lastmodified":1449012028,
+    "wof:lastmodified":1466297798,
     "wof:name":"Defcon Snc",
     "wof:parent_id":85904877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.600233,44.715435,10.600233,44.715435],
+  "bbox": [
+    10.600233,
+    44.715435,
+    10.600233,
+    44.715435
+],
   "geometry": {"coordinates":[10.600233,44.715435],"type":"Point"}
 }

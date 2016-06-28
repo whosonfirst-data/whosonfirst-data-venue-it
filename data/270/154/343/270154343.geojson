@@ -2,13 +2,14 @@
   "id": 270154343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.400427,45.69273,9.400427,45.69273",
     "geom:latitude":45.69273,
     "geom:longitude":9.400427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23887 Olgiate Molgora",
     "sg:city":"Canova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270154343,
-    "wof:lastmodified":1449011142,
+    "wof:lastmodified":1466290826,
     "wof:name":"Laboratorio Artistico Jean-baptiste Di Berrocco Giovanni Battista",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.400427,45.69273,9.400427,45.69273],
+  "bbox": [
+    9.400427,
+    45.69273,
+    9.400427,
+    45.69273
+],
   "geometry": {"coordinates":[9.400427,45.69273],"type":"Point"}
 }

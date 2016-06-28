@@ -2,13 +2,14 @@
   "id": 185818399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.613814,44.841156,11.613814,44.841156",
     "geom:latitude":44.841156,
     "geom:longitude":11.613814,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Cavour 138/a; Ferrara; 44100",
     "sg:city":"Ferrara",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185818399,
-    "wof:lastmodified":1449007411,
+    "wof:lastmodified":1466289405,
     "wof:name":"Banca Popolare Di Verona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.613814,44.841156,11.613814,44.841156],
+  "bbox": [
+    11.613814,
+    44.841156,
+    11.613814,
+    44.841156
+],
   "geometry": {"coordinates":[11.613814,44.841156],"type":"Point"}
 }

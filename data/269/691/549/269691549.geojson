@@ -2,13 +2,14 @@
   "id": 269691549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.208739,43.777138,11.208739,43.777138",
     "geom:latitude":43.777138,
     "geom:longitude":11.208739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50053 Empoli",
     "sg:city":"Empoli",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":269691549,
-    "wof:lastmodified":1449036343,
+    "wof:lastmodified":1466291536,
     "wof:name":"C.a.t.e. Snc Di Lepri G. & C.",
     "wof:parent_id":85904699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.208739,43.777138,11.208739,43.777138],
+  "bbox": [
+    11.208739,
+    43.777138,
+    11.208739,
+    43.777138
+],
   "geometry": {"coordinates":[11.208739,43.777138],"type":"Point"}
 }

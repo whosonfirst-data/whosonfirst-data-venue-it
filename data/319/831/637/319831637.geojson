@@ -2,13 +2,14 @@
   "id": 319831637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.043847,45.440136,9.043847,45.440136",
     "geom:latitude":45.440136,
     "geom:longitude":9.043847,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20038 Seregno",
     "sg:city":"Seregno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319831637,
-    "wof:lastmodified":1449024548,
+    "wof:lastmodified":1466292622,
     "wof:name":"Alabiso Gioachino",
     "wof:parent_id":85862759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.043847,45.440136,9.043847,45.440136],
+  "bbox": [
+    9.043847,
+    45.440136,
+    9.043847,
+    45.440136
+],
   "geometry": {"coordinates":[9.043847,45.440136],"type":"Point"}
 }

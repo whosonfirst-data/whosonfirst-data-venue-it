@@ -2,13 +2,14 @@
   "id": 253695313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.191599,45.44104,9.191599,45.44104",
     "geom:latitude":45.44104,
     "geom:longitude":9.191599,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20141 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253695313,
-    "wof:lastmodified":1449063957,
+    "wof:lastmodified":1466296795,
     "wof:name":"Molteni Giovanni Di Molteni Giovanna & C. (s.n.c.)",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.191599,45.44104,9.191599,45.44104],
+  "bbox": [
+    9.191599,
+    45.44104,
+    9.191599,
+    45.44104
+],
   "geometry": {"coordinates":[9.191599,45.44104],"type":"Point"}
 }

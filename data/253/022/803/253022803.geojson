@@ -2,13 +2,14 @@
   "id": 253022803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.35564,44.509838,11.35564,44.509838",
     "geom:latitude":44.509838,
     "geom:longitude":11.35564,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40128 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253022803,
-    "wof:lastmodified":1449063809,
+    "wof:lastmodified":1466289150,
     "wof:name":"Internauto Di Provenzano Tiziano",
     "wof:parent_id":85904571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.35564,44.509838,11.35564,44.509838],
+  "bbox": [
+    11.35564,
+    44.509838,
+    11.35564,
+    44.509838
+],
   "geometry": {"coordinates":[11.35564,44.509838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219866595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.36065,41.630596,13.36065,41.630596",
     "geom:latitude":41.630596,
     "geom:longitude":13.36065,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"03013 Ferentino",
     "sg:city":"Ferentino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219866595,
-    "wof:lastmodified":1449072071,
+    "wof:lastmodified":1466294907,
     "wof:name":"Agency Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.36065,41.630596,13.36065,41.630596],
+  "bbox": [
+    13.36065,
+    41.630596,
+    13.36065,
+    41.630596
+],
   "geometry": {"coordinates":[13.36065,41.630596],"type":"Point"}
 }

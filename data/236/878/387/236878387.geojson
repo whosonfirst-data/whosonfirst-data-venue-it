@@ -2,13 +2,14 @@
   "id": 236878387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.000504,43.665455,11.000504,43.665455",
     "geom:latitude":43.665455,
     "geom:longitude":11.000504,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Tevere 50025 Montespertoli",
     "sg:city":"Montespertoli",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236878387,
-    "wof:lastmodified":1449003367,
+    "wof:lastmodified":1466296974,
     "wof:name":"Cristallerie Fara (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.000504,43.665455,11.000504,43.665455],
+  "bbox": [
+    11.000504,
+    43.665455,
+    11.000504,
+    43.665455
+],
   "geometry": {"coordinates":[11.000504,43.665455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320072111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.317483,40.917435,14.317483,40.917435",
     "geom:latitude":40.917435,
     "geom:longitude":14.317483,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80131 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320072111,
-    "wof:lastmodified":1449013231,
+    "wof:lastmodified":1466294275,
     "wof:name":"Tecnitex S.a.s. Di Esposito Massimo E C.",
     "wof:parent_id":85904801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.317483,40.917435,14.317483,40.917435],
+  "bbox": [
+    14.317483,
+    40.917435,
+    14.317483,
+    40.917435
+],
   "geometry": {"coordinates":[14.317483,40.917435],"type":"Point"}
 }

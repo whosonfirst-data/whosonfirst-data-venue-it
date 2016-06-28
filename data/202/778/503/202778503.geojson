@@ -2,13 +2,14 @@
   "id": 202778503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.164163,45.449387,9.164163,45.449387",
     "geom:latitude":45.449387,
     "geom:longitude":9.164163,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202778503,
-    "wof:lastmodified":1449060155,
+    "wof:lastmodified":1466291943,
     "wof:name":"Fondazione Sant'ambrogio Per La Cultura Cristiana",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.164163,45.449387,9.164163,45.449387],
+  "bbox": [
+    9.164163,
+    45.449387,
+    9.164163,
+    45.449387
+],
   "geometry": {"coordinates":[9.164163,45.449387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219547021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.084616,45.58289,9.084616,45.58289",
     "geom:latitude":45.58289,
     "geom:longitude":9.084616,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Delle Brughiere 16b 20024 Garbagnate Milanese",
     "sg:city":"Garbagnate Milanese",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219547021,
-    "wof:lastmodified":1449070747,
+    "wof:lastmodified":1466291822,
     "wof:name":"Nuova In.ma Srl",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.084616,45.58289,9.084616,45.58289],
+  "bbox": [
+    9.084616,
+    45.58289,
+    9.084616,
+    45.58289
+],
   "geometry": {"coordinates":[9.084616,45.58289],"type":"Point"}
 }

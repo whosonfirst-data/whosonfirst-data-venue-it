@@ -2,13 +2,14 @@
   "id": 203202869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.879374,44.417557,8.879374,44.417557",
     "geom:latitude":44.417557,
     "geom:longitude":8.879374,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16152 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203202869,
-    "wof:lastmodified":1449026614,
+    "wof:lastmodified":1466289894,
     "wof:name":"Comune Di Genova - Amga -",
     "wof:parent_id":85796857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.879374,44.417557,8.879374,44.417557],
+  "bbox": [
+    8.879374,
+    44.417557,
+    8.879374,
+    44.417557
+],
   "geometry": {"coordinates":[8.879374,44.417557],"type":"Point"}
 }

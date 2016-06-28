@@ -2,13 +2,14 @@
   "id": 186504295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.907926,41.010185,14.907926,41.010185",
     "geom:latitude":41.010185,
     "geom:longitude":14.907926,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Degli Astronauti 83038 Montemiletto",
     "sg:city":"Montemiletto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186504295,
-    "wof:lastmodified":1449050887,
+    "wof:lastmodified":1466292321,
     "wof:name":"Olibit Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [14.907926,41.010185,14.907926,41.010185],
+  "bbox": [
+    14.907926,
+    41.010185,
+    14.907926,
+    41.010185
+],
   "geometry": {"coordinates":[14.907926,41.010185],"type":"Point"}
 }

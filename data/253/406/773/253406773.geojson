@@ -2,13 +2,14 @@
   "id": 253406773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.439371,46.511955,11.439371,46.511955",
     "geom:latitude":46.511955,
     "geom:longitude":11.439371,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"67, Via Principale 39054 Renon",
     "sg:city":"Renon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253406773,
-    "wof:lastmodified":1449064412,
+    "wof:lastmodified":1466293480,
     "wof:name":"Toni Lobis S.n.c. Dei F.lli Lobis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [11.439371,46.511955,11.439371,46.511955],
+  "bbox": [
+    11.439371,
+    46.511955,
+    11.439371,
+    46.511955
+],
   "geometry": {"coordinates":[11.439371,46.511955],"type":"Point"}
 }

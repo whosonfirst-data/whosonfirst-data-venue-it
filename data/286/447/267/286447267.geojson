@@ -2,13 +2,14 @@
   "id": 286447267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.315744,45.947807,12.315744,45.947807",
     "geom:latitude":45.947807,
     "geom:longitude":12.315744,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"32, Via Dell' Industria 31029 Vittorio Veneto",
     "sg:city":"Vittorio Veneto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286447267,
-    "wof:lastmodified":1449017258,
+    "wof:lastmodified":1466296268,
     "wof:name":"Aerre S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.315744,45.947807,12.315744,45.947807],
+  "bbox": [
+    12.315744,
+    45.947807,
+    12.315744,
+    45.947807
+],
   "geometry": {"coordinates":[12.315744,45.947807],"type":"Point"}
 }

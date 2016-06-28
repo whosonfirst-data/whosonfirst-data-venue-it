@@ -2,13 +2,14 @@
   "id": 287132213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.556961,45.078186,7.556961,45.078186",
     "geom:latitude":45.078186,
     "geom:longitude":7.556961,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10098 Rivoli",
     "sg:city":"Rivoli",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":287132213,
-    "wof:lastmodified":1449001085,
+    "wof:lastmodified":1466291365,
     "wof:name":"3 T - Trattamenti Termici Torino S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.556961,45.078186,7.556961,45.078186],
+  "bbox": [
+    7.556961,
+    45.078186,
+    7.556961,
+    45.078186
+],
   "geometry": {"coordinates":[7.556961,45.078186],"type":"Point"}
 }

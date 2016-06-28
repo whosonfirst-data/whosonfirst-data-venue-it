@@ -2,13 +2,14 @@
   "id": 286368313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.045334,45.523739,9.045334,45.523739",
     "geom:latitude":45.523739,
     "geom:longitude":9.045334,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286368313,
-    "wof:lastmodified":1449015833,
+    "wof:lastmodified":1466290954,
     "wof:name":"Minuzzo Roberto",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.045334,45.523739,9.045334,45.523739],
+  "bbox": [
+    9.045334,
+    45.523739,
+    9.045334,
+    45.523739
+],
   "geometry": {"coordinates":[9.045334,45.523739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253166309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.103292,37.570465,15.103292,37.570465",
     "geom:latitude":37.570465,
     "geom:longitude":15.103292,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"95027 S.gregorio Catania",
     "sg:classifiers":[],
     "sg:orig_category":"Acqua Potabile - Societa' Di Esercizio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253166309,
-    "wof:lastmodified":1449064479,
+    "wof:lastmodified":1466290653,
     "wof:name":"Santonocito Anna Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.103292,37.570465,15.103292,37.570465],
+  "bbox": [
+    15.103292,
+    37.570465,
+    15.103292,
+    37.570465
+],
   "geometry": {"coordinates":[15.103292,37.570465],"type":"Point"}
 }

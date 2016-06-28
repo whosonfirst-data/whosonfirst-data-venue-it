@@ -2,13 +2,14 @@
   "id": 236590045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.813662,42.867947,13.813662,42.867947",
     "geom:latitude":42.867947,
     "geom:longitude":13.813662,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Contrada Piane Tronto 64010 Controguerra",
     "sg:city":"Controguerra",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236590045,
-    "wof:lastmodified":1449003646,
+    "wof:lastmodified":1466294927,
     "wof:name":"Full Project Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.813662,42.867947,13.813662,42.867947],
+  "bbox": [
+    13.813662,
+    42.867947,
+    13.813662,
+    42.867947
+],
   "geometry": {"coordinates":[13.813662,42.867947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287045623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.770985,36.836376,14.770985,36.836376",
     "geom:latitude":36.836376,
     "geom:longitude":14.770985,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"97015 Modica",
     "sg:city":"Modica",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287045623,
-    "wof:lastmodified":1449001477,
+    "wof:lastmodified":1466290158,
     "wof:name":"Caff\u00c8 Moak Di G. Spadola & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.770985,36.836376,14.770985,36.836376],
+  "bbox": [
+    14.770985,
+    36.836376,
+    14.770985,
+    36.836376
+],
   "geometry": {"coordinates":[14.770985,36.836376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220161733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.459989,43.355423,13.459989,43.355423",
     "geom:latitude":43.355423,
     "geom:longitude":13.459989,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Via S. Piermanni 62010 Montecassiano",
     "sg:city":"Montecassiano",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220161733,
-    "wof:lastmodified":1449074354,
+    "wof:lastmodified":1466289190,
     "wof:name":"Microdesign Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "technology"
     ]
 },
-  "bbox": [13.459989,43.355423,13.459989,43.355423],
+  "bbox": [
+    13.459989,
+    43.355423,
+    13.459989,
+    43.355423
+],
   "geometry": {"coordinates":[13.459989,43.355423],"type":"Point"}
 }

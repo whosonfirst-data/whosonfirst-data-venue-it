@@ -2,13 +2,14 @@
   "id": 202950809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.664135,44.901745,7.664135,44.901745",
     "geom:latitude":44.901745,
     "geom:longitude":7.664135,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10041 Carignano",
     "sg:city":"Carignano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202950809,
-    "wof:lastmodified":1449061111,
+    "wof:lastmodified":1466293730,
     "wof:name":"Diemme Di Facelli Diego",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.664135,44.901745,7.664135,44.901745],
+  "bbox": [
+    7.664135,
+    44.901745,
+    7.664135,
+    44.901745
+],
   "geometry": {"coordinates":[7.664135,44.901745],"type":"Point"}
 }

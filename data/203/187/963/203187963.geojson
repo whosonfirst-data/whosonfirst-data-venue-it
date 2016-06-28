@@ -2,13 +2,14 @@
   "id": 203187963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.152128,45.520329,12.152128,45.520329",
     "geom:latitude":45.520329,
     "geom:longitude":12.152128,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30027 S. Don\u00e0 Di Piave",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Edilizia E Lavori Pubblici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203187963,
-    "wof:lastmodified":1449025219,
+    "wof:lastmodified":1466289745,
     "wof:name":"La Rinnova Di Zaratin Fioravante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.152128,45.520329,12.152128,45.520329],
+  "bbox": [
+    12.152128,
+    45.520329,
+    12.152128,
+    45.520329
+],
   "geometry": {"coordinates":[12.152128,45.520329],"type":"Point"}
 }

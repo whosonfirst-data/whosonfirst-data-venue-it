@@ -2,13 +2,14 @@
   "id": 219211279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.521742,41.914288,12.521742,41.914288",
     "geom:latitude":41.914288,
     "geom:longitude":12.521742,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00162 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219211279,
-    "wof:lastmodified":1449071267,
+    "wof:lastmodified":1466295439,
     "wof:name":"Love International Agency Di Buti Elena",
     "wof:parent_id":85900397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.521742,41.914288,12.521742,41.914288],
+  "bbox": [
+    12.521742,
+    41.914288,
+    12.521742,
+    41.914288
+],
   "geometry": {"coordinates":[12.521742,41.914288],"type":"Point"}
 }

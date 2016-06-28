@@ -2,13 +2,14 @@
   "id": 320654005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.098031,44.850441,9.098031,44.850441",
     "geom:latitude":44.850441,
     "geom:longitude":9.098031,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27050 Ponte Nizza",
     "sg:city":"Ponte Nizza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320654005,
-    "wof:lastmodified":1449012525,
+    "wof:lastmodified":1466297985,
     "wof:name":"Redeflex Di Alpegiani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.098031,44.850441,9.098031,44.850441],
+  "bbox": [
+    9.098031,
+    44.850441,
+    9.098031,
+    44.850441
+],
   "geometry": {"coordinates":[9.098031,44.850441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203060675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.713132,45.064167,7.713132,45.064167",
     "geom:latitude":45.064167,
     "geom:longitude":7.713132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 Druento",
     "sg:city":"Druento",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203060675,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466295448,
     "wof:name":"Scaia Luigi E C. (s.n.c.)",
     "wof:parent_id":85797019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.713132,45.064167,7.713132,45.064167],
+  "bbox": [
+    7.713132,
+    45.064167,
+    7.713132,
+    45.064167
+],
   "geometry": {"coordinates":[7.713132,45.064167],"type":"Point"}
 }

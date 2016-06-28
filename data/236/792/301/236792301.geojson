@@ -2,13 +2,14 @@
   "id": 236792301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.709725,45.208668,11.709725,45.208668",
     "geom:latitude":45.208668,
     "geom:longitude":11.709725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35042 Este",
     "sg:city":"Este",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236792301,
-    "wof:lastmodified":1449002208,
+    "wof:lastmodified":1466296545,
     "wof:name":"Mabel Di Bettio Maria Grazia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.709725,45.208668,11.709725,45.208668],
+  "bbox": [
+    11.709725,
+    45.208668,
+    11.709725,
+    45.208668
+],
   "geometry": {"coordinates":[11.709725,45.208668],"type":"Point"}
 }

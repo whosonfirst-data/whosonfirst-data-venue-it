@@ -2,13 +2,14 @@
   "id": 186246299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.872513,45.781319,11.872513,45.781319",
     "geom:latitude":45.781319,
     "geom:longitude":11.872513,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Castellana 42 31039 Riese Pio X",
     "sg:city":"Riese Pio X",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186246299,
-    "wof:lastmodified":1449050435,
+    "wof:lastmodified":1466290048,
     "wof:name":"Nefer Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "costume"
     ]
 },
-  "bbox": [11.872513,45.781319,11.872513,45.781319],
+  "bbox": [
+    11.872513,
+    45.781319,
+    11.872513,
+    45.781319
+],
   "geometry": {"coordinates":[11.872513,45.781319],"type":"Point"}
 }

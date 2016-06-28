@@ -2,13 +2,14 @@
   "id": 236078383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.867443,41.12817,16.867443,41.12817",
     "geom:latitude":41.12817,
     "geom:longitude":16.867443,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70010 Turi",
     "sg:city":"Turi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":236078383,
-    "wof:lastmodified":1449004630,
+    "wof:lastmodified":1466289680,
     "wof:name":"Il Grano D'oro Di Puglia Di Martire E Girolamo Snc",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.867443,41.12817,16.867443,41.12817],
+  "bbox": [
+    16.867443,
+    41.12817,
+    16.867443,
+    41.12817
+],
   "geometry": {"coordinates":[16.867443,41.12817],"type":"Point"}
 }

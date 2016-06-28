@@ -2,13 +2,14 @@
   "id": 286692697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.637918,40.760807,14.637918,40.760807",
     "geom:latitude":40.760807,
     "geom:longitude":14.637918,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Villanova 84014 Nocera Inferiore",
     "sg:city":"Nocera Inferiore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286692697,
-    "wof:lastmodified":1449015960,
+    "wof:lastmodified":1466295122,
     "wof:name":"Califano Costruzioni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [14.637918,40.760807,14.637918,40.760807],
+  "bbox": [
+    14.637918,
+    40.760807,
+    14.637918,
+    40.760807
+],
   "geometry": {"coordinates":[14.637918,40.760807],"type":"Point"}
 }

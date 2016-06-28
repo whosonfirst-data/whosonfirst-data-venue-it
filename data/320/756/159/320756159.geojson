@@ -2,13 +2,14 @@
   "id": 320756159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.968428,37.603794,12.968428,37.603794",
     "geom:latitude":37.603794,
     "geom:longitude":12.968428,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92013 Menfi",
     "sg:city":"Menfi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320756159,
-    "wof:lastmodified":1449013490,
+    "wof:lastmodified":1466298085,
     "wof:name":"Mangiaracina Giuseppe - Materiale Edile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.968428,37.603794,12.968428,37.603794],
+  "bbox": [
+    12.968428,
+    37.603794,
+    12.968428,
+    37.603794
+],
   "geometry": {"coordinates":[12.968428,37.603794],"type":"Point"}
 }

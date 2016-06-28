@@ -2,13 +2,14 @@
   "id": 219612779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.120355,39.234188,9.120355,39.234188",
     "geom:latitude":39.234188,
     "geom:longitude":9.120355,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09131 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219612779,
-    "wof:lastmodified":1449071950,
+    "wof:lastmodified":1466292421,
     "wof:name":"Ri.a.m. Snc",
     "wof:parent_id":85862623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.120355,39.234188,9.120355,39.234188],
+  "bbox": [
+    9.120355,
+    39.234188,
+    9.120355,
+    39.234188
+],
   "geometry": {"coordinates":[9.120355,39.234188],"type":"Point"}
 }

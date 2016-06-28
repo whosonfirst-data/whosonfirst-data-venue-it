@@ -2,13 +2,14 @@
   "id": 287128141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.334667,45.437897,12.334667,45.437897",
     "geom:latitude":45.437897,
     "geom:longitude":12.334667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30125 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287128141,
-    "wof:lastmodified":1449001010,
+    "wof:lastmodified":1466291302,
     "wof:name":"Azienda Trasporto Persone Venezia",
     "wof:parent_id":85905017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.334667,45.437897,12.334667,45.437897],
+  "bbox": [
+    12.334667,
+    45.437897,
+    12.334667,
+    45.437897
+],
   "geometry": {"coordinates":[12.334667,45.437897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202601489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.810778,45.767208,10.810778,45.767208",
     "geom:latitude":45.767208,
     "geom:longitude":10.810778,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37018 Malcesine",
     "sg:city":"Malcesine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202601489,
-    "wof:lastmodified":1449061259,
+    "wof:lastmodified":1466289989,
     "wof:name":"Lido Paina S.n.c. Di Colosetti Daniela E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.810778,45.767208,10.810778,45.767208],
+  "bbox": [
+    10.810778,
+    45.767208,
+    10.810778,
+    45.767208
+],
   "geometry": {"coordinates":[10.810778,45.767208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320730685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.437056,45.733761,12.437056,45.733761",
     "geom:latitude":45.733761,
     "geom:longitude":12.437056,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31047 Negrisia",
     "sg:city":"Negrisia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320730685,
-    "wof:lastmodified":1449014371,
+    "wof:lastmodified":1466298057,
     "wof:name":"Copribitum (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.437056,45.733761,12.437056,45.733761],
+  "bbox": [
+    12.437056,
+    45.733761,
+    12.437056,
+    45.733761
+],
   "geometry": {"coordinates":[12.437056,45.733761],"type":"Point"}
 }

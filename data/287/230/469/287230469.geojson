@@ -2,13 +2,14 @@
   "id": 287230469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.274437,45.413292,9.274437,45.413292",
     "geom:latitude":45.413292,
     "geom:longitude":9.274437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19/21, Via Europa 20085 Locate Di Triulzi",
     "sg:city":"Locate di Triulzi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287230469,
-    "wof:lastmodified":1449001336,
+    "wof:lastmodified":1466292673,
     "wof:name":"F.lli Pani Di Pani Rosauro & C. (s.n.c.)",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "electronic"
     ]
 },
-  "bbox": [9.274437,45.413292,9.274437,45.413292],
+  "bbox": [
+    9.274437,
+    45.413292,
+    9.274437,
+    45.413292
+],
   "geometry": {"coordinates":[9.274437,45.413292],"type":"Point"}
 }

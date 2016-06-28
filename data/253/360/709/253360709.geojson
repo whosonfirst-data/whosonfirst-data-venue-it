@@ -2,13 +2,14 @@
   "id": 253360709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.172893,40.940052,9.172893,40.940052",
     "geom:latitude":40.940052,
     "geom:longitude":9.172893,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Torquato Tasso 07025 Luras",
     "sg:city":"Luras",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253360709,
-    "wof:lastmodified":1449065080,
+    "wof:lastmodified":1466292969,
     "wof:name":"Sugherextra S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [9.172893,40.940052,9.172893,40.940052],
+  "bbox": [
+    9.172893,
+    40.940052,
+    9.172893,
+    40.940052
+],
   "geometry": {"coordinates":[9.172893,40.940052],"type":"Point"}
 }

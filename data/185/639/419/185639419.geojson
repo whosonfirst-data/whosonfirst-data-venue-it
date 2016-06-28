@@ -2,13 +2,14 @@
   "id": 185639419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.58382,39.02153,16.58382,39.02153",
     "geom:latitude":39.02153,
     "geom:longitude":16.58382,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mattia Preti 8/18, 88055 Taverna, Cz",
     "sg:city":"Taverna",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185639419,
-    "wof:lastmodified":1449008198,
+    "wof:lastmodified":1466294662,
     "wof:name":"Banca Di Credito Cooperativo Della Sila Piccola-taverna Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.58382,39.02153,16.58382,39.02153],
+  "bbox": [
+    16.58382,
+    39.02153,
+    16.58382,
+    39.02153
+],
   "geometry": {"coordinates":[16.58382,39.02153],"type":"Point"}
 }

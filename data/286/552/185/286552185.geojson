@@ -2,13 +2,14 @@
   "id": 286552185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.87783,44.769478,10.87783,44.769478",
     "geom:latitude":44.769478,
     "geom:longitude":10.87783,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Via Monte Bianco 41012 Carpi",
     "sg:city":"Carpi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286552185,
-    "wof:lastmodified":1449016407,
+    "wof:lastmodified":1466293337,
     "wof:name":"Maglificio Saffo (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [10.87783,44.769478,10.87783,44.769478],
+  "bbox": [
+    10.87783,
+    44.769478,
+    10.87783,
+    44.769478
+],
   "geometry": {"coordinates":[10.87783,44.769478],"type":"Point"}
 }

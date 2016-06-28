@@ -2,13 +2,14 @@
   "id": 286657955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.722203,45.763058,11.722203,45.763058",
     "geom:latitude":45.763058,
     "geom:longitude":11.722203,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36061 Bassano Del Grappa",
     "sg:city":"Bassano del Grappa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286657955,
-    "wof:lastmodified":1449015503,
+    "wof:lastmodified":1466294638,
     "wof:name":"Alfa Antincendio Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "prevention"
     ]
 },
-  "bbox": [11.722203,45.763058,11.722203,45.763058],
+  "bbox": [
+    11.722203,
+    45.763058,
+    11.722203,
+    45.763058
+],
   "geometry": {"coordinates":[11.722203,45.763058],"type":"Point"}
 }

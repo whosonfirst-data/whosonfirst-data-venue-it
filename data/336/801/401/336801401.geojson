@@ -2,13 +2,14 @@
   "id": 336801401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.300777,45.193344,11.300777,45.193344",
     "geom:latitude":45.193344,
     "geom:longitude":11.300777,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Mantova 37045 Legnago",
     "sg:city":"Legnago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336801401,
-    "wof:lastmodified":1448997846,
+    "wof:lastmodified":1466296133,
     "wof:name":"V.a.r.co. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.300777,45.193344,11.300777,45.193344],
+  "bbox": [
+    11.300777,
+    45.193344,
+    11.300777,
+    45.193344
+],
   "geometry": {"coordinates":[11.300777,45.193344],"type":"Point"}
 }

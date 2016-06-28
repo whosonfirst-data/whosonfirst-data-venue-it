@@ -2,13 +2,14 @@
   "id": 320454993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.496278,44.690018,10.496278,44.690018",
     "geom:latitude":44.690018,
     "geom:longitude":10.496278,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42020 Bibbiano",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Industria Alimentare E Bevande",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320454993,
-    "wof:lastmodified":1449014611,
+    "wof:lastmodified":1466297614,
     "wof:name":"C.ima Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.496278,44.690018,10.496278,44.690018],
+  "bbox": [
+    10.496278,
+    44.690018,
+    10.496278,
+    44.690018
+],
   "geometry": {"coordinates":[10.496278,44.690018],"type":"Point"}
 }

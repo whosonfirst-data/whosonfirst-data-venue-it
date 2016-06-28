@@ -2,13 +2,14 @@
   "id": 219807055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.395351,45.832069,9.395351,45.832069",
     "geom:latitude":45.832069,
     "geom:longitude":9.395351,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"134, V. Roma 23855 Pescate",
     "sg:city":"Pescate",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219807055,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466294351,
     "wof:name":"Sbs Di Parisi Import Export",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.395351,45.832069,9.395351,45.832069],
+  "bbox": [
+    9.395351,
+    45.832069,
+    9.395351,
+    45.832069
+],
   "geometry": {"coordinates":[9.395351,45.832069],"type":"Point"}
 }

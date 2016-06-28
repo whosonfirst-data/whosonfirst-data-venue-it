@@ -2,13 +2,14 @@
   "id": 186010221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.522824,41.954792,12.522824,41.954792",
     "geom:latitude":41.954792,
     "geom:longitude":12.522824,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Largo R. Angiolillo, 7; Roma",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186010221,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1466292059,
     "wof:name":"Cassa Di Risparmio Di Roma",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.522824,41.954792,12.522824,41.954792],
+  "bbox": [
+    12.522824,
+    41.954792,
+    12.522824,
+    41.954792
+],
   "geometry": {"coordinates":[12.522824,41.954792],"type":"Point"}
 }

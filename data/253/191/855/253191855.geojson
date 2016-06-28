@@ -2,13 +2,14 @@
   "id": 253191855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.44334,45.024353,11.44334,45.024353",
     "geom:latitude":45.024353,
     "geom:longitude":11.44334,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Raffaello Sanzio 366 45027 Trecenta",
     "sg:city":"Trecenta",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253191855,
-    "wof:lastmodified":1449064599,
+    "wof:lastmodified":1466290906,
     "wof:name":"Mobilferro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [11.44334,45.024353,11.44334,45.024353],
+  "bbox": [
+    11.44334,
+    45.024353,
+    11.44334,
+    45.024353
+],
   "geometry": {"coordinates":[11.44334,45.024353],"type":"Point"}
 }

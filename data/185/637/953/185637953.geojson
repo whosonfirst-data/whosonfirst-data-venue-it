@@ -2,13 +2,14 @@
   "id": 185637953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.909712,45.5014,11.909712,45.5014",
     "geom:latitude":45.5014,
     "geom:longitude":11.909712,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Caltana 5/7, 35011 Campodarsego, Pd",
     "sg:city":"Campodarsego",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185637953,
-    "wof:lastmodified":1449006597,
+    "wof:lastmodified":1466294623,
     "wof:name":"Banca Di Credito Cooperativo Dell'alta Padovana-campodarsego (padova)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.909712,45.5014,11.909712,45.5014],
+  "bbox": [
+    11.909712,
+    45.5014,
+    11.909712,
+    45.5014
+],
   "geometry": {"coordinates":[11.909712,45.5014],"type":"Point"}
 }

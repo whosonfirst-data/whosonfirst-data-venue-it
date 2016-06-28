@@ -2,13 +2,14 @@
   "id": 270349563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.345046,45.044655,7.345046,45.044655",
     "geom:latitude":45.044655,
     "geom:longitude":7.345046,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10094 Giaveno",
     "sg:city":"Giaveno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270349563,
-    "wof:lastmodified":1449009565,
+    "wof:lastmodified":1466293257,
     "wof:name":"L.p.a. Sas Di Versino & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.345046,45.044655,7.345046,45.044655],
+  "bbox": [
+    7.345046,
+    45.044655,
+    7.345046,
+    45.044655
+],
   "geometry": {"coordinates":[7.345046,45.044655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185627135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.33907,40.814079,14.33907,40.814079",
     "geom:latitude":40.814079,
     "geom:longitude":14.33907,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza S. Ciro 34/35; Portici; 80055",
     "sg:city":"Portici",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185627135,
-    "wof:lastmodified":1449008252,
+    "wof:lastmodified":1466294318,
     "wof:name":"Banca Della Provincia Di Napoli",
     "wof:parent_id":85900463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.33907,40.814079,14.33907,40.814079],
+  "bbox": [
+    14.33907,
+    40.814079,
+    14.33907,
+    40.814079
+],
   "geometry": {"coordinates":[14.33907,40.814079],"type":"Point"}
 }

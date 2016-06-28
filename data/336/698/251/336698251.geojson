@@ -2,13 +2,14 @@
   "id": 336698251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.181393,45.371964,9.181393,45.371964",
     "geom:latitude":45.371964,
     "geom:longitude":9.181393,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Rosselli Fratelli 20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336698251,
-    "wof:lastmodified":1448997945,
+    "wof:lastmodified":1466294906,
     "wof:name":"L.i.g.e.a. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.181393,45.371964,9.181393,45.371964],
+  "bbox": [
+    9.181393,
+    45.371964,
+    9.181393,
+    45.371964
+],
   "geometry": {"coordinates":[9.181393,45.371964],"type":"Point"}
 }

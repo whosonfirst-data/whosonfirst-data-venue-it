@@ -2,13 +2,14 @@
   "id": 253604841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.60938,44.073097,11.60938,44.073097",
     "geom:latitude":44.073097,
     "geom:longitude":11.60938,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dino Campana 12b 50034 Marradi",
     "sg:city":"Marradi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253604841,
-    "wof:lastmodified":1449065431,
+    "wof:lastmodified":1466296001,
     "wof:name":"La Scarpa S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.60938,44.073097,11.60938,44.073097],
+  "bbox": [
+    11.60938,
+    44.073097,
+    11.60938,
+    44.073097
+],
   "geometry": {"coordinates":[11.60938,44.073097],"type":"Point"}
 }

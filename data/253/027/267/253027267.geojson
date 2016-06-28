@@ -2,13 +2,14 @@
   "id": 253027267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.973619,38.360619,15.973619,38.360619",
     "geom:latitude":38.360619,
     "geom:longitude":15.973619,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"89029 Taurianova",
     "sg:city":"Taurianova",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253027267,
-    "wof:lastmodified":1449063366,
+    "wof:lastmodified":1466289197,
     "wof:name":"Pepe Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.973619,38.360619,15.973619,38.360619],
+  "bbox": [
+    15.973619,
+    38.360619,
+    15.973619,
+    38.360619
+],
   "geometry": {"coordinates":[15.973619,38.360619],"type":"Point"}
 }

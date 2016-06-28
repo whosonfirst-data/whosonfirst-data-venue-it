@@ -2,13 +2,14 @@
   "id": 186069403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.951108,45.333504,7.951108,45.333504",
     "geom:latitude":45.333504,
     "geom:longitude":7.951108,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Marconi 1, 10030 Vische, No",
     "sg:city":"Vische",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186069403,
-    "wof:lastmodified":1449052068,
+    "wof:lastmodified":1466295496,
     "wof:name":"Credito Cooperativo Cassa Rurale Artigiano Di Vische Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.951108,45.333504,7.951108,45.333504],
+  "bbox": [
+    7.951108,
+    45.333504,
+    7.951108,
+    45.333504
+],
   "geometry": {"coordinates":[7.951108,45.333504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303125469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.286186,38.078991,13.286186,38.078991",
     "geom:latitude":38.078991,
     "geom:longitude":13.286186,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90046 Monreale",
     "sg:city":"Monreale",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303125469,
-    "wof:lastmodified":1449000481,
+    "wof:lastmodified":1466291981,
     "wof:name":"Aric\u00d2 Sat Di Aric\u00d2 Giuseppe",
     "wof:parent_id":85904855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.286186,38.078991,13.286186,38.078991],
+  "bbox": [
+    13.286186,
+    38.078991,
+    13.286186,
+    38.078991
+],
   "geometry": {"coordinates":[13.286186,38.078991],"type":"Point"}
 }

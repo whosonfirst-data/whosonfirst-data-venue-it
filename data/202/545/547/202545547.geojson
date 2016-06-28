@@ -2,13 +2,14 @@
   "id": 202545547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.677778,44.320988,7.677778,44.320988",
     "geom:latitude":44.320988,
     "geom:longitude":7.677778,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12013 Chiusa Di Pesio",
     "sg:city":"Chiusa di Pesio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202545547,
-    "wof:lastmodified":1449060721,
+    "wof:lastmodified":1466289389,
     "wof:name":"Nuova Edil Valle Pesio Di Giorgetti Gino & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.677778,44.320988,7.677778,44.320988],
+  "bbox": [
+    7.677778,
+    44.320988,
+    7.677778,
+    44.320988
+],
   "geometry": {"coordinates":[7.677778,44.320988],"type":"Point"}
 }

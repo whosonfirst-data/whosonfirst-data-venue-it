@@ -2,13 +2,14 @@
   "id": 253196085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.989578,45.460304,11.989578,45.460304",
     "geom:latitude":45.460304,
     "geom:longitude":11.989578,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cavinello Ovest 35 30030 Pianiga",
     "sg:city":"Pianiga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253196085,
-    "wof:lastmodified":1449063476,
+    "wof:lastmodified":1466290948,
     "wof:name":"Italinea S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "seats"
     ]
 },
-  "bbox": [11.989578,45.460304,11.989578,45.460304],
+  "bbox": [
+    11.989578,
+    45.460304,
+    11.989578,
+    45.460304
+],
   "geometry": {"coordinates":[11.989578,45.460304],"type":"Point"}
 }

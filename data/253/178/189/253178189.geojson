@@ -2,13 +2,14 @@
   "id": 253178189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.608395,43.038868,10.608395,43.038868",
     "geom:latitude":43.038868,
     "geom:longitude":10.608395,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57021 Campiglia Marittima - Fraz. Venturina",
     "sg:city":"Campiglia Marittima",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253178189,
-    "wof:lastmodified":1449064957,
+    "wof:lastmodified":1466290769,
     "wof:name":"Cigri Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.608395,43.038868,10.608395,43.038868],
+  "bbox": [
+    10.608395,
+    43.038868,
+    10.608395,
+    43.038868
+],
   "geometry": {"coordinates":[10.608395,43.038868],"type":"Point"}
 }

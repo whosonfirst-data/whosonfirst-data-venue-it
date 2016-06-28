@@ -2,13 +2,14 @@
   "id": 253002513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.176689,45.458572,9.176689,45.458572",
     "geom:latitude":45.458572,
     "geom:longitude":9.176689,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Sapeto Giuseppe 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253002513,
-    "wof:lastmodified":1449065232,
+    "wof:lastmodified":1466288944,
     "wof:name":"Vai S.r.l.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [9.176689,45.458572,9.176689,45.458572],
+  "bbox": [
+    9.176689,
+    45.458572,
+    9.176689,
+    45.458572
+],
   "geometry": {"coordinates":[9.176689,45.458572],"type":"Point"}
 }

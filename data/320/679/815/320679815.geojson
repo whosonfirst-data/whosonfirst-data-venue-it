@@ -2,13 +2,14 @@
   "id": 320679815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.91813,44.766258,8.91813,44.766258",
     "geom:latitude":44.766258,
     "geom:longitude":8.91813,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15060 Sant'antonio",
     "sg:classifiers":[],
     "sg:orig_category":"Materiali E Componenti Elettrotecnici",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":320679815,
-    "wof:lastmodified":1449013666,
+    "wof:lastmodified":1466297978,
     "wof:name":"Co.ge.fa. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.91813,44.766258,8.91813,44.766258],
+  "bbox": [
+    8.91813,
+    44.766258,
+    8.91813,
+    44.766258
+],
   "geometry": {"coordinates":[8.91813,44.766258],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287174265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.407133,40.630928,14.407133,40.630928",
     "geom:latitude":40.630928,
     "geom:longitude":14.407133,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Italia 57; Piano Di Sorrento",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287174265,
-    "wof:lastmodified":1449000778,
+    "wof:lastmodified":1466291906,
     "wof:name":"Bricolage Travel Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.407133,40.630928,14.407133,40.630928],
+  "bbox": [
+    14.407133,
+    40.630928,
+    14.407133,
+    40.630928
+],
   "geometry": {"coordinates":[14.407133,40.630928],"type":"Point"}
 }

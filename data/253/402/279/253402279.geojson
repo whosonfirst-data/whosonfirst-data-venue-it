@@ -2,13 +2,14 @@
   "id": 253402279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.616274,45.757198,12.616274,45.757198",
     "geom:latitude":45.757198,
     "geom:longitude":12.616274,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Cadamure 31045 Motta Di Livenza",
     "sg:city":"Motta di Livenza",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253402279,
-    "wof:lastmodified":1449063769,
+    "wof:lastmodified":1466293430,
     "wof:name":"Schiavinato Rino & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.616274,45.757198,12.616274,45.757198],
+  "bbox": [
+    12.616274,
+    45.757198,
+    12.616274,
+    45.757198
+],
   "geometry": {"coordinates":[12.616274,45.757198],"type":"Point"}
 }

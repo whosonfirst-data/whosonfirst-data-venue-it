@@ -2,13 +2,14 @@
   "id": 236215623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.534369,38.157619,15.534369,38.157619",
     "geom:latitude":38.157619,
     "geom:longitude":15.534369,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98125 Contesse",
     "sg:city":"Contesse",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236215623,
-    "wof:lastmodified":1449004556,
+    "wof:lastmodified":1466291059,
     "wof:name":"Tyndaris By Motomare Sas Di Barbera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.534369,38.157619,15.534369,38.157619],
+  "bbox": [
+    15.534369,
+    38.157619,
+    15.534369,
+    38.157619
+],
   "geometry": {"coordinates":[15.534369,38.157619],"type":"Point"}
 }

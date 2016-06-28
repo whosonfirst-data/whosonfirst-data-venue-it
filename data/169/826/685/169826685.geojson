@@ -2,13 +2,14 @@
   "id": 169826685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.620524,44.83839,11.620524,44.83839",
     "geom:latitude":44.83839,
     "geom:longitude":11.620524,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Borgo Dei Leoni 44100 Ferrara",
     "sg:city":"Ferrara",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169826685,
-    "wof:lastmodified":1449035073,
+    "wof:lastmodified":1466289031,
     "wof:name":"Assicurazioni Navale Assicurazioni S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "insurance"
     ]
 },
-  "bbox": [11.620524,44.83839,11.620524,44.83839],
+  "bbox": [
+    11.620524,
+    44.83839,
+    11.620524,
+    44.83839
+],
   "geometry": {"coordinates":[11.620524,44.83839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169789629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.073245,45.427158,9.073245,45.427158",
     "geom:latitude":45.427158,
     "geom:longitude":9.073245,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20090 Trezzano Sul Naviglio",
     "sg:city":"Trezzano sul Naviglio",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169789629,
-    "wof:lastmodified":1449034160,
+    "wof:lastmodified":1466295938,
     "wof:name":"Omniatel Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.073245,45.427158,9.073245,45.427158],
+  "bbox": [
+    9.073245,
+    45.427158,
+    9.073245,
+    45.427158
+],
   "geometry": {"coordinates":[9.073245,45.427158],"type":"Point"}
 }

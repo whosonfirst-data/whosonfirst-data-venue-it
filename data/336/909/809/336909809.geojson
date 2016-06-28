@@ -2,13 +2,14 @@
   "id": 336909809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.272895,45.445187,9.272895,45.445187",
     "geom:latitude":45.445187,
     "geom:longitude":9.272895,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336909809,
-    "wof:lastmodified":1448997755,
+    "wof:lastmodified":1466296885,
     "wof:name":"Cartasegna Serena",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.272895,45.445187,9.272895,45.445187],
+  "bbox": [
+    9.272895,
+    45.445187,
+    9.272895,
+    45.445187
+],
   "geometry": {"coordinates":[9.272895,45.445187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269509443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.518757,43.615856,13.518757,43.615856",
     "geom:latitude":43.615856,
     "geom:longitude":13.518757,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Moro A. Passo Passo - Brugnetto 60010 Ripe",
     "sg:city":"Brugnetto",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269509443,
-    "wof:lastmodified":1449036226,
+    "wof:lastmodified":1466289248,
     "wof:name":"Bam S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [13.518757,43.615856,13.518757,43.615856],
+  "bbox": [
+    13.518757,
+    43.615856,
+    13.518757,
+    43.615856
+],
   "geometry": {"coordinates":[13.518757,43.615856],"type":"Point"}
 }

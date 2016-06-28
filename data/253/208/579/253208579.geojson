@@ -2,13 +2,14 @@
   "id": 253208579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.11105,41.837559,16.11105,41.837559",
     "geom:latitude":41.837559,
     "geom:longitude":16.11105,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71019 Vieste",
     "sg:city":"Vieste",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253208579,
-    "wof:lastmodified":1449063168,
+    "wof:lastmodified":1466291065,
     "wof:name":"Oleificio Fratelli Vieste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.11105,41.837559,16.11105,41.837559],
+  "bbox": [
+    16.11105,
+    41.837559,
+    16.11105,
+    41.837559
+],
   "geometry": {"coordinates":[16.11105,41.837559],"type":"Point"}
 }

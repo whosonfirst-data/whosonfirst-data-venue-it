@@ -2,13 +2,14 @@
   "id": 269802281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.366934,38.141659,13.366934,38.141659",
     "geom:latitude":38.141659,
     "geom:longitude":13.366934,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90142 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269802281,
-    "wof:lastmodified":1449038395,
+    "wof:lastmodified":1466293053,
     "wof:name":"Ente Tabacchi Italiani E.t.i.",
     "wof:parent_id":85900295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.366934,38.141659,13.366934,38.141659],
+  "bbox": [
+    13.366934,
+    38.141659,
+    13.366934,
+    38.141659
+],
   "geometry": {"coordinates":[13.366934,38.141659],"type":"Point"}
 }

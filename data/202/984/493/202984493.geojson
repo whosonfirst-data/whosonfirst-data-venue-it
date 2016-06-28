@@ -2,13 +2,14 @@
   "id": 202984493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.520851,45.459209,9.520851,45.459209",
     "geom:latitude":45.459209,
     "geom:longitude":9.520851,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26027 Rivolta D'adda",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Agricoltura E Zootecnia",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202984493,
-    "wof:lastmodified":1449061538,
+    "wof:lastmodified":1466294028,
     "wof:name":"Locatelli Claudio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.520851,45.459209,9.520851,45.459209],
+  "bbox": [
+    9.520851,
+    45.459209,
+    9.520851,
+    45.459209
+],
   "geometry": {"coordinates":[9.520851,45.459209],"type":"Point"}
 }

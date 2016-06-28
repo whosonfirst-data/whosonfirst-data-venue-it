@@ -2,13 +2,14 @@
   "id": 235930871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.659604,45.047729,9.659604,45.047729",
     "geom:latitude":45.047729,
     "geom:longitude":9.659604,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":235930871,
-    "wof:lastmodified":1449008367,
+    "wof:lastmodified":1466294216,
     "wof:name":"Esthetic Service Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.659604,45.047729,9.659604,45.047729],
+  "bbox": [
+    9.659604,
+    45.047729,
+    9.659604,
+    45.047729
+],
   "geometry": {"coordinates":[9.659604,45.047729],"type":"Point"}
 }

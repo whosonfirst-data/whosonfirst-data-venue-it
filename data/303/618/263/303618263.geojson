@@ -2,13 +2,14 @@
   "id": 303618263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.638518,44.67334,10.638518,44.67334",
     "geom:latitude":44.67334,
     "geom:longitude":10.638518,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamenti - Vendita Al Dettaglio",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303618263,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1466297175,
     "wof:name":"Archer - Messori Snc Di Vezzani Germano & C.",
     "wof:parent_id":85904911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.638518,44.67334,10.638518,44.67334],
+  "bbox": [
+    10.638518,
+    44.67334,
+    10.638518,
+    44.67334
+],
   "geometry": {"coordinates":[10.638518,44.67334],"type":"Point"}
 }

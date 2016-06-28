@@ -2,13 +2,14 @@
   "id": 203295209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.01215,44.447464,9.01215,44.447464",
     "geom:latitude":44.447464,
     "geom:longitude":9.01215,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16165 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203295209,
-    "wof:lastmodified":1449025689,
+    "wof:lastmodified":1466290850,
     "wof:name":"Esalibri Srl",
     "wof:parent_id":85862669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.01215,44.447464,9.01215,44.447464],
+  "bbox": [
+    9.01215,
+    44.447464,
+    9.01215,
+    44.447464
+],
   "geometry": {"coordinates":[9.01215,44.447464],"type":"Point"}
 }

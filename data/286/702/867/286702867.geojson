@@ -2,13 +2,14 @@
   "id": 286702867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.868199,45.636322,9.868199,45.636322",
     "geom:latitude":45.636322,
     "geom:longitude":9.868199,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Europa 24064 Grumello Del Monte",
     "sg:city":"Grumello del Monte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286702867,
-    "wof:lastmodified":1449016654,
+    "wof:lastmodified":1466295244,
     "wof:name":"Impresa Generale Di Costruzioni Locatelli Geom. Gabriele (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [9.868199,45.636322,9.868199,45.636322],
+  "bbox": [
+    9.868199,
+    45.636322,
+    9.868199,
+    45.636322
+],
   "geometry": {"coordinates":[9.868199,45.636322],"type":"Point"}
 }

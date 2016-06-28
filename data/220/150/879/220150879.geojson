@@ -2,13 +2,14 @@
   "id": 220150879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.646844,45.070194,7.646844,45.070194",
     "geom:latitude":45.070194,
     "geom:longitude":7.646844,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Corso Racconigi 10138 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220150879,
-    "wof:lastmodified":1449074071,
+    "wof:lastmodified":1466289059,
     "wof:name":"Duegi Srl",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "technology"
     ]
 },
-  "bbox": [7.646844,45.070194,7.646844,45.070194],
+  "bbox": [
+    7.646844,
+    45.070194,
+    7.646844,
+    45.070194
+],
   "geometry": {"coordinates":[7.646844,45.070194],"type":"Point"}
 }

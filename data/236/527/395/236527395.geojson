@@ -2,13 +2,14 @@
   "id": 236527395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.456262,43.300747,13.456262,43.300747",
     "geom:latitude":43.300747,
     "geom:longitude":13.456262,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctr. S. Domenico 20-z.i. B 62012 Civitanova Marche Alta",
     "sg:city":"Civitanova Marche",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236527395,
-    "wof:lastmodified":1449004430,
+    "wof:lastmodified":1466294340,
     "wof:name":"Calzaturificio King Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "house"
     ]
 },
-  "bbox": [13.456262,43.300747,13.456262,43.300747],
+  "bbox": [
+    13.456262,
+    43.300747,
+    13.456262,
+    43.300747
+],
   "geometry": {"coordinates":[13.456262,43.300747],"type":"Point"}
 }

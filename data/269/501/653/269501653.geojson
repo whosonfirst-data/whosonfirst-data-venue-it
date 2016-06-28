@@ -2,13 +2,14 @@
   "id": 269501653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.744399,43.878563,10.744399,43.878563",
     "geom:latitude":43.878563,
     "geom:longitude":10.744399,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Giovannini 51011 Buggiano",
     "sg:city":"Buggiano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269501653,
-    "wof:lastmodified":1449038990,
+    "wof:lastmodified":1466289152,
     "wof:name":"Tacchificio Ghi.po (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.744399,43.878563,10.744399,43.878563],
+  "bbox": [
+    10.744399,
+    43.878563,
+    10.744399,
+    43.878563
+],
   "geometry": {"coordinates":[10.744399,43.878563],"type":"Point"}
 }

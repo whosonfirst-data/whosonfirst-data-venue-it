@@ -2,13 +2,14 @@
   "id": 336682063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.056602,41.413757,13.056602,41.413757",
     "geom:latitude":41.413757,
     "geom:longitude":13.056602,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"48, Viale Europa 04014 Pontinia",
     "sg:city":"Pontinia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336682063,
-    "wof:lastmodified":1448997127,
+    "wof:lastmodified":1466294708,
     "wof:name":"Goffredo International Company Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [13.056602,41.413757,13.056602,41.413757],
+  "bbox": [
+    13.056602,
+    41.413757,
+    13.056602,
+    41.413757
+],
   "geometry": {"coordinates":[13.056602,41.413757],"type":"Point"}
 }

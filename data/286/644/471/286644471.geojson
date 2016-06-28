@@ -2,13 +2,14 @@
   "id": 286644471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.090337,43.890171,11.090337,43.890171",
     "geom:latitude":43.890171,
     "geom:longitude":11.090337,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Parrini 27 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286644471,
-    "wof:lastmodified":1449016869,
+    "wof:lastmodified":1466294477,
     "wof:name":"Lanificio Coba Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [11.090337,43.890171,11.090337,43.890171],
+  "bbox": [
+    11.090337,
+    43.890171,
+    11.090337,
+    43.890171
+],
   "geometry": {"coordinates":[11.090337,43.890171],"type":"Point"}
 }

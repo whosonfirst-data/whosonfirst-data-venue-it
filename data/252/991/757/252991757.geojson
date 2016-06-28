@@ -2,13 +2,14 @@
   "id": 252991757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.2048,43.772537,11.2048,43.772537",
     "geom:latitude":43.772537,
     "geom:longitude":11.2048,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15/2, Via Empoli 50142 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252991757,
-    "wof:lastmodified":1449005748,
+    "wof:lastmodified":1466291980,
     "wof:name":"Minozzi (s.r.l.)",
     "wof:parent_id":85904699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.2048,43.772537,11.2048,43.772537],
+  "bbox": [
+    11.2048,
+    43.772537,
+    11.2048,
+    43.772537
+],
   "geometry": {"coordinates":[11.2048,43.772537],"type":"Point"}
 }

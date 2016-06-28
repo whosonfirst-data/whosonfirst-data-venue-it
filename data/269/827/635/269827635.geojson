@@ -2,13 +2,14 @@
   "id": 269827635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.808274,45.581886,7.808274,45.581886",
     "geom:latitude":45.581886,
     "geom:longitude":7.808274,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Via Nazionale 10010 Carema",
     "sg:city":"Carema",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269827635,
-    "wof:lastmodified":1449036994,
+    "wof:lastmodified":1466293347,
     "wof:name":"Agraria Caremese Di Gaudina E Vairos (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [7.808274,45.581886,7.808274,45.581886],
+  "bbox": [
+    7.808274,
+    45.581886,
+    7.808274,
+    45.581886
+],
   "geometry": {"coordinates":[7.808274,45.581886],"type":"Point"}
 }

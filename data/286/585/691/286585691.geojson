@@ -2,13 +2,14 @@
   "id": 286585691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.095117,45.009666,12.095117,45.009666",
     "geom:latitude":45.009666,
     "geom:longitude":12.095117,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Lazzara 45015 Corbola",
     "sg:city":"Corbola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286585691,
-    "wof:lastmodified":1449017149,
+    "wof:lastmodified":1466293747,
     "wof:name":"Sartigiani S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.095117,45.009666,12.095117,45.009666],
+  "bbox": [
+    12.095117,
+    45.009666,
+    12.095117,
+    45.009666
+],
   "geometry": {"coordinates":[12.095117,45.009666],"type":"Point"}
 }

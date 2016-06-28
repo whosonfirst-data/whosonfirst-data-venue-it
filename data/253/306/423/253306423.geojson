@@ -2,13 +2,14 @@
   "id": 253306423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.019321,43.841843,13.019321,43.841843",
     "geom:latitude":43.841843,
     "geom:longitude":13.019321,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61032 Fano",
     "sg:city":"Fano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253306423,
-    "wof:lastmodified":1449065661,
+    "wof:lastmodified":1466292288,
     "wof:name":"Scortichini Lucia Studio Podologico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.019321,43.841843,13.019321,43.841843],
+  "bbox": [
+    13.019321,
+    43.841843,
+    13.019321,
+    43.841843
+],
   "geometry": {"coordinates":[13.019321,43.841843],"type":"Point"}
 }

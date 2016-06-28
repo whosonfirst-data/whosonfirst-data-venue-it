@@ -2,13 +2,14 @@
   "id": 202565455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.20107,40.845581,14.20107,40.845581",
     "geom:latitude":40.845581,
     "geom:longitude":14.20107,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80126 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202565455,
-    "wof:lastmodified":1449062428,
+    "wof:lastmodified":1466289591,
     "wof:name":"Monaco Giuseppe",
     "wof:parent_id":85904787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.20107,40.845581,14.20107,40.845581],
+  "bbox": [
+    14.20107,
+    40.845581,
+    14.20107,
+    40.845581
+],
   "geometry": {"coordinates":[14.20107,40.845581],"type":"Point"}
 }

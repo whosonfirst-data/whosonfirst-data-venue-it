@@ -2,13 +2,14 @@
   "id": 219355847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.629608,41.445892,12.629608,41.445892",
     "geom:latitude":41.445892,
     "geom:longitude":12.629608,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00042 Anzio",
     "sg:city":"Anzio",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219355847,
-    "wof:lastmodified":1449071389,
+    "wof:lastmodified":1466289870,
     "wof:name":"Sotto E Sopra Di Paris Sabrina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "il"
     ]
 },
-  "bbox": [12.629608,41.445892,12.629608,41.445892],
+  "bbox": [
+    12.629608,
+    41.445892,
+    12.629608,
+    41.445892
+],
   "geometry": {"coordinates":[12.629608,41.445892],"type":"Point"}
 }

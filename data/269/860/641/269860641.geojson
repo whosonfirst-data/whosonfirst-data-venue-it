@@ -2,13 +2,14 @@
   "id": 269860641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.474631,44.397259,7.474631,44.397259",
     "geom:latitude":44.397259,
     "geom:longitude":7.474631,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Via Divisione Cuneense 12023 Caraglio",
     "sg:city":"Caraglio",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269860641,
-    "wof:lastmodified":1449037210,
+    "wof:lastmodified":1466293710,
     "wof:name":"Europoll Di Costamagna Michele & C. S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [7.474631,44.397259,7.474631,44.397259],
+  "bbox": [
+    7.474631,
+    44.397259,
+    7.474631,
+    44.397259
+],
   "geometry": {"coordinates":[7.474631,44.397259],"type":"Point"}
 }

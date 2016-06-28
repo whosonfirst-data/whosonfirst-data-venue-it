@@ -2,13 +2,14 @@
   "id": 270042999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.151535,45.179123,9.151535,45.179123",
     "geom:latitude":45.179123,
     "geom:longitude":9.151535,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"27051 Cava Manara",
     "sg:city":"Cava Manara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270042999,
-    "wof:lastmodified":1449010484,
+    "wof:lastmodified":1466289500,
     "wof:name":"Vicini Pier Giuliano - Termoidraulica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "caldaie"
     ]
 },
-  "bbox": [9.151535,45.179123,9.151535,45.179123],
+  "bbox": [
+    9.151535,
+    45.179123,
+    9.151535,
+    45.179123
+],
   "geometry": {"coordinates":[9.151535,45.179123],"type":"Point"}
 }

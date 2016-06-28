@@ -2,13 +2,14 @@
   "id": 219705649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.88235,44.585232,10.88235,44.585232",
     "geom:latitude":44.585232,
     "geom:longitude":10.88235,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41043 Formigine",
     "sg:city":"Formigine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219705649,
-    "wof:lastmodified":1449073942,
+    "wof:lastmodified":1466293348,
     "wof:name":"Iotti-scarponi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.88235,44.585232,10.88235,44.585232],
+  "bbox": [
+    10.88235,
+    44.585232,
+    10.88235,
+    44.585232
+],
   "geometry": {"coordinates":[10.88235,44.585232],"type":"Point"}
 }

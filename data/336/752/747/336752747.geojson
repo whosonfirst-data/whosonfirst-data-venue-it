@@ -2,13 +2,14 @@
   "id": 336752747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.858088,45.643711,9.858088,45.643711",
     "geom:latitude":45.643711,
     "geom:longitude":9.858088,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Del Molino 24060 Chiuduno",
     "sg:city":"Chiuduno",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336752747,
-    "wof:lastmodified":1448997122,
+    "wof:lastmodified":1466295546,
     "wof:name":"Plastics For Buttons (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.858088,45.643711,9.858088,45.643711],
+  "bbox": [
+    9.858088,
+    45.643711,
+    9.858088,
+    45.643711
+],
   "geometry": {"coordinates":[9.858088,45.643711],"type":"Point"}
 }

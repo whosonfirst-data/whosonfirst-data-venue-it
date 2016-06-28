@@ -2,13 +2,14 @@
   "id": 286524059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.881401,45.495926,9.881401,45.495926",
     "geom:latitude":45.495926,
     "geom:longitude":9.881401,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"491, Via Lavoro E Industria 25030 Rudiano",
     "sg:city":"Rudiano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286524059,
-    "wof:lastmodified":1449015135,
+    "wof:lastmodified":1466292994,
     "wof:name":"Gum Studio's (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [9.881401,45.495926,9.881401,45.495926],
+  "bbox": [
+    9.881401,
+    45.495926,
+    9.881401,
+    45.495926
+],
   "geometry": {"coordinates":[9.881401,45.495926],"type":"Point"}
 }

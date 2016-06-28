@@ -2,13 +2,14 @@
   "id": 303721989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.163244,45.464489,9.163244,45.464489",
     "geom:latitude":45.464489,
     "geom:longitude":9.163244,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303721989,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1466297732,
     "wof:name":"Cerri Apparecchi Per Estetica",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.163244,45.464489,9.163244,45.464489],
+  "bbox": [
+    9.163244,
+    45.464489,
+    9.163244,
+    45.464489
+],
   "geometry": {"coordinates":[9.163244,45.464489],"type":"Point"}
 }

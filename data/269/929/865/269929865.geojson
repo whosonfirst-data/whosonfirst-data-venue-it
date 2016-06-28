@@ -2,13 +2,14 @@
   "id": 269929865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.411205,43.429482,11.411205,43.429482",
     "geom:latitude":43.429482,
     "geom:longitude":11.411205,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53013 Gaiole In Chianti",
     "sg:city":"Gaiole in Chianti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269929865,
-    "wof:lastmodified":1449037067,
+    "wof:lastmodified":1466294492,
     "wof:name":"Castello Di Meleto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.411205,43.429482,11.411205,43.429482],
+  "bbox": [
+    11.411205,
+    43.429482,
+    11.411205,
+    43.429482
+],
   "geometry": {"coordinates":[11.411205,43.429482],"type":"Point"}
 }

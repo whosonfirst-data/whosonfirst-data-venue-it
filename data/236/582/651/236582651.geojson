@@ -2,13 +2,14 @@
   "id": 236582651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.313153,43.300785,13.313153,43.300785",
     "geom:latitude":43.300785,
     "geom:longitude":13.313153,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Zona Artigianale 62010 Treia",
     "sg:city":"Treia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236582651,
-    "wof:lastmodified":1449003427,
+    "wof:lastmodified":1466294861,
     "wof:name":"Faer Ambienti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [13.313153,43.300785,13.313153,43.300785],
+  "bbox": [
+    13.313153,
+    43.300785,
+    13.313153,
+    43.300785
+],
   "geometry": {"coordinates":[13.313153,43.300785],"type":"Point"}
 }

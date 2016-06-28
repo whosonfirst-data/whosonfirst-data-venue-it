@@ -2,13 +2,14 @@
   "id": 219707149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.463024,41.914986,12.463024,41.914986",
     "geom:latitude":41.914986,
     "geom:longitude":12.463024,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00195 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219707149,
-    "wof:lastmodified":1449073356,
+    "wof:lastmodified":1466293364,
     "wof:name":"Nuova Fiorentina Srl",
     "wof:parent_id":85900395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.463024,41.914986,12.463024,41.914986],
+  "bbox": [
+    12.463024,
+    41.914986,
+    12.463024,
+    41.914986
+],
   "geometry": {"coordinates":[12.463024,41.914986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320238357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.279382,45.538982,9.279382,45.538982",
     "geom:latitude":45.538982,
     "geom:longitude":9.279382,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20010 Arluno",
     "sg:city":"Arluno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320238357,
-    "wof:lastmodified":1449012680,
+    "wof:lastmodified":1466296278,
     "wof:name":"Balzers Process Systems Italy",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.279382,45.538982,9.279382,45.538982],
+  "bbox": [
+    9.279382,
+    45.538982,
+    9.279382,
+    45.538982
+],
   "geometry": {"coordinates":[9.279382,45.538982],"type":"Point"}
 }

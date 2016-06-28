@@ -2,13 +2,14 @@
   "id": 252832253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.701651,41.115669,16.701651,41.115669",
     "geom:latitude":41.115669,
     "geom:longitude":16.701651,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70032 Bitonto",
     "sg:city":"Bitonto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252832253,
-    "wof:lastmodified":1449005407,
+    "wof:lastmodified":1466290313,
     "wof:name":"Park  House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.701651,41.115669,16.701651,41.115669],
+  "bbox": [
+    16.701651,
+    41.115669,
+    16.701651,
+    41.115669
+],
   "geometry": {"coordinates":[16.701651,41.115669],"type":"Point"}
 }

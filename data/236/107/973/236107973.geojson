@@ -2,13 +2,14 @@
   "id": 236107973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.781174,41.130447,14.781174,41.130447",
     "geom:latitude":41.130447,
     "geom:longitude":14.781174,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cese Zona Industriale 82030 Puglianello",
     "sg:city":"Puglianello",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236107973,
-    "wof:lastmodified":1449001685,
+    "wof:lastmodified":1466289979,
     "wof:name":"L'infinito Di P. E L. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doll"
     ]
 },
-  "bbox": [14.781174,41.130447,14.781174,41.130447],
+  "bbox": [
+    14.781174,
+    41.130447,
+    14.781174,
+    41.130447
+],
   "geometry": {"coordinates":[14.781174,41.130447],"type":"Point"}
 }

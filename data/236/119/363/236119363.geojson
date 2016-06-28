@@ -2,13 +2,14 @@
   "id": 236119363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.882245,45.861568,8.882245,45.861568",
     "geom:latitude":45.861568,
     "geom:longitude":8.882245,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Della Vittoria 6 21051 Arcisate",
     "sg:city":"Arcisate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236119363,
-    "wof:lastmodified":1449004115,
+    "wof:lastmodified":1466290087,
     "wof:name":"Abbiati Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gates"
     ]
 },
-  "bbox": [8.882245,45.861568,8.882245,45.861568],
+  "bbox": [
+    8.882245,
+    45.861568,
+    8.882245,
+    45.861568
+],
   "geometry": {"coordinates":[8.882245,45.861568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303507557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.258082,45.400753,9.258082,45.400753",
     "geom:latitude":45.400753,
     "geom:longitude":9.258082,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303507557,
-    "wof:lastmodified":1448999377,
+    "wof:lastmodified":1466296630,
     "wof:name":"Kluber Lubrification Italia S.a.s.",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.258082,45.400753,9.258082,45.400753],
+  "bbox": [
+    9.258082,
+    45.400753,
+    9.258082,
+    45.400753
+],
   "geometry": {"coordinates":[9.258082,45.400753],"type":"Point"}
 }

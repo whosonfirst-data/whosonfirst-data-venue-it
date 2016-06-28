@@ -2,13 +2,14 @@
   "id": 186309339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.599222,40.015629,8.599222,40.015629",
     "geom:latitude":40.015629,
     "geom:longitude":8.599222,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09070 San Vero Milis",
     "sg:city":"Milis",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186309339,
-    "wof:lastmodified":1449050991,
+    "wof:lastmodified":1466290583,
     "wof:name":"Cantina Josto Puddu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.599222,40.015629,8.599222,40.015629],
+  "bbox": [
+    8.599222,
+    40.015629,
+    8.599222,
+    40.015629
+],
   "geometry": {"coordinates":[8.599222,40.015629],"type":"Point"}
 }

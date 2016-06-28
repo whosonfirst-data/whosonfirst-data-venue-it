@@ -2,13 +2,14 @@
   "id": 320105173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.604731,43.060024,11.604731,43.060024",
     "geom:latitude":43.060024,
     "geom:longitude":11.604731,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"53027 San Quirico D'orcia",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine Ed Impianti Per Edilizia E Lavori Pubblici",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320105173,
-    "wof:lastmodified":1449012703,
+    "wof:lastmodified":1466294679,
     "wof:name":"Frantoio Simonelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.604731,43.060024,11.604731,43.060024],
+  "bbox": [
+    11.604731,
+    43.060024,
+    11.604731,
+    43.060024
+],
   "geometry": {"coordinates":[11.604731,43.060024],"type":"Point"}
 }

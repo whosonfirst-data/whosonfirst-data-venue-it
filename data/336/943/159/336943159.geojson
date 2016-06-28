@@ -2,13 +2,14 @@
   "id": 336943159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.361149,41.759014,12.361149,41.759014",
     "geom:latitude":41.759014,
     "geom:longitude":12.361149,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00124 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336943159,
-    "wof:lastmodified":1448997236,
+    "wof:lastmodified":1466297114,
     "wof:name":"Gentili Gabriella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.361149,41.759014,12.361149,41.759014],
+  "bbox": [
+    12.361149,
+    41.759014,
+    12.361149,
+    41.759014
+],
   "geometry": {"coordinates":[12.361149,41.759014],"type":"Point"}
 }

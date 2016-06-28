@@ -2,13 +2,14 @@
   "id": 236090161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.567922,41.917683,15.567922,41.917683",
     "geom:latitude":41.917683,
     "geom:longitude":15.567922,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"71015 Sannicandro Garganico",
     "sg:classifiers":[],
     "sg:orig_category":"Dolciumi E Gelati",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236090161,
-    "wof:lastmodified":1449004437,
+    "wof:lastmodified":1466289803,
     "wof:name":"Punto Tre Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.567922,41.917683,15.567922,41.917683],
+  "bbox": [
+    15.567922,
+    41.917683,
+    15.567922,
+    41.917683
+],
   "geometry": {"coordinates":[15.567922,41.917683],"type":"Point"}
 }

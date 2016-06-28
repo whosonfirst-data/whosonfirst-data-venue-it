@@ -2,13 +2,14 @@
   "id": 286368055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.91268,45.648376,12.91268,45.648376",
     "geom:latitude":45.648376,
     "geom:longitude":12.91268,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30021 Caorle",
     "sg:city":"Caorle",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286368055,
-    "wof:lastmodified":1449015833,
+    "wof:lastmodified":1466290952,
     "wof:name":"Hopfe Cristina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.91268,45.648376,12.91268,45.648376],
+  "bbox": [
+    12.91268,
+    45.648376,
+    12.91268,
+    45.648376
+],
   "geometry": {"coordinates":[12.91268,45.648376],"type":"Point"}
 }

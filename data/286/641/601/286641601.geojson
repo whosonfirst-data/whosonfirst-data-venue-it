@@ -2,13 +2,14 @@
   "id": 286641601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.761924,45.046104,7.761924,45.046104",
     "geom:latitude":45.046104,
     "geom:longitude":7.761924,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Torino 62 10023 Chieri",
     "sg:city":"Chieri",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286641601,
-    "wof:lastmodified":1449017419,
+    "wof:lastmodified":1466294441,
     "wof:name":"Angelo Vasino Spa",
     "wof:parent_id":85796977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [7.761924,45.046104,7.761924,45.046104],
+  "bbox": [
+    7.761924,
+    45.046104,
+    7.761924,
+    45.046104
+],
   "geometry": {"coordinates":[7.761924,45.046104],"type":"Point"}
 }

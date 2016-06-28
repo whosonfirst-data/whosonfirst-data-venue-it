@@ -2,13 +2,14 @@
   "id": 186365485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.750153,45.768963,11.750153,45.768963",
     "geom:latitude":45.768963,
     "geom:longitude":11.750153,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gaidon 3 36067 San Giuseppe Di Cassola",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186365485,
-    "wof:lastmodified":1449050844,
+    "wof:lastmodified":1466291051,
     "wof:name":"Giubilato Cicli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.750153,45.768963,11.750153,45.768963],
+  "bbox": [
+    11.750153,
+    45.768963,
+    11.750153,
+    45.768963
+],
   "geometry": {"coordinates":[11.750153,45.768963],"type":"Point"}
 }

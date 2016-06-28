@@ -2,13 +2,14 @@
   "id": 219806187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.250591,46.424286,11.250591,46.424286",
     "geom:latitude":46.424286,
     "geom:longitude":11.250591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Zona Artigianale 39052 Caldaro Sulla Strada Del Vino",
     "sg:city":"Caldaro sulla strada del vino",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219806187,
-    "wof:lastmodified":1449070367,
+    "wof:lastmodified":1466294341,
     "wof:name":"Reifen Rohregger S.a.s. Di Rohregger Othmar & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.250591,46.424286,11.250591,46.424286],
+  "bbox": [
+    11.250591,
+    46.424286,
+    11.250591,
+    46.424286
+],
   "geometry": {"coordinates":[11.250591,46.424286],"type":"Point"}
 }

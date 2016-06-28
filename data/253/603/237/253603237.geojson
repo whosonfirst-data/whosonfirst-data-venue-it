@@ -2,13 +2,14 @@
   "id": 253603237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.706038,43.292664,13.706038,43.292664",
     "geom:latitude":43.292664,
     "geom:longitude":13.706038,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V.le Sonnino 27 62012 Civitanova Marche",
     "sg:city":"Civitanova Marche",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253603237,
-    "wof:lastmodified":1449065310,
+    "wof:lastmodified":1466295982,
     "wof:name":"Eurosint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.706038,43.292664,13.706038,43.292664],
+  "bbox": [
+    13.706038,
+    43.292664,
+    13.706038,
+    43.292664
+],
   "geometry": {"coordinates":[13.706038,43.292664],"type":"Point"}
 }

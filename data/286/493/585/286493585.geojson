@@ -2,13 +2,14 @@
   "id": 286493585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.093863,44.977489,12.093863,44.977489",
     "geom:latitude":44.977489,
     "geom:longitude":12.093863,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Camisotti 45012 Ariano Nel Polesine",
     "sg:city":"Ariano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286493585,
-    "wof:lastmodified":1449016115,
+    "wof:lastmodified":1466292634,
     "wof:name":"Confezioni V.b.v.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.093863,44.977489,12.093863,44.977489],
+  "bbox": [
+    12.093863,
+    44.977489,
+    12.093863,
+    44.977489
+],
   "geometry": {"coordinates":[12.093863,44.977489],"type":"Point"}
 }

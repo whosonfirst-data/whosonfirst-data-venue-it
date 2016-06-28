@@ -2,13 +2,14 @@
   "id": 320627491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.769303,45.539875,10.769303,45.539875",
     "geom:latitude":45.539875,
     "geom:longitude":10.769303,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37010 Cavaion Veronese",
     "sg:city":"Cavaion Veronese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320627491,
-    "wof:lastmodified":1449015044,
+    "wof:lastmodified":1466297852,
     "wof:name":"Marmi Dolomiti Sas Di Gastaldelli Guerrino & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.769303,45.539875,10.769303,45.539875],
+  "bbox": [
+    10.769303,
+    45.539875,
+    10.769303,
+    45.539875
+],
   "geometry": {"coordinates":[10.769303,45.539875],"type":"Point"}
 }

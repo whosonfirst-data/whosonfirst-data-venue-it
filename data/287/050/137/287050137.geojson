@@ -2,13 +2,14 @@
   "id": 287050137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.290663,37.062881,15.290663,37.062881",
     "geom:latitude":37.062881,
     "geom:longitude":15.290663,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"96100 Siracusa",
     "sg:city":"Siracusa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287050137,
-    "wof:lastmodified":1449001161,
+    "wof:lastmodified":1466290215,
     "wof:name":"Maritime Services Giovanni Boccadifuoco Figli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourist"
     ]
 },
-  "bbox": [15.290663,37.062881,15.290663,37.062881],
+  "bbox": [
+    15.290663,
+    37.062881,
+    15.290663,
+    37.062881
+],
   "geometry": {"coordinates":[15.290663,37.062881],"type":"Point"}
 }

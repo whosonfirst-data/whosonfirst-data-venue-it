@@ -2,13 +2,14 @@
   "id": 286697821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.507132,41.822521,12.507132,41.822521",
     "geom:latitude":41.822521,
     "geom:longitude":12.507132,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Squarcina Giovanni 00143 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286697821,
-    "wof:lastmodified":1449017050,
+    "wof:lastmodified":1466295181,
     "wof:name":"Edilvalli Srl",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [12.507132,41.822521,12.507132,41.822521],
+  "bbox": [
+    12.507132,
+    41.822521,
+    12.507132,
+    41.822521
+],
   "geometry": {"coordinates":[12.507132,41.822521],"type":"Point"}
 }

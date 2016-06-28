@@ -2,13 +2,14 @@
   "id": 236435131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.555399,41.864197,12.555399,41.864197",
     "geom:latitude":41.864197,
     "geom:longitude":12.555399,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"107-109, V. Vestricio Spurinna 00175 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236435131,
-    "wof:lastmodified":1449004881,
+    "wof:lastmodified":1466293349,
     "wof:name":"Centro Ortopedico 2000 Srl",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instrument"
     ]
 },
-  "bbox": [12.555399,41.864197,12.555399,41.864197],
+  "bbox": [
+    12.555399,
+    41.864197,
+    12.555399,
+    41.864197
+],
   "geometry": {"coordinates":[12.555399,41.864197],"type":"Point"}
 }

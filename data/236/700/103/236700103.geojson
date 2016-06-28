@@ -2,13 +2,14 @@
   "id": 236700103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.534486,43.971581,10.534486,43.971581",
     "geom:latitude":43.971581,
     "geom:longitude":10.534486,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Brennero 55023 Borgo A Mozzano",
     "sg:city":"Borgo a Mozzano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236700103,
-    "wof:lastmodified":1449004902,
+    "wof:lastmodified":1466295985,
     "wof:name":"Centro Commerciale Del Bimbo (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [10.534486,43.971581,10.534486,43.971581],
+  "bbox": [
+    10.534486,
+    43.971581,
+    10.534486,
+    43.971581
+],
   "geometry": {"coordinates":[10.534486,43.971581],"type":"Point"}
 }

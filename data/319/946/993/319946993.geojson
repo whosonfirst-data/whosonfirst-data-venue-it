@@ -2,13 +2,14 @@
   "id": 319946993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.645145,41.740967,12.645145,41.740967",
     "geom:latitude":41.740967,
     "geom:longitude":12.645145,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00040 Roma",
     "sg:classifiers":[],
     "sg:orig_category":"Automobili E Mezzi Di Trasporto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":319946993,
-    "wof:lastmodified":1449024796,
+    "wof:lastmodified":1466294149,
     "wof:name":"Piaggio Aero Industries Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.645145,41.740967,12.645145,41.740967],
+  "bbox": [
+    12.645145,
+    41.740967,
+    12.645145,
+    41.740967
+],
   "geometry": {"coordinates":[12.645145,41.740967],"type":"Point"}
 }

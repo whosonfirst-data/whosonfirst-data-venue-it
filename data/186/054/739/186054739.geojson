@@ -2,13 +2,14 @@
   "id": 186054739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.672607,45.890232,10.672607,45.890232",
     "geom:latitude":45.890232,
     "geom:longitude":10.672607,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Vittorio Emanuele, 58; Tiarno; 38060",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186054739,
-    "wof:lastmodified":1449051649,
+    "wof:lastmodified":1466295149,
     "wof:name":"Cassa Rurale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.672607,45.890232,10.672607,45.890232],
+  "bbox": [
+    10.672607,
+    45.890232,
+    10.672607,
+    45.890232
+],
   "geometry": {"coordinates":[10.672607,45.890232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269921533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.080736,45.781387,9.080736,45.781387",
     "geom:latitude":45.781387,
     "geom:longitude":9.080736,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30, V. Del Lavoro 22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269921533,
-    "wof:lastmodified":1449037662,
+    "wof:lastmodified":1466294389,
     "wof:name":"Jet Line Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air"
     ]
 },
-  "bbox": [9.080736,45.781387,9.080736,45.781387],
+  "bbox": [
+    9.080736,
+    45.781387,
+    9.080736,
+    45.781387
+],
   "geometry": {"coordinates":[9.080736,45.781387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269533513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.573611,43.845215,10.573611,43.845215",
     "geom:latitude":43.845215,
     "geom:longitude":10.573611,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Pacini 55016 Porcari",
     "sg:city":"Porcari",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269533513,
-    "wof:lastmodified":1449036119,
+    "wof:lastmodified":1466289516,
     "wof:name":"Calzaturificio Roberto Del Carlo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [10.573611,43.845215,10.573611,43.845215],
+  "bbox": [
+    10.573611,
+    43.845215,
+    10.573611,
+    43.845215
+],
   "geometry": {"coordinates":[10.573611,43.845215],"type":"Point"}
 }

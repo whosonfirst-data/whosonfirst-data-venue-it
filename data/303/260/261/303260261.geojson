@@ -2,13 +2,14 @@
   "id": 303260261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.131681,46.063293,11.131681,46.063293",
     "geom:latitude":46.063293,
     "geom:longitude":11.131681,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Fiume 38100 Trento",
     "sg:city":"Trento",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303260261,
-    "wof:lastmodified":1448998524,
+    "wof:lastmodified":1466293735,
     "wof:name":"Albatros S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [11.131681,46.063293,11.131681,46.063293],
+  "bbox": [
+    11.131681,
+    46.063293,
+    11.131681,
+    46.063293
+],
   "geometry": {"coordinates":[11.131681,46.063293],"type":"Point"}
 }

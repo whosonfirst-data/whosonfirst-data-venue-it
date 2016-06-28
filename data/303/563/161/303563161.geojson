@@ -2,13 +2,14 @@
   "id": 303563161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.889849,44.784702,10.889849,44.784702",
     "geom:latitude":44.784702,
     "geom:longitude":10.889849,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41012 Carpi",
     "sg:city":"Carpi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303563161,
-    "wof:lastmodified":1448998155,
+    "wof:lastmodified":1466296991,
     "wof:name":"Studio Tecnico Unigruppo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.889849,44.784702,10.889849,44.784702],
+  "bbox": [
+    10.889849,
+    44.784702,
+    10.889849,
+    44.784702
+],
   "geometry": {"coordinates":[10.889849,44.784702],"type":"Point"}
 }

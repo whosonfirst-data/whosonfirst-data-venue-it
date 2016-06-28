@@ -2,13 +2,14 @@
   "id": 202935701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.262553,40.935524,14.262553,40.935524",
     "geom:latitude":40.935524,
     "geom:longitude":14.262553,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80026 Casoria",
     "sg:city":"Casoria",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202935701,
-    "wof:lastmodified":1449062217,
+    "wof:lastmodified":1466293572,
     "wof:name":"Tannerpel Di Porpora Carmine & C.s.a.s.",
     "wof:parent_id":85900299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.262553,40.935524,14.262553,40.935524],
+  "bbox": [
+    14.262553,
+    40.935524,
+    14.262553,
+    40.935524
+],
   "geometry": {"coordinates":[14.262553,40.935524],"type":"Point"}
 }

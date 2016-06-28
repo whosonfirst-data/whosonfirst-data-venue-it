@@ -2,13 +2,14 @@
   "id": 236945225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.214027,45.704182,7.214027,45.704182",
     "geom:latitude":45.704182,
     "geom:longitude":7.214027,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Localit\u00e0 Chavonne St. Roch 1 11018 Villeneuve",
     "sg:city":"Villeneuve",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236945225,
-    "wof:lastmodified":1449001884,
+    "wof:lastmodified":1466297323,
     "wof:name":"Guglielminotti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "syenite"
     ]
 },
-  "bbox": [7.214027,45.704182,7.214027,45.704182],
+  "bbox": [
+    7.214027,
+    45.704182,
+    7.214027,
+    45.704182
+],
   "geometry": {"coordinates":[7.214027,45.704182],"type":"Point"}
 }

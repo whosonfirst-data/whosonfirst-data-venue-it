@@ -2,13 +2,14 @@
   "id": 336921063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.484568,42.03101,12.484568,42.03101",
     "geom:latitude":42.03101,
     "geom:longitude":12.484568,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00188 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336921063,
-    "wof:lastmodified":1448997618,
+    "wof:lastmodified":1466297179,
     "wof:name":"Conteduca Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [12.484568,42.03101,12.484568,42.03101],
+  "bbox": [
+    12.484568,
+    42.03101,
+    12.484568,
+    42.03101
+],
   "geometry": {"coordinates":[12.484568,42.03101],"type":"Point"}
 }

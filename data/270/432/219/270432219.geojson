@@ -2,13 +2,14 @@
   "id": 270432219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.799113,44.906525,9.799113,44.906525",
     "geom:latitude":44.906525,
     "geom:longitude":9.799113,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29013 Carpaneto Piacentino",
     "sg:city":"Carpaneto Piacentino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270432219,
-    "wof:lastmodified":1449008625,
+    "wof:lastmodified":1466294275,
     "wof:name":"Badini Gaetano Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.799113,44.906525,9.799113,44.906525],
+  "bbox": [
+    9.799113,
+    44.906525,
+    9.799113,
+    44.906525
+],
   "geometry": {"coordinates":[9.799113,44.906525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252995821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.208508,43.770901,11.208508,43.770901",
     "geom:latitude":43.770901,
     "geom:longitude":11.208508,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Piazzetta Montalcino 50142 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252995821,
-    "wof:lastmodified":1449006394,
+    "wof:lastmodified":1466292019,
     "wof:name":"Piccioli",
     "wof:parent_id":85904699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [11.208508,43.770901,11.208508,43.770901],
+  "bbox": [
+    11.208508,
+    43.770901,
+    11.208508,
+    43.770901
+],
   "geometry": {"coordinates":[11.208508,43.770901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303552781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.467595,43.601463,10.467595,43.601463",
     "geom:latitude":43.601463,
     "geom:longitude":10.467595,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57014 Collesalvetti",
     "sg:city":"Collesalvetti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303552781,
-    "wof:lastmodified":1448999141,
+    "wof:lastmodified":1466296801,
     "wof:name":"Arcuri A E M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.467595,43.601463,10.467595,43.601463],
+  "bbox": [
+    10.467595,
+    43.601463,
+    10.467595,
+    43.601463
+],
   "geometry": {"coordinates":[10.467595,43.601463],"type":"Point"}
 }

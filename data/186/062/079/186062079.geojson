@@ -2,13 +2,14 @@
   "id": 186062079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.486429,41.904343,12.486429,41.904343",
     "geom:latitude":41.904343,
     "geom:longitude":12.486429,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Zucchelli 16, 00187 Rome, Rm",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186062079,
-    "wof:lastmodified":1449052837,
+    "wof:lastmodified":1466295311,
     "wof:name":"Credito Agricole & Industriale Spa",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.486429,41.904343,12.486429,41.904343],
+  "bbox": [
+    12.486429,
+    41.904343,
+    12.486429,
+    41.904343
+],
   "geometry": {"coordinates":[12.486429,41.904343],"type":"Point"}
 }

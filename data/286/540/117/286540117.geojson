@@ -2,13 +2,14 @@
   "id": 286540117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.008568,43.803841,11.008568,43.803841",
     "geom:latitude":43.803841,
     "geom:longitude":11.008568,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"119, Via Vergheretana 59015 Carmignano",
     "sg:city":"Carmignano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286540117,
-    "wof:lastmodified":1449016345,
+    "wof:lastmodified":1466293197,
     "wof:name":"Maglierie Castello Di Nunziati Daniele & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.008568,43.803841,11.008568,43.803841],
+  "bbox": [
+    11.008568,
+    43.803841,
+    11.008568,
+    43.803841
+],
   "geometry": {"coordinates":[11.008568,43.803841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253218579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.178156,43.812675,11.178156,43.812675",
     "geom:latitude":43.812675,
     "geom:longitude":11.178156,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Via Ticino 50019 Sesto Fiorentino",
     "sg:city":"Sesto Fiorentino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253218579,
-    "wof:lastmodified":1449064702,
+    "wof:lastmodified":1466291173,
     "wof:name":"Giliberto Foto Importex Srl",
     "wof:parent_id":85904647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [11.178156,43.812675,11.178156,43.812675],
+  "bbox": [
+    11.178156,
+    43.812675,
+    11.178156,
+    43.812675
+],
   "geometry": {"coordinates":[11.178156,43.812675],"type":"Point"}
 }

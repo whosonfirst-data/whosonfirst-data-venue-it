@@ -2,13 +2,14 @@
   "id": 286651677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.644055,45.598217,8.644055,45.598217",
     "geom:latitude":45.598217,
     "geom:longitude":8.644055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28047 Oleggio",
     "sg:city":"Oleggio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286651677,
-    "wof:lastmodified":1449015745,
+    "wof:lastmodified":1466294564,
     "wof:name":"Abbigliamento Aldo D'ambrosio E Figli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "knitwear"
     ]
 },
-  "bbox": [8.644055,45.598217,8.644055,45.598217],
+  "bbox": [
+    8.644055,
+    45.598217,
+    8.644055,
+    45.598217
+],
   "geometry": {"coordinates":[8.644055,45.598217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320194995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.541,45.526169,10.541,45.526169",
     "geom:latitude":45.526169,
     "geom:longitude":10.541,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25080 Moniga Del Garda",
     "sg:city":"Moniga del Garda",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320194995,
-    "wof:lastmodified":1449014437,
+    "wof:lastmodified":1466295751,
     "wof:name":"Graziani Rodolfo & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.541,45.526169,10.541,45.526169],
+  "bbox": [
+    10.541,
+    45.526169,
+    10.541,
+    45.526169
+],
   "geometry": {"coordinates":[10.541,45.526169],"type":"Point"}
 }

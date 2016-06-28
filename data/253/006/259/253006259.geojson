@@ -2,13 +2,14 @@
   "id": 253006259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.225497,44.998528,12.225497,44.998528",
     "geom:latitude":44.998528,
     "geom:longitude":12.225497,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Del Lavoro 40 45019 Taglio Di Po",
     "sg:city":"Taglio di Po",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253006259,
-    "wof:lastmodified":1449065187,
+    "wof:lastmodified":1466288978,
     "wof:name":"Grafiche Adriatica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "job"
     ]
 },
-  "bbox": [12.225497,44.998528,12.225497,44.998528],
+  "bbox": [
+    12.225497,
+    44.998528,
+    12.225497,
+    44.998528
+],
   "geometry": {"coordinates":[12.225497,44.998528],"type":"Point"}
 }

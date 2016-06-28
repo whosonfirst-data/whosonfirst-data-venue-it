@@ -2,13 +2,14 @@
   "id": 336966107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.177331,45.476929,9.177331,45.476929",
     "geom:latitude":45.476929,
     "geom:longitude":9.177331,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20154 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336966107,
-    "wof:lastmodified":1448996924,
+    "wof:lastmodified":1466297268,
     "wof:name":"Migliavacca Fabio",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medici"
     ]
 },
-  "bbox": [9.177331,45.476929,9.177331,45.476929],
+  "bbox": [
+    9.177331,
+    45.476929,
+    9.177331,
+    45.476929
+],
   "geometry": {"coordinates":[9.177331,45.476929],"type":"Point"}
 }

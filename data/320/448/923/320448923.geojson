@@ -2,13 +2,14 @@
   "id": 320448923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.196656,45.547565,9.196656,45.547565",
     "geom:latitude":45.547565,
     "geom:longitude":9.196656,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20060 Bussero",
     "sg:city":"Bussero",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320448923,
-    "wof:lastmodified":1449014782,
+    "wof:lastmodified":1466297434,
     "wof:name":"Agnelli Macchine Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.196656,45.547565,9.196656,45.547565],
+  "bbox": [
+    9.196656,
+    45.547565,
+    9.196656,
+    45.547565
+],
   "geometry": {"coordinates":[9.196656,45.547565],"type":"Point"}
 }

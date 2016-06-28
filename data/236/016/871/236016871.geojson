@@ -2,13 +2,14 @@
   "id": 236016871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.676769,45.082474,7.676769,45.082474",
     "geom:latitude":45.082474,
     "geom:longitude":7.676769,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sassari 29 10152 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236016871,
-    "wof:lastmodified":1449002103,
+    "wof:lastmodified":1466289056,
     "wof:name":"Diamant Snc",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "boron"
     ]
 },
-  "bbox": [7.676769,45.082474,7.676769,45.082474],
+  "bbox": [
+    7.676769,
+    45.082474,
+    7.676769,
+    45.082474
+],
   "geometry": {"coordinates":[7.676769,45.082474],"type":"Point"}
 }

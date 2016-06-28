@@ -2,13 +2,14 @@
   "id": 320521879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.558064,44.067459,12.558064,44.067459",
     "geom:latitude":44.067459,
     "geom:longitude":12.558064,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Moncenisio 11 47900 Rimini",
     "sg:city":"Rimini",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320521879,
-    "wof:lastmodified":1449014772,
+    "wof:lastmodified":1466297627,
     "wof:name":"Profi Di Donati Ivano & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tool"
     ]
 },
-  "bbox": [12.558064,44.067459,12.558064,44.067459],
+  "bbox": [
+    12.558064,
+    44.067459,
+    12.558064,
+    44.067459
+],
   "geometry": {"coordinates":[12.558064,44.067459],"type":"Point"}
 }

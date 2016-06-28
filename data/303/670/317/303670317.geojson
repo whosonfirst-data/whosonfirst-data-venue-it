@@ -2,13 +2,14 @@
   "id": 303670317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.315129,38.143436,13.315129,38.143436",
     "geom:latitude":38.143436,
     "geom:longitude":13.315129,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90145 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303670317,
-    "wof:lastmodified":1448998487,
+    "wof:lastmodified":1466297581,
     "wof:name":"Tappezzeria Tordo Ignazio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.315129,38.143436,13.315129,38.143436],
+  "bbox": [
+    13.315129,
+    38.143436,
+    13.315129,
+    38.143436
+],
   "geometry": {"coordinates":[13.315129,38.143436],"type":"Point"}
 }

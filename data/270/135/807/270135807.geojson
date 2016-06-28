@@ -2,13 +2,14 @@
   "id": 270135807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.422827,44.283337,9.422827,44.283337",
     "geom:latitude":44.283337,
     "geom:longitude":9.422827,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16039 Sestri Levante",
     "sg:city":"Sestri Levante",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270135807,
-    "wof:lastmodified":1449009576,
+    "wof:lastmodified":1466290611,
     "wof:name":"Nauticaravan Di Franco Volpe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.422827,44.283337,9.422827,44.283337],
+  "bbox": [
+    9.422827,
+    44.283337,
+    9.422827,
+    44.283337
+],
   "geometry": {"coordinates":[9.422827,44.283337],"type":"Point"}
 }

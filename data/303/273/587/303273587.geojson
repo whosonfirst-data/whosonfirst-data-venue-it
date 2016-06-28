@@ -2,13 +2,14 @@
   "id": 303273587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.913254,45.535904,9.913254,45.535904",
     "geom:latitude":45.535904,
     "geom:longitude":9.913254,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Via Dei Tintori 25032 Chiari",
     "sg:city":"Chiari",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303273587,
-    "wof:lastmodified":1448999387,
+    "wof:lastmodified":1466293902,
     "wof:name":"Italplant S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [9.913254,45.535904,9.913254,45.535904],
+  "bbox": [
+    9.913254,
+    45.535904,
+    9.913254,
+    45.535904
+],
   "geometry": {"coordinates":[9.913254,45.535904],"type":"Point"}
 }

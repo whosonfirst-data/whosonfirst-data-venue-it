@@ -2,13 +2,14 @@
   "id": 269507797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.421338,43.772839,11.421338,43.772839",
     "geom:latitude":43.772839,
     "geom:longitude":11.421338,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28, Viale Hanoi 50065 Pontassieve",
     "sg:city":"Pontassieve",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269507797,
-    "wof:lastmodified":1449037377,
+    "wof:lastmodified":1466289229,
     "wof:name":"Aladino Baby Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.421338,43.772839,11.421338,43.772839],
+  "bbox": [
+    11.421338,
+    43.772839,
+    11.421338,
+    43.772839
+],
   "geometry": {"coordinates":[11.421338,43.772839],"type":"Point"}
 }

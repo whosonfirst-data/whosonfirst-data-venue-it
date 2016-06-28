@@ -2,13 +2,14 @@
   "id": 203239335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.438419,45.058132,9.438419,45.058132",
     "geom:latitude":45.058132,
     "geom:longitude":9.438419,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29015 Castel San Giovanni",
     "sg:city":"Castel San Giovanni",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203239335,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466290265,
     "wof:name":"Duegi Impianti Di Guzzo Gaetano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.438419,45.058132,9.438419,45.058132],
+  "bbox": [
+    9.438419,
+    45.058132,
+    9.438419,
+    45.058132
+],
   "geometry": {"coordinates":[9.438419,45.058132],"type":"Point"}
 }

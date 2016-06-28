@@ -2,13 +2,14 @@
   "id": 303343135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.848851,45.337296,11.848851,45.337296",
     "geom:latitude":45.337296,
     "geom:longitude":11.848851,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35129 Padova",
     "sg:city":"Padova",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303343135,
-    "wof:lastmodified":1448999854,
+    "wof:lastmodified":1466294758,
     "wof:name":"Candeo Agostino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.848851,45.337296,11.848851,45.337296],
+  "bbox": [
+    11.848851,
+    45.337296,
+    11.848851,
+    45.337296
+],
   "geometry": {"coordinates":[11.848851,45.337296],"type":"Point"}
 }

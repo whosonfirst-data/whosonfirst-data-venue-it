@@ -2,13 +2,14 @@
   "id": 236788157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.621749,45.003372,9.621749,45.003372",
     "geom:latitude":45.003372,
     "geom:longitude":9.621749,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"117, Via G.matteotti 29020 Gossolengo",
     "sg:city":"Gossolengo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236788157,
-    "wof:lastmodified":1449003336,
+    "wof:lastmodified":1466296648,
     "wof:name":"Omnia Pubblicita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.621749,45.003372,9.621749,45.003372],
+  "bbox": [
+    9.621749,
+    45.003372,
+    9.621749,
+    45.003372
+],
   "geometry": {"coordinates":[9.621749,45.003372],"type":"Point"}
 }

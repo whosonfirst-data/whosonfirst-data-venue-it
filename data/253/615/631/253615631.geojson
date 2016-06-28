@@ -2,13 +2,14 @@
   "id": 253615631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.185771,45.520386,10.185771,45.520386",
     "geom:latitude":45.520386,
     "geom:longitude":10.185771,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25125 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253615631,
-    "wof:lastmodified":1449063756,
+    "wof:lastmodified":1466296135,
     "wof:name":"Euronastri Srl",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.185771,45.520386,10.185771,45.520386],
+  "bbox": [
+    10.185771,
+    45.520386,
+    10.185771,
+    45.520386
+],
   "geometry": {"coordinates":[10.185771,45.520386],"type":"Point"}
 }

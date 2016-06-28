@@ -2,13 +2,14 @@
   "id": 253566229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.456952,45.704159,8.456952,45.704159",
     "geom:latitude":45.704159,
     "geom:longitude":8.456952,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28021 Borgomanero",
     "sg:city":"Borgomanero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253566229,
-    "wof:lastmodified":1449062883,
+    "wof:lastmodified":1466295504,
     "wof:name":"Tiesse Di Paola & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.456952,45.704159,8.456952,45.704159],
+  "bbox": [
+    8.456952,
+    45.704159,
+    8.456952,
+    45.704159
+],
   "geometry": {"coordinates":[8.456952,45.704159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252755591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.331357,41.074623,14.331357,41.074623",
     "geom:latitude":41.074623,
     "geom:longitude":14.331357,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81100 Caserta",
     "sg:city":"Caserta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252755591,
-    "wof:lastmodified":1449005721,
+    "wof:lastmodified":1466289412,
     "wof:name":"Panzera Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.331357,41.074623,14.331357,41.074623],
+  "bbox": [
+    14.331357,
+    41.074623,
+    14.331357,
+    41.074623
+],
   "geometry": {"coordinates":[14.331357,41.074623],"type":"Point"}
 }

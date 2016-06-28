@@ -2,13 +2,14 @@
   "id": 235993413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.87498,45.400436,9.87498,45.400436",
     "geom:latitude":45.400436,
     "geom:longitude":9.87498,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"26029 Soncino",
     "sg:city":"Soncino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":235993413,
-    "wof:lastmodified":1449008398,
+    "wof:lastmodified":1466295998,
     "wof:name":"Belloni Dott. Vincenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.87498,45.400436,9.87498,45.400436],
+  "bbox": [
+    9.87498,
+    45.400436,
+    9.87498,
+    45.400436
+],
   "geometry": {"coordinates":[9.87498,45.400436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219534257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.338784,45.434338,12.338784,45.434338",
     "geom:latitude":45.434338,
     "geom:longitude":12.338784,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pioncha 20 Loc. Cazzago 30030 Pianiga",
     "sg:city":"Cazzago",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219534257,
-    "wof:lastmodified":1449071315,
+    "wof:lastmodified":1466291703,
     "wof:name":"Unitrans Spa",
     "wof:parent_id":85905021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "superstructure"
     ]
 },
-  "bbox": [12.338784,45.434338,12.338784,45.434338],
+  "bbox": [
+    12.338784,
+    45.434338,
+    12.338784,
+    45.434338
+],
   "geometry": {"coordinates":[12.338784,45.434338],"type":"Point"}
 }

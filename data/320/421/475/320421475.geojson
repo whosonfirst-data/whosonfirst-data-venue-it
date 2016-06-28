@@ -2,13 +2,14 @@
   "id": 320421475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.615396,44.889412,8.615396,44.889412",
     "geom:latitude":44.889412,
     "geom:longitude":8.615396,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15055 Pontecurone",
     "sg:city":"Pontecurone",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320421475,
-    "wof:lastmodified":1449013629,
+    "wof:lastmodified":1466297456,
     "wof:name":"Selis Giuseppe Agricab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.615396,44.889412,8.615396,44.889412],
+  "bbox": [
+    8.615396,
+    44.889412,
+    8.615396,
+    44.889412
+],
   "geometry": {"coordinates":[8.615396,44.889412],"type":"Point"}
 }

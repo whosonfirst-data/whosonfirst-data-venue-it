@@ -2,13 +2,14 @@
   "id": 219499193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.179531,45.445023,9.179531,45.445023",
     "geom:latitude":45.445023,
     "geom:longitude":9.179531,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20136 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219499193,
-    "wof:lastmodified":1449071062,
+    "wof:lastmodified":1466291390,
     "wof:name":"Studio Dondi Snc",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.179531,45.445023,9.179531,45.445023],
+  "bbox": [
+    9.179531,
+    45.445023,
+    9.179531,
+    45.445023
+],
   "geometry": {"coordinates":[9.179531,45.445023],"type":"Point"}
 }

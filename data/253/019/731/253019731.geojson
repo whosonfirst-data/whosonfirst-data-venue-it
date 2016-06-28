@@ -2,13 +2,14 @@
   "id": 253019731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.690379,45.475193,8.690379,45.475193",
     "geom:latitude":45.475193,
     "geom:longitude":8.690379,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28066 Galliate",
     "sg:city":"Galliate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253019731,
-    "wof:lastmodified":1449064523,
+    "wof:lastmodified":1466289117,
     "wof:name":"E.f.g.k. E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.690379,45.475193,8.690379,45.475193],
+  "bbox": [
+    8.690379,
+    45.475193,
+    8.690379,
+    45.475193
+],
   "geometry": {"coordinates":[8.690379,45.475193],"type":"Point"}
 }

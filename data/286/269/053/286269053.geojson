@@ -2,13 +2,14 @@
   "id": 286269053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.314405,46.09095,10.314405,46.09095",
     "geom:latitude":46.09095,
     "geom:longitude":10.314405,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Via Forno Allione 25040 Malonno",
     "sg:city":"Forno allione",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286269053,
-    "wof:lastmodified":1449017044,
+    "wof:lastmodified":1466289519,
     "wof:name":"Ucar Specialties (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [10.314405,46.09095,10.314405,46.09095],
+  "bbox": [
+    10.314405,
+    46.09095,
+    10.314405,
+    46.09095
+],
   "geometry": {"coordinates":[10.314405,46.09095],"type":"Point"}
 }

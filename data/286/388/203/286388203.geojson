@@ -2,13 +2,14 @@
   "id": 286388203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.187213,45.452206,9.187213,45.452206",
     "geom:latitude":45.452206,
     "geom:longitude":9.187213,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286388203,
-    "wof:lastmodified":1449015275,
+    "wof:lastmodified":1466291297,
     "wof:name":"Guido Biscione Associati Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.187213,45.452206,9.187213,45.452206],
+  "bbox": [
+    9.187213,
+    45.452206,
+    9.187213,
+    45.452206
+],
   "geometry": {"coordinates":[9.187213,45.452206],"type":"Point"}
 }

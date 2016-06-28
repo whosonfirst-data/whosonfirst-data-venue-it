@@ -2,13 +2,14 @@
   "id": 236929523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.127401,46.03545,11.127401,46.03545",
     "geom:latitude":46.03545,
     "geom:longitude":11.127401,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Localita' Stella 38100 Trento",
     "sg:city":"Trento",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236929523,
-    "wof:lastmodified":1449002811,
+    "wof:lastmodified":1466297171,
     "wof:name":"Silvestri Pallets Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [11.127401,46.03545,11.127401,46.03545],
+  "bbox": [
+    11.127401,
+    46.03545,
+    11.127401,
+    46.03545
+],
   "geometry": {"coordinates":[11.127401,46.03545],"type":"Point"}
 }

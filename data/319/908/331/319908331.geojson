@@ -2,13 +2,14 @@
   "id": 319908331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.222914,38.151768,15.222914,38.151768",
     "geom:latitude":38.151768,
     "geom:longitude":15.222914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98051 Barcellona Pozzo Di Gotto",
     "sg:city":"Barcellona Pozzo di Gotto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319908331,
-    "wof:lastmodified":1449024528,
+    "wof:lastmodified":1466293665,
     "wof:name":"Pernice Giulia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.222914,38.151768,15.222914,38.151768],
+  "bbox": [
+    15.222914,
+    38.151768,
+    15.222914,
+    38.151768
+],
   "geometry": {"coordinates":[15.222914,38.151768],"type":"Point"}
 }

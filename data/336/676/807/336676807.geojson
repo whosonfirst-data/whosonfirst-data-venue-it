@@ -2,13 +2,14 @@
   "id": 336676807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.902651,45.632027,9.902651,45.632027",
     "geom:latitude":45.632027,
     "geom:longitude":9.902651,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"108, Via Guglielmo Marconi 24060 Castelli Calepio",
     "sg:city":"Castelli Calepio",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336676807,
-    "wof:lastmodified":1448997615,
+    "wof:lastmodified":1466294646,
     "wof:name":"Gapi (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.902651,45.632027,9.902651,45.632027],
+  "bbox": [
+    9.902651,
+    45.632027,
+    9.902651,
+    45.632027
+],
   "geometry": {"coordinates":[9.902651,45.632027],"type":"Point"}
 }

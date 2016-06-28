@@ -2,13 +2,14 @@
   "id": 236738413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.181936,39.256016,9.181936,39.256016",
     "geom:latitude":39.256016,
     "geom:longitude":9.181936,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"09044 Quartucciu",
     "sg:city":"Quartucciu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236738413,
-    "wof:lastmodified":1449004183,
+    "wof:lastmodified":1466296407,
     "wof:name":"Pau Marcella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.181936,39.256016,9.181936,39.256016],
+  "bbox": [
+    9.181936,
+    39.256016,
+    9.181936,
+    39.256016
+],
   "geometry": {"coordinates":[9.181936,39.256016],"type":"Point"}
 }

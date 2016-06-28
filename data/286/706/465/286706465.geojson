@@ -2,13 +2,14 @@
   "id": 286706465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.027913,42.552338,12.027913,42.552338",
     "geom:latitude":42.552338,
     "geom:longitude":12.027913,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"106, Via Asinello 01027 Montefiascone",
     "sg:city":"Montefiascone",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286706465,
-    "wof:lastmodified":1449015383,
+    "wof:lastmodified":1466295286,
     "wof:name":"Nicolai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [12.027913,42.552338,12.027913,42.552338],
+  "bbox": [
+    12.027913,
+    42.552338,
+    12.027913,
+    42.552338
+],
   "geometry": {"coordinates":[12.027913,42.552338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169861955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.403695,45.666592,9.403695,45.666592",
     "geom:latitude":45.666592,
     "geom:longitude":9.403695,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via S Antonio 8; Ronco Briantino",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169861955,
-    "wof:lastmodified":1449035944,
+    "wof:lastmodified":1466289307,
     "wof:name":"Banca Briantea Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.403695,45.666592,9.403695,45.666592],
+  "bbox": [
+    9.403695,
+    45.666592,
+    9.403695,
+    45.666592
+],
   "geometry": {"coordinates":[9.403695,45.666592],"type":"Point"}
 }

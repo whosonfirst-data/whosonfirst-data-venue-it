@@ -2,13 +2,14 @@
   "id": 236165005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.213455,45.464272,9.213455,45.464272",
     "geom:latitude":45.464272,
     "geom:longitude":9.213455,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31, V. Mameli 20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236165005,
-    "wof:lastmodified":1449005258,
+    "wof:lastmodified":1466290518,
     "wof:name":"O.d.l. Srl",
     "wof:parent_id":85796921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [9.213455,45.464272,9.213455,45.464272],
+  "bbox": [
+    9.213455,
+    45.464272,
+    9.213455,
+    45.464272
+],
   "geometry": {"coordinates":[9.213455,45.464272],"type":"Point"}
 }

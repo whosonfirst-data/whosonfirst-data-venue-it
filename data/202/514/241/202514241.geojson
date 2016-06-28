@@ -2,13 +2,14 @@
   "id": 202514241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.368264,45.041916,7.368264,45.041916",
     "geom:latitude":45.041916,
     "geom:longitude":7.368264,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Trana",
     "sg:city":"Trana",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202514241,
-    "wof:lastmodified":1449061398,
+    "wof:lastmodified":1466289111,
     "wof:name":"Nord Infissi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.368264,45.041916,7.368264,45.041916],
+  "bbox": [
+    7.368264,
+    45.041916,
+    7.368264,
+    45.041916
+],
   "geometry": {"coordinates":[7.368264,45.041916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236438701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.24342,44.495209,11.24342,44.495209",
     "geom:latitude":44.495209,
     "geom:longitude":11.24342,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Via Roma 40069 Zola Predosa",
     "sg:city":"Zola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236438701,
-    "wof:lastmodified":1449002627,
+    "wof:lastmodified":1466293394,
     "wof:name":"Gvs S.p.a.",
     "wof:parent_id":85904641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instrument"
     ]
 },
-  "bbox": [11.24342,44.495209,11.24342,44.495209],
+  "bbox": [
+    11.24342,
+    44.495209,
+    11.24342,
+    44.495209
+],
   "geometry": {"coordinates":[11.24342,44.495209],"type":"Point"}
 }

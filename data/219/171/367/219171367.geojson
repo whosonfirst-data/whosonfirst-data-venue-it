@@ -2,13 +2,14 @@
   "id": 219171367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.974224,44.586506,8.974224,44.586506",
     "geom:latitude":44.586506,
     "geom:longitude":8.974224,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16012 Busalla",
     "sg:city":"Busalla",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219171367,
-    "wof:lastmodified":1449073932,
+    "wof:lastmodified":1466294384,
     "wof:name":"Ente Parco Dell'antola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.974224,44.586506,8.974224,44.586506],
+  "bbox": [
+    8.974224,
+    44.586506,
+    8.974224,
+    44.586506
+],
   "geometry": {"coordinates":[8.974224,44.586506],"type":"Point"}
 }

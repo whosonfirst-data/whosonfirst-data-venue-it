@@ -2,13 +2,14 @@
   "id": 320666775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.299227,40.900738,14.299227,40.900738",
     "geom:latitude":40.900738,
     "geom:longitude":14.299227,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"80026 Casoria",
     "sg:city":"Casoria",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320666775,
-    "wof:lastmodified":1449012647,
+    "wof:lastmodified":1466298021,
     "wof:name":"Mivar Di Carlo Vichi Sapa",
     "wof:parent_id":85904555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.299227,40.900738,14.299227,40.900738],
+  "bbox": [
+    14.299227,
+    40.900738,
+    14.299227,
+    40.900738
+],
   "geometry": {"coordinates":[14.299227,40.900738],"type":"Point"}
 }

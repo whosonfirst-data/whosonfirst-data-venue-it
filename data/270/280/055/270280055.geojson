@@ -2,13 +2,14 @@
   "id": 270280055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.885061,44.783051,10.885061,44.783051",
     "geom:latitude":44.783051,
     "geom:longitude":10.885061,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270280055,
-    "wof:lastmodified":1449009837,
+    "wof:lastmodified":1466296272,
     "wof:name":"Metalferro Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.885061,44.783051,10.885061,44.783051],
+  "bbox": [
+    10.885061,
+    44.783051,
+    10.885061,
+    44.783051
+],
   "geometry": {"coordinates":[10.885061,44.783051],"type":"Point"}
 }

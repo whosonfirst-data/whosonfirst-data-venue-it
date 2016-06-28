@@ -2,13 +2,14 @@
   "id": 286873165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.217114,43.708977,11.217114,43.708977",
     "geom:latitude":43.708977,
     "geom:longitude":11.217114,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50032 Borgo San Lorenzo",
     "sg:city":"Borgo San Lorenzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286873165,
-    "wof:lastmodified":1449015783,
+    "wof:lastmodified":1466296904,
     "wof:name":"Elettrotecnica Verdi (s.n.c.)",
     "wof:parent_id":85900433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.217114,43.708977,11.217114,43.708977],
+  "bbox": [
+    11.217114,
+    43.708977,
+    11.217114,
+    43.708977
+],
   "geometry": {"coordinates":[11.217114,43.708977],"type":"Point"}
 }

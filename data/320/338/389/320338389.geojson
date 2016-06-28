@@ -2,13 +2,14 @@
   "id": 320338389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.791434,45.8904,8.791434,45.8904",
     "geom:latitude":45.8904,
     "geom:longitude":8.791434,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21100 Varese",
     "sg:city":"Varese",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320338389,
-    "wof:lastmodified":1449012565,
+    "wof:lastmodified":1466297210,
     "wof:name":"Ambrosetti S.n.c. Di Ambrosetti E Luisi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.791434,45.8904,8.791434,45.8904],
+  "bbox": [
+    8.791434,
+    45.8904,
+    8.791434,
+    45.8904
+],
   "geometry": {"coordinates":[8.791434,45.8904],"type":"Point"}
 }

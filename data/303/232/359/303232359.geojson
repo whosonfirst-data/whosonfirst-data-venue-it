@@ -2,13 +2,14 @@
   "id": 303232359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.524379,45.702991,11.524379,45.702991",
     "geom:latitude":45.702991,
     "geom:longitude":11.524379,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Ca Fusa 1 36030 Sarcedo",
     "sg:city":"Sarcedo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303232359,
-    "wof:lastmodified":1448998903,
+    "wof:lastmodified":1466293384,
     "wof:name":"Officine E Smalterie Vicentine Ing.e. Dell'orto & C. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "enamelling"
     ]
 },
-  "bbox": [11.524379,45.702991,11.524379,45.702991],
+  "bbox": [
+    11.524379,
+    45.702991,
+    11.524379,
+    45.702991
+],
   "geometry": {"coordinates":[11.524379,45.702991],"type":"Point"}
 }

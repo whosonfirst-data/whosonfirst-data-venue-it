@@ -2,13 +2,14 @@
   "id": 236539241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.363231,45.644062,12.363231,45.644062",
     "geom:latitude":45.644062,
     "geom:longitude":12.363231,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"114, Via D'annunzio Gabriele 31056 Roncade",
     "sg:city":"Roncade",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236539241,
-    "wof:lastmodified":1449005328,
+    "wof:lastmodified":1466294462,
     "wof:name":"Arlex (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.363231,45.644062,12.363231,45.644062],
+  "bbox": [
+    12.363231,
+    45.644062,
+    12.363231,
+    45.644062
+],
   "geometry": {"coordinates":[12.363231,45.644062],"type":"Point"}
 }

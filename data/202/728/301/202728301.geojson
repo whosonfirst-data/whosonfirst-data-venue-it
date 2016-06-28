@@ -2,13 +2,14 @@
   "id": 202728301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.390055,37.441006,13.390055,37.441006",
     "geom:latitude":37.441006,
     "geom:longitude":13.390055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"92016 Ribera",
     "sg:city":"Ribera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202728301,
-    "wof:lastmodified":1449060696,
+    "wof:lastmodified":1466291363,
     "wof:name":"Mediabyte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.390055,37.441006,13.390055,37.441006],
+  "bbox": [
+    13.390055,
+    37.441006,
+    13.390055,
+    37.441006
+],
   "geometry": {"coordinates":[13.390055,37.441006],"type":"Point"}
 }

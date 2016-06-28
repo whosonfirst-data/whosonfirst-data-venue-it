@@ -2,13 +2,14 @@
   "id": 286329241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.266739,41.310776,16.266739,41.310776",
     "geom:latitude":41.310776,
     "geom:longitude":16.266739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Madonna Della Croce, 253/257 70051 Barletta",
     "sg:city":"Barletta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286329241,
-    "wof:lastmodified":1449016007,
+    "wof:lastmodified":1466290428,
     "wof:name":"Confezioni Mapal Di Vannella Palma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clothing"
     ]
 },
-  "bbox": [16.266739,41.310776,16.266739,41.310776],
+  "bbox": [
+    16.266739,
+    41.310776,
+    16.266739,
+    41.310776
+],
   "geometry": {"coordinates":[16.266739,41.310776],"type":"Point"}
 }

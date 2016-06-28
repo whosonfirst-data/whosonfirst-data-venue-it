@@ -2,13 +2,14 @@
   "id": 319942781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.182115,45.724594,12.182115,45.724594",
     "geom:latitude":45.724594,
     "geom:longitude":12.182115,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31050 Merlengo",
     "sg:classifiers":[],
     "sg:orig_category":"Automobili E Mezzi Di Trasporto",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":319942781,
-    "wof:lastmodified":1449024446,
+    "wof:lastmodified":1466294099,
     "wof:name":"Multi Trailers (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.182115,45.724594,12.182115,45.724594],
+  "bbox": [
+    12.182115,
+    45.724594,
+    12.182115,
+    45.724594
+],
   "geometry": {"coordinates":[12.182115,45.724594],"type":"Point"}
 }

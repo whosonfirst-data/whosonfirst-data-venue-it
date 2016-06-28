@@ -2,13 +2,14 @@
   "id": 202534103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.459389,45.64439,11.459389,45.64439",
     "geom:latitude":45.64439,
     "geom:longitude":11.459389,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36100 Vicenza",
     "sg:city":"Vicenza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202534103,
-    "wof:lastmodified":1449060773,
+    "wof:lastmodified":1466289287,
     "wof:name":"Fermet Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.459389,45.64439,11.459389,45.64439],
+  "bbox": [
+    11.459389,
+    45.64439,
+    11.459389,
+    45.64439
+],
   "geometry": {"coordinates":[11.459389,45.64439],"type":"Point"}
 }

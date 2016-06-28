@@ -2,13 +2,14 @@
   "id": 236373787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.820296,45.613251,13.820296,45.613251",
     "geom:latitude":45.613251,
     "geom:longitude":13.820296,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34147 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236373787,
-    "wof:lastmodified":1449003342,
+    "wof:lastmodified":1466292702,
     "wof:name":"Sancin & Sancin (s.r.l.)",
     "wof:parent_id":85905007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.820296,45.613251,13.820296,45.613251],
+  "bbox": [
+    13.820296,
+    45.613251,
+    13.820296,
+    45.613251
+],
   "geometry": {"coordinates":[13.820296,45.613251],"type":"Point"}
 }

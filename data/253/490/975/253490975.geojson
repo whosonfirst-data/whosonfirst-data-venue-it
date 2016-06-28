@@ -2,13 +2,14 @@
   "id": 253490975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.415059,44.533947,11.415059,44.533947",
     "geom:latitude":44.533947,
     "geom:longitude":11.415059,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40057 Granarolo Dell'emilia",
     "sg:city":"Quarto Inferiore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253490975,
-    "wof:lastmodified":1449065485,
+    "wof:lastmodified":1466294524,
     "wof:name":"Vetreria Nettuno Di Ciaccia Nunzio",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.415059,44.533947,11.415059,44.533947],
+  "bbox": [
+    11.415059,
+    44.533947,
+    11.415059,
+    44.533947
+],
   "geometry": {"coordinates":[11.415059,44.533947],"type":"Point"}
 }

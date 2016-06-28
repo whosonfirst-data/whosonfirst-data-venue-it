@@ -2,13 +2,14 @@
   "id": 303918231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.439723,41.893929,12.439723,41.893929",
     "geom:latitude":41.893929,
     "geom:longitude":12.439723,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00165 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303918231,
-    "wof:lastmodified":1448999781,
+    "wof:lastmodified":1466298132,
     "wof:name":"Ve.di.se. Hospital Spa",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.439723,41.893929,12.439723,41.893929],
+  "bbox": [
+    12.439723,
+    41.893929,
+    12.439723,
+    41.893929
+],
   "geometry": {"coordinates":[12.439723,41.893929],"type":"Point"}
 }

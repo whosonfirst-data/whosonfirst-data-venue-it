@@ -2,13 +2,14 @@
   "id": 219848069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.58587,45.730595,9.58587,45.730595",
     "geom:latitude":45.730595,
     "geom:longitude":9.58587,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Almenno San Bartolomeo",
     "sg:city":"Almenno San Bartolomeo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219848069,
-    "wof:lastmodified":1449070893,
+    "wof:lastmodified":1466294734,
     "wof:name":"Impresa Fratelli Rota Nodari Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [9.58587,45.730595,9.58587,45.730595],
+  "bbox": [
+    9.58587,
+    45.730595,
+    9.58587,
+    45.730595
+],
   "geometry": {"coordinates":[9.58587,45.730595],"type":"Point"}
 }

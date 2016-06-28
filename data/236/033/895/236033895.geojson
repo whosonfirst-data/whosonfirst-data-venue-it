@@ -2,13 +2,14 @@
   "id": 236033895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.223643,45.482559,9.223643,45.482559",
     "geom:latitude":45.482559,
     "geom:longitude":9.223643,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Lombardia 22 20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236033895,
-    "wof:lastmodified":1449002185,
+    "wof:lastmodified":1466289237,
     "wof:name":"Activa Srl",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disinfectant"
     ]
 },
-  "bbox": [9.223643,45.482559,9.223643,45.482559],
+  "bbox": [
+    9.223643,
+    45.482559,
+    9.223643,
+    45.482559
+],
   "geometry": {"coordinates":[9.223643,45.482559],"type":"Point"}
 }

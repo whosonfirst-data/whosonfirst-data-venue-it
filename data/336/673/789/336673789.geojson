@@ -2,13 +2,14 @@
   "id": 336673789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.228308,45.558945,9.228308,45.558945",
     "geom:latitude":45.558945,
     "geom:longitude":9.228308,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Via Cremona 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336673789,
-    "wof:lastmodified":1448997370,
+    "wof:lastmodified":1466294611,
     "wof:name":"G.i.a.t. (s.r.l.)",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.228308,45.558945,9.228308,45.558945],
+  "bbox": [
+    9.228308,
+    45.558945,
+    9.228308,
+    45.558945
+],
   "geometry": {"coordinates":[9.228308,45.558945],"type":"Point"}
 }

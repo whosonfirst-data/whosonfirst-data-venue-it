@@ -2,13 +2,14 @@
   "id": 269723653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.547668,43.687294,10.547668,43.687294",
     "geom:latitude":43.687294,
     "geom:longitude":10.547668,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"56010 Lugnano",
     "sg:classifiers":[],
     "sg:orig_category":"Agenzie D'affari E Servizi Commerciali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":269723653,
-    "wof:lastmodified":1449037547,
+    "wof:lastmodified":1466292008,
     "wof:name":"Toti Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.547668,43.687294,10.547668,43.687294],
+  "bbox": [
+    10.547668,
+    43.687294,
+    10.547668,
+    43.687294
+],
   "geometry": {"coordinates":[10.547668,43.687294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185776923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.790113,45.158195,10.790113,45.158195",
     "geom:latitude":45.158195,
     "geom:longitude":10.790113,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via G Arrivabene 2; Mantova; 46100",
     "sg:city":"Mantova",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185776923,
-    "wof:lastmodified":1449006972,
+    "wof:lastmodified":1466289131,
     "wof:name":"Banca Popolare Di Brescia Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.790113,45.158195,10.790113,45.158195],
+  "bbox": [
+    10.790113,
+    45.158195,
+    10.790113,
+    45.158195
+],
   "geometry": {"coordinates":[10.790113,45.158195],"type":"Point"}
 }

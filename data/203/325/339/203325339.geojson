@@ -2,13 +2,14 @@
   "id": 203325339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.423866,41.846954,12.423866,41.846954",
     "geom:latitude":41.846954,
     "geom:longitude":12.423866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203325339,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466291300,
     "wof:name":"Libreria Antiquaria S.agostino",
     "wof:parent_id":85900349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.423866,41.846954,12.423866,41.846954],
+  "bbox": [
+    12.423866,
+    41.846954,
+    12.423866,
+    41.846954
+],
   "geometry": {"coordinates":[12.423866,41.846954],"type":"Point"}
 }

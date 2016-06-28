@@ -2,13 +2,14 @@
   "id": 203084363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.233582,45.542332,9.233582,45.542332",
     "geom:latitude":45.542332,
     "geom:longitude":9.233582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20099 Sesto San Giovanni",
     "sg:city":"Sesto San Giovanni",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203084363,
-    "wof:lastmodified":1449025150,
+    "wof:lastmodified":1466295946,
     "wof:name":"Alessandro Alfio",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.233582,45.542332,9.233582,45.542332],
+  "bbox": [
+    9.233582,
+    45.542332,
+    9.233582,
+    45.542332
+],
   "geometry": {"coordinates":[9.233582,45.542332],"type":"Point"}
 }

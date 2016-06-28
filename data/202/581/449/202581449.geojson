@@ -2,13 +2,14 @@
   "id": 202581449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.054205,43.811069,11.054205,43.811069",
     "geom:latitude":43.811069,
     "geom:longitude":11.054205,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"59016 Poggio A Caiano",
     "sg:city":"Poggio a Caiano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202581449,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466289738,
     "wof:name":"Ser-met",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.054205,43.811069,11.054205,43.811069],
+  "bbox": [
+    11.054205,
+    43.811069,
+    11.054205,
+    43.811069
+],
   "geometry": {"coordinates":[11.054205,43.811069],"type":"Point"}
 }

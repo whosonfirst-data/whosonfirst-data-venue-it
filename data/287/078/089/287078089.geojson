@@ -2,13 +2,14 @@
   "id": 287078089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.695019,45.033115,9.695019,45.033115",
     "geom:latitude":45.033115,
     "geom:longitude":9.695019,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Bagarotti 18 29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287078089,
-    "wof:lastmodified":1449001433,
+    "wof:lastmodified":1466290633,
     "wof:name":"Cotras Trasporti E Spedizioni Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [9.695019,45.033115,9.695019,45.033115],
+  "bbox": [
+    9.695019,
+    45.033115,
+    9.695019,
+    45.033115
+],
   "geometry": {"coordinates":[9.695019,45.033115],"type":"Point"}
 }

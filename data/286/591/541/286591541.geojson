@@ -2,13 +2,14 @@
   "id": 286591541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.490586,45.51606,11.490586,45.51606",
     "geom:latitude":45.51606,
     "geom:longitude":11.490586,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"39, Via Retrone 36077 Altavilla Vicentina",
     "sg:city":"Altavilla Vicentina",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286591541,
-    "wof:lastmodified":1449016761,
+    "wof:lastmodified":1466293819,
     "wof:name":"Stecom (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [11.490586,45.51606,11.490586,45.51606],
+  "bbox": [
+    11.490586,
+    45.51606,
+    11.490586,
+    45.51606
+],
   "geometry": {"coordinates":[11.490586,45.51606],"type":"Point"}
 }

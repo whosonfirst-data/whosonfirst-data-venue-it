@@ -2,13 +2,14 @@
   "id": 320616997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.061517,46.18103,13.061517,46.18103",
     "geom:latitude":46.18103,
     "geom:longitude":13.061517,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Dei Barazzi 11 - Farla 33030 Majano",
     "sg:city":"Majano",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320616997,
-    "wof:lastmodified":1449014002,
+    "wof:lastmodified":1466297831,
     "wof:name":"Ma.vi. Marmi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "marble"
     ]
 },
-  "bbox": [13.061517,46.18103,13.061517,46.18103],
+  "bbox": [
+    13.061517,
+    46.18103,
+    13.061517,
+    46.18103
+],
   "geometry": {"coordinates":[13.061517,46.18103],"type":"Point"}
 }

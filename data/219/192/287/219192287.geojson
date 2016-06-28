@@ -2,13 +2,14 @@
   "id": 219192287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.749218,45.605301,13.749218,45.605301",
     "geom:latitude":45.605301,
     "geom:longitude":13.749218,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"34015 Muggia",
     "sg:city":"Muggia",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219192287,
-    "wof:lastmodified":1449072894,
+    "wof:lastmodified":1466294984,
     "wof:name":"Windlife Srl",
     "wof:parent_id":85900335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.749218,45.605301,13.749218,45.605301],
+  "bbox": [
+    13.749218,
+    45.605301,
+    13.749218,
+    45.605301
+],
   "geometry": {"coordinates":[13.749218,45.605301],"type":"Point"}
 }

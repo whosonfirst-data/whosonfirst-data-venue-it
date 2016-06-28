@@ -2,13 +2,14 @@
   "id": 303879557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.562648,45.610912,12.562648,45.610912",
     "geom:latitude":45.610912,
     "geom:longitude":12.562648,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30024 Musile Di Piave",
     "sg:city":"Musile di Piave",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303879557,
-    "wof:lastmodified":1448998139,
+    "wof:lastmodified":1466298141,
     "wof:name":"Rossi Import Sas - Produzione Orologi Con Vetro Di Murrina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.562648,45.610912,12.562648,45.610912],
+  "bbox": [
+    12.562648,
+    45.610912,
+    12.562648,
+    45.610912
+],
   "geometry": {"coordinates":[12.562648,45.610912],"type":"Point"}
 }

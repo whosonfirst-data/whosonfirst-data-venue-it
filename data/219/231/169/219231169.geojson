@@ -2,13 +2,14 @@
   "id": 219231169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.664548,44.941982,7.664548,44.941982",
     "geom:latitude":44.941982,
     "geom:longitude":7.664548,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Finale Ligure 7 10040 La Loggia",
     "sg:city":"La Loggia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219231169,
-    "wof:lastmodified":1449072189,
+    "wof:lastmodified":1466295804,
     "wof:name":"Csl Spa",
     "wof:parent_id":85797015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sheet"
     ]
 },
-  "bbox": [7.664548,44.941982,7.664548,44.941982],
+  "bbox": [
+    7.664548,
+    44.941982,
+    7.664548,
+    44.941982
+],
   "geometry": {"coordinates":[7.664548,44.941982],"type":"Point"}
 }

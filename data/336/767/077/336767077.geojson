@@ -2,13 +2,14 @@
   "id": 336767077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.790914,44.475922,7.790914,44.475922",
     "geom:latitude":44.475922,
     "geom:longitude":7.790914,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Corso Francia 12084 Mondovi'",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336767077,
-    "wof:lastmodified":1448997262,
+    "wof:lastmodified":1466295720,
     "wof:name":"S.i.m.a. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mechanical"
     ]
 },
-  "bbox": [7.790914,44.475922,7.790914,44.475922],
+  "bbox": [
+    7.790914,
+    44.475922,
+    7.790914,
+    44.475922
+],
   "geometry": {"coordinates":[7.790914,44.475922],"type":"Point"}
 }

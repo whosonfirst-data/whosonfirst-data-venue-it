@@ -2,13 +2,14 @@
   "id": 286832945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.619514,45.740768,9.619514,45.740768",
     "geom:latitude":45.740768,
     "geom:longitude":9.619514,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24011 Alme'",
     "sg:classifiers":[],
     "sg:orig_category":"Tempo Libero - Articoli E Forniture. Automobili E Mezzi Di Trasporto",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286832945,
-    "wof:lastmodified":1449015173,
+    "wof:lastmodified":1466296589,
     "wof:name":"Viscardi Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.619514,45.740768,9.619514,45.740768],
+  "bbox": [
+    9.619514,
+    45.740768,
+    9.619514,
+    45.740768
+],
   "geometry": {"coordinates":[9.619514,45.740768],"type":"Point"}
 }

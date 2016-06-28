@@ -2,13 +2,14 @@
   "id": 303910621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.204775,45.471516,9.204775,45.471516",
     "geom:latitude":45.471516,
     "geom:longitude":9.204775,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303910621,
-    "wof:lastmodified":1448999142,
+    "wof:lastmodified":1466298110,
     "wof:name":"Stereofon Di Bossi Marco",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.204775,45.471516,9.204775,45.471516],
+  "bbox": [
+    9.204775,
+    45.471516,
+    9.204775,
+    45.471516
+],
   "geometry": {"coordinates":[9.204775,45.471516],"type":"Point"}
 }

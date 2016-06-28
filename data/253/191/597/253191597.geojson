@@ -2,13 +2,14 @@
   "id": 253191597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.53482,43.518131,13.53482,43.518131",
     "geom:latitude":43.518131,
     "geom:longitude":13.53482,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via D. Alighieri 43 60021 Camerano",
     "sg:city":"Camerano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253191597,
-    "wof:lastmodified":1449064598,
+    "wof:lastmodified":1466290904,
     "wof:name":"Fellowes Leonardi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [13.53482,43.518131,13.53482,43.518131],
+  "bbox": [
+    13.53482,
+    43.518131,
+    13.53482,
+    43.518131
+],
   "geometry": {"coordinates":[13.53482,43.518131],"type":"Point"}
 }

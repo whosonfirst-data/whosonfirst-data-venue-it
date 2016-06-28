@@ -2,13 +2,14 @@
   "id": 320824977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.323877,45.804466,9.323877,45.804466",
     "geom:latitude":45.804466,
     "geom:longitude":9.323877,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23841 Annone Di Brianza",
     "sg:city":"Annone di Brianza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320824977,
-    "wof:lastmodified":1449012606,
+    "wof:lastmodified":1466298216,
     "wof:name":"Trafileria Scerelli (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.323877,45.804466,9.323877,45.804466],
+  "bbox": [
+    9.323877,
+    45.804466,
+    9.323877,
+    45.804466
+],
   "geometry": {"coordinates":[9.323877,45.804466],"type":"Point"}
 }

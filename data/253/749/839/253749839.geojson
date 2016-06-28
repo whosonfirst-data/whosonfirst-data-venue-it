@@ -2,13 +2,14 @@
   "id": 253749839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.546661,43.864914,11.546661,43.864914",
     "geom:latitude":43.864914,
     "geom:longitude":11.546661,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Provinciale 50062 Dicomano",
     "sg:city":"Dicomano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253749839,
-    "wof:lastmodified":1449063654,
+    "wof:lastmodified":1466297086,
     "wof:name":"Ennepi S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.546661,43.864914,11.546661,43.864914],
+  "bbox": [
+    11.546661,
+    43.864914,
+    11.546661,
+    43.864914
+],
   "geometry": {"coordinates":[11.546661,43.864914],"type":"Point"}
 }

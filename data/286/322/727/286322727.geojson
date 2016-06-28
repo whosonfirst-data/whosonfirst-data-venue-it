@@ -2,13 +2,14 @@
   "id": 286322727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.399371,41.879547,12.399371,41.879547",
     "geom:latitude":41.879547,
     "geom:longitude":12.399371,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00163 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286322727,
-    "wof:lastmodified":1449015131,
+    "wof:lastmodified":1466290311,
     "wof:name":"Legionari Di Cristo",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.399371,41.879547,12.399371,41.879547],
+  "bbox": [
+    12.399371,
+    41.879547,
+    12.399371,
+    41.879547
+],
   "geometry": {"coordinates":[12.399371,41.879547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219508023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.874453,45.762138,8.874453,45.762138",
     "geom:latitude":45.762138,
     "geom:longitude":8.874453,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piave 6 21040 Venegono Inferiore",
     "sg:city":"Venegono Inferiore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219508023,
-    "wof:lastmodified":1449072355,
+    "wof:lastmodified":1466291465,
     "wof:name":"M.m. Evolution Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "glass"
     ]
 },
-  "bbox": [8.874453,45.762138,8.874453,45.762138],
+  "bbox": [
+    8.874453,
+    45.762138,
+    8.874453,
+    45.762138
+],
   "geometry": {"coordinates":[8.874453,45.762138],"type":"Point"}
 }

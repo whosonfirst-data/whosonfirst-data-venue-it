@@ -2,13 +2,14 @@
   "id": 286679231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.645082,45.976883,12.645082,45.976883",
     "geom:latitude":45.976883,
     "geom:longitude":12.645082,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"33170 Pordenone",
     "sg:city":"Pordenone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286679231,
-    "wof:lastmodified":1449017084,
+    "wof:lastmodified":1466294952,
     "wof:name":"Forniz Renato Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "compressori"
     ]
 },
-  "bbox": [12.645082,45.976883,12.645082,45.976883],
+  "bbox": [
+    12.645082,
+    45.976883,
+    12.645082,
+    45.976883
+],
   "geometry": {"coordinates":[12.645082,45.976883],"type":"Point"}
 }

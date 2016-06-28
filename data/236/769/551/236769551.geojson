@@ -2,13 +2,14 @@
   "id": 236769551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.179996,45.443401,9.179996,45.443401",
     "geom:latitude":45.443401,
     "geom:longitude":9.179996,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Tibaldi 28/30 20136 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236769551,
-    "wof:lastmodified":1449002601,
+    "wof:lastmodified":1466296556,
     "wof:name":"Argenteria Galbiati Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gift"
     ]
 },
-  "bbox": [9.179996,45.443401,9.179996,45.443401],
+  "bbox": [
+    9.179996,
+    45.443401,
+    9.179996,
+    45.443401
+],
   "geometry": {"coordinates":[9.179996,45.443401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219993457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.85769,45.524956,10.85769,45.524956",
     "geom:latitude":45.524956,
     "geom:longitude":10.85769,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"37010 S. Ambrogio Valpolicella",
     "sg:classifiers":[],
     "sg:orig_category":"Imprese Di Costruzioni Civili Ed Industriali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219993457,
-    "wof:lastmodified":1449071960,
+    "wof:lastmodified":1466296354,
     "wof:name":"Boscaini Scavi Meccanici Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.85769,45.524956,10.85769,45.524956],
+  "bbox": [
+    10.85769,
+    45.524956,
+    10.85769,
+    45.524956
+],
   "geometry": {"coordinates":[10.85769,45.524956],"type":"Point"}
 }

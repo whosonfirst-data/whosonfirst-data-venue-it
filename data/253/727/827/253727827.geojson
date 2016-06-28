@@ -2,13 +2,14 @@
   "id": 253727827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.271187,40.86166,14.271187,40.86166",
     "geom:latitude":40.86166,
     "geom:longitude":14.271187,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46, V. F. Persico 80141 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253727827,
-    "wof:lastmodified":1449063263,
+    "wof:lastmodified":1466296856,
     "wof:name":"Sparano Salvatore",
     "wof:parent_id":85904833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "-"
     ]
 },
-  "bbox": [14.271187,40.86166,14.271187,40.86166],
+  "bbox": [
+    14.271187,
+    40.86166,
+    14.271187,
+    40.86166
+],
   "geometry": {"coordinates":[14.271187,40.86166],"type":"Point"}
 }

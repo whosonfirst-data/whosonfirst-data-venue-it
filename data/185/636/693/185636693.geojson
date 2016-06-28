@@ -2,13 +2,14 @@
   "id": 185636693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.992073,37.333797,13.992073,37.333797",
     "geom:latitude":37.333797,
     "geom:longitude":13.992073,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Umberto I 32, 93019 Sommatino, Cl",
     "sg:city":"Sommatino",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185636693,
-    "wof:lastmodified":1449007256,
+    "wof:lastmodified":1466294573,
     "wof:name":"Banca Di Credito Cooperativo Del Nisseno Di Sommatino E Serradifalco Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.992073,37.333797,13.992073,37.333797],
+  "bbox": [
+    13.992073,
+    37.333797,
+    13.992073,
+    37.333797
+],
   "geometry": {"coordinates":[13.992073,37.333797],"type":"Point"}
 }

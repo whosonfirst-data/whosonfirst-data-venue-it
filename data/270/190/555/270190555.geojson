@@ -2,13 +2,14 @@
   "id": 270190555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.21428,45.558754,9.21428,45.558754",
     "geom:latitude":45.558754,
     "geom:longitude":9.21428,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":270190555,
-    "wof:lastmodified":1449010959,
+    "wof:lastmodified":1466291267,
     "wof:name":"Castelluccia Michele",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.21428,45.558754,9.21428,45.558754],
+  "bbox": [
+    9.21428,
+    45.558754,
+    9.21428,
+    45.558754
+],
   "geometry": {"coordinates":[9.21428,45.558754],"type":"Point"}
 }

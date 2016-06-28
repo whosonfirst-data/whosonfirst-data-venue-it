@@ -2,13 +2,14 @@
   "id": 320257101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.744275,45.696342,9.744275,45.696342",
     "geom:latitude":45.696342,
     "geom:longitude":9.744275,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24066 Pedrengo",
     "sg:city":"Pedrengo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320257101,
-    "wof:lastmodified":1449012363,
+    "wof:lastmodified":1466296570,
     "wof:name":"Solema (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.744275,45.696342,9.744275,45.696342],
+  "bbox": [
+    9.744275,
+    45.696342,
+    9.744275,
+    45.696342
+],
   "geometry": {"coordinates":[9.744275,45.696342],"type":"Point"}
 }

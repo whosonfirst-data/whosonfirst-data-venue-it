@@ -2,13 +2,14 @@
   "id": 186588137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.820571,45.821335,8.820571,45.821335",
     "geom:latitude":45.821335,
     "geom:longitude":8.820571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21029 Vergiate",
     "sg:city":"Vergiate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186588137,
-    "wof:lastmodified":1449052485,
+    "wof:lastmodified":1466293174,
     "wof:name":"Dama Service Srl Verniciature Industriali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.820571,45.821335,8.820571,45.821335],
+  "bbox": [
+    8.820571,
+    45.821335,
+    8.820571,
+    45.821335
+],
   "geometry": {"coordinates":[8.820571,45.821335],"type":"Point"}
 }

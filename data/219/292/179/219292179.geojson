@@ -2,13 +2,14 @@
   "id": 219292179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.778407,45.653629,13.778407,45.653629",
     "geom:latitude":45.653629,
     "geom:longitude":13.778407,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Loc San Dorligo Della Valle 445 34018 San Dorligo Della Valle",
     "sg:city":"San Dorligo della Valle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219292179,
-    "wof:lastmodified":1449070686,
+    "wof:lastmodified":1466289222,
     "wof:name":"Satac Srl",
     "wof:parent_id":85900477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "spare"
     ]
 },
-  "bbox": [13.778407,45.653629,13.778407,45.653629],
+  "bbox": [
+    13.778407,
+    45.653629,
+    13.778407,
+    45.653629
+],
   "geometry": {"coordinates":[13.778407,45.653629],"type":"Point"}
 }

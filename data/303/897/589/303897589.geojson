@@ -2,13 +2,14 @@
   "id": 303897589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.946731,44.425663,8.946731,44.425663",
     "geom:latitude":44.425663,
     "geom:longitude":8.946731,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16137 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303897589,
-    "wof:lastmodified":1449000163,
+    "wof:lastmodified":1466298075,
     "wof:name":"Cataldi Pasquale",
     "wof:parent_id":85796885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.946731,44.425663,8.946731,44.425663],
+  "bbox": [
+    8.946731,
+    44.425663,
+    8.946731,
+    44.425663
+],
   "geometry": {"coordinates":[8.946731,44.425663],"type":"Point"}
 }

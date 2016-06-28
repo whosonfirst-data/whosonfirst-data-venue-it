@@ -2,13 +2,14 @@
   "id": 202546469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.190596,45.487499,9.190596,45.487499",
     "geom:latitude":45.487499,
     "geom:longitude":9.190596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202546469,
-    "wof:lastmodified":1449060107,
+    "wof:lastmodified":1466289399,
     "wof:name":"Pannelli Isola Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.190596,45.487499,9.190596,45.487499],
+  "bbox": [
+    9.190596,
+    45.487499,
+    9.190596,
+    45.487499
+],
   "geometry": {"coordinates":[9.190596,45.487499],"type":"Point"}
 }

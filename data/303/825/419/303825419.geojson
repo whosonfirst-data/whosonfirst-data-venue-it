@@ -2,13 +2,14 @@
   "id": 303825419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.475853,41.907558,12.475853,41.907558",
     "geom:latitude":41.907558,
     "geom:longitude":12.475853,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00186 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303825419,
-    "wof:lastmodified":1448998214,
+    "wof:lastmodified":1466297982,
     "wof:name":"Accademia Belle Arti E Liceo Artistico",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.475853,41.907558,12.475853,41.907558],
+  "bbox": [
+    12.475853,
+    41.907558,
+    12.475853,
+    41.907558
+],
   "geometry": {"coordinates":[12.475853,41.907558],"type":"Point"}
 }

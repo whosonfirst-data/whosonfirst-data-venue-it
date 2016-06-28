@@ -2,13 +2,14 @@
   "id": 336830999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.745734,45.004925,11.745734,45.004925",
     "geom:latitude":45.004925,
     "geom:longitude":11.745734,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61/c, Via Stazione 45031 Arqua' Polesine",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336830999,
-    "wof:lastmodified":1448997177,
+    "wof:lastmodified":1466296333,
     "wof:name":"Lu.che",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.745734,45.004925,11.745734,45.004925],
+  "bbox": [
+    11.745734,
+    45.004925,
+    11.745734,
+    45.004925
+],
   "geometry": {"coordinates":[11.745734,45.004925],"type":"Point"}
 }

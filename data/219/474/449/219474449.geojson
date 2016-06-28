@@ -2,13 +2,14 @@
   "id": 219474449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.908286,43.915619,12.908286,43.915619",
     "geom:latitude":43.915619,
     "geom:longitude":12.908286,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219474449,
-    "wof:lastmodified":1449070524,
+    "wof:lastmodified":1466291146,
     "wof:name":"Renco Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.908286,43.915619,12.908286,43.915619],
+  "bbox": [
+    12.908286,
+    43.915619,
+    12.908286,
+    43.915619
+],
   "geometry": {"coordinates":[12.908286,43.915619],"type":"Point"}
 }

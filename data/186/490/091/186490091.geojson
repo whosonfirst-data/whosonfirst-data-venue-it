@@ -2,13 +2,14 @@
   "id": 186490091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.865948,43.833691,10.865948,43.833691",
     "geom:latitude":43.833691,
     "geom:longitude":10.865948,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Biccimurri 172 51036 Larciano",
     "sg:city":"Larciano",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186490091,
-    "wof:lastmodified":1449052747,
+    "wof:lastmodified":1466292186,
     "wof:name":"Lustri Giancarlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broom"
     ]
 },
-  "bbox": [10.865948,43.833691,10.865948,43.833691],
+  "bbox": [
+    10.865948,
+    43.833691,
+    10.865948,
+    43.833691
+],
   "geometry": {"coordinates":[10.865948,43.833691],"type":"Point"}
 }

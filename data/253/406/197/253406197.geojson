@@ -2,13 +2,14 @@
   "id": 253406197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.860903,43.904942,12.860903,43.904942",
     "geom:latitude":43.904942,
     "geom:longitude":12.860903,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"88, Via Degli Abeti 61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253406197,
-    "wof:lastmodified":1449064413,
+    "wof:lastmodified":1466293476,
     "wof:name":"Tema S.a.s. Di Travaglini Cinzia & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [12.860903,43.904942,12.860903,43.904942],
+  "bbox": [
+    12.860903,
+    43.904942,
+    12.860903,
+    43.904942
+],
   "geometry": {"coordinates":[12.860903,43.904942],"type":"Point"}
 }

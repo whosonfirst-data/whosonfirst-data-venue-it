@@ -2,13 +2,14 @@
   "id": 270396953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.516633,45.442268,10.516633,45.442268",
     "geom:latitude":45.442268,
     "geom:longitude":10.516633,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"25015 Desenzano Del Garda",
     "sg:city":"Desenzano del Garda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270396953,
-    "wof:lastmodified":1449010269,
+    "wof:lastmodified":1466293833,
     "wof:name":"Bollani Srl - Sunrise Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.516633,45.442268,10.516633,45.442268],
+  "bbox": [
+    10.516633,
+    45.442268,
+    10.516633,
+    45.442268
+],
   "geometry": {"coordinates":[10.516633,45.442268],"type":"Point"}
 }

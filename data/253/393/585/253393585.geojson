@@ -2,13 +2,14 @@
   "id": 253393585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.26878,45.402855,11.26878,45.402855",
     "geom:latitude":45.402855,
     "geom:longitude":11.26878,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"73, Via Villanova 37047 San Bonifacio",
     "sg:city":"San Bonifacio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253393585,
-    "wof:lastmodified":1449063754,
+    "wof:lastmodified":1466293335,
     "wof:name":"Menotti Specchia (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [11.26878,45.402855,11.26878,45.402855],
+  "bbox": [
+    11.26878,
+    45.402855,
+    11.26878,
+    45.402855
+],
   "geometry": {"coordinates":[11.26878,45.402855],"type":"Point"}
 }

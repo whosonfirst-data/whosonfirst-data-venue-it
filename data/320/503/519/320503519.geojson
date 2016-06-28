@@ -2,13 +2,14 @@
   "id": 320503519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.81831,45.695568,8.81831,45.695568",
     "geom:latitude":45.695568,
     "geom:longitude":8.81831,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21040 Santo Stefano",
     "sg:city":"Santo Stefano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320503519,
-    "wof:lastmodified":1449014982,
+    "wof:lastmodified":1466297606,
     "wof:name":"Sac Di Stocco Daniele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.81831,45.695568,8.81831,45.695568],
+  "bbox": [
+    8.81831,
+    45.695568,
+    8.81831,
+    45.695568
+],
   "geometry": {"coordinates":[8.81831,45.695568],"type":"Point"}
 }

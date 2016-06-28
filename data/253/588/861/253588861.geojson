@@ -2,13 +2,14 @@
   "id": 253588861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.511775,43.579685,11.511775,43.579685",
     "geom:latitude":43.579685,
     "geom:longitude":11.511775,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Matilde Serao 20 50063 Figline Valdarno",
     "sg:city":"Figline Valdarno",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253588861,
-    "wof:lastmodified":1449065186,
+    "wof:lastmodified":1466295813,
     "wof:name":"Center Italy S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.511775,43.579685,11.511775,43.579685],
+  "bbox": [
+    11.511775,
+    43.579685,
+    11.511775,
+    43.579685
+],
   "geometry": {"coordinates":[11.511775,43.579685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186387601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.710837,42.947975,12.710837,42.947975",
     "geom:latitude":42.947975,
     "geom:longitude":12.710837,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 38 06034 Foligno",
     "sg:city":"Foligno",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186387601,
-    "wof:lastmodified":1449052654,
+    "wof:lastmodified":1466291243,
     "wof:name":"Muzzi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit"
     ]
 },
-  "bbox": [12.710837,42.947975,12.710837,42.947975],
+  "bbox": [
+    12.710837,
+    42.947975,
+    12.710837,
+    42.947975
+],
   "geometry": {"coordinates":[12.710837,42.947975],"type":"Point"}
 }

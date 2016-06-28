@@ -2,13 +2,14 @@
   "id": 269669081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.529498,38.027107,12.529498,38.027107",
     "geom:latitude":38.027107,
     "geom:longitude":12.529498,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Valenza 31 91100 Trapani",
     "sg:city":"Trapani",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269669081,
-    "wof:lastmodified":1449036418,
+    "wof:lastmodified":1466291199,
     "wof:name":"Arti Grafiche Corrao Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "imprint"
     ]
 },
-  "bbox": [12.529498,38.027107,12.529498,38.027107],
+  "bbox": [
+    12.529498,
+    38.027107,
+    12.529498,
+    38.027107
+],
   "geometry": {"coordinates":[12.529498,38.027107],"type":"Point"}
 }

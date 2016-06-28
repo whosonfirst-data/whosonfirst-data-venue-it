@@ -2,13 +2,14 @@
   "id": 186510653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.195161,45.464588,9.195161,45.464588",
     "geom:latitude":45.464588,
     "geom:longitude":9.195161,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Galleria Del Corso 20122 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186510653,
-    "wof:lastmodified":1449051973,
+    "wof:lastmodified":1466292399,
     "wof:name":"U.n.c.l.a.",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [9.195161,45.464588,9.195161,45.464588],
+  "bbox": [
+    9.195161,
+    45.464588,
+    9.195161,
+    45.464588
+],
   "geometry": {"coordinates":[9.195161,45.464588],"type":"Point"}
 }

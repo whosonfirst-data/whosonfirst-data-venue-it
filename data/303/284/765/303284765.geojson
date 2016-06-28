@@ -2,13 +2,14 @@
   "id": 303284765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.953965,45.355495,11.953965,45.355495",
     "geom:latitude":45.355495,
     "geom:longitude":11.953965,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"35020 Legnaro",
     "sg:city":"Legnaro",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303284765,
-    "wof:lastmodified":1448999639,
+    "wof:lastmodified":1466294034,
     "wof:name":"Cevese Ing. Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "works"
     ]
 },
-  "bbox": [11.953965,45.355495,11.953965,45.355495],
+  "bbox": [
+    11.953965,
+    45.355495,
+    11.953965,
+    45.355495
+],
   "geometry": {"coordinates":[11.953965,45.355495],"type":"Point"}
 }

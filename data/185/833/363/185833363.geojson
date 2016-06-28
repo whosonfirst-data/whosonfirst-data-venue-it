@@ -2,13 +2,14 @@
   "id": 185833363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.914199,45.02153,11.914199,45.02153",
     "geom:latitude":45.02153,
     "geom:longitude":11.914199,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via C. Matteotti, 102; Gavello; 45010",
     "sg:city":"Gavello",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185833363,
-    "wof:lastmodified":1449006805,
+    "wof:lastmodified":1466289497,
     "wof:name":"Banca Popolare Veneta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.914199,45.02153,11.914199,45.02153],
+  "bbox": [
+    11.914199,
+    45.02153,
+    11.914199,
+    45.02153
+],
   "geometry": {"coordinates":[11.914199,45.02153],"type":"Point"}
 }

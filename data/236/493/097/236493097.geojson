@@ -2,13 +2,14 @@
   "id": 236493097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.139861,44.719398,11.139861,44.719398",
     "geom:latitude":44.719398,
     "geom:longitude":11.139861,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Panerazzi 753 40014 Crevalcore",
     "sg:city":"Crevalcore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236493097,
-    "wof:lastmodified":1449002538,
+    "wof:lastmodified":1466293995,
     "wof:name":"Magia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.139861,44.719398,11.139861,44.719398],
+  "bbox": [
+    11.139861,
+    44.719398,
+    11.139861,
+    44.719398
+],
   "geometry": {"coordinates":[11.139861,44.719398],"type":"Point"}
 }

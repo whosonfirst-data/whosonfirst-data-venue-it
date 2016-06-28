@@ -2,13 +2,14 @@
   "id": 303892315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.326725,44.316952,9.326725,44.316952",
     "geom:latitude":44.316952,
     "geom:longitude":9.326725,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16043 Chiavari",
     "sg:city":"Chiavari",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303892315,
-    "wof:lastmodified":1448998481,
+    "wof:lastmodified":1466298052,
     "wof:name":"Me.co. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.326725,44.316952,9.326725,44.316952],
+  "bbox": [
+    9.326725,
+    44.316952,
+    9.326725,
+    44.316952
+],
   "geometry": {"coordinates":[9.326725,44.316952],"type":"Point"}
 }

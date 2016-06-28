@@ -2,13 +2,14 @@
   "id": 269974789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.625685,45.464268,8.625685,45.464268",
     "geom:latitude":45.464268,
     "geom:longitude":8.625685,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":269974789,
-    "wof:lastmodified":1449038539,
+    "wof:lastmodified":1466294969,
     "wof:name":"Hotel Victoria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.625685,45.464268,8.625685,45.464268],
+  "bbox": [
+    8.625685,
+    45.464268,
+    8.625685,
+    45.464268
+],
   "geometry": {"coordinates":[8.625685,45.464268],"type":"Point"}
 }

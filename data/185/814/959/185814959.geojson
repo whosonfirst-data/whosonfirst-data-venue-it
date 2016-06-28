@@ -2,13 +2,14 @@
   "id": 185814959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.650206,46.16489,9.650206,46.16489",
     "geom:latitude":46.16489,
     "geom:longitude":9.650206,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Liberta; Ardenno; 23011",
     "sg:city":"Ardenno",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185814959,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466289381,
     "wof:name":"Banca Popolare Di Sondrio Scarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.650206,46.16489,9.650206,46.16489],
+  "bbox": [
+    9.650206,
+    46.16489,
+    9.650206,
+    46.16489
+],
   "geometry": {"coordinates":[9.650206,46.16489],"type":"Point"}
 }

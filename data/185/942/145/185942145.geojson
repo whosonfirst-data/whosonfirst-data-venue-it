@@ -2,13 +2,14 @@
   "id": 185942145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.444829,45.821114,13.444829,45.821114",
     "geom:latitude":45.821114,
     "geom:longitude":13.444829,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma 1, 34070 Turriaco, Go",
     "sg:city":"Turriaco",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185942145,
-    "wof:lastmodified":1449007355,
+    "wof:lastmodified":1466290377,
     "wof:name":"Bcc Di Turriaco Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.444829,45.821114,13.444829,45.821114],
+  "bbox": [
+    13.444829,
+    45.821114,
+    13.444829,
+    45.821114
+],
   "geometry": {"coordinates":[13.444829,45.821114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253420825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.28991,45.654152,12.28991,45.654152",
     "geom:latitude":45.654152,
     "geom:longitude":12.28991,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Treviso 24 31057 Silea",
     "sg:city":"Silea",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253420825,
-    "wof:lastmodified":1449064238,
+    "wof:lastmodified":1466293636,
     "wof:name":"Sabina Sas Di Conte Silvano & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "infant"
     ]
 },
-  "bbox": [12.28991,45.654152,12.28991,45.654152],
+  "bbox": [
+    12.28991,
+    45.654152,
+    12.28991,
+    45.654152
+],
   "geometry": {"coordinates":[12.28991,45.654152],"type":"Point"}
 }

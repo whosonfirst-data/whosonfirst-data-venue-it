@@ -2,13 +2,14 @@
   "id": 253579979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.778643,44.328041,11.778643,44.328041",
     "geom:latitude":44.328041,
     "geom:longitude":11.778643,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Emilia Ponente 1120 48014 Castel Bolognese",
     "sg:city":"Castel Bolognese",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253579979,
-    "wof:lastmodified":1449063767,
+    "wof:lastmodified":1466295696,
     "wof:name":"Iteco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [11.778643,44.328041,11.778643,44.328041],
+  "bbox": [
+    11.778643,
+    44.328041,
+    11.778643,
+    44.328041
+],
   "geometry": {"coordinates":[11.778643,44.328041],"type":"Point"}
 }

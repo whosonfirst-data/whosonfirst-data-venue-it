@@ -2,13 +2,14 @@
   "id": 202810813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.532684,41.899086,12.532684,41.899086",
     "geom:latitude":41.899086,
     "geom:longitude":12.532684,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00159 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202810813,
-    "wof:lastmodified":1449060857,
+    "wof:lastmodified":1466292312,
     "wof:name":"La Rinascente Spa",
     "wof:parent_id":85904931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.532684,41.899086,12.532684,41.899086],
+  "bbox": [
+    12.532684,
+    41.899086,
+    12.532684,
+    41.899086
+],
   "geometry": {"coordinates":[12.532684,41.899086],"type":"Point"}
 }

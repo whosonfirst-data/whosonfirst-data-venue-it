@@ -2,13 +2,14 @@
   "id": 320190169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.013752,44.677814,11.013752,44.677814",
     "geom:latitude":44.677814,
     "geom:longitude":11.013752,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41015 Campazzo",
     "sg:city":"Campazzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320190169,
-    "wof:lastmodified":1449014721,
+    "wof:lastmodified":1466295695,
     "wof:name":"Fondac (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.013752,44.677814,11.013752,44.677814],
+  "bbox": [
+    11.013752,
+    44.677814,
+    11.013752,
+    44.677814
+],
   "geometry": {"coordinates":[11.013752,44.677814],"type":"Point"}
 }

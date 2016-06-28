@@ -2,13 +2,14 @@
   "id": 270323705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.025791,45.610203,8.025791,45.610203",
     "geom:latitude":45.610203,
     "geom:longitude":8.025791,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"13899 Sant'eurosia",
     "sg:classifiers":[],
     "sg:orig_category":"Cartotecnica E Servizi. Forniture Per Attivita' Commerciali Ed Artigianali",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":270323705,
-    "wof:lastmodified":1449008863,
+    "wof:lastmodified":1466292926,
     "wof:name":"Antoniotti Cinzia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.025791,45.610203,8.025791,45.610203],
+  "bbox": [
+    8.025791,
+    45.610203,
+    8.025791,
+    45.610203
+],
   "geometry": {"coordinates":[8.025791,45.610203],"type":"Point"}
 }

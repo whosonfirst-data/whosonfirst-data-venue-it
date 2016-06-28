@@ -2,13 +2,14 @@
   "id": 270194057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.134511,45.333347,12.134511,45.333347",
     "geom:latitude":45.333347,
     "geom:longitude":12.134511,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"30015 Chioggia",
     "sg:city":"Chioggia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270194057,
-    "wof:lastmodified":1449010730,
+    "wof:lastmodified":1466291318,
     "wof:name":"Despa Mar (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.134511,45.333347,12.134511,45.333347],
+  "bbox": [
+    12.134511,
+    45.333347,
+    12.134511,
+    45.333347
+],
   "geometry": {"coordinates":[12.134511,45.333347],"type":"Point"}
 }

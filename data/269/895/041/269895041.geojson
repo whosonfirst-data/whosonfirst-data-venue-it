@@ -2,13 +2,14 @@
   "id": 269895041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.012134,43.90971,11.012134,43.90971",
     "geom:latitude":43.90971,
     "geom:longitude":11.012134,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47/a, V. V. Alfieri51037 Montale",
     "sg:city":"Montale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269895041,
-    "wof:lastmodified":1449037146,
+    "wof:lastmodified":1466294080,
     "wof:name":"Gheri Vivai Piante S.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"
     ]
 },
-  "bbox": [11.012134,43.90971,11.012134,43.90971],
+  "bbox": [
+    11.012134,
+    43.90971,
+    11.012134,
+    43.90971
+],
   "geometry": {"coordinates":[11.012134,43.90971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303391405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.64216,44.975452,7.64216,44.975452",
     "geom:latitude":44.975452,
     "geom:longitude":7.64216,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10042 Nichelino",
     "sg:city":"Nichelino",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303391405,
-    "wof:lastmodified":1448999682,
+    "wof:lastmodified":1466295331,
     "wof:name":"Auno Security Srl",
     "wof:parent_id":85797007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.64216,44.975452,7.64216,44.975452],
+  "bbox": [
+    7.64216,
+    44.975452,
+    7.64216,
+    44.975452
+],
   "geometry": {"coordinates":[7.64216,44.975452],"type":"Point"}
 }

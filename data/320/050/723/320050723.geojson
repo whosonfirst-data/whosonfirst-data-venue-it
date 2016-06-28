@@ -2,13 +2,14 @@
   "id": 320050723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.332371,41.052814,14.332371,41.052814",
     "geom:latitude":41.052814,
     "geom:longitude":14.332371,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"81020 San Nicola La Strada",
     "sg:city":"San Nicola la Strada",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320050723,
-    "wof:lastmodified":1449013322,
+    "wof:lastmodified":1466294019,
     "wof:name":"Ideco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.332371,41.052814,14.332371,41.052814],
+  "bbox": [
+    14.332371,
+    41.052814,
+    14.332371,
+    41.052814
+],
   "geometry": {"coordinates":[14.332371,41.052814],"type":"Point"}
 }

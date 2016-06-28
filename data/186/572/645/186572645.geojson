@@ -2,13 +2,14 @@
   "id": 186572645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.370703,44.240059,12.370703,44.240059",
     "geom:latitude":44.240059,
     "geom:longitude":12.370703,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"368, Viale Italia 48015 Cervia",
     "sg:city":"Cervia",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186572645,
-    "wof:lastmodified":1449052000,
+    "wof:lastmodified":1466293008,
     "wof:name":"Ristorante Pizzeria Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [12.370703,44.240059,12.370703,44.240059],
+  "bbox": [
+    12.370703,
+    44.240059,
+    12.370703,
+    44.240059
+],
   "geometry": {"coordinates":[12.370703,44.240059],"type":"Point"}
 }

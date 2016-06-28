@@ -2,13 +2,14 @@
   "id": 185668321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.702618,40.275826,15.702618,40.275826",
     "geom:latitude":40.275826,
     "geom:longitude":15.702618,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"V. Cestari, 8; Montesano; 84033",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185668321,
-    "wof:lastmodified":1449007710,
+    "wof:lastmodified":1466295239,
     "wof:name":"Banca Di Lucania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.702618,40.275826,15.702618,40.275826],
+  "bbox": [
+    15.702618,
+    40.275826,
+    15.702618,
+    40.275826
+],
   "geometry": {"coordinates":[15.702618,40.275826],"type":"Point"}
 }

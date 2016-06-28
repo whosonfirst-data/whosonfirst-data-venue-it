@@ -2,13 +2,14 @@
   "id": 286716761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.267175,46.461433,11.267175,46.461433",
     "geom:latitude":46.461433,
     "geom:longitude":11.267175,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Via Artigiani S. Michele 39057 Appiano Sulla Strada Del Vino",
     "sg:city":"Appiano sulla strada del vino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286716761,
-    "wof:lastmodified":1449015587,
+    "wof:lastmodified":1466295417,
     "wof:name":"Sportbau (s.r.l. - G.m.b.h.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [11.267175,46.461433,11.267175,46.461433],
+  "bbox": [
+    11.267175,
+    46.461433,
+    11.267175,
+    46.461433
+],
   "geometry": {"coordinates":[11.267175,46.461433],"type":"Point"}
 }

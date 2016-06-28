@@ -2,13 +2,14 @@
   "id": 253351497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.743104,45.68597,9.743104,45.68597",
     "geom:latitude":45.68597,
     "geom:longitude":9.743104,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Comonte 24068 Seriate",
     "sg:city":"Seriate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253351497,
-    "wof:lastmodified":1449065331,
+    "wof:lastmodified":1466292867,
     "wof:name":"Arco Di Del Prato Luigi & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [9.743104,45.68597,9.743104,45.68597],
+  "bbox": [
+    9.743104,
+    45.68597,
+    9.743104,
+    45.68597
+],
   "geometry": {"coordinates":[9.743104,45.68597],"type":"Point"}
 }

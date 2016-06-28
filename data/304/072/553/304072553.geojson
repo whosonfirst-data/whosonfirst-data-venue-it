@@ -2,13 +2,14 @@
   "id": 304072553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.447388,44.843929,10.447388,44.843929",
     "geom:latitude":44.843929,
     "geom:longitude":10.447388,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Via Meucci 43058 Sorbolo",
     "sg:city":"Sorbolo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304072553,
-    "wof:lastmodified":1449043885,
+    "wof:lastmodified":1466293157,
     "wof:name":"Ital C.i.d.a. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [10.447388,44.843929,10.447388,44.843929],
+  "bbox": [
+    10.447388,
+    44.843929,
+    10.447388,
+    44.843929
+],
   "geometry": {"coordinates":[10.447388,44.843929],"type":"Point"}
 }

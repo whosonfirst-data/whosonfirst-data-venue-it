@@ -2,13 +2,14 @@
   "id": 253453709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.547076,44.726746,10.547076,44.726746",
     "geom:latitude":44.726746,
     "geom:longitude":10.547076,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42100 Reggio Emilia",
     "sg:classifiers":[],
     "sg:orig_category":"Valvole E Apparecchiature Di Misura. Macchine, Strumenti Ed Apparecchi Per Attivita' Industriali",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253453709,
-    "wof:lastmodified":1449065039,
+    "wof:lastmodified":1466294053,
     "wof:name":"Bacc Di Barbiero Mario E C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.547076,44.726746,10.547076,44.726746],
+  "bbox": [
+    10.547076,
+    44.726746,
+    10.547076,
+    44.726746
+],
   "geometry": {"coordinates":[10.547076,44.726746],"type":"Point"}
 }

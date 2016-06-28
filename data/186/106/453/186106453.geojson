@@ -2,13 +2,14 @@
   "id": 186106453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.862873,42.402851,12.862873,42.402851",
     "geom:latitude":42.402851,
     "geom:longitude":12.862873,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Garibaldi 262, Rieti, Ri",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186106453,
-    "wof:lastmodified":1449050211,
+    "wof:lastmodified":1466296121,
     "wof:name":"Fondazione Cariri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.862873,42.402851,12.862873,42.402851],
+  "bbox": [
+    12.862873,
+    42.402851,
+    12.862873,
+    42.402851
+],
   "geometry": {"coordinates":[12.862873,42.402851],"type":"Point"}
 }

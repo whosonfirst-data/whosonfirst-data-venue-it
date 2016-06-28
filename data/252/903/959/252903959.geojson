@@ -2,13 +2,14 @@
   "id": 252903959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.710817,44.992268,7.710817,44.992268",
     "geom:latitude":44.992268,
     "geom:longitude":7.710817,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":252903959,
-    "wof:lastmodified":1449005474,
+    "wof:lastmodified":1466291070,
     "wof:name":"Modit Snc Di A. Scardilli & V. Zamengo",
     "wof:parent_id":85797011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.710817,44.992268,7.710817,44.992268],
+  "bbox": [
+    7.710817,
+    44.992268,
+    7.710817,
+    44.992268
+],
   "geometry": {"coordinates":[7.710817,44.992268],"type":"Point"}
 }

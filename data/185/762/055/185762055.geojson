@@ -2,13 +2,14 @@
   "id": 185762055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.226582,45.497963,9.226582,45.497963",
     "geom:latitude":45.497963,
     "geom:longitude":9.226582,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Largo Cairoli 5; Milano",
     "sg:classifiers":[
         {
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185762055,
-    "wof:lastmodified":1449007737,
+    "wof:lastmodified":1466289034,
     "wof:name":"Banca Popolare Dell'adriatico Spa",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.226582,45.497963,9.226582,45.497963],
+  "bbox": [
+    9.226582,
+    45.497963,
+    9.226582,
+    45.497963
+],
   "geometry": {"coordinates":[9.226582,45.497963],"type":"Point"}
 }

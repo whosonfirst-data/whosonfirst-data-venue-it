@@ -2,13 +2,14 @@
   "id": 253219283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.274437,45.413292,9.274437,45.413292",
     "geom:latitude":45.413292,
     "geom:longitude":9.274437,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"6/8, Via Europa 20085 Locate Di Triulzi",
     "sg:city":"Locate di Triulzi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253219283,
-    "wof:lastmodified":1449065675,
+    "wof:lastmodified":1466291183,
     "wof:name":"O.v.i.t. (s.a.s.)",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "instrument"
     ]
 },
-  "bbox": [9.274437,45.413292,9.274437,45.413292],
+  "bbox": [
+    9.274437,
+    45.413292,
+    9.274437,
+    45.413292
+],
   "geometry": {"coordinates":[9.274437,45.413292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269961591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.6467,44.009892,12.6467,44.009892",
     "geom:latitude":44.009892,
     "geom:longitude":12.6467,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47838 Riccione",
     "sg:city":"Riccione",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":269961591,
-    "wof:lastmodified":1449038897,
+    "wof:lastmodified":1466294833,
     "wof:name":"Hotel Ginevra Di Canaveral Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.6467,44.009892,12.6467,44.009892],
+  "bbox": [
+    12.6467,
+    44.009892,
+    12.6467,
+    44.009892
+],
   "geometry": {"coordinates":[12.6467,44.009892],"type":"Point"}
 }

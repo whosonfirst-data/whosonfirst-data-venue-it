@@ -2,13 +2,14 @@
   "id": 253360729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.691846,44.882374,8.691846,44.882374",
     "geom:latitude":44.882374,
     "geom:longitude":8.691846,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"74, Via Tortona 15100 Alessandria",
     "sg:city":"Alessandria",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253360729,
-    "wof:lastmodified":1449065080,
+    "wof:lastmodified":1466292970,
     "wof:name":"Sugherificio Canepari (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [8.691846,44.882374,8.691846,44.882374],
+  "bbox": [
+    8.691846,
+    44.882374,
+    8.691846,
+    44.882374
+],
   "geometry": {"coordinates":[8.691846,44.882374],"type":"Point"}
 }

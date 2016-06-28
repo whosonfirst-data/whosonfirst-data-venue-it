@@ -2,13 +2,14 @@
   "id": 286296919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.273171,45.53421,9.273171,45.53421",
     "geom:latitude":45.53421,
     "geom:longitude":9.273171,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, V. Michelangelo Buonarroti 20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286296919,
-    "wof:lastmodified":1449017577,
+    "wof:lastmodified":1466289903,
     "wof:name":"Janssen-cilag Spa",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.273171,45.53421,9.273171,45.53421],
+  "bbox": [
+    9.273171,
+    45.53421,
+    9.273171,
+    45.53421
+],
   "geometry": {"coordinates":[9.273171,45.53421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185797653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.74615,45.839485,8.74615,45.839485",
     "geom:latitude":45.839485,
     "geom:longitude":8.74615,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Al Lago, 2; Comerio; 21025",
     "sg:city":"Comerio",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185797653,
-    "wof:lastmodified":1449008063,
+    "wof:lastmodified":1466289264,
     "wof:name":"Banca Popolare Di Luino E Di Varese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.74615,45.839485,8.74615,45.839485],
+  "bbox": [
+    8.74615,
+    45.839485,
+    8.74615,
+    45.839485
+],
   "geometry": {"coordinates":[8.74615,45.839485],"type":"Point"}
 }

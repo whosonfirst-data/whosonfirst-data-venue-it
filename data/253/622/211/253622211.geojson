@@ -2,13 +2,14 @@
   "id": 253622211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.205561,46.202808,13.205561,46.202808",
     "geom:latitude":46.202808,
     "geom:longitude":13.205561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Udine 103 33017 Tarcento",
     "sg:city":"Tarcento",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253622211,
-    "wof:lastmodified":1449065234,
+    "wof:lastmodified":1466296212,
     "wof:name":"S.i.m.a.c. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "laminating"
     ]
 },
-  "bbox": [13.205561,46.202808,13.205561,46.202808],
+  "bbox": [
+    13.205561,
+    46.202808,
+    13.205561,
+    46.202808
+],
   "geometry": {"coordinates":[13.205561,46.202808],"type":"Point"}
 }

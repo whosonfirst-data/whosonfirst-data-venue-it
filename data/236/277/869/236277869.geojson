@@ -2,13 +2,14 @@
   "id": 236277869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.421521,45.89238,9.421521,45.89238",
     "geom:latitude":45.89238,
     "geom:longitude":9.421521,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23847 Molteno",
     "sg:city":"Molteno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236277869,
-    "wof:lastmodified":1449001960,
+    "wof:lastmodified":1466291709,
     "wof:name":"Colombo Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.421521,45.89238,9.421521,45.89238],
+  "bbox": [
+    9.421521,
+    45.89238,
+    9.421521,
+    45.89238
+],
   "geometry": {"coordinates":[9.421521,45.89238],"type":"Point"}
 }

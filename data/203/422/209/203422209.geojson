@@ -2,13 +2,14 @@
   "id": 203422209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.915895,41.117226,14.915895,41.117226",
     "geom:latitude":41.117226,
     "geom:longitude":14.915895,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"82021 Apice",
     "sg:city":"Apice",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203422209,
-    "wof:lastmodified":1449025075,
+    "wof:lastmodified":1466292328,
     "wof:name":"Fantasylandia Di Porcelli Stefania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.915895,41.117226,14.915895,41.117226],
+  "bbox": [
+    14.915895,
+    41.117226,
+    14.915895,
+    41.117226
+],
   "geometry": {"coordinates":[14.915895,41.117226],"type":"Point"}
 }

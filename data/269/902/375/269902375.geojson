@@ -2,13 +2,14 @@
   "id": 269902375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.269526,42.546997,11.269526,42.546997",
     "geom:latitude":42.546997,
     "geom:longitude":11.269526,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"58015 Orbetello",
     "sg:city":"Orbetello",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269902375,
-    "wof:lastmodified":1449038069,
+    "wof:lastmodified":1466294163,
     "wof:name":"Mates Piante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agriculture"
     ]
 },
-  "bbox": [11.269526,42.546997,11.269526,42.546997],
+  "bbox": [
+    11.269526,
+    42.546997,
+    11.269526,
+    42.546997
+],
   "geometry": {"coordinates":[11.269526,42.546997],"type":"Point"}
 }

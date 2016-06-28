@@ -2,13 +2,14 @@
   "id": 303572325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.560265,32.558254,-86.560265,32.558254",
     "geom:latitude":32.558254,
     "geom:longitude":-86.560265,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36067 Cassola",
     "sg:classifiers":[],
     "sg:orig_category":"Argenteria - Lavorazione E Ingrosso",
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":303572325,
-    "wof:lastmodified":1448999618,
+    "wof:lastmodified":1466297047,
     "wof:name":"Karizia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.560265,32.558254,-86.560265,32.558254],
+  "bbox": [
+    -86.560265,
+    32.558254,
+    -86.560265,
+    32.558254
+],
   "geometry": {"coordinates":[-86.560265,32.558254],"type":"Point"}
 }

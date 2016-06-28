@@ -2,13 +2,14 @@
   "id": 253219321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.921176,45.481285,10.921176,45.481285",
     "geom:latitude":45.481285,
     "geom:longitude":10.921176,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Via Mirandola 37026 Pescantina",
     "sg:city":"Pescantina",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253219321,
-    "wof:lastmodified":1449065675,
+    "wof:lastmodified":1466291184,
     "wof:name":"Konus Italia Group S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "instrument"
     ]
 },
-  "bbox": [10.921176,45.481285,10.921176,45.481285],
+  "bbox": [
+    10.921176,
+    45.481285,
+    10.921176,
+    45.481285
+],
   "geometry": {"coordinates":[10.921176,45.481285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304082719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.603436,44.869839,11.603436,44.869839",
     "geom:latitude":44.869839,
     "geom:longitude":11.603436,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Via Del Commercio 44100 Ferrara",
     "sg:city":"Ferrara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304082719,
-    "wof:lastmodified":1449043602,
+    "wof:lastmodified":1466293292,
     "wof:name":"Suono & Immagine S.n.c. Di Franco Davide & Vitali Fabrizio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [11.603436,44.869839,11.603436,44.869839],
+  "bbox": [
+    11.603436,
+    44.869839,
+    11.603436,
+    44.869839
+],
   "geometry": {"coordinates":[11.603436,44.869839],"type":"Point"}
 }

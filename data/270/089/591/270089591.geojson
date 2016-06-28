@@ -2,13 +2,14 @@
   "id": 270089591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.446912,38.241989,15.446912,38.241989",
     "geom:latitude":38.241989,
     "geom:longitude":15.446912,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98049 Villafranca Tirrena",
     "sg:city":"Villafranca Tirrena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270089591,
-    "wof:lastmodified":1449009124,
+    "wof:lastmodified":1466290088,
     "wof:name":"Sabri Di Giangreco Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.446912,38.241989,15.446912,38.241989],
+  "bbox": [
+    15.446912,
+    38.241989,
+    15.446912,
+    38.241989
+],
   "geometry": {"coordinates":[15.446912,38.241989],"type":"Point"}
 }

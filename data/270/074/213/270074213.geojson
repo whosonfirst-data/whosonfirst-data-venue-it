@@ -2,13 +2,14 @@
   "id": 270074213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.079757,41.125721,15.079757,41.125721",
     "geom:latitude":41.125721,
     "geom:longitude":15.079757,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"83031 Ariano Irpino",
     "sg:city":"Ariano Irpino",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":270074213,
-    "wof:lastmodified":1449009960,
+    "wof:lastmodified":1466289869,
     "wof:name":"Simon Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.079757,41.125721,15.079757,41.125721],
+  "bbox": [
+    15.079757,
+    41.125721,
+    15.079757,
+    41.125721
+],
   "geometry": {"coordinates":[15.079757,41.125721],"type":"Point"}
 }

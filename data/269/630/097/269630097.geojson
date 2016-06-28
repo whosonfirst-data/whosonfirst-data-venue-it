@@ -2,13 +2,14 @@
   "id": 269630097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.481596,44.753925,10.481596,44.753925",
     "geom:latitude":44.753925,
     "geom:longitude":10.481596,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via A. Volta 9 42040 Calerno",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269630097,
-    "wof:lastmodified":1449036989,
+    "wof:lastmodified":1466290693,
     "wof:name":"Tea Srl Tecnologie Elettromeccanich E Automazioni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "truck"
     ]
 },
-  "bbox": [10.481596,44.753925,10.481596,44.753925],
+  "bbox": [
+    10.481596,
+    44.753925,
+    10.481596,
+    44.753925
+],
   "geometry": {"coordinates":[10.481596,44.753925],"type":"Point"}
 }

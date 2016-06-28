@@ -2,13 +2,14 @@
   "id": 186519553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.913984,45.803417,11.913984,45.803417",
     "geom:latitude":45.803417,
     "geom:longitude":11.913984,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"43, Via Collegio 31011 Asolo",
     "sg:city":"Asolo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186519553,
-    "wof:lastmodified":1449052853,
+    "wof:lastmodified":1466292493,
     "wof:name":"Albergo Al Sole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [11.913984,45.803417,11.913984,45.803417],
+  "bbox": [
+    11.913984,
+    45.803417,
+    11.913984,
+    45.803417
+],
   "geometry": {"coordinates":[11.913984,45.803417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219190139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.959362,41.094574,16.959362,41.094574",
     "geom:latitude":41.094574,
     "geom:longitude":16.959362,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"70045 Torre A Mare",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi Per Lo Sport E Il Tempo Libero. Servizi Ausiliari Dei Mezzi Di Trasporto",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219190139,
-    "wof:lastmodified":1449073683,
+    "wof:lastmodified":1466294932,
     "wof:name":"Neviera Vito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.959362,41.094574,16.959362,41.094574],
+  "bbox": [
+    16.959362,
+    41.094574,
+    16.959362,
+    41.094574
+],
   "geometry": {"coordinates":[16.959362,41.094574],"type":"Point"}
 }

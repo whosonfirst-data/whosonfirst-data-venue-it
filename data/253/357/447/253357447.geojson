@@ -2,13 +2,14 @@
   "id": 253357447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.832051,37.660141,14.832051,37.660141",
     "geom:latitude":37.660141,
     "geom:longitude":14.832051,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Contrada Naviccia 95031 Adrano",
     "sg:city":"Adrano",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253357447,
-    "wof:lastmodified":1449065412,
+    "wof:lastmodified":1466292935,
     "wof:name":"Gielle Imballaggi Di Lanza Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [14.832051,37.660141,14.832051,37.660141],
+  "bbox": [
+    14.832051,
+    37.660141,
+    14.832051,
+    37.660141
+],
   "geometry": {"coordinates":[14.832051,37.660141],"type":"Point"}
 }

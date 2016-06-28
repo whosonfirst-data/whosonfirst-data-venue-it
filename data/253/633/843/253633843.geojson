@@ -2,13 +2,14 @@
   "id": 253633843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.146075,45.481091,9.146075,45.481091",
     "geom:latitude":45.481091,
     "geom:longitude":9.146075,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20148 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253633843,
-    "wof:lastmodified":1449065784,
+    "wof:lastmodified":1466296424,
     "wof:name":"Alter Ego Service",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.146075,45.481091,9.146075,45.481091],
+  "bbox": [
+    9.146075,
+    45.481091,
+    9.146075,
+    45.481091
+],
   "geometry": {"coordinates":[9.146075,45.481091],"type":"Point"}
 }

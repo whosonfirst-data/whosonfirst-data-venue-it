@@ -2,13 +2,14 @@
   "id": 286342347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.357749,45.495842,10.357749,45.495842",
     "geom:latitude":45.495842,
     "geom:longitude":10.357749,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Nicolo' Tartaglia 25080 Mazzano",
     "sg:city":"Mazzano",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286342347,
-    "wof:lastmodified":1449017880,
+    "wof:lastmodified":1466290589,
     "wof:name":"B.m.z. Di Montanari, Zecchi E C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chromium-nickel"
     ]
 },
-  "bbox": [10.357749,45.495842,10.357749,45.495842],
+  "bbox": [
+    10.357749,
+    45.495842,
+    10.357749,
+    45.495842
+],
   "geometry": {"coordinates":[10.357749,45.495842],"type":"Point"}
 }

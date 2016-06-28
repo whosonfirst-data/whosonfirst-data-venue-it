@@ -2,13 +2,14 @@
   "id": 319826347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.03728,42.644005,14.03728,42.644005",
     "geom:latitude":42.644005,
     "geom:longitude":14.03728,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"64026 Roseto Degli Abruzzi",
     "sg:city":"Roseto degli Abruzzi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":319826347,
-    "wof:lastmodified":1449024654,
+    "wof:lastmodified":1466292560,
     "wof:name":"Di Giovannantonio Renato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.03728,42.644005,14.03728,42.644005],
+  "bbox": [
+    14.03728,
+    42.644005,
+    14.03728,
+    42.644005
+],
   "geometry": {"coordinates":[14.03728,42.644005],"type":"Point"}
 }

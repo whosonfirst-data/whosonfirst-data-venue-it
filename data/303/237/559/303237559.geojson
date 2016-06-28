@@ -2,13 +2,14 @@
   "id": 303237559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.771406,45.772537,8.771406,45.772537",
     "geom:latitude":45.772537,
     "geom:longitude":8.771406,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Viale Roma 21020 Daverio",
     "sg:city":"Daverio",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303237559,
-    "wof:lastmodified":1448998177,
+    "wof:lastmodified":1466293445,
     "wof:name":"Metanifera Prealpina Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "energy"
     ]
 },
-  "bbox": [8.771406,45.772537,8.771406,45.772537],
+  "bbox": [
+    8.771406,
+    45.772537,
+    8.771406,
+    45.772537
+],
   "geometry": {"coordinates":[8.771406,45.772537],"type":"Point"}
 }

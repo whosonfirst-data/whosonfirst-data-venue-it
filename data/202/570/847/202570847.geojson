@@ -2,13 +2,14 @@
   "id": 202570847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.786386,38.100933,14.786386,38.100933",
     "geom:latitude":38.100933,
     "geom:longitude":14.786386,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"98051 Barcellona Gotto",
     "sg:classifiers":[],
     "sg:orig_category":"Serramenti Ed Infissi. Prodotti Vari In Metallo",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202570847,
-    "wof:lastmodified":1449061614,
+    "wof:lastmodified":1466289644,
     "wof:name":"Bucca Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.786386,38.100933,14.786386,38.100933],
+  "bbox": [
+    14.786386,
+    38.100933,
+    14.786386,
+    38.100933
+],
   "geometry": {"coordinates":[14.786386,38.100933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253471975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.343785,44.499096,11.343785,44.499096",
     "geom:latitude":44.499096,
     "geom:longitude":11.343785,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Via Dell' Indipendenza 40121 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253471975,
-    "wof:lastmodified":1449064017,
+    "wof:lastmodified":1466294284,
     "wof:name":"Gefer Spa",
     "wof:parent_id":85904597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "transport"
     ]
 },
-  "bbox": [11.343785,44.499096,11.343785,44.499096],
+  "bbox": [
+    11.343785,
+    44.499096,
+    11.343785,
+    44.499096
+],
   "geometry": {"coordinates":[11.343785,44.499096],"type":"Point"}
 }

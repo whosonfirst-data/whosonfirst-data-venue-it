@@ -2,13 +2,14 @@
   "id": 270297997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.714525,45.697475,9.714525,45.697475",
     "geom:latitude":45.697475,
     "geom:longitude":9.714525,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"24020 Gorle",
     "sg:city":"Gorle",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270297997,
-    "wof:lastmodified":1449010222,
+    "wof:lastmodified":1466292583,
     "wof:name":"Rotolificio Bergamasco (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.714525,45.697475,9.714525,45.697475],
+  "bbox": [
+    9.714525,
+    45.697475,
+    9.714525,
+    45.697475
+],
   "geometry": {"coordinates":[9.714525,45.697475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286404869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.871887,45.580921,11.871887,45.580921",
     "geom:latitude":45.580921,
     "geom:longitude":11.871887,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Tremarende 6 35010 Villa Del Conte",
     "sg:city":"Villa del Conte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286404869,
-    "wof:lastmodified":1449017148,
+    "wof:lastmodified":1466291543,
     "wof:name":"Al.ce Costruzioni Idropulitrici Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [11.871887,45.580921,11.871887,45.580921],
+  "bbox": [
+    11.871887,
+    45.580921,
+    11.871887,
+    45.580921
+],
   "geometry": {"coordinates":[11.871887,45.580921],"type":"Point"}
 }

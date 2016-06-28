@@ -2,13 +2,14 @@
   "id": 303434553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.45968,41.858383,12.45968,41.858383",
     "geom:latitude":41.858383,
     "geom:longitude":12.45968,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00050 Roma",
     "sg:classifiers":[],
     "sg:orig_category":"Apparecchi, Attrezzature E Forniture Per Centri Estetici. Forniture Per Attivita' Commerciali Ed Artigianali",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303434553,
-    "wof:lastmodified":1448998643,
+    "wof:lastmodified":1466295874,
     "wof:name":"Beauty International 2000",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.45968,41.858383,12.45968,41.858383],
+  "bbox": [
+    12.45968,
+    41.858383,
+    12.45968,
+    41.858383
+],
   "geometry": {"coordinates":[12.45968,41.858383],"type":"Point"}
 }

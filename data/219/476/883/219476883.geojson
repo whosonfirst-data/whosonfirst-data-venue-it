@@ -2,13 +2,14 @@
   "id": 219476883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.802591,44.424965,8.802591,44.424965",
     "geom:latitude":44.424965,
     "geom:longitude":8.802591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16156 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219476883,
-    "wof:lastmodified":1449071816,
+    "wof:lastmodified":1466291175,
     "wof:name":"Damonte Luigi",
     "wof:parent_id":85796839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.802591,44.424965,8.802591,44.424965],
+  "bbox": [
+    8.802591,
+    44.424965,
+    8.802591,
+    44.424965
+],
   "geometry": {"coordinates":[8.802591,44.424965],"type":"Point"}
 }

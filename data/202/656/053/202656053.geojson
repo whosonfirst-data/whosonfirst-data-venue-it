@@ -2,13 +2,14 @@
   "id": 202656053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.227286,45.520962,9.227286,45.520962",
     "geom:latitude":45.520962,
     "geom:longitude":9.227286,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20128 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202656053,
-    "wof:lastmodified":1449061737,
+    "wof:lastmodified":1466290600,
     "wof:name":"Carecci Salvatore",
     "wof:parent_id":85862735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.227286,45.520962,9.227286,45.520962],
+  "bbox": [
+    9.227286,
+    45.520962,
+    9.227286,
+    45.520962
+],
   "geometry": {"coordinates":[9.227286,45.520962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253492457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.696071,45.7453,11.696071,45.7453",
     "geom:latitude":45.7453,
     "geom:longitude":11.696071,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36061 Bassano Del Grappa",
     "sg:city":"Bassano del Grappa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253492457,
-    "wof:lastmodified":1449062821,
+    "wof:lastmodified":1466294541,
     "wof:name":"Cecchin Michele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.696071,45.7453,11.696071,45.7453],
+  "bbox": [
+    11.696071,
+    45.7453,
+    11.696071,
+    45.7453
+],
   "geometry": {"coordinates":[11.696071,45.7453],"type":"Point"}
 }

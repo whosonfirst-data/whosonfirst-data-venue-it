@@ -2,13 +2,14 @@
   "id": 219845887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.936238,45.669506,11.936238,45.669506",
     "geom:latitude":45.669506,
     "geom:longitude":11.936238,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"31033 Castelfranco Veneto",
     "sg:city":"Castelfranco Veneto",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219845887,
-    "wof:lastmodified":1449070963,
+    "wof:lastmodified":1466294715,
     "wof:name":"Fardef Piscine Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "attrezzature"
     ]
 },
-  "bbox": [11.936238,45.669506,11.936238,45.669506],
+  "bbox": [
+    11.936238,
+    45.669506,
+    11.936238,
+    45.669506
+],
   "geometry": {"coordinates":[11.936238,45.669506],"type":"Point"}
 }

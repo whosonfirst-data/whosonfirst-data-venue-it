@@ -2,13 +2,14 @@
   "id": 219889457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.237513,45.500286,9.237513,45.500286",
     "geom:latitude":45.500286,
     "geom:longitude":9.237513,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20132 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219889457,
-    "wof:lastmodified":1449070314,
+    "wof:lastmodified":1466295179,
     "wof:name":"Microcontrol N.t.",
     "wof:parent_id":85796853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.237513,45.500286,9.237513,45.500286],
+  "bbox": [
+    9.237513,
+    45.500286,
+    9.237513,
+    45.500286
+],
   "geometry": {"coordinates":[9.237513,45.500286],"type":"Point"}
 }

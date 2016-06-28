@@ -2,13 +2,14 @@
   "id": 186439391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.386966,45.126469,10.386966,45.126469",
     "geom:latitude":45.126469,
     "geom:longitude":10.386966,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Mantova 1 26034 Piadena",
     "sg:city":"Piadena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186439391,
-    "wof:lastmodified":1449051127,
+    "wof:lastmodified":1466291722,
     "wof:name":"Grifo Macchine Enologiche Snc Di Marchetti Giordano & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bottle"
     ]
 },
-  "bbox": [10.386966,45.126469,10.386966,45.126469],
+  "bbox": [
+    10.386966,
+    45.126469,
+    10.386966,
+    45.126469
+],
   "geometry": {"coordinates":[10.386966,45.126469],"type":"Point"}
 }

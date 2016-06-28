@@ -2,13 +2,14 @@
   "id": 186509741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.505979,41.918537,12.505979,41.918537",
     "geom:latitude":41.918537,
     "geom:longitude":12.505979,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"46, Via Clitunno 00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186509741,
-    "wof:lastmodified":1449050382,
+    "wof:lastmodified":1466292390,
     "wof:name":"Rappr. Comm.le Dell'u.r.s.s",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [12.505979,41.918537,12.505979,41.918537],
+  "bbox": [
+    12.505979,
+    41.918537,
+    12.505979,
+    41.918537
+],
   "geometry": {"coordinates":[12.505979,41.918537],"type":"Point"}
 }

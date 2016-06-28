@@ -2,13 +2,14 @@
   "id": 236752143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.46893,44.06971,12.46893,44.06971",
     "geom:latitude":44.06971,
     "geom:longitude":12.46893,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"47822 Santarcangelo Romag.",
     "sg:classifiers":[],
     "sg:orig_category":"Gelati - Produzione E Commercio",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":236752143,
-    "wof:lastmodified":1449002091,
+    "wof:lastmodified":1466296489,
     "wof:name":"Gelati Sanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.46893,44.06971,12.46893,44.06971],
+  "bbox": [
+    12.46893,
+    44.06971,
+    12.46893,
+    44.06971
+],
   "geometry": {"coordinates":[12.46893,44.06971],"type":"Point"}
 }

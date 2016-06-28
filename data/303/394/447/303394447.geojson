@@ -2,13 +2,14 @@
   "id": 303394447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.306756,43.643707,13.306756,43.643707",
     "geom:latitude":43.643707,
     "geom:longitude":13.306756,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"60018 Montemarciano",
     "sg:city":"Montemarciano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303394447,
-    "wof:lastmodified":1448998590,
+    "wof:lastmodified":1466295365,
     "wof:name":"Tecnoservice Di Casali Lorenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.306756,43.643707,13.306756,43.643707],
+  "bbox": [
+    13.306756,
+    43.643707,
+    13.306756,
+    43.643707
+],
   "geometry": {"coordinates":[13.306756,43.643707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303717685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.222078,45.493759,9.222078,45.493759",
     "geom:latitude":45.493759,
     "geom:longitude":9.222078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20038 Seregno",
     "sg:city":"Seregno",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":303717685,
-    "wof:lastmodified":1448998184,
+    "wof:lastmodified":1466297641,
     "wof:name":"Mariani Sergio",
     "wof:parent_id":85796873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.222078,45.493759,9.222078,45.493759],
+  "bbox": [
+    9.222078,
+    45.493759,
+    9.222078,
+    45.493759
+],
   "geometry": {"coordinates":[9.222078,45.493759],"type":"Point"}
 }

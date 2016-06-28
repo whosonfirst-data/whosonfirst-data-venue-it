@@ -2,13 +2,14 @@
   "id": 270520741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.406271,45.530994,9.406271,45.530994",
     "geom:latitude":45.530994,
     "geom:longitude":9.406271,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Italia 28 20060 Gessate",
     "sg:city":"Gessate",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270520741,
-    "wof:lastmodified":1449009438,
+    "wof:lastmodified":1466295324,
     "wof:name":"Fiorio Colori Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [9.406271,45.530994,9.406271,45.530994],
+  "bbox": [
+    9.406271,
+    45.530994,
+    9.406271,
+    45.530994
+],
   "geometry": {"coordinates":[9.406271,45.530994],"type":"Point"}
 }

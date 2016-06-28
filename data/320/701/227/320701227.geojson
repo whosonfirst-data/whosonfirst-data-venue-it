@@ -2,13 +2,14 @@
   "id": 320701227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.679182,45.05822,7.679182,45.05822",
     "geom:latitude":45.05822,
     "geom:longitude":7.679182,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10125 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320701227,
-    "wof:lastmodified":1449014183,
+    "wof:lastmodified":1466298004,
     "wof:name":"Offidani Giulio",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.679182,45.05822,7.679182,45.05822],
+  "bbox": [
+    7.679182,
+    45.05822,
+    7.679182,
+    45.05822
+],
   "geometry": {"coordinates":[7.679182,45.05822],"type":"Point"}
 }

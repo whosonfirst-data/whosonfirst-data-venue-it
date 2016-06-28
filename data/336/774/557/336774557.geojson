@@ -2,13 +2,14 @@
   "id": 336774557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.923277,45.66787,9.923277,45.66787",
     "geom:latitude":45.66787,
     "geom:longitude":9.923277,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Via Alessandro Manzoni 24060 Villongo",
     "sg:city":"Villongo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336774557,
-    "wof:lastmodified":1448997373,
+    "wof:lastmodified":1466295817,
     "wof:name":"Seval Di Fenaroli Sergio & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.923277,45.66787,9.923277,45.66787],
+  "bbox": [
+    9.923277,
+    45.66787,
+    9.923277,
+    45.66787
+],
   "geometry": {"coordinates":[9.923277,45.66787],"type":"Point"}
 }

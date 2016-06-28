@@ -2,13 +2,14 @@
   "id": 169762911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.493174,41.906757,12.493174,41.906757",
     "geom:latitude":41.906757,
     "geom:longitude":12.493174,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00187 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169762911,
-    "wof:lastmodified":1449035009,
+    "wof:lastmodified":1466295502,
     "wof:name":"Mts Soc. Mercato Titoli Di Stato Spa",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.493174,41.906757,12.493174,41.906757],
+  "bbox": [
+    12.493174,
+    41.906757,
+    12.493174,
+    41.906757
+],
   "geometry": {"coordinates":[12.493174,41.906757],"type":"Point"}
 }

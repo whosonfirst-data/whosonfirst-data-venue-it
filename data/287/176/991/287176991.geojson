@@ -2,13 +2,14 @@
   "id": 287176991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.269591,41.73455,12.269591,41.73455",
     "geom:latitude":41.73455,
     "geom:longitude":12.269591,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Duca Di Genova, 92; Lido Di Ostia-roma",
     "sg:classifiers":[
         {
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":287176991,
-    "wof:lastmodified":1449001266,
+    "wof:lastmodified":1466291948,
     "wof:name":"Mediterranean Incoming & Representatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.269591,41.73455,12.269591,41.73455],
+  "bbox": [
+    12.269591,
+    41.73455,
+    12.269591,
+    41.73455
+],
   "geometry": {"coordinates":[12.269591,41.73455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269681847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.136122,39.222893,9.136122,39.222893",
     "geom:latitude":39.222893,
     "geom:longitude":9.136122,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Francoforte 09129 Cagliari",
     "sg:city":"Cagliari",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269681847,
-    "wof:lastmodified":1449037625,
+    "wof:lastmodified":1466291400,
     "wof:name":"Reclame Di Palagino Elisabetta",
     "wof:parent_id":85862617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [9.136122,39.222893,9.136122,39.222893],
+  "bbox": [
+    9.136122,
+    39.222893,
+    9.136122,
+    39.222893
+],
   "geometry": {"coordinates":[9.136122,39.222893],"type":"Point"}
 }

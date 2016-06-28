@@ -2,13 +2,14 @@
   "id": 186201021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.684886,45.060581,7.684886,45.060581",
     "geom:latitude":45.060581,
     "geom:longitude":7.684886,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Corso Vittorio Emanuele; Torino; 10123",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186201021,
-    "wof:lastmodified":1449052658,
+    "wof:lastmodified":1466289647,
     "wof:name":"Sanpaolo Bank Sa",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.684886,45.060581,7.684886,45.060581],
+  "bbox": [
+    7.684886,
+    45.060581,
+    7.684886,
+    45.060581
+],
   "geometry": {"coordinates":[7.684886,45.060581],"type":"Point"}
 }

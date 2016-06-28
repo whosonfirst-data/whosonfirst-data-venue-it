@@ -2,13 +2,14 @@
   "id": 186591145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.860798,41.095421,16.860798,41.095421",
     "geom:latitude":41.095421,
     "geom:longitude":16.860798,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Papa Giovanni Paolo I 12/1 A 70124 Bari",
     "sg:city":"Bari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186591145,
-    "wof:lastmodified":1449051810,
+    "wof:lastmodified":1466293207,
     "wof:name":"Selco Electronic Srl",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [16.860798,41.095421,16.860798,41.095421],
+  "bbox": [
+    16.860798,
+    41.095421,
+    16.860798,
+    41.095421
+],
   "geometry": {"coordinates":[16.860798,41.095421],"type":"Point"}
 }

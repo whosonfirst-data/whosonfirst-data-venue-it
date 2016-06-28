@@ -2,13 +2,14 @@
   "id": 186048389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.729764,41.706757,15.729764,41.706757",
     "geom:latitude":41.706757,
     "geom:longitude":15.729764,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Kennedy N. 11; S. Giovanni Rotondo; 71013",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186048389,
-    "wof:lastmodified":1449051330,
+    "wof:lastmodified":1466295036,
     "wof:name":"Cassa Rurale Ed Artigiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.729764,41.706757,15.729764,41.706757],
+  "bbox": [
+    15.729764,
+    41.706757,
+    15.729764,
+    41.706757
+],
   "geometry": {"coordinates":[15.729764,41.706757],"type":"Point"}
 }

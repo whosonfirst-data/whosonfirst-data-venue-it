@@ -2,13 +2,14 @@
   "id": 186513207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.559612,44.345932,8.559612,44.345932",
     "geom:latitude":44.345932,
     "geom:longitude":8.559612,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Via Aurelia Levante 17015 Celle Ligure",
     "sg:city":"Celle Ligure",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186513207,
-    "wof:lastmodified":1449052140,
+    "wof:lastmodified":1466292422,
     "wof:name":"Centro Di Formazione Turistico Alberghiero Soc.cons.coop. Arl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"
     ]
 },
-  "bbox": [8.559612,44.345932,8.559612,44.345932],
+  "bbox": [
+    8.559612,
+    44.345932,
+    8.559612,
+    44.345932
+],
   "geometry": {"coordinates":[8.559612,44.345932],"type":"Point"}
 }

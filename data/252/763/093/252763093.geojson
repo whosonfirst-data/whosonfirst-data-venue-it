@@ -2,13 +2,14 @@
   "id": 252763093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.679178,43.19315,13.679178,43.19315",
     "geom:latitude":43.19315,
     "geom:longitude":13.679178,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63015 Monte Urano",
     "sg:city":"Monte Urano",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":252763093,
-    "wof:lastmodified":1449006506,
+    "wof:lastmodified":1466289492,
     "wof:name":"Calzaturificio Gazzoli & Cicchini Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.679178,43.19315,13.679178,43.19315],
+  "bbox": [
+    13.679178,
+    43.19315,
+    13.679178,
+    43.19315
+],
   "geometry": {"coordinates":[13.679178,43.19315],"type":"Point"}
 }

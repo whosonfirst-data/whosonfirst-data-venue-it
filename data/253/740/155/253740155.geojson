@@ -2,13 +2,14 @@
   "id": 253740155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.861055,45.313496,11.861055,45.313496",
     "geom:latitude":45.313496,
     "geom:longitude":11.861055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Via Mattei 35020 Masera' Di Padova",
     "sg:classifiers":[
         {
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253740155,
-    "wof:lastmodified":1449064156,
+    "wof:lastmodified":1466296920,
     "wof:name":"Al.ma Sas Di Furlan Anna Maria E C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [11.861055,45.313496,11.861055,45.313496],
+  "bbox": [
+    11.861055,
+    45.313496,
+    11.861055,
+    45.313496
+],
   "geometry": {"coordinates":[11.861055,45.313496],"type":"Point"}
 }

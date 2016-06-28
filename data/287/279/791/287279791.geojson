@@ -2,13 +2,14 @@
   "id": 287279791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.010838,46.192898,13.010838,46.192898",
     "geom:latitude":46.192898,
     "geom:longitude":13.010838,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"90, Via Cimano 33038 San Daniele Del Friuli",
     "sg:city":"San Daniele del Friuli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287279791,
-    "wof:lastmodified":1449001062,
+    "wof:lastmodified":1466293296,
     "wof:name":"Molinaro Guerrino & Figlio (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [13.010838,46.192898,13.010838,46.192898],
+  "bbox": [
+    13.010838,
+    46.192898,
+    13.010838,
+    46.192898
+],
   "geometry": {"coordinates":[13.010838,46.192898],"type":"Point"}
 }

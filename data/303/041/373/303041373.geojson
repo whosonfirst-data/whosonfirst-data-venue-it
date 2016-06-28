@@ -2,13 +2,14 @@
   "id": 303041373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.679588,44.770374,10.679588,44.770374",
     "geom:latitude":44.770374,
     "geom:longitude":10.679588,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21/23, Via Labriola A. 42017 Novellara",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303041373,
-    "wof:lastmodified":1448999004,
+    "wof:lastmodified":1466290868,
     "wof:name":"R.c.p. Elettronica (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.679588,44.770374,10.679588,44.770374],
+  "bbox": [
+    10.679588,
+    44.770374,
+    10.679588,
+    44.770374
+],
   "geometry": {"coordinates":[10.679588,44.770374],"type":"Point"}
 }

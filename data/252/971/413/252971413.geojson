@@ -2,13 +2,14 @@
   "id": 252971413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.17015,45.454346,9.17015,45.454346",
     "geom:latitude":45.454346,
     "geom:longitude":9.17015,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via Barbavara 20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252971413,
-    "wof:lastmodified":1449005972,
+    "wof:lastmodified":1466291770,
     "wof:name":"Argenti D'arte Di Azzimonti Roberta E C. S.n.c.",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"
     ]
 },
-  "bbox": [9.17015,45.454346,9.17015,45.454346],
+  "bbox": [
+    9.17015,
+    45.454346,
+    9.17015,
+    45.454346
+],
   "geometry": {"coordinates":[9.17015,45.454346],"type":"Point"}
 }

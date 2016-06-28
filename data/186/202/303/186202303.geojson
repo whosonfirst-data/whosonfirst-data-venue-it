@@ -2,13 +2,14 @@
   "id": 186202303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.461748,41.833,12.461748,41.833",
     "geom:latitude":41.833,
     "geom:longitude":12.461748,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Viale Tupini 180, 00144 Rome, Rm",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186202303,
-    "wof:lastmodified":1449052665,
+    "wof:lastmodified":1466289662,
     "wof:name":"Sef Spa",
     "wof:parent_id":85904917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.461748,41.833,12.461748,41.833],
+  "bbox": [
+    12.461748,
+    41.833,
+    12.461748,
+    41.833
+],
   "geometry": {"coordinates":[12.461748,41.833],"type":"Point"}
 }

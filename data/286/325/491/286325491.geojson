@@ -2,13 +2,14 @@
   "id": 286325491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.260699,45.424221,9.260699,45.424221",
     "geom:latitude":45.424221,
     "geom:longitude":9.260699,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286325491,
-    "wof:lastmodified":1449016337,
+    "wof:lastmodified":1466290366,
     "wof:name":"Parrocchia S.barbara",
     "wof:parent_id":85862695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.260699,45.424221,9.260699,45.424221],
+  "bbox": [
+    9.260699,
+    45.424221,
+    9.260699,
+    45.424221
+],
   "geometry": {"coordinates":[9.260699,45.424221],"type":"Point"}
 }

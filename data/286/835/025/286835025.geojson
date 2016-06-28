@@ -2,13 +2,14 @@
   "id": 286835025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.110072,45.428875,9.110072,45.428875",
     "geom:latitude":45.428875,
     "geom:longitude":9.110072,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20094 Corsico",
     "sg:city":"Corsico",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":286835025,
-    "wof:lastmodified":1449015592,
+    "wof:lastmodified":1466296607,
     "wof:name":"Motor Cycles Snc",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.110072,45.428875,9.110072,45.428875],
+  "bbox": [
+    9.110072,
+    45.428875,
+    9.110072,
+    45.428875
+],
   "geometry": {"coordinates":[9.110072,45.428875],"type":"Point"}
 }

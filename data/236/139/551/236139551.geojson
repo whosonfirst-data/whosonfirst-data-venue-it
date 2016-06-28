@@ -2,13 +2,14 @@
   "id": 236139551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.537823,45.300369,8.537823,45.300369",
     "geom:latitude":45.300369,
     "geom:longitude":8.537823,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Robbio 27030 Palestro",
     "sg:city":"Palestro",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236139551,
-    "wof:lastmodified":1449001908,
+    "wof:lastmodified":1466290274,
     "wof:name":"Bernett S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [8.537823,45.300369,8.537823,45.300369],
+  "bbox": [
+    8.537823,
+    45.300369,
+    8.537823,
+    45.300369
+],
   "geometry": {"coordinates":[8.537823,45.300369],"type":"Point"}
 }

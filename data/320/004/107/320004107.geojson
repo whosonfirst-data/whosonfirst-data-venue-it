@@ -2,13 +2,14 @@
   "id": 320004107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.005214,44.857998,11.005214,44.857998",
     "geom:latitude":44.857998,
     "geom:longitude":11.005214,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"41037 Mirandola",
     "sg:city":"Mirandola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320004107,
-    "wof:lastmodified":1449012640,
+    "wof:lastmodified":1466293460,
     "wof:name":"Europrogress Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.005214,44.857998,11.005214,44.857998],
+  "bbox": [
+    11.005214,
+    44.857998,
+    11.005214,
+    44.857998
+],
   "geometry": {"coordinates":[11.005214,44.857998],"type":"Point"}
 }

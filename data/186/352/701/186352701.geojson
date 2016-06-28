@@ -2,13 +2,14 @@
   "id": 186352701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.543304,45.956284,8.543304,45.956284",
     "geom:latitude":45.956284,
     "geom:longitude":8.543304,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"28923 Verbania",
     "sg:city":"Verbania",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186352701,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466290939,
     "wof:name":"Lavanderia Milanese Verbania Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.543304,45.956284,8.543304,45.956284],
+  "bbox": [
+    8.543304,
+    45.956284,
+    8.543304,
+    45.956284
+],
   "geometry": {"coordinates":[8.543304,45.956284],"type":"Point"}
 }

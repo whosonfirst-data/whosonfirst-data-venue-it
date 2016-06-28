@@ -2,13 +2,14 @@
   "id": 270038507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.465096,45.974159,12.465096,45.974159",
     "geom:latitude":45.974159,
     "geom:longitude":12.465096,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Pradego 34 33070 Caneva",
     "sg:city":"Caneva",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270038507,
-    "wof:lastmodified":1449010234,
+    "wof:lastmodified":1466289443,
     "wof:name":"S.i.m.f. Calcit Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carbonate"
     ]
 },
-  "bbox": [12.465096,45.974159,12.465096,45.974159],
+  "bbox": [
+    12.465096,
+    45.974159,
+    12.465096,
+    45.974159
+],
   "geometry": {"coordinates":[12.465096,45.974159],"type":"Point"}
 }

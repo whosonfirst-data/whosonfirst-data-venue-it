@@ -2,13 +2,14 @@
   "id": 252816053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.682002,45.109806,7.682002,45.109806",
     "geom:latitude":45.109806,
     "geom:longitude":7.682002,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":252816053,
-    "wof:lastmodified":1449006053,
+    "wof:lastmodified":1466290127,
     "wof:name":"Carlo Pignatelli Srl",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.682002,45.109806,7.682002,45.109806],
+  "bbox": [
+    7.682002,
+    45.109806,
+    7.682002,
+    45.109806
+],
   "geometry": {"coordinates":[7.682002,45.109806],"type":"Point"}
 }

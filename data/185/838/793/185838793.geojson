@@ -2,13 +2,14 @@
   "id": 185838793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.378622,45.679314,11.378622,45.679314",
     "geom:latitude":45.679314,
     "geom:longitude":11.378622,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Roma; S. Vito Di Leguzzano; 36030",
     "sg:classifiers":[
         {
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185838793,
-    "wof:lastmodified":1449006795,
+    "wof:lastmodified":1466289530,
     "wof:name":"Banca Popolare Vicentina Scparl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.378622,45.679314,11.378622,45.679314],
+  "bbox": [
+    11.378622,
+    45.679314,
+    11.378622,
+    45.679314
+],
   "geometry": {"coordinates":[11.378622,45.679314],"type":"Point"}
 }

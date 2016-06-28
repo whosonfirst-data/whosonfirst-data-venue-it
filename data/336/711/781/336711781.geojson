@@ -2,13 +2,14 @@
   "id": 336711781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.991672,43.673656,10.991672,43.673656",
     "geom:latitude":43.673656,
     "geom:longitude":10.991672,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"304, Via Orme 50025 Montespertoli",
     "sg:city":"Montespertoli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336711781,
-    "wof:lastmodified":1448997833,
+    "wof:lastmodified":1466295064,
     "wof:name":"Martin Group S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [10.991672,43.673656,10.991672,43.673656],
+  "bbox": [
+    10.991672,
+    43.673656,
+    10.991672,
+    43.673656
+],
   "geometry": {"coordinates":[10.991672,43.673656],"type":"Point"}
 }

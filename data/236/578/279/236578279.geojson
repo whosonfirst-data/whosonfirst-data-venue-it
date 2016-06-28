@@ -2,13 +2,14 @@
   "id": 236578279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.792321,43.862347,12.792321,43.862347",
     "geom:latitude":43.862347,
     "geom:longitude":12.792321,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"210, Via Pantanelli 61025 Montelabbate",
     "sg:city":"Montelabbate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236578279,
-    "wof:lastmodified":1449002304,
+    "wof:lastmodified":1466294822,
     "wof:name":"Essediemme S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [12.792321,43.862347,12.792321,43.862347],
+  "bbox": [
+    12.792321,
+    43.862347,
+    12.792321,
+    43.862347
+],
   "geometry": {"coordinates":[12.792321,43.862347],"type":"Point"}
 }

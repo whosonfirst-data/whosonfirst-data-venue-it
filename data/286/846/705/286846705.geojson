@@ -2,13 +2,14 @@
   "id": 286846705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.135427,42.527618,14.135427,42.527618",
     "geom:latitude":42.527618,
     "geom:longitude":14.135427,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"65013 Citt\u00e0 Sant'angelo",
     "sg:classifiers":[],
     "sg:orig_category":"Tempo Libero - Articoli E Forniture. Regalistica Aziendale",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":286846705,
-    "wof:lastmodified":1449017472,
+    "wof:lastmodified":1466296861,
     "wof:name":"Ness Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.135427,42.527618,14.135427,42.527618],
+  "bbox": [
+    14.135427,
+    42.527618,
+    14.135427,
+    42.527618
+],
   "geometry": {"coordinates":[14.135427,42.527618],"type":"Point"}
 }

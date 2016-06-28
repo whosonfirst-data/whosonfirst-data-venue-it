@@ -2,13 +2,14 @@
   "id": 219666381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.829658,45.820431,8.829658,45.820431",
     "geom:latitude":45.820431,
     "geom:longitude":8.829658,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21051 Arcisate",
     "sg:city":"Arcisate",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219666381,
-    "wof:lastmodified":1449071682,
+    "wof:lastmodified":1466292948,
     "wof:name":"Galli Motor Service Di Galli Giorgio & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.829658,45.820431,8.829658,45.820431],
+  "bbox": [
+    8.829658,
+    45.820431,
+    8.829658,
+    45.820431
+],
   "geometry": {"coordinates":[8.829658,45.820431],"type":"Point"}
 }

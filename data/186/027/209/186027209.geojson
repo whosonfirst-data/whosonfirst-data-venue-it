@@ -2,13 +2,14 @@
   "id": 186027209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.991014,44.510601,9.991014,44.510601",
     "geom:latitude":44.510601,
     "geom:longitude":9.991014,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Micheli 5; Berceto",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186027209,
-    "wof:lastmodified":1449050908,
+    "wof:lastmodified":1466294439,
     "wof:name":"Cassa Di Risparmio, Di Parma E Piacenza Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.991014,44.510601,9.991014,44.510601],
+  "bbox": [
+    9.991014,
+    44.510601,
+    9.991014,
+    44.510601
+],
   "geometry": {"coordinates":[9.991014,44.510601],"type":"Point"}
 }

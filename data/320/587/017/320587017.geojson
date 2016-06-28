@@ -2,13 +2,14 @@
   "id": 320587017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.491527,41.923107,12.491527,41.923107",
     "geom:latitude":41.923107,
     "geom:longitude":12.491527,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"00197 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320587017,
-    "wof:lastmodified":1449012556,
+    "wof:lastmodified":1466297880,
     "wof:name":"Svend S.i.a.s.",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.491527,41.923107,12.491527,41.923107],
+  "bbox": [
+    12.491527,
+    41.923107,
+    12.491527,
+    41.923107
+],
   "geometry": {"coordinates":[12.491527,41.923107],"type":"Point"}
 }

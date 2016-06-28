@@ -2,13 +2,14 @@
   "id": 253596371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.406864,41.278046,16.406864,41.278046",
     "geom:latitude":41.278046,
     "geom:longitude":16.406864,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Felice Tarantini 25 70059 Trani",
     "sg:city":"Trani",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253596371,
-    "wof:lastmodified":1449064339,
+    "wof:lastmodified":1466295905,
     "wof:name":"Calzaturificio Dea S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.406864,41.278046,16.406864,41.278046],
+  "bbox": [
+    16.406864,
+    41.278046,
+    16.406864,
+    41.278046
+],
   "geometry": {"coordinates":[16.406864,41.278046],"type":"Point"}
 }

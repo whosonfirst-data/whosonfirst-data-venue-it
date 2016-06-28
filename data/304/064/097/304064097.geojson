@@ -2,13 +2,14 @@
   "id": 304064097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.346151,43.084835,12.346151,43.084835",
     "geom:latitude":43.084835,
     "geom:longitude":12.346151,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"06080 Perugia",
     "sg:classifiers":[],
     "sg:orig_category":"Attrezzature E Forniture Per Officine Riparazione E Servizi Ausiliari",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":304064097,
-    "wof:lastmodified":1449043763,
+    "wof:lastmodified":1466293037,
     "wof:name":"Grigioni Vernici Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.346151,43.084835,12.346151,43.084835],
+  "bbox": [
+    12.346151,
+    43.084835,
+    12.346151,
+    43.084835
+],
   "geometry": {"coordinates":[12.346151,43.084835],"type":"Point"}
 }

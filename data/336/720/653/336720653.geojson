@@ -2,13 +2,14 @@
   "id": 336720653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.133782,45.599117,9.133782,45.599117",
     "geom:latitude":45.599117,
     "geom:longitude":9.133782,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"121, Viale Dei Mille 20051 Limbiate",
     "sg:city":"Limbiate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336720653,
-    "wof:lastmodified":1448997207,
+    "wof:lastmodified":1466295168,
     "wof:name":"Missaglia Felice (s.r.l.)",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [9.133782,45.599117,9.133782,45.599117],
+  "bbox": [
+    9.133782,
+    45.599117,
+    9.133782,
+    45.599117
+],
   "geometry": {"coordinates":[9.133782,45.599117],"type":"Point"}
 }

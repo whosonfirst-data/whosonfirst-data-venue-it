@@ -2,13 +2,14 @@
   "id": 303156903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.2,42.433334,14.2,42.433334",
     "geom:latitude":42.433334,
     "geom:longitude":14.2,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"66023 Francavilla Al Mare",
     "sg:city":"Francavilla al Mare",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303156903,
-    "wof:lastmodified":1448998598,
+    "wof:lastmodified":1466292402,
     "wof:name":"Alstom Transport (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.2,42.433334,14.2,42.433334],
+  "bbox": [
+    14.2,
+    42.433334,
+    14.2,
+    42.433334
+],
   "geometry": {"coordinates":[14.2,42.433334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303073025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.216054,44.151691,12.216054,44.151691",
     "geom:latitude":44.151691,
     "geom:longitude":12.216054,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Parri 212 47023 Cesena",
     "sg:city":"Cesena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303073025,
-    "wof:lastmodified":1448998458,
+    "wof:lastmodified":1466291279,
     "wof:name":"Co.el.me. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [12.216054,44.151691,12.216054,44.151691],
+  "bbox": [
+    12.216054,
+    44.151691,
+    12.216054,
+    44.151691
+],
   "geometry": {"coordinates":[12.216054,44.151691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286696439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.124778,46.157059,12.124778,46.157059",
     "geom:latitude":46.157059,
     "geom:longitude":12.124778,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"261, Via Ponte Mas 32037 Sospirolo",
     "sg:city":"Sospirolo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286696439,
-    "wof:lastmodified":1449015394,
+    "wof:lastmodified":1466295164,
     "wof:name":"De Dea Aldo & Eldo (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [12.124778,46.157059,12.124778,46.157059],
+  "bbox": [
+    12.124778,
+    46.157059,
+    12.124778,
+    46.157059
+],
   "geometry": {"coordinates":[12.124778,46.157059],"type":"Point"}
 }

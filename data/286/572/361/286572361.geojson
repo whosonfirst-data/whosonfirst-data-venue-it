@@ -2,13 +2,14 @@
   "id": 286572361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.219866,45.624435,12.219866,45.624435",
     "geom:latitude":45.624435,
     "geom:longitude":12.219866,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Via Taliercio Giuseppe 31022 Preganziol",
     "sg:city":"Preganziol",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286572361,
-    "wof:lastmodified":1449017006,
+    "wof:lastmodified":1466293579,
     "wof:name":"Paolo Maglieria S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"
     ]
 },
-  "bbox": [12.219866,45.624435,12.219866,45.624435],
+  "bbox": [
+    12.219866,
+    45.624435,
+    12.219866,
+    45.624435
+],
   "geometry": {"coordinates":[12.219866,45.624435],"type":"Point"}
 }

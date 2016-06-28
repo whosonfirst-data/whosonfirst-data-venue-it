@@ -2,13 +2,14 @@
   "id": 286264507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.251636,40.840096,14.251636,40.840096",
     "geom:latitude":40.840096,
     "geom:longitude":14.251636,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Masullo I Trav. Priv. 80010 Quarto",
     "sg:city":"Quarto",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286264507,
-    "wof:lastmodified":1449017102,
+    "wof:lastmodified":1466289461,
     "wof:name":"Sadip Lack Srl",
     "wof:parent_id":85904835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pharmaceutical"
     ]
 },
-  "bbox": [14.251636,40.840096,14.251636,40.840096],
+  "bbox": [
+    14.251636,
+    40.840096,
+    14.251636,
+    40.840096
+],
   "geometry": {"coordinates":[14.251636,40.840096],"type":"Point"}
 }

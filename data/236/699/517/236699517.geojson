@@ -2,13 +2,14 @@
   "id": 236699517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.044746,43.541618,11.044746,43.541618",
     "geom:latitude":43.541618,
     "geom:longitude":11.044746,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"227, Via Romana 50052 Certaldo",
     "sg:city":"Certaldo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236699517,
-    "wof:lastmodified":1449002014,
+    "wof:lastmodified":1466295980,
     "wof:name":"Casa Della Cornice Snc Di Dainelli P. E Sordi M.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "game"
     ]
 },
-  "bbox": [11.044746,43.541618,11.044746,43.541618],
+  "bbox": [
+    11.044746,
+    43.541618,
+    11.044746,
+    43.541618
+],
   "geometry": {"coordinates":[11.044746,43.541618],"type":"Point"}
 }

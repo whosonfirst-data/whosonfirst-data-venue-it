@@ -2,13 +2,14 @@
   "id": 303134855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.236559,43.781223,11.236559,43.781223",
     "geom:latitude":43.781223,
     "geom:longitude":11.236559,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"50144 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":303134855,
-    "wof:lastmodified":1449000430,
+    "wof:lastmodified":1466292112,
     "wof:name":"Executive Service",
     "wof:parent_id":85904691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.236559,43.781223,11.236559,43.781223],
+  "bbox": [
+    11.236559,
+    43.781223,
+    11.236559,
+    43.781223
+],
   "geometry": {"coordinates":[11.236559,43.781223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203045383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.872828,45.049583,11.872828,45.049583",
     "geom:latitude":45.049583,
     "geom:longitude":11.872828,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"45027 Trecenta",
     "sg:city":"Trecenta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203045383,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1466295109,
     "wof:name":"F.lli Ghiraldini Snc Di Ghiraldini Flavio E Felice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.872828,45.049583,11.872828,45.049583],
+  "bbox": [
+    11.872828,
+    45.049583,
+    11.872828,
+    45.049583
+],
   "geometry": {"coordinates":[11.872828,45.049583],"type":"Point"}
 }

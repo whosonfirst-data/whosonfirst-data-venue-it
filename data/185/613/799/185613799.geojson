@@ -2,13 +2,14 @@
   "id": 185613799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.040078,43.925026,11.040078,43.925026",
     "geom:latitude":43.925026,
     "geom:longitude":11.040078,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Scarpettini Raffaello; Montemurlo; 50045",
     "sg:classifiers":[
         {
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185613799,
-    "wof:lastmodified":1449007365,
+    "wof:lastmodified":1466292366,
     "wof:name":"Banca D'america E D'italia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.040078,43.925026,11.040078,43.925026],
+  "bbox": [
+    11.040078,
+    43.925026,
+    11.040078,
+    43.925026
+],
   "geometry": {"coordinates":[11.040078,43.925026],"type":"Point"}
 }

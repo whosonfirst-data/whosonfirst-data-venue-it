@@ -2,13 +2,14 @@
   "id": 287073615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.250021,45.395851,9.250021,45.395851",
     "geom:latitude":45.395851,
     "geom:longitude":9.250021,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Via Puglie 20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287073615,
-    "wof:lastmodified":1449000781,
+    "wof:lastmodified":1466290567,
     "wof:name":"Silvano Chiapparoli Logistica S.p.a.",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [9.250021,45.395851,9.250021,45.395851],
+  "bbox": [
+    9.250021,
+    45.395851,
+    9.250021,
+    45.395851
+],
   "geometry": {"coordinates":[9.250021,45.395851],"type":"Point"}
 }

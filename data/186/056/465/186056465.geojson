@@ -2,13 +2,14 @@
   "id": 186056465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.643653,45.444672,9.643653,45.444672",
     "geom:latitude":45.444672,
     "geom:longitude":9.643653,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Piave, 13; Capralba; 26010",
     "sg:city":"Capralba",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186056465,
-    "wof:lastmodified":1449051141,
+    "wof:lastmodified":1466295159,
     "wof:name":"Casse Rurali Ed Artigiane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.643653,45.444672,9.643653,45.444672],
+  "bbox": [
+    9.643653,
+    45.444672,
+    9.643653,
+    45.444672
+],
   "geometry": {"coordinates":[9.643653,45.444672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253223319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.660196,45.072605,7.660196,45.072605",
     "geom:latitude":45.072605,
     "geom:longitude":7.660196,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10138 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253223319,
-    "wof:lastmodified":1449063025,
+    "wof:lastmodified":1466291234,
     "wof:name":"C.a.o. Snc Di Cardona E Piccolo - Centro Assistenza Ufficiale",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.660196,45.072605,7.660196,45.072605],
+  "bbox": [
+    7.660196,
+    45.072605,
+    7.660196,
+    45.072605
+],
   "geometry": {"coordinates":[7.660196,45.072605],"type":"Point"}
 }

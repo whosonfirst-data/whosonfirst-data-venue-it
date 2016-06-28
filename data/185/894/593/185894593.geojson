@@ -2,13 +2,14 @@
   "id": 185894593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.588976,37.310776,13.588976,37.310776",
     "geom:latitude":37.310776,
     "geom:longitude":13.588976,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Cicerone, 14/16; Agrigento; 92100",
     "sg:city":"Agrigento",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185894593,
-    "wof:lastmodified":1449007266,
+    "wof:lastmodified":1466289894,
     "wof:name":"Banca Popolare Sant'angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.588976,37.310776,13.588976,37.310776],
+  "bbox": [
+    13.588976,
+    37.310776,
+    13.588976,
+    37.310776
+],
   "geometry": {"coordinates":[13.588976,37.310776],"type":"Point"}
 }

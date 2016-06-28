@@ -2,13 +2,14 @@
   "id": 320615123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.15381,45.554798,11.15381,45.554798",
     "geom:latitude":45.554798,
     "geom:longitude":11.15381,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Calcare 1 37030 Badia Calavena",
     "sg:city":"Badia Calavena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320615123,
-    "wof:lastmodified":1449012452,
+    "wof:lastmodified":1466297821,
     "wof:name":"Pavimar Snc Di Gugole Aldo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "marble"
     ]
 },
-  "bbox": [11.15381,45.554798,11.15381,45.554798],
+  "bbox": [
+    11.15381,
+    45.554798,
+    11.15381,
+    45.554798
+],
   "geometry": {"coordinates":[11.15381,45.554798],"type":"Point"}
 }

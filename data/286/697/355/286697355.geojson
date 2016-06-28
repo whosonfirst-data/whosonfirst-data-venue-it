@@ -2,13 +2,14 @@
   "id": 286697355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.951144,44.615719,8.951144,44.615719",
     "geom:latitude":44.615719,
     "geom:longitude":8.951144,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Via Milite Ignoto 16012 Busalla",
     "sg:city":"Busalla",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286697355,
-    "wof:lastmodified":1449017050,
+    "wof:lastmodified":1466295175,
     "wof:name":"Ecobit Strade (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [8.951144,44.615719,8.951144,44.615719],
+  "bbox": [
+    8.951144,
+    44.615719,
+    8.951144,
+    44.615719
+],
   "geometry": {"coordinates":[8.951144,44.615719],"type":"Point"}
 }

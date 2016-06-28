@@ -2,13 +2,14 @@
   "id": 186113737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.557508,41.861729,12.557508,41.861729",
     "geom:latitude":41.861729,
     "geom:longitude":12.557508,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Piazza Dei Consoli 55-55a; Roma; 00175",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186113737,
-    "wof:lastmodified":1449052799,
+    "wof:lastmodified":1466288929,
     "wof:name":"Istituto Bancario San Paolo, Di Torino Spa",
     "wof:parent_id":85904929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.557508,41.861729,12.557508,41.861729],
+  "bbox": [
+    12.557508,
+    41.861729,
+    12.557508,
+    41.861729
+],
   "geometry": {"coordinates":[12.557508,41.861729],"type":"Point"}
 }

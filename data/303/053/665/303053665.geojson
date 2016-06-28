@@ -2,13 +2,14 @@
   "id": 303053665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.517667,44.902199,10.517667,44.902199",
     "geom:latitude":44.902199,
     "geom:longitude":10.517667,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Via M.s. Ottone 42041 Brescello",
     "sg:classifiers":[
         {
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303053665,
-    "wof:lastmodified":1448998574,
+    "wof:lastmodified":1466291026,
     "wof:name":"Foster (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [10.517667,44.902199,10.517667,44.902199],
+  "bbox": [
+    10.517667,
+    44.902199,
+    10.517667,
+    44.902199
+],
   "geometry": {"coordinates":[10.517667,44.902199],"type":"Point"}
 }

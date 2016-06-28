@@ -2,13 +2,14 @@
   "id": 253508623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.134571,40.837051,16.134571,40.837051",
     "geom:latitude":40.837051,
     "geom:longitude":16.134571,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"85013 Genzano Di Lucania",
     "sg:city":"Genzano di Lucania",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":253508623,
-    "wof:lastmodified":1449064485,
+    "wof:lastmodified":1466294737,
     "wof:name":"Vetrosat Snc Di V. G. Grippo & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.134571,40.837051,16.134571,40.837051],
+  "bbox": [
+    16.134571,
+    40.837051,
+    16.134571,
+    40.837051
+],
   "geometry": {"coordinates":[16.134571,40.837051],"type":"Point"}
 }

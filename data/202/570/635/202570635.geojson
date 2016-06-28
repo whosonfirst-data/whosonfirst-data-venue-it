@@ -2,13 +2,14 @@
   "id": 202570635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.658674,45.139946,7.658674,45.139946",
     "geom:latitude":45.139946,
     "geom:longitude":7.658674,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10071 Borgaro Torinese",
     "sg:city":"Borgaro Torinese",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202570635,
-    "wof:lastmodified":1449061615,
+    "wof:lastmodified":1466289642,
     "wof:name":"Brunello Lino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.658674,45.139946,7.658674,45.139946],
+  "bbox": [
+    7.658674,
+    45.139946,
+    7.658674,
+    45.139946
+],
   "geometry": {"coordinates":[7.658674,45.139946],"type":"Point"}
 }

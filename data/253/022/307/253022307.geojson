@@ -2,13 +2,14 @@
   "id": 253022307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.267672,45.853794,9.267672,45.853794",
     "geom:latitude":45.853794,
     "geom:longitude":9.267672,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22035 Canzo",
     "sg:city":"Canzo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253022307,
-    "wof:lastmodified":1449063807,
+    "wof:lastmodified":1466289143,
     "wof:name":"G.f.s. Marelli Giovanni Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.267672,45.853794,9.267672,45.853794],
+  "bbox": [
+    9.267672,
+    45.853794,
+    9.267672,
+    45.853794
+],
   "geometry": {"coordinates":[9.267672,45.853794],"type":"Point"}
 }

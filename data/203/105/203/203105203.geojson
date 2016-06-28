@@ -2,13 +2,14 @@
   "id": 203105203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.152833,45.491726,9.152833,45.491726",
     "geom:latitude":45.491726,
     "geom:longitude":9.152833,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20155 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203105203,
-    "wof:lastmodified":1449025641,
+    "wof:lastmodified":1466288942,
     "wof:name":"Viotto Eustasio Danilo",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.152833,45.491726,9.152833,45.491726],
+  "bbox": [
+    9.152833,
+    45.491726,
+    9.152833,
+    45.491726
+],
   "geometry": {"coordinates":[9.152833,45.491726],"type":"Point"}
 }

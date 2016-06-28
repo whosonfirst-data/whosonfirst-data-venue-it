@@ -2,13 +2,14 @@
   "id": 253627383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.135067,45.269047,10.135067,45.269047",
     "geom:latitude":45.269047,
     "geom:longitude":10.135067,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Giuseppe Mazzini , 210/214 25020 Alfianello",
     "sg:city":"Alfianello",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":253627383,
-    "wof:lastmodified":1449065865,
+    "wof:lastmodified":1466296274,
     "wof:name":"Tecnotubi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.135067,45.269047,10.135067,45.269047],
+  "bbox": [
+    10.135067,
+    45.269047,
+    10.135067,
+    45.269047
+],
   "geometry": {"coordinates":[10.135067,45.269047],"type":"Point"}
 }

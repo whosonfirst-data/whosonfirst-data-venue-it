@@ -2,13 +2,14 @@
   "id": 319910667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.195965,45.48019,9.195965,45.48019",
     "geom:latitude":45.48019,
     "geom:longitude":9.195965,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"20081 Abbiategrasso",
     "sg:city":"Abbiategrasso",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":319910667,
-    "wof:lastmodified":1449024409,
+    "wof:lastmodified":1466293696,
     "wof:name":"No Limits The Next Generation",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.195965,45.48019,9.195965,45.48019],
+  "bbox": [
+    9.195965,
+    45.48019,
+    9.195965,
+    45.48019
+],
   "geometry": {"coordinates":[9.195965,45.48019],"type":"Point"}
 }

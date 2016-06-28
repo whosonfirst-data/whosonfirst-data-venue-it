@@ -2,13 +2,14 @@
   "id": 203116269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.633679,45.113434,7.633679,45.113434",
     "geom:latitude":45.113434,
     "geom:longitude":7.633679,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10078 Venaria",
     "sg:classifiers":[],
     "sg:orig_category":"Servizi E Lavori Per Ecologia E Smaltimento Rifiuti",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203116269,
-    "wof:lastmodified":1449025211,
+    "wof:lastmodified":1466289050,
     "wof:name":"Consulacqua Srl",
     "wof:parent_id":85796999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.633679,45.113434,7.633679,45.113434],
+  "bbox": [
+    7.633679,
+    45.113434,
+    7.633679,
+    45.113434
+],
   "geometry": {"coordinates":[7.633679,45.113434],"type":"Point"}
 }

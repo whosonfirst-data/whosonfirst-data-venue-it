@@ -2,13 +2,14 @@
   "id": 286321381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.281881,45.813454,9.281881,45.813454",
     "geom:latitude":45.813454,
     "geom:longitude":9.281881,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"22036 Erba",
     "sg:city":"Erba",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":286321381,
-    "wof:lastmodified":1449015226,
+    "wof:lastmodified":1466290284,
     "wof:name":"Ente Patrimoniale Chiesa Gesu' Cristo S.u.g.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.281881,45.813454,9.281881,45.813454],
+  "bbox": [
+    9.281881,
+    45.813454,
+    9.281881,
+    45.813454
+],
   "geometry": {"coordinates":[9.281881,45.813454],"type":"Point"}
 }

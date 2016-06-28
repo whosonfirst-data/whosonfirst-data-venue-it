@@ -2,13 +2,14 @@
   "id": 336823735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.410089,44.606636,11.410089,44.606636",
     "geom:latitude":44.606636,
     "geom:longitude":11.410089,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"2/2, Via Stiatico 40050 Argelato",
     "sg:city":"Argelato",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336823735,
-    "wof:lastmodified":1448997994,
+    "wof:lastmodified":1466296448,
     "wof:name":"European Machine Tools Italiana (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanical"
     ]
 },
-  "bbox": [11.410089,44.606636,11.410089,44.606636],
+  "bbox": [
+    11.410089,
+    44.606636,
+    11.410089,
+    44.606636
+],
   "geometry": {"coordinates":[11.410089,44.606636],"type":"Point"}
 }

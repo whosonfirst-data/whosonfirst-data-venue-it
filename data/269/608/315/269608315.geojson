@@ -2,13 +2,14 @@
   "id": 269608315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.774574,37.938969,12.774574,37.938969",
     "geom:latitude":37.938969,
     "geom:longitude":12.774574,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"91100 Trapani",
     "sg:city":"Trapani",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":269608315,
-    "wof:lastmodified":1449037158,
+    "wof:lastmodified":1466290414,
     "wof:name":"Burgarella Sas Di Zichichi Alberto G.ppe & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.774574,37.938969,12.774574,37.938969],
+  "bbox": [
+    12.774574,
+    37.938969,
+    12.774574,
+    37.938969
+],
   "geometry": {"coordinates":[12.774574,37.938969],"type":"Point"}
 }

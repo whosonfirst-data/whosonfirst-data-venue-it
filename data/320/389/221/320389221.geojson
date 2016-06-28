@@ -2,13 +2,14 @@
   "id": 320389221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.297055,44.68,11.297055,44.68",
     "geom:latitude":44.68,
     "geom:longitude":11.297055,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40050 Castello D'argile",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Abbigliamento E Pelletterie. Apparecchiature Ed Attrezzature Meccaniche. Elettrotecnica Industriale, Prodotti E Apparecchiature",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":320389221,
-    "wof:lastmodified":1449014200,
+    "wof:lastmodified":1466297374,
     "wof:name":"Collari Edore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.297055,44.68,11.297055,44.68],
+  "bbox": [
+    11.297055,
+    44.68,
+    11.297055,
+    44.68
+],
   "geometry": {"coordinates":[11.297055,44.68],"type":"Point"}
 }

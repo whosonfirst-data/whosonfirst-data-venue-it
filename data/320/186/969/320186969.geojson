@@ -2,13 +2,14 @@
   "id": 320186969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.642561,42.56456,12.642561,42.56456",
     "geom:latitude":42.56456,
     "geom:longitude":12.642561,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"05100 Terni",
     "sg:city":"Terni",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320186969,
-    "wof:lastmodified":1449014151,
+    "wof:lastmodified":1466295655,
     "wof:name":"Eurosteel Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.642561,42.56456,12.642561,42.56456],
+  "bbox": [
+    12.642561,
+    42.56456,
+    12.642561,
+    42.56456
+],
   "geometry": {"coordinates":[12.642561,42.56456],"type":"Point"}
 }

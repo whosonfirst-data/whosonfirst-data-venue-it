@@ -2,13 +2,14 @@
   "id": 219826189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.548451,45.06649,7.548451,45.06649",
     "geom:latitude":45.06649,
     "geom:longitude":7.548451,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Rivoli",
     "sg:classifiers":[],
     "sg:orig_category":"Imballaggi In Legno",
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219826189,
-    "wof:lastmodified":1449072964,
+    "wof:lastmodified":1466294537,
     "wof:name":"Industria Lavorazioni Legno Durbiano Di Ettore Durbiano & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.548451,45.06649,7.548451,45.06649],
+  "bbox": [
+    7.548451,
+    45.06649,
+    7.548451,
+    45.06649
+],
   "geometry": {"coordinates":[7.548451,45.06649],"type":"Point"}
 }

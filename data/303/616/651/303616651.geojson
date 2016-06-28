@@ -2,13 +2,14 @@
   "id": 303616651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.772234,45.644859,8.772234,45.644859",
     "geom:latitude":45.644859,
     "geom:longitude":8.772234,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21010 Cardano Al Campo",
     "sg:city":"Cardano al Campo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303616651,
-    "wof:lastmodified":1448999916,
+    "wof:lastmodified":1466297165,
     "wof:name":"Testa Arredamenti Di Testa Carlo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.772234,45.644859,8.772234,45.644859],
+  "bbox": [
+    8.772234,
+    45.644859,
+    8.772234,
+    45.644859
+],
   "geometry": {"coordinates":[8.772234,45.644859],"type":"Point"}
 }

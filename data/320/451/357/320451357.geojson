@@ -2,13 +2,14 @@
   "id": 320451357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.921657,45.701817,8.921657,45.701817",
     "geom:latitude":45.701817,
     "geom:longitude":8.921657,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"21049 Tradate",
     "sg:city":"Tradate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":320451357,
-    "wof:lastmodified":1449012881,
+    "wof:lastmodified":1466297522,
     "wof:name":"Artimex Di Vanzini Ivana & Ravazzani Ettore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.921657,45.701817,8.921657,45.701817],
+  "bbox": [
+    8.921657,
+    45.701817,
+    8.921657,
+    45.701817
+],
   "geometry": {"coordinates":[8.921657,45.701817],"type":"Point"}
 }

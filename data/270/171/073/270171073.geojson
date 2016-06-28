@@ -2,13 +2,14 @@
   "id": 270171073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.37763,45.665672,9.37763,45.665672",
     "geom:latitude":45.665672,
     "geom:longitude":9.37763,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Milano 24 23875 Osnago",
     "sg:city":"Osnago",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270171073,
-    "wof:lastmodified":1449011124,
+    "wof:lastmodified":1466291017,
     "wof:name":"Taroni & C. Sas Di Taroni Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "brake"
     ]
 },
-  "bbox": [9.37763,45.665672,9.37763,45.665672],
+  "bbox": [
+    9.37763,
+    45.665672,
+    9.37763,
+    45.665672
+],
   "geometry": {"coordinates":[9.37763,45.665672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303193181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.656505,45.03484,9.656505,45.03484",
     "geom:latitude":45.03484,
     "geom:longitude":9.656505,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"29100 Piacenza",
     "sg:city":"Piacenza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":303193181,
-    "wof:lastmodified":1448998514,
+    "wof:lastmodified":1466292868,
     "wof:name":"Silectron S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.656505,45.03484,9.656505,45.03484],
+  "bbox": [
+    9.656505,
+    45.03484,
+    9.656505,
+    45.03484
+],
   "geometry": {"coordinates":[9.656505,45.03484],"type":"Point"}
 }

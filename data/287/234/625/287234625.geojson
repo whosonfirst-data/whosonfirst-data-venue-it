@@ -2,13 +2,14 @@
   "id": 287234625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.431372,42.039116,13.431372,42.039116",
     "geom:latitude":42.039116,
     "geom:longitude":13.431372,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"429, Via Cavour Camillo Benso 67051 Avezzano",
     "sg:classifiers":[
         {
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287234625,
-    "wof:lastmodified":1449001542,
+    "wof:lastmodified":1466292728,
     "wof:name":"Marel Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electronic"
     ]
 },
-  "bbox": [13.431372,42.039116,13.431372,42.039116],
+  "bbox": [
+    13.431372,
+    42.039116,
+    13.431372,
+    42.039116
+],
   "geometry": {"coordinates":[13.431372,42.039116],"type":"Point"}
 }

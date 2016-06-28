@@ -2,13 +2,14 @@
   "id": 303041723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.510419,45.094131,11.510419,45.094131",
     "geom:latitude":45.094131,
     "geom:longitude":11.510419,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Via Dell' Artigianato 45021 Badia Polesine",
     "sg:city":"Badia Polesine",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303041723,
-    "wof:lastmodified":1448999004,
+    "wof:lastmodified":1466290873,
     "wof:name":"Re.t.i.c.e. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [11.510419,45.094131,11.510419,45.094131],
+  "bbox": [
+    11.510419,
+    45.094131,
+    11.510419,
+    45.094131
+],
   "geometry": {"coordinates":[11.510419,45.094131],"type":"Point"}
 }

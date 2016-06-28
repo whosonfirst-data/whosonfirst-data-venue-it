@@ -2,13 +2,14 @@
   "id": 253592461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.26832,41.322395,16.26832,41.322395",
     "geom:latitude":41.322395,
     "geom:longitude":16.26832,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Sfregola 13 70051 Barletta",
     "sg:city":"Barletta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":253592461,
-    "wof:lastmodified":1449064525,
+    "wof:lastmodified":1466295859,
     "wof:name":"Maglificio Tiesse Di Toria Savino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.26832,41.322395,16.26832,41.322395],
+  "bbox": [
+    16.26832,
+    41.322395,
+    16.26832,
+    41.322395
+],
   "geometry": {"coordinates":[16.26832,41.322395],"type":"Point"}
 }

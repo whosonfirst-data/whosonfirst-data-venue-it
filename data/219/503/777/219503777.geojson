@@ -2,13 +2,14 @@
   "id": 219503777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.567739,45.684101,11.567739,45.684101",
     "geom:latitude":45.684101,
     "geom:longitude":11.567739,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"36042 Breganze",
     "sg:city":"Breganze",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219503777,
-    "wof:lastmodified":1449073930,
+    "wof:lastmodified":1466291431,
     "wof:name":"Sugherificio Bonino Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.567739,45.684101,11.567739,45.684101],
+  "bbox": [
+    11.567739,
+    45.684101,
+    11.567739,
+    45.684101
+],
   "geometry": {"coordinates":[11.567739,45.684101],"type":"Point"}
 }

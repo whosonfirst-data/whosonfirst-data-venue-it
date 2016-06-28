@@ -2,13 +2,14 @@
   "id": 303931995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.649109,43.257534,13.649109,43.257534",
     "geom:latitude":43.257534,
     "geom:longitude":13.649109,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"63014 Montegranaro",
     "sg:city":"Montegranaro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":303931995,
-    "wof:lastmodified":1449000347,
+    "wof:lastmodified":1466298067,
     "wof:name":"Grafiche Silver Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.649109,43.257534,13.649109,43.257534],
+  "bbox": [
+    13.649109,
+    43.257534,
+    13.649109,
+    43.257534
+],
   "geometry": {"coordinates":[13.649109,43.257534],"type":"Point"}
 }

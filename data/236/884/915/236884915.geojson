@@ -2,13 +2,14 @@
   "id": 236884915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.356607,45.455578,12.356607,45.455578",
     "geom:latitude":45.455578,
     "geom:longitude":12.356607,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"54/b, Fondamenta Navagero Andrea 30141 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236884915,
-    "wof:lastmodified":1449004476,
+    "wof:lastmodified":1466297012,
     "wof:name":"Nuova Venier S.r.l.",
     "wof:parent_id":85905023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.356607,45.455578,12.356607,45.455578],
+  "bbox": [
+    12.356607,
+    45.455578,
+    12.356607,
+    45.455578
+],
   "geometry": {"coordinates":[12.356607,45.455578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270184615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.893218,43.895859,12.893218,43.895859",
     "geom:latitude":43.895859,
     "geom:longitude":12.893218,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"61100 Pesaro",
     "sg:city":"Pesaro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":270184615,
-    "wof:lastmodified":1449009050,
+    "wof:lastmodified":1466291178,
     "wof:name":"Battisti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.893218,43.895859,12.893218,43.895859],
+  "bbox": [
+    12.893218,
+    43.895859,
+    12.893218,
+    43.895859
+],
   "geometry": {"coordinates":[12.893218,43.895859],"type":"Point"}
 }

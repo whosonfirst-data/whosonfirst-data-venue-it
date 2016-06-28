@@ -2,13 +2,14 @@
   "id": 303253737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.572402,44.623695,10.572402,44.623695",
     "geom:latitude":44.623695,
     "geom:longitude":10.572402,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Via F. Maritano 42020 Albinea",
     "sg:classifiers":[
         {
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303253737,
-    "wof:lastmodified":1449000265,
+    "wof:lastmodified":1466293661,
     "wof:name":"Flexbimec (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [10.572402,44.623695,10.572402,44.623695],
+  "bbox": [
+    10.572402,
+    44.623695,
+    10.572402,
+    44.623695
+],
   "geometry": {"coordinates":[10.572402,44.623695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236743311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.52775,44.518303,11.52775,44.518303",
     "geom:latitude":44.518303,
     "geom:longitude":11.52775,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Gaetano Giordani 2 40054 Budrio",
     "sg:city":"Budrio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":236743311,
-    "wof:lastmodified":1449005226,
+    "wof:lastmodified":1466296566,
     "wof:name":"Aercel Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.52775,44.518303,11.52775,44.518303],
+  "bbox": [
+    11.52775,
+    44.518303,
+    11.52775,
+    44.518303
+],
   "geometry": {"coordinates":[11.52775,44.518303],"type":"Point"}
 }

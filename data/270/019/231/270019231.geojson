@@ -2,13 +2,14 @@
   "id": 270019231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.090865,45.417313,11.090865,45.417313",
     "geom:latitude":45.417313,
     "geom:longitude":11.090865,
     "iso:country":"IT",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Fratelli Cervi 5 37036 San Martino Buon Albergo",
     "sg:city":"San Martino Buon Albergo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270019231,
-    "wof:lastmodified":1449010060,
+    "wof:lastmodified":1466289224,
     "wof:name":"Infissi E Serramenti Di Peloso Graziano",
     "wof:parent_id":85905053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "window"
     ]
 },
-  "bbox": [11.090865,45.417313,11.090865,45.417313],
+  "bbox": [
+    11.090865,
+    45.417313,
+    11.090865,
+    45.417313
+],
   "geometry": {"coordinates":[11.090865,45.417313],"type":"Point"}
 }
