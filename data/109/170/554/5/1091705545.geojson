@@ -2,6 +2,10 @@
   "id": 1091705545,
   "type": "Feature",
   "properties": {
+    "addr:full":"202, Via Costa Andrea 40134 Bologna Bologna Bologna 40134",
+    "addr:housenumber":"202",
+    "addr:postcode":"40134;40134",
+    "addr:street":"Via Costa Andrea",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1091705545,
-    "wof:lastmodified":1473879962,
+    "wof:lastmodified":1473900754,
     "wof:name":"Tmc (s.r.l.)",
     "wof:parent_id":85904593,
     "wof:placetype":"venue",

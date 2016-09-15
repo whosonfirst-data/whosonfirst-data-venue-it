@@ -2,6 +2,10 @@
   "id": 186061363,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via Emilia Est, 138/a/b/c; Parma; 43100 Parma Parma 43100",
+    "addr:housenumber":"138 / a / b / c",
+    "addr:postcode":"43100;43100",
+    "addr:street":"Via Emilia Est",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":186061363,
-    "wof:lastmodified":1466295313,
+    "wof:lastmodified":1473900154,
     "wof:name":"Cooper Banca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

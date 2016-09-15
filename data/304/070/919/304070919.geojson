@@ -2,6 +2,10 @@
   "id": 304070919,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via Mascagni Pietro 160 00199 Roma Roma Roma 00199",
+    "addr:housenumber":"160",
+    "addr:postcode":"00199;00199",
+    "addr:street":"Via;Pietro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304070919,
-    "wof:lastmodified":1466293131,
+    "wof:lastmodified":1473900367,
     "wof:name":"Bmg Ricordi Spa",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",

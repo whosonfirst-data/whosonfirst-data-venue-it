@@ -2,6 +2,10 @@
   "id": 286267893,
   "type": "Feature",
   "properties": {
+    "addr:full":"456, Via Laurentina 00142 Roma Roma Roma 00142",
+    "addr:housenumber":"456",
+    "addr:postcode":"00142;00142",
+    "addr:street":"Via Laurentina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286267893,
-    "wof:lastmodified":1466289507,
+    "wof:lastmodified":1473900172,
     "wof:name":"Texaco Italiana S.p.a.",
     "wof:parent_id":85900507,
     "wof:placetype":"venue",

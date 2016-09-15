@@ -2,6 +2,10 @@
   "id": 286284023,
   "type": "Feature",
   "properties": {
+    "addr:full":"7/c/d/e, Via Padergnone 24050 Grassobbio Grassobbio Bergamo 24050",
+    "addr:housenumber":"7 / c;d / e",
+    "addr:postcode":"24050;24050",
+    "addr:street":"/;Via Padergnone",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":286284023,
-    "wof:lastmodified":1466289725,
+    "wof:lastmodified":1473900280,
     "wof:name":"Lautex (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

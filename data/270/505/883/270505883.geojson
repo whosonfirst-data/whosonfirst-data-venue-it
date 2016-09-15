@@ -2,6 +2,10 @@
   "id": 270505883,
   "type": "Feature",
   "properties": {
+    "addr:full":"4/d, Via Marescalchi 40123 Bologna Bologna Bologna 40123",
+    "addr:housenumber":"4 / d",
+    "addr:postcode":"40123;40123",
+    "addr:street":"Via Marescalchi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270505883,
-    "wof:lastmodified":1466295132,
+    "wof:lastmodified":1473901861,
     "wof:name":"Mingardi",
     "wof:parent_id":85900451,
     "wof:placetype":"venue",

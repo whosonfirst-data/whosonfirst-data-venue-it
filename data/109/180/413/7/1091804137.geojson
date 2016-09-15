@@ -2,6 +2,10 @@
   "id": 1091804137,
   "type": "Feature",
   "properties": {
+    "addr:full":"via fidia 26 via cardinal massaia 83 Turin 10141",
+    "addr:housenumber":"26;83",
+    "addr:postcode":"10141",
+    "addr:street":"Via Fidia;Via Cardinal Massaia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1091804137,
-    "wof:lastmodified":1473884818,
+    "wof:lastmodified":1473900274,
     "wof:name":"Myminutes",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
