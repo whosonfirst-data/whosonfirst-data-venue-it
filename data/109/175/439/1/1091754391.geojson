@@ -1,0 +1,89 @@
+{
+  "id": 1091754391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1680850983,45.453502655,9.1680850983,45.453502655",
+    "geom:latitude":45.453503,
+    "geom:longitude":9.168085,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"20144 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 581501",
+    "sg:postcode":"20144",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "factoring"
+    ],
+    "sg:website":"http://www.factorit.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862721,
+        102191581,
+        404468459,
+        85633253,
+        404227497,
+        101752703,
+        85685243,
+        85796803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6daPCH4eGIoR8NPBflvWSV_45.453503_9.168085@1306269896"
+    },
+    "wof:country":"IT",
+    "wof:created":1473882480,
+    "wof:geomhash":"67aa96472998c8d5d6d262a5ef9e0ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85862721,
+            "region_id":85685243,
+            "venue_id":1091754391
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":1091754391
+        }
+    ],
+    "wof:id":1091754391,
+    "wof:lastmodified":1473882480,
+    "wof:name":"Factorit Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "factoring"
+    ]
+},
+  "bbox": [
+    9.1680850983,
+    45.453502655,
+    9.1680850983,
+    45.453502655
+],
+  "geometry": {"coordinates":[9.1680850983,45.453502655],"type":"Point"}
+}

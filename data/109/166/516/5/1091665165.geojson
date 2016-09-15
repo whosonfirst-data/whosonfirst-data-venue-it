@@ -1,0 +1,80 @@
+{
+  "id": 1091665165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.240893364,45.5494270325,9.240893364,45.5494270325",
+    "geom:latitude":45.549427,
+    "geom:longitude":9.240893,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Fratelli Gracchi 36 20092 Cinisello Balsamo",
+    "sg:city":"Cinisello Balsamo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 618 7121",
+    "sg:postcode":"20092",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "product",
+        "milk"
+    ],
+    "sg:website":"www.cademartori.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862739,
+        102191581,
+        404468377,
+        85633253,
+        404227497,
+        101752699,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c4hOWQHtN4s7xdQTBzaIe_45.549427_9.240893@1306269882"
+    },
+    "wof:country":"IT",
+    "wof:created":1473878210,
+    "wof:geomhash":"4fa082baf272f613dc183c295dd35523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468377,
+            "locality_id":101752699,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85862739,
+            "region_id":85685243,
+            "venue_id":1091665165
+        }
+    ],
+    "wof:id":1091665165,
+    "wof:lastmodified":1473878210,
+    "wof:name":"Cademartori Introbio Spa",
+    "wof:parent_id":85862739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "milk"
+    ]
+},
+  "bbox": [
+    9.240893364,
+    45.5494270325,
+    9.240893364,
+    45.5494270325
+],
+  "geometry": {"coordinates":[9.240893364,45.5494270325],"type":"Point"}
+}

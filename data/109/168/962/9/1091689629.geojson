@@ -1,0 +1,80 @@
+{
+  "id": 1091689629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1861724854,45.4392623901,9.1861724854,45.4392623901",
+    "geom:latitude":45.439262,
+    "geom:longitude":9.186172,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Boeri 11 20141 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 846 7345",
+    "sg:postcode":"20141",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "plant",
+        "refining"
+    ],
+    "sg:website":"www.forain.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797023,
+        102191581,
+        404468459,
+        85633253,
+        404227497,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xrfr3lVIyKksCO8zPkgau_45.439262_9.186172@1306269886"
+    },
+    "wof:country":"IT",
+    "wof:created":1473879307,
+    "wof:geomhash":"e7f16a3a09ab2758c43fab6ba9f6fc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85797023,
+            "region_id":85685243,
+            "venue_id":1091689629
+        }
+    ],
+    "wof:id":1091689629,
+    "wof:lastmodified":1473879307,
+    "wof:name":"Forain Srl",
+    "wof:parent_id":85797023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "refining"
+    ]
+},
+  "bbox": [
+    9.1861724854,
+    45.4392623901,
+    9.1861724854,
+    45.4392623901
+],
+  "geometry": {"coordinates":[9.1861724854,45.4392623901],"type":"Point"}
+}

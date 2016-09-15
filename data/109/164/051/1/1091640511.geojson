@@ -1,0 +1,79 @@
+{
+  "id": 1091640511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1929683685,45.4538116455,9.1929683685,45.4538116455",
+    "geom:latitude":45.453812,
+    "geom:longitude":9.192968,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Anelli Luigi 3 20122 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 568031",
+    "sg:postcode":"20122",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "plant",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85796803,
+        102191581,
+        404468459,
+        85633253,
+        404227497,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i7Tfr2kE77Mm30IOvHi6u_45.453812_9.192968@1306269828"
+    },
+    "wof:country":"IT",
+    "wof:created":1473814188,
+    "wof:geomhash":"857537a3e7f3bcf57d85553e7c1421b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":1091640511
+        }
+    ],
+    "wof:id":1091640511,
+    "wof:lastmodified":1473814188,
+    "wof:name":"Ionics Italba Spa",
+    "wof:parent_id":85796803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "treatment"
+    ]
+},
+  "bbox": [
+    9.1929683685,
+    45.4538116455,
+    9.1929683685,
+    45.4538116455
+],
+  "geometry": {"coordinates":[9.1929683685,45.4538116455],"type":"Point"}
+}

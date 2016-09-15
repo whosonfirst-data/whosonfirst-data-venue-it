@@ -1,0 +1,88 @@
+{
+  "id": 1091644381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.3514690399,44.4917297363,11.3514690399,44.4917297363",
+    "geom:latitude":44.49173,
+    "geom:longitude":11.351469,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"40125 Bologna",
+    "sg:city":"Bologna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 051 230028",
+    "sg:postcode":"40125",
+    "sg:province":"Bologna",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900451,
+        102191581,
+        404472237,
+        85633253,
+        404227509,
+        101752665,
+        85685351,
+        85904601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K8geObMk94GRmXqiSks1T_44.491730_11.351469@1306269878"
+    },
+    "wof:country":"IT",
+    "wof:created":1473814375,
+    "wof:geomhash":"a5fc95557a5d8492787afd428dbda63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404472237,
+            "locality_id":101752665,
+            "macroregion_id":404227509,
+            "neighbourhood_id":85900451,
+            "region_id":85685351,
+            "venue_id":1091644381
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404472237,
+            "locality_id":101752665,
+            "macroregion_id":404227509,
+            "neighbourhood_id":85904601,
+            "region_id":85685351,
+            "venue_id":1091644381
+        }
+    ],
+    "wof:id":1091644381,
+    "wof:lastmodified":1473814375,
+    "wof:name":"Pedrini Oreste",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [
+    11.3514690399,
+    44.4917297363,
+    11.3514690399,
+    44.4917297363
+],
+  "geometry": {"coordinates":[11.3514690399,44.4917297363],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1091644385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.2967176437,45.487449646,9.2967176437,45.487449646",
+    "geom:latitude":45.48745,
+    "geom:longitude":9.296718,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"20129 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 545 6965",
+    "sg:postcode":"20129",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85935821,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g5PdOleOjcURz8hvvY3XY_45.487450_9.296718@1306269878"
+    },
+    "wof:country":"IT",
+    "wof:created":1473814375,
+    "wof:geomhash":"42e6018744eb874770f2c5def93dcc88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633253,
+            "neighbourhood_id":85935821,
+            "region_id":85685243,
+            "venue_id":1091644385
+        }
+    ],
+    "wof:id":1091644385,
+    "wof:lastmodified":1473814375,
+    "wof:name":"Pedroni Rodolfo",
+    "wof:parent_id":85935821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [
+    9.2967176437,
+    45.487449646,
+    9.2967176437,
+    45.487449646
+],
+  "geometry": {"coordinates":[9.2967176437,45.487449646],"type":"Point"}
+}

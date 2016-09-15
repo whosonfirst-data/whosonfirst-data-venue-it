@@ -1,0 +1,81 @@
+{
+  "id": 1091802723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3401679993,45.4353752136,12.3401679993,45.4353752136",
+    "geom:latitude":45.435375,
+    "geom:longitude":12.340168,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"383 S. Marco, 30124 Venezia",
+    "sg:city":"Venezia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 041 529 3711",
+    "sg:postcode":"30124",
+    "sg:province":"Venezia",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905023,
+        102191581,
+        404470193,
+        85633253,
+        404227501,
+        101752689,
+        85685305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hpuRNgy0aOhgD6edTeGPN_45.435375_12.340168@1306269904"
+    },
+    "wof:country":"IT",
+    "wof:created":1473884761,
+    "wof:geomhash":"fbd12e0275d6110c7445d6336bc4aeea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404470193,
+            "locality_id":101752689,
+            "macroregion_id":404227501,
+            "neighbourhood_id":85905023,
+            "region_id":85685305,
+            "venue_id":1091802723
+        }
+    ],
+    "wof:id":1091802723,
+    "wof:lastmodified":1473884761,
+    "wof:name":"Banca Banco San Marco",
+    "wof:parent_id":85905023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [
+    12.3401679993,
+    45.4353752136,
+    12.3401679993,
+    45.4353752136
+],
+  "geometry": {"coordinates":[12.3401679993,45.4353752136],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1091648971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1952610016,45.4542884827,9.1952610016,45.4542884827",
+    "geom:latitude":45.454288,
+    "geom:longitude":9.195261,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"20122 Milano",
+    "sg:city":"Milano",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 498 3533",
+    "sg:postcode":"20122",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797023,
+        102191581,
+        404468459,
+        85633253,
+        404227497,
+        101752703,
+        85685243,
+        85796803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C3uge6mgKS7O3EGADFtFL_45.454288_9.195261@1306269879"
+    },
+    "wof:country":"IT",
+    "wof:created":1473877559,
+    "wof:geomhash":"7eb555e2d73e8b01f1271a616eed607d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85797023,
+            "region_id":85685243,
+            "venue_id":1091648971
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85796803,
+            "region_id":85685243,
+            "venue_id":1091648971
+        }
+    ],
+    "wof:id":1091648971,
+    "wof:lastmodified":1473877559,
+    "wof:name":"Valerio Perrone",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [
+    9.1952610016,
+    45.4542884827,
+    9.1952610016,
+    45.4542884827
+],
+  "geometry": {"coordinates":[9.1952610016,45.4542884827],"type":"Point"}
+}

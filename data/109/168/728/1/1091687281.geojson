@@ -1,0 +1,80 @@
+{
+  "id": 1091687281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.0762548447,45.5066604614,9.0762548447,45.5066604614",
+    "geom:latitude":45.50666,
+    "geom:longitude":9.076255,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Figino 41 20016 Pero",
+    "sg:city":"Pero",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 02 339231",
+    "sg:postcode":"20016",
+    "sg:province":"Milano",
+    "sg:tags":[
+        "lift",
+        "elevator"
+    ],
+    "sg:website":"www.kone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862765,
+        102191581,
+        404468459,
+        85633253,
+        404227497,
+        101752703,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xggxMRu5QntRvWQIEMwMA_45.506660_9.076255@1306269885"
+    },
+    "wof:country":"IT",
+    "wof:created":1473879213,
+    "wof:geomhash":"31fc42baa393a61522e9db99570212cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85862765,
+            "region_id":85685243,
+            "venue_id":1091687281
+        }
+    ],
+    "wof:id":1091687281,
+    "wof:lastmodified":1473879213,
+    "wof:name":"Kone Spa",
+    "wof:parent_id":85862765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lift",
+        "elevator"
+    ]
+},
+  "bbox": [
+    9.0762548447,
+    45.5066604614,
+    9.0762548447,
+    45.5066604614
+],
+  "geometry": {"coordinates":[9.0762548447,45.5066604614],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1091692981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4612836838,41.9063682556,12.4612836838,41.9063682556",
+    "geom:latitude":41.906368,
+    "geom:longitude":12.461284,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"00193 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 687 3095",
+    "sg:postcode":"00193",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.raprui.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900313,
+        102191581,
+        404461721,
+        85633253,
+        404227517,
+        101752607,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BlneN1W7erC0VCJtDiPa6_41.906368_12.461284@1306269886"
+    },
+    "wof:country":"IT",
+    "wof:created":1473879440,
+    "wof:geomhash":"035922df2a66b9c8ec9381d57d322afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404461721,
+            "locality_id":101752607,
+            "macroregion_id":404227517,
+            "neighbourhood_id":85900313,
+            "region_id":85685461,
+            "venue_id":1091692981
+        }
+    ],
+    "wof:id":1091692981,
+    "wof:lastmodified":1473879440,
+    "wof:name":"D.u.t. Srl",
+    "wof:parent_id":85900313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    12.4612836838,
+    41.9063682556,
+    12.4612836838,
+    41.9063682556
+],
+  "geometry": {"coordinates":[12.4612836838,41.9063682556],"type":"Point"}
+}

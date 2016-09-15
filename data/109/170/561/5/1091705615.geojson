@@ -1,0 +1,80 @@
+{
+  "id": 1091705615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.1729574203,43.7588310242,11.1729574203,43.7588310242",
+    "geom:latitude":43.758831,
+    "geom:longitude":11.172957,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Don Lorenzo Perosi 9 50018 Scandicci",
+    "sg:city":"Scandicci",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 055 755193",
+    "sg:postcode":"50018",
+    "sg:province":"Firenze",
+    "sg:tags":[
+        "mechanics",
+        "precision"
+    ],
+    "sg:website":"www.bmvpresse.it",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85900321,
+        102191581,
+        404472819,
+        85633253,
+        404227511,
+        101837131,
+        85685407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30lpcCBx2JVTzVpoidQdoG_43.758831_11.172957@1306269888"
+    },
+    "wof:country":"IT",
+    "wof:created":1473879964,
+    "wof:geomhash":"fd2cd67b7308ed63191752d4571f6ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404472819,
+            "locality_id":101837131,
+            "macroregion_id":404227511,
+            "neighbourhood_id":85900321,
+            "region_id":85685407,
+            "venue_id":1091705615
+        }
+    ],
+    "wof:id":1091705615,
+    "wof:lastmodified":1473879964,
+    "wof:name":"Bmv Spa",
+    "wof:parent_id":85900321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanics",
+        "precision"
+    ]
+},
+  "bbox": [
+    11.1729574203,
+    43.7588310242,
+    11.1729574203,
+    43.7588310242
+],
+  "geometry": {"coordinates":[11.1729574203,43.7588310242],"type":"Point"}
+}

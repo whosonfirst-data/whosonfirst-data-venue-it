@@ -1,0 +1,69 @@
+{
+  "id": 1091643691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4500522614,41.8138275146,12.4500522614,41.8138275146",
+    "geom:latitude":41.813828,
+    "geom:longitude":12.450052,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "sg:address":"00144 Roma",
+    "sg:city":"Roma",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+39 06 520 0525",
+    "sg:postcode":"00144",
+    "sg:province":"Roma",
+    "sg:tags":[
+        "medici"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633253,
+        85900349,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56EVj3fX8McaSk3Df1M6ah_41.813828_12.450052@1306269877"
+    },
+    "wof:country":"IT",
+    "wof:created":1473814347,
+    "wof:geomhash":"946b0b019a6e29b888f4fd59d314906d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633253,
+            "neighbourhood_id":85900349,
+            "region_id":85685461,
+            "venue_id":1091643691
+        }
+    ],
+    "wof:id":1091643691,
+    "wof:lastmodified":1473814347,
+    "wof:name":"Aiello Pietro",
+    "wof:parent_id":85900349,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-it",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medici"
+    ]
+},
+  "bbox": [
+    12.4500522614,
+    41.8138275146,
+    12.4500522614,
+    41.8138275146
+],
+  "geometry": {"coordinates":[12.4500522614,41.8138275146],"type":"Point"}
+}
