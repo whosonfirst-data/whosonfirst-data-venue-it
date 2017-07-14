@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.690645,45.074558,7.690645,45.074558",
     "geom:latitude":45.074558,
     "geom:longitude":7.690645,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"166f56608b40c950710aa149cb6c058e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":286518057
         }
     ],
     "wof:id":286518057,
-    "wof:lastmodified":1473901221,
+    "wof:lastmodified":1491909773,
     "wof:name":"Gi.ti. Confezioni (s.a.s.)",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

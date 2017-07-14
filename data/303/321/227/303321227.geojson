@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.505202,41.919353,12.505202,41.919353",
     "geom:latitude":41.919353,
     "geom:longitude":12.505202,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"18bfc2bffb40847049f0f469d5b353ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":303321227
         }
     ],
     "wof:id":303321227,
-    "wof:lastmodified":1473901362,
+    "wof:lastmodified":1491899561,
     "wof:name":"Ambasciata Presso La S. Sede Austria",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

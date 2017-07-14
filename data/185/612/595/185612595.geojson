@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.673215,45.075386,7.673215,45.075386",
     "geom:latitude":45.075386,
     "geom:longitude":7.673215,
@@ -27,7 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -39,16 +43,18 @@
     "wof:geomhash":"e26f3840a6521c416eb594fda8941591",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":185612595
         }
     ],
     "wof:id":185612595,
-    "wof:lastmodified":1473900072,
+    "wof:lastmodified":1491909905,
     "wof:name":"Banca D'america E D'italia",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

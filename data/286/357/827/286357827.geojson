@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.672716,45.06078,7.672716,45.06078",
     "geom:latitude":45.06078,
     "geom:longitude":7.672716,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"5c01ddb4d6c8945b726347d76d1e43f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":286357827
         }
     ],
     "wof:id":286357827,
-    "wof:lastmodified":1473900553,
+    "wof:lastmodified":1491909899,
     "wof:name":"O.p. Ottica Piemontese (s.r.l.)",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

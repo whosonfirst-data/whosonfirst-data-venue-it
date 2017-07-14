@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.175173,45.44548,9.175173,45.44548",
     "geom:latitude":45.44548,
     "geom:longitude":9.175173,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"db5905a6a9eafa7bb5a5d81a09d196ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":336895917
         }
     ],
     "wof:id":336895917,
-    "wof:lastmodified":1473901107,
+    "wof:lastmodified":1491926922,
     "wof:name":"Barbieri Massimiliano",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

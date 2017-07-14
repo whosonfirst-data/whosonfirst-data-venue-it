@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.501435,41.911674,12.501435,41.911674",
     "geom:latitude":41.911674,
     "geom:longitude":12.501435,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"5dd22087ab5aca7f3de31ab81df41d5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":202641693
         }
     ],
     "wof:id":202641693,
-    "wof:lastmodified":1473900900,
+    "wof:lastmodified":1491899583,
     "wof:name":"Trenitalia Spa Divisione Cargo",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

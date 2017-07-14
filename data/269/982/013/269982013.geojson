@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.681428,45.000313,7.681428,45.000313",
     "geom:latitude":45.000313,
     "geom:longitude":7.681428,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"9146b6cd51e6caef9ea2f4264108777b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":269982013
         }
     ],
     "wof:id":269982013,
-    "wof:lastmodified":1473901764,
+    "wof:lastmodified":1491929766,
     "wof:name":"F.r.l. Snc",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

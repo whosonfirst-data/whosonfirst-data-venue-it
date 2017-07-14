@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.094924,40.832817,14.094924,40.832817",
     "geom:latitude":40.832817,
     "geom:longitude":14.094924,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"a1b31aa9e60472cca6faf3a83ca1dd45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":202426943
         }
     ],
     "wof:id":202426943,
-    "wof:lastmodified":1473900125,
+    "wof:lastmodified":1491926555,
     "wof:name":"Centro Scolastico Futura Srl",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

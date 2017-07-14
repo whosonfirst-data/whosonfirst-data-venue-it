@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.366432,38.101715,13.366432,38.101715",
     "geom:latitude":38.101715,
     "geom:longitude":13.366432,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904859,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"297b007b0dca3261e3a2722eb8ffc677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904859,
             "region_id":85685591,
             "venue_id":320037639
         }
     ],
     "wof:id":320037639,
-    "wof:lastmodified":1473900475,
+    "wof:lastmodified":1491921114,
     "wof:name":"Camarda Lorenzo",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",

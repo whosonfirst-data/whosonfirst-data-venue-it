@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.332314,38.133781,13.332314,38.133781",
     "geom:latitude":38.133781,
     "geom:longitude":13.332314,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"07750b83b893d92eb1d6b75de710d00f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":219648773
         }
     ],
     "wof:id":219648773,
-    "wof:lastmodified":1473901654,
+    "wof:lastmodified":1491912271,
     "wof:name":"Ufficio Provinciale Del Lavoro E Della M.o.",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

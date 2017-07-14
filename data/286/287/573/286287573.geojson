@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.189665,45.452873,9.189665,45.452873",
     "geom:latitude":45.452873,
     "geom:longitude":9.189665,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"2060e6bb4d4f827c3e4617d8e9e564af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":286287573
         }
     ],
     "wof:id":286287573,
-    "wof:lastmodified":1473900290,
+    "wof:lastmodified":1491926856,
     "wof:name":"Dompe' Biotec (s.p.a.)",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

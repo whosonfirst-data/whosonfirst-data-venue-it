@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.162172,45.42757,9.162172,45.42757",
     "geom:latitude":45.42757,
     "geom:longitude":9.162172,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862731,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"b1b77dfe3b13e18732afc1836fd6aaf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862731,
             "region_id":85685243,
             "venue_id":320852397
         }
     ],
     "wof:id":320852397,
-    "wof:lastmodified":1473901900,
+    "wof:lastmodified":1491912811,
     "wof:name":"Opto Lab Srl",
     "wof:parent_id":85862731,
     "wof:placetype":"venue",

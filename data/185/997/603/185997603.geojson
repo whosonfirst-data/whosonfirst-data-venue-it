@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.682957,45.066814,7.682957,45.066814",
     "geom:latitude":45.066814,
     "geom:longitude":7.682957,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"00b3b25e7db5e64698567dae2b2b5734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":185997603
         }
     ],
     "wof:id":185997603,
-    "wof:lastmodified":1473901402,
+    "wof:lastmodified":1491909862,
     "wof:name":"Cassa Di Risparmio Di Parma, E Piacenza Spa",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

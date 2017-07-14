@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.241291,43.76759,11.241291,43.76759",
     "geom:latitude":43.76759,
     "geom:longitude":11.241291,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904709,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"a9ec3e96b136af01aaa4c2035a7d69d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85904709,
             "region_id":85685407,
             "venue_id":235985149
         }
     ],
     "wof:id":235985149,
-    "wof:lastmodified":1473900254,
+    "wof:lastmodified":1491887325,
     "wof:name":"F.lli Masi Sas",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",

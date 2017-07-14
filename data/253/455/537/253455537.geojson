@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.00386,44.393684,9.00386,44.393684",
     "geom:latitude":44.393684,
     "geom:longitude":9.00386,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862681,
+        102191581,
+        404471975,
         85633253,
+        404227507,
         101752663,
         85685219,
         85862685
@@ -38,26 +42,30 @@
     "wof:geomhash":"6e92462df02939d455ff16aeb5efb1c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85862681,
             "region_id":85685219,
             "venue_id":253455537
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85862685,
             "region_id":85685219,
             "venue_id":253455537
         }
     ],
     "wof:id":253455537,
-    "wof:lastmodified":1473901356,
+    "wof:lastmodified":1491897283,
     "wof:name":"Georg Fischer Til S.p.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

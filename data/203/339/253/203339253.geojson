@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.249856,43.778,11.249856,43.778",
     "geom:latitude":43.778,
     "geom:longitude":11.249856,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904709,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"c0369a85e7fbc224fd3a1b4559a72b97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85904709,
             "region_id":85685407,
             "venue_id":203339253
         }
     ],
     "wof:id":203339253,
-    "wof:lastmodified":1473901336,
+    "wof:lastmodified":1491887327,
     "wof:name":"Centro Affari Di Firenze Spa",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",

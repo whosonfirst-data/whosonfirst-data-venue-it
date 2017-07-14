@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.218955,45.435955,9.218955,45.435955",
     "geom:latitude":45.435955,
     "geom:longitude":9.218955,
@@ -34,8 +35,8 @@
     "sg:website":"http://www.paginegialle.it/pompefunebriroma",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"4995ec7c54bd531de6665d7127c76213",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":219754981
         }
     ],
     "wof:id":219754981,
-    "wof:lastmodified":1473901791,
+    "wof:lastmodified":1491908739,
     "wof:name":"Impresa Pompe Funebri Roma Srl",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

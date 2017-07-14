@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.994532,44.39439,8.994532,44.39439",
     "geom:latitude":44.39439,
     "geom:longitude":8.994532,
@@ -24,10 +25,13 @@
     "sg:province":"Genova",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796961,
         85633253,
+        85796961,
         85685219,
         85862681,
+        102191581,
+        404471975,
+        404227507,
         101752663
     ],
     "wof:breaches":[],
@@ -38,26 +42,26 @@
     "wof:geomhash":"858de08c5a82601afc44d4a61646590c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796961,
             "region_id":85685219,
             "venue_id":304042477
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85862681,
             "region_id":85685219,
             "venue_id":304042477
         }
     ],
     "wof:id":304042477,
-    "wof:lastmodified":1473900327,
+    "wof:lastmodified":1491897282,
     "wof:name":"Associazione Nazionale Combattenti E Reduci",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

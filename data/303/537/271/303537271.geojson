@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.695654,45.076782,7.695654,45.076782",
     "geom:latitude":45.076782,
     "geom:longitude":7.695654,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"20a1b1a3bb1af0bb98226495ac89ee2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":303537271
         }
     ],
     "wof:id":303537271,
-    "wof:lastmodified":1473901790,
+    "wof:lastmodified":1491909858,
     "wof:name":"M.c.d. Di Dingraudo E C. (s.n.c.)",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

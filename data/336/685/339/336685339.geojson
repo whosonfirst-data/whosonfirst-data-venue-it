@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.239361,43.77409,11.239361,43.77409",
     "geom:latitude":43.77409,
     "geom:longitude":11.239361,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904709,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"1d9acd042b77422d512bae5c1fce2db6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85904709,
             "region_id":85685407,
             "venue_id":336685339
         }
     ],
     "wof:id":336685339,
-    "wof:lastmodified":1473900358,
+    "wof:lastmodified":1491887337,
     "wof:name":"Hotel Consigli",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",

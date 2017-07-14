@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.508349,41.927868,12.508349,41.927868",
     "geom:latitude":41.927868,
     "geom:longitude":12.508349,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461,
         85900397
@@ -47,26 +51,30 @@
     "wof:geomhash":"cb95e8ed09a825792ea2ea0f35e79ee9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":286713283
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900397,
             "region_id":85685461,
             "venue_id":286713283
         }
     ],
     "wof:id":286713283,
-    "wof:lastmodified":1473901501,
+    "wof:lastmodified":1491899528,
     "wof:name":"Vitale Costruzioni Srl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

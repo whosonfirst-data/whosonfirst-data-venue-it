@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.496534,41.923855,12.496534,41.923855",
     "geom:latitude":41.923855,
     "geom:longitude":12.496534,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"254b30b1eb1c99a4b2b8779712033069",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":203339839
         }
     ],
     "wof:id":203339839,
-    "wof:lastmodified":1473901354,
+    "wof:lastmodified":1491899545,
     "wof:name":"Centro Uffici Parioli Srl",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

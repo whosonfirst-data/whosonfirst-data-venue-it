@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.698469,45.107735,7.698469,45.107735",
     "geom:latitude":45.107735,
     "geom:longitude":7.698469,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"c42ba05259cfc27af0714887dfcc8ccc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":253502157
         }
     ],
     "wof:id":253502157,
-    "wof:lastmodified":1473901444,
+    "wof:lastmodified":1491932776,
     "wof:name":"Vetreria Pino Di Cucinotta Giuseppe",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.215706,45.452221,9.215706,45.452221",
     "geom:latitude":45.452221,
     "geom:longitude":9.215706,
@@ -34,8 +35,8 @@
     "sg:website":"www.elchim.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"daf3de65e54c357f131bca3c6e03d027",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":186225119
         }
     ],
     "wof:id":186225119,
-    "wof:lastmodified":1473900605,
+    "wof:lastmodified":1491908716,
     "wof:name":"Elchim Spa",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

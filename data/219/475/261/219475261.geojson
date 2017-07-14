@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.667868,45.07,7.667868,45.07",
     "geom:latitude":45.07,
     "geom:longitude":7.667868,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"3465fe52b3b065a4cd8bdef87faea6e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":219475261
         }
     ],
     "wof:id":219475261,
-    "wof:lastmodified":1473901318,
+    "wof:lastmodified":1491909786,
     "wof:name":"Ariagno Sergio",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

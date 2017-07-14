@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.215108,45.43832,9.215108,45.43832",
     "geom:latitude":45.43832,
     "geom:longitude":9.215108,
@@ -33,8 +34,8 @@
     "sg:website":"www.cs-strumentazione.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -45,16 +46,14 @@
     "wof:geomhash":"0bd7a4fe416ed507fcddf832e9b48b29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":286821689
         }
     ],
     "wof:id":286821689,
-    "wof:lastmodified":1473901745,
+    "wof:lastmodified":1491908733,
     "wof:name":"C.s.strumentazione Elettronica Srl",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

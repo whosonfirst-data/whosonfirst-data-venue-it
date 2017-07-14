@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.205775,45.448963,9.205775,45.448963",
     "geom:latitude":45.448963,
     "geom:longitude":9.205775,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"3c44deacd183b17e95f2f101fce9d5e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":286900487
         }
     ],
     "wof:id":286900487,
-    "wof:lastmodified":1473901980,
+    "wof:lastmodified":1491908725,
     "wof:name":"Technides S.a.s.",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

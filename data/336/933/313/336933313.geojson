@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.678648,45.076862,7.678648,45.076862",
     "geom:latitude":45.076862,
     "geom:longitude":7.678648,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"0ddde701dff5ea9a9bd7917cf9f5f698",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":336933313
         }
     ],
     "wof:id":336933313,
-    "wof:lastmodified":1473901259,
+    "wof:lastmodified":1491909858,
     "wof:name":"Ellena Sergio",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

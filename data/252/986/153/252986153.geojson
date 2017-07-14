@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.27631,43.736275,11.27631,43.736275",
     "geom:latitude":43.736275,
     "geom:longitude":11.27631,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906289,
+        102191581,
+        404472739,
         85633253,
+        404227511,
         101799049,
         85685407
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"dc5d64a4c6de4f994a730a3dc98525f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472739,
             "locality_id":101799049,
+            "macroregion_id":404227511,
             "neighbourhood_id":85906289,
             "region_id":85685407,
             "venue_id":252986153
         }
     ],
     "wof:id":252986153,
-    "wof:lastmodified":1473901267,
+    "wof:lastmodified":1491908404,
     "wof:name":"Il Gioiello Di Firenze Srl",
     "wof:parent_id":85906289,
     "wof:placetype":"venue",

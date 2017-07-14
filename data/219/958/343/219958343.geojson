@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.688172,45.1087,7.688172,45.1087",
     "geom:latitude":45.1087,
     "geom:longitude":7.688172,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"fe1bd73a940ed381b9cd56e9b1149d80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":219958343
         }
     ],
     "wof:id":219958343,
-    "wof:lastmodified":1473901882,
+    "wof:lastmodified":1491932833,
     "wof:name":"Telum (s.a.s.)",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

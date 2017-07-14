@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.098968,40.836494,14.098968,40.836494",
     "geom:latitude":40.836494,
     "geom:longitude":14.098968,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"232c4e3f587604994e12f83e68da759e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":203063651
         }
     ],
     "wof:id":203063651,
-    "wof:lastmodified":1473900479,
+    "wof:lastmodified":1491926554,
     "wof:name":"Studio Punzo & Testa",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

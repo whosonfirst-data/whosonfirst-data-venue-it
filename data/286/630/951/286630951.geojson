@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.147633,45.431911,9.147633,45.431911",
     "geom:latitude":45.431911,
     "geom:longitude":9.147633,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862731,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"925e221ba77f344ddb7e9d0195b83f42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862731,
             "region_id":85685243,
             "venue_id":286630951
         }
     ],
     "wof:id":286630951,
-    "wof:lastmodified":1473901333,
+    "wof:lastmodified":1491912811,
     "wof:name":"Fuse' Carlo Spa",
     "wof:parent_id":85862731,
     "wof:placetype":"venue",

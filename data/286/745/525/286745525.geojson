@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.221521,45.446636,9.221521,45.446636",
     "geom:latitude":45.446636,
     "geom:longitude":9.221521,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"435ee546450fe5667cc959aac5e5db8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":286745525
         }
     ],
     "wof:id":286745525,
-    "wof:lastmodified":1473901596,
+    "wof:lastmodified":1491908725,
     "wof:name":"Gimmillaro Salvatore",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

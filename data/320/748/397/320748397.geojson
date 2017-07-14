@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.703079,45.141853,7.703079,45.141853",
     "geom:latitude":45.141853,
     "geom:longitude":7.703079,
@@ -23,8 +24,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -35,16 +36,14 @@
     "wof:geomhash":"6ec92be0f967946a48564be539d75a98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":320748397
         }
     ],
     "wof:id":320748397,
-    "wof:lastmodified":1473901894,
+    "wof:lastmodified":1491932788,
     "wof:name":"Imper Italia S.p.a.",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

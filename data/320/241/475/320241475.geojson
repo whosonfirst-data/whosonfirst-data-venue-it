@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.110998,40.833794,14.110998,40.833794",
     "geom:latitude":40.833794,
     "geom:longitude":14.110998,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"88c56b3c26366053b6659317dc4534cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":320241475
         }
     ],
     "wof:id":320241475,
-    "wof:lastmodified":1473901443,
+    "wof:lastmodified":1491894722,
     "wof:name":"Alter Seri Sas",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

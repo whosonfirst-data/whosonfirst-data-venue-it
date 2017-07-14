@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.668942,45.078072,7.668942,45.078072",
     "geom:latitude":45.078072,
     "geom:longitude":7.668942,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"bb5d7bbd92a1a6456a25ed65853b3c99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":203324291
         }
     ],
     "wof:id":203324291,
-    "wof:lastmodified":1473901286,
+    "wof:lastmodified":1491909784,
     "wof:name":"Il Giramondo",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.168199,45.447922,9.168199,45.447922",
     "geom:latitude":45.447922,
     "geom:longitude":9.168199,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"4fee989031b754a2ed0ab1ee6a70bb58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":303317835
         }
     ],
     "wof:id":303317835,
-    "wof:lastmodified":1473901386,
+    "wof:lastmodified":1491926891,
     "wof:name":"Samie Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

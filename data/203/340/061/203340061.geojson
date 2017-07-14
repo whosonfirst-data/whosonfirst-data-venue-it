@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.334125,38.124218,13.334125,38.124218",
     "geom:latitude":38.124218,
     "geom:longitude":13.334125,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"ae8914b72d924cf27cdcbe6a20e900e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":203340061
         }
     ],
     "wof:id":203340061,
-    "wof:lastmodified":1473901333,
+    "wof:lastmodified":1491912273,
     "wof:name":"Centro Vetrinistico Lo Conte Srl",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.199751,45.423962,9.199751,45.423962",
     "geom:latitude":45.423962,
     "geom:longitude":9.199751,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"431d398797a277caf5eb57dd2c96551a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":270279391
         }
     ],
     "wof:id":270279391,
-    "wof:lastmodified":1473901491,
+    "wof:lastmodified":1491908726,
     "wof:name":"Magnacarta Snc",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6848816872,45.0009346008,7.6848816872,45.0009346008",
     "geom:latitude":45.000935,
     "geom:longitude":7.684882,
@@ -25,16 +26,16 @@
     "sg:website":"http://www.comune.moncalieri.to.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862773,
+        85797011,
         102191581,
-        404457355,
+        404456525,
         85633253,
         404227493,
-        101752697,
+        101752693,
         85685169,
-        85797011,
-        404456525,
-        101752693
+        85862773,
+        404457355,
+        101752697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +48,28 @@
         {
             "continent_id":102191581,
             "country_id":85633253,
-            "localadmin_id":404457355,
-            "locality_id":101752697,
-            "macroregion_id":404227493,
-            "neighbourhood_id":85862773,
-            "region_id":85685169,
-            "venue_id":1091740845
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633253,
             "localadmin_id":404456525,
             "locality_id":101752693,
             "macroregion_id":404227493,
             "neighbourhood_id":85797011,
             "region_id":85685169,
             "venue_id":1091740845
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404457355,
+            "locality_id":101752697,
+            "macroregion_id":404227493,
+            "neighbourhood_id":85862773,
+            "region_id":85685169,
+            "venue_id":1091740845
         }
     ],
     "wof:id":1091740845,
-    "wof:lastmodified":1473900221,
+    "wof:lastmodified":1491929754,
     "wof:name":"Comune Di Moncalieri - Assessorato Alla Cultura",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

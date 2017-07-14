@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.704827,45.086487,7.704827,45.086487",
     "geom:latitude":45.086487,
     "geom:longitude":7.704827,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862779,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"100a3b9192d6fc29fdff11c286739f53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862779,
             "region_id":85685169,
             "venue_id":219924175
         }
     ],
     "wof:id":219924175,
-    "wof:lastmodified":1473901785,
+    "wof:lastmodified":1491917262,
     "wof:name":"Comtel M. Srl",
     "wof:parent_id":85862779,
     "wof:placetype":"venue",

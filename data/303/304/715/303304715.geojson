@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.337127,38.141926,13.337127,38.141926",
     "geom:latitude":38.141926,
     "geom:longitude":13.337127,
@@ -24,11 +25,14 @@
     "sg:province":"Palermo",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904869,
+        85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591,
-        85904863
+        85904869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,26 +42,30 @@
     "wof:geomhash":"86b22e797d2478b9791aa392ee79ca46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
-            "neighbourhood_id":85904869,
+            "macroregion_id":404227533,
+            "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":303304715
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
-            "neighbourhood_id":85904863,
+            "macroregion_id":404227533,
+            "neighbourhood_id":85904869,
             "region_id":85685591,
             "venue_id":303304715
         }
     ],
     "wof:id":303304715,
-    "wof:lastmodified":1473901361,
+    "wof:lastmodified":1491912273,
     "wof:name":"New S.e.m. Soc.coop.r.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

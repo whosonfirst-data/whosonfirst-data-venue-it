@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.234113,40.869823,14.234113,40.869823",
     "geom:latitude":40.869823,
     "geom:longitude":14.234113,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904799,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"3217604f9bd430fe231eefa5032d649a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85904799,
             "region_id":85685487,
             "venue_id":269508485
         }
     ],
     "wof:id":269508485,
-    "wof:lastmodified":1473900210,
+    "wof:lastmodified":1491890011,
     "wof:name":"Attilio (s.p.a.)",
     "wof:parent_id":85904799,
     "wof:placetype":"venue",

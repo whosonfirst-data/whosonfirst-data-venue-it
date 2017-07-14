@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.706663,45.143845,7.706663,45.143845",
     "geom:latitude":45.143845,
     "geom:longitude":7.706663,
@@ -23,8 +24,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -35,16 +36,14 @@
     "wof:geomhash":"f374b2a775dc0fa9934f2c358677661d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":202856471
         }
     ],
     "wof:id":202856471,
-    "wof:lastmodified":1473901564,
+    "wof:lastmodified":1491932782,
     "wof:name":"Salgomma Srl",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

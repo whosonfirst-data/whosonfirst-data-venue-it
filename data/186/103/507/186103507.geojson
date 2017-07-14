@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.495934,41.909046,12.495934,41.909046",
     "geom:latitude":41.909046,
     "geom:longitude":12.495934,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"585083cee26b0e51664f0a3fd2cac462",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":186103507
         }
     ],
     "wof:id":186103507,
-    "wof:lastmodified":1473900292,
+    "wof:lastmodified":1491899529,
     "wof:name":"Export-import Bank Of India",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

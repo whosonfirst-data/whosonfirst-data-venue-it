@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.672473,45.03273,7.672473,45.03273",
     "geom:latitude":45.03273,
     "geom:longitude":7.672473,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"1a02d4b835ef4f70bb40f0773746b89f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":304042289
         }
     ],
     "wof:id":304042289,
-    "wof:lastmodified":1473900327,
+    "wof:lastmodified":1491929775,
     "wof:name":"Associazione Nazionale Combattenti E Reduci",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

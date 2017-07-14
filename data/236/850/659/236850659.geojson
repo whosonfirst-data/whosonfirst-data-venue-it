@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.723411,45.075291,7.723411,45.075291",
     "geom:latitude":45.075291,
     "geom:longitude":7.723411,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796997,
         85633253,
+        85796997,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"48eb797638f99957d60f9f86695d5261",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796997,
             "region_id":85685169,
             "venue_id":236850659
         }
     ],
     "wof:id":236850659,
-    "wof:lastmodified":1473901918,
+    "wof:lastmodified":1491914278,
     "wof:name":"Valentina Di Bruni",
     "wof:parent_id":85796997,
     "wof:placetype":"venue",

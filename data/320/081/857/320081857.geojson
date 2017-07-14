@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.500079,41.911446,12.500079,41.911446",
     "geom:latitude":41.911446,
     "geom:longitude":12.500079,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"1733fd9002d33f22aee86687137a5cbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":320081857
         }
     ],
     "wof:id":320081857,
-    "wof:lastmodified":1473900597,
+    "wof:lastmodified":1491899547,
     "wof:name":"Laboratorio Oreficeria",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

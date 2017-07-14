@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.734577,45.087902,7.734577,45.087902",
     "geom:latitude":45.087902,
     "geom:longitude":7.734577,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796997,
         85633253,
+        85796997,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"e9cf62a8df8cf352620667e166a7888a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796997,
             "region_id":85685169,
             "venue_id":320188061
         }
     ],
     "wof:id":320188061,
-    "wof:lastmodified":1473901284,
+    "wof:lastmodified":1491914275,
     "wof:name":"Fcs Di Mitrotti & C. (s.n.c.)",
     "wof:parent_id":85796997,
     "wof:placetype":"venue",

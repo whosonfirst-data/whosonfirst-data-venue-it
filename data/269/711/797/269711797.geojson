@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.185788,45.452564,9.185788,45.452564",
     "geom:latitude":45.452564,
     "geom:longitude":9.185788,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"ab6bb9a6fe3c44ce6be6da519d38f628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":269711797
         }
     ],
     "wof:id":269711797,
-    "wof:lastmodified":1473901150,
+    "wof:lastmodified":1491926934,
     "wof:name":"Ito Corporation",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

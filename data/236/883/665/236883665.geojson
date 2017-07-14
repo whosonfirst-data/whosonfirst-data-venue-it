@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.222687,45.449291,9.222687,45.449291",
     "geom:latitude":45.449291,
     "geom:longitude":9.222687,
@@ -30,8 +31,8 @@
     "sg:website":"http://www.marcomarchini.it:ws_end: :mark:ws:http://www.paginegialle.it/marcomarchini",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -42,16 +43,14 @@
     "wof:geomhash":"07200ec74d32d8722268b03982d60ae8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":236883665
         }
     ],
     "wof:id":236883665,
-    "wof:lastmodified":1473901918,
+    "wof:lastmodified":1491908722,
     "wof:name":"Marchini Marco",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

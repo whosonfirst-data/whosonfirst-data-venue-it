@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.701769,45.102024,7.701769,45.102024",
     "geom:latitude":45.102024,
     "geom:longitude":7.701769,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"1a5cc2f978904f02e102647ef556c65f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":286425527
         }
     ],
     "wof:id":286425527,
-    "wof:lastmodified":1473900991,
+    "wof:lastmodified":1491932822,
     "wof:name":"Climasystem Sas",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

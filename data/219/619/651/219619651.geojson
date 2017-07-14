@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.669841,44.998341,7.669841,44.998341",
     "geom:latitude":44.998341,
     "geom:longitude":7.669841,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"b1ddb3a05e84c71959aa2a3558160fc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":219619651
         }
     ],
     "wof:id":219619651,
-    "wof:lastmodified":1473901586,
+    "wof:lastmodified":1491929751,
     "wof:name":"Valenti Felice",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.684424,45.068401,7.684424,45.068401",
     "geom:latitude":45.068401,
     "geom:longitude":7.684424,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"0c46e984b7784e142adb34b2fa41a6d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":236305401
         }
     ],
     "wof:id":236305401,
-    "wof:lastmodified":1473901264,
+    "wof:lastmodified":1491909884,
     "wof:name":"Galleria Luigi Caretto Sas",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

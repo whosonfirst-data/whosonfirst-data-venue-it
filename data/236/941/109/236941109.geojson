@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.25949,40.900028,14.25949,40.900028",
     "geom:latitude":40.900028,
     "geom:longitude":14.25949,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"7e1dc72b721d4a649d50227edb2eb6e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":236941109
         }
     ],
     "wof:id":236941109,
-    "wof:lastmodified":1473901960,
+    "wof:lastmodified":1491895024,
     "wof:name":"Simeoli Ferdinando",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

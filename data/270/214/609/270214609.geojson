@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.97479,44.397514,8.97479,44.397514",
     "geom:latitude":44.397514,
     "geom:longitude":8.97479,
@@ -24,11 +25,14 @@
     "sg:province":"Genova",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796985,
         85633253,
         101752663,
-        85685219,
-        85796815
+        85796815,
+        85796985,
+        102191581,
+        404471975,
+        404227507,
+        85685219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,25 +44,27 @@
         {
             "continent_id":-1,
             "country_id":85633253,
-            "locality_id":101752663,
-            "neighbourhood_id":85796985,
-            "region_id":85685219,
-            "venue_id":270214609
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633253,
             "county_id":-1,
             "locality_id":101752663,
             "neighbourhood_id":85796815,
             "region_id":-1,
             "venue_id":270214609
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404471975,
+            "locality_id":101752663,
+            "macroregion_id":404227507,
+            "neighbourhood_id":85796985,
+            "region_id":85685219,
+            "venue_id":270214609
         }
     ],
     "wof:id":270214609,
-    "wof:lastmodified":1473901244,
+    "wof:lastmodified":1491918821,
     "wof:name":"Ardita Srl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.265301,40.901318,14.265301,40.901318",
     "geom:latitude":40.901318,
     "geom:longitude":14.265301,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"b0e926a7378857e8bb6bba68df63c334",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":269548811
         }
     ],
     "wof:id":269548811,
-    "wof:lastmodified":1473900396,
+    "wof:lastmodified":1491895021,
     "wof:name":"Moda Europa (s.p.a.)",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

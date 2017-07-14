@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.696588,45.09692,7.696588,45.09692",
     "geom:latitude":45.09692,
     "geom:longitude":7.696588,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862779,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"2b4ffee7073a4b52b47ab44cb72bae05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862779,
             "region_id":85685169,
             "venue_id":253067971
         }
     ],
     "wof:id":253067971,
-    "wof:lastmodified":1473900465,
+    "wof:lastmodified":1491917258,
     "wof:name":"Ovac Di Pizzolato Luciano & C. Snc",
     "wof:parent_id":85862779,
     "wof:placetype":"venue",

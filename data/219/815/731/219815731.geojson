@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.207385,45.44191,9.207385,45.44191",
     "geom:latitude":45.44191,
     "geom:longitude":9.207385,
@@ -34,8 +35,8 @@
     "sg:website":"www.fotolitofram.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"1873a4c77a1d9710964ccaa000210096",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":219815731
         }
     ],
     "wof:id":219815731,
-    "wof:lastmodified":1473901784,
+    "wof:lastmodified":1491908712,
     "wof:name":"Fotolito Fram Srl",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

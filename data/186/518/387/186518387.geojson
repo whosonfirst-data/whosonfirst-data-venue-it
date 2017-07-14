@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.369371,38.145027,13.369371,38.145027",
     "geom:latitude":38.145027,
     "geom:longitude":13.369371,
@@ -33,7 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900295,
-        101752517
+        102191581,
+        404465033,
+        85633253,
+        404227533,
+        101752517,
+        85685591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +49,18 @@
     "wof:geomhash":"ee5cb5644dbf1c11d5cfc8bae45a6e50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85900295,
-            "region_id":-1,
+            "region_id":85685591,
             "venue_id":186518387
         }
     ],
     "wof:id":186518387,
-    "wof:lastmodified":1473901471,
+    "wof:lastmodified":1491892926,
     "wof:name":"Alberghi Villa Igiea Grand Hotel",
     "wof:parent_id":85900295,
     "wof:placetype":"venue",

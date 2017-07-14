@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.365949,38.115482,13.365949,38.115482",
     "geom:latitude":38.115482,
     "geom:longitude":13.365949,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904859,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"72b2c4dc776731e2f84fd2df16a5f478",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904859,
             "region_id":85685591,
             "venue_id":303889045
         }
     ],
     "wof:id":303889045,
-    "wof:lastmodified":1473901931,
+    "wof:lastmodified":1491921116,
     "wof:name":"Di Paola F. & C. Snc",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",

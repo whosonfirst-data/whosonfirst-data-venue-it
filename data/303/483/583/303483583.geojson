@@ -7,13 +7,16 @@
     "addr:postcode":"60016",
     "addr:street":"An",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.90406,42.049213,-87.90406,42.049213",
     "geom:latitude":42.049213,
     "geom:longitude":-87.90406,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"60016 Marina Di Montemarciano",
     "sg:classifiers":[],
     "sg:orig_category":"Apparecchiature E Sistemi Per Magazzinaggio E Movimentazione. Macchine E Impianti Per Attivita' Commerciali Ed Artigianali. Macchine, Strumenti Ed Apparecchi Per Attivita' Industriali",
@@ -22,23 +25,26 @@
     "sg:province":"AN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688697,
+        85890769,
+        102191575,
+        404497631,
         85633793,
         85940869,
         102084317,
-        85890769
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SmbXx8yTkUE99x7geYywg_42.049213_-87.904060@1306269859"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4d0e6ca9f98251bcfea93c9ba562132f",
+    "wof:geomhash":"c2948b566a8b5cd6aee5b35014f6b8fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
+            "localadmin_id":404497631,
             "locality_id":85940869,
             "neighbourhood_id":85890769,
             "region_id":85688697,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":303483583,
-    "wof:lastmodified":1473901623,
+    "wof:lastmodified":1500046783,
     "wof:name":"Serrani Luciano",
     "wof:parent_id":85890769,
     "wof:placetype":"venue",

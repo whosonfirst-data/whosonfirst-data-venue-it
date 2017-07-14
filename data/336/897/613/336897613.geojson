@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.184035,45.460117,9.184035,45.460117",
     "geom:latitude":45.460117,
     "geom:longitude":9.184035,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"81667efafdb805f6cd7245a51f81cf36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":336897613
         }
     ],
     "wof:id":336897613,
-    "wof:lastmodified":1473901135,
+    "wof:lastmodified":1491926853,
     "wof:name":"Bellistri Domenico",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

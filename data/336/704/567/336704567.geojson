@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.211082,45.450462,9.211082,45.450462",
     "geom:latitude":45.450462,
     "geom:longitude":9.211082,
@@ -35,8 +36,8 @@
     "sg:website":"http://www.luxelettromeccanica.com:ws_end: :mark:ws:http://www.paginegialle.it/luxit",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -47,16 +48,14 @@
     "wof:geomhash":"586127a92c3225fcb25ed9ddfd5865f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":336704567
         }
     ],
     "wof:id":336704567,
-    "wof:lastmodified":1473900420,
+    "wof:lastmodified":1491908720,
     "wof:name":"Lux Elettromeccanica Srl",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

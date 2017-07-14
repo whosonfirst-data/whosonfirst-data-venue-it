@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.690588,45.163151,7.690588,45.163151",
     "geom:latitude":45.163151,
     "geom:longitude":7.690588,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"53b5e645fa04ab7bc317c7a1582b06c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":303679167
         }
     ],
     "wof:id":303679167,
-    "wof:lastmodified":1473901811,
+    "wof:lastmodified":1491932779,
     "wof:name":"Vallero Snc",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

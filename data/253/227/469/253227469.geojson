@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.663276,45.073582,7.663276,45.073582",
     "geom:latitude":45.073582,
     "geom:longitude":7.663276,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"7ec3f1ed88a4929eb22a6b9f5cfa7fc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":253227469
         }
     ],
     "wof:id":253227469,
-    "wof:lastmodified":1473901049,
+    "wof:lastmodified":1491909825,
     "wof:name":"Cossu Gioielli Sas Di Cossu Carlo E C.",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

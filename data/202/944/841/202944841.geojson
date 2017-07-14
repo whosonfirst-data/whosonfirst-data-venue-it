@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.214532,45.443798,9.214532,45.443798",
     "geom:latitude":45.443798,
     "geom:longitude":9.214532,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"be4aa5882d55ee9c1dc2bdbcfc5ca940",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":202944841
         }
     ],
     "wof:id":202944841,
-    "wof:lastmodified":1473901628,
+    "wof:lastmodified":1491908718,
     "wof:name":"Covre Giulio",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

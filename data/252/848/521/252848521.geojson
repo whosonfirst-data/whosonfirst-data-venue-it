@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.724853,45.070045,7.724853,45.070045",
     "geom:latitude":45.070045,
     "geom:longitude":7.724853,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796997,
         85633253,
+        85796997,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"64a960018c3918ea557fc9601f3621f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796997,
             "region_id":85685169,
             "venue_id":252848521
         }
     ],
     "wof:id":252848521,
-    "wof:lastmodified":1473900792,
+    "wof:lastmodified":1491914274,
     "wof:name":"Centro Pelle Snc",
     "wof:parent_id":85796997,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.098135,40.837036,14.098135,40.837036",
     "geom:latitude":40.837036,
     "geom:longitude":14.098135,
@@ -29,8 +30,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -41,16 +42,14 @@
     "wof:geomhash":"3a9b3fe995961e00e743e9e63026441a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":185746569
         }
     ],
     "wof:id":185746569,
-    "wof:lastmodified":1473900563,
+    "wof:lastmodified":1491926552,
     "wof:name":"Banca Nazionale Del Lavoro",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

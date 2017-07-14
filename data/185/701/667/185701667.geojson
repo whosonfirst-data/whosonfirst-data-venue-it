@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.179031,45.44376,9.179031,45.44376",
     "geom:latitude":45.44376,
     "geom:longitude":9.179031,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"3da885dd6e23d14f5c63a73ac1d58224",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":185701667
         }
     ],
     "wof:id":185701667,
-    "wof:lastmodified":1473900412,
+    "wof:lastmodified":1491926843,
     "wof:name":"Banca Di Roma",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

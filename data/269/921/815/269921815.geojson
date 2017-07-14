@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.112552,40.838436,14.112552,40.838436",
     "geom:latitude":40.838436,
     "geom:longitude":14.112552,
@@ -33,8 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -45,16 +46,14 @@
     "wof:geomhash":"d3475bbe49a7ca53ca6a3abc6773dba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":269921815
         }
     ],
     "wof:id":269921815,
-    "wof:lastmodified":1473901653,
+    "wof:lastmodified":1491894720,
     "wof:name":"Tr.in.co.n.e.s.r.l.",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

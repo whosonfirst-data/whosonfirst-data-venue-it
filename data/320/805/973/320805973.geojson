@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.475378,41.937389,12.475378,41.937389",
     "geom:latitude":41.937389,
     "geom:longitude":12.475378,
@@ -24,11 +25,14 @@
     "sg:province":"Roma",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904943,
+        85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461,
-        85904945
+        85904943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,26 +42,30 @@
     "wof:geomhash":"9539928178096359f65c08903466e566",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
-            "neighbourhood_id":85904943,
+            "macroregion_id":404227517,
+            "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":320805973
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
-            "neighbourhood_id":85904945,
+            "macroregion_id":404227517,
+            "neighbourhood_id":85904943,
             "region_id":85685461,
             "venue_id":320805973
         }
     ],
     "wof:id":320805973,
-    "wof:lastmodified":1473901893,
+    "wof:lastmodified":1491899545,
     "wof:name":"Metaldesign S.r.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

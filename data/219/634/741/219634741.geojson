@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.345059,38.122375,13.345059,38.122375",
     "geom:latitude":38.122375,
     "geom:longitude":13.345059,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"1901e6b6c32fc5132230374e4f01ec14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":219634741
         }
     ],
     "wof:id":219634741,
-    "wof:lastmodified":1473901580,
+    "wof:lastmodified":1491912279,
     "wof:name":"Euroimpresa Consult Di Vincenzo Marrone",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

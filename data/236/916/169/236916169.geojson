@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.671708,44.99577,7.671708,44.99577",
     "geom:latitude":44.99577,
     "geom:longitude":7.671708,
@@ -38,7 +39,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -50,16 +54,18 @@
     "wof:geomhash":"8dd1f5658aa206f502ddaa40818f416e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":236916169
         }
     ],
     "wof:id":236916169,
-    "wof:lastmodified":1473901942,
+    "wof:lastmodified":1491929749,
     "wof:name":"Gho Eligio",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

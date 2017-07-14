@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.210626,45.396168,9.210626,45.396168",
     "geom:latitude":45.396168,
     "geom:longitude":9.210626,
@@ -25,8 +26,8 @@
     "sg:website":"http://www.autoparcosantabarbara.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -37,16 +38,14 @@
     "wof:geomhash":"0ba7cce1152a927bb954a662eb65db97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":202649797
         }
     ],
     "wof:id":202649797,
-    "wof:lastmodified":1473900970,
+    "wof:lastmodified":1491908725,
     "wof:name":"Autoparco Santa Barbara Srl",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

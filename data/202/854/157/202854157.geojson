@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.700018,45.15036,7.700018,45.15036",
     "geom:latitude":45.15036,
     "geom:longitude":7.700018,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"db9a7ba70fb6c15d18e87b7609b8bbd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":202854157
         }
     ],
     "wof:id":202854157,
-    "wof:lastmodified":1473901586,
+    "wof:lastmodified":1491932792,
     "wof:name":"Nuova Elle Emme Di Loiodice R. E C. S.a.s.",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

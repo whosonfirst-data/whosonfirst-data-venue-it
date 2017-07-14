@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.737545,45.070229,7.737545,45.070229",
     "geom:latitude":45.070229,
     "geom:longitude":7.737545,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796997,
         85633253,
+        85796997,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"020c9401300a45b896b89051711fb1c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796997,
             "region_id":85685169,
             "venue_id":320681131
         }
     ],
     "wof:id":320681131,
-    "wof:lastmodified":1473901700,
+    "wof:lastmodified":1491914277,
     "wof:name":"Delco Sistemi Sas",
     "wof:parent_id":85796997,
     "wof:placetype":"venue",

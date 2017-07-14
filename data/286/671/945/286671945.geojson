@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.180818,45.456593,9.180818,45.456593",
     "geom:latitude":45.456593,
     "geom:longitude":9.180818,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"b7613515ce8376f8016b426182613fb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":286671945
         }
     ],
     "wof:id":286671945,
-    "wof:lastmodified":1473901409,
+    "wof:lastmodified":1491926926,
     "wof:name":"La Vetraia Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

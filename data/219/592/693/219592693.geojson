@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.692692,45.079765,7.692692,45.079765",
     "geom:latitude":45.079765,
     "geom:longitude":7.692692,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"f4f0f16bf0f01943484f731ffb9a4e0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":219592693
         }
     ],
     "wof:id":219592693,
-    "wof:lastmodified":1473901515,
+    "wof:lastmodified":1491909958,
     "wof:name":"Deferre Gianni &c. S.n.c.",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

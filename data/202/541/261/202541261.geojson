@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.326178,38.148121,13.326178,38.148121",
     "geom:latitude":38.148121,
     "geom:longitude":13.326178,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904841,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"fdb549d711fe852f0faa59855c4142a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904841,
             "region_id":85685591,
             "venue_id":202541261
         }
     ],
     "wof:id":202541261,
-    "wof:lastmodified":1473900299,
+    "wof:lastmodified":1491900703,
     "wof:name":"Liotti Pi\u00d9",
     "wof:parent_id":85904841,
     "wof:placetype":"venue",

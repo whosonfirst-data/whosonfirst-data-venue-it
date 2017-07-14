@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.897053,44.46154,8.897053,44.46154",
     "geom:latitude":44.46154,
     "geom:longitude":8.897053,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85796981,
+        102191581,
+        404471975,
         85633253,
+        404227507,
         101752663,
         85685219
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"b56f47cd7ebd74487fa278151b98ef7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85796981,
             "region_id":85685219,
             "venue_id":219313711
         }
     ],
     "wof:id":219313711,
-    "wof:lastmodified":1473900847,
+    "wof:lastmodified":1491907976,
     "wof:name":"Gondrand Spa - Filiale Genova",
     "wof:parent_id":85796981,
     "wof:placetype":"venue",

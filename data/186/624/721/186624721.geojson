@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.695136,45.133667,7.695136,45.133667",
     "geom:latitude":45.133667,
     "geom:longitude":7.695136,
@@ -25,8 +26,8 @@
     "sg:website":"http://www.paginegialle.it/fismar",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -37,16 +38,14 @@
     "wof:geomhash":"86b8ff11443cc65f5a6ae17ab98a9da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":186624721
         }
     ],
     "wof:id":186624721,
-    "wof:lastmodified":1473901747,
+    "wof:lastmodified":1491932801,
     "wof:name":"Fismar Srl",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

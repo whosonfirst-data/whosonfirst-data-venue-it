@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.323941,45.442406,12.323941,45.442406",
     "geom:latitude":45.442406,
     "geom:longitude":12.323941,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85905015,
+        85905013,
+        102191581,
+        404470193,
         85633253,
+        404227501,
         101752689,
         85685305,
-        85905013
+        85905015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,30 @@
     "wof:geomhash":"af26e9c88bfc8359639d8034c6e87b56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404470193,
             "locality_id":101752689,
-            "neighbourhood_id":85905015,
+            "macroregion_id":404227501,
+            "neighbourhood_id":85905013,
             "region_id":85685305,
             "venue_id":186518075
         },
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85905013,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404470193,
+            "locality_id":101752689,
+            "macroregion_id":404227501,
+            "neighbourhood_id":85905015,
             "region_id":85685305,
             "venue_id":186518075
         }
     ],
     "wof:id":186518075,
-    "wof:lastmodified":1473901469,
+    "wof:lastmodified":1491917550,
     "wof:name":"Alberghi Hotel Spagna",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

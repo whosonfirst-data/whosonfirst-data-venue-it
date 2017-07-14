@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.153172,40.833584,14.153172,40.833584",
     "geom:latitude":40.833584,
     "geom:longitude":14.153172,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"2109176cd223d435e8e04e8f52fe019b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":235932461
         }
     ],
     "wof:id":235932461,
-    "wof:lastmodified":1473900112,
+    "wof:lastmodified":1491926554,
     "wof:name":"M.e.c. Srl",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

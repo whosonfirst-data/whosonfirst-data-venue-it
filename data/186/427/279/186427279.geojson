@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.495716,41.923405,12.495716,41.923405",
     "geom:latitude":41.923405,
     "geom:longitude":12.495716,
@@ -31,7 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"e5c1f967909f0b3349b77cab10bcbdb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":186427279
         }
     ],
     "wof:id":186427279,
-    "wof:lastmodified":1473901209,
+    "wof:lastmodified":1491899558,
     "wof:name":"Dea Diffusione Edizioni Anglo-americane Spa",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

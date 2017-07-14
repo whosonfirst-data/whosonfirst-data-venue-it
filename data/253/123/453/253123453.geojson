@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.168424,45.453636,9.168424,45.453636",
     "geom:latitude":45.453636,
     "geom:longitude":9.168424,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"72f12f359902f8b0f525e44be3df1ee6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":253123453
         }
     ],
     "wof:id":253123453,
-    "wof:lastmodified":1473900768,
+    "wof:lastmodified":1491926932,
     "wof:name":"Cromaustenit Agenzia Siderurgica (s.a.s.)",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

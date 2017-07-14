@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.22198,45.440296,9.22198,45.440296",
     "geom:latitude":45.440296,
     "geom:longitude":9.22198,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"bda39c4c20473cb5e4fa57e7f07a503f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":202941295
         }
     ],
     "wof:id":202941295,
-    "wof:lastmodified":1473901627,
+    "wof:lastmodified":1491908724,
     "wof:name":"Vassalli Maria Teresa",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

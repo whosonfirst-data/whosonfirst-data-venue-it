@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.49533,41.924469,12.49533,41.924469",
     "geom:latitude":41.924469,
     "geom:longitude":12.49533,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"f9ffa2d8f73c02dc39b28bb1ad4119b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":202593021
         }
     ],
     "wof:id":202593021,
-    "wof:lastmodified":1473900625,
+    "wof:lastmodified":1491899560,
     "wof:name":"S & G Servizi",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

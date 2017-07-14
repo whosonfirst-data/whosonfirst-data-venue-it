@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.689551,45.134739,7.689551,45.134739",
     "geom:latitude":45.134739,
     "geom:longitude":7.689551,
@@ -35,8 +36,8 @@
     "sg:website":"www.aigle.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -47,16 +48,14 @@
     "wof:geomhash":"c108fa98d27d11184d7dc1a1f655cd70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":286987307
         }
     ],
     "wof:id":286987307,
-    "wof:lastmodified":1473901976,
+    "wof:lastmodified":1491932775,
     "wof:name":"Aigle Spa",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

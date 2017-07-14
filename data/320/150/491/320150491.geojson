@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.232741,40.838463,14.232741,40.838463",
     "geom:latitude":40.838463,
     "geom:longitude":14.232741,
@@ -24,11 +25,14 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904791,
+        85900445,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487,
-        85900445
+        85904791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,26 +42,30 @@
     "wof:geomhash":"9343c5a95ba788cc503f28fc20bed9a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
-            "neighbourhood_id":85904791,
+            "macroregion_id":404227525,
+            "neighbourhood_id":85900445,
             "region_id":85685487,
             "venue_id":320150491
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
-            "neighbourhood_id":85900445,
+            "macroregion_id":404227525,
+            "neighbourhood_id":85904791,
             "region_id":85685487,
             "venue_id":320150491
         }
     ],
     "wof:id":320150491,
-    "wof:lastmodified":1473901032,
+    "wof:lastmodified":1491890096,
     "wof:name":"Bht Srl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

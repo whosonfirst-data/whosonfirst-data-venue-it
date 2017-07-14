@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.330872,38.144524,13.330872,38.144524",
     "geom:latitude":38.144524,
     "geom:longitude":13.330872,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904841,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"e72d17803dc40b051b8c28b048c93a09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904841,
             "region_id":85685591,
             "venue_id":269711047
         }
     ],
     "wof:id":269711047,
-    "wof:lastmodified":1473901127,
+    "wof:lastmodified":1491900701,
     "wof:name":"Interlegno Sas Di Duro Gaetano & C.",
     "wof:parent_id":85904841,
     "wof:placetype":"venue",

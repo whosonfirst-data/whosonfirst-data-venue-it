@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.409667,41.961357,12.409667,41.961357",
     "geom:latitude":41.961357,
     "geom:longitude":12.409667,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900407,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"8237ddde4a10909290657fb19fd8d13c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900407,
             "region_id":85685461,
             "venue_id":236247053
         }
     ],
     "wof:id":236247053,
-    "wof:lastmodified":1473901018,
+    "wof:lastmodified":1491930971,
     "wof:name":"Arredocucina Di Turini Cinzia & C. Snc",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",

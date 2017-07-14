@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.704136,45.116112,7.704136,45.116112",
     "geom:latitude":45.116112,
     "geom:longitude":7.704136,
@@ -33,8 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -45,16 +46,14 @@
     "wof:geomhash":"3b72846d0fe9cf5241efb23ff8bc2e96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":186463605
         }
     ],
     "wof:id":186463605,
-    "wof:lastmodified":1473901362,
+    "wof:lastmodified":1491932801,
     "wof:name":"Gilber (s.r.l.)",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

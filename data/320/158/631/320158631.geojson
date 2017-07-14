@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.687187,45.085987,7.687187,45.085987",
     "geom:latitude":45.085987,
     "geom:longitude":7.687187,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"49ed1c10cf29818a6d8f416060af5baa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":320158631
         }
     ],
     "wof:id":320158631,
-    "wof:lastmodified":1473901114,
+    "wof:lastmodified":1491909957,
     "wof:name":"Urbani Paola",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

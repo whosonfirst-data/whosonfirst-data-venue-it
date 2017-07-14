@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.25178,43.792236,11.25178,43.792236",
     "geom:latitude":43.792236,
     "geom:longitude":11.25178,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900441,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"a0527ae37b69749c924e1121581347b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85900441,
             "region_id":85685407,
             "venue_id":304030779
         }
     ],
     "wof:id":304030779,
-    "wof:lastmodified":1473900266,
+    "wof:lastmodified":1491929139,
     "wof:name":"Ndn Srl",
     "wof:parent_id":85900441,
     "wof:placetype":"venue",

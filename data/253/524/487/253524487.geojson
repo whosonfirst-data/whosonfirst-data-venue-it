@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.382751,41.943977,12.382751,41.943977",
     "geom:latitude":41.943977,
     "geom:longitude":12.382751,
@@ -38,7 +39,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900407,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -50,16 +54,18 @@
     "wof:geomhash":"713dc1c7744f2a65163fc98115d61c3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900407,
             "region_id":85685461,
             "venue_id":253524487
         }
     ],
     "wof:id":253524487,
-    "wof:lastmodified":1473901467,
+    "wof:lastmodified":1491930977,
     "wof:name":"Ciavatti Rappresentanze",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",

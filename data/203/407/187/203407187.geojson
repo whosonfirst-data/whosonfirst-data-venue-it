@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.684408,45.164665,7.684408,45.164665",
     "geom:latitude":45.164665,
     "geom:longitude":7.684408,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"87f62c52c72c4f89641844cec543fe6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":203407187
         }
     ],
     "wof:id":203407187,
-    "wof:lastmodified":1473901579,
+    "wof:lastmodified":1491932833,
     "wof:name":"S.p.t.b. Sodalizio Pescatori Torino Borgaro",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.654403,45.081352,7.654403,45.081352",
     "geom:latitude":45.081352,
     "geom:longitude":7.654403,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"53a26ae25f5db60389c792eed0904e71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":270015829
         }
     ],
     "wof:id":270015829,
-    "wof:lastmodified":1473900203,
+    "wof:lastmodified":1491909917,
     "wof:name":"Merlo Srl",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

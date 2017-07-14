@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.669201,45.06216,7.669201,45.06216",
     "geom:latitude":45.06216,
     "geom:longitude":7.669201,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"522f240927aecc51093c087ee8bd92f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":220012963
         }
     ],
     "wof:id":220012963,
-    "wof:lastmodified":1473900134,
+    "wof:lastmodified":1491909944,
     "wof:name":"Impresa Monateri S.r.l.",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

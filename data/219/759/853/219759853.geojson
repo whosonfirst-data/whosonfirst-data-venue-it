@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.348272,38.12677,13.348272,38.12677",
     "geom:latitude":38.12677,
     "geom:longitude":13.348272,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"19ac6a8030550214766b1f7bf9f1a118",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":219759853
         }
     ],
     "wof:id":219759853,
-    "wof:lastmodified":1473901788,
+    "wof:lastmodified":1491912279,
     "wof:name":"Meridiana Traslochi",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

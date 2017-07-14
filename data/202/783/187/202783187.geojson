@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.175851,45.441891,9.175851,45.441891",
     "geom:latitude":45.441891,
     "geom:longitude":9.175851,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"f131ab3afdb9141cc3ae95f16e413788",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":202783187
         }
     ],
     "wof:id":202783187,
-    "wof:lastmodified":1473901360,
+    "wof:lastmodified":1491926924,
     "wof:name":"Nobel Caffe'",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

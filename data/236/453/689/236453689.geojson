@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.261382,40.892231,14.261382,40.892231",
     "geom:latitude":40.892231,
     "geom:longitude":14.261382,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"caa0e58bdb27e0e21ca89bdb6a31da21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":236453689
         }
     ],
     "wof:id":236453689,
-    "wof:lastmodified":1473901488,
+    "wof:lastmodified":1491895022,
     "wof:name":"Corvino Elettrotermica",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

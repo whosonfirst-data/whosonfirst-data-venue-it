@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.320566,45.442753,12.320566,45.442753",
     "geom:latitude":45.442753,
     "geom:longitude":12.320566,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905015,
+        102191581,
+        404470193,
         85633253,
+        404227501,
         101752689,
         85685305
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"b28d0293426394f32b2a64216b6c56b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404470193,
             "locality_id":101752689,
+            "macroregion_id":404227501,
             "neighbourhood_id":85905015,
             "region_id":85685305,
             "venue_id":252984297
         }
     ],
     "wof:id":252984297,
-    "wof:lastmodified":1473901281,
+    "wof:lastmodified":1491917560,
     "wof:name":"Gioia Di Conventi Luisa",
     "wof:parent_id":85905015,
     "wof:placetype":"venue",

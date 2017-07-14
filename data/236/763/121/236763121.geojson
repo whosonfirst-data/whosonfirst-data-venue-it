@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.234317,40.869442,14.234317,40.869442",
     "geom:latitude":40.869442,
     "geom:longitude":14.234317,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904799,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"f39bf546eef7c9e51a47cd190535eeb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85904799,
             "region_id":85685487,
             "venue_id":236763121
         }
     ],
     "wof:id":236763121,
-    "wof:lastmodified":1473901902,
+    "wof:lastmodified":1491890012,
     "wof:name":"Lo Stile Del Verde Di G. Nocera",
     "wof:parent_id":85904799,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.497655,41.918819,12.497655,41.918819",
     "geom:latitude":41.918819,
     "geom:longitude":12.497655,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"20f54c42904a477857ed554fcc7e10d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":287171689
         }
     ],
     "wof:id":287171689,
-    "wof:lastmodified":1473901145,
+    "wof:lastmodified":1491899532,
     "wof:name":"Alma Travel S.r.l.",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

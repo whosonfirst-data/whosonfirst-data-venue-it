@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.497712,41.92017,12.497712,41.92017",
     "geom:latitude":41.92017,
     "geom:longitude":12.497712,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"5ecc02f972598572fd0aa645a2ef2da6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":186171715
         }
     ],
     "wof:id":186171715,
-    "wof:lastmodified":1473900590,
+    "wof:lastmodified":1491899519,
     "wof:name":"Nagrafin Investimenti Spa",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

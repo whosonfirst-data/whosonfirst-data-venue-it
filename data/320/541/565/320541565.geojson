@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.68839,45.133469,7.68839,45.133469",
     "geom:latitude":45.133469,
     "geom:longitude":7.68839,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"969cc3af4bd379c4db4255871c34f319",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":320541565
         }
     ],
     "wof:id":320541565,
-    "wof:lastmodified":1473901679,
+    "wof:lastmodified":1491932822,
     "wof:name":"A.l.t.o. - B.e.s.t. 3 (s.n.c.)",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

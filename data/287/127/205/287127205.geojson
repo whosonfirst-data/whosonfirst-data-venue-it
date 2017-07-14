@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.692598,45.135296,7.692598,45.135296",
     "geom:latitude":45.135296,
     "geom:longitude":7.692598,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"171a655c7bacff38288bd70d4a4e1dca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":287127205
         }
     ],
     "wof:id":287127205,
-    "wof:lastmodified":1473900835,
+    "wof:lastmodified":1491932813,
     "wof:name":"C.a.t. Societ\u00c0 Cooperativa A. Sl.",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

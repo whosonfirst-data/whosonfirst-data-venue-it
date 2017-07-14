@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.217143,45.451649,9.217143,45.451649",
     "geom:latitude":45.451649,
     "geom:longitude":9.217143,
@@ -33,8 +34,8 @@
     "sg:website":"www.australian.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -45,16 +46,14 @@
     "wof:geomhash":"bb247831c6773fcbdc1b6d553ed43a38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":219372449
         }
     ],
     "wof:id":219372449,
-    "wof:lastmodified":1473901024,
+    "wof:lastmodified":1491908740,
     "wof:name":"L'alpina Maglierie Sportive Spa",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

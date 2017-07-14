@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.478994,41.908436,12.478994,41.908436",
     "geom:latitude":41.908436,
     "geom:longitude":12.478994,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"9c16c0cd713900e1f8758032bfe12d66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":169728529
         }
     ],
     "wof:id":169728529,
-    "wof:lastmodified":1473900121,
+    "wof:lastmodified":1491899568,
     "wof:name":"Angelo Costa Spa",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

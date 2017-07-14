@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.703635,45.12241,7.703635,45.12241",
     "geom:latitude":45.12241,
     "geom:longitude":7.703635,
@@ -29,8 +30,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -41,16 +42,14 @@
     "wof:geomhash":"e3e35d0285ae83881c9d07d8409c628b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":236878891
         }
     ],
     "wof:id":236878891,
-    "wof:lastmodified":1473901938,
+    "wof:lastmodified":1491932828,
     "wof:name":"Etercemento (s.a.s.)",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

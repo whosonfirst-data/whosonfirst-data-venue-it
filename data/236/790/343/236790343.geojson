@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.17839,45.453129,9.17839,45.453129",
     "geom:latitude":45.453129,
     "geom:longitude":9.17839,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"57c428055a28249ac86d2aa5d3513a94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":236790343
         }
     ],
     "wof:id":236790343,
-    "wof:lastmodified":1473901911,
+    "wof:lastmodified":1491926917,
     "wof:name":"Vega 3 (s.r.l.)",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.334355,38.150028,13.334355,38.150028",
     "geom:latitude":38.150028,
     "geom:longitude":13.334355,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904841,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"9294337a4e2fa4e477e2e09807349a40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904841,
             "region_id":85685591,
             "venue_id":303908201
         }
     ],
     "wof:id":303908201,
-    "wof:lastmodified":1473901937,
+    "wof:lastmodified":1491900700,
     "wof:name":"Ottica Contact Di De Franchis G. Snc",
     "wof:parent_id":85904841,
     "wof:placetype":"venue",

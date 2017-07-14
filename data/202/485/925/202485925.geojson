@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.417054,41.984119,12.417054,41.984119",
     "geom:latitude":41.984119,
     "geom:longitude":12.417054,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900407,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"26fa177efc6ae3c97ca8d0a8b2431cf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900407,
             "region_id":85685461,
             "venue_id":202485925
         }
     ],
     "wof:id":202485925,
-    "wof:lastmodified":1473900132,
+    "wof:lastmodified":1491930975,
     "wof:name":"Irish Institute",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",

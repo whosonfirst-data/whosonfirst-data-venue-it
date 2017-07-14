@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.361819,38.120174,13.361819,38.120174",
     "geom:latitude":38.120174,
     "geom:longitude":13.361819,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904859,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"d68eb1275cc8f69a201b1d05615f42fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904859,
             "region_id":85685591,
             "venue_id":253227611
         }
     ],
     "wof:id":253227611,
-    "wof:lastmodified":1473901052,
+    "wof:lastmodified":1491921124,
     "wof:name":"Fiorentino Emanuele Spa",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.693143,45.069519,7.693143,45.069519",
     "geom:latitude":45.069519,
     "geom:longitude":7.693143,
@@ -24,11 +25,14 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797019,
+        85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169,
-        85862793
+        85797019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,26 +42,30 @@
     "wof:geomhash":"2b36f324e2603dd2272940b9233cffb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
-            "neighbourhood_id":85797019,
+            "macroregion_id":404227493,
+            "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":202782417
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
-            "neighbourhood_id":85862793,
+            "macroregion_id":404227493,
+            "neighbourhood_id":85797019,
             "region_id":85685169,
             "venue_id":202782417
         }
     ],
     "wof:id":202782417,
-    "wof:lastmodified":1473901371,
+    "wof:lastmodified":1491909831,
     "wof:name":"Museo Nazionale Del Cinema - Fondazione M.a.prolo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

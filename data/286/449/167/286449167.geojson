@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.361376,38.11562,13.361376,38.11562",
     "geom:latitude":38.11562,
     "geom:longitude":13.361376,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904859,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"82b6a06d286d3d81be188ff0e4d14419",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904859,
             "region_id":85685591,
             "venue_id":286449167
         }
     ],
     "wof:id":286449167,
-    "wof:lastmodified":1473901039,
+    "wof:lastmodified":1491921122,
     "wof:name":"Amico Pietro Srl",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",

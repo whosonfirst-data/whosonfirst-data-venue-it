@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.197858,40.804905,14.197858,40.804905",
     "geom:latitude":40.804905,
     "geom:longitude":14.197858,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900431,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"e90cc94db9e88d0e57f35c10e8bad265",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900431,
             "region_id":85685487,
             "venue_id":186320333
         }
     ],
     "wof:id":186320333,
-    "wof:lastmodified":1473900945,
+    "wof:lastmodified":1491934146,
     "wof:name":"Distellerie Pascale",
     "wof:parent_id":85900431,
     "wof:placetype":"venue",

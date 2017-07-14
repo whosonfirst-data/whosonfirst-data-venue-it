@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.114433,40.83046,14.114433,40.83046",
     "geom:latitude":40.83046,
     "geom:longitude":14.114433,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"9b6e6c5162bf4b97eb9044301c26c0ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":252931559
         }
     ],
     "wof:id":252931559,
-    "wof:lastmodified":1473901158,
+    "wof:lastmodified":1491894720,
     "wof:name":"Molluschi Di Mare Srl",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

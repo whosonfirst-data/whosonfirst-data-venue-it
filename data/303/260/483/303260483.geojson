@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.692254,45.117176,7.692254,45.117176",
     "geom:latitude":45.117176,
     "geom:longitude":7.692254,
@@ -34,8 +35,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"3a76e08af67aab9dce8d4935b58c294a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":303260483
         }
     ],
     "wof:id":303260483,
-    "wof:lastmodified":1473901218,
+    "wof:lastmodified":1491932783,
     "wof:name":"Azienda Multiservizi Igiene Ambientale Torino",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

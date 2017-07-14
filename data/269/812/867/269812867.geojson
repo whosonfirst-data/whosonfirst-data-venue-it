@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.684239,45.06395,7.684239,45.06395",
     "geom:latitude":45.06395,
     "geom:longitude":7.684239,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"4c20cc47db7d762337811c3af7d0151a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":269812867
         }
     ],
     "wof:id":269812867,
-    "wof:lastmodified":1473901446,
+    "wof:lastmodified":1491909887,
     "wof:name":"Tumsich Giulio",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

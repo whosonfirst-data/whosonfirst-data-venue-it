@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.255509,40.896084,14.255509,40.896084",
     "geom:latitude":40.896084,
     "geom:longitude":14.255509,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"fca6e2e7b9444b2754ec99a87760537f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":303774985
         }
     ],
     "wof:id":303774985,
-    "wof:lastmodified":1473901855,
+    "wof:lastmodified":1491895021,
     "wof:name":"Cucine & Cucine",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

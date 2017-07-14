@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.672615,45.073853,7.672615,45.073853",
     "geom:latitude":45.073853,
     "geom:longitude":7.672615,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"22523c6896c5053a44bf0aea27e81c52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":169828571
         }
     ],
     "wof:id":169828571,
-    "wof:lastmodified":1473900319,
+    "wof:lastmodified":1491909784,
     "wof:name":"La Piemontese Assicurazioni Di Inghes E Molineri Sas",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

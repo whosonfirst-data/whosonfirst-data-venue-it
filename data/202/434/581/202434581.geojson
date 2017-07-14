@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.186522,45.458076,9.186522,45.458076",
     "geom:latitude":45.458076,
     "geom:longitude":9.186522,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"c63967676e258a11de3d9275ee413a6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":202434581
         }
     ],
     "wof:id":202434581,
-    "wof:lastmodified":1473900104,
+    "wof:lastmodified":1491926886,
     "wof:name":"I.l.s. International Language School Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

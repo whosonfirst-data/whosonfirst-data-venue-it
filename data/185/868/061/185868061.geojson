@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.244459,43.773327,11.244459,43.773327",
     "geom:latitude":43.773327,
     "geom:longitude":11.244459,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904709,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"5c159ed66927c91d8d2f49d3197c9bde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85904709,
             "region_id":85685407,
             "venue_id":185868061
         }
     ],
     "wof:id":185868061,
-    "wof:lastmodified":1473900918,
+    "wof:lastmodified":1491887327,
     "wof:name":"Banca Toscana Spa",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",

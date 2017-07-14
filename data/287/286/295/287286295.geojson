@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.149615,40.831726,14.149615,40.831726",
     "geom:latitude":40.831726,
     "geom:longitude":14.149615,
@@ -34,8 +35,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"e6df991fb57541ef7c9ae9137f4390d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":287286295
         }
     ],
     "wof:id":287286295,
-    "wof:lastmodified":1473901422,
+    "wof:lastmodified":1491894722,
     "wof:name":"Tdp Trading Data Products",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

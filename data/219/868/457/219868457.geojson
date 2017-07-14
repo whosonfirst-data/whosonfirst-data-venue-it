@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.658137,45.082874,7.658137,45.082874",
     "geom:latitude":45.082874,
     "geom:longitude":7.658137,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"aebcf23ee435dd4566ed2c94dbc36d7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":219868457
         }
     ],
     "wof:id":219868457,
-    "wof:lastmodified":1473901780,
+    "wof:lastmodified":1491909868,
     "wof:name":"Brunero Sas",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

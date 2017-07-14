@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.48493,41.924816,12.48493,41.924816",
     "geom:latitude":41.924816,
     "geom:longitude":12.48493,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"610bd4aa0599d4d84c179c6da00c92e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":203123927
         }
     ],
     "wof:id":203123927,
-    "wof:lastmodified":1473900720,
+    "wof:lastmodified":1491899587,
     "wof:name":"Gesenu Spa- Gestione Servizi Nettezza Urbana",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

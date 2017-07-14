@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.898934,44.443348,8.898934,44.443348",
     "geom:latitude":44.443348,
     "geom:longitude":8.898934,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85796981,
+        102191581,
+        404471975,
         85633253,
+        404227507,
         101752663,
         85685219
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"fb5a47c9402cb8f7a1c0aa5fcf93de78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85796981,
             "region_id":85685219,
             "venue_id":303421441
         }
     ],
     "wof:id":303421441,
-    "wof:lastmodified":1473901503,
+    "wof:lastmodified":1491907976,
     "wof:name":"Libreria Antiquaria Di Zali Zeffirino",
     "wof:parent_id":85796981,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.181687,45.460373,9.181687,45.460373",
     "geom:latitude":45.460373,
     "geom:longitude":9.181687,
@@ -24,11 +25,14 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796907,
+        85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243,
-        85862721
+        85796907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,26 +42,30 @@
     "wof:geomhash":"71d95bb45811a95762c7ced529e964a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
-            "neighbourhood_id":85796907,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":253321401
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
-            "neighbourhood_id":85862721,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85796907,
             "region_id":85685243,
             "venue_id":253321401
         }
     ],
     "wof:id":253321401,
-    "wof:lastmodified":1473901267,
+    "wof:lastmodified":1491926894,
     "wof:name":"Ordine Degli Assistenti Sociali Regione Lombardia",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

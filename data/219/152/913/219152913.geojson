@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.180644,45.445705,9.180644,45.445705",
     "geom:latitude":45.445705,
     "geom:longitude":9.180644,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"49ce13b3d1605cb8f37fffb660853e09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":219152913
         }
     ],
     "wof:id":219152913,
-    "wof:lastmodified":1473900081,
+    "wof:lastmodified":1491926874,
     "wof:name":"Golden Gym & Climbing Club",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

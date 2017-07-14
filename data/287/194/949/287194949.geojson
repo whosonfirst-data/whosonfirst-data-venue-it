@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.686965,45.131626,7.686965,45.131626",
     "geom:latitude":45.131626,
     "geom:longitude":7.686965,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"c5b828a4df24dd584d9df5b8b7e49462",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":287194949
         }
     ],
     "wof:id":287194949,
-    "wof:lastmodified":1473901208,
+    "wof:lastmodified":1491932820,
     "wof:name":"Locagru Snc Di Caminotto Ivano",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

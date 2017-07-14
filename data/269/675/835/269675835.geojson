@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.190021,45.454514,9.190021,45.454514",
     "geom:latitude":45.454514,
     "geom:longitude":9.190021,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"e1cbcd53f379e070e795c8760ec6f4d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":269675835
         }
     ],
     "wof:id":269675835,
-    "wof:lastmodified":1473900922,
+    "wof:lastmodified":1491926919,
     "wof:name":"Creative Media (s.r.l.)",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

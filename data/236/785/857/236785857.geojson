@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.676081,45.075462,7.676081,45.075462",
     "geom:latitude":45.075462,
     "geom:longitude":7.676081,
@@ -31,7 +32,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"609ee403be559db820e56de0e8f50ed9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":236785857
         }
     ],
     "wof:id":236785857,
-    "wof:lastmodified":1473901919,
+    "wof:lastmodified":1491909773,
     "wof:name":"L'antiquasi Di Giai Piero & C.",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

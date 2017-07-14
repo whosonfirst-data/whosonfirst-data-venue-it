@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.667683,45.003304,7.667683,45.003304",
     "geom:latitude":45.003304,
     "geom:longitude":7.667683,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"80b8a0d9bebfaaa501fa0021e387c856",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":287177353
         }
     ],
     "wof:id":287177353,
-    "wof:lastmodified":1473901133,
+    "wof:lastmodified":1491929763,
     "wof:name":"Sagea Hotel Crimea Sas",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.155537,45.511982,9.155537,45.511982",
     "geom:latitude":45.511982,
     "geom:longitude":9.155537,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862703,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"2164fca6880b8b80439c1fb25287e2c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862703,
             "region_id":85685243,
             "venue_id":252823891
         }
     ],
     "wof:id":252823891,
-    "wof:lastmodified":1473900647,
+    "wof:lastmodified":1491902271,
     "wof:name":"Guaglianone Francesco",
     "wof:parent_id":85862703,
     "wof:placetype":"venue",

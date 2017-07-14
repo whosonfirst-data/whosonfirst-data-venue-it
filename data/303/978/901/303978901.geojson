@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.368891,38.10532,13.368891,38.10532",
     "geom:latitude":38.10532,
     "geom:longitude":13.368891,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904859,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"5797b4fa1d62457277f66e6da2301f0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904859,
             "region_id":85685591,
             "venue_id":303978901
         }
     ],
     "wof:id":303978901,
-    "wof:lastmodified":1473901971,
+    "wof:lastmodified":1491921139,
     "wof:name":"Omar Srl",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",

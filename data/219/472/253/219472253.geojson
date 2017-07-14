@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.708713,45.099701,7.708713,45.099701",
     "geom:latitude":45.099701,
     "geom:longitude":7.708713,
@@ -25,8 +26,8 @@
     "sg:website":"http://www.iectorino.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -37,16 +38,14 @@
     "wof:geomhash":"693c9b08bd9a42524606516a3c701357",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":219472253
         }
     ],
     "wof:id":219472253,
-    "wof:lastmodified":1473901328,
+    "wof:lastmodified":1491932808,
     "wof:name":"I.e.c. Srl",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

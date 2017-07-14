@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.731624,45.146118,7.731624,45.146118",
     "geom:latitude":45.146118,
     "geom:longitude":7.731624,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"601739683740c6b16f0c827e8e1d6231",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":269989267
         }
     ],
     "wof:id":269989267,
-    "wof:lastmodified":1473901790,
+    "wof:lastmodified":1491932797,
     "wof:name":"Secom Servizio Commerciali Srl",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.174975,45.452881,9.174975,45.452881",
     "geom:latitude":45.452881,
     "geom:longitude":9.174975,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"e4c7b32864e4a1642552ed11a6ae21e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":303824931
         }
     ],
     "wof:id":303824931,
-    "wof:lastmodified":1473901966,
+    "wof:lastmodified":1491926909,
     "wof:name":"Zaccone Francesco",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

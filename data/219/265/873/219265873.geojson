@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.70211,45.100765,7.70211,45.100765",
     "geom:latitude":45.100765,
     "geom:longitude":7.70211,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862779,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"d96d86ec54f37dc2462a36c3732e67a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862779,
             "region_id":85685169,
             "venue_id":219265873
         }
     ],
     "wof:id":219265873,
-    "wof:lastmodified":1473900625,
+    "wof:lastmodified":1491917258,
     "wof:name":"De Fonseca Spa",
     "wof:parent_id":85862779,
     "wof:placetype":"venue",

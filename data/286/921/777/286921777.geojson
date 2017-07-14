@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.695901,45.101139,7.695901,45.101139",
     "geom:latitude":45.101139,
     "geom:longitude":7.695901,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"47fc2ab745ffc1d157ae8139be72b5e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":286921777
         }
     ],
     "wof:id":286921777,
-    "wof:lastmodified":1473901985,
+    "wof:lastmodified":1491932830,
     "wof:name":"Fracchia Snc",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

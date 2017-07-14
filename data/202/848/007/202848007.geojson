@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.258554,40.896999,14.258554,40.896999",
     "geom:latitude":40.896999,
     "geom:longitude":14.258554,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"9ba26f7cb1ff3040395ae53a02b56721",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":202848007
         }
     ],
     "wof:id":202848007,
-    "wof:lastmodified":1473901521,
+    "wof:lastmodified":1491895023,
     "wof:name":"Britti Gennaro",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

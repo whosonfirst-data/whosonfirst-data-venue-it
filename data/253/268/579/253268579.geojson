@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.226336,45.439064,9.226336,45.439064",
     "geom:latitude":45.439064,
     "geom:longitude":9.226336,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"ccafe59f9a5f52a96122ee292ca7f332",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":253268579
         }
     ],
     "wof:id":253268579,
-    "wof:lastmodified":1473901162,
+    "wof:lastmodified":1491908725,
     "wof:name":"Gibilab Di Gervasoni Giovanni Aldo E Bruni Giordano S.a.s.",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

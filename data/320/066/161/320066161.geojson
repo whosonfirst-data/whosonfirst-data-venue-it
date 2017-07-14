@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.146935,40.833492,14.146935,40.833492",
     "geom:latitude":40.833492,
     "geom:longitude":14.146935,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"997de6c4e54fd9de541741d72ecddd61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":320066161
         }
     ],
     "wof:id":320066161,
-    "wof:lastmodified":1473900540,
+    "wof:lastmodified":1491894721,
     "wof:name":"Essepi Service Srl",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

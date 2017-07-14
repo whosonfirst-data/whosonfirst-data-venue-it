@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.333124,38.151958,13.333124,38.151958",
     "geom:latitude":38.151958,
     "geom:longitude":13.333124,
@@ -24,11 +25,14 @@
     "sg:province":"Palermo",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904869,
+        85904841,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591,
-        85904841
+        85904869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,26 +42,30 @@
     "wof:geomhash":"07af5d69ea1b6e3efb8588a096eb3145",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
-            "neighbourhood_id":85904869,
+            "macroregion_id":404227533,
+            "neighbourhood_id":85904841,
             "region_id":85685591,
             "venue_id":203343365
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
-            "neighbourhood_id":85904841,
+            "macroregion_id":404227533,
+            "neighbourhood_id":85904869,
             "region_id":85685591,
             "venue_id":203343365
         }
     ],
     "wof:id":203343365,
-    "wof:lastmodified":1473901338,
+    "wof:lastmodified":1491900702,
     "wof:name":"Decibel Di Di Ciaula Romina",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

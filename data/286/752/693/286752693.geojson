@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.131048,40.824844,14.131048,40.824844",
     "geom:latitude":40.824844,
     "geom:longitude":14.131048,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"543b9ab0366f19f9435f3ee940ac58ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":286752693
         }
     ],
     "wof:id":286752693,
-    "wof:lastmodified":1473901628,
+    "wof:lastmodified":1491894720,
     "wof:name":"Mgi Di Gennaro De Maria",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

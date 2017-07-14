@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.335043,38.141151,13.335043,38.141151",
     "geom:latitude":38.141151,
     "geom:longitude":13.335043,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"9d343d68b10d6bc056e0aacbdb80c6fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":186217239
         }
     ],
     "wof:id":186217239,
-    "wof:lastmodified":1473900603,
+    "wof:lastmodified":1491912280,
     "wof:name":"La Dolceria Di Coga A. & C. Snc",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

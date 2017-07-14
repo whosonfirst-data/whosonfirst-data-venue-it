@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.182389,45.452152,9.182389,45.452152",
     "geom:latitude":45.452152,
     "geom:longitude":9.182389,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"87436eccf5ae61bebc22a4341c5a0afa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":286672027
         }
     ],
     "wof:id":286672027,
-    "wof:lastmodified":1473901390,
+    "wof:lastmodified":1491926862,
     "wof:name":"Link Up (s.r.l.)",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

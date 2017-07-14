@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.40549,41.959888,12.40549,41.959888",
     "geom:latitude":41.959888,
     "geom:longitude":12.40549,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900407,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"c5745a681ba2141a4944ac4601a5c67c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900407,
             "region_id":85685461,
             "venue_id":202545901
         }
     ],
     "wof:id":202545901,
-    "wof:lastmodified":1473900317,
+    "wof:lastmodified":1491930974,
     "wof:name":"Omega Professional",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",

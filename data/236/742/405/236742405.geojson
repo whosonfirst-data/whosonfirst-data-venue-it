@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.883151,44.446373,8.883151,44.446373",
     "geom:latitude":44.446373,
     "geom:longitude":8.883151,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85796981,
+        102191581,
+        404471975,
         85633253,
+        404227507,
         101752663,
         85685219
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"65bc95e2677cc5670e3284244bdb1032",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85796981,
             "region_id":85685219,
             "venue_id":236742405
         }
     ],
     "wof:id":236742405,
-    "wof:lastmodified":1473901919,
+    "wof:lastmodified":1491907981,
     "wof:name":"Silva Srl",
     "wof:parent_id":85796981,
     "wof:placetype":"venue",

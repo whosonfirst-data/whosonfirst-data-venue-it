@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.645434,44.993801,7.645434,44.993801",
     "geom:latitude":44.993801,
     "geom:longitude":7.645434,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"4a3d06ad115f160335b7e4664c8e3d0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":269752643
         }
     ],
     "wof:id":269752643,
-    "wof:lastmodified":1473901198,
+    "wof:lastmodified":1491929736,
     "wof:name":"Birosa Viaggi Di Luna Blu Snc",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

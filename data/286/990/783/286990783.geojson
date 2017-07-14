@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.683685,45.000992,7.683685,45.000992",
     "geom:latitude":45.000992,
     "geom:longitude":7.683685,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"2e85ffc6a0beb4b63ccc21410c66a9b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":286990783
         }
     ],
     "wof:id":286990783,
-    "wof:lastmodified":1473901980,
+    "wof:lastmodified":1491929768,
     "wof:name":"Dual Sanitaly Spa",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

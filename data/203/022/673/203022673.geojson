@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.10476,40.838081,14.10476,40.838081",
     "geom:latitude":40.838081,
     "geom:longitude":14.10476,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"99f631ce1505d3097c4a52ac9e5e402f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":203022673
         }
     ],
     "wof:id":203022673,
-    "wof:lastmodified":1473900252,
+    "wof:lastmodified":1491926552,
     "wof:name":"Xeptagen S.p.a.",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

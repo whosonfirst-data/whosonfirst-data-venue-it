@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.174678,40.839249,14.174678,40.839249",
     "geom:latitude":40.839249,
     "geom:longitude":14.174678,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"c5f925b86c236230bcfae3f8b3dccacd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":253546801
         }
     ],
     "wof:id":253546801,
-    "wof:lastmodified":1473901479,
+    "wof:lastmodified":1491926555,
     "wof:name":"Forniture Industriali Alborino Sas",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

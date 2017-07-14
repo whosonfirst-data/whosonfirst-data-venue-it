@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.999645,44.392406,8.999645,44.392406",
     "geom:latitude":44.392406,
     "geom:longitude":8.999645,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862681,
+        102191581,
+        404471975,
         85633253,
+        404227507,
         101752663,
         85685219
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"145d27f28a69387a2c912c488173408b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85862681,
             "region_id":85685219,
             "venue_id":269673439
         }
     ],
     "wof:id":269673439,
-    "wof:lastmodified":1473900934,
+    "wof:lastmodified":1491897283,
     "wof:name":"A. Janetzki Srl",
     "wof:parent_id":85862681,
     "wof:placetype":"venue",

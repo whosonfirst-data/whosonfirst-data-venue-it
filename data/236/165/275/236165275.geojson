@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.216617,45.453396,9.216617,45.453396",
     "geom:latitude":45.453396,
     "geom:longitude":9.216617,
@@ -33,11 +34,14 @@
     "sg:website":"http://www.fratellipagani.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796921,
         85633253,
-        101752703,
+        85862751,
         85685243,
-        85862751
+        85796921,
+        102191581,
+        404468459,
+        404227497,
+        101752703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +51,26 @@
     "wof:geomhash":"d7df8a36012429c60e87888d89dc0e1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":101752703,
-            "neighbourhood_id":85796921,
+            "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":236165275
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
-            "locality_id":-1,
-            "neighbourhood_id":85862751,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85796921,
             "region_id":85685243,
             "venue_id":236165275
         }
     ],
     "wof:id":236165275,
-    "wof:lastmodified":1473900908,
+    "wof:lastmodified":1491908722,
     "wof:name":"Pagani Fratelli Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

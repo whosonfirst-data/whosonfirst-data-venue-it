@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.264176,40.889526,14.264176,40.889526",
     "geom:latitude":40.889526,
     "geom:longitude":14.264176,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"15c8291137c3038979589bcea8d3afb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":185918149
         }
     ],
     "wof:id":185918149,
-    "wof:lastmodified":1473901089,
+    "wof:lastmodified":1491895023,
     "wof:name":"Banco Di Napoli",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

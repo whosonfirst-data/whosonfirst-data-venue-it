@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.175024,45.451702,9.175024,45.451702",
     "geom:latitude":45.451702,
     "geom:longitude":9.175024,
@@ -24,7 +25,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -36,16 +40,18 @@
     "wof:geomhash":"11d5328dfe539bf15d404c6f3c99ac5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":203130323
         }
     ],
     "wof:id":203130323,
-    "wof:lastmodified":1473900729,
+    "wof:lastmodified":1491926941,
     "wof:name":"Rida Roberto Giulio",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

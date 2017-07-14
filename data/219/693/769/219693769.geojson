@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.374704,41.94936,12.374704,41.94936",
     "geom:latitude":41.94936,
     "geom:longitude":12.374704,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900407,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"e102b5d275cd34386d2c2af38e89a522",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900407,
             "region_id":85685461,
             "venue_id":219693769
         }
     ],
     "wof:id":219693769,
-    "wof:lastmodified":1473901750,
+    "wof:lastmodified":1491930976,
     "wof:name":"Romana Ristorazione Srl",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",

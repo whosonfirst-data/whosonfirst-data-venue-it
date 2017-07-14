@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.981097,44.398121,8.981097,44.398121",
     "geom:latitude":44.398121,
     "geom:longitude":8.981097,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796985,
         85633253,
         101752663,
-        85685219,
-        85796815
+        85796815,
+        85796985,
+        102191581,
+        404471975,
+        404227507,
+        85685219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,25 +53,27 @@
         {
             "continent_id":-1,
             "country_id":85633253,
-            "locality_id":101752663,
-            "neighbourhood_id":85796985,
-            "region_id":85685219,
-            "venue_id":286291259
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633253,
             "county_id":-1,
             "locality_id":101752663,
             "neighbourhood_id":85796815,
             "region_id":-1,
             "venue_id":286291259
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404471975,
+            "locality_id":101752663,
+            "macroregion_id":404227507,
+            "neighbourhood_id":85796985,
+            "region_id":85685219,
+            "venue_id":286291259
         }
     ],
     "wof:id":286291259,
-    "wof:lastmodified":1473900294,
+    "wof:lastmodified":1491918820,
     "wof:name":"Bruschettini S.r.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

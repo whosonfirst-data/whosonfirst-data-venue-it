@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.366579,38.106636,13.366579,38.106636",
     "geom:latitude":38.106636,
     "geom:longitude":13.366579,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904859,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"35cc4468f56595a40da700d06f43070f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904859,
             "region_id":85685591,
             "venue_id":303693257
         }
     ],
     "wof:id":303693257,
-    "wof:lastmodified":1473901811,
+    "wof:lastmodified":1491921131,
     "wof:name":"Crearredi",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.171325,45.437176,9.171325,45.437176",
     "geom:latitude":45.437176,
     "geom:longitude":9.171325,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862725,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243,
         85862721
@@ -38,26 +42,30 @@
     "wof:geomhash":"85463027749ead8f19c1e28d63a47fec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862725,
             "region_id":85685243,
             "venue_id":202850285
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":202850285
         }
     ],
     "wof:id":202850285,
-    "wof:lastmodified":1473901548,
+    "wof:lastmodified":1491926936,
     "wof:name":"Feltrin Glauco",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

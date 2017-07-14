@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.207073,45.447487,9.207073,45.447487",
     "geom:latitude":45.447487,
     "geom:longitude":9.207073,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"6fada49250aadff3b205e95bd490c1e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":203096443
         }
     ],
     "wof:id":203096443,
-    "wof:lastmodified":1473900598,
+    "wof:lastmodified":1491908714,
     "wof:name":"Locardi Mario",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

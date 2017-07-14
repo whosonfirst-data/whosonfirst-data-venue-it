@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.151251,40.831264,14.151251,40.831264",
     "geom:latitude":40.831264,
     "geom:longitude":14.151251,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"8ae6e2670855fea0474ac7b1eb46210d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":219631125
         }
     ],
     "wof:id":219631125,
-    "wof:lastmodified":1473901556,
+    "wof:lastmodified":1491926556,
     "wof:name":"Condo' Pietro - Tecnolab",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.234641,40.83506,14.234641,40.83506",
     "geom:latitude":40.83506,
     "geom:longitude":14.234641,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904791,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"8bbc99fbba8502579a7b0c2409139dbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85904791,
             "region_id":85685487,
             "venue_id":303692087
         }
     ],
     "wof:id":303692087,
-    "wof:lastmodified":1473901811,
+    "wof:lastmodified":1491890096,
     "wof:name":"Cometa",
     "wof:parent_id":85904791,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.182977,45.441956,9.182977,45.441956",
     "geom:latitude":45.441956,
     "geom:longitude":9.182977,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"27f95e9efd1ab7c09a66ce7ef37ae468",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":236897423
         }
     ],
     "wof:id":236897423,
-    "wof:lastmodified":1473901933,
+    "wof:lastmodified":1491926933,
     "wof:name":"Soleko Soft Lens Kontact (s.p.a.)",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

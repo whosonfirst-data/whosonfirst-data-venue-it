@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.689981,45.065933,7.689981,45.065933",
     "geom:latitude":45.065933,
     "geom:longitude":7.689981,
@@ -25,11 +26,14 @@
     "sg:owner":"simplegeo",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797019,
+        85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169,
-        85862793
+        85797019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,26 +43,30 @@
     "wof:geomhash":"9f47e28efe37f7b4a6751eda6c9a931a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
-            "neighbourhood_id":85797019,
+            "macroregion_id":404227493,
+            "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":186105171
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
-            "neighbourhood_id":85862793,
+            "macroregion_id":404227493,
+            "neighbourhood_id":85797019,
             "region_id":85685169,
             "venue_id":186105171
         }
     ],
     "wof:id":186105171,
-    "wof:lastmodified":1473900286,
+    "wof:lastmodified":1491909795,
     "wof:name":"Finconsumo Banca Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

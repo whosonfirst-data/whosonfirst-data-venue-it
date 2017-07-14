@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.151507,45.433918,9.151507,45.433918",
     "geom:latitude":45.433918,
     "geom:longitude":9.151507,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862731,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"55e69d39fc0b6e0f3bf6f0e367b61103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862731,
             "region_id":85685243,
             "venue_id":219267055
         }
     ],
     "wof:id":219267055,
-    "wof:lastmodified":1473900626,
+    "wof:lastmodified":1491912812,
     "wof:name":"Binaghi Snc Di Alberto E Luigi Binaghi",
     "wof:parent_id":85862731,
     "wof:placetype":"venue",

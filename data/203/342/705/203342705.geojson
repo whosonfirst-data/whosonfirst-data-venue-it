@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.09837,40.833782,14.09837,40.833782",
     "geom:latitude":40.833782,
     "geom:longitude":14.09837,
@@ -25,8 +26,8 @@
     "sg:website":"http://www.d2allestimenti.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -37,16 +38,14 @@
     "wof:geomhash":"d099ecadf5d17a14f50c29740e9ab575",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":203342705
         }
     ],
     "wof:id":203342705,
-    "wof:lastmodified":1473901344,
+    "wof:lastmodified":1491926552,
     "wof:name":"D2 Allestimenti Artistici Snc",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

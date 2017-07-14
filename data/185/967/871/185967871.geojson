@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.47692,41.91029,12.47692,41.91029",
     "geom:latitude":41.91029,
     "geom:longitude":12.47692,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"fd41bedf95a20fb55a39d4dd7b6036e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":185967871
         }
     ],
     "wof:id":185967871,
-    "wof:lastmodified":1473901284,
+    "wof:lastmodified":1491899534,
     "wof:name":"Cassa Di Compensazione E Garanzia",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

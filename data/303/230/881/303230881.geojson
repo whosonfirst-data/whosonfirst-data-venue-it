@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3321,38.142162,13.3321,38.142162",
     "geom:latitude":38.142162,
     "geom:longitude":13.3321,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"47dfdecdae7a40f170fc5e8af3becfeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":303230881
         }
     ],
     "wof:id":303230881,
-    "wof:lastmodified":1473901133,
+    "wof:lastmodified":1491912273,
     "wof:name":"Publitime",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

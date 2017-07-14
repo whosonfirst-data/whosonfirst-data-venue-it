@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.266365,40.889751,14.266365,40.889751",
     "geom:latitude":40.889751,
     "geom:longitude":14.266365,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"fe14c44d27ed770e68f2b3c032c5ecc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":287122173
         }
     ],
     "wof:id":287122173,
-    "wof:lastmodified":1473900786,
+    "wof:lastmodified":1491895021,
     "wof:name":"Tra.i.ven. Snc Di Ciro Ventura",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

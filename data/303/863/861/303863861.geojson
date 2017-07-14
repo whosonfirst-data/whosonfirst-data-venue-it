@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.704031,45.139641,7.704031,45.139641",
     "geom:latitude":45.139641,
     "geom:longitude":7.704031,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"9026109b412cb3c80a0c4a40fac95435",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":303863861
         }
     ],
     "wof:id":303863861,
-    "wof:lastmodified":1473901978,
+    "wof:lastmodified":1491932820,
     "wof:name":"Dobell S.p.a.",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

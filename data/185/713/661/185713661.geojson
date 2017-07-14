@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.224101,45.440636,9.224101,45.440636",
     "geom:latitude":45.440636,
     "geom:longitude":9.224101,
@@ -29,8 +30,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:brand_id":420573887,
@@ -42,16 +43,14 @@
     "wof:geomhash":"189b69a2035606ef90fa105cbbdfab03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":185713661
         }
     ],
     "wof:id":185713661,
-    "wof:lastmodified":1473900439,
+    "wof:lastmodified":1491908716,
     "wof:name":"Banca Di Roma",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

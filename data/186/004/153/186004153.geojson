@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.241429,43.776409,11.241429,43.776409",
     "geom:latitude":43.776409,
     "geom:longitude":11.241429,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904709,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"2d17ee6e74af6a573a724c45925a177b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85904709,
             "region_id":85685407,
             "venue_id":186004153
         }
     ],
     "wof:id":186004153,
-    "wof:lastmodified":1473900069,
+    "wof:lastmodified":1491887338,
     "wof:name":"Cassa Di Risparmio Di Prato Spa",
     "wof:parent_id":85904709,
     "wof:placetype":"venue",

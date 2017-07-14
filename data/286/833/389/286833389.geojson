@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.685918,45.009018,7.685918,45.009018",
     "geom:latitude":45.009018,
     "geom:longitude":7.685918,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"aced1c2999f6c730a4a1690f803f7e63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":286833389
         }
     ],
     "wof:id":286833389,
-    "wof:lastmodified":1473901753,
+    "wof:lastmodified":1491929738,
     "wof:name":"Capello Mario",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.706505,45.142914,7.706505,45.142914",
     "geom:latitude":45.142914,
     "geom:longitude":7.706505,
@@ -36,8 +37,8 @@
     "sg:website":"www.rilox.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -48,16 +49,14 @@
     "wof:geomhash":"dd98e3e6030362d605f7529dd5a3ef2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":220068849
         }
     ],
     "wof:id":220068849,
-    "wof:lastmodified":1473900447,
+    "wof:lastmodified":1491932803,
     "wof:name":"Rilox Spa",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

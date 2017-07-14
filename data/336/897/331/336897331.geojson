@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.181606,45.440849,9.181606,45.440849",
     "geom:latitude":45.440849,
     "geom:longitude":9.181606,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"3de039cc7bc9f456deb41bc9e2fd3e76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":336897331
         }
     ],
     "wof:id":336897331,
-    "wof:lastmodified":1473901106,
+    "wof:lastmodified":1491926850,
     "wof:name":"Belicchi Monica",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

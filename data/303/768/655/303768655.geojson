@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.707681,45.099579,7.707681,45.099579",
     "geom:latitude":45.099579,
     "geom:longitude":7.707681,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"16f7e80a99c9deef905c565283170354",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":303768655
         }
     ],
     "wof:id":303768655,
-    "wof:lastmodified":1473901827,
+    "wof:lastmodified":1491932832,
     "wof:name":"Atet (s.n.c.)",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

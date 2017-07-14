@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.114809,40.832424,14.114809,40.832424",
     "geom:latitude":40.832424,
     "geom:longitude":14.114809,
@@ -33,8 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -45,16 +46,14 @@
     "wof:geomhash":"aa48cee2600964362613c9e3dfd8c600",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":219746481
         }
     ],
     "wof:id":219746481,
-    "wof:lastmodified":1473901753,
+    "wof:lastmodified":1491894720,
     "wof:name":"De Simone Rosario & Figli Sas",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

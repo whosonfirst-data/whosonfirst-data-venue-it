@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.680794,45.082336,7.680794,45.082336",
     "geom:latitude":45.082336,
     "geom:longitude":7.680794,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"f90169f3378f7794efabe8d48f2b20a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":286425411
         }
     ],
     "wof:id":286425411,
-    "wof:lastmodified":1473900989,
+    "wof:lastmodified":1491909990,
     "wof:name":"Climaitalia Di Lamedica Pierangelo",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

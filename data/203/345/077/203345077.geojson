@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.658904,45.08186,7.658904,45.08186",
     "geom:latitude":45.08186,
     "geom:longitude":7.658904,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862793,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"9abd5461183a9232960968f51b87f2c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862793,
             "region_id":85685169,
             "venue_id":203345077
         }
     ],
     "wof:id":203345077,
-    "wof:lastmodified":1473901333,
+    "wof:lastmodified":1491909855,
     "wof:name":"Erre Ci Emme S.r.l.",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",

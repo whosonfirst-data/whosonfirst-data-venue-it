@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.715884,45.152267,7.715884,45.152267",
     "geom:latitude":45.152267,
     "geom:longitude":7.715884,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"80787336062054ad034b0d56f07bbbc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":303517921
         }
     ],
     "wof:id":303517921,
-    "wof:lastmodified":1473901755,
+    "wof:lastmodified":1491932787,
     "wof:name":"Rissone Antonino",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

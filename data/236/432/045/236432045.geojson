@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.347946,38.127399,13.347946,38.127399",
     "geom:latitude":38.127399,
     "geom:longitude":13.347946,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"54f56e3629731f8054c212d88cec77e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":236432045
         }
     ],
     "wof:id":236432045,
-    "wof:lastmodified":1473901480,
+    "wof:lastmodified":1491912279,
     "wof:name":"A.me.san.",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

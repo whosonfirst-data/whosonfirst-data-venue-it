@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.217187,45.439354,9.217187,45.439354",
     "geom:latitude":45.439354,
     "geom:longitude":9.217187,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"a79f43b66c6a81da7a64eaaa2ea0348b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":236285783
         }
     ],
     "wof:id":236285783,
-    "wof:lastmodified":1473901213,
+    "wof:lastmodified":1491908714,
     "wof:name":"Delaidini Di Delaidini G.e M.e C.(s.a.s.)",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

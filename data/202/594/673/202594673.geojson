@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.486789,41.924664,12.486789,41.924664",
     "geom:latitude":41.924664,
     "geom:longitude":12.486789,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"ddff3c8a769ff417930593ca825887e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":202594673
         }
     ],
     "wof:id":202594673,
-    "wof:lastmodified":1473900626,
+    "wof:lastmodified":1491899521,
     "wof:name":"Ambasciata Presso Lo Stato Italiano Danimarca",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

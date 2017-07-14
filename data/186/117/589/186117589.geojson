@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.886759,44.43573,8.886759,44.43573",
     "geom:latitude":44.43573,
     "geom:longitude":8.886759,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85796981,
+        102191581,
+        404471975,
         85633253,
+        404227507,
         101752663,
         85685219
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"cd73f520fe93af2716a57b4489fe85c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85796981,
             "region_id":85685219,
             "venue_id":186117589
         }
     ],
     "wof:id":186117589,
-    "wof:lastmodified":1473900374,
+    "wof:lastmodified":1491907977,
     "wof:name":"Istituto Bancario, San Paolo Di Torino Spa",
     "wof:parent_id":85796981,
     "wof:placetype":"venue",

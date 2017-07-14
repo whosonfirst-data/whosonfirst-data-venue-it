@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.205092,45.448143,9.205092,45.448143",
     "geom:latitude":45.448143,
     "geom:longitude":9.205092,
@@ -33,11 +34,14 @@
     "sg:website":"http://www.paginegialle.it/albertijo",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797023,
         85633253,
-        101752703,
+        85862751,
         85685243,
-        85862751
+        85797023,
+        102191581,
+        404468459,
+        404227497,
+        101752703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +51,26 @@
     "wof:geomhash":"10bed2639bbd3ccf1c955bb858f1ed49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":101752703,
-            "neighbourhood_id":85797023,
+            "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":252969997
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
-            "locality_id":-1,
-            "neighbourhood_id":85862751,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "neighbourhood_id":85797023,
             "region_id":85685243,
             "venue_id":252969997
         }
     ],
     "wof:id":252969997,
-    "wof:lastmodified":1473901290,
+    "wof:lastmodified":1491908724,
     "wof:name":"Albert Bijoux Sas",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

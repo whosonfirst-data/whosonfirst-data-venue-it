@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.103331,40.839867,14.103331,40.839867",
     "geom:latitude":40.839867,
     "geom:longitude":14.103331,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85900487,
         85633253,
+        85900487,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"b52f563329cfb101ab4442c2e5d6db57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85900487,
             "region_id":85685487,
             "venue_id":270188551
         }
     ],
     "wof:id":270188551,
-    "wof:lastmodified":1473901077,
+    "wof:lastmodified":1491926555,
     "wof:name":"Bellomino Ulisse",
     "wof:parent_id":85900487,
     "wof:placetype":"venue",

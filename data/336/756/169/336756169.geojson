@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.899622,44.454887,8.899622,44.454887",
     "geom:latitude":44.454887,
     "geom:longitude":8.899622,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85796981,
+        102191581,
+        404471975,
         85633253,
+        404227507,
         101752663,
         85685219
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"90ce5136b1998b64507fb774f3d6cff6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404471975,
             "locality_id":101752663,
+            "macroregion_id":404227507,
             "neighbourhood_id":85796981,
             "region_id":85685219,
             "venue_id":336756169
         }
     ],
     "wof:id":336756169,
-    "wof:lastmodified":1473900539,
+    "wof:lastmodified":1491907981,
     "wof:name":"Puppo Di Gianfranco Taverna & C. Sas",
     "wof:parent_id":85796981,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.254225,43.796993,11.254225,43.796993",
     "geom:latitude":43.796993,
     "geom:longitude":11.254225,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900441,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"4fb236f47823588662dd17ef9e9efbe1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85900441,
             "region_id":85685407,
             "venue_id":270364759
         }
     ],
     "wof:id":270364759,
-    "wof:lastmodified":1473901720,
+    "wof:lastmodified":1491929138,
     "wof:name":"Tedeschi Corrado Editore Spa",
     "wof:parent_id":85900441,
     "wof:placetype":"venue",

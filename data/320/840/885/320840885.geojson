@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.144103,40.834179,14.144103,40.834179",
     "geom:latitude":40.834179,
     "geom:longitude":14.144103,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"431939bf541b5db6c7a180ceda990d1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":320840885
         }
     ],
     "wof:id":320840885,
-    "wof:lastmodified":1473901895,
+    "wof:lastmodified":1491894721,
     "wof:name":"Cirgan Plast Sas",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

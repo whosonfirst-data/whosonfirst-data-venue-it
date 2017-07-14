@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.37066,38.152161,13.37066,38.152161",
     "geom:latitude":38.152161,
     "geom:longitude":13.37066,
@@ -34,7 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900295,
-        101752517
+        102191581,
+        404465033,
+        85633253,
+        404227533,
+        101752517,
+        85685591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +50,18 @@
     "wof:geomhash":"cebe3b077a4f4513e0cf022c9366dd55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85900295,
-            "region_id":-1,
+            "region_id":85685591,
             "venue_id":270154907
         }
     ],
     "wof:id":270154907,
-    "wof:lastmodified":1473901010,
+    "wof:lastmodified":1491892927,
     "wof:name":"Al Mago Del Gelato Di Musico' Concetta",
     "wof:parent_id":85900295,
     "wof:placetype":"venue",

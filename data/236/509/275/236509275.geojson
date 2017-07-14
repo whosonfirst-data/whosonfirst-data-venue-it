@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.692804,45.134525,7.692804,45.134525",
     "geom:latitude":45.134525,
     "geom:longitude":7.692804,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"3e67ef83bad108aa246f0f8e8994067d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":236509275
         }
     ],
     "wof:id":236509275,
-    "wof:lastmodified":1473901513,
+    "wof:lastmodified":1491932780,
     "wof:name":"N.s.t. New System Transfer Srl",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

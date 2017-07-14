@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.724124,45.069893,7.724124,45.069893",
     "geom:latitude":45.069893,
     "geom:longitude":7.724124,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796997,
         85633253,
+        85796997,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"cbed12ced73a846d13384df7da1b34f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796997,
             "region_id":85685169,
             "venue_id":320653423
         }
     ],
     "wof:id":320653423,
-    "wof:lastmodified":1473901694,
+    "wof:lastmodified":1491914273,
     "wof:name":"Olivieri Angelo Reve D'or",
     "wof:parent_id":85796997,
     "wof:placetype":"venue",

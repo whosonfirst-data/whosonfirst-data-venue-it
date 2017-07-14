@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.476077,41.908596,12.476077,41.908596",
     "geom:latitude":41.908596,
     "geom:longitude":12.476077,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"c3b2a86dcb71c6ecdf8c397c947b17a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":270081899
         }
     ],
     "wof:id":270081899,
-    "wof:lastmodified":1473900725,
+    "wof:lastmodified":1491899518,
     "wof:name":"Birkenstock Di Leoni Stefano",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

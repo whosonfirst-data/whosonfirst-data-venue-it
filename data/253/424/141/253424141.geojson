@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.165745,45.444118,9.165745,45.444118",
     "geom:latitude":45.444118,
     "geom:longitude":9.165745,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"9342c2586bd70cb905018834f1ebd617",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":253424141
         }
     ],
     "wof:id":253424141,
-    "wof:lastmodified":1473901304,
+    "wof:lastmodified":1491926903,
     "wof:name":"Lofarma S.p.a.",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

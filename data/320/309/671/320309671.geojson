@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.500775,41.913536,12.500775,41.913536",
     "geom:latitude":41.913536,
     "geom:longitude":12.500775,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904945,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"60918e9f9f507f72c2c9be6a02028a10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":320309671
         }
     ],
     "wof:id":320309671,
-    "wof:lastmodified":1473901579,
+    "wof:lastmodified":1491899535,
     "wof:name":"Epuroxy Italiana Srl",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",

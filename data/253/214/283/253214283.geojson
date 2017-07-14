@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.357072,38.099926,13.357072,38.099926",
     "geom:latitude":38.099926,
     "geom:longitude":13.357072,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904859,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"5ad41c38337914371da84e8636e60645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904859,
             "region_id":85685591,
             "venue_id":253214283
         }
     ],
     "wof:id":253214283,
-    "wof:lastmodified":1473900961,
+    "wof:lastmodified":1491921111,
     "wof:name":"D'ambrogio Fedele",
     "wof:parent_id":85904859,
     "wof:placetype":"venue",

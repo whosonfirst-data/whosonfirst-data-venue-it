@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.148391,45.433609,9.148391,45.433609",
     "geom:latitude":45.433609,
     "geom:longitude":9.148391,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862731,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"4251e80c2b6d5142a7ecd587b8102ca0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862731,
             "region_id":85685243,
             "venue_id":220082203
         }
     ],
     "wof:id":220082203,
-    "wof:lastmodified":1473900448,
+    "wof:lastmodified":1491912812,
     "wof:name":"Prederi Vittorio & Figli Snc Di Prederi Franco E Giampietro",
     "wof:parent_id":85862731,
     "wof:placetype":"venue",

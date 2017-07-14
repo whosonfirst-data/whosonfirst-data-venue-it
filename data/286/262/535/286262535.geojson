@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.271199,40.893631,14.271199,40.893631",
     "geom:latitude":40.893631,
     "geom:longitude":14.271199,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900481,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"c24b0208cc178e8a296b60068f3fc7f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85900481,
             "region_id":85685487,
             "venue_id":286262535
         }
     ],
     "wof:id":286262535,
-    "wof:lastmodified":1473900107,
+    "wof:lastmodified":1491895020,
     "wof:name":"Reale S.r.l.",
     "wof:parent_id":85900481,
     "wof:placetype":"venue",

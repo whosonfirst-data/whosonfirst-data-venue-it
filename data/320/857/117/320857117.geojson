@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.667239,45.023766,7.667239,45.023766",
     "geom:latitude":45.023766,
     "geom:longitude":7.667239,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862773,
+        102191581,
+        404457355,
         85633253,
+        404227493,
         101752697,
         85685169
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"37b999728b0e1efe4bbd64771ea09ea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404457355,
             "locality_id":101752697,
+            "macroregion_id":404227493,
             "neighbourhood_id":85862773,
             "region_id":85685169,
             "venue_id":320857117
         }
     ],
     "wof:id":320857117,
-    "wof:lastmodified":1473901889,
+    "wof:lastmodified":1491929755,
     "wof:name":"Boano St.e Sas",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",

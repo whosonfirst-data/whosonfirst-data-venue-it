@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.732642,45.086472,7.732642,45.086472",
     "geom:latitude":45.086472,
     "geom:longitude":7.732642,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796997,
         85633253,
+        85796997,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"c47b0b854e1320367ff5f297dd62b79d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796997,
             "region_id":85685169,
             "venue_id":253673927
         }
     ],
     "wof:id":253673927,
-    "wof:lastmodified":1473901670,
+    "wof:lastmodified":1491914274,
     "wof:name":"Ariusso Fucine Di Ariusso Mirto & C. Snc",
     "wof:parent_id":85796997,
     "wof:placetype":"venue",

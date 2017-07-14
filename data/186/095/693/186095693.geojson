@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.216824,45.441582,9.216824,45.441582",
     "geom:latitude":45.441582,
     "geom:longitude":9.216824,
@@ -29,8 +30,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -41,16 +42,14 @@
     "wof:geomhash":"b1e806dcb7bfa4c4e06b69a892cf2cb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":186095693
         }
     ],
     "wof:id":186095693,
-    "wof:lastmodified":1473900276,
+    "wof:lastmodified":1491908740,
     "wof:name":"Credito Lombardo",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.212559,45.437538,9.212559,45.437538",
     "geom:latitude":45.437538,
     "geom:longitude":9.212559,
@@ -34,8 +35,8 @@
     "sg:website":"http://www.paginegialle.it/girelli-01",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"64b543d2582e7380b2a81a050d5cdef0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":286282689
         }
     ],
     "wof:id":286282689,
-    "wof:lastmodified":1473900289,
+    "wof:lastmodified":1491908717,
     "wof:name":"Girelli Alcool",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

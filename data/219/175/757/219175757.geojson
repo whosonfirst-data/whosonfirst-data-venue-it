@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.130491,40.829437,14.130491,40.829437",
     "geom:latitude":40.829437,
     "geom:longitude":14.130491,
@@ -24,8 +25,8 @@
     "sg:province":"Napoli",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904773,
         85633253,
+        85904773,
         85685487
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"94d5efe9c753fad81816d6bc66b3b309",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85904773,
             "region_id":85685487,
             "venue_id":219175757
         }
     ],
     "wof:id":219175757,
-    "wof:lastmodified":1473900267,
+    "wof:lastmodified":1491894721,
     "wof:name":"Vulcano Solfatara Srl",
     "wof:parent_id":85904773,
     "wof:placetype":"venue",

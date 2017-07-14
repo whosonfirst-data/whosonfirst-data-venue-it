@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.470063,41.911472,12.470063,41.911472",
     "geom:latitude":41.911472,
     "geom:longitude":12.470063,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900313,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461,
         85904945
@@ -38,26 +42,30 @@
     "wof:geomhash":"ffe8bbd8ce5055fcc8ee7e34052a91d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900313,
             "region_id":85685461,
             "venue_id":252905929
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85904945,
             "region_id":85685461,
             "venue_id":252905929
         }
     ],
     "wof:id":252905929,
-    "wof:lastmodified":1473901080,
+    "wof:lastmodified":1491899536,
     "wof:name":"Stile Di Sara",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

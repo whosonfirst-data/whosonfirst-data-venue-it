@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.326399,38.13863,13.326399,38.13863",
     "geom:latitude":38.13863,
     "geom:longitude":13.326399,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904863,
+        102191581,
+        404465033,
         85633253,
+        404227533,
         101752517,
         85685591
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"9432e75f4fceaf94d22f3571a45135c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465033,
             "locality_id":101752517,
+            "macroregion_id":404227533,
             "neighbourhood_id":85904863,
             "region_id":85685591,
             "venue_id":219178861
         }
     ],
     "wof:id":219178861,
-    "wof:lastmodified":1473900276,
+    "wof:lastmodified":1491912276,
     "wof:name":"Labisi Carlo & C. Snc",
     "wof:parent_id":85904863,
     "wof:placetype":"venue",

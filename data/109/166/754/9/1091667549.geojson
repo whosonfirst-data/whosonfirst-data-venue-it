@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6852474213,45.1086120605,7.6852474213,45.1086120605",
     "geom:latitude":45.108612,
     "geom:longitude":7.685247,
@@ -25,14 +26,14 @@
     "sg:website":"http://www.safit.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633253,
+        85796869,
+        85685169,
         85862797,
         102191581,
         404457355,
-        85633253,
         404227493,
-        101752697,
-        85685169,
-        85796869
+        101752697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +44,12 @@
     "wof:geomhash":"6ece2b7a660365e052f1f9da24f2783f",
     "wof:hierarchy":[
         {
+            "country_id":85633253,
+            "neighbourhood_id":85796869,
+            "region_id":85685169,
+            "venue_id":1091667549
+        },
+        {
             "continent_id":102191581,
             "country_id":85633253,
             "localadmin_id":404457355,
@@ -51,18 +58,12 @@
             "neighbourhood_id":85862797,
             "region_id":85685169,
             "venue_id":1091667549
-        },
-        {
-            "country_id":85633253,
-            "neighbourhood_id":85796869,
-            "region_id":85685169,
-            "venue_id":1091667549
         }
     ],
     "wof:id":1091667549,
-    "wof:lastmodified":1473900794,
+    "wof:lastmodified":1491932826,
     "wof:name":"Safit Srl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],

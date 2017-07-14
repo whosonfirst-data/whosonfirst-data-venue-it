@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.421782,41.979069,12.421782,41.979069",
     "geom:latitude":41.979069,
     "geom:longitude":12.421782,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900407,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"b1494c3e7147f8b4533fdc1858fd0f0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900407,
             "region_id":85685461,
             "venue_id":186186009
         }
     ],
     "wof:id":186186009,
-    "wof:lastmodified":1473900590,
+    "wof:lastmodified":1491930976,
     "wof:name":"Rolo Banca 1473 Spa",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",

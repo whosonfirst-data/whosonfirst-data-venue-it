@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.362969,41.92799,12.362969,41.92799",
     "geom:latitude":41.92799,
     "geom:longitude":12.362969,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900407,
+        102191581,
+        404461721,
         85633253,
+        404227517,
         101752607,
         85685461
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"1ac2f5bbe2b6eb7ed4e412758ecd83d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404461721,
             "locality_id":101752607,
+            "macroregion_id":404227517,
             "neighbourhood_id":85900407,
             "region_id":85685461,
             "venue_id":236546317
         }
     ],
     "wof:id":236546317,
-    "wof:lastmodified":1473901530,
+    "wof:lastmodified":1491930978,
     "wof:name":"Bartucci",
     "wof:parent_id":85900407,
     "wof:placetype":"venue",

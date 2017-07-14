@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.732568,45.118721,7.732568,45.118721",
     "geom:latitude":45.118721,
     "geom:longitude":7.732568,
@@ -23,8 +24,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -35,16 +36,14 @@
     "wof:geomhash":"b867da759d941865c7d04e4a86df7516",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":270298795
         }
     ],
     "wof:id":270298795,
-    "wof:lastmodified":1473901576,
+    "wof:lastmodified":1491932804,
     "wof:name":"Ediservice Sas",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

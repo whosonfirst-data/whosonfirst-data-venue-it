@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.177324,45.457062,9.177324,45.457062",
     "geom:latitude":45.457062,
     "geom:longitude":9.177324,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85862721,
+        102191581,
+        404468459,
         85633253,
+        404227497,
         101752703,
         85685243
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"21b986467075b7e735fb392d18537e6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404468459,
             "locality_id":101752703,
+            "macroregion_id":404227497,
             "neighbourhood_id":85862721,
             "region_id":85685243,
             "venue_id":320624421
         }
     ],
     "wof:id":320624421,
-    "wof:lastmodified":1473901725,
+    "wof:lastmodified":1491926858,
     "wof:name":"Pitre Srl",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",

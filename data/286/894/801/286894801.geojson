@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.206453,45.448727,9.206453,45.448727",
     "geom:latitude":45.448727,
     "geom:longitude":9.206453,
@@ -24,8 +25,8 @@
     "sg:province":"Milano",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862751,
         85633253,
+        85862751,
         85685243
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"1c1602bc0a277f008307b9a690cec9c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85862751,
             "region_id":85685243,
             "venue_id":286894801
         }
     ],
     "wof:id":286894801,
-    "wof:lastmodified":1473901981,
+    "wof:lastmodified":1491908716,
     "wof:name":"Recuperator Srl",
     "wof:parent_id":85862751,
     "wof:placetype":"venue",

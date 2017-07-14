@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.233131,40.868259,14.233131,40.868259",
     "geom:latitude":40.868259,
     "geom:longitude":14.233131,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904799,
+        102191581,
+        404465097,
         85633253,
+        404227525,
         101752555,
         85685487
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"76be3313979f6f6e76395e6577d6005e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404465097,
             "locality_id":101752555,
+            "macroregion_id":404227525,
             "neighbourhood_id":85904799,
             "region_id":85685487,
             "venue_id":219362727
         }
     ],
     "wof:id":219362727,
-    "wof:lastmodified":1473900987,
+    "wof:lastmodified":1491890011,
     "wof:name":"Masecchia Mario - Palestra Pleine Forme Aminei",
     "wof:parent_id":85904799,
     "wof:placetype":"venue",

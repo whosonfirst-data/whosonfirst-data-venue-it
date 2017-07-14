@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.688942,45.134808,7.688942,45.134808",
     "geom:latitude":45.134808,
     "geom:longitude":7.688942,
@@ -34,8 +35,8 @@
     "sg:website":"www.craver.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"b92f856959ccaea4ab8105604e5f0a51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":186451805
         }
     ],
     "wof:id":186451805,
-    "wof:lastmodified":1473901329,
+    "wof:lastmodified":1491932793,
     "wof:name":"Craver Industria Per Il Veicolo Srl",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",

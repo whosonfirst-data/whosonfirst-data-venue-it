@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.26022,43.789146,11.26022,43.789146",
     "geom:latitude":43.789146,
     "geom:longitude":11.26022,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85900441,
+        102191581,
+        404472769,
         85633253,
+        404227511,
         101752643,
         85685407
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"80499a0a396ff538511bb5f29bf084cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633253,
+            "localadmin_id":404472769,
             "locality_id":101752643,
+            "macroregion_id":404227511,
             "neighbourhood_id":85900441,
             "region_id":85685407,
             "venue_id":186233089
         }
     ],
     "wof:id":186233089,
-    "wof:lastmodified":1473900607,
+    "wof:lastmodified":1491929139,
     "wof:name":"Marchi Industriale Spa",
     "wof:parent_id":85900441,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.693832,45.10358,7.693832,45.10358",
     "geom:latitude":45.10358,
     "geom:longitude":7.693832,
@@ -24,8 +25,8 @@
     "sg:province":"Torino",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85796869,
         85633253,
+        85796869,
         85685169
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"7468e7a5470c9f861a07f1d566917329",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633253,
-            "locality_id":-1,
             "neighbourhood_id":85796869,
             "region_id":85685169,
             "venue_id":303103819
         }
     ],
     "wof:id":303103819,
-    "wof:lastmodified":1473900519,
+    "wof:lastmodified":1491932802,
     "wof:name":"Abaf (s.n.c.)",
     "wof:parent_id":85796869,
     "wof:placetype":"venue",
