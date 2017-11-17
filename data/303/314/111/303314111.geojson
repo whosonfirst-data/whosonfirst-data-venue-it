@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.026135,45.133499,10.026135,45.133499",
     "geom:latitude":45.133499,
     "geom:longitude":10.026135,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via I Maggio 38 26029 Soncino",
     "sg:city":"Soncino",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_07e0eZvoWZGDfDgCFsD4Sp_45.133499_10.026135@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"fe6ec13f2dfe1ff267db035c77e9b60e",
+    "wof:geomhash":"567d2e0c00bf8975f6b00edba05f5795",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":303314111,
-    "wof:lastmodified":1473901370,
+    "wof:lastmodified":1510942369,
     "wof:name":"Confezioni E Facon S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286482911
+    ],
     "wof:tags":[
         "gown",
         "evening",

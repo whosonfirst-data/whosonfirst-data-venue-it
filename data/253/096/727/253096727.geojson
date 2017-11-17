@@ -7,13 +7,16 @@
     "addr:postcode":"40067;rastignano bologna 40067",
     "addr:street":"Via Rio Fabbiani",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.353394,44.426311,11.353394,44.426311",
     "geom:latitude":44.426311,
     "geom:longitude":11.353394,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Rio Fabbiani 8 40067 Rastignano",
     "sg:city":"Rastignano",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_2kllPLjlWV7qEwTj9FFhvQ_44.426311_11.353394@1306269826"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1cb0dba8be0de52d0eebe4cd8d883676",
+    "wof:geomhash":"b701adb742144502fa4e2421ca686d79",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":253096727,
-    "wof:lastmodified":1473900607,
+    "wof:lastmodified":1510943524,
     "wof:name":"Tec.mo. Srl",
     "wof:parent_id":85900475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336847445
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "arc",

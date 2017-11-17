@@ -7,13 +7,16 @@
     "addr:postcode":"48018;48018",
     "addr:street":"Corso Garibaldi Giuseppe",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.031051,44.372231,12.031051,44.372231",
     "geom:latitude":44.372231,
     "geom:longitude":12.031051,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1, Corso Garibaldi Giuseppe 48018 Faenza",
     "sg:city":"Faenza",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_7kJdyDEv7vJhVCZCscU4LD_44.372231_12.031051@1306269789"
     },
     "wof:country":"IT",
-    "wof:geomhash":"930c466fe08fb784a8f7ddbc99cfc714",
+    "wof:geomhash":"9c2fe5d21590d4e11e4612c1e2593b5b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":169807649,
-    "wof:lastmodified":1473900164,
+    "wof:lastmodified":1510942000,
     "wof:name":"Banca Di Romagna (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091802919
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

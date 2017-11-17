@@ -7,13 +7,16 @@
     "addr:postcode":"30020;30020",
     "addr:street":"Via Roma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.737942,45.813946,12.737942,45.813946",
     "geom:latitude":45.813946,
     "geom:longitude":12.737942,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"41, Via Roma 30020 Cinto Caomaggiore",
     "sg:city":"Cinto Caomaggiore",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4jLNDIfHgF0xkFijZY5B9g_45.813946_12.737942@1306269854"
     },
     "wof:country":"IT",
-    "wof:geomhash":"58fd1843ce859037aca47daafd6a65cb",
+    "wof:geomhash":"8584c385d68e910154e32443d8be4e18",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":287291339,
-    "wof:lastmodified":1473901428,
+    "wof:lastmodified":1510942864,
     "wof:name":"B.p.t. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219543895
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

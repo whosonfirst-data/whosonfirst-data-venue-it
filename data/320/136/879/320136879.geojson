@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"S. Giuliano Milanese",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.264246,45.401676,9.264246,45.401676",
     "geom:latitude":45.401676,
     "geom:longitude":9.264246,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 S. Giuliano Milanese",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine Ed Impianti Per Edilizia E Lavori Pubblici. Apparecchiature Ed Attrezzature Meccaniche",
@@ -34,7 +37,7 @@
         "sg:id":"SG_7FuVzzWIzIukpodMACtOZr_45.401676_9.264246@1306269867"
     },
     "wof:country":"IT",
-    "wof:geomhash":"aad942dd385b9ea443368478ce3c0d19",
+    "wof:geomhash":"5b772b969abc3c07e0e56b6e8ebc1510",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +49,19 @@
         }
     ],
     "wof:id":320136879,
-    "wof:lastmodified":1473901023,
+    "wof:lastmodified":1510944200,
     "wof:name":"Tumac Spa",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303479501,
+        320294485,
+        303529729
+    ],
+    "wof:supersedes":[
+        319893765
+    ],
     "wof:tags":[]
 },
   "bbox": [

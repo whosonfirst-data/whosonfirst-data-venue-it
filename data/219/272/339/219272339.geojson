@@ -7,13 +7,16 @@
     "addr:postcode":"35014;35014",
     "addr:street":"Via Del Progresso",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.763787,45.625404,11.763787,45.625404",
     "geom:latitude":45.625404,
     "geom:longitude":11.763787,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Del Progresso 13 35014 Fontaniva",
     "sg:city":"Fontaniva",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3419IJ68ntwm6AZ8nR7ICn_45.625404_11.763787@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d1d21b231839b9f3696ed230859cf93f",
+    "wof:geomhash":"d61963fa400817776d467da6a4fbb72c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219272339,
-    "wof:lastmodified":1473900658,
+    "wof:lastmodified":1510941854,
     "wof:name":"Sariv Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091664415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "small",

@@ -7,13 +7,16 @@
     "addr:postcode":"50013;50013",
     "addr:street":"Via S. Cresci;Bisenzio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.136338,43.801445,11.136338,43.801445",
     "geom:latitude":43.801445,
     "geom:longitude":11.136338,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"217, Via S. Cresci 50013 Campi Bisenzio",
     "sg:city":"Campi Bisenzio",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_61m0ZN8NKZaikIL9ZkPcyq_43.801445_11.136338@1306269832"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b2e1fb3a4d13f0d901300cecb683e650",
+    "wof:geomhash":"f0ed36f40a083dd7a765366c7a575a8d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269491983,
-    "wof:lastmodified":1473900163,
+    "wof:lastmodified":1510941198,
     "wof:name":"Nuova G.e.v. (s.r.l.)",
     "wof:parent_id":85904647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219270511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"

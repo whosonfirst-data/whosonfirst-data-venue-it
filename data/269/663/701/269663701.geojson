@@ -7,13 +7,16 @@
     "addr:postcode":"41049;41049",
     "addr:street":"Via Dell'Artigianato",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.843919,44.537178,10.843919,44.537178",
     "geom:latitude":44.537178,
     "geom:longitude":10.843919,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Dell'artigianato 9 41049 Sassuolo",
     "sg:city":"Sassuolo",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_7ejQwSaiyhg0ejT01oIgCZ_44.537178_10.843919@1306269834"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7e00e4ea6bf8f614da4d773ced2c2646",
+    "wof:geomhash":"28467dfe5e65a535e271adebc69e1e6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":269663701,
-    "wof:lastmodified":1473900900,
+    "wof:lastmodified":1510942416,
     "wof:name":"Kerakoll Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091641659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "adhesive",

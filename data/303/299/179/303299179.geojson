@@ -7,13 +7,16 @@
     "addr:postcode":"24061;24061",
     "addr:street":"Albano S. Alessandro Bergamo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.75059,45.687134,9.75059,45.687134",
     "geom:latitude":45.687134,
     "geom:longitude":9.75059,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24061 Albano S. Alessandro",
     "sg:classifiers":[],
     "sg:orig_category":"Espositori, Displays E Articoli Pubblicitari Punto Vendita",
@@ -32,7 +35,7 @@
         "sg:id":"SG_2h1Yvh5PGJzaLrU2hqli9E_45.687134_9.750590@1306269857"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e4bc6c6589cb0dc3f215e7fb4b544204",
+    "wof:geomhash":"f80c46cf5ffcb18421ef34c5a811810e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,15 @@
         }
     ],
     "wof:id":303299179,
-    "wof:lastmodified":1473901339,
+    "wof:lastmodified":1510943800,
     "wof:name":"Trend Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091729145,
+        303698373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

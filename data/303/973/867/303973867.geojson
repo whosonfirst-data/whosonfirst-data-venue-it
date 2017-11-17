@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.257839,45.398788,9.257839,45.398788",
     "geom:latitude":45.398788,
     "geom:longitude":9.257839,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
         "sg:id":"SG_1SGpaiGdevu4758fjjRip6_45.398788_9.257839@1306269863"
     },
     "wof:country":"IT",
-    "wof:geomhash":"52036270e9aad09cb75de7c97f8d41ff",
+    "wof:geomhash":"d93c684dd45e94a4f52c83215c2799d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,13 +49,19 @@
         }
     ],
     "wof:id":303973867,
-    "wof:lastmodified":1473901980,
+    "wof:lastmodified":1510942014,
     "wof:name":"Win Distribuzione Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303879935,
+        1091794343,
+        1091794013,
+        1091786411,
+        236400911
+    ],
     "wof:tags":[]
 },
   "bbox": [

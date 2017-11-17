@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.183319,43.812366,11.183319,43.812366",
     "geom:latitude":43.812366,
     "geom:longitude":11.183319,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Di Scandicci 221 50143 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_5ZDnlsDqBjrWOxNpfCgQdM_43.812366_11.183319@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"63ab78230d01e9e1248589c1edd28c6b",
+    "wof:geomhash":"48acaccdfa86a0e4ab083581fc09968e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":236501763,
-    "wof:lastmodified":1473901503,
+    "wof:lastmodified":1510941943,
     "wof:name":"Pear Meccaniche Arrigo Pecchioli Srl",
     "wof:parent_id":85904647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336837251
+    ],
     "wof:tags":[
         "machine",
         "workshop",

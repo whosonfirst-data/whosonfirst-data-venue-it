@@ -7,13 +7,16 @@
     "addr:postcode":"20121;20121",
     "addr:street":"Via Borgonuovo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.190601,45.471519,9.190601,45.471519",
     "geom:latitude":45.471519,
     "geom:longitude":9.190601,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Borgonuovo 14 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_1ZpfvbhSP0dmUqVioJ3Fc7_45.471519_9.190601@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4f76035b941fd5536138a976be5134b4",
+    "wof:geomhash":"3bfea22143a50380b0c5c1bf93b86d6e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":236497973,
-    "wof:lastmodified":1473901517,
+    "wof:lastmodified":1510942899,
     "wof:name":"Snia Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091746275
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "holdings",

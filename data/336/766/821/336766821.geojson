@@ -7,13 +7,16 @@
     "addr:postcode":"12084;12084",
     "addr:street":"Piazza Borgato;' Piazza Cuneo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.819243,44.384132,7.819243,44.384132",
     "geom:latitude":44.384132,
     "geom:longitude":7.819243,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6, Piazza Borgato 12084 Mondovi'",
     "sg:city":"Piazza",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2i6SN6qNIV1iLYuKWS2EGY_44.384132_7.819243@1306269875"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ee465f393d45fc4590c16e93e5a51f8c",
+    "wof:geomhash":"c6fd9eac10a249cdf98206bc936206a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":336766821,
-    "wof:lastmodified":1473900577,
+    "wof:lastmodified":1510941643,
     "wof:name":"S.i.c.m.a. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091686215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

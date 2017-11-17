@@ -7,13 +7,16 @@
     "addr:postcode":"31020",
     "addr:street":"S. Polo Di Piave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.241916,45.633671,12.241916,45.633671",
     "geom:latitude":45.633671,
     "geom:longitude":12.241916,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"31020 S. Polo Di Piave",
     "sg:classifiers":[
         {
@@ -43,7 +46,7 @@
         "sg:id":"SG_1fOi8AfemQ9zEkVItAQOpP_45.633671_12.241916@1306269819"
     },
     "wof:country":"IT",
-    "wof:geomhash":"619ca8c04c06d4baf0ea0af38239ee74",
+    "wof:geomhash":"2daf9c47c7f4affc5f2bdb4cb6615667",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,25 @@
         }
     ],
     "wof:id":236529115,
-    "wof:lastmodified":1473901518,
+    "wof:lastmodified":1510943965,
     "wof:name":"Metalinox Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        253694759,
+        1091768285,
+        320508889,
+        1091775283,
+        320476439,
+        1091768189
+    ],
+    "wof:supersedes":[
+        1091655665,
+        253161611,
+        303108609,
+        253115767
+    ],
     "wof:tags":[
         "accommodation",
         "appliances",

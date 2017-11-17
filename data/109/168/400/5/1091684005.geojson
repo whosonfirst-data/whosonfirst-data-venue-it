@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5719099045,41.9075393677,12.5719099045,41.9075393677",
     "geom:latitude":41.907539,
     "geom:longitude":12.57191,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"183, Via Di Tor Sapienza 00155 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879073,
-    "wof:geomhash":"a93c18fb285cc5b6b0e7059e51f3f978",
+    "wof:geomhash":"3f332f866e399b0d30433f3312afa586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1091684005,
-    "wof:lastmodified":1473900638,
+    "wof:lastmodified":1510944104,
     "wof:name":"Eta - Ro (s.p.a.)",
     "wof:parent_id":85900495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269646275
+    ],
     "wof:tags":[
         "cardboard"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"74027",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.242998,40.574089,17.242998,40.574089",
     "geom:latitude":40.574089,
     "geom:longitude":17.242998,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"74027 San Giorgio Jonico",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Esterno, Maglierie E Pelliccerie",
@@ -31,7 +34,7 @@
         "sg:id":"SG_76H6D8Wz1EN3AjAuVKwXw9_40.574089_17.242998@1306269823"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8af26efac4efbd5cb0745307b39f1d57",
+    "wof:geomhash":"a69ca16670901e2c2a45419593f6e54e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,16 @@
         }
     ],
     "wof:id":252748291,
-    "wof:lastmodified":1473900258,
+    "wof:lastmodified":1510943651,
     "wof:name":"Il Regno Dei Bimbi Di Caiazzo P.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236319149,
+        252845819,
+        286851223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

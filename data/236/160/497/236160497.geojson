@@ -7,13 +7,16 @@
     "addr:postcode":"00178;00178",
     "addr:street":"Via Appia Nuova",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.578022,41.80909,12.578022,41.80909",
     "geom:latitude":41.80909,
     "geom:longitude":12.578022,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700, Via Appia Nuova 00178 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2EOa2yGaa0QBXvrzHIBPqZ_41.809090_12.578022@1306269816"
     },
     "wof:country":"IT",
-    "wof:geomhash":"10c805aacbe1128f1491b33aa57a0de9",
+    "wof:geomhash":"b6c95667e9df643f283944de801f9789",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236160497,
-    "wof:lastmodified":1473900895,
+    "wof:lastmodified":1510941464,
     "wof:name":"Italaquae Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091665303
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"

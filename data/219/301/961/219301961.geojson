@@ -7,13 +7,16 @@
     "addr:postcode":"36053;36053",
     "addr:street":"Via Torri Di Confine",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.344007,45.426411,11.344007,45.426411",
     "geom:latitude":45.426411,
     "geom:longitude":11.344007,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Torri Di Confine 6 36053 Gambellara",
     "sg:city":"Gambellara",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5uUwnG4aO0WZQ771jGMoyw_45.426411_11.344007@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"48618dd943f2b7c6451099c249f726fb",
+    "wof:geomhash":"21e7cbb837699ed43bf7bd78c808148b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":219301961,
-    "wof:lastmodified":1473900802,
+    "wof:lastmodified":1510942418,
     "wof:name":"Alpego Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269829535
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

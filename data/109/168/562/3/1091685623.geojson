@@ -7,13 +7,16 @@
     "addr:postcode":"20090;20090",
     "addr:street":"Via Trebbia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2077465057,45.3672409058,9.2077465057,45.3672409058",
     "geom:latitude":45.367241,
     "geom:longitude":9.207747,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7, Via Trebbia 20090 Opera",
     "sg:city":"Opera",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"IT",
     "wof:created":1473879140,
-    "wof:geomhash":"a813c187890b4c014f7b0abdc21858f0",
+    "wof:geomhash":"0c3c669a8da3422bdc6d5611922bab96",
     "wof:hierarchy":[],
     "wof:id":1091685623,
-    "wof:lastmodified":1473900751,
+    "wof:lastmodified":1510942520,
     "wof:name":"Asticarta (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169718505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cardboard"

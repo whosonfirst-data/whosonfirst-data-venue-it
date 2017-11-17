@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.751644,43.866444,10.751644,43.866444",
     "geom:latitude":43.866444,
     "geom:longitude":10.751644,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Renato Fucini 7 51010 Massa E Cozzile",
     "sg:city":"Massa e Cozzile",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4OUtRGfisv8K61GLWNR6wu_43.866444_10.751644@1306269823"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8513e2367f054f02bcba42bfb045a39c",
+    "wof:geomhash":"4195aeec2441e06c22bac56956cc627b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":236959747,
-    "wof:lastmodified":1473901963,
+    "wof:lastmodified":1510941213,
     "wof:name":"Nuova Edart Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091708023
+    ],
     "wof:tags":[
         "greeting",
         "card"

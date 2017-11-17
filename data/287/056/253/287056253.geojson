@@ -7,13 +7,16 @@
     "addr:postcode":"26100;26100",
     "addr:street":"Via Milano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.993817,45.143726,9.993817,45.143726",
     "geom:latitude":45.143726,
     "geom:longitude":9.993817,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Milano 20 26100 Cremona",
     "sg:city":"Cremona",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6O7p40Ix4Go1k6G9svo16c_45.143726_9.993817@1306269852"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7f65fd983a94e0e05a29839596a2e7da",
+    "wof:geomhash":"846c912b6cc8a2ca851aea8ae1f7928f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":287056253,
-    "wof:lastmodified":1473900333,
+    "wof:lastmodified":1510942912,
     "wof:name":"Piacenza Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220116583
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"

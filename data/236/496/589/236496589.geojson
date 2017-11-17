@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.565047,45.66201,11.565047,45.66201",
     "geom:latitude":45.66201,
     "geom:longitude":11.565047,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Astichello 31 36030 Montecchio Precalcino",
     "sg:city":"Montecchio Precalcino",
     "sg:classifiers":[],
@@ -32,7 +34,7 @@
         "sg:id":"SG_3Y7pPTKziJYYdlJestqOae_45.662010_11.565047@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ec6a4411fd1fe3aafa3d57d4a0b632b5",
+    "wof:geomhash":"81b8a9df9cdd9a022c8710ff3c1594a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":236496589,
-    "wof:lastmodified":1473901501,
+    "wof:lastmodified":1510943474,
     "wof:name":"Onelia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286570691
+    ],
     "wof:tags":[]
 },
   "bbox": [

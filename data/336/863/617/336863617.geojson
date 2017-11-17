@@ -7,13 +7,16 @@
     "addr:postcode":"80046",
     "addr:street":"S. Giorgio A Cremano Napoli",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.320687,40.826527,14.320687,40.826527",
     "geom:latitude":40.826527,
     "geom:longitude":14.320687,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"80046 S. Giorgio A Cremano",
     "sg:classifiers":[
         {
@@ -42,7 +45,7 @@
         "sg:id":"SG_6fczmlE7zXWF4TzRqdbrTF_40.826527_14.320687@1306269877"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9de182d09dcab1aa63b360eff65213fd",
+    "wof:geomhash":"9235ac77c3d554b1cca89bdf4df70f0a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,25 @@
         }
     ],
     "wof:id":336863617,
-    "wof:lastmodified":1473900869,
+    "wof:lastmodified":1510943340,
     "wof:name":"Cismet Srl",
     "wof:parent_id":85904819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        253641219,
+        303495491,
+        1091800887,
+        303676827,
+        303659745,
+        303653543,
+        1091800627,
+        236528385
+    ],
+    "wof:supersedes":[
+        336856231,
+        303105295
+    ],
     "wof:tags":[
         "machining",
         "mechanical"

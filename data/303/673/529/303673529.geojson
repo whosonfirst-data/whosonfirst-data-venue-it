@@ -7,13 +7,16 @@
     "addr:postcode":"42018",
     "addr:street":"San;Nell'Emilia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.775622,44.732468,10.775622,44.732468",
     "geom:latitude":44.732468,
     "geom:longitude":10.775622,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"42018 San Martino In Rio",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamento Alberghi",
@@ -32,7 +35,7 @@
         "sg:id":"SG_7JwVOUh9rudSfnNxoqFyng_44.732468_10.775622@1306269861"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c0ec575d14132fe2068ae9db060ecb20",
+    "wof:geomhash":"f5531399c7a5370fa2f319a81897d480",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +47,18 @@
         }
     ],
     "wof:id":303673529,
-    "wof:lastmodified":1473901819,
+    "wof:lastmodified":1510943939,
     "wof:name":"B. & R. Arredamenti Imbottiti Di Bertani Luciano & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        286929939
+    ],
+    "wof:supersedes":[
+        1091642835,
+        186600467
+    ],
     "wof:tags":[]
 },
   "bbox": [

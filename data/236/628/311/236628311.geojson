@@ -7,13 +7,16 @@
     "addr:postcode":"31018;31018",
     "addr:street":"Via Ravanello",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.508425,45.883198,12.508425,45.883198",
     "geom:latitude":45.883198,
     "geom:longitude":12.508425,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"39, Via Ravanello 31018 Gaiarine",
     "sg:city":"Gaiarine",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4Gup1xgp0UoSwkDxUWvCed_45.883198_12.508425@1306269820"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1b2d1111337221690d5ce9f87055b5ef",
+    "wof:geomhash":"e9816276eed67d619aae21fec51dbb3b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236628311,
-    "wof:lastmodified":1473901604,
+    "wof:lastmodified":1510943435,
     "wof:name":"Mobilificio Dal Cin (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091802153
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "household"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.593511,45.636463,12.593511,45.636463",
     "geom:latitude":45.636463,
     "geom:longitude":12.593511,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30027 San Dona'dipiave",
     "sg:classifiers":[
         {
@@ -41,7 +43,7 @@
         "sg:id":"SG_3jr1r7nabm4p5siGlscsY3_45.636463_12.593511@1306269877"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c333f910f95323bb32dc2cb8b5f11a36",
+    "wof:geomhash":"78dfe5643dd8556ba6246b7f4f59bbca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,16 @@
         }
     ],
     "wof:id":336869159,
-    "wof:lastmodified":1473900866,
+    "wof:lastmodified":1510941442,
     "wof:name":"Vignotto Fratelli Snc Di Vignotto Paolo E Enrico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236114093,
+        1091655807
+    ],
     "wof:tags":[
         "machining",
         "mechanical"

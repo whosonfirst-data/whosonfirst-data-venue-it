@@ -7,13 +7,16 @@
     "addr:postcode":"21042;pertusella;21042",
     "addr:street":"Corso Della Vittoria;Pertusella",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.040266,45.605564,9.040266,45.605564",
     "geom:latitude":45.605564,
     "geom:longitude":9.040266,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"916, Corso Della Vittoria 21042 Caronno Pertusella",
     "sg:city":"Caronno Pertusella",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3TQUC1dBUY9HQnAwnJUGOs_45.605564_9.040266@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b39df1d2517b73118508e89f154109ad",
+    "wof:geomhash":"7d4f312a608f21bff39ce0a1df81be40",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286468683,
-    "wof:lastmodified":1473901096,
+    "wof:lastmodified":1510942741,
     "wof:name":"Calzificio Tognoni Enrico S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253609135
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

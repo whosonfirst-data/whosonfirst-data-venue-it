@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.160984,37.239342,15.160984,37.239342",
     "geom:latitude":37.239342,
     "geom:longitude":15.160984,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"96011 Augusta",
     "sg:city":"Augusta",
     "sg:classifiers":[],
@@ -32,7 +34,7 @@
         "sg:id":"SG_07oMW3SXBZrBiZDYS7YZ59_37.239342_15.160984@1306269850"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c595a1581c886d0a43b74b69e1767f51",
+    "wof:geomhash":"6700bdbe4fabefd7421cd2f12e040ca2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +46,18 @@
         }
     ],
     "wof:id":286898565,
-    "wof:lastmodified":1473901978,
+    "wof:lastmodified":1510942543,
     "wof:name":"Sicilpontoni Patane' Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        202692109,
+        1091691265,
+        236740171,
+        220030941
+    ],
     "wof:tags":[]
 },
   "bbox": [

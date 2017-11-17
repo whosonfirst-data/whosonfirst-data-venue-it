@@ -7,13 +7,16 @@
     "addr:postcode":"25010;25010",
     "addr:street":"Via Dell ' Industria",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.371286,45.311478,10.371286,45.311478",
     "geom:latitude":45.311478,
     "geom:longitude":10.371286,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Dell' Industria 5 25010 Visano",
     "sg:city":"Visano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_02F0IvfacQuUOgdA7zi3CY_45.311478_10.371286@1306269814"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ad3d8041c3905d6b66463a42c0e17ccb",
+    "wof:geomhash":"7e6f696478b65e1c4af1f6a83ece2534",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":235985437,
-    "wof:lastmodified":1473900292,
+    "wof:lastmodified":1510942007,
     "wof:name":"Nuova O.f.a.r. S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091662521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decorative",

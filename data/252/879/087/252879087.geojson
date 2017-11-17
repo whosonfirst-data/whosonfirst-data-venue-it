@@ -7,13 +7,16 @@
     "addr:postcode":"98076",
     "addr:street":"S. Agata Di Militello",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.634133,38.069588,14.634133,38.069588",
     "geom:latitude":38.069588,
     "geom:longitude":14.634133,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"98076 S. Agata Di Militello",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Intimo, Calze E Costumi Da Bagno. Articoli Medico-sanitari Ed Ortopedici",
@@ -33,7 +36,7 @@
         "sg:id":"SG_28EftUo9U4WkpY3YrEoFpR_38.069588_14.634133@1306269824"
     },
     "wof:country":"IT",
-    "wof:geomhash":"25f2fd5ef009b5a07ca7628cbed5fd06",
+    "wof:geomhash":"83052004cb44a59a6746a8d02219c5a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,26 @@
         }
     ],
     "wof:id":252879087,
-    "wof:lastmodified":1473900926,
+    "wof:lastmodified":1510943736,
     "wof:name":"Morello Nitto - Casa Del Lino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        252883977,
+        1091748049,
+        1091799607,
+        236350337,
+        253525049,
+        253525141,
+        286935811
+    ],
+    "wof:supersedes":[
+        186347257,
+        269637059,
+        186336759,
+        269635771
+    ],
     "wof:tags":[]
 },
   "bbox": [

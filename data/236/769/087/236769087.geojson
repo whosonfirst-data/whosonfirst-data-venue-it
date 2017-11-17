@@ -7,13 +7,16 @@
     "addr:postcode":"30141;30141",
     "addr:street":"Fondamenta Dei Vetrai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.350878,45.452709,12.350878,45.452709",
     "geom:latitude":45.452709,
     "geom:longitude":12.350878,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fondamenta Dei Vetrai 50 30141 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3gFz9DxovIw9SP6Ogs579d_45.452709_12.350878@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"55b7be67705e9182e8caf7f975c6b7f8",
+    "wof:geomhash":"e552e9975eb4866314966f73ca78560f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236769087,
-    "wof:lastmodified":1473901902,
+    "wof:lastmodified":1510941285,
     "wof:name":"Venini Spa",
     "wof:parent_id":85905013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236890623
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "article",

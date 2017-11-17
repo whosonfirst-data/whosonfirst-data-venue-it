@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.02931,45.377617,11.02931,45.377617",
     "geom:latitude":45.377617,
     "geom:longitude":11.02931,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"37057 S. Giovanni Lupatoto",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Per Agricoltura E Zootecnia. Macchine, Impianti Ed Attrezzature Industria Chimica. Macchine Utensili E Impianti",
@@ -33,7 +35,7 @@
         "sg:id":"SG_1VgKCk55iwmxBgDpPudOhK_45.377617_11.029310@1306269870"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9c8062d68df537a21965681bd1ab0c32",
+    "wof:geomhash":"60fbdcdc6a97dcc20e93a0e8e646ea24",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,20 @@
         }
     ],
     "wof:id":320443255,
-    "wof:lastmodified":1473901609,
+    "wof:lastmodified":1510942509,
     "wof:name":"Ver.ma Spa",
     "wof:parent_id":85905053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091801117,
+        1091801139,
+        269851917,
+        303300249,
+        320023217,
+        320035929
+    ],
     "wof:tags":[]
 },
   "bbox": [

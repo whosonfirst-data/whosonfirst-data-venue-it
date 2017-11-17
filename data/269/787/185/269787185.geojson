@@ -7,13 +7,16 @@
     "addr:postcode":"20090;20090",
     "addr:street":"Trezzano Naviglio Milano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.04791,45.426991,9.04791,45.426991",
     "geom:latitude":45.426991,
     "geom:longitude":9.04791,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20090 Trezzano Naviglio",
     "sg:classifiers":[],
     "sg:orig_category":"Agitatori, Emulsionatori Ed Omogeneizzatori",
@@ -33,7 +36,7 @@
         "sg:id":"SG_5kHcTVBgWiWZz0i09sDt3I_45.426991_9.047910@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b26ce0cd831c019686f4cd339c8f3c97",
+    "wof:geomhash":"f9cac8fe994ba983178b71f03418b5b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":269787185,
-    "wof:lastmodified":1473901359,
+    "wof:lastmodified":1510942988,
     "wof:name":"Eco-mix Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320284973
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

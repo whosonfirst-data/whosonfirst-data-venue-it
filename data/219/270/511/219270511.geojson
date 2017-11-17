@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.137672,43.80114,11.137672,43.80114",
     "geom:latitude":43.80114,
     "geom:longitude":11.137672,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via S. Cresci 217 50017 San Piero A Ponti",
     "sg:classifiers":[
         {
@@ -41,7 +43,7 @@
         "sg:id":"SG_1dW56LoTi3uDZQ65mnULpJ_43.801140_11.137672@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"3e4525681a568c991c45fc97f310b966",
+    "wof:geomhash":"9c7939d5e6a301e553e6795f8dc7fb57",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":219270511,
-    "wof:lastmodified":1473900629,
+    "wof:lastmodified":1510941198,
     "wof:name":"Nuova G.e.v. Srl",
     "wof:parent_id":85904647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269491983
+    ],
     "wof:tags":[
         "small",
         "ironware",

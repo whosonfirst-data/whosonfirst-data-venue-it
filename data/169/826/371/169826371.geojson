@@ -7,13 +7,16 @@
     "addr:postcode":"10121;10121",
     "addr:street":"Corso Matteotti Giacomo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.578022,45.062363,7.578022,45.062363",
     "geom:latitude":45.062363,
     "geom:longitude":7.578022,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3/bis, Corso Matteotti Giacomo 10121 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0Gg8kdpSW0mNJzRXZAQfNd_45.062363_7.578022@1306269789"
     },
     "wof:country":"IT",
-    "wof:geomhash":"697ae158cfe9b04c7f45484beb01ed6a",
+    "wof:geomhash":"f0a504921db97e84f41b4e31c4786e1d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":169826371,
-    "wof:lastmodified":1473900295,
+    "wof:lastmodified":1510943303,
     "wof:name":"Assicurazione Slp (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091802639
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

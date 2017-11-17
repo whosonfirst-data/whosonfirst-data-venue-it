@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.182328,45.703007,9.182328,45.703007",
     "geom:latitude":45.703007,
     "geom:longitude":9.182328,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2, Via Spaino 22066 Mariano Comense",
     "sg:city":"Mariano Comense",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_3HRBFsAl2rIXfeLPFEsIbR_45.703007_9.182328@1306269820"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c4be33e30c79b071c6c3f223327b2888",
+    "wof:geomhash":"953c7895c39ab556d97a2b75a48b3f98",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":236636237,
-    "wof:lastmodified":1473901591,
+    "wof:lastmodified":1510942925,
     "wof:name":"Norditalia Ricambi (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186376075
+    ],
     "wof:tags":[
         "household"
     ]

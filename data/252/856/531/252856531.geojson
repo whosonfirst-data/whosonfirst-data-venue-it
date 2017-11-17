@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.299162,45.391972,9.299162,45.391972",
     "geom:latitude":45.391972,
     "geom:longitude":9.299162,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_3sa4nYbPNLyuIRgqWiu24E_45.391972_9.299162@1306269824"
     },
     "wof:country":"IT",
-    "wof:geomhash":"6eeda545eea1eeeb147999ef35a390a9",
+    "wof:geomhash":"0cc7b6314875a79802b8e2a57c062849",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,15 @@
         }
     ],
     "wof:id":252856531,
-    "wof:lastmodified":1473900816,
+    "wof:lastmodified":1510942565,
     "wof:name":"Atecon Srl",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320339103,
+        286968955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

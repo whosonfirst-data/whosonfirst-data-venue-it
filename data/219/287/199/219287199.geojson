@@ -7,13 +7,16 @@
     "addr:postcode":"37046;37046",
     "addr:street":"Via Copparo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.35546,45.225445,11.35546,45.225445",
     "geom:latitude":45.225445,
     "geom:longitude":11.35546,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Copparo 29 37046 Minerbe",
     "sg:city":"Minerbe",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_5fy9qDQ0OHX6W9n5WKyG8L_45.225445_11.355460@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"964dfa9d7184ae86f40a774675c1b153",
+    "wof:geomhash":"19f102c9bf1c32e397260319cc5729c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":219287199,
-    "wof:lastmodified":1473900773,
+    "wof:lastmodified":1510942235,
     "wof:name":"Mecmar Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336716639
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural",

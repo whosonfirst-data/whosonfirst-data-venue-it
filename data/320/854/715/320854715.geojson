@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.08991,45.576607,10.08991,45.576607",
     "geom:latitude":45.576607,
     "geom:longitude":10.08991,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"49/51, Via Trento 25050 Paderno Franciacorta",
     "sg:city":"Paderno Franciacorta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7gsD6lwRSqgUcVgRVChdWp_45.576607_10.089910@1306269873"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ae87aca9677afd4bbf8e43660f672511",
+    "wof:geomhash":"e12a8628d0c233d2428a9bdeb34dd670",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":320854715,
-    "wof:lastmodified":1473901895,
+    "wof:lastmodified":1510942295,
     "wof:name":"Sirta (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169725551
+    ],
     "wof:tags":[
         "equipment",
         "-",

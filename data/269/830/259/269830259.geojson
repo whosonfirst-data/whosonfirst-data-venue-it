@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.228792,44.703396,11.228792,44.703396",
     "geom:latitude":44.703396,
     "geom:longitude":11.228792,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1, Via Lampedusa 40017 San Giovanni In Persiceto",
     "sg:city":"San Giovanni in Persiceto",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6dAWUkeOWTBxh0T0bwribv_44.703396_11.228792@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"18830a61c222a3137f59e38fff75a251",
+    "wof:geomhash":"9214d60ef06b318a734a47cba9a66ce4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":269830259,
-    "wof:lastmodified":1473901419,
+    "wof:lastmodified":1510942657,
     "wof:name":"Benassi (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091672345
+    ],
     "wof:tags":[
         "-",
         "agriculture",

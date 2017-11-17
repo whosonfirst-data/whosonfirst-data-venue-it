@@ -7,13 +7,16 @@
     "addr:postcode":"48022;48022",
     "addr:street":"Via Piano Caricatore",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.917004,44.414501,11.917004,44.414501",
     "geom:latitude":44.414501,
     "geom:longitude":11.917004,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Piano Caricatore 1 48022 Lugo",
     "sg:city":"Lugo",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1ZX8GCp4Nlt6T35n0zxj6K_44.414501_11.917004@1306269834"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ba6ea4cf958ff4faa5270c72126f30dd",
+    "wof:geomhash":"e7d10e7fa9e3f1747abb26130211ad28",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":269670693,
-    "wof:lastmodified":1473900913,
+    "wof:lastmodified":1510943103,
     "wof:name":"Leone Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091773151
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "table",

@@ -7,13 +7,16 @@
     "addr:postcode":"20121;20121",
     "addr:street":"Via Brera",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.187574,45.472099,9.187574,45.472099",
     "geom:latitude":45.472099,
     "geom:longitude":9.187574,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Brera 21; Milano; 20121",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0n2bRcgnkxiGJ5bS9ZhYdB_45.472099_9.187574@1306269792"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b31cf930160c2d7297deccc6b366de1f",
+    "wof:geomhash":"de15645c6dc35b98460d77b7cb345d85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":185940921,
-    "wof:lastmodified":1473901199,
+    "wof:lastmodified":1510943872,
     "wof:name":"Banque Indosuez Italia Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185940995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

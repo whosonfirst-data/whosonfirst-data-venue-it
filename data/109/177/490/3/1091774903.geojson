@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4126825333,44.4752845764,11.4126825333,44.4752845764",
     "geom:latitude":44.475285,
     "geom:longitude":11.412683,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473883531,
-    "wof:geomhash":"9fa85ad837b73ba5d12f8c2bb0ec648e",
+    "wof:geomhash":"367f0e9c36c76464646312efa4274804",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1091774903,
-    "wof:lastmodified":1473900700,
+    "wof:lastmodified":1510944002,
     "wof:name":"C.a.m. Di Gualducci G. & C. Snc",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320175051
+    ],
     "wof:tags":[]
 },
   "bbox": [

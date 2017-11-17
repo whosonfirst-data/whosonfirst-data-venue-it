@@ -7,13 +7,16 @@
     "addr:postcode":"00138;00138",
     "addr:street":"Via Bolognola",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.504503,41.986645,12.504503,41.986645",
     "geom:latitude":41.986645,
     "geom:longitude":12.504503,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Bolognola 37 00138 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_4xHSXnYoKHaXHZH9bco4tc_41.986645_12.504503@1306269807"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0d1541ac482f02a12f61f112238e5b04",
+    "wof:geomhash":"05a90d2dea252c1967a0bc31035a50db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":219388861,
-    "wof:lastmodified":1473901065,
+    "wof:lastmodified":1510943205,
     "wof:name":"Leone Aliotti Srl",
     "wof:parent_id":85904939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236612257
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

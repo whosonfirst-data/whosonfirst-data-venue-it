@@ -7,13 +7,16 @@
     "addr:postcode":"20040",
     "addr:street":"Burago",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.3783512115,45.5963668823,9.3783512115,45.5963668823",
     "geom:latitude":45.596367,
     "geom:longitude":9.378351,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20040 Burago Di Molgora",
     "sg:city":"Burago di Molgora",
     "sg:classifiers":[],
@@ -31,16 +34,20 @@
     },
     "wof:country":"IT",
     "wof:created":1473884558,
-    "wof:geomhash":"187b5a31c259c8721c78411f4defb98b",
+    "wof:geomhash":"250a0d29a9e75ef08f55819ba23f615b",
     "wof:hierarchy":[],
     "wof:id":1091798057,
-    "wof:lastmodified":1473900872,
+    "wof:lastmodified":1510941931,
     "wof:name":"Agan Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320534249
+    ],
+    "wof:supersedes":[
+        287085235
+    ],
     "wof:tags":[]
 },
   "bbox": [

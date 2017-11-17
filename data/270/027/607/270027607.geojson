@@ -7,13 +7,16 @@
     "addr:postcode":"20060;20060",
     "addr:street":"Via Bologna",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.476017,45.588524,9.476017,45.588524",
     "geom:latitude":45.588524,
     "geom:longitude":9.476017,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Bologna 22 20060 Trezzano Rosa",
     "sg:city":"Trezzano Rosa",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_5ckNiNYkQXxrCMYUoTJMD5_45.588524_9.476017@1306269838"
     },
     "wof:country":"IT",
-    "wof:geomhash":"97ca374e42f159234cb35f8de5db4f27",
+    "wof:geomhash":"6ef47a61640723a449f7556a35208939",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":270027607,
-    "wof:lastmodified":1473900410,
+    "wof:lastmodified":1510941621,
     "wof:name":"Cabloswiss Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287293991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "resistant",

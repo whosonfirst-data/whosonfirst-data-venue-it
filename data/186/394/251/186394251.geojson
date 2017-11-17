@@ -7,13 +7,16 @@
     "addr:postcode":"50031;50031",
     "addr:street":"Via Della Lora",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.230533,43.994846,11.230533,43.994846",
     "geom:latitude":43.994846,
     "geom:longitude":11.230533,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Della Lora 21 50031 Barberino Di Mugello",
     "sg:city":"Barberino di Mugello",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_5X4t0D79Rji3k6vRWHWUek_43.994846_11.230533@1306269795"
     },
     "wof:country":"IT",
-    "wof:geomhash":"28552847c02d8e2cdaf883e1cdadf9db",
+    "wof:geomhash":"3755120040032fcdb246055d1faa938f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":186394251,
-    "wof:lastmodified":1473901148,
+    "wof:lastmodified":1510942878,
     "wof:name":"Sei Esse Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091684309
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "paper",

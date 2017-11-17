@@ -7,13 +7,16 @@
     "addr:postcode":"20090;20090",
     "addr:street":"Via Gramsci",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.208535,45.370674,9.208535,45.370674",
     "geom:latitude":45.370674,
     "geom:longitude":9.208535,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"44, Via Gramsci 20090 Opera",
     "sg:city":"Opera",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1pbbp3RjB7fdI7MrLQBlmM_45.370674_9.208535@1306269854"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5dc0e3bb99ad4662188baa27590814d4",
+    "wof:geomhash":"e683b70836616b242b7e9229672a07fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":287239549,
-    "wof:lastmodified":1473901282,
+    "wof:lastmodified":1510942805,
     "wof:name":"Sintermetalglass (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236862973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "component",

@@ -7,13 +7,16 @@
     "addr:postcode":"22063;22063",
     "addr:street":"Via Rencati;Cantu ' Como",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.120508,45.731407,9.120508,45.731407",
     "geom:latitude":45.731407,
     "geom:longitude":9.120508,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"110, Via Rencati 22063 Cantu'",
     "sg:classifiers":[
         {
@@ -40,7 +43,7 @@
         "sg:id":"SG_5fQ2hLGZUSLoDtfhdCGKJq_45.731407_9.120508@1306269829"
     },
     "wof:country":"IT",
-    "wof:geomhash":"67b0d281086d77320c2f8d48b08c47e2",
+    "wof:geomhash":"253ead68e333a4e20a56f9d734ee4dac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253405209,
-    "wof:lastmodified":1473901302,
+    "wof:lastmodified":1510941745,
     "wof:name":"Tabu (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091686759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"

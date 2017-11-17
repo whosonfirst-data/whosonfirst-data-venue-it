@@ -7,13 +7,16 @@
     "addr:postcode":"06128;06128",
     "addr:street":"Via Morettini Angelo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.389172,43.110703,12.389172,43.110703",
     "geom:latitude":43.110703,
     "geom:longitude":12.389172,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Morettini Angelo 53 06128 Perugia",
     "sg:city":"Perugia",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1w7bDUMUUr6UBpdNlcNnFz_43.110703_12.389172@1306269812"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ea2f735eddcc99ca7d05cf8908ad4aef",
+    "wof:geomhash":"aba538fdd27c7e6016c43b2c4563e7f7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":220089651,
-    "wof:lastmodified":1473900482,
+    "wof:lastmodified":1510941394,
     "wof:name":"Metalprogetti Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236921705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial",

@@ -7,7 +7,7 @@
     "addr:postcode":"06087",
     "addr:street":"Pg",
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-07-14",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -48,12 +48,15 @@
         }
     ],
     "wof:id":186305363,
-    "wof:lastmodified":1500047206,
+    "wof:lastmodified":1510944030,
     "wof:name":"T. & C. Umbriasrl",
     "wof:parent_id":85844721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253175915,
+        186318305
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

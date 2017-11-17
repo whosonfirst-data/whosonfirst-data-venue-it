@@ -7,13 +7,16 @@
     "addr:postcode":"20156;20156",
     "addr:street":"Via Casella;Battista",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2032260895,45.4824676514,9.2032260895,45.4824676514",
     "geom:latitude":45.482468,
     "geom:longitude":9.203226,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16, Via Casella Gian Battista 20156 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879999,
-    "wof:geomhash":"a86252dd36d29ed301f01465881b023c",
+    "wof:geomhash":"2caf7eeb6ad1084013928b013336bff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1091706449,
-    "wof:lastmodified":1473900847,
+    "wof:lastmodified":1510943785,
     "wof:name":"Arti Poligrafiche Europee Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091737365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"

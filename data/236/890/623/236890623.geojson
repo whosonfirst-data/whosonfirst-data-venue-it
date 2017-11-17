@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.350878,45.452709,12.350878,45.452709",
     "geom:latitude":45.452709,
     "geom:longitude":12.350878,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50, Fondamenta Dei Vetrai 30141 Venezia",
     "sg:city":"Venezia",
     "sg:classifiers":[
@@ -37,7 +39,7 @@
         "sg:id":"SG_6Mk43jNmwg9plmaW23f8TI_45.452709_12.350878@1306269822"
     },
     "wof:country":"IT",
-    "wof:geomhash":"55b7be67705e9182e8caf7f975c6b7f8",
+    "wof:geomhash":"e552e9975eb4866314966f73ca78560f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":236890623,
-    "wof:lastmodified":1473901917,
+    "wof:lastmodified":1510941285,
     "wof:name":"Venini (s.p.a.)",
     "wof:parent_id":85905013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236769087
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"64016",
     "addr:street":"S. Egidio Alla Vibrata",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.698531,42.66127,13.698531,42.66127",
     "geom:latitude":42.66127,
     "geom:longitude":13.698531,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"64016 S. Egidio Alla Vibrata",
     "sg:classifiers":[],
     "sg:orig_category":"Abbigliamento Bambini E Ragazzi",
@@ -33,7 +36,7 @@
         "sg:id":"SG_7UYsJHINgf9sN8RpEVCj5k_42.661270_13.698531@1306269823"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5b3758a71fd78dfa48310b669f2f1898",
+    "wof:geomhash":"1005943a14192ee0feda1c3d82d061a0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,16 @@
         }
     ],
     "wof:id":252732315,
-    "wof:lastmodified":1473900169,
+    "wof:lastmodified":1510942668,
     "wof:name":"Gieffe Moda Srl - Montefiore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252823831,
+        236308965,
+        252746713
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

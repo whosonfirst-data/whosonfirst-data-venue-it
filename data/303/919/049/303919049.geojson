@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.430239,41.641582,15.430239,41.641582",
     "geom:latitude":41.641582,
     "geom:longitude":15.430239,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71016 San Severo",
     "sg:city":"San Severo",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_2abbkYxCVlktuUA8gzrRHS_41.641582_15.430239@1306269863"
     },
     "wof:country":"IT",
-    "wof:geomhash":"da80cfb2b78a7f01e969a192ee342778",
+    "wof:geomhash":"676435aa48a64eae141385e53ea876d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,20 @@
         }
     ],
     "wof:id":303919049,
-    "wof:lastmodified":1473901937,
+    "wof:lastmodified":1510941342,
     "wof:name":"Fra.da Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270339505,
+        286843469,
+        236302341,
+        303874123,
+        236479965,
+        1091793691
+    ],
     "wof:tags":[]
 },
   "bbox": [

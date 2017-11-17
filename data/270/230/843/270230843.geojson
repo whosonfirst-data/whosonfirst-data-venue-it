@@ -7,13 +7,16 @@
     "addr:postcode":"31040;31040",
     "addr:street":"Del Montello",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.17217,45.728268,12.17217,45.728268",
     "geom:latitude":45.728268,
     "geom:longitude":12.17217,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"31040 Volpago Del Montello",
     "sg:city":"Volpago del Montello",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_6BXZh2eBNCWRd88bOJsSm1_45.728268_12.172170@1306269840"
     },
     "wof:country":"IT",
-    "wof:geomhash":"652e0a4bfbfb07e6a763afdd2b2ce1d4",
+    "wof:geomhash":"0d927ca7b5f4f0398fbeca7dfc47e219",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,19 @@
         }
     ],
     "wof:id":270230843,
-    "wof:lastmodified":1473901268,
+    "wof:lastmodified":1510943412,
     "wof:name":"Zanatta R. Romeo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091655813,
+        336869267,
+        253659331,
+        1091676929,
+        1091678939,
+        253709447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

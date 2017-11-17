@@ -7,13 +7,16 @@
     "addr:postcode":"20010;20010",
     "addr:street":"Vle Europa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.908102,45.497391,8.908102,45.497391",
     "geom:latitude":45.497391,
     "geom:longitude":8.908102,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vle Europa, 64/66 20010 Ossona",
     "sg:city":"Ossona",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1LkruyZgqHuNjyRa5wRs8t_45.497391_8.908102@1306269856"
     },
     "wof:country":"IT",
-    "wof:geomhash":"3e1489902a27fb6d544f1337feb26b64",
+    "wof:geomhash":"377660873f62937c3f47202ac0b92aae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303226729,
-    "wof:lastmodified":1473901111,
+    "wof:lastmodified":1510943072,
     "wof:name":"Nuova De.ma. S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336728113
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"

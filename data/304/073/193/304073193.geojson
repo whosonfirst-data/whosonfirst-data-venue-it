@@ -7,13 +7,16 @@
     "addr:postcode":"26013;26013",
     "addr:street":"Via Rossi Martini",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.658749,45.3512,9.658749,45.3512",
     "geom:latitude":45.3512,
     "geom:longitude":9.658749,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"41, Via Rossi Martini 26013 Crema",
     "sg:city":"Crema",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5EnJqO8YB4jyc6vZu5FX0l_45.351200_9.658749@1306269864"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f430f2b0aef9da73b5ec8c96a1dd766c",
+    "wof:geomhash":"432703f0822a9b1371ae1dec115c8123",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":304073193,
-    "wof:lastmodified":1473900358,
+    "wof:lastmodified":1510943551,
     "wof:name":"New Majestic S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270171781
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"

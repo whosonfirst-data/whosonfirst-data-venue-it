@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.029552,44.60318,11.029552,44.60318",
     "geom:latitude":44.60318,
     "geom:longitude":11.029552,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Emilia Ovest 70 41013 Castelfranco Emilia",
     "sg:city":"Castelfranco Emilia",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_0lHudvaBpPzpvolyeHevNr_44.603180_11.029552@1306269877"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f9749c5acab7b8591333fc06bf043343",
+    "wof:geomhash":"8dd23724d361ae76d1214ff7d306f2d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":336874637,
-    "wof:lastmodified":1473900924,
+    "wof:lastmodified":1510943186,
     "wof:name":"Omg Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336733115
+    ],
     "wof:tags":[
         "workshop",
         "mechanical"

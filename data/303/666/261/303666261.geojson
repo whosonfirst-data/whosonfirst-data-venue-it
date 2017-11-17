@@ -7,13 +7,16 @@
     "addr:postcode":"20097",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.263044,45.419788,9.263044,45.419788",
     "geom:latitude":45.419788,
     "geom:longitude":9.263044,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_0yTA53uJIgCwSxbzSCcop3_45.419788_9.263044@1306269861"
     },
     "wof:country":"IT",
-    "wof:geomhash":"07fed9d1e5e9f508964ef8783a23076f",
+    "wof:geomhash":"96c84565baa8df01b74ebbca5e896f6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +49,18 @@
         }
     ],
     "wof:id":303666261,
-    "wof:lastmodified":1473901850,
+    "wof:lastmodified":1510942175,
     "wof:name":"Ambrosiana Scale Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320593679,
+        1091789907
+    ],
+    "wof:supersedes":[
+        1091792965
+    ],
     "wof:tags":[]
 },
   "bbox": [

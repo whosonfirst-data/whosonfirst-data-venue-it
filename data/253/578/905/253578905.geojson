@@ -7,13 +7,16 @@
     "addr:postcode":"20092;20092",
     "addr:street":"Via Giotto",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.194084,45.547024,9.194084,45.547024",
     "geom:latitude":45.547024,
     "geom:longitude":9.194084,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Giotto 35 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2foPzHjSZEFp1Sy27nmalQ_45.547024_9.194084@1306269831"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7682e77eb4c70d21d097c1c6faf474dd",
+    "wof:geomhash":"18d6fc52057a4a5907b3f3a4462498b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":253578905,
-    "wof:lastmodified":1473901472,
+    "wof:lastmodified":1510943242,
     "wof:name":"M.af.imp.ex. Sas",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091773175
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory",

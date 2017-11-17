@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.522777,45.79464,13.522777,45.79464",
     "geom:latitude":45.79464,
     "geom:longitude":13.522777,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11, Via Degli Schiavetti 34074 Monfalcone",
     "sg:city":"Monfalcone",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_2714gXysgkChirLZNcxBGP_45.794640_13.522777@1306269822"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e081bd722dd30fbb9bd57e1500ac9dab",
+    "wof:geomhash":"0e66bf541e927d3d5dff878f49e5696b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":236919593,
-    "wof:lastmodified":1473901930,
+    "wof:lastmodified":1510943530,
     "wof:name":"Liebherr Italia (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        319901869
+    ],
     "wof:tags":[
         "equipment",
         "material",

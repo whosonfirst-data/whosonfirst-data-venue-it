@@ -7,13 +7,16 @@
     "addr:postcode":"20094;20094",
     "addr:street":"Via Pacinotti",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.082188,45.425179,9.082188,45.425179",
     "geom:latitude":45.425179,
     "geom:longitude":9.082188,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Pacinotti 58 20094 Corsico",
     "sg:city":"Corsico",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_3Mptizl71ufg8UuxB4jKcF_45.425179_9.082188@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"dd4980900d1fe39e42097753dc33f595",
+    "wof:geomhash":"8dbcecb3ae2435dba364df302053e26c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":303315203,
-    "wof:lastmodified":1473901371,
+    "wof:lastmodified":1510943166,
     "wof:name":"Plotini Allestimenti Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091736773
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stand",

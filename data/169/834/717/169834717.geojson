@@ -7,13 +7,16 @@
     "addr:postcode":"31100;31100",
     "addr:street":"Viale Dei Mille;Tv",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.154352,45.673309,12.154352,45.673309",
     "geom:latitude":45.673309,
     "geom:longitude":12.154352,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Viale Dei Mille 1/d, 31100 Treviso, Tv",
     "sg:city":"Treviso",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_2UgzU0mVbahH9UMpX0qHc7_45.673309_12.154352@1306269789"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a65d2c8e245acf4bb6da85d7bcb76167",
+    "wof:geomhash":"0959fba99d2a3aec56c30912baa4a5b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":169834717,
-    "wof:lastmodified":1473900318,
+    "wof:lastmodified":1510942643,
     "wof:name":"Adria Leasing Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091802529
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

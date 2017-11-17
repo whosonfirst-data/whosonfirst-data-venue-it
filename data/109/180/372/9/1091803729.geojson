@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4203643799,41.8966789246,12.4203643799,41.8966789246",
     "geom:latitude":41.896679,
     "geom:longitude":12.420364,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"479 Via Aurelia, 00165 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473884801,
-    "wof:geomhash":"df0057ab91cc6398ce8d74aa576bed5b",
+    "wof:geomhash":"89cb10507498c6628c8f8d1381877cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1091803729,
-    "wof:lastmodified":1473900232,
+    "wof:lastmodified":1510943812,
     "wof:name":"Metro Security Espress (srl)",
     "wof:parent_id":85904915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169823031
+    ],
     "wof:tags":[
         "banking",
         "finance",

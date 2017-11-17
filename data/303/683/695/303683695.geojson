@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.574977,42.8554,13.574977,42.8554",
     "geom:latitude":42.8554,
     "geom:longitude":13.574977,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"63039 S. Benedetto Del Tronto",
     "sg:classifiers":[],
     "sg:orig_category":"Arredamento Negozi E Supermercati",
@@ -32,7 +34,7 @@
         "sg:id":"SG_2eIUDMdnIrfVFYfUYZsuF4_42.855400_13.574977@1306269861"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5e70463f5e846e2603fc8cb9bab28771",
+    "wof:geomhash":"469c23d64b47fc2d11942fcb9a51c29a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +46,16 @@
         }
     ],
     "wof:id":303683695,
-    "wof:lastmodified":1473901843,
+    "wof:lastmodified":1510941455,
     "wof:name":"L'arte Della Vetrina Di Villafrati G.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091781673,
+        1091785825
+    ],
     "wof:tags":[]
 },
   "bbox": [

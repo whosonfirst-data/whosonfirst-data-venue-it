@@ -7,13 +7,16 @@
     "addr:postcode":"21013;21013",
     "addr:street":"Via Tognasca",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.821776,45.642666,8.821776,45.642666",
     "geom:latitude":45.642666,
     "geom:longitude":8.821776,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7, Via Tognasca 21013 Gallarate",
     "sg:city":"Gallarate",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_7PDPRlfrb35gnoCWR18MAV_45.642666_8.821776@1306269796"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e683052aefdc4ef5da03f355d352ff1a",
+    "wof:geomhash":"cc9adde0fc33661eae2f261bb50005f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":186411023,
-    "wof:lastmodified":1473901139,
+    "wof:lastmodified":1510943465,
     "wof:name":"Fasy S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270372793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

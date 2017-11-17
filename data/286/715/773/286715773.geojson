@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.085485,45.787487,9.085485,45.787487",
     "geom:latitude":45.787487,
     "geom:longitude":9.085485,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31, Via Dei Mulini 22100 Como",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_1Zs8ZyV913hQ9XJYWHuV4J_45.787487_9.085485@1306269848"
     },
     "wof:country":"IT",
-    "wof:geomhash":"169eabebfd526cd32c8ca88b3e342ad2",
+    "wof:geomhash":"68da1dc8cc8c73063d677237a54e7cbd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":286715773,
-    "wof:lastmodified":1473901523,
+    "wof:lastmodified":1510944151,
     "wof:name":"La Metaltecnica S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186390447
+    ],
     "wof:tags":[
         "work",
         "public"

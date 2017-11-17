@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.513097,40.933453,14.513097,40.933453",
     "geom:latitude":40.933453,
     "geom:longitude":14.513097,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"80035 Nola",
     "sg:city":"Nola",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_0Gwobf0PgvfH9A8h7hQncA_40.933453_14.513097@1306269872"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9c591d0600932651d671742200ecd6dc",
+    "wof:geomhash":"c5ecbd5ea5c11238ab579981e581641d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,16 @@
         }
     ],
     "wof:id":320732399,
-    "wof:lastmodified":1473901876,
+    "wof:lastmodified":1510943410,
     "wof:name":"David Di Pompilio Ciro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091720549,
+        1091720929
+    ],
     "wof:tags":[]
 },
   "bbox": [

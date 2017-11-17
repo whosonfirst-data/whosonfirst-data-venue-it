@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.9968824387,45.5652160645,7.9968824387,45.5652160645",
     "geom:latitude":45.565216,
     "geom:longitude":7.996882,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"89, Via Graglia 13898 Occhieppo Superiore",
     "sg:city":"Occhieppo Superiore",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473814255,
-    "wof:geomhash":"36ea000c0c00edc186ac45e37af29ee1",
+    "wof:geomhash":"1bc2ddf5bf96b3f35206ac5a460c75a2",
     "wof:hierarchy":[],
     "wof:id":1091641999,
-    "wof:lastmodified":1473900316,
+    "wof:lastmodified":1510941491,
     "wof:name":"Maglificio Maggia (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        287181121
+    ],
     "wof:tags":[
         "clothes"
     ]

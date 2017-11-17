@@ -7,13 +7,16 @@
     "addr:postcode":"16145;16145",
     "addr:street":"Corso Italia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.907424,44.467606,8.907424,44.467606",
     "geom:latitude":44.467606,
     "geom:longitude":8.907424,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30/r, Corso Italia 16145 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2CSIjz3TdcqxNww32nb4Nq_44.467606_8.907424@1306269813"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e9e09777ccf0da87dae2b8b690429aeb",
+    "wof:geomhash":"0c72a2c91e0b9c8cff7ed1c355d6284e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220098253,
-    "wof:lastmodified":1473900522,
+    "wof:lastmodified":1510941710,
     "wof:name":"Ge S.p.a.",
     "wof:parent_id":85862603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091687271
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"

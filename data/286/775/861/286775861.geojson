@@ -7,7 +7,7 @@
     "addr:postcode":"47031",
     "addr:street":"",
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-07-14",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -62,13 +62,22 @@
         }
     ],
     "wof:id":286775861,
-    "wof:lastmodified":1500046807,
+    "wof:lastmodified":1510944175,
     "wof:name":"Ti.emme. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        286904449,
+        203225151
+    ],
+    "wof:supersedes":[
+        253428069,
+        236456587,
+        270045643,
+        253445231,
+        219486067
+    ],
     "wof:tags":[
         "control",
         "industrial",

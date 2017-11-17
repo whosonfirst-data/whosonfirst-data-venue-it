@@ -7,13 +7,16 @@
     "addr:postcode":"50053;50053",
     "addr:street":"Via Lucchese",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.907444,43.718987,10.907444,43.718987",
     "geom:latitude":43.718987,
     "geom:longitude":10.907444,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Lucchese 124 50053 Empoli",
     "sg:city":"Empoli",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6e5DSivzR8CBPEIYDVoz6j_43.718987_10.907444@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"12baae314575b78ee3b1dc0d50494b15",
+    "wof:geomhash":"a40ec10c0d0c29433c51d1a7df713496",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219280325,
-    "wof:lastmodified":1473900710,
+    "wof:lastmodified":1510944060,
     "wof:name":"Pneuservice '90 Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219805627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "solid",

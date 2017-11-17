@@ -7,13 +7,16 @@
     "addr:postcode":"58022;58022",
     "addr:street":"Via Del Sugheraio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.781007,42.933491,10.781007,42.933491",
     "geom:latitude":42.933491,
     "geom:longitude":10.781007,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Del Sugheraio 2 58022 Follonica",
     "sg:city":"Follonica",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_0b34ZgIgnZNcoxTEQdm3Vo_42.933491_10.781007@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"85923cb6f8c9a9aec593ee0ec8ddcbb8",
+    "wof:geomhash":"1f2800aa9ecd51a81f57ed9d6ce850f2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":219285941,
-    "wof:lastmodified":1473900702,
+    "wof:lastmodified":1510941646,
     "wof:name":"Fontani Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269866817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural",

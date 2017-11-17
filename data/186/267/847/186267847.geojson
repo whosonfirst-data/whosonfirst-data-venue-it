@@ -7,13 +7,16 @@
     "addr:postcode":"31043;31043",
     "addr:street":"Via Roma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.209793,45.715496,12.209793,45.715496",
     "geom:latitude":45.715496,
     "geom:longitude":12.209793,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Roma 315 31043 Fontanelle",
     "sg:city":"Fontanelle",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6kd0Bo6Erw0ZPaqrroLE1n_45.715496_12.209793@1306269795"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5b77007da597e512adccfc02aa5c76a4",
+    "wof:geomhash":"a34b2863162e095a312c7c93cc9befe9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":186267847,
-    "wof:lastmodified":1473900734,
+    "wof:lastmodified":1510943333,
     "wof:name":"Mobil Record - S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236625187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bedroom"

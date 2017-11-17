@@ -7,13 +7,16 @@
     "addr:postcode":"28100;28100",
     "addr:street":"Corso Trieste",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.632773,45.447475,8.632773,45.447475",
     "geom:latitude":45.447475,
     "geom:longitude":8.632773,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Corso Trieste 3 28100 Novara",
     "sg:city":"Novara",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2c9e3fVh6IlNJFji40JFBD_45.447475_8.632773@1306269840"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5da142f6c2c52ddd86f43e6e321905ee",
+    "wof:geomhash":"0a39c096e27f0bcecc873f97498f89dc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":270230261,
-    "wof:lastmodified":1473901276,
+    "wof:lastmodified":1510941576,
     "wof:name":"Villa Angelo Sacif Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336804845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter's",

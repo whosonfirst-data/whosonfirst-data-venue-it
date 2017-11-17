@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.546884,45.412849,9.546884,45.412849",
     "geom:latitude":45.412849,
     "geom:longitude":9.546884,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Falconera 7 26025 Pandino",
     "sg:city":"Pandino",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_4UuJGw1jSn2Y1N40K4ScmD_45.412849_9.546884@1306269827"
     },
     "wof:country":"IT",
-    "wof:geomhash":"eff7ea16223d5c6885cfb2dcfa69b8ff",
+    "wof:geomhash":"772e10cee1d72b8a8146c4430125fead",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":253183435,
-    "wof:lastmodified":1473900916,
+    "wof:lastmodified":1510943662,
     "wof:name":"Goldschmidt Italia Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286283231
+    ],
     "wof:tags":[]
 },
   "bbox": [

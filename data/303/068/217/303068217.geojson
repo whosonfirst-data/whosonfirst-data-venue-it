@@ -7,13 +7,16 @@
     "addr:postcode":"27058;27058",
     "addr:street":"Via Lomellina",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.965504,44.997734,8.965504,44.997734",
     "geom:latitude":44.997734,
     "geom:longitude":8.965504,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"145, Via Lomellina 27058 Voghera",
     "sg:city":"Voghera",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4yK7syjPcspIbTROY5przu_44.997734_8.965504@1306269855"
     },
     "wof:country":"IT",
-    "wof:geomhash":"979796ab54ab66a66540551f7d8706c5",
+    "wof:geomhash":"c9bf51b21b662314ffd3a100f05ed06b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303068217,
-    "wof:lastmodified":1473900283,
+    "wof:lastmodified":1510942066,
     "wof:name":"Zonca (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186396713
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

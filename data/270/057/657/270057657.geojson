@@ -7,13 +7,16 @@
     "addr:postcode":"40068",
     "addr:street":"San;San;Bologna",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.418613,44.476978,11.418613,44.476978",
     "geom:latitude":44.476978,
     "geom:longitude":11.418613,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_6WlLOQrtN1Ug0AyYmJ0Hh7_44.476978_11.418613@1306269838"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4d10781b477c5a4ddc66991260b54175",
+    "wof:geomhash":"713c1c266c926e7e82c7226f67b637e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,15 @@
         }
     ],
     "wof:id":270057657,
-    "wof:lastmodified":1473900564,
+    "wof:lastmodified":1510943156,
     "wof:name":"Cesari Di Cesari Lorenzo & C. Snc",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219326197,
+        303982027
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

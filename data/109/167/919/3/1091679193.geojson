@@ -7,13 +7,16 @@
     "addr:postcode":"20090;20090",
     "addr:street":"Via E. Fermi;Assago",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1279420853,45.4033088684,9.1279420853,45.4033088684",
     "geom:latitude":45.403309,
     "geom:longitude":9.127942,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via E. Fermi 5 20090 Assago",
     "sg:city":"Assago",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473878835,
-    "wof:geomhash":"a9a3fa69874442c3ffab2d6c4e1fc63e",
+    "wof:geomhash":"113410589e9a49bd16b88f584d16588e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1091679193,
-    "wof:lastmodified":1473901053,
+    "wof:lastmodified":1510943704,
     "wof:name":"Osc Spa",
     "wof:parent_id":85862755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091762567
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mould",

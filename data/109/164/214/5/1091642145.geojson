@@ -7,13 +7,16 @@
     "addr:postcode":"10080;10080",
     "addr:street":"Via Torino",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6874880791,45.3579406738,7.6874880791,45.3579406738",
     "geom:latitude":45.357941,
     "geom:longitude":7.687488,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Torino 4 10080 Salassa",
     "sg:city":"Salassa",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"IT",
     "wof:created":1473814262,
-    "wof:geomhash":"d3bf03f811df0c656efe091f0c8c0f8f",
+    "wof:geomhash":"56bdefc1869a967c82b3a6a36eb07fff",
     "wof:hierarchy":[],
     "wof:id":1091642145,
-    "wof:lastmodified":1473900317,
+    "wof:lastmodified":1510942301,
     "wof:name":"Vallero Co. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253733277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tannery"

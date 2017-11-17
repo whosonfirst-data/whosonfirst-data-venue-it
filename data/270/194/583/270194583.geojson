@@ -7,13 +7,16 @@
     "addr:postcode":"63039",
     "addr:street":"S. Benedetto Del Tronto;Piceno",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.574977,42.8554,13.574977,42.8554",
     "geom:latitude":42.8554,
     "geom:longitude":13.574977,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"63039 S. Benedetto Del Tronto",
     "sg:classifiers":[],
     "sg:orig_category":"Carni, Salumi E Pesci",
@@ -32,7 +35,7 @@
         "sg:id":"SG_0rrLYsNDuJ36YSmglEvR2n_42.855400_13.574977@1306269839"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5e70463f5e846e2603fc8cb9bab28771",
+    "wof:geomhash":"469c23d64b47fc2d11942fcb9a51c29a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,15 @@
         }
     ],
     "wof:id":270194583,
-    "wof:lastmodified":1473901112,
+    "wof:lastmodified":1510942789,
     "wof:name":"Euromar Di Silvano Carso Pietro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269989087,
+        1091712887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

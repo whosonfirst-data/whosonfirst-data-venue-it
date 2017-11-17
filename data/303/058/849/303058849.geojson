@@ -7,13 +7,16 @@
     "addr:postcode":"20010;20010",
     "addr:street":"Via Bergamo;Milanese",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.022435,45.499027,9.022435,45.499027",
     "geom:latitude":45.499027,
     "geom:longitude":9.022435,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18, Via Bergamo 20010 Pregnana Milanese",
     "sg:city":"Pregnana Milanese",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6ojqzdkZnmZ8v2t5uG7W9y_45.499027_9.022435@1306269855"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c1f6eadee0d49701ff1d482fefd07411",
+    "wof:geomhash":"522e4101752d587bee263e9f2f1b33d8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":303058849,
-    "wof:lastmodified":1473900284,
+    "wof:lastmodified":1510944056,
     "wof:name":"Artemide S.p.a.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091688729
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

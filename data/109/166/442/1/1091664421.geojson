@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.3299384117,45.1054916382,7.3299384117,45.1054916382",
     "geom:latitude":45.105492,
     "geom:longitude":7.329938,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25, Via Torino 10050 Chiusa Di San Michele",
     "sg:city":"Chiusa di San Michele",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473878180,
-    "wof:geomhash":"411ec1929a2359637b26695f2a1e8bbc",
+    "wof:geomhash":"063167e63dbef68fbeb82cebded74963",
     "wof:hierarchy":[],
     "wof:id":1091664421,
-    "wof:lastmodified":1473900474,
+    "wof:lastmodified":1510941898,
     "wof:name":"Savio (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253091239
+    ],
     "wof:tags":[
         "metallurgy",
         "metalworking"

@@ -7,13 +7,16 @@
     "addr:postcode":"80145;80145",
     "addr:street":"Via Scaglione Emilio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.225821,40.889275,14.225821,40.889275",
     "geom:latitude":40.889275,
     "geom:longitude":14.225821,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"27, Via Scaglione Emilio 80145 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4scog5ryj7jaaRI50SIl9y_40.889275_14.225821@1306269843"
     },
     "wof:country":"IT",
-    "wof:geomhash":"cd9da13501c64201987f5ef10369fda5",
+    "wof:geomhash":"be71e83f57ac32807826d41b9726988e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":286294259,
-    "wof:lastmodified":1473900282,
+    "wof:lastmodified":1510942440,
     "wof:name":"Farmaceutici Damor S.p.a.",
     "wof:parent_id":85900333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091705883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

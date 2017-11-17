@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2454128265,45.561126709,9.2454128265,45.561126709",
     "geom:latitude":45.561127,
     "geom:longitude":9.245413,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30, Via Casignolo 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473880152,
-    "wof:geomhash":"e3ff5a8ea4d067fc70162aa7af96d67d",
+    "wof:geomhash":"72a87dffdc572d741a22dc95f3e39642",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1091709593,
-    "wof:lastmodified":1473901206,
+    "wof:lastmodified":1510943069,
     "wof:name":"Graphlito Srl",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270500807
+    ],
     "wof:tags":[]
 },
   "bbox": [

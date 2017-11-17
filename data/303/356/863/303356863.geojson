@@ -7,13 +7,16 @@
     "addr:postcode":"27029;27029",
     "addr:street":"Via Castellana",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.843654,45.31646,8.843654,45.31646",
     "geom:latitude":45.31646,
     "geom:longitude":8.843654,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Castellana 35 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2rE9CX6jy5FYgEOXJTNHJ1_45.316460_8.843654@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ee8872523d109c88558cc1023fb27653",
+    "wof:geomhash":"ae33d7749881f887951a05edff8f5798",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":303356863,
-    "wof:lastmodified":1473901371,
+    "wof:lastmodified":1510942172,
     "wof:name":"Giardini Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253723793
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "animal",

@@ -7,13 +7,16 @@
     "addr:postcode":"20097",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.266524,45.410263,9.266524,45.410263",
     "geom:latitude":45.410263,
     "geom:longitude":9.266524,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20097 San Donato Milanese",
     "sg:city":"San Donato Milanese",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_5pl1YFcpexbGVwvJY1YWAK_45.410263_9.266524@1306269826"
     },
     "wof:country":"IT",
-    "wof:geomhash":"cd981f6119ecda09939d5b3cbce0a574",
+    "wof:geomhash":"3be16600b975223371b54a41e4ef93bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,16 @@
         }
     ],
     "wof:id":253106935,
-    "wof:lastmodified":1473900688,
+    "wof:lastmodified":1510943512,
     "wof:name":"Curvinox Srl",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091656421,
+        320789805,
+        1091666127
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

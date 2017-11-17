@@ -7,13 +7,16 @@
     "addr:postcode":"24052;24052",
     "addr:street":"Via Piemonte",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.699778,45.663284,9.699778,45.663284",
     "geom:latitude":45.663284,
     "geom:longitude":9.699778,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5/11, Via Piemonte 24052 Azzano San Paolo",
     "sg:city":"Azzano San Paolo",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7SmnkzHQLIAA2Xczs3Ro69_45.663284_9.699778@1306269855"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9601b2a042efba143982c81f5d6a033c",
+    "wof:geomhash":"8c7193d60a0eafd36dd8e3591f225e1d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":303062883,
-    "wof:lastmodified":1473900285,
+    "wof:lastmodified":1510941847,
     "wof:name":"Imetec S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287256783
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

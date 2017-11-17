@@ -7,13 +7,16 @@
     "addr:postcode":"37026;37026",
     "addr:street":"Via Mirandola",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.907929,45.476891,10.907929,45.476891",
     "geom:latitude":45.476891,
     "geom:longitude":10.907929,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Mirandola 13 37026 Pescantina",
     "sg:city":"Pescantina",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_65Hku6hK50l0qE6eDwHx5Q_45.476891_10.907929@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"20dc05e8df490884a3f4faef26edbd5c",
+    "wof:geomhash":"996dfe288b2e8df86f8013c015b8617d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219304721,
-    "wof:lastmodified":1473900824,
+    "wof:lastmodified":1510941794,
     "wof:name":"Vas Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336851107
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

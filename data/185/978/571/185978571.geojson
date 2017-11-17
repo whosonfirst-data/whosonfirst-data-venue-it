@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.261314,39.287689,16.261314,39.287689",
     "geom:latitude":39.287689,
     "geom:longitude":16.261314,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Corso Telesio 17, 87100 Cosenza, Cs",
     "sg:city":"Cosenza",
     "sg:classifiers":[
@@ -37,7 +39,7 @@
         "sg:id":"SG_1Gwo3jP7tzU8iaVUAtZzmz_39.287689_16.261314@1306269792"
     },
     "wof:country":"IT",
-    "wof:geomhash":"3b26ad0ca19884d2a0037a71c26441ca",
+    "wof:geomhash":"b22216da5b4a1c08ae285dc1377afb7b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":185978571,
-    "wof:lastmodified":1473901330,
+    "wof:lastmodified":1510942046,
     "wof:name":"Cassa Di Risparmio Di Calabria E Di Lucania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        185978545
+    ],
     "wof:tags":[]
 },
   "bbox": [

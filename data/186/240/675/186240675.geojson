@@ -7,13 +7,16 @@
     "addr:postcode":"22073;22073",
     "addr:street":"Via Regina",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.06709,45.738625,9.06709,45.738625",
     "geom:latitude":45.738625,
     "geom:longitude":9.06709,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Regina 42 22073 Fino Mornasco",
     "sg:city":"Fino Mornasco",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0RPpmaUWudgVOpkBm2m5EM_45.738625_9.067090@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e7dbd59e0fd422104d92fca38b3f8e88",
+    "wof:geomhash":"25e5f8de2fe8f92597df9098da25a86c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":186240675,
-    "wof:lastmodified":1473900666,
+    "wof:lastmodified":1510943928,
     "wof:name":"Magitex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091751761
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "image",

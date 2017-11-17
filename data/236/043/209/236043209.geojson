@@ -7,13 +7,16 @@
     "addr:postcode":"55051;55051",
     "addr:street":"Via Roma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.524087,44.062305,10.524087,44.062305",
     "geom:latitude":44.062305,
     "geom:longitude":10.524087,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Roma 50 55051 Barga",
     "sg:city":"Barga",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0DD65tImOervgTVWUOcelf_44.062305_10.524087@1306269815"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b7455f1f4d229b113ce2af4cc499e924",
+    "wof:geomhash":"8452cea2d414d5ba955aab0466286790",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236043209,
-    "wof:lastmodified":1473900345,
+    "wof:lastmodified":1510941491,
     "wof:name":"Paperlynen Pal Caps Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286572403
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dish",

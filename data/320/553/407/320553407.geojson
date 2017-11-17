@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.41259,44.475327,11.41259,44.475327",
     "geom:latitude":44.475327,
     "geom:longitude":11.41259,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_5nr4VFdO9wjqAjBCpPTJB1_44.475327_11.412590@1306269871"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e508f5a80286d39cda03b0f67c99b3b5",
+    "wof:geomhash":"5dd14e240e74f1d906962dd1f02da38b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,16 @@
         }
     ],
     "wof:id":320553407,
-    "wof:lastmodified":1473901680,
+    "wof:lastmodified":1510942424,
     "wof:name":"Cvp Italia Srl",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091722193,
+        1091790467
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"25080;25080",
     "addr:street":"Via Industriale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.422128,45.560337,10.422128,45.560337",
     "geom:latitude":45.560337,
     "geom:longitude":10.422128,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Industriale 27 25080 Prevalle",
     "sg:city":"Prevalle",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_2qvbr1Hph3k0wXX1tkKPZn_45.560337_10.422128@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e071231b609214df9a166390e3c36a08",
+    "wof:geomhash":"f06cdd5fdfb5e3b4b17477f72e4f4215",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":186225643,
-    "wof:lastmodified":1473900610,
+    "wof:lastmodified":1510942799,
     "wof:name":"Ferraboli & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336665915
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

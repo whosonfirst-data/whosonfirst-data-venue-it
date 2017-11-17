@@ -7,13 +7,16 @@
     "addr:postcode":"23895;23895",
     "addr:street":"Via Diaz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2677955627,45.7470932007,9.2677955627,45.7470932007",
     "geom:latitude":45.747093,
     "geom:longitude":9.267796,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Diaz 5 23895 Nibionno",
     "sg:city":"Nibionno",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"IT",
     "wof:created":1473879782,
-    "wof:geomhash":"7ed80d494b8a2fde9e036e56d6b13abe",
+    "wof:geomhash":"342d6afdd3d8ae9141accd84e8d5f974",
     "wof:hierarchy":[],
     "wof:id":1091701307,
-    "wof:lastmodified":1473900269,
+    "wof:lastmodified":1510942552,
     "wof:name":"Itam Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091751027
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "polyester"

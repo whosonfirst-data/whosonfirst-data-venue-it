@@ -7,13 +7,16 @@
     "addr:postcode":"31030;31030",
     "addr:street":"Via Matteo Fabbian",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.802334,45.816971,11.802334,45.816971",
     "geom:latitude":45.816971,
     "geom:longitude":11.802334,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Matteo Fabbian 14 31030 Borso Del Grappa",
     "sg:city":"Borso del Grappa",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0sHripHNKrpAIy1UrS6FvV_45.816971_11.802334@1306269808"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a13c24b398b22db91243f1a88f2fb9e0",
+    "wof:geomhash":"ec424c32ab863c5e1d18abea0b482439",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":219519895,
-    "wof:lastmodified":1473901430,
+    "wof:lastmodified":1510942876,
     "wof:name":"Mb S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091664095
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "anchor",

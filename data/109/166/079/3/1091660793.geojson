@@ -7,13 +7,16 @@
     "addr:postcode":"20010;20010",
     "addr:street":"Via S. Teresa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.0246582031,45.4971733093,9.0246582031,45.4971733093",
     "geom:latitude":45.497173,
     "geom:longitude":9.024658,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1, Via S. Teresa 20010 Bareggio",
     "sg:city":"Bareggio",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473878048,
-    "wof:geomhash":"fcfce9295a74e0ffa59be32abb6a5008",
+    "wof:geomhash":"5c7bfa1ec017ec4d729ed22df53f86d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1091660793,
-    "wof:lastmodified":1473900164,
+    "wof:lastmodified":1510942502,
     "wof:name":"Acinoxa (s.r.l.)",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091711273
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

@@ -7,13 +7,16 @@
     "addr:postcode":"41100;41100",
     "addr:street":"Via Degli Scarlatti",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.965876,44.632378,10.965876,44.632378",
     "geom:latitude":44.632378,
     "geom:longitude":10.965876,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Degli Scarlatti 85 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1wuxWU5kNgGW3DR92BQS7N_44.632378_10.965876@1306269852"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0f7ac43d72be845cd40eec60d56d3c65",
+    "wof:geomhash":"82e96ecaa95d635ce824cbe82313603f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":287057669,
-    "wof:lastmodified":1473900353,
+    "wof:lastmodified":1510942335,
     "wof:name":"Elettromeccanica Tironi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287228923
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "transformer"

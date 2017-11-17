@@ -7,13 +7,16 @@
     "addr:postcode":"22077;22077",
     "addr:street":"Via Marconi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.02456,45.771393,9.02456,45.771393",
     "geom:latitude":45.771393,
     "geom:longitude":9.02456,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18, Via Marconi 22077 Olgiate Comasco",
     "sg:city":"Olgiate Comasco",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0rrwHifHS8ITNzU8kjawe8_45.771393_9.024560@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4b9d0bd17f8c1a96491394bb259b3480",
+    "wof:geomhash":"3f7a998bbeb409a28de7938bc84065e3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":336785759,
-    "wof:lastmodified":1473900735,
+    "wof:lastmodified":1510941969,
     "wof:name":"Taiana (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286991123
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

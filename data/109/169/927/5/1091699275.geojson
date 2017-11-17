@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2135372162,45.6779441833,9.2135372162,45.6779441833",
     "geom:latitude":45.677944,
     "geom:longitude":9.213537,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4, Via Sabbionette 20050 Verano Brianza",
     "sg:city":"Verano Brianza",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879697,
-    "wof:geomhash":"d64e6b620bb87513feb9335a125203bc",
+    "wof:geomhash":"fc6cc66bb8967571295a96eda5d61c98",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":1091699275,
-    "wof:lastmodified":1473901131,
+    "wof:lastmodified":1510941750,
     "wof:name":"Impianti O.m.s. S.p.a.",
     "wof:parent_id":85862613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303313027
+    ],
     "wof:tags":[]
 },
   "bbox": [

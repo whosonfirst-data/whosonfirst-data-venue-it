@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.0402917862,45.6108779907,9.0402917862,45.6108779907",
     "geom:latitude":45.610878,
     "geom:longitude":9.040292,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"190, V. Pacinotti 21042 Caronno Pertusella",
     "sg:city":"Caronno Pertusella",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473878117,
-    "wof:geomhash":"24282416b38b8577b1f4cf6c5ef1760c",
+    "wof:geomhash":"4aaeb6a91de9cf5e39765b6a2cd180bf",
     "wof:hierarchy":[],
     "wof:id":1091662721,
-    "wof:lastmodified":1473900417,
+    "wof:lastmodified":1510943225,
     "wof:name":"Profilati Alluminio Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270018519
+    ],
     "wof:tags":[
         "metallurgy",
         "metalworking"

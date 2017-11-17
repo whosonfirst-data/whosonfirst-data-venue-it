@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.424031,44.467842,11.424031,44.467842",
     "geom:latitude":44.467842,
     "geom:longitude":11.424031,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
         "sg:id":"SG_2tq4MuELtXtyJ0WSC55ms8_44.467842_11.424031@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"91cbfbc967517c05e94da7e14d0730d3",
+    "wof:geomhash":"1acdf126474756599f4f7286fc05cb1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":286417997,
-    "wof:lastmodified":1473900926,
+    "wof:lastmodified":1510942128,
     "wof:name":"Komsa Italia Srl",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        304009465
+    ],
     "wof:tags":[]
 },
   "bbox": [

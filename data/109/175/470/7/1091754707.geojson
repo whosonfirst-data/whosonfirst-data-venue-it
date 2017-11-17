@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1809234619,45.4633560181,9.1809234619,45.4633560181",
     "geom:latitude":45.463356,
     "geom:longitude":9.180923,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Morigi 9 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473882495,
-    "wof:geomhash":"124840ccb67eb4a79d64b37ff2fbacd6",
+    "wof:geomhash":"13afe2565fcdbf378c320a43a1b04a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1091754707,
-    "wof:lastmodified":1473900509,
+    "wof:lastmodified":1510943822,
     "wof:name":"Pellini Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        252995513
+    ],
     "wof:tags":[
         "jewellery",
         "fancy"

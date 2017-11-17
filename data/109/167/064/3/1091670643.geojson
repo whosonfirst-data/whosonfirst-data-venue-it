@@ -7,13 +7,16 @@
     "addr:postcode":"40138;40138",
     "addr:street":"Via Bassa Dei Sassi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4032258987,44.4974937439,11.4032258987,44.4974937439",
     "geom:latitude":44.497494,
     "geom:longitude":11.403226,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"28, Via Bassa Dei Sassi 40138 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473878431,
-    "wof:geomhash":"7b34d7d43cb4581ae7b09c5ac27ada6a",
+    "wof:geomhash":"c4cb16832dada6201d3b32e2fa5f57b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1091670643,
-    "wof:lastmodified":1473900155,
+    "wof:lastmodified":1510941900,
     "wof:name":"Modulo M. (s.r.l.)",
     "wof:parent_id":85904589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253522659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

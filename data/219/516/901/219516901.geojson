@@ -7,13 +7,16 @@
     "addr:postcode":"21047;21047",
     "addr:street":"Via Morandi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.036967,45.615204,9.036967,45.615204",
     "geom:latitude":45.615204,
     "geom:longitude":9.036967,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Morandi 21 21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3j85Wwm6mD0E7vJCgUfzGP_45.615204_9.036967@1306269808"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0a40b9f9c465b0de772d05cae3db1729",
+    "wof:geomhash":"3926306d6eafc7e92e0481bcba542d89",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219516901,
-    "wof:lastmodified":1473901429,
+    "wof:lastmodified":1510942406,
     "wof:name":"Nobili Arredamenti Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091736643
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "system"

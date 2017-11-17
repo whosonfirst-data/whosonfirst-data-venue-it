@@ -7,13 +7,16 @@
     "addr:postcode":"41019;41019",
     "addr:street":"Via Verdi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.917586,44.732773,10.917586,44.732773",
     "geom:latitude":44.732773,
     "geom:longitude":10.917586,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Verdi 57 41019 Soliera",
     "sg:city":"Soliera",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_356Nah3h4fpdqBjuIUNknN_44.732773_10.917586@1306269834"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b698480a8d0f5d0a417f0f006ec68194",
+    "wof:geomhash":"ee6507548b4b07eda0403484e043dc99",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":269659427,
-    "wof:lastmodified":1473900866,
+    "wof:lastmodified":1510944193,
     "wof:name":"Autoadesivi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091685631
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "adhesion",

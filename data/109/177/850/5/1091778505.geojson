@@ -7,13 +7,16 @@
     "addr:postcode":"10099",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.7475185394,45.1180610657,7.7475185394,45.1180610657",
     "geom:latitude":45.118061,
     "geom:longitude":7.747519,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10099 San Mauro Torinese",
     "sg:city":"San Mauro Torinese",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473883682,
-    "wof:geomhash":"9adc6506693969441f121cb33ac6291b",
+    "wof:geomhash":"639b8f8c6bd1cfef0e5579a5a5e7891d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +56,20 @@
         }
     ],
     "wof:id":1091778505,
-    "wof:lastmodified":1473900951,
+    "wof:lastmodified":1510943389,
     "wof:name":"Elettronica Pescarito Srl",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320685343
+    ],
+    "wof:supersedes":[
+        286636611,
+        186421495,
+        303115873,
+        220078185
+    ],
     "wof:tags":[]
 },
   "bbox": [

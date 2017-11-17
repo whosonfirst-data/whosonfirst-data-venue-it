@@ -7,13 +7,16 @@
     "addr:postcode":"28076;28076",
     "addr:street":"Via Cremosina",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.380914,45.7523,8.380914,45.7523",
     "geom:latitude":45.7523,
     "geom:longitude":8.380914,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Cremosina 49 28076 Pogno",
     "sg:city":"Pogno",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2EJF6X6SpwbuqdZHHt7EKg_45.752300_8.380914@1306269796"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0dd3c3df220a3dcd75ce0b238b6f2782",
+    "wof:geomhash":"5e9a6ca564a88d1126c2c00fc1bf6907",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":186454951,
-    "wof:lastmodified":1473901351,
+    "wof:lastmodified":1510942403,
     "wof:name":"De Nicola Fratelli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091652621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "brass",

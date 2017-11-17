@@ -7,13 +7,16 @@
     "addr:postcode":"63020",
     "addr:street":"Monte;Monte Vidon Corrado;Piceno",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4880123138,43.120677948,13.4880123138,43.120677948",
     "geom:latitude":43.120678,
     "geom:longitude":13.488012,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"63020 Monte Vidon Corrado",
     "sg:city":"Monte Vidon Corrado",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"IT",
     "wof:created":1473882641,
-    "wof:geomhash":"addd61b17f4292cff92a66a21cafdc83",
+    "wof:geomhash":"1bfcf6c527b8146326e3452d6c87e934",
     "wof:hierarchy":[],
     "wof:id":1091757481,
-    "wof:lastmodified":1473900696,
+    "wof:lastmodified":1510942425,
     "wof:name":"S.g.s. Di Procaccini Sergio, Nardi Giovanni E C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        286954357
+    ],
+    "wof:supersedes":[
+        1091756121,
+        202928039
+    ],
     "wof:tags":[]
 },
   "bbox": [

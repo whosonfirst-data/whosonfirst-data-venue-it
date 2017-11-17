@@ -7,13 +7,16 @@
     "addr:postcode":"20123;20123",
     "addr:street":"V. Morigi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.180923,45.463356,9.180923,45.463356",
     "geom:latitude":45.463356,
     "geom:longitude":9.180923,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9, V. Morigi 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_03hsHmmiXQ6RsFv8WnvapV_45.463356_9.180923@1306269825"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f8b4959aa2bd2b5cdb73e674d809a2e7",
+    "wof:geomhash":"e6c2f07bfd73ae67b90fed0db99eabff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":252995513,
-    "wof:lastmodified":1473901302,
+    "wof:lastmodified":1510943822,
     "wof:name":"Pellini Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091754707
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"

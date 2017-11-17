@@ -7,6 +7,7 @@
     "addr:postcode":"10126;10126",
     "addr:street":"Via Alassio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":7.686619,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11/c, Via Alassio 10126 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_697OTpnu20N504J0tzIQWs_45.070560_7.686619@1306269789"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2f12037958c5c0a8a466568959a2793e",
+    "wof:geomhash":"b55a25f35e93b7f68f1dd35b7d4977c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":169807553,
-    "wof:lastmodified":1491909959,
+    "wof:lastmodified":1510942145,
     "wof:name":"Banca Mediocredito S.p.a.",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091802941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

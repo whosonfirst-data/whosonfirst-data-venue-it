@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.153392,45.530602,9.153392,45.530602",
     "geom:latitude":45.530602,
     "geom:longitude":9.153392,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Polveriera 19 20026 Novate Milanese",
     "sg:city":"Novate Milanese",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4eULuaxwjK2bQ3Q3MBMfH0_45.530602_9.153392@1306269817"
     },
     "wof:country":"IT",
-    "wof:geomhash":"17eb8e1e0570f5ee37ebca6069079b49",
+    "wof:geomhash":"54065e31a5844f2a3c5825f7734282cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":236402761,
-    "wof:lastmodified":1473901450,
+    "wof:lastmodified":1510942374,
     "wof:name":"Dalmet S.p.a.",
     "wof:parent_id":85862707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091661297
+    ],
     "wof:tags":[
         "non-ferrous"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"cesario;panaro;41018",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.030781,44.590569,11.030781,44.590569",
     "geom:latitude":44.590569,
     "geom:longitude":11.030781,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"41018 San Cesario Sul Panaro",
     "sg:city":"San Cesario sul Panaro",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_3C5VSGmRhELyPAGw3bH8eH_44.590569_11.030781@1306269817"
     },
     "wof:country":"IT",
-    "wof:geomhash":"eb7bf718519f05fc15a663a8aa43a001",
+    "wof:geomhash":"3d2617d16f9b74037b339fd01b05597f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,15 @@
         }
     ],
     "wof:id":236282371,
-    "wof:lastmodified":1473901161,
+    "wof:lastmodified":1510943370,
     "wof:name":"Csc Soc.coop.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253415335,
+        270354937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

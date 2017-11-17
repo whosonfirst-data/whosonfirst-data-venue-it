@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.298679,45.392109,9.298679,45.392109",
     "geom:latitude":45.392109,
     "geom:longitude":9.298679,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_7j225m70bMCBMThBK6OkiM_45.392109_9.298679@1306269851"
     },
     "wof:country":"IT",
-    "wof:geomhash":"724c179a40b217a15b91e80aa5cbc1f1",
+    "wof:geomhash":"caa9ec64b87241c2bfcb982112e721fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,16 @@
         }
     ],
     "wof:id":286968955,
-    "wof:lastmodified":1473901991,
+    "wof:lastmodified":1510942565,
     "wof:name":"Atecon (s.r.l.)",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320339103,
+        252856531
+    ],
     "wof:tags":[]
 },
   "bbox": [

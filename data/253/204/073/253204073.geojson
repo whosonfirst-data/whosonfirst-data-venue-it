@@ -7,13 +7,16 @@
     "addr:postcode":"20032;20032",
     "addr:street":"Via Torino",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.156115,45.5341,9.156115,45.5341",
     "geom:latitude":45.5341,
     "geom:longitude":9.156115,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Torino 11 20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3I85XM9ZzCFcfKwomuOzwg_45.534100_9.156115@1306269827"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f89c02dfca8c1cfa40075e92aba60ff4",
+    "wof:geomhash":"b33eebd23bb0873e72fd552a6810c3f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":253204073,
-    "wof:lastmodified":1473900946,
+    "wof:lastmodified":1510943047,
     "wof:name":"Ink Maloberti Srl",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270525037
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ink",

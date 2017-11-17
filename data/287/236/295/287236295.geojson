@@ -7,13 +7,16 @@
     "addr:postcode":"10088;10088",
     "addr:street":"Via Torino",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.759646,45.168266,7.759646,45.168266",
     "geom:latitude":45.168266,
     "geom:longitude":7.759646,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30, Via Torino 10088 Volpiano",
     "sg:city":"Volpiano",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5X9hTQ0pwnmDM4ILTKRBxW_45.168266_7.759646@1306269854"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4579e2c79f1d4a4ff99fcd953ce40f86",
+    "wof:geomhash":"aa0ba96a4273e0f90cc3c7fa26ac925a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":287236295,
-    "wof:lastmodified":1473901284,
+    "wof:lastmodified":1510941401,
     "wof:name":"O.c.s.a.l.m. (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236687705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "component",

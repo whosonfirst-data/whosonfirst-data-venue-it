@@ -7,13 +7,16 @@
     "addr:postcode":"24060",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.803463,45.689388,9.803463,45.689388",
     "geom:latitude":45.689388,
     "geom:longitude":9.803463,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24060 San Paolo D'argon",
     "sg:classifiers":[],
     "sg:orig_category":"Utensili Meccanici E Materiali",
@@ -32,7 +35,7 @@
         "sg:id":"SG_2SwU2J8Q8wI2Nb9apkQzmM_45.689388_9.803463@1306269830"
     },
     "wof:country":"IT",
-    "wof:geomhash":"46ceffc2ed7d37340b4c76dc6f31f2c8",
+    "wof:geomhash":"aca417c9670909292cf0a95554888ffc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +47,20 @@
         }
     ],
     "wof:id":253564825,
-    "wof:lastmodified":1473901482,
+    "wof:lastmodified":1510942861,
     "wof:name":"Stars (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        253564897,
+        1091788933
+    ],
+    "wof:supersedes":[
+        1091671681,
+        220064861,
+        336872775
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"52048;52048",
     "addr:street":"Via Xxv Aprile",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.863062,43.471203,11.863062,43.471203",
     "geom:latitude":43.471203,
     "geom:longitude":11.863062,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Xxv Aprile 23 52048 Monte San Savino",
     "sg:city":"Monte San Savino",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_51l9WDs4qrVGJ9DV89fnJg_43.471203_11.863062@1306269825"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8095f717dfeeec36af8e55f8680df480",
+    "wof:geomhash":"4097d3bdbc72026a0085d728ccf939f2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253005233,
-    "wof:lastmodified":1473900168,
+    "wof:lastmodified":1510941293,
     "wof:name":"Seior Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091662903
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jewel"

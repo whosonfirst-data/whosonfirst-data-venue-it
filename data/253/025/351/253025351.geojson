@@ -7,13 +7,16 @@
     "addr:postcode":"40068",
     "addr:street":"San;San;Bologna",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.423903,44.464764,11.423903,44.464764",
     "geom:latitude":44.464764,
     "geom:longitude":11.423903,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_2BvgIJ4CI0f54Lv2On2eMS_44.464764_11.423903@1306269825"
     },
     "wof:country":"IT",
-    "wof:geomhash":"80e075f78a1746fce5242236470a701e",
+    "wof:geomhash":"63f2cfcd3eabb4b3b60ddd6febe0beae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,16 @@
         }
     ],
     "wof:id":253025351,
-    "wof:lastmodified":1473900274,
+    "wof:lastmodified":1510943789,
     "wof:name":"Motostar Poggipolini Srl",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286826545,
+        1091667143,
+        1091657633
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

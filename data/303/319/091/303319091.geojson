@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.407869,45.52504,9.407869,45.52504",
     "geom:latitude":45.52504,
     "geom:longitude":9.407869,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Degli Abeti 44 20064 Gorgonzola",
     "sg:city":"Gorgonzola",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_6Gdf5rHzMsx2uDynFZGET6_45.525040_9.407869@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"76376e22158a01180a98fbacf6e6e2e6",
+    "wof:geomhash":"6385b65671d427b6c515751313d532bf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":303319091,
-    "wof:lastmodified":1473901359,
+    "wof:lastmodified":1510944137,
     "wof:name":"Coral Engineering S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303271417
+    ],
     "wof:tags":[
         "box",
         "filtering",

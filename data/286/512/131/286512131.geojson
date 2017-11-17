@@ -7,13 +7,16 @@
     "addr:postcode":"40014;40014",
     "addr:street":"Via Di Mezzo Levante",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.346481,44.494221,11.346481,44.494221",
     "geom:latitude":44.494221,
     "geom:longitude":11.346481,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500, Via Di Mezzo Levante 40014 Crevalcore",
     "sg:city":"Crevalcore",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2uW5nouqNlGIvn8EYygZ33_44.494221_11.346481@1306269846"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5e55927d9edee236be03b473cc2a4816",
+    "wof:geomhash":"fc03bdf3b0b84d53acb157404dac2675",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":286512131,
-    "wof:lastmodified":1473901212,
+    "wof:lastmodified":1510941575,
     "wof:name":"Focus Pull (s.p.a.)",
     "wof:parent_id":85900451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270375979
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

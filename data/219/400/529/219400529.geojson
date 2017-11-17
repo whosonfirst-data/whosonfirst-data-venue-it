@@ -7,13 +7,16 @@
     "addr:postcode":"20144;20144",
     "addr:street":"Via Savona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.166227,45.454903,9.166227,45.454903",
     "geom:latitude":45.454903,
     "geom:longitude":9.166227,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Savona 26 20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4xWJIUIti25j4uHNyYa3MG_45.454903_9.166227@1306269807"
     },
     "wof:country":"IT",
-    "wof:geomhash":"23c10467af5e0bd422b891808daee386",
+    "wof:geomhash":"1e7f547c21d1fcba54e670de7ae53a53",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219400529,
-    "wof:lastmodified":1473901108,
+    "wof:lastmodified":1510941625,
     "wof:name":"Antico Olindo E Cesare Srl",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091758823
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mixing",

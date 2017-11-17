@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"S. Giuliano Milanese",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.263249,45.399715,9.263249,45.399715",
     "geom:latitude":45.399715,
     "geom:longitude":9.263249,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 S. Giuliano Milanese",
     "sg:classifiers":[
         {
@@ -45,7 +48,7 @@
         "sg:id":"SG_4e3FfqxlcYPDgflSlFRYeX_45.399715_9.263249@1306269834"
     },
     "wof:country":"IT",
-    "wof:geomhash":"325298a768b98dad8ac48e0eba881543",
+    "wof:geomhash":"185f33c0ae00656b41300eddd14d509f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,15 @@
         }
     ],
     "wof:id":269621047,
-    "wof:lastmodified":1473900636,
+    "wof:lastmodified":1510943165,
     "wof:name":"Landi Pietro Snc",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286845043,
+        336874531
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "article",

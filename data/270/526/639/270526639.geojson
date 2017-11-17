@@ -7,13 +7,16 @@
     "addr:postcode":"34015;34015",
     "addr:street":"Via Petronio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.804165,45.593029,13.804165,45.593029",
     "geom:latitude":45.593029,
     "geom:longitude":13.804165,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8, Via Petronio 34015 Muggia",
     "sg:city":"Muggia",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_09HV72ZWBCkihNbtArsTQg_45.593029_13.804165@1306269843"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a4b0f99f68eab8e3b99e50349503eb1d",
+    "wof:geomhash":"0c6ab9f021ed7d39314f1d709c175a25",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270526639,
-    "wof:lastmodified":1473901865,
+    "wof:lastmodified":1510941370,
     "wof:name":"Jotun Italia S.p.a.",
     "wof:parent_id":85905007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186396351
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

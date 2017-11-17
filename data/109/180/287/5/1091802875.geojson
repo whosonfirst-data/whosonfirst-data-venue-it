@@ -7,13 +7,16 @@
     "addr:postcode":"70058;70058",
     "addr:street":"Corso Umberto I",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8692913055,41.1260528564,16.8692913055,41.1260528564",
     "geom:latitude":41.126053,
     "geom:longitude":16.869291,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"52/b Corso Umberto I, 70058 Spinazzola",
     "sg:city":"Spinazzola",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473884767,
-    "wof:geomhash":"6dbe42d18eaf92c3e4b811e6be0fc76b",
+    "wof:geomhash":"187ceadeac650655736d214130f18240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1091802875,
-    "wof:lastmodified":1473900179,
+    "wof:lastmodified":1510942833,
     "wof:name":"Banca Di Credito Cooperativo Di Spinazzola Bari Scrl",
     "wof:parent_id":85906267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185656089
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

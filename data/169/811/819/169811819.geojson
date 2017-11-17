@@ -7,13 +7,16 @@
     "addr:postcode":"19121",
     "addr:street":"Corso Cavour Camillo Benso",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.820247,44.102028,9.820247,44.102028",
     "geom:latitude":44.102028,
     "geom:longitude":9.820247,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"86, Corso Cavour Camillo Benso 19121 La Spezia",
     "sg:classifiers":[
         {
@@ -40,7 +43,7 @@
         "sg:id":"SG_55LBrVDSzyI6UxUfZRBSDw_44.102028_9.820247@1306269789"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7578615c363bf07797e67524da3b27a7",
+    "wof:geomhash":"2bd40f81ca561b81679fbef94b07d539",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":169811819,
-    "wof:lastmodified":1473900212,
+    "wof:lastmodified":1510943020,
     "wof:name":"Cassa Di Risparmio Della Spezia Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091803091
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

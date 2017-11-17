@@ -7,13 +7,16 @@
     "addr:postcode":"38062;38062",
     "addr:street":"Via S. Andrea",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.863769,45.909401,10.863769,45.909401",
     "geom:latitude":45.909401,
     "geom:longitude":10.863769,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16, Via S. Andrea 38062 Arco",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_6C9OOnNeilKgJJqkG7y6sV_45.909401_10.863769@1306269796"
     },
     "wof:country":"IT",
-    "wof:geomhash":"328d428c6edfa400d8d9543e6355611a",
+    "wof:geomhash":"d0c19d17e1131cf4a1384f46e61b0758",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":186420247,
-    "wof:lastmodified":1473901207,
+    "wof:lastmodified":1510944088,
     "wof:name":"Zf Hurth Marine S.p.a.",
     "wof:parent_id":85900359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219575749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

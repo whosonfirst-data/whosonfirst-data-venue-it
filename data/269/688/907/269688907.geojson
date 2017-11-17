@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.190171,45.487476,9.190171,45.487476",
     "geom:latitude":45.487476,
     "geom:longitude":9.190171,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22, Via Sebenico 20124 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2YZsfPihy8ZiuudelyIOKX_45.487476_9.190171@1306269835"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ff5a470b949c26069e96a6795ea59d50",
+    "wof:geomhash":"d83af9151528a89da66a212d96e62873",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":269688907,
-    "wof:lastmodified":1473901018,
+    "wof:lastmodified":1510942409,
     "wof:name":"Starcell (s.p.a.)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270011669
+    ],
     "wof:tags":[
         "aeronautic"
     ]

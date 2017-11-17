@@ -7,13 +7,16 @@
     "addr:postcode":"25016;25016",
     "addr:street":"Via Artigianale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.213583,45.448368,10.213583,45.448368",
     "geom:latitude":45.448368,
     "geom:longitude":10.213583,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"39, Via Artigianale 25016 Ghedi",
     "sg:city":"Ghedi",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1aeYEDTwqAHCfOTtwKgeBw_45.448368_10.213583@1306269875"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4814ec119cc3ee7d991de0082fa1597d",
+    "wof:geomhash":"8f00cb2bfa2c5addb0107031e4e41842",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":336742387,
-    "wof:lastmodified":1473900514,
+    "wof:lastmodified":1510942823,
     "wof:name":"Officine Perlato (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236682535
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

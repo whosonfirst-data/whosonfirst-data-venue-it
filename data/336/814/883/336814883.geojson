@@ -7,13 +7,16 @@
     "addr:postcode":"20134;20134",
     "addr:street":"Via Crespi Gaetano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.241368,45.479149,9.241368,45.479149",
     "geom:latitude":45.479149,
     "geom:longitude":9.241368,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"28, Via Crespi Gaetano 20134 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3ZB9iS1UEE1IXLcZShsFxn_45.479149_9.241368@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f7bf4d201fcd6b687e362398d5e66b33",
+    "wof:geomhash":"71df4e55b6d144c23e251e01019f5d84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":336814883,
-    "wof:lastmodified":1473900738,
+    "wof:lastmodified":1510941667,
     "wof:name":"Boldrini S.p.a.",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091766821
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

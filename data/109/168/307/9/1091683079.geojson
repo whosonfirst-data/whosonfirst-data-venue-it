@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"S. Giuliano Milanese",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2509832382,45.3981170654,9.2509832382,45.3981170654",
     "geom:latitude":45.398117,
     "geom:longitude":9.250983,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 S. Giuliano Milanese",
     "sg:classifiers":[
         {
@@ -47,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879036,
-    "wof:geomhash":"e4a4d87728239ca7521fad52c88b0ec2",
+    "wof:geomhash":"3924dee18b8579a2b9e23952558f3539",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,21 @@
         }
     ],
     "wof:id":1091683079,
-    "wof:lastmodified":1473900524,
+    "wof:lastmodified":1510943615,
     "wof:name":"Chimicafine Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1091701141,
+        1091695807,
+        1091683113,
+        1091730921,
+        1091717529
+    ],
+    "wof:supersedes":[
+        286303481
+    ],
     "wof:tags":[
         "paints",
         "varnish",

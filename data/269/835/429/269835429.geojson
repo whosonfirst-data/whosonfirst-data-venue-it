@@ -7,13 +7,16 @@
     "addr:postcode":"40054;40054",
     "addr:street":"Via Mauro",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.54088,44.542046,11.54088,44.542046",
     "geom:latitude":44.542046,
     "geom:longitude":11.54088,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16, Via Mauro 40054 Budrio",
     "sg:city":"Budrio",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_3RzFeSu24pnnCt4ft4tm29_44.542046_11.540880@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d513caf0991d5ef13503135216ee54e4",
+    "wof:geomhash":"a075bbf30679c0323ad6d90a99c42581",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":269835429,
-    "wof:lastmodified":1473901433,
+    "wof:lastmodified":1510943968,
     "wof:name":"F.m. Matras (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253710971
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-",

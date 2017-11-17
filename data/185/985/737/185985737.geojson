@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.624698,44.835941,11.624698,44.835941",
     "geom:latitude":44.835941,
     "geom:longitude":11.624698,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Corso Giovecca 108; Ferrara; 44100",
     "sg:city":"Ferrara",
     "sg:classifiers":[
@@ -38,7 +40,7 @@
         "sg:id":"SG_1qq5BXCiqeGOeDnpwXQ8so_44.835941_11.624698@1306269792"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1568b2f7cd357233299503eaed04e5be",
+    "wof:geomhash":"7e97af9a3be4fb7331398695bdd1de02",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":185985737,
-    "wof:lastmodified":1473901338,
+    "wof:lastmodified":1510943239,
     "wof:name":"Cassa Di Risparmio Di Ferrara Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        185985563
+    ],
     "wof:tags":[]
 },
   "bbox": [

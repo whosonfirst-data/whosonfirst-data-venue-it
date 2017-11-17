@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.0324840546,45.4848937988,9.0324840546,45.4848937988",
     "geom:latitude":45.484894,
     "geom:longitude":9.032484,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"37, Via Merendi 20010 Cornaredo",
     "sg:city":"Cornaredo",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473882851,
-    "wof:geomhash":"d383a2e8ed06bc77b026db08c57352a8",
+    "wof:geomhash":"c501ff9311dd8c506e19cc4ca9974410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1091761333,
-    "wof:lastmodified":1473900337,
+    "wof:lastmodified":1510942304,
     "wof:name":"Kemica S.p.a.",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        220065717
+    ],
     "wof:tags":[
         "finished",
         "-",

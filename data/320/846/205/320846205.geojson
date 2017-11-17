@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.271141,45.733402,9.271141,45.733402",
     "geom:latitude":45.733402,
     "geom:longitude":9.271141,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8, Via Piave 20050 Veduggio Con Colzano",
     "sg:city":"Veduggio con Colzano",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_25ZUcASNO6hDaTmlMvd7PC_45.733402_9.271141@1306269873"
     },
     "wof:country":"IT",
-    "wof:geomhash":"cc9b2dbd737be0667faab1cfa0f0c031",
+    "wof:geomhash":"aae9056a3f5bae957682ac3c50e0b741",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":320846205,
-    "wof:lastmodified":1473901894,
+    "wof:lastmodified":1510941218,
     "wof:name":"Campana Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        235992695
+    ],
     "wof:tags":[
         "equipment",
         "-",

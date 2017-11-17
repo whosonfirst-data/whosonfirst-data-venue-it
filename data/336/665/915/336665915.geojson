@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.422128,45.560337,10.422128,45.560337",
     "geom:latitude":45.560337,
     "geom:longitude":10.422128,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27, Via Industriale 25080 Prevalle",
     "sg:city":"Prevalle",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6BMeBG0FUjV6j2gtkmuvrU_45.560337_10.422128@1306269874"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e071231b609214df9a166390e3c36a08",
+    "wof:geomhash":"f06cdd5fdfb5e3b4b17477f72e4f4215",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":336665915,
-    "wof:lastmodified":1473900237,
+    "wof:lastmodified":1510942799,
     "wof:name":"Ferraboli & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186225643
+    ],
     "wof:tags":[
         "machine",
         "-",

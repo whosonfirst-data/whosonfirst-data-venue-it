@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.695142,45.053772,9.695142,45.053772",
     "geom:latitude":45.053772,
     "geom:longitude":9.695142,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Dell' Agricoltura 19 29012 Caorso",
     "sg:city":"Caorso",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_2Umf3nw604LTEhI2X3ptR5_45.053772_9.695142@1306269849"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1b5d893b8b36c8c4faae19e6b8b28705",
+    "wof:geomhash":"6f6bb8630a83c1a5df0da5fe3579eb6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":286761389,
-    "wof:lastmodified":1473901670,
+    "wof:lastmodified":1510942644,
     "wof:name":"Nordal 2 Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091653819
+    ],
     "wof:tags":[]
 },
   "bbox": [

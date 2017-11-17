@@ -7,13 +7,16 @@
     "addr:postcode":"06049;06049",
     "addr:street":"Piazza Pianciani",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.736555,42.735691,12.736555,42.735691",
     "geom:latitude":42.735691,
     "geom:longitude":12.736555,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Piazza Pianciani 5; Spoleto; 06049",
     "sg:city":"Spoleto",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1kLYCbv2r5533hJNWoxaGJ_42.735691_12.736555@1306269791"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d97b76d2f415d19dc4e403318fd5fea6",
+    "wof:geomhash":"bcd009814e8384f17135e943e8f2a10c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":185817453,
-    "wof:lastmodified":1473900861,
+    "wof:lastmodified":1510943387,
     "wof:name":"Banca Popolare Di Spoleto Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091745867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

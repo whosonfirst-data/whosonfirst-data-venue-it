@@ -7,13 +7,16 @@
     "addr:postcode":"24040;24040",
     "addr:street":"Via Lombardia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.600494,45.475822,9.600494,45.475822",
     "geom:latitude":45.475822,
     "geom:longitude":9.600494,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Lombardia 19 24040 Calvenzano",
     "sg:city":"Calvenzano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3iZK3d3Br1ATITtbEeCqDM_45.475822_9.600494@1306269838"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ea68f26f8b653066c5d60f35b448944a",
+    "wof:geomhash":"e9a12e17a145a88a971a0bf51f047938",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":270019151,
-    "wof:lastmodified":1473900271,
+    "wof:lastmodified":1510942386,
     "wof:name":"Valsecchi Casalinghi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091698379
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "utensil",

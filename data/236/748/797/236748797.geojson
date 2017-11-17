@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.427624,45.663097,9.427624,45.663097",
     "geom:latitude":45.663097,
     "geom:longitude":9.427624,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Piave, 80/82 23879 Verderio Inferiore",
     "sg:city":"Verderio Inferiore",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6thWWcljL5BnoSfFVJANyL_45.663097_9.427624@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"177e276cc97f08666283d5afc714dd61",
+    "wof:geomhash":"393f416e6688e15003712537a513dc40",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":236748797,
-    "wof:lastmodified":1473901923,
+    "wof:lastmodified":1510943892,
     "wof:name":"Micromotors Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303247999
+    ],
     "wof:tags":[
         "geared",
         "electric",

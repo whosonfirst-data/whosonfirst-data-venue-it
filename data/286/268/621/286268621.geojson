@@ -7,13 +7,16 @@
     "addr:postcode":"27029;27029",
     "addr:street":"Viale Agricoltura",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.826772,45.294662,8.826772,45.294662",
     "geom:latitude":45.294662,
     "geom:longitude":8.826772,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"252, Viale Agricoltura 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4U26GGM2jQjZpelglR6Ewx_45.294662_8.826772@1306269843"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a6dc610e100532d9c1d9326343b7d42d",
+    "wof:geomhash":"3eba7fabe6e5bad2cd6d90a74f600369",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286268621,
-    "wof:lastmodified":1473900140,
+    "wof:lastmodified":1510943210,
     "wof:name":"Tocchio S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219987373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

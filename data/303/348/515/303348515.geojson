@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.268648,45.398396,9.268648,45.398396",
     "geom:latitude":45.398396,
     "geom:longitude":9.268648,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_7cjMauyYu3gKrAgzOIT6sv_45.398396_9.268648@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"57eabec491c42850ee8ed4fdf86166c7",
+    "wof:geomhash":"99dc7c3ba13615a0af47986ba7b1c666",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,15 @@
         }
     ],
     "wof:id":303348515,
-    "wof:lastmodified":1473901401,
+    "wof:lastmodified":1510942563,
     "wof:name":"Guarnizioni Losa Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091787643,
+        1091725815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.236454,45.684349,8.236454,45.684349",
     "geom:latitude":45.684349,
     "geom:longitude":8.236454,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12, Via Monte Orfano 13864 Crevacuore",
     "sg:city":"Crevacuore",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_2VFd0SiP2Geuvu18ivvwFH_45.684349_8.236454@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d0332f025f68eb5462cf41c518387e76",
+    "wof:geomhash":"66b72e447f2d724d72c2b7cba5c2e086",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":336826761,
-    "wof:lastmodified":1473900735,
+    "wof:lastmodified":1510942603,
     "wof:name":"Gabella Macchine (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        219233791
+    ],
     "wof:tags":[
         "machine",
         "-",

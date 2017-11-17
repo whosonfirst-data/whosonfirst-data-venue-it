@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7606935501,45.6581306458,9.7606935501,45.6581306458",
     "geom:latitude":45.658131,
     "geom:longitude":9.760694,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Delle Groane 15 24060 Bagnatica",
     "sg:city":"Bagnatica",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473879978,
-    "wof:geomhash":"81acf61d77f2299820840c6bab98c062",
+    "wof:geomhash":"a07fd77db5324cd828c6d6ea825ae241",
     "wof:hierarchy":[],
     "wof:id":1091705999,
-    "wof:lastmodified":1473900761,
+    "wof:lastmodified":1510943132,
     "wof:name":"Italpresse Engineering Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336694903
+    ],
     "wof:tags":[
         "press",
         "working"

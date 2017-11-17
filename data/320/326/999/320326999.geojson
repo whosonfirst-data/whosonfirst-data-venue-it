@@ -7,13 +7,16 @@
     "addr:postcode":"06016",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.186145,43.538624,12.186145,43.538624",
     "geom:latitude":43.538624,
     "geom:longitude":12.186145,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"06016 San Giustino",
     "sg:city":"San Giustino",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_4dAvtLMXN1Jquo81ALLmoh_43.538624_12.186145@1306269869"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1420d8d282c35fa6860cd4fa011b515f",
+    "wof:geomhash":"7fec8982234b5c93d25eceec86cc9e9d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":320326999,
-    "wof:lastmodified":1473901594,
+    "wof:lastmodified":1510943519,
     "wof:name":"Cms Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        253539411
+    ],
+    "wof:supersedes":[
+        219386165
+    ],
     "wof:tags":[]
 },
   "bbox": [

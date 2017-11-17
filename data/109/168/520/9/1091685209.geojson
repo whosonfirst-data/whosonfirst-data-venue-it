@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.6175351143,45.0690917969,7.6175351143,45.0690917969",
     "geom:latitude":45.069092,
     "geom:longitude":7.617535,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45, Via Chambery 10142 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879125,
-    "wof:geomhash":"44991d6880928c8c576caf50b9621524",
+    "wof:geomhash":"304d32dec004a934427ea89927019aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1091685209,
-    "wof:lastmodified":1473900721,
+    "wof:lastmodified":1510941840,
     "wof:name":"Scatolificio Gola (s.r.l.)",
     "wof:parent_id":85796995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270181633
+    ],
     "wof:tags":[
         "cardboard"
     ]

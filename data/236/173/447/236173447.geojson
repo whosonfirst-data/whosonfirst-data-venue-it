@@ -7,13 +7,16 @@
     "addr:postcode":"20131;20131",
     "addr:street":"Via Pestalozza Alessandro",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.222696,45.482231,9.222696,45.482231",
     "geom:latitude":45.482231,
     "geom:longitude":9.222696,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16, Via Pestalozza Alessandro 20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_7cB4lwnZ8CQAnqHyJdJ0yR_45.482231_9.222696@1306269816"
     },
     "wof:country":"IT",
-    "wof:geomhash":"792c7ddceeba7cb896682b2cd4ed9b2d",
+    "wof:geomhash":"7dd8a3913ef97ce956ab3b26db5d12f1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236173447,
-    "wof:lastmodified":1473900893,
+    "wof:lastmodified":1510943128,
     "wof:name":"Variati & Co. (s.p.a.)",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091774207
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"

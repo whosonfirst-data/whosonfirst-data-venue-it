@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1607484818,45.4486808777,9.1607484818,45.4486808777",
     "geom:latitude":45.448681,
     "geom:longitude":9.160748,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111, Ripa Di Porta Ticinese 20143 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473881536,
-    "wof:geomhash":"293b953bbb754409b9a858787971a324",
+    "wof:geomhash":"2eb4ea51e145f0a7f2a6fe8dea5e1419",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1091736935,
-    "wof:lastmodified":1473901010,
+    "wof:lastmodified":1510944124,
     "wof:name":"Sagsa (s.p.a.)",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253194871
+    ],
     "wof:tags":[
         "professional"
     ]

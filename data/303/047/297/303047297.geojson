@@ -7,13 +7,16 @@
     "addr:postcode":"52036;52036",
     "addr:street":"Via Stadio;Santo Stefano Arezzo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.863062,43.471203,11.863062,43.471203",
     "geom:latitude":43.471203,
     "geom:longitude":11.863062,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2, Via Stadio 52036 Pieve Santo Stefano",
     "sg:city":"Pieve Santo Stefano",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5nW1Kmtc6Anfgz2jvFO7gM_43.471203_11.863062@1306269855"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8095f717dfeeec36af8e55f8680df480",
+    "wof:geomhash":"4097d3bdbc72026a0085d728ccf939f2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":303047297,
-    "wof:lastmodified":1473900171,
+    "wof:lastmodified":1510943837,
     "wof:name":"Tratos Cavi (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091755699
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

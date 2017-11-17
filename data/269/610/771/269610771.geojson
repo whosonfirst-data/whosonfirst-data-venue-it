@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.246432,45.398964,9.246432,45.398964",
     "geom:latitude":45.398964,
     "geom:longitude":9.246432,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_7lGjUsYMf5HMsuNPjYMmMD_45.398964_9.246432@1306269834"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8f48d55204a7f2058b918225898f2a5e",
+    "wof:geomhash":"6e25ff59a561dbb254cad700d1f264d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,15 @@
         }
     ],
     "wof:id":269610771,
-    "wof:lastmodified":1473900666,
+    "wof:lastmodified":1510943621,
     "wof:name":"Venilia Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253363577,
+        186481759
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1718177795,45.6819992065,9.1718177795,45.6819992065",
     "geom:latitude":45.681999,
     "geom:longitude":9.171818,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Per Novedrate 111 22066 Mariano Comense",
     "sg:city":"Mariano Comense",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473878214,
-    "wof:geomhash":"ead1e89f3afdbec236f4b0e974f8037b",
+    "wof:geomhash":"2d661215e5531350d28c7c3b2f5dca19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1091665257,
-    "wof:lastmodified":1473900514,
+    "wof:lastmodified":1510944143,
     "wof:name":"Fava Bibite Sas",
     "wof:parent_id":85862609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236156669
+    ],
     "wof:tags":[
         "mineral"
     ]

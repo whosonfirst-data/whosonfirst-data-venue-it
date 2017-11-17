@@ -7,13 +7,16 @@
     "addr:postcode":"24030;24030",
     "addr:street":"Via Bergamo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.515717,45.730293,9.515717,45.730293",
     "geom:latitude":45.730293,
     "geom:longitude":9.515717,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Bergamo 1340 24030 Pontida",
     "sg:city":"Pontida",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6CanmvE0I6oQTOEFJCWaQV_45.730293_9.515717@1306269807"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2e004380384906b85ab8b118bcc58916",
+    "wof:geomhash":"94f8243b2b5a665ec256e2739bdb9485",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219395103,
-    "wof:lastmodified":1473901059,
+    "wof:lastmodified":1510943750,
     "wof:name":"3l S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091651887
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "steel",

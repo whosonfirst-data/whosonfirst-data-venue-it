@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4888391495,41.8994903564,12.4888391495,41.8994903564",
     "geom:latitude":41.89949,
     "geom:longitude":12.488839,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Piacenza, 6; Rome; 00184",
     "sg:classifiers":[
         {
@@ -46,7 +48,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473882011,
-    "wof:geomhash":"50a95d70e84ef684cf6a018bf959ccab",
+    "wof:geomhash":"328aff46f08bcabb43c1c90b08087881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1091746103,
-    "wof:lastmodified":1473900797,
+    "wof:lastmodified":1510941828,
     "wof:name":"Italfondiario S.p.a.",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186165857
+    ],
     "wof:tags":[
         "large",
         "private"

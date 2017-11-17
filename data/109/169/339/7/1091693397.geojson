@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.3660907745,45.2134208679,9.3660907745,45.2134208679",
     "geom:latitude":45.213421,
     "geom:longitude":9.366091,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Circonvallazione 26 27019 Villanterio",
     "sg:city":"Villanterio",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473879461,
-    "wof:geomhash":"d35fe06bb16eb55cea25570f0cb91e26",
+    "wof:geomhash":"d10d887871ff3c373618bb7984942ac2",
     "wof:hierarchy":[],
     "wof:id":1091693397,
-    "wof:lastmodified":1473900521,
+    "wof:lastmodified":1510943047,
     "wof:name":"Rastelli Raccordi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091660277
+    ],
     "wof:tags":[
         "pipe",
         "connection"

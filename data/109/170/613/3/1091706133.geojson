@@ -7,13 +7,16 @@
     "addr:postcode":"20094;20094",
     "addr:street":"Via Galeno",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.0778026581,45.4302940369,9.0778026581,45.4302940369",
     "geom:latitude":45.430294,
     "geom:longitude":9.077803,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Galeno, 4/6 20094 Corsico",
     "sg:city":"Corsico",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879983,
-    "wof:geomhash":"6621888ed6d1d6457640fa1d76e64dd8",
+    "wof:geomhash":"95a4a3191178c5dddef959978025f81d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1091706133,
-    "wof:lastmodified":1473900787,
+    "wof:lastmodified":1510943978,
     "wof:name":"La Decalcomania S.r.l.",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091709759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "print",

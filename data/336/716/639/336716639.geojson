@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.35546,45.225445,11.35546,45.225445",
     "geom:latitude":45.225445,
     "geom:longitude":11.35546,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"29, Via Copparo 37046 Minerbe",
     "sg:city":"Minerbe",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_1xalGYobKyY8e9QsPKM79s_45.225445_11.355460@1306269875"
     },
     "wof:country":"IT",
-    "wof:geomhash":"964dfa9d7184ae86f40a774675c1b153",
+    "wof:geomhash":"19f102c9bf1c32e397260319cc5729c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":336716639,
-    "wof:lastmodified":1473900430,
+    "wof:lastmodified":1510942235,
     "wof:name":"Mecmar S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        219287199
+    ],
     "wof:tags":[
         "machine",
         "-",

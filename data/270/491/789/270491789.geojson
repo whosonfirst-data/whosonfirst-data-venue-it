@@ -7,13 +7,16 @@
     "addr:postcode":"35014;35014",
     "addr:street":"Via Boschi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.72466,45.630795,11.72466,45.630795",
     "geom:latitude":45.630795,
     "geom:longitude":11.72466,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Boschi 44 35014 Fontaniva",
     "sg:city":"Fontaniva",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6zb0jrYraKvdYNmBgZynT6_45.630795_11.724660@1306269842"
     },
     "wof:country":"IT",
-    "wof:geomhash":"6033bdf56f719b2ed33203bdb1f3c70b",
+    "wof:geomhash":"41495af4060685128953b20807f2ff08",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":270491789,
-    "wof:lastmodified":1473901869,
+    "wof:lastmodified":1510942592,
     "wof:name":"Isoli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236918723
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "crane",

@@ -7,13 +7,16 @@
     "addr:postcode":"06059;06059",
     "addr:street":"Via Crocefisso",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.417245,42.78046,12.417245,42.78046",
     "geom:latitude":42.78046,
     "geom:longitude":12.417245,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"47, Via Crocefisso 06059 Todi",
     "sg:city":"Todi",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_0s75fv9VlqLZbdojVII5jx_42.780460_12.417245@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"546a126a8900b83cad23269c7a30ed08",
+    "wof:geomhash":"7e2a13ea0eed00a9c0447168079b2517",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269871411,
-    "wof:lastmodified":1473901447,
+    "wof:lastmodified":1510942401,
     "wof:name":"Spazzoni Giuseppe (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270470545
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agriculture"

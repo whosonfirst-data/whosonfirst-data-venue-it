@@ -7,13 +7,16 @@
     "addr:postcode":"51031;51031",
     "addr:street":"Via Lombardi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.997397,43.909592,10.997397,43.909592",
     "geom:latitude":43.909592,
     "geom:longitude":10.997397,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Lombardi 2 51031 Agliana",
     "sg:city":"Agliana",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_67PGStt7Ls9RkDo110oB6v_43.909592_10.997397@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ce8373a3d22ab5b91b271d10c39a1300",
+    "wof:geomhash":"d67f97c6f5778d825170bdec2235acf9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":236505457,
-    "wof:lastmodified":1473901504,
+    "wof:lastmodified":1510942473,
     "wof:name":"I.m.m. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091751013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

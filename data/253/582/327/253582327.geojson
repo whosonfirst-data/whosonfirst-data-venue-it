@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.069204,45.591309,9.069204,45.591309",
     "geom:latitude":45.591309,
     "geom:longitude":9.069204,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Mantova 1 20020 Lainate",
     "sg:city":"Lainate",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_0mAbODTz1MotDnniqhYzxE_45.591309_9.069204@1306269831"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5ab94e3600569f8227ffc265510735a6",
+    "wof:geomhash":"de7c045d3c4f4139b2fa15ade2c95826",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":253582327,
-    "wof:lastmodified":1473901506,
+    "wof:lastmodified":1510943000,
     "wof:name":"Ferca Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270520161
+    ],
     "wof:tags":[
         "lacquer"
     ]

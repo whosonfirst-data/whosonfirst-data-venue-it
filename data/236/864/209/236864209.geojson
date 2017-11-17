@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.676324,40.745182,14.676324,40.745182",
     "geom:latitude":40.745182,
     "geom:longitude":14.676324,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Taverne 184 84015 Nocera Superiore",
     "sg:city":"Nocera Superiore",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_56JNcXKoDtdlbA37mt9TSs_40.745182_14.676324@1306269822"
     },
     "wof:country":"IT",
-    "wof:geomhash":"95c9f1c5e650b6e12f324b16bd106245",
+    "wof:geomhash":"7e8c657dc19ab06f735713b80394cb53",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":236864209,
-    "wof:lastmodified":1473901949,
+    "wof:lastmodified":1510943181,
     "wof:name":"Vetroplastica Villani Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091698411
+    ],
     "wof:tags":[
         "industry",
         "beverage",

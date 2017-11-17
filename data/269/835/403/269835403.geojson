@@ -7,13 +7,16 @@
     "addr:postcode":"46046;46046",
     "addr:street":"Via Brigoni",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.506216,45.388599,10.506216,45.388599",
     "geom:latitude":45.388599,
     "geom:longitude":10.506216,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2/6, Via Brigoni 46046 Medole",
     "sg:city":"Medole",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2CRDp7zzctqUhpdhzWs4j9_45.388599_10.506216@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7f8f506213ab3c81236026e27a1d3b26",
+    "wof:geomhash":"f04d604151fb8c5e79e47a0fe409818f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":269835403,
-    "wof:lastmodified":1473901432,
+    "wof:lastmodified":1510942953,
     "wof:name":"Fantini (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202503365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-",

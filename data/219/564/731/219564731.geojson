@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.280807,41.730843,12.280807,41.730843",
     "geom:latitude":41.730843,
     "geom:longitude":12.280807,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"00122 Lido Di Ostia",
     "sg:classifiers":[
         {
@@ -47,7 +49,7 @@
         "sg:id":"SG_1lAT0HNEQh7ouVcgbBLaVg_41.730843_12.280807@1306269808"
     },
     "wof:country":"IT",
-    "wof:geomhash":"38594c99f72d43bcfc459e7243be4da3",
+    "wof:geomhash":"c642b62b53d65bac5ed7eac6c7a723d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,13 +61,18 @@
         }
     ],
     "wof:id":219564731,
-    "wof:lastmodified":1473901455,
+    "wof:lastmodified":1510941585,
     "wof:name":"Peppino A Mare Di Pizzuti Giuseppe & C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203395053,
+        269780419,
+        287050403,
+        219362143
+    ],
     "wof:tags":[
         "auxiliary",
         "entertainment",

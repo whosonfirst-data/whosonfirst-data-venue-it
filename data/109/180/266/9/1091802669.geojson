@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1348810196,45.4595222473,9.1348810196,45.4595222473",
     "geom:latitude":45.459522,
     "geom:longitude":9.134881,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Via Montecuccoli Raimondo, 20147 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473884759,
-    "wof:geomhash":"8a8a48a0be69cc02e9a7c1e8311e8fed",
+    "wof:geomhash":"bd69ff4e50a340d4942abbf410615f58",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":1091802669,
-    "wof:lastmodified":1473900136,
+    "wof:lastmodified":1510943468,
     "wof:name":"Aurora Assicurazioni (spa)",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169826395
+    ],
     "wof:tags":[
         "banking",
         "finance",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1329183578,45.1645088196,9.1329183578,45.1645088196",
     "geom:latitude":45.164509,
     "geom:longitude":9.132918,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Piemonte 21 27028 San Martino Siccomario",
     "sg:city":"San Martino Siccomario",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473879490,
-    "wof:geomhash":"3b771d0e3496cf539b9b85851afa3919",
+    "wof:geomhash":"33e8a2008570ce1381ef18509ec11935",
     "wof:hierarchy":[],
     "wof:id":1091694137,
-    "wof:lastmodified":1473900561,
+    "wof:lastmodified":1510941315,
     "wof:name":"De Lama Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336645931
+    ],
     "wof:tags":[
         "pharmaceutical",
         "industry"

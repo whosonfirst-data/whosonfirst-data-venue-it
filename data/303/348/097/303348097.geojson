@@ -7,13 +7,16 @@
     "addr:postcode":"40128;40128",
     "addr:street":"Via Zago Emilio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.346481,44.494221,11.346481,44.494221",
     "geom:latitude":44.494221,
     "geom:longitude":11.346481,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Zago Emilio 10 40128 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_27YUxifOuS9W4RZ0dCKq3c_44.494221_11.346481@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5e55927d9edee236be03b473cc2a4816",
+    "wof:geomhash":"fc03bdf3b0b84d53acb157404dac2675",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":303348097,
-    "wof:lastmodified":1473901365,
+    "wof:lastmodified":1510942968,
     "wof:name":"Rhein 83 Srl",
     "wof:parent_id":85900451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236445339
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "anchor"

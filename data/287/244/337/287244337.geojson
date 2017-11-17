@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.146401,43.758804,11.146401,43.758804",
     "geom:latitude":43.758804,
     "geom:longitude":11.146401,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3, Via Delle Fonti 50018 Scandicci",
     "sg:city":"Scandicci",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2z3I77fFdxzniN00g8gfoO_43.758804_11.146401@1306269854"
     },
     "wof:country":"IT",
-    "wof:geomhash":"bd5fcc8ab9fddf3a9d5465007cfc90d3",
+    "wof:geomhash":"85900693ff0fb2c78c98dc92958ce991",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":287244337,
-    "wof:lastmodified":1473901359,
+    "wof:lastmodified":1510941240,
     "wof:name":"Elettrotecnica E.p. Spa",
     "wof:parent_id":85900355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303068371
+    ],
     "wof:tags":[
         "component",
         "electronic"

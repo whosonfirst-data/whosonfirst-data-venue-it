@@ -7,13 +7,16 @@
     "addr:postcode":"30037;30037",
     "addr:street":"Via Spangaro",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.169643,45.567104,12.169643,45.567104",
     "geom:latitude":45.567104,
     "geom:longitude":12.169643,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Spangaro 1 30037 Peseggia",
     "sg:classifiers":[
         {
@@ -40,7 +43,7 @@
         "sg:id":"SG_3iGME6ANcg4kWipmFlPLJr_45.567104_12.169643@1306269829"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8de8b4eb5941bf54b8767d067f7c3fb0",
+    "wof:geomhash":"72fe11732f425a5fe1b9165e86881da4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":253465513,
-    "wof:lastmodified":1473901388,
+    "wof:lastmodified":1510943456,
     "wof:name":"Akzo Nobel Wood Coatings Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270508783
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "varnish"

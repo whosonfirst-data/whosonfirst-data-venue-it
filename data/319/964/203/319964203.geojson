@@ -7,13 +7,16 @@
     "addr:postcode":"15020;15020",
     "addr:street":"Via Pontestura;Camino Camino Alessandria",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.293571,45.157097,8.293571,45.157097",
     "geom:latitude":45.157097,
     "geom:longitude":8.293571,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Pontestura 122 15020 Camino",
     "sg:city":"Camino",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_0DuGdXzOwecMViwHzsJr1m_45.157097_8.293571@1306269866"
     },
     "wof:country":"IT",
-    "wof:geomhash":"342afc7db6dffb90cd189b6011a36d37",
+    "wof:geomhash":"83cbc5aa8e9eb503eb256aaa84dced5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":319964203,
-    "wof:lastmodified":1473901156,
+    "wof:lastmodified":1510943672,
     "wof:name":"Dimensione Sport S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091673575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive",

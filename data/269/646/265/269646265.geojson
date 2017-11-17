@@ -7,13 +7,16 @@
     "addr:postcode":"20138;20138",
     "addr:street":"Via Zante",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.248955,45.455372,9.248955,45.455372",
     "geom:latitude":45.455372,
     "geom:longitude":9.248955,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Zante 16/2 20138 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_181pHIwNrBaF8Bg2lHk6Ik_45.455372_9.248955@1306269834"
     },
     "wof:country":"IT",
-    "wof:geomhash":"72417739d96ae1f2d58fb3a3b209621e",
+    "wof:geomhash":"601f36d71f673de8595668c5ba6e8e54",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":269646265,
-    "wof:lastmodified":1473900706,
+    "wof:lastmodified":1510943646,
     "wof:name":"Idg Communications Italia Srl",
     "wof:parent_id":85796983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091707629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper",

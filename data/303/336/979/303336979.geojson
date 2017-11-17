@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.251227,45.453423,9.251227,45.453423",
     "geom:latitude":45.453423,
     "geom:longitude":9.251227,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Mecenate 90 20138 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7aO0p8XyK6SPDToU5l5VUC_45.453423_9.251227@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ecb98ec87c1828b46986c322d8b49f32",
+    "wof:geomhash":"077add79f5e31e214f2b21e7431e1167",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":303336979,
-    "wof:lastmodified":1473901379,
+    "wof:lastmodified":1510941751,
     "wof:name":"Paso Spa",
     "wof:parent_id":85796983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        304072833
+    ],
     "wof:tags":[
         "amplifier"
     ]

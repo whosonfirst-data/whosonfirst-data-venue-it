@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.168759,45.574451,9.168759,45.574451",
     "geom:latitude":45.574451,
     "geom:longitude":9.168759,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via S. Michele Del Carso 40 20035 Lissone",
     "sg:city":"Lissone",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_0KBIGVnvd2kzU4C9jgS2Eq_45.574451_9.168759@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9e9e86bb0936828c820255ef6a712d35",
+    "wof:geomhash":"62560c72cb128d0c9394f1637bce651c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":219310573,
-    "wof:lastmodified":1473900827,
+    "wof:lastmodified":1510943901,
     "wof:name":"Birel Spa",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        220092665
+    ],
     "wof:tags":[
         "loom",
         "special-purpose"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.63668,45.606506,8.63668,45.606506",
     "geom:latitude":45.606506,
     "geom:longitude":8.63668,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Sempione 82 28040 Marano Ticino",
     "sg:city":"Marano Ticino",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6zw25gP9iu1cjk2NmJsjTc_45.606506_8.636680@1306269842"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e05671a57d3ea44d75d6cbde07665558",
+    "wof:geomhash":"380a971de04cf6df5f31aca04689c70f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":270450227,
-    "wof:lastmodified":1473901830,
+    "wof:lastmodified":1510942163,
     "wof:name":"S.i.t.i. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336767417
+    ],
     "wof:tags":[
         "ceramic",
         "processing"

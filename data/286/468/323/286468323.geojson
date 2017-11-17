@@ -7,13 +7,16 @@
     "addr:postcode":"48020;48020",
     "addr:street":"Via San Vitale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.862573,44.439629,11.862573,44.439629",
     "geom:latitude":44.439629,
     "geom:longitude":11.862573,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8, Via San Vitale 48020 Sant'agata Sul Santerno",
     "sg:classifiers":[
         {
@@ -40,7 +43,7 @@
         "sg:id":"SG_0W0I2mBkufNrMEyVDsSXiO_44.439629_11.862573@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"869d64226e8f43923ce6d7577d9a5c6e",
+    "wof:geomhash":"75ee5deb4275904a165146a8c1f7df0e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":286468323,
-    "wof:lastmodified":1473901094,
+    "wof:lastmodified":1510942214,
     "wof:name":"Calzificio Santerno Di Marcucci Giovanni & C. (s.n.c.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091640667
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

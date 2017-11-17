@@ -7,13 +7,16 @@
     "addr:postcode":"23848;23848",
     "addr:street":"Via Per Dolzago",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.360929,45.806633,9.360929,45.806633",
     "geom:latitude":45.806633,
     "geom:longitude":9.360929,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"37, Via Per Dolzago 23848 Oggiono",
     "sg:city":"Oggiono",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1Sh1EbicqwhjhPPI4WTqOe_45.806633_9.360929@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7bc217ad39f9a8a04c5ab940e491e410",
+    "wof:geomhash":"adff4fb0edffefa48972e69b2e615663",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":269841867,
-    "wof:lastmodified":1473901431,
+    "wof:lastmodified":1510941653,
     "wof:name":"Novatex Italia (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091694705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-",

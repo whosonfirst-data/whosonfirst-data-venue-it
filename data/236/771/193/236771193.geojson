@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.819668,45.706493,11.819668,45.706493",
     "geom:latitude":45.706493,
     "geom:longitude":11.819668,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Enrico Fermi 17 36028 Rossano Veneto",
     "sg:city":"Rossano Veneto",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_6NDzClgYLe6RqaThgUJxH5_45.706493_11.819668@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"cfc400cf83607fc8aabb6affc28edad9",
+    "wof:geomhash":"6b304e4c4071fa232811082e327c0139",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":236771193,
-    "wof:lastmodified":1473901902,
+    "wof:lastmodified":1510943802,
     "wof:name":"Astuni Di Mario Astuni & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236543489
+    ],
     "wof:tags":[
         "item"
     ]

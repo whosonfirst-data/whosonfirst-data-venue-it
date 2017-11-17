@@ -7,13 +7,16 @@
     "addr:postcode":"22036;22036",
     "addr:street":"Via Milano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.085456,45.811966,9.085456,45.811966",
     "geom:latitude":45.811966,
     "geom:longitude":9.085456,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Milano 20/a 22036 Erba",
     "sg:city":"Erba",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6zpUwY1y2eJPMxSPXSAuC9_45.811966_9.085456@1306269808"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a474a4070f012a9f88015e5f093507b3",
+    "wof:geomhash":"d08581e7277836b700d3c834bbfbfd4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219516127,
-    "wof:lastmodified":1473901412,
+    "wof:lastmodified":1510941369,
     "wof:name":"Synt 3 Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091698217
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "synthetic"

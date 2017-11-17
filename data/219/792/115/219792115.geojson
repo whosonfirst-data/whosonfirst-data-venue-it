@@ -7,13 +7,16 @@
     "addr:postcode":"20040",
     "addr:street":"Cambiago Cambiago",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.434307,45.579643,9.434307,45.579643",
     "geom:latitude":45.579643,
     "geom:longitude":9.434307,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20040 Cambiago",
     "sg:city":"Cambiago",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4JePg6Ozh93bIr9nQb393h_45.579643_9.434307@1306269810"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9b8c37b4706715582430a2034b327557",
+    "wof:geomhash":"2cde83e3072181748c8fe0ec837f84bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,21 @@
         }
     ],
     "wof:id":219792115,
-    "wof:lastmodified":1473901768,
+    "wof:lastmodified":1510943481,
     "wof:name":"Tenute Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219797407,
+        1091725949,
+        1091789043
+    ],
+    "wof:supersedes":[
+        202859159,
+        303349607,
+        220065389
+    ],
     "wof:tags":[
         "rubber",
         "industry",

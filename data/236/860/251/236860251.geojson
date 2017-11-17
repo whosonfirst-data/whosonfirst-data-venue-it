@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.628191,45.502995,9.628191,45.502995",
     "geom:latitude":45.502995,
     "geom:longitude":9.628191,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8, Via Treviglio 24043 Caravaggio",
     "sg:city":"Caravaggio",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_1dIoK2uzLyDmcQAP4uw6Ox_45.502995_9.628191@1306269822"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b46ce134b8caf2a35283f3d81a519589",
+    "wof:geomhash":"4afdd742a6d0e7b4eefb31caec567b52",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":236860251,
-    "wof:lastmodified":1473901908,
+    "wof:lastmodified":1510942023,
     "wof:name":"Ceramtec Italia (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270449547
+    ],
     "wof:tags":[
         "building",
         "material"

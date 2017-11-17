@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.17907,45.543339,9.17907,45.543339",
     "geom:latitude":45.543339,
     "geom:longitude":9.17907,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26, V. Prealpi 20032 Cormano",
     "sg:city":"Cormano",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_0LhDhTiYEypEIhedb6Ktyt_45.543339_9.179070@1306269823"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2cc763bd6c7710e3b5a37ccda3e96af3",
+    "wof:geomhash":"56b4c230b3af4cab978e16546a34486c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":236932495,
-    "wof:lastmodified":1473901914,
+    "wof:lastmodified":1510942314,
     "wof:name":"Vibrowest Italiana Srl",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186224545
+    ],
     "wof:tags":[
         "equipment",
         "material",

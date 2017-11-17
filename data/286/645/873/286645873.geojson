@@ -7,13 +7,16 @@
     "addr:postcode":"59100;59100",
     "addr:street":"Via S. Paolo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.093779,43.90451,11.093779,43.90451",
     "geom:latitude":43.90451,
     "geom:longitude":11.093779,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via S. Paolo 64 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1zou0wEU550rd3eJenTBT7_43.904510_11.093779@1306269847"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b5989ae5123a18d92b75e07b361354e5",
+    "wof:geomhash":"da6023ba5b2f7caa192770bc233e1984",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":286645873,
-    "wof:lastmodified":1473901357,
+    "wof:lastmodified":1510943152,
     "wof:name":"Leathertex Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091751619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing",

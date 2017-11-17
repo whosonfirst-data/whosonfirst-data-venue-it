@@ -7,13 +7,16 @@
     "addr:postcode":"20019;20019",
     "addr:street":"Via Fermi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.075315,45.473846,9.075315,45.473846",
     "geom:latitude":45.473846,
     "geom:longitude":9.075315,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8, Via Fermi 20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_4fVvTpwsksgK2klukMBnna_45.473846_9.075315@1306269827"
     },
     "wof:country":"IT",
-    "wof:geomhash":"70fb2e76277f2ca964960526dedaadcf",
+    "wof:geomhash":"610799d1edc8c249f8652d23560e3260",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":253219623,
-    "wof:lastmodified":1473900956,
+    "wof:lastmodified":1510942444,
     "wof:name":"Prevost Srl",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091757979
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

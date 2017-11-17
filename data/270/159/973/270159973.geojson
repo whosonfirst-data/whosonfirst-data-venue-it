@@ -7,13 +7,16 @@
     "addr:postcode":"42011;42011",
     "addr:street":"Via Provinciale Sud",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.664625,44.753113,10.664625,44.753113",
     "geom:latitude":44.753113,
     "geom:longitude":10.664625,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Provinciale Sud 5 42011 Bagnolo In Piano",
     "sg:classifiers":[
         {
@@ -41,7 +44,7 @@
         "sg:id":"SG_0Ntd7zFDiNpPgEekPuOg8y_44.753113_10.664625@1306269839"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2dd64c24dcde60c9f6f309ddef7c9c0c",
+    "wof:geomhash":"9dae6e44ce1380f97ffd1b026c6b8190",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270159973,
-    "wof:lastmodified":1473901025,
+    "wof:lastmodified":1510942995,
     "wof:name":"Fibrotubi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219801653
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "canopy"

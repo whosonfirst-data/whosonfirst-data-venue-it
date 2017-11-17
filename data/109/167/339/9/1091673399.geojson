@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.047457695,45.5894775391,9.047457695,45.5894775391",
     "geom:latitude":45.589478,
     "geom:longitude":9.047458,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"78, Via Milano 21042 Caronno Pertusella",
     "sg:city":"Caronno Pertusella",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473878544,
-    "wof:geomhash":"3b3b4fc4e4997af2cebb2de7a4dcbdec",
+    "wof:geomhash":"209256a14a9b002e8d478036baeab016",
     "wof:hierarchy":[],
     "wof:id":1091673399,
-    "wof:lastmodified":1473900492,
+    "wof:lastmodified":1510942643,
     "wof:name":"Carrozzeria Marazzi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270173377
+    ],
     "wof:tags":[
         "motor-cars"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.285596,45.383781,9.285596,45.383781",
     "geom:latitude":45.383781,
     "geom:longitude":9.285596,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_1zj17VydovK79khevN6bGF_45.383781_9.285596@1306269865"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f5ee0a9d204b67e8745e9b9c3e045439",
+    "wof:geomhash":"d91727fc25ee54ad082e72a6af550583",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":319843183,
-    "wof:lastmodified":1473900304,
+    "wof:lastmodified":1510941323,
     "wof:name":"C.s.m. Marmitte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219588091
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

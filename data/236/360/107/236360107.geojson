@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.838758,45.160046,10.838758,45.160046",
     "geom:latitude":45.160046,
     "geom:longitude":10.838758,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"46030 San Giorgio Di Mantova",
     "sg:city":"San Giorgio di Mantova",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_231o0vEOufnKcgAmCm8PcV_45.160046_10.838758@1306269817"
     },
     "wof:country":"IT",
-    "wof:geomhash":"26936679f01eb2796b2295b1b4f1e556",
+    "wof:geomhash":"d5824692030c2546d08f51b3f60afd67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":236360107,
-    "wof:lastmodified":1473901378,
+    "wof:lastmodified":1510942382,
     "wof:name":"Pelletteria S.p. Di Salvatore Palazzo & C. Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186435291
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.986203,45.712776,11.986203,45.712776",
     "geom:latitude":45.712776,
     "geom:longitude":11.986203,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15, Via Spada 31050 Vedelago",
     "sg:city":"Vedelago",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_4Jx6osaRFYGNWrx9sY9ytu_45.712776_11.986203@1306269829"
     },
     "wof:country":"IT",
-    "wof:geomhash":"cd580ddfcefc262185c887982a16060d",
+    "wof:geomhash":"7d95c88d767434ba39aa6a8e08115fcd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":253392801,
-    "wof:lastmodified":1473901307,
+    "wof:lastmodified":1510944139,
     "wof:name":"Marin Giorgio (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253359079
+    ],
     "wof:tags":[
         "wood"
     ]

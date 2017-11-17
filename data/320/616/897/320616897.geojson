@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.316376,45.981125,13.316376,45.981125",
     "geom:latitude":45.981125,
     "geom:longitude":13.316376,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via San Mauro 70 33050 Pavia Di Udine",
     "sg:city":"Pavia di Udine",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3Us13nvyQ7I7rTkRpyv7NB_45.981125_13.316376@1306269871"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c05eff7a05ab7a84ffb8c1f725c06f6e",
+    "wof:geomhash":"4dfcfabb81e1b8edc57096944d52a30f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":320616897,
-    "wof:lastmodified":1473901703,
+    "wof:lastmodified":1510942745,
     "wof:name":"Ciepi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236561183
+    ],
     "wof:tags":[
         "marble"
     ]

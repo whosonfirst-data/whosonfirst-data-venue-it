@@ -7,13 +7,16 @@
     "addr:postcode":"37050;37050",
     "addr:street":"Via Rolandino Maffei",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.991748,45.438366,10.991748,45.438366",
     "geom:latitude":45.438366,
     "geom:longitude":10.991748,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Rolandino Maffei 1 37050 Vallese",
     "sg:city":"Vallese",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5F4iEhpprlutYu0tEuza4f_45.438366_10.991748@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"42c05bfe292031fe388dbf79e499cacb",
+    "wof:geomhash":"eb9cb68a15930e74b4678a70488a5a9d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":219249283,
-    "wof:lastmodified":1473900557,
+    "wof:lastmodified":1510941345,
     "wof:name":"Euro Arredamenti Srl",
     "wof:parent_id":85905047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091735981
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

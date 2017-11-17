@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.326107,45.482483,9.326107,45.482483",
     "geom:latitude":45.482483,
     "geom:longitude":9.326107,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Toscana 9 20060 Vignate",
     "sg:city":"Vignate",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_5psuJuxLHyxTnkr5XYJxpr_45.482483_9.326107@1306269797"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4031ac0d2a22793c23a978e80e9aed6e",
+    "wof:geomhash":"6be51b2c1147f35fd939f1ac1b64a7f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":186592565,
-    "wof:lastmodified":1473901719,
+    "wof:lastmodified":1510941260,
     "wof:name":"Technical Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        287250449
+    ],
     "wof:tags":[
         "overflow",
         "valve",

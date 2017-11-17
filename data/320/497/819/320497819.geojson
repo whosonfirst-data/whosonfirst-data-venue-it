@@ -7,13 +7,16 @@
     "addr:postcode":"43038;43038",
     "addr:street":"Parma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.23097,44.725117,10.23097,44.725117",
     "geom:latitude":44.725117,
     "geom:longitude":10.23097,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"43038 Sala Baganza",
     "sg:city":"Sala Baganza",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_3bmNFh21kNaJKN4WuADLBg_44.725117_10.230970@1306269870"
     },
     "wof:country":"IT",
-    "wof:geomhash":"94af946486eb3c976a9cec53e2876469",
+    "wof:geomhash":"2d0b9d5eb50e722c723c1e4084d08b88",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":320497819,
-    "wof:lastmodified":1473901678,
+    "wof:lastmodified":1510944189,
     "wof:name":"Procomac (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320497869
+    ],
+    "wof:supersedes":[
+        219836245
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,7 +7,7 @@
     "addr:postcode":"47031",
     "addr:street":"",
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-07-14",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -46,12 +46,15 @@
         }
     ],
     "wof:id":236029647,
-    "wof:lastmodified":1500047023,
+    "wof:lastmodified":1510943733,
     "wof:name":"Music Store Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202766705,
+        1091681317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

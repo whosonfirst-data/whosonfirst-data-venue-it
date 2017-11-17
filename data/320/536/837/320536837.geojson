@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.020575,45.623604,9.020575,45.623604",
     "geom:latitude":45.623604,
     "geom:longitude":9.020575,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Novara 28 21047 Saronno",
     "sg:city":"Saronno",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_4jN3fEOEh4WuqSXuYOosIb_45.623604_9.020575@1306269870"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a340de9785998b239a0b0bf9711ce9e6",
+    "wof:geomhash":"524745881d0ed0e03bb022bbf571e97a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":320536837,
-    "wof:lastmodified":1473901692,
+    "wof:lastmodified":1510942524,
     "wof:name":"Incis Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091705171
+    ],
     "wof:tags":[]
 },
   "bbox": [

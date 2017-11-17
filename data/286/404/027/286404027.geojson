@@ -7,13 +7,16 @@
     "addr:postcode":"40057;40057",
     "addr:street":"Via Cadriano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.396729,44.543194,11.396729,44.543194",
     "geom:latitude":44.543194,
     "geom:longitude":11.396729,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Cadriano 2 40057 Granarolo Dell'emilia",
     "sg:classifiers":[
         {
@@ -43,7 +46,7 @@
         "sg:id":"SG_4RaVOnCpUnLfxsr5gLjiy8_44.543194_11.396729@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"480b7a374d60ff7bc3c28609b6cd7262",
+    "wof:geomhash":"1b04760efb31d05e4e0edcec0f15596d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":286404027,
-    "wof:lastmodified":1473900837,
+    "wof:lastmodified":1510944161,
     "wof:name":"C.a.m.p.i. Srl",
     "wof:parent_id":85904581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270510683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "processing",

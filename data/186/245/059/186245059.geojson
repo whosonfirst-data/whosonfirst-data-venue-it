@@ -7,13 +7,16 @@
     "addr:postcode":"27036;27036",
     "addr:street":"Via Gorizia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.738812,45.255947,8.738812,45.255947",
     "geom:latitude":45.255947,
     "geom:longitude":8.738812,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Gorizia, 44/46 27036 Mortara",
     "sg:city":"Mortara",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1VKbH5nakV7iqlWrmt4uKp_45.255947_8.738812@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"199ec367301dddddec5c91c162c6bb51",
+    "wof:geomhash":"8e19d39680f7b0cb952dbe164e65952e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":186245059,
-    "wof:lastmodified":1473900652,
+    "wof:lastmodified":1510943181,
     "wof:name":"Seal International S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091670077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tub",

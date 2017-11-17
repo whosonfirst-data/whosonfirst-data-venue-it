@@ -7,13 +7,16 @@
     "addr:postcode":"13898;13898",
     "addr:street":"Via Graglia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.996882,45.565216,7.996882,45.565216",
     "geom:latitude":45.565216,
     "geom:longitude":7.996882,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Graglia 89 13898 Occhieppo Superiore",
     "sg:city":"Occhieppo Superiore",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_0EU6fnEMl78H8KyzEwFsJ0_45.565216_7.996882@1306269853"
     },
     "wof:country":"IT",
-    "wof:geomhash":"889c7c7ace97402fa2ab66f362c156d3",
+    "wof:geomhash":"15c2746779c047e5a152159705ced14e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":287181121,
-    "wof:lastmodified":1473901135,
+    "wof:lastmodified":1510941491,
     "wof:name":"Maglificio Maggia - S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091641999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

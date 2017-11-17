@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.993048,43.672215,10.993048,43.672215",
     "geom:latitude":43.672215,
     "geom:longitude":10.993048,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"295, Via Orme 50025 Montespertoli",
     "sg:city":"Montespertoli",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_0OTKlZFSo45pIhzmarHlX0_43.672215_10.993048@1306269843"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e19b5e25b5bcd3d81c5207ad83f0a0ac",
+    "wof:geomhash":"d4a03b54561e773f7d7cfde77f49b3c1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":270529417,
-    "wof:lastmodified":1473901821,
+    "wof:lastmodified":1510941507,
     "wof:name":"Magis (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269659769
+    ],
     "wof:tags":[
         "chemical",
         "pharmaceutical"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1940841675,45.5470237732,9.1940841675,45.5470237732",
     "geom:latitude":45.547024,
     "geom:longitude":9.194084,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35, Via Giotto 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473883447,
-    "wof:geomhash":"28cb1361b5c4e96133e46bba4703d968",
+    "wof:geomhash":"2f63bcf77c816f7e30eaec26f9927b4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":1091773175,
-    "wof:lastmodified":1473900544,
+    "wof:lastmodified":1510943242,
     "wof:name":"M.af.imp.ex. Sas",
     "wof:parent_id":85862739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253578905
+    ],
     "wof:tags":[
         "equipment",
         "processing",

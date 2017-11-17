@@ -7,13 +7,16 @@
     "addr:postcode":"40057;40057",
     "addr:street":"Via Nuova",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.39115,44.549118,11.39115,44.549118",
     "geom:latitude":44.549118,
     "geom:longitude":11.39115,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"27, Via Nuova 40057 Granarolo Dell'emilia",
     "sg:classifiers":[
         {
@@ -40,7 +43,7 @@
         "sg:id":"SG_6fOKxeyD9A0aVP0hEZ48rD_44.549118_11.391150@1306269832"
     },
     "wof:country":"IT",
-    "wof:geomhash":"04eef75f16650bec0b47f2fbf3fc20d1",
+    "wof:geomhash":"4ac8bcd2382c0756c0f912066bace910",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":269487359,
-    "wof:lastmodified":1473900156,
+    "wof:lastmodified":1510942611,
     "wof:name":"Le Solim (s.r.l.)",
     "wof:parent_id":85904581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270254211
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"

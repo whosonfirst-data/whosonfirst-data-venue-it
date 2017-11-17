@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6699523926,45.6949043274,9.6699523926,45.6949043274",
     "geom:latitude":45.694904,
     "geom:longitude":9.669952,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Moroni Giovanni Battista 198 24127 Bergamo",
     "sg:city":"Bergamo",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879759,
-    "wof:geomhash":"a4a1d984255f463102cbbc3386c96d44",
+    "wof:geomhash":"3d50e87ce8bf740369d05a582c18de34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1091700705,
-    "wof:lastmodified":1473900205,
+    "wof:lastmodified":1510942071,
     "wof:name":"Masenghini Spa",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091639995
+    ],
     "wof:tags":[
         "playing",
         "card"

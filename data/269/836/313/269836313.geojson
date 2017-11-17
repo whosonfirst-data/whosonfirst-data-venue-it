@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.976956,44.636997,10.976956,44.636997",
     "geom:latitude":44.636997,
     "geom:longitude":10.976956,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33, Via Dell' Industria 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_75Z3bCCBu580tac7cQQvS0_44.636997_10.976956@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"81ffdea57250df8d2ac599ff47ff72fd",
+    "wof:geomhash":"2a47c620a982fc2fd63ae4b3309c234f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":269836313,
-    "wof:lastmodified":1473901438,
+    "wof:lastmodified":1510941457,
     "wof:name":"G.b. Ricambi (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269836307
+    ],
     "wof:tags":[
         "-",
         "agriculture",

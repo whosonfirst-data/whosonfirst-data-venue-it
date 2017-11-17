@@ -7,13 +7,16 @@
     "addr:postcode":"20020;20020",
     "addr:street":"Via Milano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1012039185,45.6294975281,9.1012039185,45.6294975281",
     "geom:latitude":45.629498,
     "geom:longitude":9.101204,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Milano 8 20020 Ceriano Laghetto",
     "sg:city":"Ceriano Laghetto",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"IT",
     "wof:created":1473877672,
-    "wof:geomhash":"7814584aff5d5ecdcf624c1e8671107a",
+    "wof:geomhash":"49734ce47135b2694fa818d554601cbe",
     "wof:hierarchy":[],
     "wof:id":1091651419,
-    "wof:lastmodified":1473900261,
+    "wof:lastmodified":1510941661,
     "wof:name":"Maggioni International Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091761715
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bed"

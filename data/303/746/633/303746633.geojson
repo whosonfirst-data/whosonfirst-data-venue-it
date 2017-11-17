@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.39892,45.462345,8.39892,45.462345",
     "geom:latitude":45.462345,
     "geom:longitude":8.39892,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10034 Chivasso",
     "sg:city":"Chivasso",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_41dQ4uGoC009NznLCTnsj3_45.462345_8.398920@1306269861"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e1c77d8ab8b9794f94ee6713d6cf9cb3",
+    "wof:geomhash":"36d491cc0ce1c0e85c0fd0647a45a699",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,16 @@
         }
     ],
     "wof:id":303746633,
-    "wof:lastmodified":1473901831,
+    "wof:lastmodified":1510942816,
     "wof:name":"Mobilificio Pepino Di Pipino Gianfranco & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303616293,
+        186611323
+    ],
     "wof:tags":[]
 },
   "bbox": [

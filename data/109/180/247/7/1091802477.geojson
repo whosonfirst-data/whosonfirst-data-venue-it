@@ -7,13 +7,16 @@
     "addr:postcode":"20050",
     "addr:street":"Veduggio Con Colzano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2711410522,45.7334022522,9.2711410522,45.7334022522",
     "geom:latitude":45.733402,
     "geom:longitude":9.271141,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20050 Veduggio Con Colzano",
     "sg:city":"Veduggio con Colzano",
     "sg:classifiers":[],
@@ -31,16 +34,21 @@
     },
     "wof:country":"IT",
     "wof:created":1473884752,
-    "wof:geomhash":"188c5c0be1189452b77f2acff034a608",
+    "wof:geomhash":"2d71d92dcd6f11c21233b940c56aeaf8",
     "wof:hierarchy":[],
     "wof:id":1091802477,
-    "wof:lastmodified":1473900118,
+    "wof:lastmodified":1510943792,
     "wof:name":"Dgts Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320514987
+    ],
+    "wof:supersedes":[
+        303535763,
+        219888985
+    ],
     "wof:tags":[]
 },
   "bbox": [

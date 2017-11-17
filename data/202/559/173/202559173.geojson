@@ -7,7 +7,7 @@
     "addr:postcode":"47031",
     "addr:street":"Rn",
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-07-14",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -45,13 +45,19 @@
         }
     ],
     "wof:id":202559173,
-    "wof:lastmodified":1500047086,
+    "wof:lastmodified":1510941653,
     "wof:name":"I.s.a. Grid S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320598129
+    ],
+    "wof:supersedes":[
+        1091793157,
+        236114635,
+        1091755401
+    ],
     "wof:tags":[]
 },
   "bbox": [

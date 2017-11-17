@@ -7,13 +7,16 @@
     "addr:postcode":"10040",
     "addr:street":"Leini ' Torino",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.721618,45.159462,7.721618,45.159462",
     "geom:latitude":45.159462,
     "geom:longitude":7.721618,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10040 Leini'",
     "sg:classifiers":[],
     "sg:orig_category":"Lavorazioni Metalli, Stampaggio E Saldatura",
@@ -32,7 +35,7 @@
         "sg:id":"SG_7ByS4b8paJ3RpEeSUHYilY_45.159462_7.721618@1306269831"
     },
     "wof:country":"IT",
-    "wof:geomhash":"80252fd1245d44903b9446b67d809540",
+    "wof:geomhash":"540e87f38fd703b23f2dd1514ae3bc3b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +47,19 @@
         }
     ],
     "wof:id":253672943,
-    "wof:lastmodified":1473901650,
+    "wof:lastmodified":1510943488,
     "wof:name":"A.t.l.a. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320780431
+    ],
+    "wof:supersedes":[
+        1091640675,
+        1091655473,
+        1091651667
+    ],
     "wof:tags":[]
 },
   "bbox": [

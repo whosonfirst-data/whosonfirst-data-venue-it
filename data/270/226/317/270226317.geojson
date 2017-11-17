@@ -7,13 +7,16 @@
     "addr:postcode":"10099;10099",
     "addr:street":"Cso",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.750679,45.120529,7.750679,45.120529",
     "geom:latitude":45.120529,
     "geom:longitude":7.750679,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Cso Piemonte 56 10099 San Mauro Torinese",
     "sg:city":"San Mauro Torinese",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_10CisHiEV5Mn4xXeNoInc8_45.120529_7.750679@1306269840"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ca5ff4b2da94f5e2e08160333a96fc1c",
+    "wof:geomhash":"c55a8c56373497f0f2931fa45c0012ea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":270226317,
-    "wof:lastmodified":1473901281,
+    "wof:lastmodified":1510943214,
     "wof:name":"Daniele Srl",
     "wof:parent_id":85862785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091760031
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter's",

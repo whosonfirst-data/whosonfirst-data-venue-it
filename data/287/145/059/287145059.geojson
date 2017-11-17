@@ -7,13 +7,16 @@
     "addr:postcode":"10040",
     "addr:street":"Leini ' Lombardore",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.731494,45.224285,7.731494,45.224285",
     "geom:latitude":45.224285,
     "geom:longitude":7.731494,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10040 Leini'",
     "sg:city":"Lombardore",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_4CdC74t5bYXGSHLNs4Nqaa_45.224285_7.731494@1306269853"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7280c8b1b75e5207caf53cc58dc3e706",
+    "wof:geomhash":"00c1d13693a869eadde00540ebea6828",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":287145059,
-    "wof:lastmodified":1473900932,
+    "wof:lastmodified":1510943156,
     "wof:name":"Galvanica Bertola Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286745755
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

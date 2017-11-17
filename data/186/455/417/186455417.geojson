@@ -7,13 +7,16 @@
     "addr:postcode":"25050;25050",
     "addr:street":"Via Marrocco",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.093163,45.594494,10.093163,45.594494",
     "geom:latitude":45.594494,
     "geom:longitude":10.093163,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Marrocco 12 25050 Rodengo Saiano",
     "sg:classifiers":[
         {
@@ -41,7 +44,7 @@
         "sg:id":"SG_0a9LoCm4xF87IrcrYxVOJ4_45.594494_10.093163@1306269796"
     },
     "wof:country":"IT",
-    "wof:geomhash":"bf62f2b4c1a78e7d94ffe1fc491c3e51",
+    "wof:geomhash":"3d903d9cd3530b884566ff0511dcfac0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":186455417,
-    "wof:lastmodified":1473901328,
+    "wof:lastmodified":1510942991,
     "wof:name":"Pilotti Felice Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091762959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "brass"

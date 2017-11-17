@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.229879,45.486393,9.229879,45.486393",
     "geom:latitude":45.486393,
     "geom:longitude":9.229879,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Teodosio 57 20131 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_13GpkdeAXZkbYgnpoMqDbA_45.486393_9.229879@1306269799"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f56a96b7241c13326ae397ee9c1f58e0",
+    "wof:geomhash":"9a4974d32ccf020e8d1a2f6499f62402",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":202506245,
-    "wof:lastmodified":1473900116,
+    "wof:lastmodified":1510943061,
     "wof:name":"La Politecnica Srl",
     "wof:parent_id":85862713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091697313
+    ],
     "wof:tags":[
         "semi-finished",
         "product"

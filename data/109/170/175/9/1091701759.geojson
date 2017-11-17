@@ -7,13 +7,16 @@
     "addr:postcode":"20090;20090",
     "addr:street":"Trezzano Naviglio Milano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.061047554,45.4193572998,9.061047554,45.4193572998",
     "geom:latitude":45.419357,
     "geom:longitude":9.061048,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20090 Trezzano Naviglio",
     "sg:classifiers":[],
     "sg:orig_category":"Pompe Per Vuoto",
@@ -38,7 +41,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879801,
-    "wof:geomhash":"f9715b9df35338254f0e322800af191a",
+    "wof:geomhash":"cacf7290c52bac852e782aa4ff2c099d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1091701759,
-    "wof:lastmodified":1473900340,
+    "wof:lastmodified":1510942873,
     "wof:name":"Boc Edwards Spa",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091701855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

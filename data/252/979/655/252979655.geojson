@@ -7,13 +7,16 @@
     "addr:postcode":"20123;20123",
     "addr:street":"Via Baracchini Flavio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.191071,45.461388,9.191071,45.461388",
     "geom:latitude":45.461388,
     "geom:longitude":9.191071,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9, Via Baracchini Flavio 20123 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0SK2zSrRcSfSsFDWzko2Ab_45.461388_9.191071@1306269825"
     },
     "wof:country":"IT",
-    "wof:geomhash":"48b1aeaf599af820f781d41443782e4b",
+    "wof:geomhash":"18337a4bc6acfddd977835c7a5f52d4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":252979655,
-    "wof:lastmodified":1473901266,
+    "wof:lastmodified":1510942106,
     "wof:name":"Diagonal (s.r.l.)",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091754907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jewellery"

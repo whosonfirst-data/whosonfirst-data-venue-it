@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1499347687,45.4529418945,9.1499347687,45.4529418945",
     "geom:latitude":45.452942,
     "geom:longitude":9.149935,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473814327,
-    "wof:geomhash":"f08e985aece01a7fe05b513c25c65ef2",
+    "wof:geomhash":"09d4ebb5e28962ee25d3bd9dafae5801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +56,21 @@
         }
     ],
     "wof:id":1091643279,
-    "wof:lastmodified":1473900390,
+    "wof:lastmodified":1510944080,
     "wof:name":"Dmr Elettromeccanica Srl",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320245649,
+        303830179,
+        236955865,
+        1091746477
+    ],
+    "wof:supersedes":[
+        270337477,
+        219223001
+    ],
     "wof:tags":[]
 },
   "bbox": [

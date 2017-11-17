@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.840130806,45.6936035156,9.840130806,45.6936035156",
     "geom:latitude":45.693604,
     "geom:longitude":9.840131,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13, Via Abbadia 24069 Trescore Balneario",
     "sg:city":"Trescore Balneario",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473880034,
-    "wof:geomhash":"af02a8e71645199487a4fa139c045bdc",
+    "wof:geomhash":"4eb70dd0749c2dc8a90554e029335fb4",
     "wof:hierarchy":[],
     "wof:id":1091707235,
-    "wof:lastmodified":1473900890,
+    "wof:lastmodified":1510941404,
     "wof:name":"Editrice San Marco (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186630045
+    ],
     "wof:tags":[
         "publishing"
     ]

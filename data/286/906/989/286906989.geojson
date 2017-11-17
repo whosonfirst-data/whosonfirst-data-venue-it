@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.246067,45.400101,9.246067,45.400101",
     "geom:latitude":45.400101,
     "geom:longitude":9.246067,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
         "sg:id":"SG_2tqwLINrOCWfgs4YPoy6DN_45.400101_9.246067@1306269850"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a7b963107f1eff08a6cd787fd401bce1",
+    "wof:geomhash":"51642882258747d1b13e99187e7c3319",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,13 +49,17 @@
         }
     ],
     "wof:id":286906989,
-    "wof:lastmodified":1473901983,
+    "wof:lastmodified":1510942756,
     "wof:name":"M.i.t.a. Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286906981,
+        320051461,
+        236003349
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"50026",
     "addr:street":"San Casciano Val Di Pesa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.184389,43.642094,11.184389,43.642094",
     "geom:latitude":43.642094,
     "geom:longitude":11.184389,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"50026 San Casciano Val Di Pesa",
     "sg:classifiers":[],
     "sg:orig_category":"Macchine, Impianti Ed Attrezzature Industria Chimica",
@@ -31,7 +34,7 @@
         "sg:id":"SG_60N2Ew5ChX7SPYPO8GyvzS_43.642094_11.184389@1306269868"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b4265de42eaad40bfd91c353a7c857d4",
+    "wof:geomhash":"bd26e6ed97ae7143ca27f809e07484bf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,24 @@
         }
     ],
     "wof:id":320286853,
-    "wof:lastmodified":1473901553,
+    "wof:lastmodified":1510943556,
     "wof:name":"Giani & Grazzi Meccanica Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        270495791,
+        320358975
+    ],
+    "wof:supersedes":[
+        269687001,
+        336865481,
+        270263671,
+        219367597,
+        219333135,
+        319935347,
+        286631569
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"10029",
     "addr:street":"Villastellone Villastellone",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.71664,44.950481,7.71664,44.950481",
     "geom:latitude":44.950481,
     "geom:longitude":7.71664,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10029 Villastellone",
     "sg:city":"Villastellone",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3kVrzLjU5VdqmrVVNBJiOr_44.950481_7.716640@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e52cdd6b898c9000216ace7a5e269649",
+    "wof:geomhash":"fb5c59fef1ad9013e869acc9e57752c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +59,21 @@
         }
     ],
     "wof:id":236452375,
-    "wof:lastmodified":1473901480,
+    "wof:lastmodified":1510942703,
     "wof:name":"Ag Srl",
     "wof:parent_id":85862789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        336862279,
+        286856935
+    ],
+    "wof:supersedes":[
+        253008755,
+        1091672395,
+        219579465,
+        1091672659
+    ],
     "wof:tags":[
         "equipment",
         "heat",

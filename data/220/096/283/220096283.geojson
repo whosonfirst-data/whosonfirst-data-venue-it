@@ -7,13 +7,16 @@
     "addr:postcode":"41100;41100",
     "addr:street":"Via Emilia Ovest",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.879765,44.656029,10.879765,44.656029",
     "geom:latitude":44.656029,
     "geom:longitude":10.879765,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"910, Via Emilia Ovest 41100 Modena",
     "sg:city":"Modena",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_2wqAtS1Z8QdUDL5ZR05q9J_44.656029_10.879765@1306269813"
     },
     "wof:country":"IT",
-    "wof:geomhash":"83bfa5c0551b57fc6b9ab3b72f319588",
+    "wof:geomhash":"f0287a173b49dbf7cd3db3e33c13d210",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220096283,
-    "wof:lastmodified":1473900511,
+    "wof:lastmodified":1510941477,
     "wof:name":"Erma-rtmo S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269826509
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"

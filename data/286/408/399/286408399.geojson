@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.291302,45.397369,9.291302,45.397369",
     "geom:latitude":45.397369,
     "geom:longitude":9.291302,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_11YONFmoC6KxX0b5uoxk2w_45.397369_9.291302@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f8ff5eedf060d63d3962507e98bc5582",
+    "wof:geomhash":"514f3851e54436a9f83627184cbe09f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +59,22 @@
         }
     ],
     "wof:id":286408399,
-    "wof:lastmodified":1473900848,
+    "wof:lastmodified":1510943721,
     "wof:name":"Piro Gas Srl",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303676791,
+        1091797179,
+        236529015,
+        1091800691,
+        219535261
+    ],
+    "wof:supersedes":[
+        253161741,
+        303109091
+    ],
     "wof:tags":[
         "control",
         "equipment",

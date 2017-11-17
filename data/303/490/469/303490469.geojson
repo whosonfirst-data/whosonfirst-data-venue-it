@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.443265,45.614437,9.443265,45.614437",
     "geom:latitude":45.614437,
     "geom:longitude":9.443265,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20040 Bellusco",
     "sg:city":"Bellusco",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_6dYhrAdf1rl8bUmL5ILFgm_45.614437_9.443265@1306269859"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7f683a94863479dd4fa42effafd43281",
+    "wof:geomhash":"4b10bd143bff0ecae640f7bae3f53423",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":303490469,
-    "wof:lastmodified":1473901629,
+    "wof:lastmodified":1510942800,
     "wof:name":"Alfa Gomma S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303490447
+    ],
     "wof:tags":[]
 },
   "bbox": [

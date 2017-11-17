@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.793826,45.064953,11.793826,45.064953",
     "geom:latitude":45.064953,
     "geom:longitude":11.793826,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Cso Del Popolo 261 45100 Rovigo",
     "sg:city":"Rovigo",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6u0LyH8wn3ALwz8rL6Hf2L_45.064953_11.793826@1306269842"
     },
     "wof:country":"IT",
-    "wof:geomhash":"bf321e2296b634cd25a6e88ea5750977",
+    "wof:geomhash":"62a9339304bde3fc9fa80390fbce006c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":270470173,
-    "wof:lastmodified":1473901842,
+    "wof:lastmodified":1510942258,
     "wof:name":"Grandi Molini Italiani Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269869731
+    ],
     "wof:tags":[
         "product",
         "cereal"

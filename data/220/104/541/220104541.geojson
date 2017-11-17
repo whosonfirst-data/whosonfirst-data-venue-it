@@ -7,13 +7,16 @@
     "addr:postcode":"20010;20010",
     "addr:street":"V. Dei Rovedi;Milanese",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.01643,45.516003,9.01643,45.516003",
     "geom:latitude":45.516003,
     "geom:longitude":9.01643,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"26, V. Dei Rovedi 20010 Pregnana Milanese",
     "sg:city":"Pregnana Milanese",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5SVEiV5AJW8oi7iGy5AcNV_45.516003_9.016430@1306269813"
     },
     "wof:country":"IT",
-    "wof:geomhash":"fa63585a649da12dc3d8ab416b84059e",
+    "wof:geomhash":"63ab0a57371a900f22e3d12600b9cd94",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":220104541,
-    "wof:lastmodified":1473900516,
+    "wof:lastmodified":1510942419,
     "wof:name":"Ricambiflex G.m. Srl",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219541657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"

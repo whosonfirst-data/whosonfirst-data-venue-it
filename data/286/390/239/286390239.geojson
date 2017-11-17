@@ -7,7 +7,7 @@
     "addr:postcode":"47031",
     "addr:street":"Marino",
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-07-14",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -46,12 +46,15 @@
         }
     ],
     "wof:id":286390239,
-    "wof:lastmodified":1500046812,
+    "wof:lastmodified":1510942185,
     "wof:name":"Studio Ag S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091745569,
+        220191383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

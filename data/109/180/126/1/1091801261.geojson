@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2977275848,45.392414093,9.2977275848,45.392414093",
     "geom:latitude":45.392414,
     "geom:longitude":9.297728,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473884699,
-    "wof:geomhash":"fbb9e7ae5e6c5449f20600d93d341bf1",
+    "wof:geomhash":"fd8b1fd19e89ab66ba84ca7c460c3825",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -55,13 +58,22 @@
         }
     ],
     "wof:id":1091801261,
-    "wof:lastmodified":1473900125,
+    "wof:lastmodified":1510944015,
     "wof:name":"Industrialvetro Bagno Srl",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303717427,
+        303667233,
+        1091801425,
+        1091799683,
+        1091799751,
+        203111311
+    ],
+    "wof:supersedes":[
+        219223871
+    ],
     "wof:tags":[
         "wood",
         "industry",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.267924,45.481659,9.267924,45.481659",
     "geom:latitude":45.481659,
     "geom:longitude":9.267924,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Reggio Emilia 17 20090 Segrate",
     "sg:city":"Segrate",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_0KNPj2fU62vTyZ8VWKSlVs_45.481659_9.267924@1306269854"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4cf6ff1c0ee2c2b9c9c271501065c960",
+    "wof:geomhash":"bc53f151ccdd9d4b7ab8c9314e0a778b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":287255363,
-    "wof:lastmodified":1473901397,
+    "wof:lastmodified":1510941504,
     "wof:name":"Tre C Srl",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        287250575
+    ],
     "wof:tags":[
         "heater",
         "industrial",

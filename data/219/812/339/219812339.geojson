@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.221351,45.473793,9.221351,45.473793",
     "geom:latitude":45.473793,
     "geom:longitude":9.221351,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Vanvitelli Luigi 44 20129 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
         "sg:id":"SG_2ZZSWPMvXtGWF3wNF3QJQ6_45.473793_9.221351@1306269810"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c43fde3b1b04b62201dd5d57661ca6f2",
+    "wof:geomhash":"64313aba5454b582a2b6710ff510bb46",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":219812339,
-    "wof:lastmodified":1473901774,
+    "wof:lastmodified":1510942898,
     "wof:name":"Bancor Srl",
     "wof:parent_id":85796877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        220154291
+    ],
     "wof:tags":[]
 },
   "bbox": [

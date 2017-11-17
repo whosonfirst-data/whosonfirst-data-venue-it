@@ -7,13 +7,16 @@
     "addr:postcode":"90135;90135",
     "addr:street":"Via Eugenio L'Emiro",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.34169,38.115002,13.34169,38.115002",
     "geom:latitude":38.115002,
     "geom:longitude":13.34169,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Eugenio L'emiro 22 90135 Palermo",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2tjLggWVuOEbdRfQqObjnB_38.115002_13.341690@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2fd35822c88aaca9a5c2a423c5e85900",
+    "wof:geomhash":"1c251df169fd5bb35a0e86fb62e36d66",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":219240689,
-    "wof:lastmodified":1473900543,
+    "wof:lastmodified":1510943332,
     "wof:name":"Zagy's Srl",
     "wof:parent_id":85904875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286603441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shirt"

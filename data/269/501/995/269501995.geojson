@@ -7,13 +7,16 @@
     "addr:postcode":"40057;40057",
     "addr:street":"Via Badini",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.415637,44.532841,11.415637,44.532841",
     "geom:latitude":44.532841,
     "geom:longitude":11.415637,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9, Via Badini 40057 Granarolo Dell'emilia",
     "sg:classifiers":[
         {
@@ -41,7 +44,7 @@
         "sg:id":"SG_2EI0x9pcmWEvA9WNxL6F6D_44.532841_11.415637@1306269833"
     },
     "wof:country":"IT",
-    "wof:geomhash":"46cf614a1cca5cb41a441c15c1aefa12",
+    "wof:geomhash":"43b4ba89ed181fafe943cecb57b1a374",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":269501995,
-    "wof:lastmodified":1473900213,
+    "wof:lastmodified":1510943859,
     "wof:name":"Tecnosuola (s.r.l.)",
     "wof:parent_id":85904583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219279181
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"

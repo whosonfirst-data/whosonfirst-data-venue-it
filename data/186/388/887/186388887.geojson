@@ -7,13 +7,16 @@
     "addr:postcode":"20162;20162",
     "addr:street":"Piazza Martelli Franco",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.203226,45.482468,9.203226,45.482468",
     "geom:latitude":45.482468,
     "geom:longitude":9.203226,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Piazza Martelli Franco 5 20162 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_0aoLLHKV7l7ftOLcYPG33B_45.482468_9.203226@1306269795"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5249afca0773819e4a86d8ad8708be9f",
+    "wof:geomhash":"6c7e1dafc45636e4da6aa41f57bafe4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":186388887,
-    "wof:lastmodified":1473901139,
+    "wof:lastmodified":1510942979,
     "wof:name":"R. Wagner & C. Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091660263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

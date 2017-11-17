@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3290557861,44.7981109619,10.3290557861,44.7981109619",
     "geom:latitude":44.798111,
     "geom:longitude":10.329056,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Strada Ugozzolo 100/a 43100 Parma",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473879003,
-    "wof:geomhash":"35c5353d2f969313ba5387b3dc971850",
+    "wof:geomhash":"a0f9f64d5025be9b0a3a702f4a964483",
     "wof:hierarchy":[],
     "wof:id":1091682345,
-    "wof:lastmodified":1473900444,
+    "wof:lastmodified":1510943602,
     "wof:name":"Faba Sirma Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091681693
+    ],
     "wof:tags":[
         "packaging",
         "industry"

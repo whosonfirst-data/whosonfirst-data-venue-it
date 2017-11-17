@@ -7,13 +7,16 @@
     "addr:postcode":"59100;59100",
     "addr:street":"Via Roubaix",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.072249,43.879433,11.072249,43.879433",
     "geom:latitude":43.879433,
     "geom:longitude":11.072249,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Roubaix 11 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4aitmWnGoatPFmel7dGXRz_43.879433_11.072249@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"694305c98f4d455316e6756a5a8247a1",
+    "wof:geomhash":"0a41e0748905cf2aef85df39228fc132",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":219293845,
-    "wof:lastmodified":1473900762,
+    "wof:lastmodified":1510942788,
     "wof:name":"Pieragnoli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236926103
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fork",

@@ -7,13 +7,16 @@
     "addr:postcode":"23861;brianza;23861",
     "addr:street":"Via Carlo Porta",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.307031,45.815762,9.307031,45.815762",
     "geom:latitude":45.815762,
     "geom:longitude":9.307031,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Carlo Porta 1 23861 Cesana Brianza",
     "sg:city":"Cesana Brianza",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_10U6Wnxcn5DD7TlZOGLCCI_45.815762_9.307031@1306269839"
     },
     "wof:country":"IT",
-    "wof:geomhash":"21cf67bea1f783934ca87083d5873720",
+    "wof:geomhash":"88557336bda0bf39b30b402530c5be36",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":270176541,
-    "wof:lastmodified":1473901045,
+    "wof:lastmodified":1510943375,
     "wof:name":"Evasi E Castelnuovo Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091652783
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bolts",

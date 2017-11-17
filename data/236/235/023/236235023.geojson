@@ -7,6 +7,7 @@
     "addr:postcode":"00198;00198",
     "addr:street":"Via Tevere",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":12.496715,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Tevere 44 00198 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_42sSOJYPydNbXrdn9OCdpU_41.912403_12.496715@1306269816"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9814fa60be585e603c9ca652322f7d7c",
+    "wof:geomhash":"3401914518942821e88169d559ab1707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":236235023,
-    "wof:lastmodified":1491899532,
+    "wof:lastmodified":1510942692,
     "wof:name":"Nautica Editrice Srl",
     "wof:parent_id":85904945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091707973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper",

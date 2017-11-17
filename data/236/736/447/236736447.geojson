@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.851415,44.73291,8.851415,44.73291",
     "geom:latitude":44.73291,
     "geom:longitude":8.851415,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Gambarato 32 15069 Serravalle Scrivia",
     "sg:city":"Serravalle Scrivia",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_1A9DWMde9oOOtNW0YjdX7L_44.732910_8.851415@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1da7d6a51e8ca285878ef4a55dbdd6d2",
+    "wof:geomhash":"dc00f8c52905e1d58c0e284e45382c7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":236736447,
-    "wof:lastmodified":1473901902,
+    "wof:lastmodified":1510943321,
     "wof:name":"D'amore & Lunardi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091659583
+    ],
     "wof:tags":[
         "water",
         "pipe"

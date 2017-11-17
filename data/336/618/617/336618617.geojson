@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.014764,44.33493,11.014764,44.33493",
     "geom:latitude":44.33493,
     "geom:longitude":11.014764,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1991, Via Porrettana 41059 Zocca",
     "sg:city":"Zocca",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_7fXUeeEfwoYZSR76nFNwyk_44.334930_11.014764@1306269874"
     },
     "wof:country":"IT",
-    "wof:geomhash":"bb678e5f00e3840aa84856b12faa23be",
+    "wof:geomhash":"952977e53d7bfb3218ed0b360b62d67c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":336618617,
-    "wof:lastmodified":1473900088,
+    "wof:lastmodified":1510944122,
     "wof:name":"C.f.m. (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        220089929
+    ],
     "wof:tags":[
         "machine",
         "-",

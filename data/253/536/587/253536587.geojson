@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.186145,43.538624,12.186145,43.538624",
     "geom:latitude":43.538624,
     "geom:longitude":12.186145,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"06016 San Giustino",
     "sg:city":"San Giustino",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_5o6sApH7FB9mzPFCfEiJQ6_43.538624_12.186145@1306269830"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1420d8d282c35fa6860cd4fa011b515f",
+    "wof:geomhash":"7fec8982234b5c93d25eceec86cc9e9d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":253536587,
-    "wof:lastmodified":1473901475,
+    "wof:lastmodified":1510943699,
     "wof:name":"C.a.s. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        219387811
+    ],
     "wof:tags":[]
 },
   "bbox": [

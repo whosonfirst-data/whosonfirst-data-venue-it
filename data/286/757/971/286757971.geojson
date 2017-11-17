@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.418681,44.477051,11.418681,44.477051",
     "geom:latitude":44.477051,
     "geom:longitude":11.418681,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_4tH13PgKHqXtoZft62ytVL_44.477051_11.418681@1306269849"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ce0a53d6cac85ac37cbaea90aaa9572f",
+    "wof:geomhash":"308021ea44117da61a64e78c43c9a3b2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":286757971,
-    "wof:lastmodified":1473901672,
+    "wof:lastmodified":1510941371,
     "wof:name":"Ntn Walzlager (europa) Gmbh - Filiale Di Bologna",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091678081
+    ],
     "wof:tags":[]
 },
   "bbox": [

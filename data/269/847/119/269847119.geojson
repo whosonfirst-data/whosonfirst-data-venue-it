@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.304222,44.570877,11.304222,44.570877",
     "geom:latitude":44.570877,
     "geom:longitude":11.304222,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4, Via Verde 40012 Calderara Di Reno",
     "sg:city":"Calderara di Reno",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5jcCsGilcZkSfaONQv6V1k_44.570877_11.304222@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4a913ab58d811e4a704f8f0b4b14650d",
+    "wof:geomhash":"6b655138bb252e4c25d659915133b9cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":269847119,
-    "wof:lastmodified":1473901431,
+    "wof:lastmodified":1510941767,
     "wof:name":"Tecnoa (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269822881
+    ],
     "wof:tags":[
         "-",
         "agriculture",

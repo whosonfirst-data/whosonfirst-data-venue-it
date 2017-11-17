@@ -7,13 +7,16 @@
     "addr:postcode":"10099",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.769555,45.105637,7.769555,45.105637",
     "geom:latitude":45.105637,
     "geom:longitude":7.769555,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10099 San Mauro Torinese",
     "sg:city":"San Mauro Torinese",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_2JrwH3mE21mnMHEBckKxpm_45.105637_7.769555@1306269860"
     },
     "wof:country":"IT",
-    "wof:geomhash":"adca9215e0e14ef0a07cd6aefa89db2f",
+    "wof:geomhash":"43bd41e3fb51d91a5888575447a0de4e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":303535483,
-    "wof:lastmodified":1473901760,
+    "wof:lastmodified":1510942292,
     "wof:name":"Elleti Snc Di Luberto G. & C.",
     "wof:parent_id":85796809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091725771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

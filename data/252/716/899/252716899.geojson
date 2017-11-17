@@ -7,13 +7,16 @@
     "addr:postcode":"70051;70051",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.069635,41.304806,16.069635,41.304806",
     "geom:latitude":41.304806,
     "geom:longitude":16.069635,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"70051 Barletta",
     "sg:city":"Barletta",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_1EdyspiJJtUV87V9ezBwm6_41.304806_16.069635@1306269823"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9c8234cdee875062f4c821b71ccd7ae2",
+    "wof:geomhash":"506d353c5ca419d521067c67a391604d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":252716899,
-    "wof:lastmodified":1473900170,
+    "wof:lastmodified":1510943127,
     "wof:name":"Rutigliano Anna Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252758269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

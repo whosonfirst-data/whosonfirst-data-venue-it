@@ -7,6 +7,7 @@
     "addr:postcode":"16147;16147",
     "addr:street":"Via Isonzo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":8.981097,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6, Via Isonzo 16147 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_3jkhBboPHfWzGOJ53FGut4_44.398121_8.981097@1306269843"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5c64dcc753349e59391d29cd0ae19890",
+    "wof:geomhash":"9e7bc3aaafc84999e8ba363dd8a4fd25",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -71,12 +73,14 @@
         }
     ],
     "wof:id":286291259,
-    "wof:lastmodified":1491918820,
+    "wof:lastmodified":1510942065,
     "wof:name":"Bruschettini S.r.l.",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091692739
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

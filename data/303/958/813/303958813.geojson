@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.88229,44.697895,7.88229,44.697895",
     "geom:latitude":44.697895,
     "geom:longitude":7.88229,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12066 Monticello D'alba",
     "sg:classifiers":[],
     "sg:orig_category":"Articoli Pulizia. Carta, Cartone E Prodotti Primari. Prodotti Cosmetici E Da Toeletta",
@@ -31,7 +33,7 @@
         "sg:id":"SG_6wpdrk6zcILlUrGmTVHK21_44.697895_7.882290@1306269863"
     },
     "wof:country":"IT",
-    "wof:geomhash":"cedf4e6de1fd00ca7e6790433ef1b6de",
+    "wof:geomhash":"2e166b3112a48542bb0df9d26a25b9e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +45,17 @@
         }
     ],
     "wof:id":303958813,
-    "wof:lastmodified":1473901965,
+    "wof:lastmodified":1510941285,
     "wof:name":"Bogliano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270276643,
+        1091720497,
+        320065483
+    ],
     "wof:tags":[]
 },
   "bbox": [

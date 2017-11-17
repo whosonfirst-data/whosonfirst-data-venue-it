@@ -7,13 +7,16 @@
     "addr:postcode":"10024;10024",
     "addr:street":"Via Curiel",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.669978,44.990913,7.669978,44.990913",
     "geom:latitude":44.990913,
     "geom:longitude":7.669978,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11, Via Curiel 10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5Nvbu4iCADV3dtpLRYD9Kc_44.990913_7.669978@1306269813"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ae5757e4ae5da470d5d54a0e1833fcaa",
+    "wof:geomhash":"aa3d878a074ee4533c8938b0c63ebaa3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220095851,
-    "wof:lastmodified":1473900521,
+    "wof:lastmodified":1510941717,
     "wof:name":"Errevi S.p.a.",
     "wof:parent_id":85797007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219292649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"

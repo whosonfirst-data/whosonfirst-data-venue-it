@@ -7,13 +7,16 @@
     "addr:postcode":"37057;37057",
     "addr:street":"Via Xxiv Maggio;Verona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.991748,45.438366,10.991748,45.438366",
     "geom:latitude":45.438366,
     "geom:longitude":10.991748,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"66, Via Xxiv Maggio 37057 San Giovanni Lupatoto",
     "sg:city":"San Giovanni Lupatoto",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_43IjIidzOgEMCJuO1JUpNd_45.438366_10.991748@1306269855"
     },
     "wof:country":"IT",
-    "wof:geomhash":"42c05bfe292031fe388dbf79e499cacb",
+    "wof:geomhash":"eb9cb68a15930e74b4678a70488a5a9d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":303054365,
-    "wof:lastmodified":1473900228,
+    "wof:lastmodified":1510943927,
     "wof:name":"Idropi (s.p.a.)",
     "wof:parent_id":85905047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091767189
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

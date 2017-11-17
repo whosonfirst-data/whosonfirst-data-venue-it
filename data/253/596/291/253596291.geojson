@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.929424,45.778328,11.929424,45.778328",
     "geom:latitude":45.778328,
     "geom:longitude":11.929424,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Frattalunga 12 31011 Asolo",
     "sg:city":"Asolo",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_7ej5EyZsjKZKRyjwNZTpa8_45.778328_11.929424@1306269831"
     },
     "wof:country":"IT",
-    "wof:geomhash":"669f8d24922db742027c160c4d95581d",
+    "wof:geomhash":"dd1b5b31217d8a8d94263249495003b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":253596291,
-    "wof:lastmodified":1473901521,
+    "wof:lastmodified":1510941877,
     "wof:name":"Calzaturificio Dal Bello Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269516933
+    ],
     "wof:tags":[]
 },
   "bbox": [

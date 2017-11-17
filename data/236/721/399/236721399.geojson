@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.222958,45.539829,10.222958,45.539829",
     "geom:latitude":45.539829,
     "geom:longitude":10.222958,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7/bis, Via Due Giugno 25060 Marcheno",
     "sg:city":"Marcheno",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2wG21kDjAFr20WNKrZuGiE_45.539829_10.222958@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"71bdcdf20cf25b1f42ce2ab3b1382706",
+    "wof:geomhash":"0f83cd1c39981682f54b59198f780e1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":236721399,
-    "wof:lastmodified":1473901878,
+    "wof:lastmodified":1510942221,
     "wof:name":"Rizzini S.r.l.",
     "wof:parent_id":85900503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236681603
+    ],
     "wof:tags":[
         "game"
     ]

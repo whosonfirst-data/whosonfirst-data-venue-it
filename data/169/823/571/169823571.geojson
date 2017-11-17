@@ -7,13 +7,16 @@
     "addr:postcode":"80059;80059",
     "addr:street":"Via Comizi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.367095,40.786438,14.367095,40.786438",
     "geom:latitude":40.786438,
     "geom:longitude":14.367095,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9, Via Comizi 80059 Torre Del Greco",
     "sg:city":"Torre del Greco",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_19GHoodHraC6LARBiGjebQ_40.786438_14.367095@1306269789"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d3e5b6072313c8c75249f15ded5eb427",
+    "wof:geomhash":"f73d606eef990331399213aed26a6736",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":169823571,
-    "wof:lastmodified":1473900313,
+    "wof:lastmodified":1510943039,
     "wof:name":"Istituto Di Vigilanza La Fedelissima (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091803595
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

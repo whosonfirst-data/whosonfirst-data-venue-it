@@ -7,13 +7,16 @@
     "addr:postcode":"13867;13867",
     "addr:street":"Via Molino",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.197371,45.674908,8.197371,45.674908",
     "geom:latitude":45.674908,
     "geom:longitude":8.197371,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Molino 40 13867 Pray Biellese",
     "sg:city":"Pray",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3EFX4GmBxq0VhLCvrdOg2S_45.674908_8.197371@1306269826"
     },
     "wof:country":"IT",
-    "wof:geomhash":"58418ae7d268d2cb3a61d5942db4fe3e",
+    "wof:geomhash":"4ec59a41854aa8613e23be1f3603c989",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":253101925,
-    "wof:lastmodified":1473900625,
+    "wof:lastmodified":1510943090,
     "wof:name":"Zonco Federico & Figlio Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336809533
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "textile",

@@ -7,13 +7,16 @@
     "addr:postcode":"24048;24048",
     "addr:street":"Via Gandhi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.632996,45.679581,9.632996,45.679581",
     "geom:latitude":45.679581,
     "geom:longitude":9.632996,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Gandhi 4 24048 Treviolo",
     "sg:city":"Treviolo",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_0vqkX8cAlSieNupglk5iBT_45.679581_9.632996@1306269815"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a04ceabbaffee4990a37b08260e72805",
+    "wof:geomhash":"9e41303c54c29fed9ac7e5a9f4a41129",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":236125491,
-    "wof:lastmodified":1473900779,
+    "wof:lastmodified":1510941355,
     "wof:name":"Bossong Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091663387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

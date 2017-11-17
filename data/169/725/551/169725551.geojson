@@ -7,13 +7,16 @@
     "addr:postcode":"25050;franciacorta;25050",
     "addr:street":"Via Trento;Brescia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.08991,45.576607,10.08991,45.576607",
     "geom:latitude":45.576607,
     "geom:longitude":10.08991,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Trento ,49/51 25050 Paderno Franciacorta",
     "sg:city":"Paderno Franciacorta",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_1aSH0yZrvL7vqaNhLGplsx_45.576607_10.089910@1306269788"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ae87aca9677afd4bbf8e43660f672511",
+    "wof:geomhash":"e12a8628d0c233d2428a9bdeb34dd670",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":169725551,
-    "wof:lastmodified":1473900063,
+    "wof:lastmodified":1510942295,
     "wof:name":"Sirta Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320854715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

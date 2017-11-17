@@ -7,13 +7,16 @@
     "addr:postcode":"22075;22075",
     "addr:street":"Caccivio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.008524,45.76281,9.008524,45.76281",
     "geom:latitude":45.76281,
     "geom:longitude":9.008524,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"22075 Lurate Caccivio",
     "sg:city":"Lurate Caccivio",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_383jaLS9vq3j83ExCUZiCZ_45.762810_9.008524@1306269859"
     },
     "wof:country":"IT",
-    "wof:geomhash":"3d74dc7a601f1ee82864d4a0fef8f704",
+    "wof:geomhash":"69a2adf59e1454e278dfae6932e82e6b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,21 @@
         }
     ],
     "wof:id":303442373,
-    "wof:lastmodified":1473901522,
+    "wof:lastmodified":1510943757,
     "wof:name":"Of.fri Officine Meccaniche Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236957759,
+        219831491,
+        320370557
+    ],
+    "wof:supersedes":[
+        320260911,
+        286632221,
+        1091682725
+    ],
     "wof:tags":[]
 },
   "bbox": [

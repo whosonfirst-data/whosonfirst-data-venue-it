@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.296421,45.393257,9.296421,45.393257",
     "geom:latitude":45.393257,
     "geom:longitude":9.296421,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_4kXKicqvNZuFrp0AZDoHjS_45.393257_9.296421@1306269829"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8e48eb6a5320b3b278ff317bc51902d0",
+    "wof:geomhash":"f0b500d564ca7069aa5c3a4bbcafcad1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,18 @@
         }
     ],
     "wof:id":253454195,
-    "wof:lastmodified":1473901352,
+    "wof:lastmodified":1510943902,
     "wof:name":"Aerre Gomma Srl",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236902343,
+        1091726543
+    ],
+    "wof:supersedes":[
+        202846289
+    ],
     "wof:tags":[]
 },
   "bbox": [

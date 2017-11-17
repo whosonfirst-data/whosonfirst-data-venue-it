@@ -7,13 +7,16 @@
     "addr:postcode":"31050;31050",
     "addr:street":"Via Lombardia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.422516,45.649723,12.422516,45.649723",
     "geom:latitude":45.649723,
     "geom:longitude":12.422516,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Lombardia 16 31050 Monastier",
     "sg:classifiers":[
         {
@@ -41,7 +44,7 @@
         "sg:id":"SG_7Ty7IIiBdO9LD2Z2HbXy9A_45.649723_12.422516@1306269826"
     },
     "wof:country":"IT",
-    "wof:geomhash":"35b4ae8de7a850cb878e90a8e13d1585",
+    "wof:geomhash":"2e57964a4aaa778eb7895e7e4dcefb7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":253155763,
-    "wof:lastmodified":1473900818,
+    "wof:lastmodified":1510943357,
     "wof:name":"Arper Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236539527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation",

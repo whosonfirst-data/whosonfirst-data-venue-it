@@ -7,13 +7,16 @@
     "addr:postcode":"20034;20034",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2093782425,45.699760437,9.2093782425,45.699760437",
     "geom:latitude":45.69976,
     "geom:longitude":9.209378,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20034 Giussano",
     "sg:city":"Giussano",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879900,
-    "wof:geomhash":"3a27878534c5d785aa9b67b30d8bf680",
+    "wof:geomhash":"f316a50cb029ebb486fd3a0ea522354b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":1091704065,
-    "wof:lastmodified":1473900523,
+    "wof:lastmodified":1510943804,
     "wof:name":"Elel Serramenti E Porte",
     "wof:parent_id":85862609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202574111,
+        202529743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

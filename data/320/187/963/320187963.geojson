@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.399357,45.634624,9.399357,45.634624",
     "geom:latitude":45.634624,
     "geom:longitude":9.399357,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20044 Bernareggio",
     "sg:city":"Bernareggio",
     "sg:classifiers":[],
@@ -32,7 +34,7 @@
         "sg:id":"SG_7IQQTfMzp1ENSWn3aYYAtw_45.634624_9.399357@1306269867"
     },
     "wof:country":"IT",
-    "wof:geomhash":"96029fb5bb4492032ba94f4b199593ce",
+    "wof:geomhash":"c42cec28699b3d2ea776f0cedd21649b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":320187963,
-    "wof:lastmodified":1473901315,
+    "wof:lastmodified":1510944039,
     "wof:name":"Facma Di Roberto Magni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320187881
+    ],
     "wof:tags":[]
 },
   "bbox": [

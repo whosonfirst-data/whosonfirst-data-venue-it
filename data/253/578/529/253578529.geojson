@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.895503,42.900276,13.895503,42.900276",
     "geom:latitude":42.900276,
     "geom:longitude":13.895503,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Pasubio 45 63039 San Benedetto Del Tronto",
     "sg:city":"San Benedetto del Tronto",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2AQHQtw83WULtW86KpwEdO_42.900276_13.895503@1306269831"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1a2a922d3a96ddcc95e13e3437991b9e",
+    "wof:geomhash":"8e24863b472721484379055d1c686eff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":253578529,
-    "wof:lastmodified":1473901472,
+    "wof:lastmodified":1510941603,
     "wof:name":"Fimi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        220112173
+    ],
     "wof:tags":[
         "used",
         "vehicles"

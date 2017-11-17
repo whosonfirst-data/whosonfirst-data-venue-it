@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8719711304,45.7820053101,11.8719711304,45.7820053101",
     "geom:latitude":45.782005,
     "geom:longitude":11.871971,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34, V. Castellana 31039 Riese Pio X",
     "sg:city":"Riese Pio X",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473883294,
-    "wof:geomhash":"7401dd544d84ae5acd8ffe798aa45a19",
+    "wof:geomhash":"f7228f4041072b6c62f6a2f463c095ef",
     "wof:hierarchy":[],
     "wof:id":1091769751,
-    "wof:lastmodified":1473901292,
+    "wof:lastmodified":1510944184,
     "wof:name":"Pasta Zara Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091687393
+    ],
     "wof:tags":[
         "product",
         "related"

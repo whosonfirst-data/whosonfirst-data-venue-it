@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.706504,43.54229,10.706504,43.54229",
     "geom:latitude":43.54229,
     "geom:longitude":10.706504,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"72, Via Salaiola 56030 Terricciola",
     "sg:city":"Terricciola",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3spVAxqYy232lGgAbAphiQ_43.542290_10.706504@1306269819"
     },
     "wof:country":"IT",
-    "wof:geomhash":"174b3d82d8e4f73b5e1649c2b9a0c0d0",
+    "wof:geomhash":"bfd5e7be8d666e7cdf00a3824036e92c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":236567699,
-    "wof:lastmodified":1473901543,
+    "wof:lastmodified":1510941312,
     "wof:name":"D.b.m. Industria Mobili (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186265757
+    ],
     "wof:tags":[
         "household"
     ]

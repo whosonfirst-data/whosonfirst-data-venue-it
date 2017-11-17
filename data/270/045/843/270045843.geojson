@@ -7,13 +7,16 @@
     "addr:postcode":"31058;31058",
     "addr:street":"Via Conegliano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.268588,45.864044,12.268588,45.864044",
     "geom:latitude":45.864044,
     "geom:longitude":12.268588,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Conegliano 83 31058 Susegana",
     "sg:city":"Susegana",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3GjDz4vFw8c72c9oDtD5Ja_45.864044_12.268588@1306269838"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5dbf3961a2f1e030e8d935b17e8ae53e",
+    "wof:geomhash":"b84ad53bc80f36c04c84629a2c5baa6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":270045843,
-    "wof:lastmodified":1473900576,
+    "wof:lastmodified":1510942216,
     "wof:name":"Arti Grafiche Conegliano Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091711219
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "calendar",

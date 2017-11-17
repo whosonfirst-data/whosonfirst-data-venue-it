@@ -7,13 +7,16 @@
     "addr:postcode":"10060;10060",
     "addr:street":"Via Roma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.346088,44.917427,7.346088,44.917427",
     "geom:latitude":44.917427,
     "geom:longitude":7.346088,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Roma 130 10060 Roletto",
     "sg:city":"Roletto",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_4B8qUrb3RcsFRsJdnA6Qgp_44.917427_7.346088@1306269839"
     },
     "wof:country":"IT",
-    "wof:geomhash":"139fc5df8f7c2a321d7943bc0733f643",
+    "wof:geomhash":"3ab10e030157b08f4052296e5001d4ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":270182791,
-    "wof:lastmodified":1473901043,
+    "wof:lastmodified":1510943407,
     "wof:name":"Con - Pak Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091707067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

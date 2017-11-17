@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.929461,44.549801,10.929461,44.549801",
     "geom:latitude":44.549801,
     "geom:longitude":10.929461,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Montanara 13/a 41051 Castelnuovo Rangone",
     "sg:city":"Castelnuovo Rangone",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_3dHZkXdp1oWJjgUzojrztl_44.549801_10.929461@1306269873"
     },
     "wof:country":"IT",
-    "wof:geomhash":"375a9ed0468c380cc8120b018e95f220",
+    "wof:geomhash":"70ee2962f41a82bfb8ebb8e15424d268",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":320858321,
-    "wof:lastmodified":1473901883,
+    "wof:lastmodified":1510942229,
     "wof:name":"Gams Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091771485
+    ],
     "wof:tags":[
         "processing"
     ]

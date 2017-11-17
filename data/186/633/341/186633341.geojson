@@ -7,13 +7,16 @@
     "addr:postcode":"22035;22035",
     "addr:street":"Via Terra Rossa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.268946,45.853523,9.268946,45.853523",
     "geom:latitude":45.853523,
     "geom:longitude":9.268946,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Terra Rossa 13 22035 Canzo",
     "sg:city":"Canzo",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_3Qy5BdeJrpffKVi3fcPjS2_45.853523_9.268946@1306269797"
     },
     "wof:country":"IT",
-    "wof:geomhash":"067002dfcda498173209668819f3fff6",
+    "wof:geomhash":"69a35110fd616dabf3f4c9312a240369",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":186633341,
-    "wof:lastmodified":1473901834,
+    "wof:lastmodified":1510942269,
     "wof:name":"Canali & C. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091759415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "scissors"

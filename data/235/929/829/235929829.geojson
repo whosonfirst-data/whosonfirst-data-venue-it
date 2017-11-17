@@ -7,13 +7,16 @@
     "addr:postcode":"20040;20040",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.450507,45.615021,9.450507,45.615021",
     "geom:latitude":45.615021,
     "geom:longitude":9.450507,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20040 Bellusco",
     "sg:city":"Bellusco",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_1viRyEbEQaYEsdITsecAw8_45.615021_9.450507@1306269814"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a0be3178b249f3336f8d8aeb3d2e19a4",
+    "wof:geomhash":"01ad712687031008f0526fe46363f4db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":235929829,
-    "wof:lastmodified":1473900058,
+    "wof:lastmodified":1510941926,
     "wof:name":"Unionfoam Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320775501
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

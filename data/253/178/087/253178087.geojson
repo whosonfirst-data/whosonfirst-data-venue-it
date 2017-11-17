@@ -7,13 +7,16 @@
     "addr:postcode":"07046",
     "addr:street":"Porto Torres Porto Torres",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.341701,40.828373,8.341701,40.828373",
     "geom:latitude":40.828373,
     "geom:longitude":8.341701,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"07046 Porto Torres",
     "sg:city":"Porto Torres",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_7FYdRAedBV0E6BvtHBCevf_40.828373_8.341701@1306269827"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a4e27cd471a3d06d136e26258253b119",
+    "wof:geomhash":"3cee2d45b81083490cf5973a73cbe2ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,16 @@
         }
     ],
     "wof:id":253178087,
-    "wof:lastmodified":1473900902,
+    "wof:lastmodified":1510943770,
     "wof:name":"Co.m.i. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253455283,
+        320309673,
+        320788271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

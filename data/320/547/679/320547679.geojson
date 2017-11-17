@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.434666,44.985706,10.434666,44.985706",
     "geom:latitude":44.985706,
     "geom:longitude":10.434666,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26041 Casalmaggiore",
     "sg:city":"Casalmaggiore",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_6uIoK5oLuQpu8Xk8Qow4Q3_44.985706_10.434666@1306269870"
     },
     "wof:country":"IT",
-    "wof:geomhash":"958caa23d5011191d47577206f85b479",
+    "wof:geomhash":"523e177a9cc1020726f1fb707fbf95a0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,18 @@
         }
     ],
     "wof:id":320547679,
-    "wof:lastmodified":1473901682,
+    "wof:lastmodified":1510943305,
     "wof:name":"Bragapan Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091640929,
+        269569343,
+        253361995,
+        320547675
+    ],
     "wof:tags":[]
 },
   "bbox": [

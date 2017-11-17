@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.25379,45.397049,9.25379,45.397049",
     "geom:latitude":45.397049,
     "geom:longitude":9.25379,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_2rObTyag3zNQ1BjarhzmDi_45.397049_9.253790@1306269841"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1ef1d6950e4a9ab9892bf733e8179dd8",
+    "wof:geomhash":"c100fa1c92848c77237e9f01a3f800eb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":270348221,
-    "wof:lastmodified":1473901681,
+    "wof:lastmodified":1510943705,
     "wof:name":"Facover Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303929591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

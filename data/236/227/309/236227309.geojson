@@ -7,13 +7,16 @@
     "addr:postcode":"58019",
     "addr:street":"Monte",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.120657,42.435669,11.120657,42.435669",
     "geom:latitude":42.435669,
     "geom:longitude":11.120657,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"58019 Monte Argentario",
     "sg:city":"Monte Argentario",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_6WssgJGRk1VfyxXgPxHBY0_42.435669_11.120657@1306269816"
     },
     "wof:country":"IT",
-    "wof:geomhash":"95cff01416b73126474c1189cbac988d",
+    "wof:geomhash":"3d97afc503c87e4e134ee8bbe3038ce5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,25 @@
         }
     ],
     "wof:id":236227309,
-    "wof:lastmodified":1473900968,
+    "wof:lastmodified":1510943991,
     "wof:name":"Cala Galera Diving Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202616399,
+        186633023,
+        219864623,
+        202463589
+    ],
+    "wof:supersedes":[
+        219368935,
+        219363005,
+        203417165,
+        219352205,
+        287052647,
+        186400857
+    ],
     "wof:tags":[]
 },
   "bbox": [

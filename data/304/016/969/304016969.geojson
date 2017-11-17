@@ -7,13 +7,16 @@
     "addr:postcode":"16163;16163",
     "addr:street":"Via San Quirico",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.916994,44.486153,8.916994,44.486153",
     "geom:latitude":44.486153,
     "geom:longitude":8.916994,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via San Quirico 147/r 16163 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_25eakJSBecd7CG4pebgUQs_44.486153_8.916994@1306269864"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2c07c73c6f45877f2052861f2940f302",
+    "wof:geomhash":"a18ba5889e3c1451aa3f1aaf7fd963b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":304016969,
-    "wof:lastmodified":1473900207,
+    "wof:lastmodified":1510941429,
     "wof:name":"Zunin Spa",
     "wof:parent_id":85862603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091655329
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assembly",

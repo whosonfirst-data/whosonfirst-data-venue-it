@@ -7,13 +7,16 @@
     "addr:postcode":"20089;20089",
     "addr:street":"Via Brodolini",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.171792,45.377945,9.171792,45.377945",
     "geom:latitude":45.377945,
     "geom:longitude":9.171792,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Brodolini 1 20089 Rozzano",
     "sg:city":"Rozzano",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_0NctO2FgdNyrxL3oPQsToN_45.377945_9.171792@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1af7913f2ce37a69eaefe8ae22c9c267",
+    "wof:geomhash":"cfd6d70f65a1b19f2a6c848e45436ec2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":236462491,
-    "wof:lastmodified":1473901486,
+    "wof:lastmodified":1510943197,
     "wof:name":"Bianchin Ponteggi Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091759079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

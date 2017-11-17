@@ -15,6 +15,7 @@
     "geom:longitude":8.981097,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Isonzo 6 16147 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879431,
-    "wof:geomhash":"6819ac3110efe9cf6170748969e2141c",
+    "wof:geomhash":"631dbb5744edc484afaeb9c5715901ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":1091692739,
-    "wof:lastmodified":1491918819,
+    "wof:lastmodified":1510942065,
     "wof:name":"Bruschettini Srl",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286291259
+    ],
     "wof:tags":[
         "pharmaceutical"
     ]

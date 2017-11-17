@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.995239,44.730114,10.995239,44.730114",
     "geom:latitude":44.730114,
     "geom:longitude":10.995239,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Rossini 8 41030 Bastiglia",
     "sg:city":"Bastiglia",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5RMYULEB4fhzGDLPNp9FLA_44.730114_10.995239@1306269854"
     },
     "wof:country":"IT",
-    "wof:geomhash":"26aeb14c62d3b9b4b2b11078a322ef92",
+    "wof:geomhash":"9dec0beb1e018ce8c96b6c9586a3b5e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":287256629,
-    "wof:lastmodified":1473901382,
+    "wof:lastmodified":1510941786,
     "wof:name":"G3 Ferrari Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303054055
+    ],
     "wof:tags":[
         "electric"
     ]

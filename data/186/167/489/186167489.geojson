@@ -7,13 +7,16 @@
     "addr:postcode":"00179;rm;00179",
     "addr:street":"Via Di Porta Latina",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.50183,41.876778,12.50183,41.876778",
     "geom:latitude":41.876778,
     "geom:longitude":12.50183,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Di Porta Latina 8, 00179 Rome, Rm",
     "sg:classifiers":[
         {
@@ -37,7 +40,7 @@
         "sg:id":"SG_2RYJRNAQbAvQ89ezm8I12o_41.876778_12.501830@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"68a6a779bd1688f81d56fa3883353d54",
+    "wof:geomhash":"1fe3589bd5153d2cdec16faa553191e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":186167489,
-    "wof:lastmodified":1473900529,
+    "wof:lastmodified":1510942013,
     "wof:name":"Lottomatica Spa",
     "wof:parent_id":85904933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091746131
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

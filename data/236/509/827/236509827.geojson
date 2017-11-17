@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.206754,45.60498,9.206754,45.60498",
     "geom:latitude":45.60498,
     "geom:longitude":9.206754,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Oslavia 84 20033 Desio",
     "sg:city":"Desio",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_08mTnuqydkyg5EMi3I68NT_45.604980_9.206754@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2e3fcd3749940cfa055784b4518e654d",
+    "wof:geomhash":"3c07c61ec37d590fe8edffd8cfcb755f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":236509827,
-    "wof:lastmodified":1473901526,
+    "wof:lastmodified":1510941388,
     "wof:name":"Officine Meccaniche Carlo Beretta B.c.d. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091654033
+    ],
     "wof:tags":[
         "hot",
         "stamping",

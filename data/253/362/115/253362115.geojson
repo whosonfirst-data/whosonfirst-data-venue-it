@@ -7,13 +7,16 @@
     "addr:postcode":"07022;07022",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.278559,40.826839,9.278559,40.826839",
     "geom:latitude":40.826839,
     "geom:longitude":9.278559,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"07022 Berchidda",
     "sg:city":"Berchidda",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7b6Q9RE1oaGRqaTcJwdne3_40.826839_9.278559@1306269828"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d3bdf9cf28227973e97f07c3640f09a6",
+    "wof:geomhash":"d39f81523d1eb6ac6b3d1840c3a5aba1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +55,19 @@
         }
     ],
     "wof:id":253362115,
-    "wof:lastmodified":1473901295,
+    "wof:lastmodified":1510944123,
     "wof:name":"Colfre Sugheri Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1091723851,
+        1091768059
+    ],
+    "wof:supersedes":[
+        269577209,
+        219503517
+    ],
     "wof:tags":[
         "semi-finished"
     ]

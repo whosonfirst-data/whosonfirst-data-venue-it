@@ -7,13 +7,16 @@
     "addr:postcode":"13030",
     "addr:street":"Caresanablot Caresanablot",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.3882846832,45.35754776,8.3882846832,45.35754776",
     "geom:latitude":45.357548,
     "geom:longitude":8.388285,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13030 Caresanablot",
     "sg:city":"Caresanablot",
     "sg:classifiers":[],
@@ -31,16 +34,20 @@
     },
     "wof:country":"IT",
     "wof:created":1473878448,
-    "wof:geomhash":"8652d581044f53d7392603c4feae190e",
+    "wof:geomhash":"a1056716361b00c7577a965a597ae2a7",
     "wof:hierarchy":[],
     "wof:id":1091671073,
-    "wof:lastmodified":1473900189,
+    "wof:lastmodified":1510943286,
     "wof:name":"Grosfillex Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186608015
+    ],
+    "wof:supersedes":[
+        236312951
+    ],
     "wof:tags":[]
 },
   "bbox": [

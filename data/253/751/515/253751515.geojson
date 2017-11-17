@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.201031,45.447842,9.201031,45.447842",
     "geom:latitude":45.447842,
     "geom:longitude":9.201031,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26, Via Trebbia 20135 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_4cymaBMBAspDapYH02Nsj7_45.447842_9.201031@1306269832"
     },
     "wof:country":"IT",
-    "wof:geomhash":"6ae920f1b539b2c86308fe8b6dd694ef",
+    "wof:geomhash":"f8fc9848e5c3930a44a54e8d2bcf1ddb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":253751515,
-    "wof:lastmodified":1473901659,
+    "wof:lastmodified":1510942235,
     "wof:name":"Fontana Pelletterie S.p.a.",
     "wof:parent_id":85797023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269563031
+    ],
     "wof:tags":[
         "leather"
     ]

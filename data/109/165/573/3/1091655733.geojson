@@ -7,13 +7,16 @@
     "addr:postcode":"20044;20044",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.3985719681,45.6363487244,9.3985719681,45.6363487244",
     "geom:latitude":45.636349,
     "geom:longitude":9.398572,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20044 Bernareggio",
     "sg:city":"Bernareggio",
     "sg:classifiers":[
@@ -40,16 +43,20 @@
     },
     "wof:country":"IT",
     "wof:created":1473877840,
-    "wof:geomhash":"5654a95431fb365ec3a3568b6da00a21",
+    "wof:geomhash":"e659fa4b47fac76da0fa4ccd895e6e50",
     "wof:hierarchy":[],
     "wof:id":1091655733,
-    "wof:lastmodified":1473900731,
+    "wof:lastmodified":1510943942,
     "wof:name":"Rad Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        253701267
+    ],
+    "wof:supersedes":[
+        219382203
+    ],
     "wof:tags":[
         "forming",
         "working",

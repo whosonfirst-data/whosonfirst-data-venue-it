@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.506981,45.153378,7.506981,45.153378",
     "geom:latitude":45.153378,
     "geom:longitude":7.506981,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"78, Via Torino 10040 Givoletto",
     "sg:city":"Givoletto",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0YlS6SMcXGOeYukxXugOW3_45.153378_7.506981@1306269875"
     },
     "wof:country":"IT",
-    "wof:geomhash":"6424ba499fc8ab9ddc585b6fbd1ee3ae",
+    "wof:geomhash":"cd990494f8012bdbaec45a36e9d46e49",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":336732787,
-    "wof:lastmodified":1473900503,
+    "wof:lastmodified":1510941604,
     "wof:name":"O.m.g. Di Fretta Roberto & C. (s.a.s.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        220170171
+    ],
     "wof:tags":[
         "machine",
         "-",

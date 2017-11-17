@@ -7,13 +7,16 @@
     "addr:postcode":"24020;24020",
     "addr:street":"Viale Lombardia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.715834,45.712242,9.715834,45.712242",
     "geom:latitude":45.712242,
     "geom:longitude":9.715834,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"47, Viale Lombardia 24020 Torre Boldone",
     "sg:city":"Torre Boldone",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7NETnpRrPk1v18gKVYSW3d_45.712242_9.715834@1306269875"
     },
     "wof:country":"IT",
-    "wof:geomhash":"3f1483cfaeff05d47f0489d2bad35d46",
+    "wof:geomhash":"745ff9e328912f37f724317725aa3514",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":336745771,
-    "wof:lastmodified":1473900526,
+    "wof:lastmodified":1510943348,
     "wof:name":"Ormamacchine S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253369941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

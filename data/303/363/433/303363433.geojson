@@ -7,13 +7,16 @@
     "addr:postcode":"03039",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.618526,41.718792,13.618526,41.718792",
     "geom:latitude":41.718792,
     "geom:longitude":13.618526,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"03039 Sora",
     "sg:city":"Sora",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_501Iw0eh2QtR1Ngv99y2FL_41.718792_13.618526@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"be2b65effe253089554a5b41bb39e1fd",
+    "wof:geomhash":"26d3b8a9cfefe1d00b339c2f9098f025",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,18 @@
         }
     ],
     "wof:id":303363433,
-    "wof:lastmodified":1473901367,
+    "wof:lastmodified":1510941388,
     "wof:name":"Esotica Di Sarra Fabio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1091783441
+    ],
+    "wof:supersedes":[
+        202996491,
+        252944467
+    ],
     "wof:tags":[]
 },
   "bbox": [

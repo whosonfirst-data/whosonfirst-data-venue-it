@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.482325,41.895466,12.482325,41.895466",
     "geom:latitude":41.895466,
     "geom:longitude":12.482325,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Viale Mazzini Giuseppe 55 00195 Roma",
     "sg:city":"Roma",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_04ZSRvf6sR5fTWC7KKP6PG_41.895466_12.482325@1306269871"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b681dc17fccfe6e8300e0d256668f451",
+    "wof:geomhash":"48945fec1544fadb2199aca8783204a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":320624107,
-    "wof:lastmodified":1473901687,
+    "wof:lastmodified":1510943591,
     "wof:name":"Arpes Srl",
     "wof:parent_id":85900313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091768487
+    ],
     "wof:tags":[
         "opinion",
         "market"

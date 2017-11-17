@@ -7,13 +7,16 @@
     "addr:postcode":"20019;20019",
     "addr:street":"Via Edison",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.070557,45.461864,9.070557,45.461864",
     "geom:latitude":45.461864,
     "geom:longitude":9.070557,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Edison 225 20019 Settimo Milanese",
     "sg:city":"Settimo Milanese",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2kdY9DvmlKETDYmz95CgTi_45.461864_9.070557@1306269797"
     },
     "wof:country":"IT",
-    "wof:geomhash":"27add3f6ac46f2ec534d1aed47989675",
+    "wof:geomhash":"0839a951786dba7b6e5acf31b1cf2f8d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":186621225,
-    "wof:lastmodified":1473901749,
+    "wof:lastmodified":1510943446,
     "wof:name":"Protech Srl",
     "wof:parent_id":85796799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336838501
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandblasting",

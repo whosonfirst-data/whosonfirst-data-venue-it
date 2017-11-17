@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.405015,45.646725,9.405015,45.646725",
     "geom:latitude":45.646725,
     "geom:longitude":9.405015,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20044 Bernareggio",
     "sg:city":"Bernareggio",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_1H7K9kr1oxU5fU0cuZTbTF_45.646725_9.405015@1306269861"
     },
     "wof:country":"IT",
-    "wof:geomhash":"179969b2ab67b14956d6d54cc2c493e4",
+    "wof:geomhash":"d1ab2839a77930cab0b289c8cac5bd7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,16 @@
         }
     ],
     "wof:id":303680199,
-    "wof:lastmodified":1473901812,
+    "wof:lastmodified":1510943174,
     "wof:name":"Biffi Luigi Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303659491,
+        303631697
+    ],
     "wof:tags":[]
 },
   "bbox": [

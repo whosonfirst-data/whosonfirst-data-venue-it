@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2026138306,40.9087524414,14.2026138306,40.9087524414",
     "geom:latitude":40.908752,
     "geom:longitude":14.202614,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15, Piazza Vanvitelli 80129 Napoli",
     "sg:city":"Napoli",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879155,
-    "wof:geomhash":"72c8101922f06074c2d3e9a7477035e4",
+    "wof:geomhash":"850c7f5500d7ae4ebb32ef01535afc72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1091685995,
-    "wof:lastmodified":1473900778,
+    "wof:lastmodified":1510943358,
     "wof:name":"Omniafiltra Cartiera Del Torano S.p.a.",
     "wof:parent_id":85900399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        252909937
+    ],
     "wof:tags":[
         "cardboard"
     ]

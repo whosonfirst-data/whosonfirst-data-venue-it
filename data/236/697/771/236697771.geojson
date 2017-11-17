@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.184118,45.551952,9.184118,45.551952",
     "geom:latitude":45.551952,
     "geom:longitude":9.184118,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50/52, Via Como 20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_6XVZMNu9jc9a2vBpEnen6I_45.551952_9.184118@1306269820"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8fa88a7208ffb7c0404a5b7db3683c99",
+    "wof:geomhash":"ba59fe35e711dcc26dc5b2d21ffa1e87",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":236697771,
-    "wof:lastmodified":1473901862,
+    "wof:lastmodified":1510941342,
     "wof:name":"Bruni S.r.l.",
     "wof:parent_id":85796835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        287053657
+    ],
     "wof:tags":[
         "game"
     ]

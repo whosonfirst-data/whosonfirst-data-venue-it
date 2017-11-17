@@ -7,13 +7,16 @@
     "addr:postcode":"40127;40127",
     "addr:street":"Via Ferravilla Edoardo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.346481,44.494221,11.346481,44.494221",
     "geom:latitude":44.494221,
     "geom:longitude":11.346481,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8, Via Ferravilla Edoardo 40127 Bologna",
     "sg:city":"Bologna",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_29p8OFymag0BZD2ylO8YU6_44.494221_11.346481@1306269846"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5e55927d9edee236be03b473cc2a4816",
+    "wof:geomhash":"fc03bdf3b0b84d53acb157404dac2675",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":286549321,
-    "wof:lastmodified":1473901232,
+    "wof:lastmodified":1510943403,
     "wof:name":"Maglificio Milena Mosele (s.r.l.)",
     "wof:parent_id":85900451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253591759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

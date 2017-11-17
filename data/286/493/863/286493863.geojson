@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.173396,43.794033,11.173396,43.794033",
     "geom:latitude":43.794033,
     "geom:longitude":11.173396,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6, Via Della Sala 50145 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_6wYPgNjvkaVKD3PJggu1EC_43.794033_11.173396@1306269846"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c63253717c1c881680cec7f31316253c",
+    "wof:geomhash":"69de4bd43e87818349920cb66ffcb7bc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":286493863,
-    "wof:lastmodified":1473901203,
+    "wof:lastmodified":1510943911,
     "wof:name":"Conte Of Florence (s.p.a.)",
     "wof:parent_id":85904661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286328917
+    ],
     "wof:tags":[
         "clothes"
     ]

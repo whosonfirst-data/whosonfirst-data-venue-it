@@ -7,13 +7,16 @@
     "addr:postcode":"27029;27029",
     "addr:street":"Corso Novara",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.835461,45.333672,8.835461,45.333672",
     "geom:latitude":45.333672,
     "geom:longitude":8.835461,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Corso Novara 218 27029 Vigevano",
     "sg:city":"Vigevano",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2yy84zKQZBBaDCeuJic1jW_45.333672_8.835461@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0da7e36902e5bac60f26e421021b6da2",
+    "wof:geomhash":"0bf008c8066709ccd1b76c8fe32f5bcc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":219245955,
-    "wof:lastmodified":1473900548,
+    "wof:lastmodified":1510941486,
     "wof:name":"Cerim Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336630149
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "making",

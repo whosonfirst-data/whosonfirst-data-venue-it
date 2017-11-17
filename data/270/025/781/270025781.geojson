@@ -7,13 +7,16 @@
     "addr:postcode":"40016;bologna 40016",
     "addr:street":"Via Dell'Artigiano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.378604,44.651672,11.378604,44.651672",
     "geom:latitude":44.651672,
     "geom:longitude":11.378604,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Dell'artigiano 12 40016 San Giorgio Di Piano",
     "sg:city":"San Giorgio di Piano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3JznBav1VutkBagmgxuxZZ_44.651672_11.378604@1306269838"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5b2eefee8c1c42894f4a8e46793ed864",
+    "wof:geomhash":"564fb53d2cc0a281151d693e56403226",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":270025781,
-    "wof:lastmodified":1473900375,
+    "wof:lastmodified":1510943258,
     "wof:name":"Makfil System Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336709841
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "connector",

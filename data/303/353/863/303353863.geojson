@@ -7,13 +7,16 @@
     "addr:postcode":"50054;50054",
     "addr:street":"Via Delle Confina",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.789012,43.724926,10.789012,43.724926",
     "geom:latitude":43.724926,
     "geom:longitude":10.789012,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Delle Confina, 22/23 50054 Fucecchio",
     "sg:city":"Fucecchio",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6EFiKcO7rDbmgkE68x4bhS_43.724926_10.789012@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8e14e26ca426c3fb208bd38d4243412c",
+    "wof:geomhash":"4a084b5f9dbae9a2142f85383d116a3c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303353863,
-    "wof:lastmodified":1473901378,
+    "wof:lastmodified":1510943088,
     "wof:name":"Conceria Gange S.r.l",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253717879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "animal",

@@ -7,13 +7,16 @@
     "addr:postcode":"20154;20154",
     "addr:street":"Via Londonio Francesco",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.168941,45.480244,9.168941,45.480244",
     "geom:latitude":45.480244,
     "geom:longitude":9.168941,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Londonio Francesco 15 20154 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
         "sg:id":"SG_34kaAnmbxiWhrgEr9T8eiK_45.480244_9.168941@1306269858"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ae51d6b9b124185fa24237e1fbb6dd9f",
+    "wof:geomhash":"f51a365f8120bc90d0e066ed02a83746",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":303314929,
-    "wof:lastmodified":1473901383,
+    "wof:lastmodified":1510941998,
     "wof:name":"Flymar Srl",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091736083
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stand",

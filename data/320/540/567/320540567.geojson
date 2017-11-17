@@ -7,13 +7,16 @@
     "addr:postcode":"22037;22037",
     "addr:street":"Via Trieste",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.221323,45.825874,9.221323,45.825874",
     "geom:latitude":45.825874,
     "geom:longitude":9.221323,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Trieste 10 22037 Ponte Lambro",
     "sg:city":"Ponte Lambro",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_21KLAMMCkHsBwE3RuidOR5_45.825874_9.221323@1306269870"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f537f7eb06e58e250d158bf839e28d1f",
+    "wof:geomhash":"cf81c6564f965aa66967149ec20f8005",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":320540567,
-    "wof:lastmodified":1473901675,
+    "wof:lastmodified":1510942170,
     "wof:name":"Nava Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320852317
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manometer"

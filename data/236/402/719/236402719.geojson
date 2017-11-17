@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.156385,45.453274,9.156385,45.453274",
     "geom:latitude":45.453274,
     "geom:longitude":9.156385,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Montecatini 14 20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4EOndDuV5XVdvIxF3M0vVL_45.453274_9.156385@1306269817"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ecdae87621c631b7f4672ab4a3364ebe",
+    "wof:geomhash":"51efe54a562079e97e00e7123944cbad",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":236402719,
-    "wof:lastmodified":1473901439,
+    "wof:lastmodified":1510942347,
     "wof:name":"Clama Trade Srl",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091661191
+    ],
     "wof:tags":[
         "non-ferrous"
     ]

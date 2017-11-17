@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.270829,45.650074,9.270829,45.650074",
     "geom:latitude":45.650074,
     "geom:longitude":9.270829,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Prealpi 8 20050 Sovico",
     "sg:city":"Sovico",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_3MUuVti1YfgmxXvlL4xvVm_45.650074_9.270829@1306269830"
     },
     "wof:country":"IT",
-    "wof:geomhash":"77664b7491ab5356cf09eabbd0253e82",
+    "wof:geomhash":"a442223348187cdf928c601b7f7c0978",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":253528877,
-    "wof:lastmodified":1473901476,
+    "wof:lastmodified":1510944031,
     "wof:name":"Futura Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236590321
+    ],
     "wof:tags":[
         "upholstered"
     ]

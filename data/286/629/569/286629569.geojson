@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.278356,45.54007,9.278356,45.54007",
     "geom:latitude":45.54007,
     "geom:longitude":9.278356,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32, V. Rossini 20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2uC4rWP8RB0OnuCdOohxNi_45.540070_9.278356@1306269847"
     },
     "wof:country":"IT",
-    "wof:geomhash":"250be5eb61b96b62c406878302bb964c",
+    "wof:geomhash":"ec0e0c8d9a504acc04c3b1a771f843cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":286629569,
-    "wof:lastmodified":1473901344,
+    "wof:lastmodified":1510943652,
     "wof:name":"Zangiacomi Claudio Minuterie Metalliche Srl",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236466199
+    ],
     "wof:tags":[
         "clothing",
         "accessory"

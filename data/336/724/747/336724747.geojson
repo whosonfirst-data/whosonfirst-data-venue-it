@@ -7,13 +7,16 @@
     "addr:postcode":"30022;30022",
     "addr:street":"Via Delle Industrie",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.633947,45.679264,12.633947,45.679264",
     "geom:latitude":45.679264,
     "geom:longitude":12.633947,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9, Via Delle Industrie 30022 Ceggia",
     "sg:city":"Ceggia",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_3E0kMxDXwQji4CF5Q38zTS_45.679264_12.633947@1306269875"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b8f6e978cc3da60beafd924d4927134e",
+    "wof:geomhash":"7980220b74abe36fc7369df8b58080c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":336724747,
-    "wof:lastmodified":1473900515,
+    "wof:lastmodified":1510942283,
     "wof:name":"N.b. Meccanica S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091655457
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

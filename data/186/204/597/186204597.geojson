@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.15388,45.484585,9.15388,45.484585",
     "geom:latitude":45.484585,
     "geom:longitude":9.15388,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Faravelli 14, 20149 Milan, Mi",
     "sg:classifiers":[
         {
@@ -37,7 +39,7 @@
         "sg:id":"SG_2pGkUYQPpJ4bKBphVCuHLj_45.484585_9.153880@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2ceceb379685b2f2c974eceec44cf127",
+    "wof:geomhash":"4e1f5475c0c68f4d39b4d2309362b3e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":186204597,
-    "wof:lastmodified":1473900604,
+    "wof:lastmodified":1510943857,
     "wof:name":"Societa' Per I Servizi Bancari-ssb Spa",
     "wof:parent_id":85796821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186204215
+    ],
     "wof:tags":[]
 },
   "bbox": [

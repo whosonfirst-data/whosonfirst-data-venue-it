@@ -7,13 +7,16 @@
     "addr:postcode":"20098",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.259009,45.400131,9.259009,45.400131",
     "geom:latitude":45.400131,
     "geom:longitude":9.259009,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_7g3K90tHyqjI0rBFjPhs7Y_45.400131_9.259009@1306269803"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c1ec69b4d83b6792d56c27af21808ca9",
+    "wof:geomhash":"daae4980f737f293f40e7be14f787278",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,13 +50,19 @@
         }
     ],
     "wof:id":203160189,
-    "wof:lastmodified":1473900767,
+    "wof:lastmodified":1510943842,
     "wof:name":"Nitrol Chimica Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303936475
+    ],
+    "wof:supersedes":[
+        303289449,
+        1091682583,
+        219655655
+    ],
     "wof:tags":[]
 },
   "bbox": [

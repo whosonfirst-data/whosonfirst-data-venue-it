@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.839924,40.697239,14.839924,40.697239",
     "geom:latitude":40.697239,
     "geom:longitude":14.839924,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"84090 San Mango Piemonte",
     "sg:city":"San Mango Piemonte",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_2XmT9GdIakIa0mqSCTfYTP_40.697239_14.839924@1306269811"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0291b4abf84e247b03d5f64539252016",
+    "wof:geomhash":"c18dabc86310bf4ec367b18ee83e57fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,23 @@
         }
     ],
     "wof:id":219871479,
-    "wof:lastmodified":1473901793,
+    "wof:lastmodified":1510943174,
     "wof:name":"Decomedical Di J.m.l. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236450209,
+        253263409,
+        303300849,
+        253299919,
+        186261879,
+        270400487,
+        303432119,
+        186260649,
+        236506845
+    ],
     "wof:tags":[]
 },
   "bbox": [

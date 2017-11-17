@@ -7,13 +7,16 @@
     "addr:postcode":"22075;22075",
     "addr:street":"Caccivio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.00661,45.768272,9.00661,45.768272",
     "geom:latitude":45.768272,
     "geom:longitude":9.00661,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"22075 Lurate Caccivio",
     "sg:city":"Lurate Caccivio",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_7ZplfLRrCcAlArb0vYAXxq_45.768272_9.006610@1306269849"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d3bb0048fff58dfa8ce1770e3f8f0d85",
+    "wof:geomhash":"913f614a5a2841b39a70700005a8113b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +49,17 @@
         }
     ],
     "wof:id":286742553,
-    "wof:lastmodified":1473901571,
+    "wof:lastmodified":1510942207,
     "wof:name":"Serikos Collezioni & Tessili Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        286954815
+    ],
+    "wof:supersedes":[
+        253054693
+    ],
     "wof:tags":[]
 },
   "bbox": [

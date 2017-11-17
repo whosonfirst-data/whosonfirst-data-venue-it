@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.0019807816,44.4462394714,9.0019807816,44.4462394714",
     "geom:latitude":44.446239,
     "geom:longitude":9.001981,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"36, Via Gualco 16165 Genova",
     "sg:city":"Genova",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473877976,
-    "wof:geomhash":"1d9abda73a1dc709e13f72531541a3f1",
+    "wof:geomhash":"c155c32b9fa48d0e4570160898f5548b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1091659179,
-    "wof:lastmodified":1473901082,
+    "wof:lastmodified":1510941426,
     "wof:name":"Fiver S R L",
     "wof:parent_id":85862669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        219228649
+    ],
     "wof:tags":[
         "metallurgy",
         "metalworking"

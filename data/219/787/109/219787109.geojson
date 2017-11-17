@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.900339,45.470207,11.900339,45.470207",
     "geom:latitude":45.470207,
     "geom:longitude":11.900339,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Belladoro 17 35010 Cadoneghe",
     "sg:city":"Cadoneghe",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
         "sg:id":"SG_78JPL8eimXbmW1HyJI6soB_45.470207_11.900339@1306269810"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b3c56551dfcc80e97c82019f56e4d1fb",
+    "wof:geomhash":"9328f16ee75497371f86e5a0604bd7c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":219787109,
-    "wof:lastmodified":1473901785,
+    "wof:lastmodified":1510942137,
     "wof:name":"Bellon Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269830239
+    ],
     "wof:tags":[]
 },
   "bbox": [

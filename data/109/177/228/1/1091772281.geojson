@@ -7,13 +7,16 @@
     "addr:postcode":"43030;43030",
     "addr:street":"Micheli",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3597927094,44.8848495483,10.3597927094,44.8848495483",
     "geom:latitude":44.88485,
     "geom:longitude":10.359793,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2, V. Micheli 43030 S. Polo Di Torrile",
     "sg:classifiers":[
         {
@@ -39,15 +42,17 @@
     },
     "wof:country":"IT",
     "wof:created":1473883413,
-    "wof:geomhash":"91cf3d2c95aac5ea87875ce8a3c23786",
+    "wof:geomhash":"16974ffa80456da01fbd4c2b41fd25ac",
     "wof:hierarchy":[],
     "wof:id":1091772281,
-    "wof:lastmodified":1473900424,
+    "wof:lastmodified":1510943250,
     "wof:name":"Delicius Rizzoli Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091766059
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

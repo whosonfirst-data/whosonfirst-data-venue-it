@@ -7,13 +7,16 @@
     "addr:postcode":"42025;42025",
     "addr:street":"Via Prati Vecchi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.560658,44.722939,10.560658,44.722939",
     "geom:latitude":44.722939,
     "geom:longitude":10.560658,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Prati Vecchi 21 42025 Cavriago",
     "sg:classifiers":[
         {
@@ -41,7 +44,7 @@
         "sg:id":"SG_1n6HfyxPgCpVOR9eiai8EE_44.722939_10.560658@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d9cd6740708b92b39cbcece1bd3f119a",
+    "wof:geomhash":"959dc4cd6db36d7d3103f15312f03200",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236772481,
-    "wof:lastmodified":1473901956,
+    "wof:lastmodified":1510942601,
     "wof:name":"Nadir Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236787797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "item"

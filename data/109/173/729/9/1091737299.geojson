@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1088552475,45.4459991455,9.1088552475,45.4459991455",
     "geom:latitude":45.445999,
     "geom:longitude":9.108855,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35, Via Leonardo Da Vinci 20094 Corsico",
     "sg:city":"Corsico",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473881553,
-    "wof:geomhash":"0bf65a79abc5b7ad58fefd7b83deef21",
+    "wof:geomhash":"8287b7bf05dd2da49122b5f0c85b5ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1091737299,
-    "wof:lastmodified":1473901022,
+    "wof:lastmodified":1510943413,
     "wof:name":"Zeuss (s.r.l.)",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253196515
+    ],
     "wof:tags":[
         "professional"
     ]

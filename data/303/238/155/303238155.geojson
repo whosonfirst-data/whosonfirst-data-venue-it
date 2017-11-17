@@ -15,6 +15,7 @@
     "geom:longitude":7.686619,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41, Via Venti Settembre 10121 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
         "sg:id":"SG_43qlr7p10iiDjXQHovk3QF_45.070560_7.686619@1306269857"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2f12037958c5c0a8a466568959a2793e",
+    "wof:geomhash":"b55a25f35e93b7f68f1dd35b7d4977c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":303238155,
-    "wof:lastmodified":1491909800,
+    "wof:lastmodified":1510944041,
     "wof:name":"Societa' Italiana Per Il Gas (s.p.a.)",
     "wof:parent_id":85862793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236187699
+    ],
     "wof:tags":[
         "energy"
     ]

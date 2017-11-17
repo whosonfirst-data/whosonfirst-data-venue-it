@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.252902,45.401798,9.252902,45.401798",
     "geom:latitude":45.401798,
     "geom:longitude":9.252902,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20098 San Giuliano Milanese",
     "sg:city":"San Giuliano Milanese",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
         "sg:id":"SG_4kKz5Rg3mmBz1esvO7NdTG_45.401798_9.252902@1306269863"
     },
     "wof:country":"IT",
-    "wof:geomhash":"175a95f9750cc12872d2909823d814a6",
+    "wof:geomhash":"ea266168563c636dac9a920a19f75a89",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,13 +49,17 @@
         }
     ],
     "wof:id":303931927,
-    "wof:lastmodified":1473901982,
+    "wof:lastmodified":1510942747,
     "wof:name":"Gruppo Cartotecnico Abar Litofarma Srl",
     "wof:parent_id":85862749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270309895,
+        304055647,
+        270305121
+    ],
     "wof:tags":[]
 },
   "bbox": [

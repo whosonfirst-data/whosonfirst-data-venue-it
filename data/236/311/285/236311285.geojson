@@ -7,13 +7,16 @@
     "addr:postcode":"03039",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.578402,41.733109,13.578402,41.733109",
     "geom:latitude":41.733109,
     "geom:longitude":13.578402,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"03039 Sora",
     "sg:city":"Sora",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_56UjGVTOGf7Qq1BvkEY9YU_41.733109_13.578402@1306269817"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e19c98727bce538dc157ac664eeb46e4",
+    "wof:geomhash":"920d56b444c7e105cfd1aa97b05ef733",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,15 @@
         }
     ],
     "wof:id":236311285,
-    "wof:lastmodified":1473901329,
+    "wof:lastmodified":1510943737,
     "wof:name":"Glorioso Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303418553,
+        203108435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

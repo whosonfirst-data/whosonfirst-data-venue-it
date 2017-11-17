@@ -7,13 +7,16 @@
     "addr:postcode":"46042;46042",
     "addr:street":"V. Svezia;Goffredo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.470941,45.288441,10.470941,45.288441",
     "geom:latitude":45.288441,
     "geom:longitude":10.470941,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4, V. Svezia 46042 Castel Goffredo",
     "sg:city":"Castel Goffredo",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_0WVQYdZ8lbz1BvwPvRigzS_45.288441_10.470941@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"05a24d86afe87c5335bf351917d785fe",
+    "wof:geomhash":"cbbd8fbcda4e3d86c0c5e2b8f42af681",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286465471,
-    "wof:lastmodified":1473901067,
+    "wof:lastmodified":1510942771,
     "wof:name":"Calzificio Carol Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091683757
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

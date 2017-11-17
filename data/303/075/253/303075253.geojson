@@ -7,13 +7,16 @@
     "addr:postcode":"26815;26815",
     "addr:street":"Via Braglia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.503256,45.253597,9.503256,45.253597",
     "geom:latitude":45.253597,
     "geom:longitude":9.503256,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Braglia 7 26815 Massalengo",
     "sg:city":"Massalengo",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_1u9hmyttVw4enYogDTLem6_45.253597_9.503256@1306269855"
     },
     "wof:country":"IT",
-    "wof:geomhash":"37e766ca69dad1f17caa87f66d2a418f",
+    "wof:geomhash":"24266996d8e438bb86d2017217076e9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":303075253,
-    "wof:lastmodified":1473900350,
+    "wof:lastmodified":1510942910,
     "wof:name":"Vemer Enclosures Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287288563
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

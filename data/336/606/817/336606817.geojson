@@ -7,13 +7,16 @@
     "addr:postcode":"30030;30030",
     "addr:street":"Via Noalese Sud",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.989929,45.451801,11.989929,45.451801",
     "geom:latitude":45.451801,
     "geom:longitude":11.989929,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"90, Via Noalese Sud 30030 Pianiga",
     "sg:city":"Pianiga",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7kGaILSF2xCEyWZyMitSD3_45.451801_11.989929@1306269873"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e22189dc250236d09b530566a70196e9",
+    "wof:geomhash":"67d8cf7d2f0f83f5a39b918185e30da2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":336606817,
-    "wof:lastmodified":1473900086,
+    "wof:lastmodified":1510944080,
     "wof:name":"B.p. Riduttori (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320541077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

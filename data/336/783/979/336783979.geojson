@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.821133,44.550541,10.821133,44.550541",
     "geom:latitude":44.550541,
     "geom:longitude":10.821133,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"73, V. Ghiarola Vecchia 41042 Fiorano Modenese",
     "sg:city":"Fiorano Modenese",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_55eSqKvSBB9L5pCGdGbpIU_44.550541_10.821133@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9be4a863d15aa372fa5c1201284b29bd",
+    "wof:geomhash":"3e6b7493189337285e347af43fbaadba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":336783979,
-    "wof:lastmodified":1473900734,
+    "wof:lastmodified":1510943821,
     "wof:name":"System Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        319863251
+    ],
     "wof:tags":[
         "machine",
         "-",

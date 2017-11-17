@@ -7,13 +7,16 @@
     "addr:postcode":"28010;28010",
     "addr:street":"Via Casale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.441865,45.75705,8.441865,45.75705",
     "geom:latitude":45.75705,
     "geom:longitude":8.441865,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Casale 37 28010 Bolzano Novarese",
     "sg:city":"Bolzano Novarese",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7Ijx9bbDohvTsDkfkQUqW8_45.757050_8.441865@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"15d445a8a7c6fd48bc43120ceb49096e",
+    "wof:geomhash":"01166de544eced3256cf4b38b72bd5f3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":186251773,
-    "wof:lastmodified":1473900699,
+    "wof:lastmodified":1510943992,
     "wof:name":"M & Z Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091761611
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bathroom",

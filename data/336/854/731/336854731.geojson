@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.086103,45.334366,9.086103,45.334366",
     "geom:latitude":45.334366,
     "geom:longitude":9.086103,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6, Via Copernico 20082 Binasco",
     "sg:city":"Binasco",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_1yXWoiUxmo80GErBsdhHoL_45.334366_9.086103@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9339b5038fad30c2078c7ee1d8dfa523",
+    "wof:geomhash":"cba9bb555241498764ad35ee1dbb1ddd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":336854731,
-    "wof:lastmodified":1473900883,
+    "wof:lastmodified":1510943082,
     "wof:name":"Overmet Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091670807
+    ],
     "wof:tags":[
         "machine",
         "-",

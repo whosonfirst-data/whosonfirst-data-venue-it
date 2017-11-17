@@ -7,13 +7,16 @@
     "addr:postcode":"12066",
     "addr:street":"Monticello",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.88229,44.697895,7.88229,44.697895",
     "geom:latitude":44.697895,
     "geom:longitude":7.88229,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12066 Monticello D'alba",
     "sg:classifiers":[],
     "sg:orig_category":"Climatizzazione E Condizionamento, Apparecchiature E Servizi. Accessori Dei Mezzi Di Trasporto",
@@ -31,7 +34,7 @@
         "sg:id":"SG_7APMwO8RRzW6KGvM2QM5th_44.697895_7.882290@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"cedf4e6de1fd00ca7e6790433ef1b6de",
+    "wof:geomhash":"2e166b3112a48542bb0df9d26a25b9e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +46,17 @@
         }
     ],
     "wof:id":286428269,
-    "wof:lastmodified":1473900980,
+    "wof:lastmodified":1510942889,
     "wof:name":"Tecnovision Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        286685407
+    ],
+    "wof:supersedes":[
+        304068315
+    ],
     "wof:tags":[]
 },
   "bbox": [

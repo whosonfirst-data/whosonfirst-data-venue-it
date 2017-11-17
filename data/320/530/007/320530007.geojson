@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.032205,45.770714,9.032205,45.770714",
     "geom:latitude":45.770714,
     "geom:longitude":9.032205,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Firenze 3 22079 Villa Guardia",
     "sg:city":"Villa Guardia",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_1lCzSigyUCCMMjNQ4p4GuA_45.770714_9.032205@1306269870"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8b1391807bbb3453cec838f5e03bed37",
+    "wof:geomhash":"25c136daafe1e922e31ead8febfe0d8b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":320530007,
-    "wof:lastmodified":1473901712,
+    "wof:lastmodified":1510943022,
     "wof:name":"Fratelli Robustelli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336852601
+    ],
     "wof:tags":[
         "machine",
         "textile"

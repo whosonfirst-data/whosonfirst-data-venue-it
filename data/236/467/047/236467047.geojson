@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.055985,45.750664,9.055985,45.750664",
     "geom:latitude":45.750664,
     "geom:longitude":9.055985,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Ticino 27 22073 Fino Mornasco",
     "sg:city":"Fino Mornasco",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2iVG4VQ90CUJmrQtMr48xF_45.750664_9.055985@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"26766dbb0d4391e1e970458bd8ecd90e",
+    "wof:geomhash":"4558dfe39485635bf59f76a650738fa6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":236467047,
-    "wof:lastmodified":1473901482,
+    "wof:lastmodified":1510942980,
     "wof:name":"Bottonificio Lariano Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286609187
+    ],
     "wof:tags":[
         "button",
         "high-fashion"

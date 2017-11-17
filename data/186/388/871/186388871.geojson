@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.523205,44.435326,11.523205,44.435326",
     "geom:latitude":44.435326,
     "geom:longitude":11.523205,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Molise 23 40060 Osteria Grande",
     "sg:city":"Osteria Grande",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_1lVg4qga8uFLNVf9SO7qv3_44.435326_11.523205@1306269795"
     },
     "wof:country":"IT",
-    "wof:geomhash":"68b31f760f24c3075840ba9804fa63c6",
+    "wof:geomhash":"bd927c7d0b55d7f0ed654afb966dc619",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":186388871,
-    "wof:lastmodified":1473901130,
+    "wof:lastmodified":1510941357,
     "wof:name":"Modular Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091748563
+    ],
     "wof:tags":[
         "curtain",
         "black-out"

@@ -7,13 +7,16 @@
     "addr:postcode":"27023;27023",
     "addr:street":"Via Roma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.81839,45.352055,8.81839,45.352055",
     "geom:latitude":45.352055,
     "geom:longitude":8.81839,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Roma 145 27023 Cassolnovo",
     "sg:city":"Cassolnovo",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_51Rs2LzWjMdZ1YvKpBZEky_45.352055_8.818390@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"73d08cee4e8377260f27dea0ca2fae29",
+    "wof:geomhash":"5a6060ac0998f047b71c27b17561db4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":219247403,
-    "wof:lastmodified":1473900561,
+    "wof:lastmodified":1510943251,
     "wof:name":"Nuova Ginev Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        287280611
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "making",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.790174,45.684467,9.790174,45.684467",
     "geom:latitude":45.684467,
     "geom:longitude":9.790174,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24060 San Paolo D'argon",
     "sg:classifiers":[],
     "sg:orig_category":"Utensili Meccanici E Materiali",
@@ -32,7 +34,7 @@
         "sg:id":"SG_5UGIcNlIuEXjdyanBUfal8_45.684467_9.790174@1306269830"
     },
     "wof:country":"IT",
-    "wof:geomhash":"80609fe3275fa705fd166435e3a94f43",
+    "wof:geomhash":"39b7957076f93d4c57fabf58d3b8d680",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":253533531,
-    "wof:lastmodified":1473901467,
+    "wof:lastmodified":1510942604,
     "wof:name":"Argon Diamant Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253530731
+    ],
     "wof:tags":[]
 },
   "bbox": [

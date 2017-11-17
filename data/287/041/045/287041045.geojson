@@ -7,13 +7,16 @@
     "addr:postcode":"31057;31057",
     "addr:street":"Via Cendon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.309305,45.644661,12.309305,45.644661",
     "geom:latitude":45.644661,
     "geom:longitude":12.309305,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Cendon 1 31057 Silea",
     "sg:city":"Cendon",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7kdRaE9lITQZYWhk1KQ1lP_45.644661_12.309305@1306269852"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e2ada02fc7cb298b02debebd9997ce63",
+    "wof:geomhash":"40f8bfe0431c0c61f8d99eaafbbd477d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":287041045,
-    "wof:lastmodified":1473900285,
+    "wof:lastmodified":1510943719,
     "wof:name":"Comas Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336638139
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "preparation",

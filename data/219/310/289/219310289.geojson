@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.287951,45.432747,9.287951,45.432747",
     "geom:latitude":45.432747,
     "geom:longitude":9.287951,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Martiri Di Cefalonia 1 20068 Peschiera Borromeo",
     "sg:city":"Peschiera Borromeo",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7Lt7x4yvi94OrXX4wMxt31_45.432747_9.287951@1306269806"
     },
     "wof:country":"IT",
-    "wof:geomhash":"94e18c6a5dba4227cb35552ab3c51032",
+    "wof:geomhash":"f06da7cec139f53682b9381b2d07d046",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":219310289,
-    "wof:lastmodified":1473900823,
+    "wof:lastmodified":1510943796,
     "wof:name":"Novacavi S.p.a.",
     "wof:parent_id":85862743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303038971
+    ],
     "wof:tags":[
         "cable",
         "special-purpose"

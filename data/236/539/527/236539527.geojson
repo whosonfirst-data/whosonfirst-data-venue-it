@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.422516,45.649723,12.422516,45.649723",
     "geom:latitude":45.649723,
     "geom:longitude":12.422516,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16, Via Lombardia 31050 Monastier Di Treviso",
     "sg:city":"Monastier di Treviso",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_5RNTMzlLOUAVnsP1Fi31AN_45.649723_12.422516@1306269819"
     },
     "wof:country":"IT",
-    "wof:geomhash":"35b4ae8de7a850cb878e90a8e13d1585",
+    "wof:geomhash":"2e57964a4aaa778eb7895e7e4dcefb7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":236539527,
-    "wof:lastmodified":1473901525,
+    "wof:lastmodified":1510943357,
     "wof:name":"Arper S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253155763
+    ],
     "wof:tags":[
         "household"
     ]

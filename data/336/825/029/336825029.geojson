@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.669775,45.107937,7.669775,45.107937",
     "geom:latitude":45.107937,
     "geom:longitude":7.669775,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"189, V. Massari 10148 Torino",
     "sg:city":"Torino",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_2Gau4bEgapdH5AoHM67zCL_45.107937_7.669775@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"4809053d583d2d13fdad35abcc91b3fe",
+    "wof:geomhash":"8597dec0dc18c7d97e24d40831144874",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":336825029,
-    "wof:lastmodified":1473900720,
+    "wof:lastmodified":1510942023,
     "wof:name":"Fidat Srl",
     "wof:parent_id":85862797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        219545171
+    ],
     "wof:tags":[
         "machine",
         "-",

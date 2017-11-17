@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.146646,44.51046,11.146646,44.51046",
     "geom:latitude":44.51046,
     "geom:longitude":11.146646,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Provinciale 111 40056 Crespellano",
     "sg:city":"Crespellano",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_79qJVsBMeslK73E4WCveFF_44.510460_11.146646@1306269808"
     },
     "wof:country":"IT",
-    "wof:geomhash":"3dca182bad116e3f272bacd3d26724a9",
+    "wof:geomhash":"c233cb64141b0cc3962f219187fc033b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":219542507,
-    "wof:lastmodified":1473901447,
+    "wof:lastmodified":1510942567,
     "wof:name":"Magetron Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336709501
+    ],
     "wof:tags":[
         "repacking"
     ]

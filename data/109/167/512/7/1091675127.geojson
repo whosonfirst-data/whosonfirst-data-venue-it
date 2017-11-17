@@ -7,13 +7,16 @@
     "addr:postcode":"40068",
     "addr:street":"San;San;Bologna",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4328899384,44.4689941406,11.4328899384,44.4689941406",
     "geom:latitude":44.468994,
     "geom:longitude":11.43289,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473878621,
-    "wof:geomhash":"801bbc825720b811a7572c20a98ee287",
+    "wof:geomhash":"f630b18e16c6110e0a2e8581e0ca758e",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -45,13 +48,19 @@
         }
     ],
     "wof:id":1091675127,
-    "wof:lastmodified":1473900754,
+    "wof:lastmodified":1510944154,
     "wof:name":"Acfi Srl",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303556115,
+        303489091,
+        253433101
+    ],
+    "wof:supersedes":[
+        320068247
+    ],
     "wof:tags":[]
 },
   "bbox": [

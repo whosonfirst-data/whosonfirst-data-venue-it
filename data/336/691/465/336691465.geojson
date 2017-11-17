@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.232266,45.576363,9.232266,45.576363",
     "geom:latitude":45.576363,
     "geom:longitude":9.232266,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"77, Via Della Taccona 20052 Monza",
     "sg:city":"Monza",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5MnflgXXoBCxpPb4oF2MFR_45.576363_9.232266@1306269874"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1edc0bee6953bc7081a651ef832cde27",
+    "wof:geomhash":"5c8084b5ddef857b3a1fd6129710a7ab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":336691465,
-    "wof:lastmodified":1473900402,
+    "wof:lastmodified":1510941371,
     "wof:name":"Industrie Cbi S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        220081567
+    ],
     "wof:tags":[
         "machine",
         "-",

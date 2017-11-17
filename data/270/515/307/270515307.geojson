@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.284794,45.47924,10.284794,45.47924",
     "geom:latitude":45.47924,
     "geom:longitude":10.284794,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13, Via Industriale 25014 Castenedolo",
     "sg:city":"Castenedolo",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_5sd8bmA0jeWwqx70UHqjkH_45.479240_10.284794@1306269842"
     },
     "wof:country":"IT",
-    "wof:geomhash":"6d090af5aaef23f390f96c5121e77cea",
+    "wof:geomhash":"ab845b03901a9a33701e66096ece93dd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":270515307,
-    "wof:lastmodified":1473901851,
+    "wof:lastmodified":1510942846,
     "wof:name":"Comlube (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270481759
+    ],
     "wof:tags":[
         "chemical",
         "pharmaceutical"

@@ -7,13 +7,16 @@
     "addr:postcode":"13018",
     "addr:street":"Valduggia Valduggia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.278388,45.711861,8.278388,45.711861",
     "geom:latitude":45.711861,
     "geom:longitude":8.278388,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13018 Valduggia",
     "sg:city":"Valduggia",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_3ZoF22ktlElzhDQ1ALGtLy_45.711861_8.278388@1306269829"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a3304f690a8ce7f9644de3e9d1d8c1fd",
+    "wof:geomhash":"e6df36830d5d78d22e315f0374317d44",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,19 @@
         }
     ],
     "wof:id":253452287,
-    "wof:lastmodified":1473901341,
+    "wof:lastmodified":1510943311,
     "wof:name":"Rigamonti Ghisa Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303735107,
+        219956431
+    ],
+    "wof:supersedes":[
+        253442311,
+        303410957
+    ],
     "wof:tags":[]
 },
   "bbox": [

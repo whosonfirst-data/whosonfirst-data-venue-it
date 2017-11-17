@@ -7,13 +7,16 @@
     "addr:postcode":"20144;20144",
     "addr:street":"Via Solari Andrea",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1668548584,45.4565200806,9.1668548584,45.4565200806",
     "geom:latitude":45.45652,
     "geom:longitude":9.166855,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11, Via Solari Andrea 20144 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473878062,
-    "wof:geomhash":"28082137b832c84e14d1cae25ecb13d6",
+    "wof:geomhash":"841dcf519aeab065d1a669134d7746f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1091661187,
-    "wof:lastmodified":1473900249,
+    "wof:lastmodified":1510942299,
     "wof:name":"Cimi (s.p.a.)",
     "wof:parent_id":85862721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236402629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

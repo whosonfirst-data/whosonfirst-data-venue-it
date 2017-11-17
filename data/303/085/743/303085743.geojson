@@ -7,13 +7,16 @@
     "addr:postcode":"20090;20090",
     "addr:street":"Via Lazio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.11251,45.418663,9.11251,45.418663",
     "geom:latitude":45.418663,
     "geom:longitude":9.11251,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Lazio 25 20090 Buccinasco",
     "sg:city":"Buccinasco",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_63Sce0NUpry7d6JM9FaShl_45.418663_9.112510@1306269855"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f44a5b97303add3ae2472db5feeb035e",
+    "wof:geomhash":"56e15c11bd12819ac9f52e765622df67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":303085743,
-    "wof:lastmodified":1473900421,
+    "wof:lastmodified":1510942886,
     "wof:name":"Ados Srl",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320843963
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "scale",

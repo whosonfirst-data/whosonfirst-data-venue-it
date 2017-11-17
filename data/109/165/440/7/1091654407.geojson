@@ -7,13 +7,16 @@
     "addr:postcode":"28024;28024",
     "addr:street":"Via Don Minzoni",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4361095428,45.735824585,8.4361095428,45.735824585",
     "geom:latitude":45.735825,
     "geom:longitude":8.43611,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"36, Via Don Minzoni 28024 Gozzano",
     "sg:city":"Gozzano",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"IT",
     "wof:created":1473877787,
-    "wof:geomhash":"236bd57c4d6c75c217bb5c933b0553f7",
+    "wof:geomhash":"edcf99344a3540fb873497aee34e1b3e",
     "wof:hierarchy":[],
     "wof:id":1091654407,
-    "wof:lastmodified":1473900569,
+    "wof:lastmodified":1510943630,
     "wof:name":"Rubinetterie Godio (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091766641
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"

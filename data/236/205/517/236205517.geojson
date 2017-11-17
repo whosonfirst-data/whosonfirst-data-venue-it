@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.120657,42.435669,11.120657,42.435669",
     "geom:latitude":42.435669,
     "geom:longitude":11.120657,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"58019 Monte Argentario",
     "sg:city":"Monte Argentario",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_53UfbKtnKJNGBuucU0RBTu_42.435669_11.120657@1306269816"
     },
     "wof:country":"IT",
-    "wof:geomhash":"95cff01416b73126474c1189cbac988d",
+    "wof:geomhash":"3d97afc503c87e4e134ee8bbe3038ce5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":236205517,
-    "wof:lastmodified":1473900990,
+    "wof:lastmodified":1510942018,
     "wof:name":"F.k. Boats Di Koppelmans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270160251
+    ],
     "wof:tags":[]
 },
   "bbox": [

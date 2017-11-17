@@ -7,13 +7,16 @@
     "addr:postcode":"25068;25068",
     "addr:street":"Via Seradello",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.169667,45.670864,10.169667,45.670864",
     "geom:latitude":45.670864,
     "geom:longitude":10.169667,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Seradello 203 25068 Sarezzo",
     "sg:city":"Sarezzo",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2zyVY1N8Xj9jQvftZvUSSA_45.670864_10.169667@1306269814"
     },
     "wof:country":"IT",
-    "wof:geomhash":"fbc13bd25b2def543a6908574b8debc8",
+    "wof:geomhash":"1d52dde4a2899f8832be42c7b423a075",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":236020399,
-    "wof:lastmodified":1473900205,
+    "wof:lastmodified":1510941752,
     "wof:name":"Europress S.p.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091655373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "die",

@@ -7,13 +7,16 @@
     "addr:postcode":"56028",
     "addr:street":"S. Miniato Pisa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.396585,43.716137,10.396585,43.716137",
     "geom:latitude":43.716137,
     "geom:longitude":10.396585,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"56028 S. Miniato",
     "sg:classifiers":[
         {
@@ -43,7 +46,7 @@
         "sg:id":"SG_1dzRzR7hIKfvcEuHVOlFqI_43.716137_10.396585@1306269836"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a0a9fea04f968e537aed2def2e06affe",
+    "wof:geomhash":"5a5291ebca1b488dafe74c839b3c8d8d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +58,26 @@
         }
     ],
     "wof:id":269852587,
-    "wof:lastmodified":1473901472,
+    "wof:lastmodified":1510944157,
     "wof:name":"Giglio Plast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203028833,
+        269853717,
+        1091666675,
+        320408921,
+        320429317
+    ],
+    "wof:supersedes":[
+        202980785,
+        236417181,
+        269851339,
+        269849879,
+        219551219,
+        269788367
+    ],
     "wof:tags":[
         "breeding",
         "work",

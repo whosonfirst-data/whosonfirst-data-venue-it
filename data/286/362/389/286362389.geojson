@@ -7,13 +7,16 @@
     "addr:postcode":"benigno canavese;10080",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.789597,45.222923,7.789597,45.222923",
     "geom:latitude":45.222923,
     "geom:longitude":7.789597,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10080 San Benigno Canavese",
     "sg:city":"San Benigno Canavese",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_39oewTHUZBZNzw1diw4WnQ_45.222923_7.789597@1306269844"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ffe41f58008158d6f7d67b9be2b1eeea",
+    "wof:geomhash":"12462ca6384b5301eb317171f014d670",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,17 @@
         }
     ],
     "wof:id":286362389,
-    "wof:lastmodified":1473900567,
+    "wof:lastmodified":1510942499,
     "wof:name":"Car Elettronic Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186369925
+    ],
+    "wof:supersedes":[
+        303101561
+    ],
     "wof:tags":[]
 },
   "bbox": [

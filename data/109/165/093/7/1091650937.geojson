@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6341962814,43.2371673584,13.6341962814,43.2371673584",
     "geom:latitude":43.237167,
     "geom:longitude":13.634196,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Umbria 132 63014 Montegranaro",
     "sg:city":"Montegranaro",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473877654,
-    "wof:geomhash":"e0b53d2a4f4abe6011489035696c21bc",
+    "wof:geomhash":"e2eb419198d92b6074ab229ff76a8456",
     "wof:hierarchy":[],
     "wof:id":1091650937,
-    "wof:lastmodified":1473900221,
+    "wof:lastmodified":1510943878,
     "wof:name":"Calzaturifici C.l.f. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        269511213
+    ],
     "wof:tags":[
         "men's",
         "boot"

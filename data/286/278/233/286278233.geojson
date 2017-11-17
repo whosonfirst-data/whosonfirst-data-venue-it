@@ -7,13 +7,16 @@
     "addr:postcode":"20021;20021",
     "addr:street":"Via Monte Cervino",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.126777,45.545822,9.126777,45.545822",
     "geom:latitude":45.545822,
     "geom:longitude":9.126777,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2/4, Via Monte Cervino 20021 Bollate",
     "sg:city":"Bollate",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_6IlNVY9gMhwN5Qv51HpOM9_45.545822_9.126777@1306269843"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a00971194ef4cee90e7f27b62a10bec0",
+    "wof:geomhash":"cbfdb7e2d5a2c51dcfee18db5eddd78e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":286278233,
-    "wof:lastmodified":1473900244,
+    "wof:lastmodified":1510942381,
     "wof:name":"T I A C Srl",
     "wof:parent_id":85796905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236178487
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

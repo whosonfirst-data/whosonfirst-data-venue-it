@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1648,45.895527,12.1648,45.895527",
     "geom:latitude":45.895527,
     "geom:longitude":12.1648,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45, Via Sernaglia 31053 Pieve Di Soligo",
     "sg:city":"Pieve di Soligo",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_0jP7yknmaqZlLflPI7QslO_45.895527_12.164800@1306269820"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f3e3683356846884be693b2139c88821",
+    "wof:geomhash":"cb126a26a3dd7512b5f239ec8c293f3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":236633533,
-    "wof:lastmodified":1473901601,
+    "wof:lastmodified":1510942303,
     "wof:name":"Move S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        219282009
+    ],
     "wof:tags":[
         "household"
     ]

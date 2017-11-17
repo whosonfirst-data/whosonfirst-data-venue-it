@@ -7,6 +7,7 @@
     "addr:postcode":"10024;10024",
     "addr:street":"Cso Roma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":7.666528,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Cso Roma 30 10024 Moncalieri",
     "sg:city":"Moncalieri",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_3f7B0b9LIMuhE2aZCljXYZ_45.010658_7.666528@1306269808"
     },
     "wof:country":"IT",
-    "wof:geomhash":"807e0ad8c5755c2ad5039dcba3b0355f",
+    "wof:geomhash":"ccb23f18e2671a32266566fd6efa1898",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":219515939,
-    "wof:lastmodified":1491929767,
+    "wof:lastmodified":1510942120,
     "wof:name":"Asia Import Srl",
     "wof:parent_id":85862773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091758899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "system"

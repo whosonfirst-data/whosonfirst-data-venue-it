@@ -7,13 +7,16 @@
     "addr:postcode":"46019;46019",
     "addr:street":"Via Belfiore",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.498341,44.936707,10.498341,44.936707",
     "geom:latitude":44.936707,
     "geom:longitude":10.498341,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Belfiore 24 46019 Viadana",
     "sg:city":"Viadana",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_2JzHMmp31vs5YNgKVWGbZH_44.936707_10.498341@1306269795"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0675d56ed49414d979a664a8ab359571",
+    "wof:geomhash":"cae7a493fd46188c4b407dcf09afa238",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":186262581,
-    "wof:lastmodified":1473900687,
+    "wof:lastmodified":1510943242,
     "wof:name":"Caleffi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286995171
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "linen",

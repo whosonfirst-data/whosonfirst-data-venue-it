@@ -7,13 +7,16 @@
     "addr:postcode":"24060",
     "addr:street":"San",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.802482,45.685806,9.802482,45.685806",
     "geom:latitude":45.685806,
     "geom:longitude":9.802482,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24060 San Paolo D'argon",
     "sg:classifiers":[
         {
@@ -41,7 +44,7 @@
         "sg:id":"SG_3TWf6FbcT4qsjsAIMhLEU3_45.685806_9.802482@1306269812"
     },
     "wof:country":"IT",
-    "wof:geomhash":"3f5c811f154a5b8376469b427903c3e7",
+    "wof:geomhash":"ed64ffec68888117b5c952ea4a647b67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,18 @@
         }
     ],
     "wof:id":220064861,
-    "wof:lastmodified":1473900429,
+    "wof:lastmodified":1510944064,
     "wof:name":"Stars Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253564825,
+        253564897,
+        336872775,
+        1091788933,
+        1091671681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "activities",

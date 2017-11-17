@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.327958,45.900715,12.327958,45.900715",
     "geom:latitude":45.900715,
     "geom:longitude":12.327958,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31020 San Vendemiano",
     "sg:city":"San Vendemiano",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_06TtbP8L0xrSiXxaj9sscq_45.900715_12.327958@1306269863"
     },
     "wof:country":"IT",
-    "wof:geomhash":"eda6ec17f3f8b1320385889d8dd5d5e8",
+    "wof:geomhash":"31e2f0ce89c81aaab456dcdb259d36c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,22 @@
         }
     ],
     "wof:id":303962523,
-    "wof:lastmodified":1473901949,
+    "wof:lastmodified":1510941502,
     "wof:name":"Lucarelli Florindo & Figli Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286405795,
+        287151499,
+        303962389,
+        320527029,
+        236026149,
+        303962375,
+        1091665005,
+        320229399
+    ],
     "wof:tags":[]
 },
   "bbox": [

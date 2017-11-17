@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.028137,45.754257,9.028137,45.754257",
     "geom:latitude":45.754257,
     "geom:longitude":9.028137,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Manzoni 29 22071 Cadorago",
     "sg:city":"Cadorago",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_2XB9oK26cG1EO6xgNrHPYN_45.754257_9.028137@1306269842"
     },
     "wof:country":"IT",
-    "wof:geomhash":"130f9048755e1b971231081d726d9648",
+    "wof:geomhash":"2cbbe1a310eb22fdb1314495e1309f82",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":270492387,
-    "wof:lastmodified":1473901849,
+    "wof:lastmodified":1510943571,
     "wof:name":"Caglificio Clerici Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        235958117
+    ],
     "wof:tags":[
         "rennet",
         "powder",

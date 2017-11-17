@@ -7,13 +7,16 @@
     "addr:postcode":"81020",
     "addr:street":"Strada Caserta",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.332371,41.052814,14.332371,41.052814",
     "geom:latitude":41.052814,
     "geom:longitude":14.332371,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"81020 San Nicola La Strada",
     "sg:city":"San Nicola la Strada",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_4wMNy9ZyFETJaZdK4233t2_41.052814_14.332371@1306269857"
     },
     "wof:country":"IT",
-    "wof:geomhash":"af779428072a13ac1bb99f293694362c",
+    "wof:geomhash":"5c0421d74df80a6ef6162484eaad551b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,13 +62,21 @@
         }
     ],
     "wof:id":303281553,
-    "wof:lastmodified":1473901231,
+    "wof:lastmodified":1510943132,
     "wof:name":"Ideco Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203118225,
+        219847523,
+        303284321
+    ],
+    "wof:supersedes":[
+        236000393,
+        320050723,
+        219361137
+    ],
     "wof:tags":[
         "refuse",
         "supply",

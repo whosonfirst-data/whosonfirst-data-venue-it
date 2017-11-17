@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.503256,45.253597,9.503256,45.253597",
     "geom:latitude":45.253597,
     "geom:longitude":9.503256,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7, Via Braglia 26815 Massalengo",
     "sg:city":"Massalengo",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6SlMUwbMy0xQyPNMluUrdV_45.253597_9.503256@1306269854"
     },
     "wof:country":"IT",
-    "wof:geomhash":"37e766ca69dad1f17caa87f66d2a418f",
+    "wof:geomhash":"24266996d8e438bb86d2017217076e9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":287288563,
-    "wof:lastmodified":1473901425,
+    "wof:lastmodified":1510942910,
     "wof:name":"Vemer Enclosures S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303075253
+    ],
     "wof:tags":[
         "electronic",
         "electrical",

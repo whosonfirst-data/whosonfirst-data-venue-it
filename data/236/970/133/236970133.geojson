@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.128981,45.026596,9.128981,45.026596",
     "geom:latitude":45.026596,
     "geom:longitude":9.128981,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Milano 42 27045 Casteggio",
     "sg:city":"Casteggio",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2Gxq0tpRa3j2SpYcVjP6o5_45.026596_9.128981@1306269823"
     },
     "wof:country":"IT",
-    "wof:geomhash":"423ab6c6a01665cb9d62dfe6c9af7cbd",
+    "wof:geomhash":"2e98f0055b3ebc06fddfcab1decd78a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":236970133,
-    "wof:lastmodified":1473901921,
+    "wof:lastmodified":1510942554,
     "wof:name":"Dsm Bakery Ingredients Italy Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236155051
+    ],
     "wof:tags":[
         "yeast"
     ]

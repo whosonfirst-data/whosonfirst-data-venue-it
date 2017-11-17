@@ -7,13 +7,16 @@
     "addr:postcode":"20017;20017",
     "addr:street":"Corso Europa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.051186,45.525223,9.051186,45.525223",
     "geom:latitude":45.525223,
     "geom:longitude":9.051186,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"81, Corso Europa 20017 Rho",
     "sg:city":"Rho",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1dWl9UBkO1wmYDA2g32myQ_45.525223_9.051186@1306269857"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e9bc7f6b9ca2ef791c18bd0f6d91074e",
+    "wof:geomhash":"ce120cf7fe7831814f29716a13bb28a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":303245149,
-    "wof:lastmodified":1473901172,
+    "wof:lastmodified":1510942813,
     "wof:name":"Gears (s.p.a.)",
     "wof:parent_id":85862769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286663063
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"

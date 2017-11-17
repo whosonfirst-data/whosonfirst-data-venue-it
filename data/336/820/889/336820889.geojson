@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.017617,45.575157,10.017617,45.575157",
     "geom:latitude":45.575157,
     "geom:longitude":10.017617,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17, Via Rovato 25046 Cazzago San Martino",
     "sg:city":"Cazzago San Martino",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3ggI5E31Uklwt885R8QNA4_45.575157_10.017617@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"aa8f02026e450c3ff2b54e391fc69e6f",
+    "wof:geomhash":"f2bc432dfc731771c1b1cb59e15eaf4e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":336820889,
-    "wof:lastmodified":1473900745,
+    "wof:lastmodified":1510943579,
     "wof:name":"Delta (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        287043551
+    ],
     "wof:tags":[
         "machine",
         "-",

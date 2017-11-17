@@ -7,13 +7,16 @@
     "addr:postcode":"20041;20041",
     "addr:street":"Via Della Fisica",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.359592,45.565903,9.359592,45.565903",
     "geom:latitude":45.565903,
     "geom:longitude":9.359592,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Della Fisica, 26/28 20041 Agrate Brianza",
     "sg:city":"Agrate Brianza",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3PjWmJALCatfGC3Vq80aZ4_45.565903_9.359592@1306269865"
     },
     "wof:country":"IT",
-    "wof:geomhash":"c9a28b83b1aef05018028a8893897674",
+    "wof:geomhash":"13c646a0eee53caca0cbb08e285a7dc3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":319859029,
-    "wof:lastmodified":1473900420,
+    "wof:lastmodified":1510941989,
     "wof:name":"Sincosald Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091705287
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

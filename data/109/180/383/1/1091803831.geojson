@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1786260605,45.4677505493,9.1786260605,45.4677505493",
     "geom:latitude":45.467751,
     "geom:longitude":9.178626,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Foro Buonaparte, 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473884805,
-    "wof:geomhash":"00a54c6fd6b9b964388d22454a1ecbce",
+    "wof:geomhash":"2d8ce05845ecbeca1d540c0cc40a95d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1091803831,
-    "wof:lastmodified":1473900251,
+    "wof:lastmodified":1510941443,
     "wof:name":"Racom (sas)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169820237
+    ],
     "wof:tags":[
         "banking",
         "finance",

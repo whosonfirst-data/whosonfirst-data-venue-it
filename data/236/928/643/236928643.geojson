@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.322957,45.580112,9.322957,45.580112",
     "geom:latitude":45.580112,
     "geom:longitude":9.322957,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1, Via Monza 20049 Concorezzo",
     "sg:city":"Concorezzo",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_5yB7TzwJHQJb7J2ISXJnRf_45.580112_9.322957@1306269823"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e410769c6535d0acb02ba3ac57114165",
+    "wof:geomhash":"7de893925fda58ece106041a9bb521a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":236928643,
-    "wof:lastmodified":1473901914,
+    "wof:lastmodified":1510942850,
     "wof:name":"Schindler S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303295495
+    ],
     "wof:tags":[
         "equipment",
         "material",

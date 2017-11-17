@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.258234024,45.9406166077,10.258234024,45.9406166077",
     "geom:latitude":45.940617,
     "geom:longitude":10.258234,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5, Via Degli Emigranti 25040 Cividate Camuno",
     "sg:city":"Cividate Camuno",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"IT",
     "wof:created":1473877727,
-    "wof:geomhash":"3113d57aef52e4f8de5bc4bfb886d302",
+    "wof:geomhash":"5437951b55f3f29ae261991a174451fe",
     "wof:hierarchy":[],
     "wof:id":1091652935,
-    "wof:lastmodified":1473900366,
+    "wof:lastmodified":1510941305,
     "wof:name":"Forgiatura Mame' (s.p.a.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        235985323
+    ],
     "wof:tags":[
         "processing"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"57017;57017",
     "addr:street":"Via Sacco E Vanzetti",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.344444,43.57888,10.344444,43.57888",
     "geom:latitude":43.57888,
     "geom:longitude":10.344444,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Sacco E Vanzetti 11 57017 Stagno",
     "sg:city":"Stagno",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4MLXtIxEszcdi9efS6eurO_43.578880_10.344444@1306269814"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b665afae77d17a9ac7f60a6d439a1ed7",
+    "wof:geomhash":"43adacabd76facc0927cda3b7b9bf6d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236021689,
-    "wof:lastmodified":1473900253,
+    "wof:lastmodified":1510942905,
     "wof:name":"Union Resurgo Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303252937
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engine",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.656904,45.720943,9.656904,45.720943",
     "geom:latitude":45.720943,
     "geom:longitude":9.656904,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Serena 10 24010 Ponteranica",
     "sg:city":"Ponteranica",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_4p6MQNSAdh8QNCJCTjG7WE_45.720943_9.656904@1306269877"
     },
     "wof:country":"IT",
-    "wof:geomhash":"31c4afae49918a0dbf40bcc8afcaed94",
+    "wof:geomhash":"1b745a6d48bde249a26288e3c9ca845c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":336873953,
-    "wof:lastmodified":1473900892,
+    "wof:lastmodified":1510942988,
     "wof:name":"Officine Orobiche Spa",
     "wof:parent_id":85900501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336741665
+    ],
     "wof:tags":[
         "workshop",
         "mechanical"

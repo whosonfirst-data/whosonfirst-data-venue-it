@@ -7,13 +7,16 @@
     "addr:postcode":"20146;20146",
     "addr:street":"Via Bruzzesi Giacinto",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.146826,45.448952,9.146826,45.448952",
     "geom:latitude":45.448952,
     "geom:longitude":9.146826,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"38/40, Via Bruzzesi Giacinto 20146 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2rpew62RnKEjQjL34h8ZbQ_45.448952_9.146826@1306269876"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b55b2a0a913e1b33d5275518e26962ad",
+    "wof:geomhash":"d569e9eea5ed572e19541714cc1c0e85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":336847699,
-    "wof:lastmodified":1473900853,
+    "wof:lastmodified":1510943187,
     "wof:name":"Pall Italia (s.r.l.)",
     "wof:parent_id":85796803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269913305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

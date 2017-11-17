@@ -7,13 +7,16 @@
     "addr:postcode":"20040",
     "addr:street":"Burago",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.384279,45.590801,9.384279,45.590801",
     "geom:latitude":45.590801,
     "geom:longitude":9.384279,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20040 Burago Di Molgora",
     "sg:city":"Burago di Molgora",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_42eYfKm80KYwSQJ256rSAV_45.590801_9.384279@1306269802"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7540d9b8392165e95f6074b6e9ac13d2",
+    "wof:geomhash":"8bf4eeb2cd2b07af97e714099f6fd247",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":202952879,
-    "wof:lastmodified":1473901631,
+    "wof:lastmodified":1510943399,
     "wof:name":"Ala Tec Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286969161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

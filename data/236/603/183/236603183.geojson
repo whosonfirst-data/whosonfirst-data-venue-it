@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.826385,45.817604,8.826385,45.817604",
     "geom:latitude":45.817604,
     "geom:longitude":8.826385,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"53, Via Xxv Aprile 21032 Caravate",
     "sg:city":"Caravate",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_1XlVNT27vFztTdRoCOhQjy_45.817604_8.826385@1306269819"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1d8ba413bbac55fa070810813c0e8056",
+    "wof:geomhash":"d4456a6d7d262e64ec9146f3fa8c3f81",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":236603183,
-    "wof:lastmodified":1473901559,
+    "wof:lastmodified":1510943840,
     "wof:name":"Inda S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186252091
+    ],
     "wof:tags":[
         "household"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.184209,45.490833,9.184209,45.490833",
     "geom:latitude":45.490833,
     "geom:longitude":9.184209,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Rosso Medardo 8 20159 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0N8MXBr8LUh5mhO0MjauUl_45.490833_9.184209@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"67f0619a9ad0ee985faea96300f60388",
+    "wof:geomhash":"eeb427e12c6901f7a5b76493120e4b34",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":186232147,
-    "wof:lastmodified":1473900609,
+    "wof:lastmodified":1510941730,
     "wof:name":"Giusto Faravelli Spa",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286287611
+    ],
     "wof:tags":[
         "base"
     ]

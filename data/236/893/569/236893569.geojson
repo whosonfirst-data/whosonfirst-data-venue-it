@@ -7,13 +7,16 @@
     "addr:postcode":"50053;50053",
     "addr:street":"Via Livornese",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.919997,43.714104,10.919997,43.714104",
     "geom:latitude":43.714104,
     "geom:longitude":10.919997,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"158, Via Livornese 50053 Empoli",
     "sg:city":"Empoli",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_0IMqXK6lI1mJY8dygDFrFW_43.714104_10.919997@1306269822"
     },
     "wof:country":"IT",
-    "wof:geomhash":"391b4c3cc398faab8e7d2c8fa76090ca",
+    "wof:geomhash":"15313d322371a4eb68edd20f39b2d415",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":236893569,
-    "wof:lastmodified":1473901912,
+    "wof:lastmodified":1510943849,
     "wof:name":"Vetreria S.v.e. Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236893715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

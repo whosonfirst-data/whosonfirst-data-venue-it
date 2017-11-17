@@ -7,13 +7,16 @@
     "addr:postcode":"25126;25126",
     "addr:street":"Via Rose",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.614247,45.640415,9.614247,45.640415",
     "geom:latitude":45.640415,
     "geom:longitude":9.614247,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Rose 24 25126 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3U3swyYVHLri4utnRkMrqa_45.640415_9.614247@1306269819"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d154bb63d1bc1dc005d20f5d36481df1",
+    "wof:geomhash":"ba928c493bbb40ed6c59709ff8baaa0a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":236530501,
-    "wof:lastmodified":1473901517,
+    "wof:lastmodified":1510944003,
     "wof:name":"Ceramica Bresciana Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270456729
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "household",

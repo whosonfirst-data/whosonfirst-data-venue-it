@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.650542,45.926983,12.650542,45.926983",
     "geom:latitude":45.926983,
     "geom:longitude":12.650542,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Malignani 14 33170 Pordenone",
     "sg:city":"Pordenone",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3WdDU9irP2DfVBfLEaZJsq_45.926983_12.650542@1306269857"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2d3329019eb210a22a8e942919da2708",
+    "wof:geomhash":"6bfd7610ce6d229219b5b0e3878715d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":303291487,
-    "wof:lastmodified":1473901253,
+    "wof:lastmodified":1510941558,
     "wof:name":"Saratoga Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236446735
+    ],
     "wof:tags":[
         "equipment",
         "dentist"

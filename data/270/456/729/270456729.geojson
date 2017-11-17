@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.614247,45.640415,9.614247,45.640415",
     "geom:latitude":45.640415,
     "geom:longitude":9.614247,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24, Via Rose 25126 Brescia",
     "sg:city":"Brescia",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_1ga9d2L3pqFmhj0rlEipCe_45.640415_9.614247@1306269842"
     },
     "wof:country":"IT",
-    "wof:geomhash":"d154bb63d1bc1dc005d20f5d36481df1",
+    "wof:geomhash":"ba928c493bbb40ed6c59709ff8baaa0a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":270456729,
-    "wof:lastmodified":1473901838,
+    "wof:lastmodified":1510944003,
     "wof:name":"Ceramica Bresciana (s.r.l.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236530501
+    ],
     "wof:tags":[
         "ceramic"
     ]

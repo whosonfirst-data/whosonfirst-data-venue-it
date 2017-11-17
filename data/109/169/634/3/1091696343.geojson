@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.2635354996,45.5382728577,9.2635354996,45.5382728577",
     "geom:latitude":45.538273,
     "geom:longitude":9.263535,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30, Via Barcellona 20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473879578,
-    "wof:geomhash":"04e82ee3b0b92c7cd7f123fb68c84f00",
+    "wof:geomhash":"0d8ef0407c83dbc957d2704190680695",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":1091696343,
-    "wof:lastmodified":1473900771,
+    "wof:lastmodified":1510942330,
     "wof:name":"B.m.s. Costruzione Stampi (s.r.l.)",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091694769
+    ],
     "wof:tags":[]
 },
   "bbox": [

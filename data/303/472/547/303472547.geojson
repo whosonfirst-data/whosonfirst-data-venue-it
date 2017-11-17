@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.435056,45.580284,9.435056,45.580284",
     "geom:latitude":45.580284,
     "geom:longitude":9.435056,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20040 Cambiago",
     "sg:city":"Cambiago",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
         "sg:id":"SG_01KU6ND3G32dX4PycCEIat_45.580284_9.435056@1306269859"
     },
     "wof:country":"IT",
-    "wof:geomhash":"890992f0cdf1be1dcc1f7a0fff193d2c",
+    "wof:geomhash":"c0c4c79548e4c70e3f2a60e34fb0725b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +48,17 @@
         }
     ],
     "wof:id":303472547,
-    "wof:lastmodified":1473901620,
+    "wof:lastmodified":1510942983,
     "wof:name":"Ormic Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        270253249,
+        320208909,
+        320208943
+    ],
     "wof:tags":[]
 },
   "bbox": [

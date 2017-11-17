@@ -7,13 +7,16 @@
     "addr:postcode":"29012;29012",
     "addr:street":"Via Caorsana",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.816184,45.043312,9.816184,45.043312",
     "geom:latitude":45.043312,
     "geom:longitude":9.816184,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Caorsana 5/a 29012 Caorso",
     "sg:city":"Caorso",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_5AviOH2drwNWwUfu1zeRR9_45.043312_9.816184@1306269844"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e586d3c510446a63ba1e7b8195c1163e",
+    "wof:geomhash":"ef6929030dcaf79dbbd12da196733821",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":286340119,
-    "wof:lastmodified":1473900474,
+    "wof:lastmodified":1510943512,
     "wof:name":"S.a.i.b. Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253400269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

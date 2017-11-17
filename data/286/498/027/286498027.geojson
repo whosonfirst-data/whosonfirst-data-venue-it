@@ -7,13 +7,16 @@
     "addr:postcode":"31057;31057",
     "addr:street":"Via Sile",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.29732,45.650642,12.29732,45.650642",
     "geom:latitude":45.650642,
     "geom:longitude":12.29732,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21, Via Sile 31057 Silea",
     "sg:city":"Silea",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4JLAdnKHDAT2lUh7SFuEh4_45.650642_12.297320@1306269846"
     },
     "wof:country":"IT",
-    "wof:geomhash":"af6f14534ef90705254ba86f499006d9",
+    "wof:geomhash":"dec6ee1fa66c66c4929445b19645b37c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286498027,
-    "wof:lastmodified":1473901185,
+    "wof:lastmodified":1510941804,
     "wof:name":"Criver Trade Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236870057
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

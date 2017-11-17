@@ -7,13 +7,16 @@
     "addr:postcode":"31020;polo di piave;31020",
     "addr:street":"Via Dell'Industria",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.242072,45.666286,12.242072,45.666286",
     "geom:latitude":45.666286,
     "geom:longitude":12.242072,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Dell'industria 14 31020 San Polo Di Piave",
     "sg:city":"San Polo di Piave",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5NQCzL7A7Ls1NEBukdoQGM_45.666286_12.242072@1306269812"
     },
     "wof:country":"IT",
-    "wof:geomhash":"b091696ca885e453d97a626adca835ed",
+    "wof:geomhash":"51331fd72404a110ae26d87d833868c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220088415,
-    "wof:lastmodified":1473900445,
+    "wof:lastmodified":1510943703,
     "wof:name":"Facchin Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091652839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shed"

@@ -7,13 +7,16 @@
     "addr:postcode":"59100;59100",
     "addr:street":"Via Marengo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.087978,43.871918,11.087978,43.871918",
     "geom:latitude":43.871918,
     "geom:longitude":11.087978,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"32, Via Marengo 59100 Prato",
     "sg:city":"Prato",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5kvyIy6vcgCIHVeBHoiCYU_43.871918_11.087978@1306269845"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2555c55538b4cb1518613b0fdf48b3ad",
+    "wof:geomhash":"d76fde2c5d2e4e2c491c081aa23f41ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":286458797,
-    "wof:lastmodified":1473901072,
+    "wof:lastmodified":1510943117,
     "wof:name":"Blu Mania Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253610319
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

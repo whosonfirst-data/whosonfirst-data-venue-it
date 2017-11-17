@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.258653,45.524139,9.258653,45.524139",
     "geom:latitude":45.524139,
     "geom:longitude":9.258653,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15, Via Copernico 20092 Cinisello Balsamo",
     "sg:city":"Cinisello Balsamo",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_2bIiX4MUsjDS4GzeUwhxuU_45.524139_9.258653@1306269873"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e1102e404f9bc4cee0c0c6779d060d4e",
+    "wof:geomhash":"78cdc7371b4c0d1e98bc1fdbf150adff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":320844127,
-    "wof:lastmodified":1473901891,
+    "wof:lastmodified":1510942887,
     "wof:name":"Analytical Control Spa",
     "wof:parent_id":85796863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253579183
+    ],
     "wof:tags":[
         "equipment",
         "-",

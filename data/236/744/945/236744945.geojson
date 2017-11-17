@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.209474,44.6632,11.209474,44.6632",
     "geom:latitude":44.6632,
     "geom:longitude":11.209474,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40017 San Giovanni Persiceto",
     "sg:classifiers":[],
     "sg:orig_category":"Gasolio, Kerosene E Nafta",
@@ -31,7 +33,7 @@
         "sg:id":"SG_6hqsPMWalcsHqYTm9OKPya_44.663200_11.209474@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2dfe93ab188815acc22842770e2830cd",
+    "wof:geomhash":"76a2564f1041d8f736810dd7b9ef1344",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +45,15 @@
         }
     ],
     "wof:id":236744945,
-    "wof:lastmodified":1473901967,
+    "wof:lastmodified":1510942812,
     "wof:name":"Fantozzi - F.g.m. Petroli Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091692415
+    ],
     "wof:tags":[]
 },
   "bbox": [

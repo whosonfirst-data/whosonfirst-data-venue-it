@@ -7,13 +7,16 @@
     "addr:postcode":"20090;20090",
     "addr:street":"Trezzano Naviglio Milano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.0608549118,45.4197502136,9.0608549118,45.4197502136",
     "geom:latitude":45.41975,
     "geom:longitude":9.060855,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20090 Trezzano Naviglio",
     "sg:classifiers":[],
     "sg:orig_category":"Prodotti Vari In Metallo",
@@ -37,7 +40,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473881376,
-    "wof:geomhash":"ee2b7002326ecd28046366e5c948061d",
+    "wof:geomhash":"3d0b5e32b59b7aacd28c468bb44a99c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,13 +54,19 @@
         }
     ],
     "wof:id":1091733883,
-    "wof:lastmodified":1473900649,
+    "wof:lastmodified":1510943763,
     "wof:name":"Femoplast",
     "wof:parent_id":85796849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1091727425
+    ],
+    "wof:supersedes":[
+        286732871,
+        236217763,
+        1091641459
+    ],
     "wof:tags":[]
 },
   "bbox": [

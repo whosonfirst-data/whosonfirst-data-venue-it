@@ -15,6 +15,7 @@
     "geom:longitude":11.26022,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Trento 16 50139 Firenze",
     "sg:city":"Firenze",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
         "sg:id":"SG_2LqeKTxuCnT3aoITQbpb9u_43.789146_11.260220@1306269794"
     },
     "wof:country":"IT",
-    "wof:geomhash":"80499a0a396ff538511bb5f29bf084cc",
+    "wof:geomhash":"ebfa8d7dce27a9ba25659901d978074c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":186233089,
-    "wof:lastmodified":1491929139,
+    "wof:lastmodified":1510941987,
     "wof:name":"Marchi Industriale Spa",
     "wof:parent_id":85900441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286283729
+    ],
     "wof:tags":[
         "base"
     ]

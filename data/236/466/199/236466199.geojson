@@ -7,13 +7,16 @@
     "addr:postcode":"20093;20093",
     "addr:street":"Via Rossini",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.278356,45.54007,9.278356,45.54007",
     "geom:latitude":45.54007,
     "geom:longitude":9.278356,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Rossini 32 20093 Cologno Monzese",
     "sg:city":"Cologno Monzese",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7BeTkZyPTuSNCxLDx7NVxQ_45.540070_9.278356@1306269818"
     },
     "wof:country":"IT",
-    "wof:geomhash":"250be5eb61b96b62c406878302bb964c",
+    "wof:geomhash":"ec0e0c8d9a504acc04c3b1a771f843cc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":236466199,
-    "wof:lastmodified":1473901497,
+    "wof:lastmodified":1510943652,
     "wof:name":"Zangiacomi Claudio Minuterie Metalliche S.r.l.",
     "wof:parent_id":85935821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286629569
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

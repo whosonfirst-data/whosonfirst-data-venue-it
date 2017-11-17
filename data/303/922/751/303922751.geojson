@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.810315,45.59235,9.810315,45.59235",
     "geom:latitude":45.59235,
     "geom:longitude":9.810315,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24050 Mornico Al Serio",
     "sg:city":"Mornico al Serio",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
         "sg:id":"SG_5J7oY7GM3vMcR4AioYF565_45.592350_9.810315@1306269863"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a05cf98dba0840dd1843fd361820cc3c",
+    "wof:geomhash":"355e11393a4863154e54c2c5a50936b0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +48,24 @@
         }
     ],
     "wof:id":303922751,
-    "wof:lastmodified":1473901963,
+    "wof:lastmodified":1510941857,
     "wof:name":"Astro Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1091746525,
+        1091695949,
+        1091731313,
+        1091746595,
+        1091682505,
+        304056223,
+        1091695847,
+        270307279,
+        1091729353,
+        270347587
+    ],
     "wof:tags":[]
 },
   "bbox": [

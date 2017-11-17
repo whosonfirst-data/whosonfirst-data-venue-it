@@ -7,13 +7,16 @@
     "addr:postcode":"20037;20037",
     "addr:street":"Via Roma",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.1592273712,45.5629997253,9.1592273712,45.5629997253",
     "geom:latitude":45.563,
     "geom:longitude":9.159227,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"179, Via Roma 20037 Paderno Dugnano",
     "sg:city":"Paderno Dugnano",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473878105,
-    "wof:geomhash":"d17d225772faf9b995573c7fd28a031a",
+    "wof:geomhash":"bb04d006eba8add8919b274297d05bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1091662385,
-    "wof:lastmodified":1473900392,
+    "wof:lastmodified":1510943314,
     "wof:name":"Metalli Preziosi (s.p.a.)",
     "wof:parent_id":85862607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091705011
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "metallurgy",

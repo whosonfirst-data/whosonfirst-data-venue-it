@@ -7,13 +7,16 @@
     "addr:postcode":"45037;45037",
     "addr:street":"Via Oberdan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.789797,45.070736,11.789797,45.070736",
     "geom:latitude":45.070736,
     "geom:longitude":11.789797,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Oberdan ,37/39 45037 Melara",
     "sg:city":"Melara",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_67gjjV27SDuTzyWVTykqEe_45.070736_11.789797@1306269797"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a4aa2e7da5d408497f1fdcc280eda202",
+    "wof:geomhash":"2ca26a007480fd856ad0a42fd1b693cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":186634703,
-    "wof:lastmodified":1473901825,
+    "wof:lastmodified":1510942756,
     "wof:name":"Pofer Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219766395
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

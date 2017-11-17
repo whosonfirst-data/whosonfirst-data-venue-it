@@ -7,13 +7,16 @@
     "addr:postcode":"34121;34121",
     "addr:street":"Via Della Cassa Di Risparmio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.770745,45.651714,13.770745,45.651714",
     "geom:latitude":45.651714,
     "geom:longitude":13.770745,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10, Via Della Cassa Di Risparmio 34121 Trieste",
     "sg:city":"Trieste",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6kzFI9yyPdmy4Vc2pIuuMn_45.651714_13.770745@1306269789"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a51b3d3db43d7aea23ce26286dd2380c",
+    "wof:geomhash":"b653dc82527f7da3b79462a7dd912283",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":169802861,
-    "wof:lastmodified":1473900170,
+    "wof:lastmodified":1510943873,
     "wof:name":"Banca Cassa Di Risparmio Di Trieste - Banca (s.p.a.)",
     "wof:parent_id":85904965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091802739
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

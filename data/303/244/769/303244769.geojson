@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.344631,44.10043,12.344631,44.10043",
     "geom:latitude":44.10043,
     "geom:longitude":12.344631,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2720, Via Emilia 47020 Longiano",
     "sg:city":"Longiano",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_6Ty4GwAIkgGcFa1snuthbQ_44.100430_12.344631@1306269857"
     },
     "wof:country":"IT",
-    "wof:geomhash":"ad5080ea1f983c0071b042bee0f1cd81",
+    "wof:geomhash":"ce0189c103ab6337343248a395a1282f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":303244769,
-    "wof:lastmodified":1473901188,
+    "wof:lastmodified":1510943130,
     "wof:name":"Fira Industriale Srl.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253102391
+    ],
     "wof:tags":[
         "engine"
     ]

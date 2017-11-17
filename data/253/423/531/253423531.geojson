@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.763373,44.839375,10.763373,44.839375",
     "geom:latitude":44.839375,
     "geom:longitude":10.763373,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Vettigano 11 42010 Rio Saliceto",
     "sg:classifiers":[
         {
@@ -42,7 +44,7 @@
         "sg:id":"SG_5wE91Fc6nX5oX7fgAHTgoW_44.839375_10.763373@1306269829"
     },
     "wof:country":"IT",
-    "wof:geomhash":"84bbc9eae65048c14e916c9946b31bd7",
+    "wof:geomhash":"7c9420331e8abaa320646c965c9faa55",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":253423531,
-    "wof:lastmodified":1473901308,
+    "wof:lastmodified":1510944006,
     "wof:name":"Maglificio Premier Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286551613
+    ],
     "wof:tags":[
         "knitted",
         "knitwear",

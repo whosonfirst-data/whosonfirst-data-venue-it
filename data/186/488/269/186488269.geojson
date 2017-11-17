@@ -7,13 +7,16 @@
     "addr:postcode":"22070;22070",
     "addr:street":"Via Xxv Aprile",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.085456,45.811966,9.085456,45.811966",
     "geom:latitude":45.811966,
     "geom:longitude":9.085456,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Xxv Aprile 71 22070 Guanzate",
     "sg:city":"Guanzate",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_37B3Nfz3RyKyCsivPqavf9_45.811966_9.085456@1306269796"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a474a4070f012a9f88015e5f093507b3",
+    "wof:geomhash":"d08581e7277836b700d3c834bbfbfd4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":186488269,
-    "wof:lastmodified":1473901370,
+    "wof:lastmodified":1510941245,
     "wof:name":"Canclini Tessile S.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091749517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcloth"

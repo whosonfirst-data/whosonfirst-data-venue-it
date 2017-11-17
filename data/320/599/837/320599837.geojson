@@ -7,13 +7,16 @@
     "addr:postcode":"piemonte;12030",
     "addr:street":"Caramagna Piemonte",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.738973,44.780273,7.738973,44.780273",
     "geom:latitude":44.780273,
     "geom:longitude":7.738973,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12030 Caramagna Piemonte",
     "sg:city":"Caramagna Piemonte",
     "sg:classifiers":[],
@@ -33,7 +36,7 @@
         "sg:id":"SG_4nvH2clUDHx2SJ4MPIRa0B_44.780273_7.738973@1306269871"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0e406c49013f2b61e994b464815c603f",
+    "wof:geomhash":"b0c0ac631dd99f8fbc1938b63f42e145",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +48,18 @@
         }
     ],
     "wof:id":320599837,
-    "wof:lastmodified":1473901684,
+    "wof:lastmodified":1510941995,
     "wof:name":"Zinca Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236960791
+    ],
+    "wof:supersedes":[
+        1091793459,
+        287167665
+    ],
     "wof:tags":[]
 },
   "bbox": [

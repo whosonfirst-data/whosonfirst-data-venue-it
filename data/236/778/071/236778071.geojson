@@ -7,13 +7,16 @@
     "addr:postcode":"03039",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.617681,41.71862,13.617681,41.71862",
     "geom:latitude":41.71862,
     "geom:longitude":13.617681,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"03039 Sora",
     "sg:city":"Sora",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_7GAIk1PLVvfEFQIY0YTDeR_41.718620_13.617681@1306269821"
     },
     "wof:country":"IT",
-    "wof:geomhash":"6d361e54cd07cb6dfda1d517582659d1",
+    "wof:geomhash":"a2e2a016523751808ca6e1075321af4e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,23 @@
         }
     ],
     "wof:id":236778071,
-    "wof:lastmodified":1473901902,
+    "wof:lastmodified":1510942835,
     "wof:name":"Il Fiore Di Ciriello Concetta & C. Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        303861547
+    ],
+    "wof:supersedes":[
+        269903415,
+        1091765347,
+        269902901,
+        1091801693,
+        269815965,
+        1091801705,
+        269820353
+    ],
     "wof:tags":[
         "gifts",
         "activities",

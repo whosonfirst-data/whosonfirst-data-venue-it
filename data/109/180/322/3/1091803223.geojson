@@ -7,13 +7,16 @@
     "addr:postcode":"20121;20121",
     "addr:street":"Via Broletto",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.185508728,45.468170166,9.185508728,45.468170166",
     "geom:latitude":45.46817,
     "geom:longitude":9.185509,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"37 Via Broletto, 20121 Milano",
     "sg:city":"Milano",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"IT",
     "wof:created":1473884780,
-    "wof:geomhash":"d38bf3b535c01d8bf8f2baa420431e24",
+    "wof:geomhash":"9636dc7a0afc02827f8d1e81f9d4703b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,17 @@
         }
     ],
     "wof:id":1091803223,
-    "wof:lastmodified":1473900195,
+    "wof:lastmodified":1510943807,
     "wof:name":"Centrosim (spa)",
     "wof:parent_id":85796907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186057129
+    ],
+    "wof:supersedes":[
+        169815077
+    ],
     "wof:tags":[
         "banking",
         "finance",

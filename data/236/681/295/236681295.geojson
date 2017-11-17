@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.515717,45.730293,9.515717,45.730293",
     "geom:latitude":45.730293,
     "geom:longitude":9.515717,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Bergamo 1286 24030 Pontida",
     "sg:city":"Pontida",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1rOH3GuylvIFyn0pFW2w8a_45.730293_9.515717@1306269820"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2e004380384906b85ab8b118bcc58916",
+    "wof:geomhash":"94f8243b2b5a665ec256e2739bdb9485",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":236681295,
-    "wof:lastmodified":1473901735,
+    "wof:lastmodified":1510942467,
     "wof:name":"Valsecchi Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253408143
+    ],
     "wof:tags":[
         "item",
         "household",

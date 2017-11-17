@@ -7,13 +7,16 @@
     "addr:postcode":"22031;22031",
     "addr:street":"Via Civati",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.178787,45.796841,9.178787,45.796841",
     "geom:latitude":45.796841,
     "geom:longitude":9.178787,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Civati 6 22031 Albavilla",
     "sg:city":"Albavilla",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6zxZRbESK0wQxJhC7aT9q0_45.796841_9.178787@1306269851"
     },
     "wof:country":"IT",
-    "wof:geomhash":"addd3324ce613bc545731c697d972b1b",
+    "wof:geomhash":"6c1da440496da1a236decfe3f1a62a6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":287031161,
-    "wof:lastmodified":1473900265,
+    "wof:lastmodified":1510943404,
     "wof:name":"Serates Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091753149
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic",

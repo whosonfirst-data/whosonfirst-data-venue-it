@@ -7,13 +7,16 @@
     "addr:postcode":"56029",
     "addr:street":"S. Croce Sull'Arno",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.396585,43.716137,10.396585,43.716137",
     "geom:latitude":43.716137,
     "geom:longitude":10.396585,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"56029 S. Croce Sull'arno",
     "sg:classifiers":[],
     "sg:orig_category":"Trasporti E Spedizioni Merci",
@@ -32,7 +35,7 @@
         "sg:id":"SG_10oils1jNswcUXvcLmaLHc_43.716137_10.396585@1306269852"
     },
     "wof:country":"IT",
-    "wof:geomhash":"a0a9fea04f968e537aed2def2e06affe",
+    "wof:geomhash":"5a5291ebca1b488dafe74c839b3c8d8d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":287102863,
-    "wof:lastmodified":1473900718,
+    "wof:lastmodified":1510941676,
     "wof:name":"Elle Srl Spedizioni Internazionali",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219312943
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"24050;24050",
     "addr:street":"Serio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.808689,45.59251,9.808689,45.59251",
     "geom:latitude":45.59251,
     "geom:longitude":9.808689,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24050 Mornico Al Serio",
     "sg:city":"Mornico al Serio",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_17LONmfJf5KZrW2UcOsXxo_45.592510_9.808689@1306269834"
     },
     "wof:country":"IT",
-    "wof:geomhash":"77edf11d34a761100ec767b71f30d4d1",
+    "wof:geomhash":"24d418520f38d33b3f6633ae61ad32f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":269589617,
-    "wof:lastmodified":1473900583,
+    "wof:lastmodified":1510942741,
     "wof:name":"Mornico Legnami Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269617565
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

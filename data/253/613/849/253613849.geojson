@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.917196,43.670765,12.917196,43.670765",
     "geom:latitude":43.670765,
     "geom:longitude":12.917196,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Campioli 35 61040 Barchi",
     "sg:city":"Barchi",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
         "sg:id":"SG_4f6vcylQbJYmTRsbjCqptr_43.670765_12.917196@1306269831"
     },
     "wof:country":"IT",
-    "wof:geomhash":"8fc964f69efeea3812b573b88500640a",
+    "wof:geomhash":"9bd4e737f7de89e6d01986fd47065fbf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":253613849,
-    "wof:lastmodified":1473901604,
+    "wof:lastmodified":1510941313,
     "wof:name":"Mode Now Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        286563849
+    ],
     "wof:tags":[]
 },
   "bbox": [

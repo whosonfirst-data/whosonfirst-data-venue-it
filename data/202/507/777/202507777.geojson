@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.548534,45.928867,13.548534,45.928867",
     "geom:latitude":45.928867,
     "geom:longitude":13.548534,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Via Isonzo 25 34070 Mossa",
     "sg:city":"Mossa",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_7XsGlA0KJuoIKexQqYechS_45.928867_13.548534@1306269799"
     },
     "wof:country":"IT",
-    "wof:geomhash":"0995257c86bf2abc6b4d0517ebe62808",
+    "wof:geomhash":"96a21b060fa1038e1ff792367b60d361",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":202507777,
-    "wof:lastmodified":1473900147,
+    "wof:lastmodified":1510943185,
     "wof:name":"Medeot Mario Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        236622045
+    ],
     "wof:tags":[
         "semi-finished"
     ]

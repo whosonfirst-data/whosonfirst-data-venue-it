@@ -7,13 +7,16 @@
     "addr:postcode":"40068",
     "addr:street":"San;San;Bologna",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.428304,44.464806,11.428304,44.464806",
     "geom:latitude":44.464806,
     "geom:longitude":11.428304,
     "iso:country":"IT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"40068 San Lazzaro Di Savena",
     "sg:city":"San Lazzaro",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6bXXyGn0XgnV0umwjcS2BG_44.464806_11.428304@1306269801"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f4cd09743d243015450e4ca8e6d3010c",
+    "wof:geomhash":"70eca46b2cc173e4ad3796295eea00f7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,17 @@
         }
     ],
     "wof:id":202848573,
-    "wof:lastmodified":1473901544,
+    "wof:lastmodified":1510944155,
     "wof:name":"Cervellati Srl",
     "wof:parent_id":85900379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-it",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1091640079,
+        1091725761,
+        320326165,
+        1091725095
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
